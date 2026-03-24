@@ -1,9 +1,18 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-toma-nota-consejos-para-reorganizar-tu-presupuesto-familiar-tras-los-gastos-escolares-1068140.aspx",
+    "title": "Toma nota de consejos para reorganizar tu presupuesto familiar tras los gastos escolares",
+    "snippet": "El inicio del año escolar implica un gasto significativo para muchas familias peruanas, que deben hacer frente a la compra de útiles escolares, uniformes, calzado y libros.",
+    "date": "2026-03-24T10:37:26.553112",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-toma-nota-consejos-para-reorganizar-tu-presupuesto-familiar-tras-los-gastos-escolares-1068140.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-colombia-sube-a-66-numero-fallecidos-accidente-avion-puerto-leguizamo-1068165.aspx",
     "title": "Colombia: sube a 66 el número de fallecidos en accidente de avión en Puerto Leguízamo",
     "snippet": "El accidente de un avión militar este lunes en el suroeste de Colombia dejó 66 muertos y decenas de heridos, lo que lo convierte en uno de los peores ocurridos en este país, dijo a la AFP una fuente de las Fuerzas Militares.",
-    "date": "2026-03-24T07:39:24.832915",
+    "date": "2026-03-24T10:37:26.554820",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-colombia-sube-a-66-numero-fallecidos-accidente-avion-puerto-leguizamo-1068165.aspx",
     "category": "LOGÍSTICA"
@@ -12,7 +21,7 @@
     "id": "https://rpp.pe/1681391",
     "title": "Exportaciones mineras peruanas crecieron 27,2 % en 2025 y alcanzaron casi 63 mil millones de dólares",
     "snippet": "El Ministerio de Energía y Minas (Minem) señaló que este dinamismo observado se sustentó, principalmente, en el mayor aporte de cobre y oro, reflejando tanto el contexto favorable de precios internacionales como la solidez de la demanda en los mercad",
-    "date": "2026-03-24T07:39:25.108818",
+    "date": "2026-03-24T10:37:26.768868",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/exportaciones-mineras-peruanas-crecieron-272-en-2025-y-alcanzaron-los-62-848-millones-de-dolares-segun-el-minem-noticia-1681391",
     "category": "TRIBUTARIO"
@@ -21,7 +30,7 @@
     "id": "https://rpp.pe/1681289",
     "title": "Precio del dólar Perú y tipo de cambio hoy 23 de marzo del 2026",
     "snippet": "En Perú, el tipo de cambio para hoy lunes 23 de marzo es de  S/3.46 según el Banco Central de Reserva Del Perú.",
-    "date": "2026-03-24T07:39:25.109445",
+    "date": "2026-03-24T10:37:26.769545",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-23-de-marzo-del-2026-noticia-1681289",
     "category": "TRIBUTARIO"
@@ -30,7 +39,7 @@
     "id": "https://rpp.pe/1681216",
     "title": "Agroexportaciones peruanas superan los 15 000 millones de dólares en 2025 y consolidan su presencia en el mercado europeo",
     "snippet": "El Midagri señaló que, a través de Senasa, el Perú asegura que la producción nacional cumpla con las estrictas medidas sanitarias y fitosanitarias requeridas por el comercio internacional.",
-    "date": "2026-03-24T07:39:25.109561",
+    "date": "2026-03-24T10:37:26.769666",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/agroexportaciones-peruanas-superan-los-15-000-millones-de-dolares-y-consolidan-su-presencia-en-el-mercado-europeo-noticia-1681216",
     "category": "LEGAL"
@@ -39,16 +48,34 @@
     "id": "https://rpp.pe/1681162",
     "title": "\"No hay, está escaso\": mototaxistas denuncian que alto precio del GLP afecta su trabajo",
     "snippet": "\"El precio normal era 6.50 soles, máximo siete; pero ahora (está) 12 soles, 14 soles. De verdad que las empresas de grifos hacen lo que quieren. Lamentablemente, el pueblo es el que ‘paga pato’ (el perjudicado)\", dijo un mototaxista a RPP.",
-    "date": "2026-03-24T07:39:25.109818",
+    "date": "2026-03-24T10:37:26.769930",
     "source": "RPP ECON",
     "url": "https://rpp.pe/lima/actualidad/glp-mototaxistas-denuncian-que-alto-precio-afecta-su-trabajo-noticia-1681162",
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://portalportuario.cl/?p=426565",
+    "title": "Universal Africa Lines abre segunda oficina en Brasil",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Universal Africa Lines (UAL) anunció la apertura de oficinas en Sao Paulo (Brasil). La\nLa entrada Universal Africa Lines abre segunda oficina en Brasil se publicó primero en PortalPortuario.",
+    "date": "2026-03-24T10:37:28.819082",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/universal-africa-lines-abre-segunda-oficina-en-brasil/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426546",
+    "title": "Samsung Heavy gana pedido por USD 510 millones para construir dos metaneros",
+    "snippet": "Por Redacción PortalPortuario / Agencia Yonhap @PortalPortuario Samsung Heavy Industries Co. anunció que consiguió un contrato por 770.100 millones de\nLa entrada Samsung Heavy gana pedido por USD 510 millones para construir dos metaneros se publicó p",
+    "date": "2026-03-24T10:37:28.819212",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/samsung-heavy-gana-pedido-por-usd-510-millones-para-construir-dos-metaneros/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=426604",
     "title": "Skarv Shipping Solutions recibe buque Peak Skarv 1",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Skarv Shipping Solutions celebró la entrega de su primer buque, el Peak Skarv 1, en China.\nLa entrada Skarv Shipping Solutions recibe buque Peak Skarv 1 se publicó primero en PortalPortuario.",
-    "date": "2026-03-24T07:39:26.459411",
+    "date": "2026-03-24T10:37:28.819898",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/skarv-shipping-solutions-recibe-buque-peak-skarv-1/",
     "category": "MERCADO"
@@ -57,7 +84,7 @@
     "id": "https://portalportuario.cl/?p=426401",
     "title": "Suecia: Crecimiento del transporte ferroviario impulsa volúmenes récord en Puerto de Gotemburgo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El movimiento ferroviario de mercancías entre el norte de Suecia y el Puerto de Gotemburgo continúa\nLa entrada Suecia: Crecimiento del transporte ferroviario impulsa volúmenes récord en Puerto de Gotembu",
-    "date": "2026-03-24T07:39:26.459692",
+    "date": "2026-03-24T10:37:28.820169",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/suecia-crecimiento-del-transporte-ferroviario-impulsa-volumenes-record-en-puerto-de-gotemburgo/",
     "category": "LOGÍSTICA"
@@ -66,7 +93,7 @@
     "id": "https://portalportuario.cl/?p=426655",
     "title": "ONE cierra alianza estratégica con Dongwon Group con inversión en Puerto de Busan",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Ocean Network Express (ONE) cerró un acuerdo de asociación a largo plazo con Dongwon Group mediante\nLa entrada ONE cierra alianza estratégica con Dongwon Group con inversión en Puerto de Busan se publicó",
-    "date": "2026-03-24T07:39:26.459783",
+    "date": "2026-03-24T10:37:28.820262",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/one-cierra-alianza-estrategica-con-dongwon-group-con-inversion-en-puerto-de-busan/",
     "category": "LOGÍSTICA"
@@ -75,7 +102,7 @@
     "id": "https://portalportuario.cl/?p=426485",
     "title": "MSC actualiza recargo por combustible de emergencia en rutas de Europa y Mediterráneo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Mediterranean Shipping Company (MSC) informó que actualizará el recargo por combustible de emergencia (EFS) para toda\nLa entrada MSC actualiza recargo por combustible de emergencia en rutas de Europa y M",
-    "date": "2026-03-24T07:39:26.460105",
+    "date": "2026-03-24T10:37:28.820613",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/msc-actualiza-recargo-por-combustible-de-emergencia-en-rutas-de-europa-y-mediterraneo/",
     "category": "MERCADO"
@@ -84,7 +111,7 @@
     "id": "https://portalportuario.cl/?p=426494",
     "title": "Ucrania: Mas de 180 ataques rusos se han registrado en los puertos nacionales durante 2026",
     "snippet": "Por Redacción PortalPortuario / Agencia Ukrinform @PortalPortuario El viceprimer ministro de Recuperación y ministro de Desarrollo de Comunidades de Ucrania,\nLa entrada Ucrania: Mas de 180 ataques rusos se han registrado en los puertos nacionales dur",
-    "date": "2026-03-24T07:39:26.460351",
+    "date": "2026-03-24T10:37:28.820876",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/ucrania-mas-de-180-ataques-rusos-se-han-registrado-en-los-puertos-nacionales-durante-2026/",
     "category": "LOGÍSTICA"
@@ -93,43 +120,16 @@
     "id": "https://portalportuario.cl/?p=426483",
     "title": "Sudáfrica: Transnet adjudica a operador de terminal de granel líquido en Puerto de Ciudad del Cabo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria Nacional de Transnet (TNPA) seleccionó a FFS Tank Terminals como la empresa adjudicataria\nLa entrada Sudáfrica: Transnet adjudica a operador de terminal de granel líquido en Puerto",
-    "date": "2026-03-24T07:39:26.460448",
+    "date": "2026-03-24T10:37:28.820983",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/sudafrica-transnet-adjudica-a-operador-de-terminal-de-granel-liquido-en-puerto-de-ciudad-del-cabo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=426415",
-    "title": "Puerto de Londres alcanza en 2025 su nivel comercial más alto en 50 años",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El comercio a través del Puerto de Londres alcanzó su nivel más alto en 50 años\nLa entrada Puerto de Londres alcanza en 2025 su nivel comercial más alto en 50 años se publicó primero en PortalPortuario.",
-    "date": "2026-03-24T07:39:26.460529",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-londres-alcanza-en-2025-su-nivel-comercial-mas-alto-en-50-anos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=426480",
-    "title": "Cavotec recibe pedido para entregar suministro eléctrico a puertos del sur de Italia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Cavotec recibió un pedido por 3 millones de euros para el suministro de sistemas de alimentación\nLa entrada Cavotec recibe pedido para entregar suministro eléctrico a puertos del sur de Italia se publicó",
-    "date": "2026-03-24T07:39:26.460632",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/cavotec-recibe-pedido-para-entregar-suministro-electrico-a-puertos-del-sur-de-italia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=426399",
-    "title": "Autoridad Portuaria de Cádiz y Endesa inauguran sistema de energía en tierra",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto de Cádiz y Endesa inauguraron la primera instalación de OPS (Onshore Power Supply) de España,\nLa entrada Autoridad Portuaria de Cádiz y Endesa inauguran sistema de energía en tierra se publicó pri",
-    "date": "2026-03-24T07:39:26.460720",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/autoridad-portuaria-de-cadiz-y-endesa-inauguran-sistema-de-energia-en-tierra/",
     "category": "LOGÍSTICA"
   },
   {
     "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346515/how-national-security-and-one-country-two-systems-go-hand-hand?utm_source=rss_feed",
     "title": "How national security and ‘one country, two systems’ go hand in hand",
     "snippet": "On February 10, China’s State Council Information Office released a white paper titled “Hong Kong: Safeguarding China’s National Security Under the Framework of One Country, Two Systems”. This is the third white paper issued by the Chinese central go",
-    "date": "2026-03-24T07:39:27.759518",
+    "date": "2026-03-24T10:37:30.271176",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346515/how-national-security-and-one-country-two-systems-go-hand-hand?utm_source=rss_feed",
     "category": "MERCADO"
@@ -138,7 +138,7 @@
     "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346468/mainland-style-oversight-system-could-help-legco-deliver?utm_source=rss_feed",
     "title": "Mainland-style oversight system could help Legco to deliver",
     "snippet": "After the annual “two sessions” in Beijing, it’s clear that Hong Kong policymakers have their work cut out for them. It has been made abundantly clear what is expected of Hong Kong: stop messing around and get on with the national programme.\nHong Kon",
-    "date": "2026-03-24T07:39:27.759899",
+    "date": "2026-03-24T10:37:30.271572",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346468/mainland-style-oversight-system-could-help-legco-deliver?utm_source=rss_feed",
     "category": "MERCADO"
@@ -147,7 +147,7 @@
     "id": "https://www.scmp.com/news/hong-kong/politics/article/3346399/hong-kongs-john-lee-pledges-align-chinas-new-5-year-plan?utm_source=rss_feed",
     "title": "Hong Kong’s John Lee pledges to align with nation’s new 5-year plan",
     "snippet": "Hong Kong’s leader has pledged to align with national strategies outlined in the country’s latest five-year plan and transform the city’s “new positionings, functions and missions” assigned by Beijing into “tangible outcomes” to drive economic growth",
-    "date": "2026-03-24T07:39:27.760543",
+    "date": "2026-03-24T10:37:30.272230",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3346399/hong-kongs-john-lee-pledges-align-chinas-new-5-year-plan?utm_source=rss_feed",
     "category": "MERCADO"
@@ -156,7 +156,7 @@
     "id": "https://www.scmp.com/news/hong-kong/politics/article/3346246/how-will-hong-kong-follow-mainland-chinas-ethnic-unity-promotion-law?utm_source=rss_feed",
     "title": "How will Hong Kong follow mainland China’s ethnic unity promotion law?",
     "snippet": "Hong Kong should step up education on Chinese history and culture while highlighting security threats to cultivate public awareness about the need to defend the country, experts have said, as the nation’s legislature is set to pass a law promoting et",
-    "date": "2026-03-24T07:39:27.760782",
+    "date": "2026-03-24T10:37:30.272398",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3346246/how-will-hong-kong-follow-mainland-chinas-ethnic-unity-promotion-law?utm_source=rss_feed",
     "category": "MERCADO"
@@ -165,7 +165,7 @@
     "id": "https://www.scmp.com/news/hong-kong/politics/article/3345994/hong-kong-legco-explore-mainland-style-oversight-system-bills-enforcement?utm_source=rss_feed",
     "title": "Hong Kong Legco to explore mainland-style oversight system for bills enforcement",
     "snippet": "Hong Kong’s legislature will consider establishing a dedicated mechanism to scrutinise the implementation of approved bills and funding, drawing inspiration from mainland China’s law enforcement inspection system, according to its president.\nLegislat",
-    "date": "2026-03-24T07:39:27.760943",
+    "date": "2026-03-24T10:37:30.272567",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3345994/hong-kong-legco-explore-mainland-style-oversight-system-bills-enforcement?utm_source=rss_feed",
     "category": "MERCADO"
@@ -174,7 +174,7 @@
     "id": "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international",
     "title": "Will the next iPhone charge wirelessly?",
     "snippet": "The days of plugging in an iPhone to charge won't last forever.",
-    "date": "2026-03-24T07:39:28.462127",
+    "date": "2026-03-24T10:37:31.031004",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international",
     "category": "MERCADO"
@@ -183,7 +183,7 @@
     "id": "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international",
     "title": "Swiss voters reject corporate tax overhaul",
     "snippet": "Read full story for latest details.",
-    "date": "2026-03-24T07:39:28.462182",
+    "date": "2026-03-24T10:37:31.031070",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international",
     "category": "TRIBUTARIO"
@@ -192,7 +192,7 @@
     "id": "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international",
     "title": "Apple stock nears record high",
     "snippet": "Apple stock is less than $1 away from its all-time high amid renewed optimism for the iPhone.",
-    "date": "2026-03-24T07:39:28.462239",
+    "date": "2026-03-24T10:37:31.031132",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international",
     "category": "MERCADO"
@@ -201,16 +201,70 @@
     "id": "https://www.bbc.com/news/articles/cwyvxejqyx4o#1",
     "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
     "snippet": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
-    "date": "2026-03-24T07:39:28.738443",
+    "date": "2026-03-24T10:37:31.221252",
     "source": "BBC BIZ",
     "url": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
   },
   {
+    "id": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-que-hemos-alcanzado-que-viene-lobo-ia-perfecta-para-alimentar-a-tamagotchi",
+    "title": "Jensen Huang cree que hemos alcanzado el \"que viene el lobo de la IA\". Es perfecta para alimentar a un Tamagotchi",
+    "snippet": "La inteligencia artificial se ha convertido en una liga de fútbol. Hay divisiones en las que se persiguen títulos como tener la IA más potente, la más rápida, la más capaz en una tarea concreta o la más polivalente, pero el objetivo es llegar a ser c",
+    "date": "2026-03-24T10:37:31.745322",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-que-hemos-alcanzado-que-viene-lobo-ia-perfecta-para-alimentar-a-tamagotchi",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/iran-ha-comenzado-peligrosa-cuenta-atras-asi-que-todos-miran-al-sitio-ucrania-secreto-su-escudo-energetico",
+    "title": "Una peligrosa cuenta atrás termina en cuatro días en Irán. Así que todos miran al mismo sitio: Ucrania y el secreto de su escudo energético",
+    "snippet": "En 1973 bastó una decisión política para desatar una crisis energética global. Hoy, ese mismo efecto puede provocarlo un enjambre de drones o unas pocas minas navales. Mientras tanto, las infraestructuras que sostienen el suministro mundial siguen si",
+    "date": "2026-03-24T10:37:31.747329",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/iran-ha-comenzado-peligrosa-cuenta-atras-asi-que-todos-miran-al-sitio-ucrania-secreto-su-escudo-energetico",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla",
+    "title": "OpenAI ha llegado a una conclusión: si quiere imponerse a Anthropic, necesita más manos. Así que va a duplicar su plantilla",
+    "snippet": "OpenAI acaba de darse cuenta de que habían estado lanzando productos sin ton ni son y necesitan enfocarse en algo. Y ese algo es el sector empresarial, donde una Anthropic con un plan de negocio mucho más claro les ha estado comiendo terreno. Para co",
+    "date": "2026-03-24T10:37:31.748263",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/hay-televisores-75-pulgadas-que-cuestan-500-euros-ultimo-caer-precio-ha-sido-xiaomi-google-tv",
+    "title": "Hay televisores de 75 pulgadas que ya cuestan menos de 500 euros. El último en caer de precio ha sido un Xiaomi con Google TV",
+    "snippet": "Poco a poco vamos viendo más ofertas en teles con diagonales que superan las 55 pulgadas, y lo cierto es que sus precios en muchas ocasiones suelen ser bastante bajos. MediaMarkt, por ejemplo, tiene solo hoy (durante El Gran Renove) la Xiaomi A Pro d",
+    "date": "2026-03-24T10:37:31.749379",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/hay-televisores-75-pulgadas-que-cuestan-500-euros-ultimo-caer-precio-ha-sido-xiaomi-google-tv",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/abrir-empresa-sola-visita-a-administracion-suena-a-utopia-china-ley-hace-anos",
+    "title": "Abrir una empresa en una sola visita a la administración suena a utopía. En China es ley desde hace años",
+    "snippet": "La burocracia es, probablemente, una de las pocas cosas en las que existe un consenso casi absoluto: todo el mundo la odia. Hacer cola de ventanilla en ventanilla, descubrir que te falta una fotocopia, volver otro día porque el funcionario que firma ",
+    "date": "2026-03-24T10:37:31.749997",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/abrir-empresa-sola-visita-a-administracion-suena-a-utopia-china-ley-hace-anos",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/ia-que-te-conoce-no-te-espia-apuesta-lenovo-para-diferenciarse-mercado-saturado-chatbots",
+    "title": "La IA que te conoce pero no te espía: la apuesta de Lenovo para diferenciarse en un mercado saturado de chatbots",
+    "snippet": "Hace menos de un año, los equipos de IA de Lenovo trabajaban en silos, en islas independientes unas de otras. Los ingenieros de los Motorola no hablaban con los de los ThinkPad. Los de las tablets iban a lo suyo. Y las experiencias de IA que salían a",
+    "date": "2026-03-24T10:37:31.751392",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/ia-que-te-conoce-no-te-espia-apuesta-lenovo-para-diferenciarse-mercado-saturado-chatbots",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/sistema-inmunitario-tiene-nuevo-anzuelo-cancer-prostata-asi-funcionan-celulas-t-turbo",
     "title": "El sistema inmunitario tiene un nuevo \"anzuelo\" contra el cáncer de próstata: así funcionan las células T \"con turbo\"",
     "snippet": "El sistema inmunitario en nuestro organismo es una máquina biológica fascinante que nos protege ante cualquier tipo de amenaza, como por ejemplo las odiosas células tumorales. Pero estas células son realmente inteligentes, y tienen la capacidad de ca",
-    "date": "2026-03-24T07:39:29.243798",
+    "date": "2026-03-24T10:37:31.752453",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/sistema-inmunitario-tiene-nuevo-anzuelo-cancer-prostata-asi-funcionan-celulas-t-turbo",
     "category": "TRIBUTARIO"
@@ -219,7 +273,7 @@
     "id": "https://www.xataka.com/empresas-y-economia/yuanjie-desconocida-empresa-china-tecnologia-fotonica-cuyas-acciones-han-subido-780-sorpresa-quien-esta-detras-huawei",
     "title": "Yuanjie es la desconocida empresa china de tecnología fotónica cuyas acciones han subido un 780%. La sorpresa es quién está detrás: Huawei",
     "snippet": "Yuanjie Semiconductor Technology probablemente no te suene de nada. Y es completamente normal. Hasta hace muy poco, esta compañía china apenas tenía visibilidad fuera de su mercado doméstico, e incluso dentro de él jugaba en un segundo plano frente a",
-    "date": "2026-03-24T07:39:29.244483",
+    "date": "2026-03-24T10:37:31.753189",
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/yuanjie-desconocida-empresa-china-tecnologia-fotonica-cuyas-acciones-han-subido-780-sorpresa-quien-esta-detras-huawei",
     "category": "TRIBUTARIO"
@@ -228,7 +282,7 @@
     "id": "https://www.xataka.com/musica/bienvenidos-a-era-concierto-artista-soda-stereo-vuelve-proyectando-pantalla-a-musico-que-murio-hace-12-anos",
     "title": "La espectacularización de los conciertos llega a su punto más fúnebre: Soda Stereo está tocando con uno de sus miembros fallecido",
     "snippet": "El 21 de marzo de 2026, Charly Alberti y Zeta Bosio subieron al Movistar Arena de Buenos Aires junto a pantallas que reproducían la voz y la guitarra del fallecido tercer vértice del triángulo Soda Stereo, Gustavo Cerati. En ellas se mostraban grabac",
-    "date": "2026-03-24T07:39:29.245606",
+    "date": "2026-03-24T10:37:31.754355",
     "source": "XATAKA",
     "url": "https://www.xataka.com/musica/bienvenidos-a-era-concierto-artista-soda-stereo-vuelve-proyectando-pantalla-a-musico-que-murio-hace-12-anos",
     "category": "TRIBUTARIO"
@@ -237,7 +291,7 @@
     "id": "https://www.xataka.com/componentes/obligan-a-apple-a-elegir-estados-unidos-china-tim-cook-tiene-clarisimo-cual-se-queda",
     "title": "Si obligan a Apple a elegir entre Estados Unidos y China, Tim Cook tiene clarísimo con cuál se queda",
     "snippet": "Los CEO tecnológicos están de gira, y apuntan hacia el este. Hace unos días, Lisa Su, mandamás de AMD, fue a visitar Samsung por primera vez. El resultado es un contrato para que la surcoreana fabrique la memoria de última generación para la platafor",
-    "date": "2026-03-24T07:39:29.245914",
+    "date": "2026-03-24T10:37:31.754687",
     "source": "XATAKA",
     "url": "https://www.xataka.com/componentes/obligan-a-apple-a-elegir-estados-unidos-china-tim-cook-tiene-clarisimo-cual-se-queda",
     "category": "TRIBUTARIO"
@@ -246,7 +300,7 @@
     "id": "https://www.xataka.com/medicina-y-salud/fin-monopolio-ozempic-esta-aqui-algunos-paises-lluvia-genericos-que-promete-hundir-precios",
     "title": "India y China ya tienen su \"Ozempic barato\". En España tendremos que esperar aún varios años",
     "snippet": "El medicamento que revolucionó la industria farmacéutica y cambió para siempre el paradigma del tratamiento de la obesidad y la diabetes tipo 2, como es Ozempic, se enfrenta a su mayor reto: el fin de su patente de comercialización. En concreto, la p",
-    "date": "2026-03-24T07:39:29.246706",
+    "date": "2026-03-24T10:37:31.755554",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/fin-monopolio-ozempic-esta-aqui-algunos-paises-lluvia-genericos-que-promete-hundir-precios",
     "category": "TRIBUTARIO"
@@ -255,7 +309,7 @@
     "id": "https://www.xataka.com/movilidad/dia-primera-carrera-formula-e-espana-circuito-jarama-resucita-quejas-vecinales",
     "title": "Un día en la primera carrera de la Fórmula E en España: el Circuito del Jarama resucita entre quejas vecinales",
     "snippet": "Son las 8:30 de la mañana y cae una fina lluvia en el Circuito del Jarama. Quien ya conoce la zona prevé un día poco apacible. El circuito madrileño parece tener uno de esos microclimas que se rige por sus propias leyes. No hay AEMET ni hombre del ti",
-    "date": "2026-03-24T07:39:29.248878",
+    "date": "2026-03-24T10:37:31.757862",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/dia-primera-carrera-formula-e-espana-circuito-jarama-resucita-quejas-vecinales",
     "category": "TRIBUTARIO"
@@ -264,7 +318,7 @@
     "id": "https://www.xataka.com/cine-y-tv/netflix-esta-poniendo-huevos-cesta-formato-fisico-dvd-4k-se-estan-convirtiendo-nuevo-vinilo",
     "title": "Netflix se resistió durante años al Blu-ray. Stranger Things ha convencido a la plataforma de que ahí hay dinero",
     "snippet": "Arrow Video y Netflix acaban de anunciar la edición de 'Stranger Things' completa en Blu-ray y 4K UHD, con dos variantes y fecha de lanzamiento prevista para julio de 2026 en Reino Unido. Es la primera vez que la serie llega al soporte físico, y aquí",
-    "date": "2026-03-24T07:39:29.250259",
+    "date": "2026-03-24T10:37:31.759387",
     "source": "XATAKA",
     "url": "https://www.xataka.com/cine-y-tv/netflix-esta-poniendo-huevos-cesta-formato-fisico-dvd-4k-se-estan-convirtiendo-nuevo-vinilo",
     "category": "TRIBUTARIO"
@@ -273,7 +327,7 @@
     "id": "https://www.xataka.com/empresas-y-economia/dubai-ha-dejado-ser-oasis-desierto-para-millonarios-guerra-iran-ha-ahuyentado-a-millonarios",
     "title": "Irán se fijó como objetivo acabar con Dubái: la huida masiva de inversores y millonarios sugiere que lo ha conseguido",
     "snippet": "Durante años, Dubái ha sido la tierra prometida para millonarios de todo el planeta que veía en Emiratos Árabes Unidos un lugar idílico para vivir sin pagar impuestos. Los ataques iraníes con misiles y drones a distintas infraestructuras de Dubái en ",
-    "date": "2026-03-24T07:39:29.251242",
+    "date": "2026-03-24T10:37:31.760489",
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/dubai-ha-dejado-ser-oasis-desierto-para-millonarios-guerra-iran-ha-ahuyentado-a-millonarios",
     "category": "TRIBUTARIO"
@@ -282,70 +336,16 @@
     "id": "https://www.xataka.com/movilidad/diesel-ha-superado-precio-a-gasolina-98-esto-nos-afecta-a-todos-tengamos-coche-no",
     "title": "Resolviendo el mayor misterio de la actual crisis del petróleo: por qué el diésel está mucho más caro que al gasolina",
     "snippet": "El conflicto entre Estados Unidos, Israel e Irán ha puesto patas arriba la industria energética, lo que ha desembocado en una agresiva escalada del precio del combustible. El diésel ha subido tanto y tan rápido que ya se sitúa por encima del precio d",
-    "date": "2026-03-24T07:39:29.252865",
+    "date": "2026-03-24T10:37:31.762225",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/diesel-ha-superado-precio-a-gasolina-98-esto-nos-afecta-a-todos-tengamos-coche-no",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/estados-unidos-cree-que-asfixiara-a-iran-tomando-su-mayor-terminal-petrolera-olvidan-detalle-teheran-tiene-gigantesco-plan-b",
-    "title": "EEUU cree que asfixiará a Irán tomando la isla de Kharg. Hay un detalle: Teherán tiene un gigantesco \"Plan B\"",
-    "snippet": "\"Un solo tiro contra uno de nuestros hombres o barcos, y le haría un buen arreglo a la isla de Kharg. Entraría y la tomaría\". La frase podría haber sido escrita esta misma mañana en la red social Truth Social, pero tiene casi cuarenta años. El presid",
-    "date": "2026-03-24T07:39:29.253807",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/estados-unidos-cree-que-asfixiara-a-iran-tomando-su-mayor-terminal-petrolera-olvidan-detalle-teheran-tiene-gigantesco-plan-b",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/apple-ha-conseguido-record-historico-ventas-macbook-neo-su-semana-lanzamiento-sorpresa-absolutamente-nula",
-    "title": "Apple ha roto un récord histórico de ventas con el MacBook Neo en su primera semana. La sorpresa es absolutamente nula",
-    "snippet": "El propio Tim Cook lo confirmaba hace unos días en X. Y es que Apple ha conseguido batir su propio récord con ayuda del MacBook Neo en cuanto a ventas, pues se trata del mejor lanzamiento de un Mac para nuevos usuarios en toda su historia. El tema es",
-    "date": "2026-03-24T07:39:29.254917",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/apple-ha-conseguido-record-historico-ventas-macbook-neo-su-semana-lanzamiento-sorpresa-absolutamente-nula",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/eventos/apple-confirma-fecha-wwdc26-deja-entrever-algo-importante-ia-no-sera-unico-foco",
-    "title": "Apple confirma la fecha de la WWDC26 y deja entrever algo importante: la IA no será el único foco",
-    "snippet": "Si te interesa lo que Apple está preparando para los próximos meses, ya puedes empezar a marcar una fecha en el calendario, porque la compañía ha confirmado cuándo celebrará su próxima gran cita para desarrolladores. La WWDC26 arrancará el 8 de junio",
-    "date": "2026-03-24T07:39:29.255808",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/eventos/apple-confirma-fecha-wwdc26-deja-entrever-algo-importante-ia-no-sera-unico-foco",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/masa-aire-polar-se-descolgara-espana-justo-antes-semana-santa-aemet-habla-frio-polar-nevadas-importantes",
-    "title": "Nevadas importantes, frío polar y tormentas: lo que AEMET ya intuye para España justo antes de la Semana Santa",
-    "snippet": "El día clave será el miércoles 26. Será entonces cuando, a las puertas de la Semana Santa, una masa de aire polar se internará en el territorio nacional dejando frío y nieve durante la última semana de marzo. Y sí, eso es lo que nos importa ahora mis",
-    "date": "2026-03-24T07:39:29.256602",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/masa-aire-polar-se-descolgara-espana-justo-antes-semana-santa-aemet-habla-frio-polar-nevadas-importantes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/cofradia-sagunto-ha-cerrado-sus-puertas-a-mujeres-semana-santa-decision-amenaza-salirle-cara-a-todo-pueblo",
-    "title": "Una cofradía de Sagunto ha decidido excluir a las mujeres de la Semana Santa: la tradición se impone a la igualdad",
-    "snippet": "¿Qué pesa más, la tradición o la igualdad? Parece una pregunta caprichosa, pero es exactamente la misma que ayer tuvieron que plantearse cientos de cofrades de Sagunto. Allí los miembros de Sang de Sagunt han tenido que tomar una decisión polémica co",
-    "date": "2026-03-24T07:39:29.258055",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/cofradia-sagunto-ha-cerrado-sus-puertas-a-mujeres-semana-santa-decision-amenaza-salirle-cara-a-todo-pueblo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/no-necesitas-hacer-malabares-para-navegar-forma-segura-esta-vpn-sencillisimo-puedes-usar-todos-tus-dispositivos",
-    "title": "Con una sola cuenta de Surfshark, tienes VPN en todos tus dispositivos. Y por 1,88 euros al mes",
-    "snippet": "Privacidad y más seguridad mientras navegamos en Internet. Eso es justo lo que nos puede dar una VPN, que por norma general se activa en solo unos segundos. Aunque hay opciones gratuitas que nos pueden servir para un momento puntual, a la larga merec",
-    "date": "2026-03-24T07:39:29.258866",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/no-necesitas-hacer-malabares-para-navegar-forma-segura-esta-vpn-sencillisimo-puedes-usar-todos-tus-dispositivos",
     "category": "TRIBUTARIO"
   },
   {
     "id": "https://techcrunch.com/?p=3104948",
     "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones",
     "snippet": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity researchers.",
-    "date": "2026-03-24T07:39:29.342487",
+    "date": "2026-03-24T10:37:31.910182",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
     "category": "MERCADO"
@@ -354,7 +354,7 @@
     "id": "https://techcrunch.com/?p=3104925",
     "title": "Zipline snaps up another $200M to fuel its drone delivery expansion",
     "snippet": "The funding adds to a previous round, announced in January,  that valued the drone startup at $7.6 billion.",
-    "date": "2026-03-24T07:39:29.342525",
+    "date": "2026-03-24T10:37:31.910228",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/",
     "category": "MERCADO"
@@ -363,7 +363,7 @@
     "id": "e7c6f7ec-1696-4a17-83da-49b8e10a8dad",
     "title": "Shark Cordless Vacuums Are on Sale at Amazon. Here Are the 2 I Recommend",
     "snippet": "Most of Shark's cordless vacuum models are on sale during Amazon's Big Spring Sale, and I've tested quite a few. These two deals stand out.",
-    "date": "2026-03-24T07:39:29.430999",
+    "date": "2026-03-24T10:37:32.059959",
     "source": "CNET",
     "url": "https://www.cnet.com/deals/shark-stratos-cordless-vacuum-amazon-spring-sale/",
     "category": "MERCADO"
@@ -372,25 +372,25 @@
     "id": "4f12acce-51dc-4801-8349-d4081c471065",
     "title": "Wing Drone Deliveries Are Expanding to the San Francisco Bay Area This Year",
     "snippet": "Some Bay Area residents will be able to get groceries and meals delivered by drone.",
-    "date": "2026-03-24T07:39:29.431060",
+    "date": "2026-03-24T10:37:32.060043",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/computing/wing-drone-delivery-expanding-san-francisco-bay-area-2026/",
     "category": "MERCADO"
   },
   {
-    "id": "3cd6c858-f258-4098-b480-705f6767dc27",
-    "title": "Save $70 and Get a Free Game With Asus ROG Cetra Wireless Dual-Mode Gaming Buds",
-    "snippet": "The ROG Cetra True SpeedNova earbuds are marked down to $150 ahead of Amazon's Spring Sale.",
-    "date": "2026-03-24T07:39:29.431185",
-    "source": "CNET",
-    "url": "https://www.cnet.com/deals/asus-rog-cetra-wireless-dual-mode-gaming-earbuds-amazon-deal-free-resident-evil/",
+    "id": "19444744-6b21-4fe1-8a8c-dd1b8a510f1e",
+    "title": "Denon expands its multi-room speaker lineup with the Home 200, Home 400 and Home 600",
+    "snippet": "If the Sonos app saga still has you down, Denon has three new multi-room speakers that give you some fresh alternatives. The company’s Home 200, Home 400 and Home 600 offer audio flexibility with other HEOS-enabled products. These new devices were al",
+    "date": "2026-03-24T10:37:33.001792",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/audio/speakers/denon-expands-its-multi-room-speaker-lineup-with-the-home-200-home-400-and-home-600-080000916.html?src=rss",
     "category": "MERCADO"
   },
   {
     "id": "a0b7bde9-29a4-4b6c-8660-1eae850de167",
     "title": "The US bans all new foreign-made network routers",
     "snippet": "The Federal Communications Commission has released a notice today designating any consumer routers manufactured outside the US as a security risk. The rule states that new foreign-made product models for network routers will land on the Covered List,",
-    "date": "2026-03-24T07:39:30.085097",
+    "date": "2026-03-24T10:37:33.002073",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/big-tech/the-us-bans-all-new-foreign-made-network-routers-223622966.html?src=rss",
     "category": "MERCADO"
@@ -399,7 +399,7 @@
     "id": "ffe0287c-b92e-45c4-817c-42307a41f5c2",
     "title": "Apple will reportedly start stuffing ads into the Maps app",
     "snippet": "Apple is reportedly planning on inserting ads into the Maps app, according to Bloomberg's Mark Gurman. An announcement could come as soon as this month, with the ads themselves appearing on iPhones this summer.\nThis will likely work similarly to ads ",
-    "date": "2026-03-24T07:39:30.086022",
+    "date": "2026-03-24T10:37:33.003016",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/apps/apple-will-reportedly-start-stuffing-ads-into-the-maps-app-182311634.html?src=rss",
     "category": "MERCADO"
@@ -408,7 +408,7 @@
     "id": "66ce9fce-3daa-4a2f-ab59-7036f4178918",
     "title": "Wing expands its drone delivery service to the Bay Area",
     "snippet": "Wing's drone deliveries are coming full circle after adding Bay Area to its service locations. The drone delivery startup has been rapidly expanding to metro areas across the US, but is now targeting the tech-friendly Silicon Valley region.\nGoing bac",
-    "date": "2026-03-24T07:39:30.086160",
+    "date": "2026-03-24T10:37:33.003169",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/transportation/wing-expands-its-drone-delivery-service-to-the-bay-area-175748410.html?src=rss",
     "category": "MERCADO"
@@ -417,7 +417,7 @@
     "id": "110cde23-8ee3-4690-a71d-48d92b2efce0",
     "title": "Apple's WWDC 2026 is set for June 8-12",
     "snippet": "Apple announced that this year's Worldwide Developers Conference (WWDC) will take place from June 8-12. The company tends to be consistent with event timing, so it's no surprise that CEO Tim Cook will take the stage for the keynote on June 8, most li",
-    "date": "2026-03-24T07:39:30.086359",
+    "date": "2026-03-24T10:37:33.003391",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/apps/apples-wwdc-2026-is-set-for-june-8-12-171359493.html?src=rss",
     "category": "MERCADO"
@@ -426,7 +426,7 @@
     "id": "a9651ca0-1841-4193-93d1-aafc76f2ed00",
     "title": "Polymarket is cracking down on insider trading with updated rules",
     "snippet": "Polymarket announced that it's taking insider trading more seriously. Seen in its latest press release, the prediction market updated its market integrity rules, specifically those concerning insider trading and market manipulation. While Polymarket ",
-    "date": "2026-03-24T07:39:30.086678",
+    "date": "2026-03-24T10:37:33.003726",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/big-tech/polymarket-is-cracking-down-on-insider-trading-with-updated-rules-163928655.html?src=rss",
     "category": "MERCADO"
@@ -435,7 +435,7 @@
     "id": "09731d95-e28c-4d5f-be64-f6a558b7502c",
     "title": "Billionaire OnlyFans owner Leonid Radvinsky has died from cancer at 43",
     "snippet": "Leonid Radvinsky, the billionaire owner of OnlyFans, has died. He passed \"peacefully after a long battle with cancer\" at age 43, according to a statement from the platform published by Forbes. He was born in Ukraine, but grew up in Chicago.\nRadvinsky",
-    "date": "2026-03-24T07:39:30.087985",
+    "date": "2026-03-24T10:37:33.005094",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/big-tech/billionaire-onlyfans-owner-leonid-radvinsky-has-died-from-cancer-at-43-163211324.html?src=rss",
     "category": "MERCADO"
@@ -444,7 +444,7 @@
     "id": "9455edd1-552d-4566-865f-8c299a53ccfc",
     "title": "LG Sound Suite review: Dolby Atmos FlexConnect in a powerful package",
     "snippet": "The premise seems simple enough. LG promises that you can set its Sound Suite speakers anywhere and Dolby’s home theater tech will make them perform well. The soundbar, subwoofer and speakers don’t have to go in prescribed locations for the best resu",
-    "date": "2026-03-24T07:39:30.088845",
+    "date": "2026-03-24T10:37:33.006003",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/audio/speakers/lg-sound-suite-review-dolby-atmos-flexconnect-in-a-powerful-package-160000544.html?src=rss",
     "category": "LEGAL"
@@ -453,7 +453,7 @@
     "id": "f4fa8ef5-b4b0-426e-91b9-837756075cc8",
     "title": "Wheely, an on-demand chauffeur app, makes its US debut in NYC",
     "snippet": "When the Uber Black isn't premium enough, New Yorkers now have the option to call for a Wheely instead. Whimsical name aside, the London-based company is breaking into the US market by offering its chauffeur-hailing services to residents of New York ",
-    "date": "2026-03-24T07:39:30.089049",
+    "date": "2026-03-24T10:37:33.006222",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/transportation/wheely-an-on-demand-chauffeur-app-makes-its-us-debut-in-nyc-143233840.html?src=rss",
     "category": "TRIBUTARIO"
@@ -462,7 +462,7 @@
     "id": "e7c9b9e0-7a83-4e9a-ae91-89a84b512304",
     "title": "Samsung's Galaxy S26 will get Apple AirDrop support starting today",
     "snippet": "As Google promised, Apple AirDrop sharing is expanding to more Android devices. Samsung announced today that its Galaxy S26 Series is getting AirDrop support through the Quick Share feature.\nGoogle first introduced the Quick Share feature on its Pixe",
-    "date": "2026-03-24T07:39:30.089820",
+    "date": "2026-03-24T10:37:33.007016",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/mobile/smartphones/samsungs-galaxy-s26-will-get-apple-airdrop-support-starting-today-110452832.html?src=rss",
     "category": "MERCADO"
@@ -471,7 +471,7 @@
     "id": "2f5bf40c-5b05-433f-9aa9-a8f38c9637b9",
     "title": "Crimson Desert developer apologizes and promises to replace AI-generated art",
     "snippet": "The developer behind the open-world RPG Crimson Desert has issued an official apology after players discovered several instances of AI-generated art in the game. Pearl Abyss posted on X that it released the game with some 2D visual props that were ma",
-    "date": "2026-03-24T07:39:30.090636",
+    "date": "2026-03-24T10:37:33.007871",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/gaming/crimson-desert-developer-apologizes-and-promises-to-replace-ai-generated-art-183716439.html?src=rss",
     "category": "MERCADO"
@@ -480,18 +480,9 @@
     "id": "fe319a1b-f927-459d-ae51-5df7610daf73",
     "title": "Elon Musk announces Terafab project he claims will be the 'largest chip manufacturing facility ever'",
     "snippet": "Elon Musk has announced the Terafab project, a joint venture between Tesla, SpaceX and xAI, to build the \"largest chip manufacturing facility ever.\" In his usual grandiose fashion, Musk claims Terafab is the next step towards harnessing the power of ",
-    "date": "2026-03-24T07:39:30.090833",
+    "date": "2026-03-24T10:37:33.008093",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/science/elon-musk-announces-terafab-project-he-claims-will-be-the-largest-chip-manufacturing-facility-ever-171718545.html?src=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "b17c69a4-d5f6-4eaa-ba70-39109de922fa",
-    "title": "Reddit is weighing identity verification methods to combat its bot problem",
-    "snippet": "There could be one more step required before creating an account and posting on Reddit in the future. According to Reddit's CEO, Steve Huffman, the social media platform is exploring different ways to verify a user is human and not a bot. When asked ",
-    "date": "2026-03-24T07:39:30.091932",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/social-media/reddit-is-weighing-identity-verification-methods-to-combat-its-bot-problem-195814671.html?src=rss",
     "category": "MERCADO"
   }
 ]
