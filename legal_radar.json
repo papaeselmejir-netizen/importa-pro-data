@@ -1,1 +1,26 @@
-
+[
+  {
+    "category": "Celulares",
+    "status": "restringida",
+    "entity": "MTC",
+    "url": "https://casilla.mtc.gob.pe/",
+    "requirements": ["Permiso de Internamiento VUCE", "Homologación de equipo", "RUC con giro de negocio"],
+    "warning": "Máximo 3 unidades al año como persona natural sin RUC.",
+    "keywords": ["iphone", "smartphone", "xiaomi", "samsung", "celular"],
+    "permitProcess": [
+      "Ingresar a VUCE con tu RUC y Clave SOL.",
+      "Seleccionar el formulario MTC-003.",
+      "Adjuntar Factura y Ficha Técnica."
+    ]
+  },
+  {
+    "category": "Maquillaje",
+    "status": "restringida",
+    "entity": "DIGEMID",
+    "url": "https://www.digemid.minsa.gob.pe/",
+    "requirements": ["Registro Sanitario", "RUC de Droguería"],
+    "warning": "Persona Natural: Máximo 4 unidades para uso personal.",
+    "keywords": ["labial", "skincare", "maquillaje", "crema"],
+    "permitProcess": ["Contar con RUC de Droguería.", "Tramitar NSOC en VUCE."]
+  }
+]
