@@ -1,16 +1,18 @@
 name: Lux News Bot
 on:
   schedule:
-    - cron: '0 * * * *' # Corre automáticamente cada 60 minutos
-  workflow_dispatch:   # Te permite correrlo manualmente con un botón
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       - name: Install dependencies
@@ -21,6 +23,16 @@ jobs:
         run: |
           git config --global user.name 'LuxBot'
           git config --global user.email 'bot@importapro.com'
+          
+          # 1. Agregamos el archivo generado
           git add news.json
-          git commit -m "Radar Update: $(date)" || echo "No hay cambios"
-          git push
+          
+          # 2. Intentamos el commit (si no hay cambios, no pasa nada)
+          if git commit -m "Radar Update: $(date)"; then
+            # 3. LÍNEA MAESTRA: Se sincroniza con la nube antes de subir
+            git pull --rebase origin main
+            # 4. Sube los cambios finales
+            git push origin main
+          else
+            echo "Sin novedades en el radar."
+          fi

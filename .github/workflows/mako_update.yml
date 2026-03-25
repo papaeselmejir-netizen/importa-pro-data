@@ -1,0 +1,27 @@
+name: MAKO Rate Update
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Cada 12 horas
+  workflow_dispatch: # Para ejecutarlo manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run Scraper
+        run: python cambio.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "LuxBot"
+          git config --global user.email "bot@mako.pro"
+          git add rate.json
+          git commit -m "Radar Update: $(date)" || exit 0
+          git push
