@@ -1,9 +1,18 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-conoce-como-proteger-tus-utilidades-frente-a-escenarios-inflacion-1068319.aspx",
+    "title": "Conoce cómo proteger tus utilidades frente a escenarios de inflación",
+    "snippet": "El pago de utilidades llega este año en un contexto en el que el bolsillo puede verse presionado por factores que muchas veces aparecen sin previo aviso. La principal pregunta ya no es solo en qué gastar este ingreso adicional, sino cómo usarlo de fo",
+    "date": "2026-03-25T11:29:43.107779",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conoce-como-proteger-tus-utilidades-frente-a-escenarios-inflacion-1068319.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mincetur-instala-grupo-trabajo-sectorial-para-fortalecer-gestion-de-vuce-1068357.aspx",
     "title": "Mincetur instala grupo de trabajo sectorial para fortalecer la gestión de la VUCE",
     "snippet": "El Ministerio de Comercio Exterior y Turismo (Mincetur), gracias al impulso del ministro José Reyes Llanos, instaló el Grupo de Trabajo Sectorial encargado de formular propuestas para mejorar la gestión organizacional vinculada a la Ventanilla Única ",
-    "date": "2026-03-25T08:06:50.669005",
+    "date": "2026-03-25T11:29:43.108615",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-mincetur-instala-grupo-trabajo-sectorial-para-fortalecer-gestion-de-vuce-1068357.aspx",
     "category": "LEGAL"
@@ -12,7 +21,7 @@
     "id": "https://andina.pe/agencia/noticia-temblor-el-callao-esta-noche-se-registro-un-sismo-magnitud-35-1068349.aspx",
     "title": "Temblor en el Callao: esta noche se registró un sismo de magnitud 3.5",
     "snippet": "Un sismo de magnitud 3.5 remeció esta noche la provincia del Callao, generando preocupación entre la población chalaca, especialmente en viviendas o departamentos ubicados en los pisos altos.",
-    "date": "2026-03-25T08:06:50.669439",
+    "date": "2026-03-25T11:29:43.109063",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-temblor-el-callao-esta-noche-se-registro-un-sismo-magnitud-35-1068349.aspx",
     "category": "LOGÍSTICA"
@@ -21,25 +30,25 @@
     "id": "https://andina.pe/agencia/noticia-lamas-mtc-avanza-modernizacion-puentes-clave-para-dinamizar-economia-rural-1068347.aspx",
     "title": "Lamas: MTC avanza en modernización de puentes clave para dinamizar economía rural",
     "snippet": "El ministro de Transportes y Comunicaciones, Aldo Prieto Barrera, sostuvo una reunión de trabajo con el alcalde provincial de Lamas, May Díaz Pérez, en la que se presentaron y evaluaron proyectos viales estratégicos para esta provincia de la región S",
-    "date": "2026-03-25T08:06:50.669480",
+    "date": "2026-03-25T11:29:43.109104",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-lamas-mtc-avanza-modernizacion-puentes-clave-para-dinamizar-economia-rural-1068347.aspx",
     "category": "LEGAL"
   },
   {
-    "id": "https://andina.pe/agencia/noticia-talento-peruano-crean-microscopio-celular-para-detectar-enfermedades-zonas-rurales-1068342.aspx",
-    "title": "Talento peruano: crean microscopio con celular para detectar enfermedades en zonas rurales",
-    "snippet": "El talento joven peruano vuelve a dar de qué hablar. La startup Ñawiscope, desarrollada por estudiantes de la Universidad Católica de Santa María (UCSM), fue reconocida internacionalmente al obtener el tercer lugar en el programa “Impact Startup Comp",
-    "date": "2026-03-25T08:06:50.669916",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-talento-peruano-crean-microscopio-celular-para-detectar-enfermedades-zonas-rurales-1068342.aspx",
-    "category": "MERCADO"
+    "id": "https://rpp.pe/1681546",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 25 de marzo del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy miércoles 25 de marzo es de  S/3.46 según el Banco Central de Reserva Del Perú.",
+    "date": "2026-03-25T11:29:43.344740",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-25-de-marzo-del-2026-noticia-1681546",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://rpp.pe/1681469",
     "title": "Sunat: Cronograma de declaración de renta inicia este 26 de marzo y más de 130 mil contribuyentes ya cumplieron esta obligación",
     "snippet": "La entidad destacó que estas empresas y negocios se adelantaron a las fechas de vencimiento, que se inician el 26 de marzo e irán hasta el 13 de abril.",
-    "date": "2026-03-25T08:06:50.929673",
+    "date": "2026-03-25T11:29:43.345395",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/sunat-cronograma-de-declaracion-de-renta-inicia-este-26-de-marzo-y-mas-de-130-mil-contribuyentes-ya-cumplieron-esta-obligacion-noticia-1681469",
     "category": "TRIBUTARIO"
@@ -48,7 +57,7 @@
     "id": "https://rpp.pe/1681438",
     "title": "Indecopi inicia investigación por presunto dumping de llantas chinas tras denuncia de Goodyear: ¿de qué trata?",
     "snippet": "Investigación del Indecopi determinará si las llantas para autos provenientes de China están ingresando al Perú a precios artificialmente bajos, lo que podría afectar a la industria nacional.",
-    "date": "2026-03-25T08:06:50.930095",
+    "date": "2026-03-25T11:29:43.345823",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/indecopi-inicia-investigacion-por-presunto-dumping-de-llantas-chinas-tras-denuncia-de-goodyear-noticia-1681438",
     "category": "MERCADO"
@@ -57,7 +66,7 @@
     "id": "https://rpp.pe/1681411",
     "title": "Precio del dólar Perú y tipo de cambio hoy 24 de marzo del 2026",
     "snippet": "En Perú, el tipo de cambio para hoy martes 24 de marzo es de  S/3.46 según el Banco Central de Reserva Del Perú.",
-    "date": "2026-03-25T08:06:50.930143",
+    "date": "2026-03-25T11:29:43.345871",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-24-de-marzo-del-2026-noticia-1681411",
     "category": "TRIBUTARIO"
@@ -66,16 +75,52 @@
     "id": "https://rpp.pe/1681391",
     "title": "Exportaciones mineras peruanas crecieron 27,2 % en 2025 y alcanzaron casi 63 mil millones de dólares",
     "snippet": "El Ministerio de Energía y Minas (Minem) señaló que este dinamismo observado se sustentó, principalmente, en el mayor aporte de cobre y oro, reflejando tanto el contexto favorable de precios internacionales como la solidez de la demanda en los mercad",
-    "date": "2026-03-25T08:06:50.930186",
+    "date": "2026-03-25T11:29:43.345915",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/exportaciones-mineras-peruanas-crecieron-272-en-2025-y-alcanzaron-los-62-848-millones-de-dolares-segun-el-minem-noticia-1681391",
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://portalportuario.cl/?p=426786",
+    "title": "Georgia Ports: Puerto Interior de Gainesville abrirá sus puertas en mayo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El nuevo puerto interior de la Autoridad Portuaria de Georgia (GPA) en Gainesville, Georgia, abrirá sus\nLa entrada Georgia Ports: Puerto Interior de Gainesville abrirá sus puertas en mayo se publicó prim",
+    "date": "2026-03-25T11:29:45.552961",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/georgia-ports-puerto-interior-de-gainesville-abrira-sus-puertas-en-mayo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426908",
+    "title": "Noruega: Puerto de Arendal adjudica a Asplan Viak diseño de Fase 1 de buque RoPax",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Arendal (Arendal Havn) adjudicó a Asplan Viak el contrato para el diseño detallado de\nLa entrada Noruega: Puerto de Arendal adjudica a Asplan Viak diseño de Fase 1 de buque RoPax se publicó ",
+    "date": "2026-03-25T11:29:45.553068",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/noruega-puerto-de-arendal-adjudica-a-asplan-viak-diseno-de-fase-1-de-buque-ropax/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426779",
+    "title": "Puerto de Tarragona mueve 5,1 millones de toneladas en primeros dos meses de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Tarragona informó que el movimiento acumulado de mercancías alcanzó los 5,11 millones de\nLa entrada Puerto de Tarragona mueve 5,1 millones de toneladas en primeros dos meses de 2026 se publi",
+    "date": "2026-03-25T11:29:45.553155",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-tarragona-mueve-51-millones-de-toneladas-en-primeros-dos-meses-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426791",
+    "title": "Cifran volumen de comercio en USD 4.555 millones en Puerto de Warrenpoint",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En 2024, el Puerto de Warrenpoint facilitó un volumen de comercio de USD 4.555 millones, generando\nLa entrada Cifran volumen de comercio en USD 4.555 millones en Puerto de Warrenpoint se publicó primero ",
+    "date": "2026-03-25T11:29:45.553228",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cifran-volumen-de-comercio-en-usd-4-555-millones-en-puerto-de-warrenpoint/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=426615",
     "title": "Argelia: Discuten en Puerto de Béjaia implementación de trabajo continuo y medidas para reducir esperas",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Una reunión con altas autoridades portuarias y políticas de Argelia se materializó en el Puerto de\nLa entrada Argelia: Discuten en Puerto de Béjaia implementación de trabajo continuo y medidas para reduc",
-    "date": "2026-03-25T08:06:53.190651",
+    "date": "2026-03-25T11:29:45.553329",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/argelia-discuten-en-puerto-de-bejaia-implementacion-de-trabajo-continuo-y-medidas-para-reducir-esperas/",
     "category": "LOGÍSTICA"
@@ -84,25 +129,16 @@
     "id": "https://portalportuario.cl/?p=426647",
     "title": "Eco Wave Power se expande a Taiwán proyecto de energía undimotriz de Puerto de Suao",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El desarrollador de tecnología de energía undimotriz Eco Wave Power Global anunció un hito clave en\nLa entrada Eco Wave Power se expande a Taiwán proyecto de energía undimotriz de Puerto de Suao se publi",
-    "date": "2026-03-25T08:06:53.191405",
+    "date": "2026-03-25T11:29:45.554118",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/eco-wave-power-se-expande-a-taiwan-proyecto-de-energia-undimotriz-de-puerto-de-suao/",
     "category": "LOGÍSTICA"
   },
   {
-    "id": "https://portalportuario.cl/?p=426622",
-    "title": "Buque eólico Canopée consolida acceso soberano de Europa al espacio con transporte de partes del Ariane 6",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El carguero eólico Canopée, diseñado específicamente para el programa Ariane 6, está garantizando el acceso independiente\nLa entrada Buque eólico Canopée consolida acceso soberano de Europa al espacio co",
-    "date": "2026-03-25T08:06:53.192622",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/buque-eolico-canopee-consolida-acceso-soberano-de-europa-al-espacio-con-transporte-de-partes-del-ariane-6/",
-    "category": "MERCADO"
-  },
-  {
     "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347762/hidden-gurus-will-be-able-decrypt-devices-hong-kong-national-security-cases?utm_source=rss_feed",
     "title": "‘Specified persons’ will be able to decrypt devices in Hong Kong national security cases",
     "snippet": "Hong Kong authorities will be able to demand any “specified person” decrypt electronic devices during national security investigations and may punish suspects who provide wrong passwords or falsely claim to have forgotten them, the security chief has",
-    "date": "2026-03-25T08:06:54.668693",
+    "date": "2026-03-25T11:29:46.768999",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347762/hidden-gurus-will-be-able-decrypt-devices-hong-kong-national-security-cases?utm_source=rss_feed",
     "category": "MERCADO"
@@ -111,7 +147,7 @@
     "id": "https://www.scmp.com/news/hong-kong/politics/article/3347761/hong-kong-meet-uncertainty-openness-john-lee-tells-boao-forum-asia?utm_source=rss_feed",
     "title": "Hong Kong to meet uncertainty with openness, John Lee tells Boao Forum for Asia",
     "snippet": "Hong Kong will respond to uncertainty brought by intensifying geopolitical tensions “with openness rather than isolation”, Chief Executive John Lee Ka-chiu has pledged at an annual forum in Hainan, calling on economies to join hands to promote free t",
-    "date": "2026-03-25T08:06:54.668859",
+    "date": "2026-03-25T11:29:46.769171",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3347761/hong-kong-meet-uncertainty-openness-john-lee-tells-boao-forum-asia?utm_source=rss_feed",
     "category": "MERCADO"
@@ -120,7 +156,7 @@
     "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346515/how-national-security-and-one-country-two-systems-go-hand-hand?utm_source=rss_feed",
     "title": "How national security and ‘one country, two systems’ go hand in hand",
     "snippet": "On February 10, China’s State Council Information Office released a white paper titled “Hong Kong: Safeguarding China’s National Security Under the Framework of One Country, Two Systems”. This is the third white paper issued by the Chinese central go",
-    "date": "2026-03-25T08:06:54.669856",
+    "date": "2026-03-25T11:29:46.770176",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346515/how-national-security-and-one-country-two-systems-go-hand-hand?utm_source=rss_feed",
     "category": "MERCADO"
@@ -129,7 +165,7 @@
     "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346468/mainland-style-oversight-system-could-help-legco-deliver?utm_source=rss_feed",
     "title": "Mainland-style oversight system could help Legco to deliver",
     "snippet": "After the annual “two sessions” in Beijing, it’s clear that Hong Kong policymakers have their work cut out for them. It has been made abundantly clear what is expected of Hong Kong: stop messing around and get on with the national programme.\nHong Kon",
-    "date": "2026-03-25T08:06:54.670230",
+    "date": "2026-03-25T11:29:46.770548",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346468/mainland-style-oversight-system-could-help-legco-deliver?utm_source=rss_feed",
     "category": "MERCADO"
@@ -138,7 +174,7 @@
     "id": "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international",
     "title": "Will the next iPhone charge wirelessly?",
     "snippet": "The days of plugging in an iPhone to charge won't last forever.",
-    "date": "2026-03-25T08:06:55.421590",
+    "date": "2026-03-25T11:29:47.320720",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international",
     "category": "MERCADO"
@@ -147,7 +183,7 @@
     "id": "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international",
     "title": "Swiss voters reject corporate tax overhaul",
     "snippet": "Read full story for latest details.",
-    "date": "2026-03-25T08:06:55.421647",
+    "date": "2026-03-25T11:29:47.320783",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international",
     "category": "TRIBUTARIO"
@@ -156,52 +192,124 @@
     "id": "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international",
     "title": "Apple stock nears record high",
     "snippet": "Apple stock is less than $1 away from its all-time high amid renewed optimism for the iPhone.",
-    "date": "2026-03-25T08:06:55.421704",
+    "date": "2026-03-25T11:29:47.320845",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international",
     "category": "MERCADO"
   },
   {
+    "id": "https://www.xataka.com/robotica-e-ia/disney-queria-que-todos-sus-fans-crearan-contenido-ia-sus-personajes-caida-sora-tendra-que-buscar-otro-socio",
+    "title": "Se suponía que Disney había apostado su futuro a Sora y a la IA: ahora el acuerdo de 1.000 millones se ha esfumado",
+    "snippet": "OpenAI ha anunciado el cierre de Sora, su app de generación de vídeos cortos con IA que lanzó hace seis meses, inmersa en una tremenda expectación. La consecuencia más inmediata, más allá de que se hayan puesto sobre la mesa innumerables dudas sobre ",
+    "date": "2026-03-25T11:29:47.763623",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/disney-queria-que-todos-sus-fans-crearan-contenido-ia-sus-personajes-caida-sora-tendra-que-buscar-otro-socio",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/cierre-sora-senal-openai-da-paso-atras-carrera-ia-para-recalibrarse-al-completo",
+    "title": "El cierre de Sora es una señal inquietante: OpenAI da un paso atrás en la carrera de la IA para recalibrarse al completo",
+    "snippet": "OpenAI ha cerrado Sora. Su IA generativa de vídeo que ha mostrado con orgullo en numerosas ocasiones y que le valió un jugoso acuerdo de 1.000 millones de dólares con Disney ya no existe. La noticia cayó como una bomba hace unas horas seguida de la r",
+    "date": "2026-03-25T11:29:47.764734",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/cierre-sora-senal-openai-da-paso-atras-carrera-ia-para-recalibrarse-al-completo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/mg-nos-desvela-secretos-mg-solidcore-battery-primeras-baterias-semisolidas-para-coche-electrico-que-llegaran-a-europa",
+    "title": "MG nos desvela los secretos de MG SolidCore Battery, las primeras baterías semisólidas para coche eléctrico que llegarán a Europa",
+    "snippet": "Sin los juegos de luces que preceden a un gran anuncio pero con la seguridad de quien sabe que tiene algo bueno entre manos. MG nos citó en Frankfurt, nos reunió a las afueras de la ciudad y nos lo puso delante de nuestros ojos. El coche y sus herram",
+    "date": "2026-03-25T11:29:47.766156",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/mg-nos-desvela-secretos-mg-solidcore-battery-primeras-baterias-semisolidas-para-coche-electrico-que-llegaran-a-europa",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/eeuu-ha-enviado-a-iran-15-puntos-para-poner-fin-a-guerra-se-niegan-a-firmarlo-tiene-plan-b-explosivo-como-desconcertante",
+    "title": "EEUU ha enviado a Irán 15 puntos para poner fin a la guerra. También ha enviado un plan B tan explosivo como desconcertante por el aire",
+    "snippet": "En la Guerra Fría, Estados Unidos y la Unión Soviética llegaron a mantener negociaciones abiertas mientras, al mismo tiempo, desplegaban miles de tropas y armamento nuclear en puntos clave del planeta. En realidad, aquella lógica de hablar y presiona",
+    "date": "2026-03-25T11:29:47.768396",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/eeuu-ha-enviado-a-iran-15-puntos-para-poner-fin-a-guerra-se-niegan-a-firmarlo-tiene-plan-b-explosivo-como-desconcertante",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/hornos-lavadoras-frigorificos-descuentos-660-euros-ultima-oportunidad-aprovechar-rebajas-marzo-aeg",
+    "title": "Hornos, lavadoras, frigoríficos y más con descuentos de hasta 660 euros: última oportunidad de aprovechar las rebajas de marzo de AEG",
+    "snippet": "Quizás no es tan común como en móviles o teles, pero de vez en cuando también tenemos promos de electrodomésticos. ¿Necesitas una nueva lavadora? ¿Estás buscando un nuevo frigorífico? No importa si buscas uno de estos o algo más relacionado con la li",
+    "date": "2026-03-25T11:29:47.770554",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/hornos-lavadoras-frigorificos-descuentos-660-euros-ultima-oportunidad-aprovechar-rebajas-marzo-aeg",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/basics/novedades-ios-26-4-todos-cambios-mejoras-ultima-actualizacion-para-iphone-e-ipad",
+    "title": "Novedades de iOS 26.4: todos los cambios y mejoras de la última actualización para iPhone e iPad",
+    "snippet": "Vamos a decirte cuales son las novedades de iOS 26.4, la nueva actualización con funciones adicionales para iOS 26 que acaba de ser lanzada. Se trata de una actualización algo descafeinada, incluso decepcionante, ya que no incluyen las funciones de i",
+    "date": "2026-03-25T11:29:47.771465",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/novedades-ios-26-4-todos-cambios-mejoras-ultima-actualizacion-para-iphone-e-ipad",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/mercadona-quiso-averiguar-portugal-su-formula-negocio-funciona-fuera-espana-tiene-respuesta",
+    "title": "Mercadona quiso averiguar en Portugal si su fórmula de negocio funciona fuera de España. Ya tiene la respuesta",
+    "snippet": "Su apuesta por la marca blanca, el surtido en corto, los alimentos listos para comer y la expansión territorial ha permitido a Mercadona hacerse con casi el 30% del mercado español, superando con creces a sus competidores del retail. Eso no es ningun",
+    "date": "2026-03-25T11:29:47.772284",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/mercadona-quiso-averiguar-portugal-su-formula-negocio-funciona-fuera-espana-tiene-respuesta",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/tiendas-margen-beneficio-record-inditex-ha-encontrado-forma-distinta-crecer",
+    "title": "Inditex está creciendo más despacio y ganando más dinero que nunca: el secreto consiste en dejar de abrir tiendas",
+    "snippet": "Hay una forma de leer los resultados de Inditex en 2025 que los hace parecer algo decepcionantes. Las ventas han crecido un 3,2%, hasta 39.864 millones. El beneficio ha subido un 6%, hasta 6.220 millones. Son cifras récord, sí, pero el año anterior l",
+    "date": "2026-03-25T11:29:47.773338",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/tiendas-margen-beneficio-record-inditex-ha-encontrado-forma-distinta-crecer",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/otros-dispositivos/hay-gente-modificando-su-router-dejen-aparecer-anuncios-su-nevera",
-    "title": "Hay gente modificando su router para que dejen de aparecer anuncios en su nevera",
+    "title": "Los frigoríficos ahora tienen anuncios, así que hay gente modificando su router para que no le aparezcan todo el rato",
     "snippet": "Un hombre ha tenido que instalar un bloqueador de anuncios directamente en su router para que su nevera de 1.400 dólares deje de mostrar anuncios. Lo cuentan en el Wall Street Journal y, aunque suena absurdo, es sólo una de las experiencias de los af",
-    "date": "2026-03-25T08:06:56.136543",
+    "date": "2026-03-25T11:29:47.773918",
     "source": "XATAKA",
     "url": "https://www.xataka.com/otros-dispositivos/hay-gente-modificando-su-router-dejen-aparecer-anuncios-su-nevera",
     "category": "TRIBUTARIO"
   },
   {
     "id": "https://www.xataka.com/espacio/nasa-ha-puesto-a-espanol-al-frente-proyecto-su-futura-base-lunar-malagueno-carlos-garcia-galan",
-    "title": "La NASA ha puesto a un español al frente del proyecto de su futura base lunar: el malagueño Carlos García-Galán",
+    "title": "La NASA ya está planificando cómo será su futura base en la Luna: al frente del proyecto hay un ingeniero malagueño",
     "snippet": "Vestido con americana, camisa celeste y corbata dorada, Carlos García-Galán no ocupaba una silla más en la conferencia de la NASA celebrada en Washington. Escoltado por el administrador Jared Isaacman y otros responsables de primer nivel, el ingenier",
-    "date": "2026-03-25T08:06:56.137503",
+    "date": "2026-03-25T11:29:47.774845",
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/nasa-ha-puesto-a-espanol-al-frente-proyecto-su-futura-base-lunar-malagueno-carlos-garcia-galan",
     "category": "TRIBUTARIO"
   },
   {
     "id": "https://www.xataka.com/medicina-y-salud/llevamos-anos-creyendo-que-primavera-nos-agota-ciencia-dice-que-nos-estamos-inventando",
-    "title": "Llevamos toda la vida culpando a la primavera de nuestro cansancio. La ciencia acaba de demostrar que hemos vivido engañados",
+    "title": "El mito de la \"astenia primaveral\": lo único que pasa en el cambio de estación es que todos estamos agotados",
     "snippet": "Llega marzo, los días se alargan, suben las temperaturas y de repente nuestro cuerpo comienza a llenarse de una sensación de cansancio, apatía y somnolencia que se apodera de nosotros. Tradicionalmente, esto es considerado como 'astenia primaveral', ",
-    "date": "2026-03-25T08:06:56.138794",
+    "date": "2026-03-25T11:29:47.776173",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-creyendo-que-primavera-nos-agota-ciencia-dice-que-nos-estamos-inventando",
     "category": "TRIBUTARIO"
   },
   {
     "id": "https://www.xataka.com/moviles/eventos-todos-hemos-vivido-red-no-siempre-responde-orange-quiere-ponerle-remedio-cobrando-extra",
-    "title": "En los eventos todos hemos vivido lo mismo: la red no siempre responde. Orange quiere ponerle remedio cobrando un extra",
+    "title": "Orange ha tenido una idea: cuando la red se sature, ofrecerte acceso prioritario al 5G si pagas más dinero",
     "snippet": "En los grandes eventos hay un momento que todos reconocemos: estamos en un concierto, en una feria o en una celebración multitudinaria y justo cuando necesitamos el móvil, la conexión no responde como debería. Queremos enviar una ubicación o publicar",
-    "date": "2026-03-25T08:06:56.139663",
+    "date": "2026-03-25T11:29:47.777090",
     "source": "XATAKA",
     "url": "https://www.xataka.com/moviles/eventos-todos-hemos-vivido-red-no-siempre-responde-orange-quiere-ponerle-remedio-cobrando-extra",
     "category": "TRIBUTARIO"
   },
   {
     "id": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo",
-    "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
+    "title": "Adiós a Sora: OpenAI \"mata\" a su herramienta de vídeo generado por IA menos de año y medio después de su lanzamiento",
     "snippet": "Hubo un momento en el que OpenAI parecía avanzar sin mirar atrás, sumando un lanzamiento tras otro mientras el resto del sector intentaba seguirle el ritmo. En ese escenario apareció Sora, presentado en febrero de 2024 como un modelo capaz de generar",
-    "date": "2026-03-25T08:06:56.140456",
+    "date": "2026-03-25T11:29:47.777925",
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo",
     "category": "TRIBUTARIO"
@@ -210,97 +318,34 @@
     "id": "https://www.xataka.com/movilidad/rebasar-30-km-h-zonas-escolares-puede-salirte-caro-este-estado-mexicano-multas-2-346-pesos",
     "title": "Rebasar los 30 km/h en zonas escolares puede salirte caro en este estado mexicano: multas de hasta 2,346 pesos",
     "snippet": "Si manejas por Querétaro y sueles pasar frente a escuelas, hay un dato que te conviene tener muy presente para no llevarte una sorpresa. Rebasar los 30 km/h en zonas escolares públicas puede traducirse en una multa de hasta 2,346 pesos y también en l",
-    "date": "2026-03-25T08:06:56.141333",
+    "date": "2026-03-25T11:29:47.778860",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/rebasar-30-km-h-zonas-escolares-puede-salirte-caro-este-estado-mexicano-multas-2-346-pesos",
     "category": "TRIBUTARIO"
   },
   {
     "id": "https://www.xataka.com/energia/estados-unidos-llevaba-20-anos-fabricar-su-uranio-critico-acaba-resucitar-su-produccion-viejo-truco-metalurgia",
-    "title": "Estados Unidos llevaba 20 años sin fabricar su uranio más crítico. Acaba de resucitar su producción con un viejo truco de la metalurgia",
+    "title": "Estados Unidos llevaba 20 años sin fabricar su uranio más crítico: acaba de resucitarlo con un viejo truco de la metalurgia",
     "snippet": "En las colinas de Oak Ridge, Tennessee, se encuentra un lugar que lleva el peso de la historia contemporánea en sus cimientos: el Complejo de Seguridad Nacional Y-12. Según los archivos del Departamento de Energía de EEUU (DOE), estas instalaciones n",
-    "date": "2026-03-25T08:06:56.142710",
+    "date": "2026-03-25T11:29:47.780326",
     "source": "XATAKA",
     "url": "https://www.xataka.com/energia/estados-unidos-llevaba-20-anos-fabricar-su-uranio-critico-acaba-resucitar-su-produccion-viejo-truco-metalurgia",
     "category": "TRIBUTARIO"
   },
   {
-    "id": "https://www.xataka.com/empresas-y-economia/tres-familias-controlan-55-riqueza-grandes-fortunas-espana-amancio-ortega-rafael-pino-juan-roig",
-    "title": "Tres familias controlan el 57% de la riqueza de las grandes fortunas en España: las de Amancio Ortega, Rafael del Pino y Juan Roig",
-    "snippet": "A diferencia de lo que sucede en EEUU, las fortunas de los millonarios en España han ido cocinando a fuego lento durante décadas. Crecen despacio, pero sin parar. En España, solo tres apellidos concentran una riqueza que supera de largo los 166.250 m",
-    "date": "2026-03-25T08:06:56.143572",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/tres-familias-controlan-55-riqueza-grandes-fortunas-espana-amancio-ortega-rafael-pino-juan-roig",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/china-lleva-anos-preparandose-pacientemente-para-gran-crisis-energetica-global-ahora-recoge-sus-frutos",
-    "title": "China lleva años preparándose pacientemente para una gran crisis energética global. Y ahora recoge sus frutos",
-    "snippet": "La Tercera Guerra del Golfo ya está aquí y el mercado global del crudo se asoma al abismo. El bloqueo del estrecho de Ormuz ha desatado un pánico logístico sin precedentes y ha catapultado el barril de Brent muy por encima de los 100 dólares. El páni",
-    "date": "2026-03-25T08:06:56.144795",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/china-lleva-anos-preparandose-pacientemente-para-gran-crisis-energetica-global-ahora-recoge-sus-frutos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/mexico-esta-desarrollando-su-primer-coche-electrico-olinia-a-puebla-le-ha-tocado-loteria-responsabilidad",
-    "title": "México está desarrollando su primer coche eléctrico y a Puebla le ha caído la responsabilidad de entregarlo: Olinia",
-    "snippet": "México tiene un plan: el ‘Plan México’. Es la hoja de ruta para atraer inversión y desarrollar industrias como la de la biotecnología, la de los semiconductores o la de los coches eléctricos. Con los aranceles, México se ha dado cuenta de que debe de",
-    "date": "2026-03-25T08:06:56.145515",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/mexico-esta-desarrollando-su-primer-coche-electrico-olinia-a-puebla-le-ha-tocado-loteria-responsabilidad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/te-descargas-torrente-presidente-santiago-segura-tiene-para-ti-mensaje-que-te-descargabas-torrente-3",
-    "title": "Si te descargas 'Torrente Presidente', Santiago Segura tiene para ti el mismo mensaje que si te descargabas 'Torrente 3'",
-    "snippet": "Quien intente descargar 'Torrente, presidente' por vías no oficiales se encontrará, en lugar de la película, con un mensaje en vídeo de Santiago Segura pidiéndole que vaya al cine. No es la primera vez: el director madrileño lleva usando esta misma t",
-    "date": "2026-03-25T08:06:56.146357",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/te-descargas-torrente-presidente-santiago-segura-tiene-para-ti-mensaje-que-te-descargabas-torrente-3",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/peru-esta-comprobando-que-hay-algo-peor-que-masificacion-turistica-que-sufre-japon-que-turistas-dejen-llegar",
-    "title": "Perú está comprobando que hay algo  peor que la masificación turística de Japón: que los turistas dejen de llegar",
-    "snippet": "Desde hace un par de años, casi día sí y día también, Japón es noticia por su avalancha de turistas y los problemas que esa masificación está dejando en el país. No ocurre solo allí. En Italia, Corea del Sur, Nepal, Hawái o Países Bajos no son ajenos",
-    "date": "2026-03-25T08:06:56.147473",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/peru-esta-comprobando-que-hay-algo-peor-que-masificacion-turistica-que-sufre-japon-que-turistas-dejen-llegar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/movistar-plus-activa-su-plan-gratuito-programas-completos-mucho-contenido-seas-operador-que-seas",
-    "title": "Movistar Plus+ activa su Plan Gratuito con programas completos y mucho contenido, seas del operador que seas",
-    "snippet": "Pese a que Movistar Plus+ está disponible para no clientes de la compañía, tenemos nuevo giro de guion. La plataforma ha anunciado hoy la llegada de Plan Gratuito, una modalidad de acceso que es totalmente gratis y que nos permitirá ver un montón de ",
-    "date": "2026-03-25T08:06:56.148515",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/movistar-plus-activa-su-plan-gratuito-programas-completos-mucho-contenido-seas-operador-que-seas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ejercito-reino-unido-acaba-detener-petrolero-rusia-gibraltar-problema-que-ahora-pueden-ir-armados",
-    "title": "Reino Unido acaba de detener un petrolero de Rusia en Gibraltar. El problema es la posibilidad de que vayan armados",
-    "snippet": "España controla uno de los pasos marítimos más transitados del planeta: por el Estrecho de Gibraltar cruzan cada año más de 100.000 buques, incluidos miles de petroleros. A apenas unos kilómetros de sus costas, circula buena parte del crudo que alime",
-    "date": "2026-03-25T08:06:56.150131",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ejercito-reino-unido-acaba-detener-petrolero-rusia-gibraltar-problema-que-ahora-pueden-ir-armados",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/terence-tao-mejor-matematico-mundo-ha-reconocido-que-esta-usando-ia-para-resolver-uno-problemas-milenio",
-    "title": "Terence Tao es el mejor matemático del mundo: ha reconocido que está usando la IA para resolver uno de los Problemas del Milenio",
-    "snippet": "Afirmar con rotundidad qué persona es la mejor del mundo en algo es arriesgado. Si nos ceñimos a la investigación de vanguardia en el ámbito de las matemáticas el alemán Peter Scholze, el británico James Maynard o el chino-estadounidense Yitang Zhang",
-    "date": "2026-03-25T08:06:56.151296",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/terence-tao-mejor-matematico-mundo-ha-reconocido-que-esta-usando-ia-para-resolver-uno-problemas-milenio",
-    "category": "TRIBUTARIO"
+    "id": "https://techcrunch.com/?p=3105379",
+    "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+    "snippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+    "date": "2026-03-25T11:29:47.858344",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+    "category": "MERCADO"
   },
   {
     "id": "https://techcrunch.com/?p=3104823",
     "title": "A former Thiel fellow’s startup just launched a drone it says can replace police helicopters",
     "snippet": "Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry.",
-    "date": "2026-03-25T08:06:56.222218",
+    "date": "2026-03-25T11:29:47.858409",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
     "category": "MERCADO"
@@ -309,7 +354,7 @@
     "id": "https://techcrunch.com/?p=3105855",
     "title": "Amazon just bought a startup making kid-size humanoid robots",
     "snippet": "The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.",
-    "date": "2026-03-25T08:06:56.222269",
+    "date": "2026-03-25T11:29:47.858452",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
     "category": "MERCADO"
@@ -318,7 +363,7 @@
     "id": "https://techcrunch.com/?p=3105345",
     "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
     "snippet": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
-    "date": "2026-03-25T08:06:56.222741",
+    "date": "2026-03-25T11:29:47.858958",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
     "category": "MERCADO"
@@ -327,43 +372,25 @@
     "id": "2b6dbcef-51fb-4e1c-97f3-31679971a845",
     "title": "The BlackBerry-Esque Smartphone With a Full Keyboard Just Launched on Kickstarter",
     "snippet": "This Android smartphone with a tactile QWERTY keyboard has already raised over $2.1 million.",
-    "date": "2026-03-25T08:06:56.340581",
+    "date": "2026-03-25T11:29:48.007306",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/mobile/titan-2-elite-launched-kickstarter/",
     "category": "MERCADO"
   },
   {
-    "id": "0cff243e-6263-4fc9-acda-0e41e40a8b35",
-    "title": "Samsung's 2026 QLED and Mini LED TVs Boast AI Soccer Mode",
-    "snippet": "The company outlines four new models, ranging from 43 to 100 inches, starting at $350.",
-    "date": "2026-03-25T08:06:56.340787",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/home-entertainment/samsungs-2026-qled-tvs-boast-ai-soccer-mode/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "c5f99dc7-81ba-4405-b78a-a0cfe05cca4f",
-    "title": "Apple Watch Series 11 vs. Series 10: Is the New Smartwatch Worth the Upgrade?",
-    "snippet": "These two almost identical Apple Watch models seem suspiciously similar, but a few changes in the new one make it worth comparing their features.",
-    "date": "2026-03-25T08:06:56.340821",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apple-watch-series-11-vs-series-10/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "1bc01435-c6b2-49b0-8329-a32ea1e0c119",
-    "title": "Amazon's Big Spring Sale Is Tomorrow. Our Readers Are Already Eyeing These Tech Deals",
-    "snippet": "The top trending gadgets are some of our favorites, too.",
-    "date": "2026-03-25T08:06:56.340884",
-    "source": "CNET",
-    "url": "https://www.cnet.com/deals/amazons-big-spring-sale-is-tomorrow-our-readers-are-already-eyeing-these-tech-deals/",
-    "category": "MERCADO"
+    "id": "348ac916-38dc-4867-abfc-285beff8ae26",
+    "title": "Sony and Honda kill its Afeela EVs",
+    "snippet": "Sony Honda Mobility, the automotive venture from two of Japan’s most storied companies, has swung the axe on its EV project. In a statement, it said it would “discontinue the development and launch” of the Afeela 1 and 2, its long-in-development elec",
+    "date": "2026-03-25T11:29:48.353489",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/transportation/evs/sony-and-honda-kill-its-afeela-evs-100426852.html?src=rss",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "0d17b056-eca5-45d1-8c00-d805d22d3ceb",
     "title": "Meta is letting creators fill their Reels with shopping links",
     "snippet": "It's about to get a lot easier for creators on Facebook and Instagram to push products to their followers. Meta will now allow creators to include clickable shopping links for products directly in their Reels.Brand partnerships and affiliate links, i",
-    "date": "2026-03-25T08:06:57.006254",
+    "date": "2026-03-25T11:29:48.354907",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/social-media/meta-is-letting-creators-fill-their-reels-with-shopping-links-232406681.html?src=rss",
     "category": "MERCADO"
@@ -372,7 +399,7 @@
     "id": "93f0853c-dfe2-487e-b6cb-9bfa8befe328",
     "title": "Sony is reportedly shutting down Dark Outlaw Games, run by former Call of Duty director",
     "snippet": "Sony is shutting down Dark Outlaw Games, a first-party game studio led by former Call of Duty producer Jason Blundell, Bloomberg's Jason Schreier reports. Before leading Dark Outlaw Games, Blundell was the head of Deviation Games, which was an indepe",
-    "date": "2026-03-25T08:06:57.007310",
+    "date": "2026-03-25T11:29:48.356001",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/gaming/playstation/sony-is-reportedly-shutting-down-dark-outlaw-games-run-by-former-call-of-duty-director-215634410.html?src=rss",
     "category": "LEGAL"
@@ -381,7 +408,7 @@
     "id": "26ad2b9a-a11b-4ca7-9ad0-30bfe4ccc061",
     "title": "Zoox is bringing its robotaxi to new cities and expanding coverage in Las Vegas and San Francisco",
     "snippet": "Zoox has announced plans to bring its robotaxi to Austin, Texas and Miami, Florida for the first time, along with offering expanded service in San Francisco and Las Vegas. The company formally launched its robotaxi service in September 2025, and shar",
-    "date": "2026-03-25T08:06:57.009548",
+    "date": "2026-03-25T11:29:48.358357",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/transportation/zoox-is-bringing-its-robotaxi-to-new-cities-and-expanding-coverage-in-las-vegas-and-san-francisco-195410391.html?src=rss",
     "category": "TRIBUTARIO"
@@ -390,7 +417,7 @@
     "id": "ac8b29ca-0d02-4c3b-a6bd-67bffde94e40",
     "title": "AccuWeather is now available inside ChatGPT",
     "snippet": "Who among us hasn't tormented over the burden of having to exit an AI app to check the weather? Well, I haven't, and I'm guessing you haven't either. But AccuWeather has a solution regardless. On Tuesday, the company rolled out a ChatGPT app to spare",
-    "date": "2026-03-25T08:06:57.009841",
+    "date": "2026-03-25T11:29:48.358696",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/ai/accuweather-is-now-available-inside-chatgpt-192637363.html?src=rss",
     "category": "MERCADO"
@@ -399,7 +426,7 @@
     "id": "ad4c501a-92b4-450b-87d6-74b73b0a873c",
     "title": "Splitgate's 1047 Games is starting work on a Titanfall-style movement shooter",
     "snippet": "At the close of a video announcing the second season of Splitgate: Arena Reloaded, the company's co-founder and CEO Ian Proulx revealed that \"a small section of the team\" has started work on a new game. He said that the next project will be a movemen",
-    "date": "2026-03-25T08:06:57.009968",
+    "date": "2026-03-25T11:29:48.358833",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/gaming/splitgates-1047-games-is-starting-work-on-a-titanfall-style-movement-shooter-192551191.html?src=rss",
     "category": "MERCADO"
