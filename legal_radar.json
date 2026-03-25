@@ -1,0 +1,277 @@
+[
+  {
+    "category": "Celulares",
+    "status": "restringida",
+    "entity": "MTC",
+    "url": "https://casilla.mtc.gob.pe/",
+    "requirements": ["Permiso de Internamiento VUCE", "Homologación de equipo", "RUC con giro de negocio"],
+    "warning": "Máximo 3 unidades al año como persona natural sin RUC.",
+    "antiDumping": false,
+    "keywords": ["iphone", "smartphone", "tablet", "ipad", "xiaomi", "samsung", "huawei", "celular", "motorola"],
+    "permitProcess": [
+      "Ingresar a VUCE con tu RUC y Clave SOL.",
+      "Seleccionar el formulario MTC-003 (Internamiento Definitivo).",
+      "Adjuntar la Factura Comercial y la Ficha Técnica del equipo.",
+      "Verificar si el modelo ya está homologado en la base de datos del MTC.",
+      "El trámite es gratuito y demora aproximadamente 5 días hábiles."
+    ]
+  },
+  {
+    "category": "Smartwatches",
+    "status": "restringida",
+    "entity": "MTC",
+    "url": "https://vuce.gob.pe/vuce1/index.jsp",
+    "requirements": ["Permiso de Internamiento (si tiene WiFi/Bluetooth)"],
+    "warning": "Muchos modelos ya están homologados, verifica antes de importar.",
+    "antiDumping": false,
+    "keywords": ["apple watch", "reloj inteligente", "mi band", "fitbit", "smartwatch", "reloj digital"],
+    "permitProcess": [
+      "Validar si el reloj cuenta con conexión WiFi o Bluetooth activa.",
+      "Tramitar el permiso de internamiento en VUCE (Formulario MTC-003).",
+      "Si el equipo no está homologado, se debe iniciar el proceso de homologación primero."
+    ]
+  },
+  {
+    "category": "Drones",
+    "status": "restringida",
+    "entity": "MTC / VUCE",
+    "url": "https://www.gob.pe/mtc",
+    "requirements": ["Permiso de Internamiento", "Registro de operador (si es profesional)"],
+    "warning": "Drones con cámaras térmicas o GPS avanzado pueden ser retenidos por Defensa.",
+    "antiDumping": false,
+    "keywords": ["drone", "dji", "cuadricoptero", "aeronave"],
+    "permitProcess": [
+      "Solicitar el Permiso de Internamiento Definitivo en la plataforma VUCE.",
+      "Declarar las especificaciones técnicas (frecuencia de radiofrecuencia).",
+      "Inscribir el drone en el Registro de Aeronaves de la DGAC si supera los 250g."
+    ]
+  },
+  {
+    "category": "Equipos WiFi/Bluetooth",
+    "status": "restringida",
+    "entity": "MTC",
+    "url": "https://casilla.mtc.gob.pe/",
+    "requirements": ["Permiso de Internamiento (si el modelo no está en lista blanca)"],
+    "warning": "",
+    "antiDumping": false,
+    "keywords": ["router", "parlante", "audifonos", "bluetooth", "alexa", "google home", "wifi", "repetidor", "smart tv", "modem"],
+    "permitProcess": [
+      "Revisar la lista de equipos exceptuados de homologación del MTC.",
+      "Si no está exceptuado, tramitar el permiso en VUCE con la Clave SOL.",
+      "Presentar el manual de usuario donde figuren las bandas de frecuencia."
+    ]
+  },
+  {
+    "category": "Maquillaje",
+    "status": "restringida",
+    "entity": "DIGEMID",
+    "url": "https://www.digemid.minsa.gob.pe/",
+    "requirements": ["Registro Sanitario", "RUC de Droguería", "Director Técnico"],
+    "warning": "Persona Natural: Máximo 4 unidades para uso personal (no venta).",
+    "antiDumping": false,
+    "keywords": ["labial", "rimel", "sombras", "cosmeticos", "crema", "skincare", "maquillaje", "base", "polvos"],
+    "permitProcess": [
+      "Contar con RUC de empresa constituida como Droguería.",
+      "Solicitar la Notificación Sanitaria Obligatoria (NSOC) en VUCE.",
+      "Presentar la fórmula cuali-cuantitativa del producto.",
+      "Contar con el respaldo de un Farmacéutico (Director Técnico)."
+    ]
+  },
+  {
+    "category": "Perfumes",
+    "status": "restringida",
+    "entity": "DIGEMID",
+    "url": "https://www.digemid.minsa.gob.pe/webVUCE/",
+    "requirements": ["Registro Sanitario (NSOC)", "RUC de Droguería"],
+    "warning": "El transporte aéreo suele clasificarlos como 'Mercancía Peligrosa' por el alcohol.",
+    "antiDumping": false,
+    "keywords": ["fragancia", "colonia", "locion", "perfume", "eau de toilette"],
+    "permitProcess": [
+      "Trámite similar al maquillaje mediante el portal VUCE.",
+      "Requiere certificado de buenas prácticas de manufactura del fabricante.",
+      "Declarar el grado de alcohol y componentes inflamables para el flete."
+    ]
+  },
+  {
+    "category": "Lentes de Sol",
+    "status": "restringida",
+    "entity": "DIGEMID",
+    "url": "https://www.digemid.minsa.gob.pe/",
+    "requirements": ["Registro Sanitario", "RUC de Droguería"],
+    "warning": "Incluso los lentes sin medida requieren registro sanitario.",
+    "antiDumping": false,
+    "keywords": ["gafas", "anteojos", "rayban", "lentes", "oakley"],
+    "permitProcess": [
+      "Los lentes de sol son considerados Dispositivos Médicos de Clase I.",
+      "Se requiere Registro Sanitario emitido por DIGEMID.",
+      "La empresa debe tener almacén certificado con Buenas Prácticas de Almacenamiento (BPA)."
+    ]
+  },
+  {
+    "category": "Vitaminas",
+    "status": "restringida",
+    "entity": "DIGEMID",
+    "url": "https://www.digemid.minsa.gob.pe/",
+    "requirements": ["Registro Sanitario", "Certificado de Libre Venta"],
+    "warning": "",
+    "antiDumping": false,
+    "keywords": ["suplementos", "proteinas", "colageno", "creatina", "vitaminas", "omega 3", "biotina"],
+    "permitProcess": [
+      "Obtener el Registro Sanitario de producto dietético o edulcorante.",
+      "Presentar el Certificado de Libre Venta del país de origen.",
+      "Validar que los componentes no superen los límites diarios permitidos."
+    ]
+  },
+  {
+    "category": "Juguetes",
+    "status": "restringida",
+    "entity": "DIGESA",
+    "url": "http://www.digesa.minsa.gob.pe/",
+    "requirements": ["Registro Nacional de Importador de Juguetes", "Autorización Sanitaria"],
+    "warning": "Ojo con el etiquetado: debe indicar edad y advertencias en español.",
+    "antiDumping": false,
+    "keywords": ["funko", "lego", "muñeca", "juego de mesa", "peluche", "juguete", "carritos", "rompecabezas"],
+    "permitProcess": [
+      "Inscribirse en el Registro Nacional de Importadores de Juguetes.",
+      "Solicitar la Autorización Sanitaria de Desaduanamiento en VUCE.",
+      "Presentar informe de ensayo de laboratorio sobre ausencia de metales pesados."
+    ]
+  },
+  {
+    "category": "Útiles Escolares",
+    "status": "restringida",
+    "entity": "DIGESA",
+    "url": "http://www.digesa.minsa.gob.pe/",
+    "requirements": ["Autorización Sanitaria (Análisis de Plomo/Metales)"],
+    "warning": "",
+    "antiDumping": false,
+    "keywords": ["lapicero", "plumon", "cuaderno", "borrador", "colores", "utiles", "tijeras", "pegamento"],
+    "permitProcess": [
+      "Similar a los juguetes, requiere registro de importador de útiles.",
+      "Análisis de composición química para descartar toxicidad.",
+      "Trámite mediante formulario específico en la plataforma VUCE."
+    ]
+  },
+  {
+    "category": "Semillas/Plantas",
+    "status": "restringida",
+    "entity": "SENASA",
+    "url": "https://www.gob.pe/senasa",
+    "requirements": ["Certificado Fitosanitario de origen", "Inspección en puerto"],
+    "warning": "",
+    "antiDumping": false,
+    "keywords": ["flor", "cultivo", "abono", "plantas", "semilla", "tierra", "fertilizante"],
+    "permitProcess": [
+      "Solicitar el Permiso Fitosanitario de Importación antes del embarque.",
+      "El producto debe venir acompañado del certificado oficial del país de origen.",
+      "Inspección obligatoria de SENASA en el punto de llegada (Puerto/Aeropuerto)."
+    ]
+  },
+  {
+    "category": "Mascotas (Alimento)",
+    "status": "restringida",
+    "entity": "SENASA",
+    "url": "https://www.gob.pe/senasa",
+    "requirements": ["Registro de producto en SENASA"],
+    "warning": "",
+    "antiDumping": false,
+    "keywords": ["comida perro", "dog chow", "cat chow", "pro plan", "croquetas"],
+    "permitProcess": [
+      "Gestionar el Permiso Sanitario de Importación en la plataforma VUCE.",
+      "Presentar el Certificado Sanitario de exportación original del país de origen.",
+      "Someter la carga a inspección física y documental por SENASA al arribo."
+    ]
+  },
+  {
+    "category": "Muebles de Madera",
+    "status": "restringida",
+    "entity": "SENASA",
+    "url": "https://www.gob.pe/senasa",
+    "requirements": ["Certificado Fitosanitario (si la madera no está procesada)"],
+    "warning": "Muebles de MDF o Melamina suelen ser de libre importación.",
+    "antiDumping": false,
+    "keywords": ["silla", "mesa", "estante", "madera", "mueble"],
+    "permitProcess": [
+      "Verificar si la madera tiene tratamiento (MDF/Melamina están libres).",
+      "Para madera en bruto, solicitar Permiso Fitosanitario en VUCE.",
+      "Presentar Certificado de Tratamiento (Fumigación) de origen."
+    ]
+  },
+  {
+    "category": "Zapatillas China",
+    "status": "permitida",
+    "entity": "ADUANAS",
+    "url": "https://www.sunat.gob.pe",
+    "requirements": [],
+    "warning": "Sujeto a derechos Anti-Dumping si el precio es menor al valor referencial.",
+    "antiDumping": true,
+    "keywords": ["nike", "adidas", "calzado deportivo", "zapatillas", "sneakers"],
+    "permitProcess": ["Este producto es de libre importación. No requiere permisos especiales."]
+  },
+  {
+    "category": "Ropa Nueva",
+    "status": "permitida",
+    "entity": "ADUANAS",
+    "url": "https://www.sunat.gob.pe",
+    "requirements": [],
+    "warning": "Cuidado con el etiquetado (composición de hilos) según norma técnica.",
+    "antiDumping": true,
+    "keywords": ["polo", "pantalon", "camisa", "casaca", "vestido", "ropa", "shorts", "blusa"],
+    "permitProcess": ["Este producto es de libre importación. No requiere permisos especiales."]
+  },
+  {
+    "category": "Accesorios de Moda",
+    "status": "permitida",
+    "entity": "ADUANAS",
+    "url": "https://www.sunat.gob.pe",
+    "requirements": [],
+    "warning": "Mercancía libre. Ideal para empezar a importar.",
+    "antiDumping": false,
+    "keywords": ["joyas", "anillo", "collar", "bolso", "cartera", "reloj", "gafas de moda", "billetera", "correa"],
+    "permitProcess": ["Este producto es de libre importación. No requiere permisos especiales."]
+  },
+  {
+    "category": "Ropa Usada",
+    "status": "prohibida",
+    "entity": "ADUANAS",
+    "url": "https://www.sunat.gob.pe",
+    "requirements": [],
+    "warning": "Prohibido por ley (Cachina). Será incautado y destruido por Aduanas.",
+    "antiDumping": false,
+    "keywords": ["paca", "segunda mano", "ropa vieja", "usado", "ropa de segunda"],
+    "permitProcess": ["IMPORTANTE: Este producto no puede ingresar al país bajo ninguna circunstancia."]
+  },
+  {
+    "category": "Calzado Usado",
+    "status": "prohibida",
+    "entity": "ADUANAS",
+    "url": "https://www.sunat.gob.pe",
+    "requirements": [],
+    "warning": "Mercancía prohibida por razones sanitarias.",
+    "antiDumping": false,
+    "keywords": ["zapatos usados", "zapatillas usadas", "calzado de segunda"],
+    "permitProcess": ["Mercancía Prohibida."]
+  },
+  {
+    "category": "Motores Usados",
+    "status": "prohibida",
+    "entity": "ADUANAS",
+    "url": "https://www.sunat.gob.pe",
+    "requirements": [],
+    "warning": "Motores, neumáticos y repuestos usados de motor están prohibidos.",
+    "antiDumping": false,
+    "keywords": ["motor usado", "culata", "monoblock", "repuestos usados de motor", "pistones usados"],
+    "permitProcess": ["Mercancía Prohibida."]
+  },
+  {
+    "category": "Pisco Extranjero",
+    "status": "prohibida",
+    "entity": "ADUANAS",
+    "url": "https://www.sunat.gob.pe",
+    "requirements": [],
+    "warning": "No se permite importar licor con nombre Pisco si no es peruano.",
+    "antiDumping": false,
+    "keywords": ["aguardiente", "pisco chileno", "pisco extranjero"],
+    "permitProcess": ["Mercancía Prohibida."]
+  }
+]
