@@ -23,18 +23,63 @@ RADARS = {
     'ENGADGET': "https://www.engadget.com/rss.xml",
     'WIRED': "https://www.wired.com/feed/category/business/latest/rss",
     'SUNAT' : "https://news.google.com/rss/search?q=site:gob.pe+SUNAT+Aduanas&hl=es-419&gl=PE&ceid=PE:es-419",
+    # --- NUEVAS FUENTES ESTRATÉGICAS (AGREGADAS) ---
+    # Alertas de barreras burocráticas y competencia en Perú
+    'INDECOPI': "https://news.google.com/rss/search?q=site:gob.pe+INDECOPI+comercio&hl=es-419&gl=PE&ceid=PE:es-419",
+    
+    # El gremio de comercio más importante de Lima
+    'LA CÁMARA (CCL)': "https://lacamara.pe/feed/",
+    
+    # Noticias sobre exportación e importación peruana
+    'ADEX PERÚ': "https://adexperu.org.pe/feed/",
+    
+    # La biblia de los fletes y logística marítima mundial
+    'FREIGHTOS': "https://www.freightos.com/feed/",
+    
+    # Logística e infraestructura portuaria profunda
+    'MARITIME EXECUTIVE': "https://www.maritime-executive.com/rss",
+    
+    # Visión de negocios desde China (Imprescindible para tendencias)
+    'GLOBAL TIMES BIZ': "https://www.globaltimes.cn/rss/china-business.xml",
+    
+    # Portal especializado en la cadena de suministro en Perú
+    'LOGÍSTICA.PE': "https://logistica.pe/feed/",
+    
+    # Tendencias de gadgets y productos de consumo masivo
+    'THE VERGE': "https://www.theverge.com/rss/index.xml"
 }
 
 # --- DICCIONARIO MAESTRO LUX ---
 KEYWORDS = [
     'ADUANA', 'SUNAT', 'VUCE', 'DIGEMID', 'DIGESA', 'SENASA', 'MTC', 'TLC', 
     'HOMOLOGACIÓN', 'PERMISO', 'DÓLAR', 'ARANCEL', 'AD-VALOREM', 'IGV', 'IPM', 
-    'PERCEPCIÓN', 'FOB', 'CIF', 'FLETE', 'ROI', 'TAX', 'PUERTO', 'CHANCAY', 
-    'CALLAO', 'LOGÍSTICA', 'NAVIERA', 'CONTENEDOR', 'ALMACÉN', 'VISTO BUENO', 
-    'HANDLING', 'XIAOMI', 'IPHONE', 'SAMSUNG', 'DRONE', 'SMARTWATCH', 'CELULAR', 
-    'TABLET', 'MAQUILLAJE', 'COSMÉTICO', 'VITAMINA', 'SUPLEMENTO', 'JUGUETE', 
-    'FUNKO', 'LEGO', 'ZAPATILLAS', 'ROPA', 'TEXTIL', 'CALZADO', 'CHINA', 'USA', 
-    'ALIEXPRESS', 'ALIBABA', 'AMAZON', 'SHEIN', 'COURIER', 'SERPOST', 'DHL', 'FEDEX'
+    'PERCEPCIÓN', 'FOB', 'CIF', 'FLETE', 'ROI', 'TAX', 'INDECOPI', 'MEF', 
+    'PRODUCE', 'DRAWBACK', 'BENEFICIO ARANCELARIO', 'VALORACIÓN ADUANERA',
+
+    # --- LOGÍSTICA E INFRAESTRUCTURA (EL BLOQUE DE CHANCAY) ---
+    'PUERTO', 'CHANCAY', 'CALLAO', 'LOGÍSTICA', 'NAVIERA', 'CONTENEDOR', 
+    'ALMACÉN', 'VISTO BUENO', 'HANDLING', 'COSCO SHIPPING', 'HUB', 'CABOTAJE', 
+    'ZEE', 'ZONA FRANCA', 'DP WORLD', 'APM TERMINALS', 'CONGESTIÓN PORTUARIA',
+
+    # --- OPERATIVIDAD (ALERTAS DE DESPACHO) ---
+    'CANAL ROJO', 'CANAL NARANJA', 'AJUSTE DE VALOR', 'DUA', 'DAM', 'RECHAZO', 
+    'RETENCIÓN', 'INCAUTACIÓN', 'MULTA', 'LEVANTE', 'ABANDONO LEGAL', 
+    'BOLETÍN QUÍMICO', 'PARTIDA ARANCELARIA',
+
+    # --- TECH, GADGETS Y TENDENCIAS ---
+    'XIAOMI', 'IPHONE', 'SAMSUNG', 'DRONE', 'SMARTWATCH', 'CELULAR', 
+    'TABLET', 'GPU', 'NVIDIA', 'PLAYSTATION', 'NINTENDO', 'CCTV', 'SCOOTER', 
+    'EBIKE', 'CERRADURA INTELIGENTE', 'DOMÓTICA',
+
+    # --- NICHO RETAIL Y SALUD ---
+    'MAQUILLAJE', 'COSMÉTICO', 'VITAMINA', 'SUPLEMENTO', 'JUGUETE', 
+    'FUNKO', 'LEGO', 'ZAPATILLAS', 'ROPA', 'TEXTIL', 'CALZADO', 'SKINCARE', 
+    'PROTEÍNA', 'SNEAKERS',
+
+    # --- ORIGEN Y PLATAFORMAS (EL AUGE DE TEMU) ---
+    'CHINA', 'USA', 'ALIEXPRESS', 'ALIBABA', 'AMAZON', 'SHEIN', 'TEMU', 
+    '1688', 'MADE IN CHINA', 'COURIER', 'SERPOST', 'DHL', 'FEDEX', 'UPS', 
+    'DROPSHIPPING', 'E-COMMERCE', 'MARKETPLACE'
 ]
 
 def clean_text(text):
