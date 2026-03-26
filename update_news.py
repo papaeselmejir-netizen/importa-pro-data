@@ -22,6 +22,7 @@ RADARS = {
     'CNET': "https://www.cnet.com/rss/news/",
     'ENGADGET': "https://www.engadget.com/rss.xml",
     'WIRED': "https://www.wired.com/feed/category/business/latest/rss",
+    'SUNAT' : "https://news.google.com/rss/search?q=site:gob.pe+SUNAT+Aduanas&hl=es-419&gl=PE&ceid=PE:es-419",
 }
 
 # --- DICCIONARIO MAESTRO LUX ---
