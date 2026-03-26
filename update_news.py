@@ -2,6 +2,8 @@ import feedparser
 import json
 import datetime
 import re
+import os
+from time import mktime
 
 # --- EL RADAR MASIVO DE 15 FUENTES ---
 RADARS = {
@@ -52,40 +54,84 @@ def classify(title, desc):
     return 'MERCADO'
 
 def scrape():
+    file_path = 'news.json'
     all_news = []
     seen_titles = set()
-
-    for source, url in RADARS.items():
-        print(f"📡 Escaneando: {source}")
-        feed = feedparser.parse(url)
-        
-        for entry in feed.entries[:15]: # Revisamos las últimas 15 de cada fuente
-            title = entry.get('title', '')
-            desc = entry.get('summary', entry.get('description', ''))
-            
-            # Filtro de Palabras Clave
-            if any(k in title.upper() or k in desc.upper() for k in KEYWORDS):
-                clean_title = clean_text(title)
-                
-                # Evitar duplicados por título
-                if clean_title not in seen_titles:
-                    all_news.append({
-                        'id': entry.get('id', entry.link),
-                        'title': clean_title,
-                        'snippet': clean_text(desc)[:250],
-                        'date': datetime.datetime.now().isoformat(),
-                        'source': source,
-                        'url': entry.link,
-                        'category': classify(title, desc)
-                    })
-                    seen_titles.add(clean_title)
-
-    # Ordenar por las más recientes (ya vienen ordenadas por el RSS usualmente)
-    # Guardar máximo 100 noticias para tener una base de datos robusta
-    with open('news.json', 'w', encoding='utf-8') as f:
-        json.dump(all_news[:100], f, ensure_ascii=False, indent=2)
     
-    print(f"✅ Bóveda actualizada con {len(all_news[:100])} alertas inteligentes.")
+    # --- CONFIGURACIÓN DE TIEMPO (VENTANA DE 3 DÍAS) ---
+    ahora = datetime.datetime.now()
+    limite_temporal = ahora - datetime.timedelta(days=3)
+
+    # 1. CARGAR NOTICIAS EXISTENTES (Para acumular lo de días anteriores)
+    if os.path.exists(file_path):
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                news_archivo = json.load(f)
+                # Solo mantenemos las que aún están dentro del límite de 3 días
+                for n in news_archivo:
+                    fecha_n = datetime.datetime.fromisoformat(n['date'])
+                    if fecha_n > limite_temporal:
+                        all_news.append(n)
+                        seen_titles.add(n['title'])
+        except Exception as e:
+            print(f"⚠️ No se pudo leer el archivo previo: {e}")
+
+    # 2. ESCANEO DE FUENTES NUEVAS
+    for source, url in RADARS.items():
+        try:
+            print(f"📡 Escaneando: {source}")
+            feed = feedparser.parse(url)
+            
+            # Control de errores en el feed
+            if feed.bozo:
+                print(f"⚠️ Aviso: Problemas técnicos con {source}, saltando...")
+                continue
+
+            for entry in feed.entries[:20]:
+                title = entry.get('title', '')
+                desc = entry.get('summary', entry.get('description', ''))
+                
+                # Obtener fecha real de publicación
+                if 'published_parsed' in entry:
+                    dt_pub = datetime.datetime.fromtimestamp(mktime(entry.published_parsed))
+                else:
+                    dt_pub = ahora # Si no hay fecha, usamos el momento actual
+
+                # FILTRO 1: ¿Está dentro de la ventana de 3 días?
+                if dt_pub < limite_temporal:
+                    continue
+
+                # FILTRO 2: Filtro de Palabras Clave (Keywords Lux)
+                if any(k in title.upper() or k in desc.upper() for k in KEYWORDS):
+                    clean_title = clean_text(title)
+                    
+                    # FILTRO 3: Evitar Duplicados (por título)
+                    if clean_title not in seen_titles:
+                        all_news.append({
+                            'id': entry.get('id', entry.link),
+                            'title': clean_title,
+                            'snippet': clean_text(desc)[:220] + "...",
+                            'date': dt_pub.isoformat(),
+                            'source': source,
+                            'url': entry.link,
+                            'category': classify(title, desc)
+                        })
+                        seen_titles.add(clean_title)
+
+        except Exception as e:
+            print(f"❌ Error crítico en {source}: {e}")
+            continue
+
+    # 3. ORDENAMIENTO Y CIERRE
+    # Ordenamos por fecha para que las más recientes aparezcan primero en el JSON
+    all_news.sort(key=lambda x: x['date'], reverse=True)
+
+    # Guardamos el resultado (Limitamos a 150 noticias para que la app no sea pesada)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(all_news[:150], f, ensure_ascii=False, indent=2)
+    
+    print(f"\n✅ Bóveda de Inteligencia actualizada.")
+    print(f"📊 Noticias activas (últimas 72h): {len(all_news[:150])}")
 
 if __name__ == "__main__":
     scrape()
