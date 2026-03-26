@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=427383",
+    "title": "Colombia: Invías realiza rueda de negocios para presentar avances técnicos del proyecto de dragado en Puerto de Buenaventura",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Instituto de Nacional de Vías de Colombia  (Invías) realizó una rueda de negocios para presentar\nLa entrada Colombia: Invías realiza rueda de negocios para presentar avan...",
+    "date": "2026-03-26T21:30:07",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/colombia-invias-realiza-rueda-de-negocios-para-presentar-avances-tecnicos-del-proyecto-de-dragado-en-puerto-de-buenaventura/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=427408",
     "title": "Estados Unidos vigila impacto global de tensiones entre China y Panamá sobre transporte marítimo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Comisión Federal Marítima de Estados Unidos (FMC) está monitoreando de cerca cómo los recientes acontecimientos\nLa entrada Estados Unidos vigila impacto global de tension...",
@@ -27,6 +36,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.theverge.com/?p=901836",
+    "title": "Anker’s wireless charging pad offers Qi2 speeds for $15",
+    "snippet": "I’ve probably saved minutes of my life by using a wireless charging puck. Minutes! More valuable than that, I’ve saved myself from bending over numerous times to pick up my USB-C cable that somehow always ends up on the ...",
+    "date": "2026-03-26T21:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-israel-lider-oposicion-advierte-un-desastre-seguridad-falta-tropas-1068625.aspx",
     "title": "Israel: líder de oposición advierte de un \"desastre de seguridad\" por falta de tropas",
     "snippet": "El líder de la oposición israelí, Yair Lapid, advirtió este jueves de un inminente \"desastre de seguridad\" debido a la falta de tropas en un momento en que el país emprendió una guerra contra Irán y lucha contra el movim...",
@@ -45,6 +63,15 @@
     "category": "LOGÍSTICA"
   },
   {
+    "id": "https://andina.pe/agencia/noticia-elecciones-generales-2026-cual-es-diferencia-entre-votos-validos-blancos-y-nulos-1068588.aspx",
+    "title": "Elecciones Generales 2026: ¿cuál es la diferencia entre votos válidos, blancos y nulos?",
+    "snippet": "La Oficina Nacional de Procesos Electorales (ONPE) explica las diferencias clave entre tipos de votos para las Elecciones Generales del 12 de abril del 2026, a fin de que los electores emitan su sufragio de manera correc...",
+    "date": "2026-03-26T20:10:21",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-generales-2026-cual-es-diferencia-entre-votos-validos-blancos-y-nulos-1068588.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/amazon-usaba-robots-a-bestia-ahora-tiene-robot-humanoide-42-pulgadas-que-baila-recoge-juguetes-suelo",
     "title": "Amazon ya usaba robots a lo bestia. Ahora tiene un robot humanoide de 42 pulgadas que baila y recoge juguetes del suelo",
     "snippet": "Amazon lleva años usando robots en sus centros logísticos, pero aunque dichos robots han demostrado una capacidad de automatización brutal para ciertos procesos, se \"limitaban\" a mover cajas y a gestionar pedidos. La sem...",
@@ -52,6 +79,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/amazon-usaba-robots-a-bestia-ahora-tiene-robot-humanoide-42-pulgadas-que-baila-recoge-juguetes-suelo",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1681823",
+    "title": "Reúso de agua con que se produce cerveza beneficiará a Ate, La Molina y Surco ante estrés hídrico en Lima",
+    "snippet": "La cervecera Backus firmó un convenio para destinar agua tratada a riego agrícola y áreas verdes, generando una nueva fuente hídrica en la capital....",
+    "date": "2026-03-26T20:00:01",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/reuso-de-agua-con-que-se-produce-cerveza-beneficiara-a-ate-la-molina-y-surco-ante-estres-hidrico-en-lima-noticia-1681823",
+    "category": "MERCADO"
   },
   {
     "id": "https://portalportuario.cl/?p=427241",
@@ -522,12 +558,84 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://techcrunch.com/?p=3106367",
+    "title": "16 of the most interesting startups from YC W26 Demo Day",
+    "snippet": "From redirecting doomscrolling to training humanoid robots, these 16 startups stood out as the most interesting ones from an overflowing YC cohort....",
+    "date": "2026-03-26T19:30:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/1154/streaming-service-prices-netflix-disney-hulu-peacock-max",
+    "title": "Streaming keeps getting more expensive: all the latest price hikes",
+    "snippet": "Death. Taxes. All your streaming services getting a little more expensive all the time. These are the new certainties in life, it seems. Netflix has raised the cost of its subscription repeatedly in recent years. Disney ...",
+    "date": "2026-03-26T19:13:26",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=901833",
+    "title": "Netflix is raising prices again",
+    "snippet": "Netflix's prices just went up, with its cheapest, ad-supported tier now reaching $8.99 / month (up from $7.99 / month), according to an updated support page spotted earlier by Android Authority. The standard and premium ...",
+    "date": "2026-03-26T19:05:28",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/streaming/901833/netflix-subscription-pricing-increase-2026",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=901765",
+    "title": "Fitbit’s budget-friendly Inspire 3 is $30 off, matching its best price",
+    "snippet": "Amazon’s Big Spring Sale has delivered discounts on wearables like the latest Apple Watch SE 3 and Fitbit’s Charge 6. But they’re not exactly cheap even though they’re on sale. If you want something under $100, the Fitbi...",
+    "date": "2026-03-26T18:41:42",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/901765/fitbit-inspire-3-amazon-big-spring-sale-2026-deal",
+    "category": "MERCADO"
+  },
+  {
     "id": "d684fb4e-86a2-4804-8154-85643a3ae1be",
     "title": "My Favorite Laptop Just Hit Its Lowest Price for Amazon's Big Spring Sale",
     "snippet": "The 15-inch M4 MacBook Air has dropped to its lowest price yet, and it's still one of the best laptops you can get at this price in 2026....",
     "date": "2026-03-26T18:41:00",
     "source": "CNET",
     "url": "https://www.cnet.com/deals/15-inch-m4-macbook-air-lowest-price-ever-amazon-spring-sale/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=901525",
+    "title": "My brief, weird time with the Samsung TriFold",
+    "snippet": "I was ready to give up on the Galaxy Z TriFold. We had a strong case for getting a refund from the eBay seller - they'd claimed it was the version sold in Taiwan, but the phone that arrived at my door came with a Chinese...",
+    "date": "2026-03-26T17:30:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=901580",
+    "title": "Govee’s color-changing smart lamps are on sale for up to 30 percent off",
+    "snippet": "Speaking from experience, better lighting can completely change how a space feels. Over the years, I’ve filled my apartment with Govee’s color-changing lights, and they’ve made it feel calmer and more cheerful. That’s wh...",
+    "date": "2026-03-26T16:44:20",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal",
+    "category": "MERCADO"
+  },
+  {
+    "id": "CBMi5wFBVV95cUxPaEZvQ3NuNGdzV3Y1VFBBTnJScW5lX0lramVPQnlidVpNbVlNZHVmSGRzbzd2cHZLSnp5dDRBdFBNY0xJNjllY25JdWZpbkM4cEVxNnZLU1BZN2xZRUt0YmtkbVRkU1ZVaFp2dVdkcVZ6NTRGY2o5OVNhTEN0VTFoMWluRGFWMzNwNVFhUkhUSGo4UFVoelFyZk9FUS14cjFkbHpoa1Rnc2hwdWNOLXpVb2hoSXN6SHVKOENvN05MZGlXbk10N05nSGw4d2RnS1Vrc3NPdnRqd1dEQUpVejRoOTZiRlZrMEk",
+    "title": "Indecopi: impacto económico positivo por eliminación de barreras burocráticas creció 650 % en 2025 - gob.pe",
+    "snippet": "Indecopi: impacto económico positivo por eliminación de barreras burocráticas creció 650 % en 2025  gob.pe...",
+    "date": "2026-03-26T16:29:37",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaEZvQ3NuNGdzV3Y1VFBBTnJScW5lX0lramVPQnlidVpNbVlNZHVmSGRzbzd2cHZLSnp5dDRBdFBNY0xJNjllY25JdWZpbkM4cEVxNnZLU1BZN2xZRUt0YmtkbVRkU1ZVaFp2dVdkcVZ6NTRGY2o5OVNhTEN0VTFoMWluRGFWMzNwNVFhUkhUSGo4UFVoelFyZk9FUS14cjFkbHpoa1Rnc2hwdWNOLXpVb2hoSXN6SHVKOENvN05MZGlXbk10N05nSGw4d2RnS1Vrc3NPdnRqd1dEQUpVejRoOTZiRlZrMEk?oc=5",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ckger01gxkno#1",
+    "title": "Port Talbot to become offshore wind hub for Celtic Sea",
+    "snippet": "Port operator ABP will begin work on developing a facility to assemble and launch turbines out to sea....",
+    "date": "2026-03-26T14:36:51",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/ckger01gxkno?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
   },
   {
@@ -567,6 +675,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "6e3a2c68-9cda-4a92-a910-a3e949226bb2",
+    "title": "Nintendo's $20 Switch 2 Upgrade for Super Mario Wonder Is Worth It for the Extras",
+    "snippet": "Commentary: Super Mario Bros. Wonder's Bellabel Park DLC is here this week, but it's more about lots of chaotic multiplayer minigames than new courses....",
+    "date": "2026-03-26T12:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/nintendos-20-switch-2-upgrade-for-super-mario-wonder-is-worth-it-for-the-extras/",
+    "category": "MERCADO"
+  },
+  {
     "id": "3a3d8a2c-4099-4baa-8638-ce144586f4da",
     "title": "Hate Your iPhone's Alarm Slider? Here's How You Can Get Rid of It",
     "snippet": "Apple introduced the Alarm slider when it released iOS 26.1 in November, but you can get rid of it in four steps....",
@@ -594,6 +711,33 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cn08x9lw0pzo#1",
+    "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+    "snippet": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear....",
+    "date": "2026-03-26T00:41:16",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "CBMi4gFBVV95cUxNUVNMYmRKMkJBNDhSMmg4V2FzWC13YTgxbmtRT183NmJNZWVUZ3VIbnZQcUw3Y3Bqa2oweU1GVDB2Zm1zTVNhZUlWdGVSa3Izdnkzb2s0cnBuU2JSWVhzOWtnd3B1NzNnRUsyX0hIMEJ4SGR1NXM5Y09teWZiSGdkbFI1MVdYT1BqMVhUVjZud3dGNDdpSU90dTBlaGhoRzBYbjBTcGxkbTNPbmlVNDZodThCWlpQTGtGUUtYcjJ2ZkQ5N0hfcTZRR3NjVXIyQ0tfMFBGOTBxQUh0RGs5elZCZ3p3",
+    "title": "Semana Santa 2026: Indecopi recuerda que pasajeros pueden recibir compensación por sobreventa de vuelos - TVPerú",
+    "snippet": "Semana Santa 2026: Indecopi recuerda que pasajeros pueden recibir compensación por sobreventa de vuelos  TVPerú...",
+    "date": "2026-03-25T20:27:47",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUVNMYmRKMkJBNDhSMmg4V2FzWC13YTgxbmtRT183NmJNZWVUZ3VIbnZQcUw3Y3Bqa2oweU1GVDB2Zm1zTVNhZUlWdGVSa3Izdnkzb2s0cnBuU2JSWVhzOWtnd3B1NzNnRUsyX0hIMEJ4SGR1NXM5Y09teWZiSGdkbFI1MVdYT1BqMVhUVjZud3dGNDdpSU90dTBlaGhoRzBYbjBTcGxkbTNPbmlVNDZodThCWlpQTGtGUUtYcjJ2ZkQ5N0hfcTZRR3NjVXIyQ0tfMFBGOTBxQUh0RGs5elZCZ3p3?oc=5",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1681583",
+    "title": "Rodolfo Acuña completa su equipo en el MEF: conoce quiénes son los nuevos viceministros de Economía y de Hacienda",
+    "snippet": "Este miércoles 25 de marzo se oficializó la designación del viceministro de Economía y el viceministro de Hacienda, tras una semana de que Rodolfo Acuña asumiera el mando del MEF....",
+    "date": "2026-03-25T14:38:35",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/mef-rodolfo-acuna-completa-su-equipo-quienes-son-los-nuevo-viceministros-de-economia-y-de-hacienda-noticia-1681583",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://rpp.pe/1681546",
     "title": "Cuánto está el tipo de cambio dólar en Perú hoy 25 de marzo del 2026",
     "snippet": "En Perú, el tipo de cambio para hoy miércoles 25 de marzo es de S/3.45 según el Banco Central de Reserva Del Perú....",
@@ -601,5 +745,14 @@
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-25-de-marzo-del-2026-noticia-1681546",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "CBMihgJBVV95cUxNMi1EYm16SW42SU1MOVlIUVBMNm8wSGtSZGZBNUo0ekRtc2tfNjktTVhKSzRmNkhxRjZmQXZrc1ZVX0szWS1SVDAwVWFsMDdxT2E5WmoydkNMSmp3R29qUTFEUU5lbnZhSXRJUmQ2aDVGa0NqTU9UYkZPMGRFRmd4OXctR2FaUHEzQkFVUkd5TWdxakNLVlNLajdrUkt6UDRYTF9ZZURCOHZaR0VDQ0hFcTVGc3lha3hTNkI4UVNoXzd6cXdaQUpKNl9zSHFUQVJhTk5vUHI0OXZFSE5KLVZoc1F0MWNHSFNHdzllRXVTMjVaSHpGLXNCVnBJWFFLTGpTRk4tSTBB",
+    "title": "El Indecopi investiga presuntas prácticas de dumping en importaciones de neumáticos para automóviles originarios China - gob.pe",
+    "snippet": "El Indecopi investiga presuntas prácticas de dumping en importaciones de neumáticos para automóviles originarios China  gob.pe...",
+    "date": "2026-03-24T13:57:15",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMi1EYm16SW42SU1MOVlIUVBMNm8wSGtSZGZBNUo0ekRtc2tfNjktTVhKSzRmNkhxRjZmQXZrc1ZVX0szWS1SVDAwVWFsMDdxT2E5WmoydkNMSmp3R29qUTFEUU5lbnZhSXRJUmQ2aDVGa0NqTU9UYkZPMGRFRmd4OXctR2FaUHEzQkFVUkd5TWdxakNLVlNLajdrUkt6UDRYTF9ZZURCOHZaR0VDQ0hFcTVGc3lha3hTNkI4UVNoXzd6cXdaQUpKNl9zSHFUQVJhTk5vUHI0OXZFSE5KLVZoc1F0MWNHSFNHdzllRXVTMjVaSHpGLXNCVnBJWFFLTGpTRk4tSTBB?oc=5",
+    "category": "MERCADO"
   }
 ]
