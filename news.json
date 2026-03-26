@@ -1,18 +1,27 @@
 [
   {
-    "id": "https://andina.pe/agencia/noticia-la-inversion-minera-peru-avanza-y-registra-398-millones-enero-2026-1068474.aspx",
-    "title": "La inversión minera en Perú avanza y registra US$ 398 millones en enero de 2026",
-    "snippet": "La inversión minera en el Perú durante enero del presente año alcanzó los 398 millones de dólares, cantidad superior en 8.9% respecto al primer mes del 2025, impulsada por los rubros de Infraestructura (+83.3%) y Exploración (+32.9%), destacó hoy el ",
-    "date": "2026-03-25T23:01:13.949957",
+    "id": "https://andina.pe/agencia/noticia-callao-reportan-floraciones-algales-nocivas-la-bahia-generan-gran-espuma-1068524.aspx",
+    "title": "Callao: reportan floraciones algales nocivas en la bahía que generan gran espuma",
+    "snippet": "El Instituto del Mar del Perú - IMARPE informó que, desde la segunda quincena de marzo hasta la fecha, se están registrando floraciones algales nocivas (FAN) en la bahía del Callao, ocasionada por el dinoflagelado tecado Heterocapsa sp.",
+    "date": "2026-03-26T05:52:31.378307",
     "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-inversion-minera-peru-avanza-y-registra-398-millones-enero-2026-1068474.aspx",
-    "category": "TRIBUTARIO"
+    "url": "https://andina.pe/agencia/noticia-callao-reportan-floraciones-algales-nocivas-la-bahia-generan-gran-espuma-1068524.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-reino-unido-interceptara-navios-de-flota-fantasma-rusa-sus-aguas-territoriales-1068521.aspx",
+    "title": "Reino Unido interceptará navíos de la \"flota fantasma\" rusa en sus aguas territoriales",
+    "snippet": "El ejército británico podrá interceptar e incautar navíos sancionados pertenecientes a la \"flota fantasma\" rusa si estos penetran en las aguas territoriales del Reino Unido, anunció este miércoles Downing Street en un comunicado.",
+    "date": "2026-03-26T05:52:31.378730",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-reino-unido-interceptara-navios-de-flota-fantasma-rusa-sus-aguas-territoriales-1068521.aspx",
+    "category": "MERCADO"
   },
   {
     "id": "https://rpp.pe/1681469",
     "title": "Sunat: Cronograma de declaración de renta inicia este 26 de marzo y más de 130 mil contribuyentes ya cumplieron esta obligación",
     "snippet": "La entidad destacó que estas empresas y negocios se adelantaron a las fechas de vencimiento, que se inician el 26 de marzo e irán hasta el 13 de abril.",
-    "date": "2026-03-25T23:01:14.277662",
+    "date": "2026-03-26T05:52:31.662365",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/sunat-cronograma-de-declaracion-de-renta-inicia-este-26-de-marzo-y-mas-de-130-mil-contribuyentes-ya-cumplieron-esta-obligacion-noticia-1681469",
     "category": "TRIBUTARIO"
@@ -21,16 +30,61 @@
     "id": "https://rpp.pe/1681546",
     "title": "Cuánto está el tipo de cambio dólar en Perú hoy 25 de marzo del 2026",
     "snippet": "En Perú, el tipo de cambio para hoy miércoles 25 de marzo es de S/3.45 según el Banco Central de Reserva Del Perú.",
-    "date": "2026-03-25T23:01:14.277969",
+    "date": "2026-03-26T05:52:31.662817",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-25-de-marzo-del-2026-noticia-1681546",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426922",
+    "title": "Valenciaport comienza estrategia de adaptación de sus puertos al cambio climático",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de València (APV) comenzó a trabajar en un plan de adaptación al cambio\nLa entrada Valenciaport comienza estrategia de adaptación de sus puertos al cambio climático se publicó prim",
+    "date": "2026-03-26T05:52:33.606398",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/valenciaport-comienza-estrategia-de-adaptacion-de-sus-puertos-al-cambio-climatico/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426911",
+    "title": "Puertos de Gdynia y Kaohsiung estudian desarrollar conexiones marítimas regulares",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de Gdynia y Kaohsiung firmaron un memorando de entendimiento que establece un marco para\nLa entrada Puertos de Gdynia y Kaohsiung estudian desarrollar conexiones marítimas regulares se public",
+    "date": "2026-03-26T05:52:33.607234",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puertos-de-gdynia-y-kaohsiung-estudian-desarrollar-conexiones-maritimas-regulares/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426996",
+    "title": "España: Puerto de Barcelona otorga concesión de futura terminal de ferrys en Baleària",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consejo de Administración del Puerto de Barcelona aprobó otorgar la concesión para la construcción y\nLa entrada España: Puerto de Barcelona otorga concesión de futura terminal de ferrys en Baleària se",
+    "date": "2026-03-26T05:52:33.607331",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/espana-puerto-de-barcelona-otorga-concesion-de-futura-terminal-de-ferrys-en-balearia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427008",
+    "title": "Países Bajos: Puerto de Ámsterdam permitirá amarre mixto incluyendo a buques con carga peligrosa",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Ámsterdam (Países Bajos) informó que permitirá el amarre mixto en parte de sus\nLa entrada Países Bajos: Puerto de Ámsterdam permitirá amarre mixto incluyendo a buques con carga peligrosa se ",
+    "date": "2026-03-26T05:52:33.607429",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/paises-bajos-puerto-de-amsterdam-permitira-amarre-mixto-incluyendo-a-buques-con-carga-peligrosa/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=426994",
+    "title": "Colombia: Exportaciones del sector pesquero crecen pese a aranceles de EE.UU.",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario A pesar de la imposición de aranceles en su principal destino, Estados Unidos, las exportaciones del\nLa entrada Colombia: Exportaciones del sector pesquero crecen pese a aranceles de EE.UU. se publicó pr",
+    "date": "2026-03-26T05:52:33.607486",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/colombia-exportaciones-del-sector-pesquero-crecen-pese-a-aranceles-de-ee-uu/",
     "category": "TRIBUTARIO"
   },
   {
     "id": "https://portalportuario.cl/?p=426851",
     "title": "Lituania: Terminal de productos energéticos del Puerto de Klaipéda recibe su primer cargamento de metanol",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La terminal de productos energéticos del Puerto de Klaipeda (Lituania) recibió su primer cargamento de metanol.\nLa entrada Lituania: Terminal de productos energéticos del Puerto de Klaipéda recibe su pri",
-    "date": "2026-03-25T23:01:16.336004",
+    "date": "2026-03-26T05:52:33.607736",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/lituania-terminal-de-productos-energeticos-del-puerto-de-klaipeda-recibe-su-primer-cargamento-de-metanol/",
     "category": "LOGÍSTICA"
@@ -39,7 +93,7 @@
     "id": "https://portalportuario.cl/?p=426974",
     "title": "Italia: Puerto de Savona registra un 70% de avance en instalación de sistemas fotovoltaicos",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Savona (Italia) anunció la ejecución de su sistema energético integrado alcanzó un 70%\nLa entrada Italia: Puerto de Savona registra un 70% de avance en instalación de sistemas fotovoltaicos ",
-    "date": "2026-03-25T23:01:16.336126",
+    "date": "2026-03-26T05:52:33.607833",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/italia-puerto-de-savona-registra-un-70-de-avance-en-instalacion-de-sistemas-fotovoltaicos/",
     "category": "LOGÍSTICA"
@@ -48,70 +102,16 @@
     "id": "https://portalportuario.cl/?p=427176",
     "title": "Colisión múltiple de camiones paraliza acceso a Puerto de San Antonio",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Una colisión múltiple de camiones obstaculizó y paralizó la ruta que da acceso al Puerto de\nLa entrada Colisión múltiple de camiones paraliza acceso a Puerto de San Antonio se publicó primero en PortalPo",
-    "date": "2026-03-25T23:01:16.336395",
+    "date": "2026-03-26T05:52:33.608126",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/colision-multiple-de-camiones-paraliza-acceso-a-puerto-de-san-antonio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=426892",
-    "title": "Japón: Kawasaki y JFE Engineering se adjudican proyecto de ampliación de tanque de terminal GNL del Puerto de Sakaide",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La compañía Kawasaki anunció la adjudicación del contrato para la ampliación del tanque de la terminal\nLa entrada Japón: Kawasaki y JFE Engineering se adjudican proyecto de ampliación de tanque de termin",
-    "date": "2026-03-25T23:01:16.336691",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/japon-kawasaki-y-jfe-engineering-se-adjudican-proyecto-de-ampliacion-de-tanque-de-terminal-gnl-del-puerto-de-sakaide/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427162",
-    "title": "Movimiento de carga en Puerto de San Antonio crece 2,2% en primer bimestre de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de San Antonio movilizó 3.861.752 toneladas de carga en el primer bimestre de 2026,\nLa entrada Movimiento de carga en Puerto de San Antonio crece 2,2% en primer bimestre de 2026 se publicó prim",
-    "date": "2026-03-25T23:01:16.336772",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/movimiento-de-carga-en-puerto-de-san-antonio-crece-22-en-primer-bimestre-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=426963",
-    "title": "Puerto de Melbourne, Svitzer, CIP y Plexar Energy explorarán primeras operaciones de remolque eléctricas de Australia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Melbourne y el operador global de remolques Svitzer han firmado un Memorando de\nLa entrada Puerto de Melbourne, Svitzer, CIP y Plexar Energy explorarán primeras operaciones de remolque eléct",
-    "date": "2026-03-25T23:01:16.337081",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-melbourne-svitzer-cip-y-plexar-energy-exploraran-primeras-operaciones-de-remolque-electricas-de-australia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427141",
-    "title": "Filipinas afirma estar trabajando con Washington para obtener petróleo de países sancionados por Estados Unidos",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Filipinas está trabajando con Washington para obtener exenciones y permisos que le autoricen a adquirir\nLa entrada Filipinas afirma estar trabajando con Washington para obtener petróleo d",
-    "date": "2026-03-25T23:01:16.337478",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/filipinas-afirma-estar-trabajando-con-washington-para-obtener-petroleo-de-paises-sancionados-por-estados-unidos/",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427142",
-    "title": "Uruguay: Incautan mas de 32 mil perfumes en el Puerto de Montevideo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La División de Control de Cargas de la Dirección Nacional de Aduanas de Uruguay logró la\nLa entrada Uruguay: Incautan mas de 32 mil perfumes en el Puerto de Montevideo se publicó primero en PortalPortuar",
-    "date": "2026-03-25T23:01:16.337503",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/uruguay-incautan-mas-de-32-mil-perfumes-en-el-puerto-de-montevideo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427095",
-    "title": "Camport alerta que Política Nacional Logística Portuaria cuenta con análisis errados e ideológicos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Cámara Marítima y Portuaria de Chile (Camport) alertó que la Política Nacional Logística Portuaria (PNLP),\nLa entrada Camport alerta que Política Nacional Logística Portuaria cuenta con análisis errad",
-    "date": "2026-03-25T23:01:16.337756",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/camport-alerta-que-politica-nacional-logistica-portuaria-cuenta-con-analisis-errados-e-ideologicos/",
     "category": "LOGÍSTICA"
   },
   {
     "id": "https://www.scmp.com/news/hong-kong/article/3347890/zhang-dongmei-named-new-deputy-director-office-overseeing-hong-kong-affairs?utm_source=rss_feed",
     "title": "Zhang Dongmei named new deputy director of office overseeing Hong Kong affairs",
     "snippet": "Beijing has selected Zhang Dongmei, a former vice-president of the All-China Women’s Federation, as a new deputy director of the top office overseeing Hong Kong affairs, making her the first woman to take on the role since the body’s status was eleva",
-    "date": "2026-03-25T23:01:17.840256",
+    "date": "2026-03-26T05:52:34.937909",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/article/3347890/zhang-dongmei-named-new-deputy-director-office-overseeing-hong-kong-affairs?utm_source=rss_feed",
     "category": "MERCADO"
@@ -120,7 +120,7 @@
     "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347762/hidden-gurus-will-be-able-decrypt-devices-hong-kong-national-security-cases?utm_source=rss_feed",
     "title": "‘Specified persons’ will be able to decrypt devices in Hong Kong national security cases",
     "snippet": "Hong Kong authorities will be able to demand any “specified person” decrypt electronic devices during national security investigations and may punish suspects who provide wrong passwords or falsely claim to have forgotten them, the security chief has",
-    "date": "2026-03-25T23:01:17.840517",
+    "date": "2026-03-26T05:52:34.938195",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3347762/hidden-gurus-will-be-able-decrypt-devices-hong-kong-national-security-cases?utm_source=rss_feed",
     "category": "MERCADO"
@@ -129,7 +129,7 @@
     "id": "https://www.scmp.com/news/hong-kong/politics/article/3347761/hong-kong-meet-uncertainty-openness-john-lee-tells-boao-forum-asia?utm_source=rss_feed",
     "title": "Hong Kong to meet uncertainty with openness, John Lee tells Boao Forum for Asia",
     "snippet": "Hong Kong will respond to uncertainty brought by intensifying geopolitical tensions “with openness rather than isolation”, Chief Executive John Lee Ka-chiu has pledged at an annual forum in Hainan, calling on economies to join hands to promote free t",
-    "date": "2026-03-25T23:01:17.840673",
+    "date": "2026-03-26T05:52:34.938353",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3347761/hong-kong-meet-uncertainty-openness-john-lee-tells-boao-forum-asia?utm_source=rss_feed",
     "category": "MERCADO"
@@ -138,7 +138,7 @@
     "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346515/how-national-security-and-one-country-two-systems-go-hand-hand?utm_source=rss_feed",
     "title": "How national security and ‘one country, two systems’ go hand in hand",
     "snippet": "On February 10, China’s State Council Information Office released a white paper titled “Hong Kong: Safeguarding China’s National Security Under the Framework of One Country, Two Systems”. This is the third white paper issued by the Chinese central go",
-    "date": "2026-03-25T23:01:17.841652",
+    "date": "2026-03-26T05:52:34.939358",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346515/how-national-security-and-one-country-two-systems-go-hand-hand?utm_source=rss_feed",
     "category": "MERCADO"
@@ -147,7 +147,7 @@
     "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346468/mainland-style-oversight-system-could-help-legco-deliver?utm_source=rss_feed",
     "title": "Mainland-style oversight system could help Legco to deliver",
     "snippet": "After the annual “two sessions” in Beijing, it’s clear that Hong Kong policymakers have their work cut out for them. It has been made abundantly clear what is expected of Hong Kong: stop messing around and get on with the national programme.\nHong Kon",
-    "date": "2026-03-25T23:01:17.842008",
+    "date": "2026-03-26T05:52:34.939728",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3346468/mainland-style-oversight-system-could-help-legco-deliver?utm_source=rss_feed",
     "category": "MERCADO"
@@ -156,7 +156,7 @@
     "id": "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international",
     "title": "Will the next iPhone charge wirelessly?",
     "snippet": "The days of plugging in an iPhone to charge won't last forever.",
-    "date": "2026-03-25T23:01:18.639430",
+    "date": "2026-03-26T05:52:35.693021",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/technology/apple-wireless-charging/index.html?section=money_news_international",
     "category": "MERCADO"
@@ -165,7 +165,7 @@
     "id": "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international",
     "title": "Swiss voters reject corporate tax overhaul",
     "snippet": "Read full story for latest details.",
-    "date": "2026-03-25T23:01:18.639486",
+    "date": "2026-03-26T05:52:35.693085",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/pf/taxes/switzerland-tax-referendum-vote/index.html?section=money_news_international",
     "category": "TRIBUTARIO"
@@ -174,16 +174,25 @@
     "id": "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international",
     "title": "Apple stock nears record high",
     "snippet": "Apple stock is less than $1 away from its all-time high amid renewed optimism for the iPhone.",
-    "date": "2026-03-25T23:01:18.639545",
+    "date": "2026-03-26T05:52:35.693148",
     "source": "CNN TRADE",
     "url": "http://money.cnn.com/2017/02/13/technology/apple-stock-record/index.html?section=money_news_international",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c05dpr1m71go#1",
+    "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
+    "snippet": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
+    "date": "2026-03-26T05:52:35.917053",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
   },
   {
     "id": "https://www.xataka.com/transporte/dormir-clase-turista-ha-sido-mision-imposible-algunas-aerolineas-estan-probando-tres-asientos-que-se-convierten-cama",
     "title": "Dormir en clase turista ha sido misión imposible. Algunas aerolíneas están probando tres asientos que se convierten en cama",
     "snippet": "Viajar en clase turista en un vuelo de larga distancia suele implicar aceptar un peaje bastante claro: dormir mal o, directamente, no dormir. Lo hemos vivido todos, asientos estrechos, poco espacio para estirar las piernas y una postura que rara vez ",
-    "date": "2026-03-25T23:01:19.399723",
+    "date": "2026-03-26T05:52:36.343248",
     "source": "XATAKA",
     "url": "https://www.xataka.com/transporte/dormir-clase-turista-ha-sido-mision-imposible-algunas-aerolineas-estan-probando-tres-asientos-que-se-convierten-cama",
     "category": "TRIBUTARIO"
@@ -192,7 +201,7 @@
     "id": "https://www.xataka.com/drones/durante-anos-hemos-asociado-drones-a-helices-china-exploran-alternativa-inspirada-naturaleza",
     "title": "Durante años hemos asociado los drones a las hélices: en China exploran una alternativa inspirada en la naturaleza",
     "snippet": "Durante años hemos asociado los drones a una imagen muy concreta: dispositivos no tripulados con varias hélices girando a toda velocidad, capaces de grabar, vigilar o incluso formar figuras en el cielo en eventos multitudinarios. Es la referencia que",
-    "date": "2026-03-25T23:01:19.400592",
+    "date": "2026-03-26T05:52:36.344179",
     "source": "XATAKA",
     "url": "https://www.xataka.com/drones/durante-anos-hemos-asociado-drones-a-helices-china-exploran-alternativa-inspirada-naturaleza",
     "category": "TRIBUTARIO"
@@ -201,7 +210,7 @@
     "id": "https://www.xataka.com/medicina-y-salud/magnesio-se-ha-convertido-suplemento-moda-para-dormir-esto-que-dice-ciencia-realmente",
     "title": "El magnesio se ha convertido en el suplemento de moda para dormir. Esto es lo que dice la ciencia realmente",
     "snippet": "Es innegable que el magnesio ha alcanzado una gran fama entre muchas personas que ven la necesidad de tomarlo absolutamente cada día como un medicamento más que le ha recetado su médico. Y no es para menos, puesto que la gran lista de beneficios que ",
-    "date": "2026-03-25T23:01:19.401741",
+    "date": "2026-03-26T05:52:36.345391",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/magnesio-se-ha-convertido-suplemento-moda-para-dormir-esto-que-dice-ciencia-realmente",
     "category": "TRIBUTARIO"
@@ -210,7 +219,7 @@
     "id": "https://www.xataka.com/musica/pelea-villaverde-shakira-quiere-meter-a-300-000-personas-lugar-que-no-convence-al-gobierno-absoluto",
     "title": "La pelea por Villaverde: Shakira quiere meter a 300.000 personas en un lugar que no convence al Gobierno en absoluto",
     "snippet": "Live Nation y Shakira han presentado ya oficialmente el Macondo Park, un recinto temporal de 40 hectáreas en el Iberdrola Music de Villaverde diseñado para cerrar la gira 'Las mujeres ya no lloran' con una residencia de nueve conciertos en Madrid en ",
-    "date": "2026-03-25T23:01:19.402882",
+    "date": "2026-03-26T05:52:36.346613",
     "source": "XATAKA",
     "url": "https://www.xataka.com/musica/pelea-villaverde-shakira-quiere-meter-a-300-000-personas-lugar-que-no-convence-al-gobierno-absoluto",
     "category": "TRIBUTARIO"
@@ -219,7 +228,7 @@
     "id": "https://www.xataka.com/empresas-y-economia/conflicto-generacional-generacion-z-nos-esta-costando-mucho-dinero-56-000-millones-dolares",
     "title": "El conflicto generacional con la Generación Z nos está costando mucho dinero: 56.000 millones de dólares",
     "snippet": "Hay una guerra silenciosa en las oficinas de medio mundo por el enfoque en la adopción de la IA en el trabajo. No tiene bandos declarados ni batallas visibles, pero sus devastadores efectos ya tienen precio: uno escandalosamente alto.\nNo hablamos de ",
-    "date": "2026-03-25T23:01:19.403809",
+    "date": "2026-03-26T05:52:36.347583",
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/conflicto-generacional-generacion-z-nos-esta-costando-mucho-dinero-56-000-millones-dolares",
     "category": "TRIBUTARIO"
@@ -228,7 +237,7 @@
     "id": "https://www.xataka.com/magnet/hay-empresa-vasca-que-esta-ganando-fortuna-negocio-inesperado-madurar-platanos-canarias",
     "title": "Hay una empresa vasca que está ganando una fortuna con un negocio inesperado: madurar plátanos de Canarias",
     "snippet": "100 millones de euros de facturación madurando plátanos. Es el objetivo de Musanorte, una empresa con raíces canarias y sede en Vizcaya que ha convertido en un nicho tan concreto y alejado del foco como la maduración controlada de fruta en un motor e",
-    "date": "2026-03-25T23:01:19.404811",
+    "date": "2026-03-26T05:52:36.348628",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/hay-empresa-vasca-que-esta-ganando-fortuna-negocio-inesperado-madurar-platanos-canarias",
     "category": "TRIBUTARIO"
@@ -237,7 +246,7 @@
     "id": "https://www.xataka.com/magnet/iran-ha-enviado-mensaje-misil-balistico-a-4-000-km-distancia-europa-esta-a-su-alcance-incluida-espana",
     "title": "Irán ha enviado un mensaje con un misil balístico a 4.000 km de distancia: Europa está a su alcance, incluida España",
     "snippet": "Un misil balístico puede alcanzar velocidades superiores a Mach 10 y recorrer miles de kilómetros en menos de media hora, saliendo incluso de la atmósfera antes de volver a caer hacia su objetivo. Esa combinación de velocidad y altura es lo que ha co",
-    "date": "2026-03-25T23:01:19.405992",
+    "date": "2026-03-26T05:52:36.349864",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/iran-ha-enviado-mensaje-misil-balistico-a-4-000-km-distancia-europa-esta-a-su-alcance-incluida-espana",
     "category": "TRIBUTARIO"
@@ -246,7 +255,7 @@
     "id": "https://www.xataka.com/energia/misterio-wall-street-mayor-crisis-petroleo-no-les-esta-haciendo-pestanear-segundo-bolsa",
     "title": "El misterio de Wall Street: la mayor crisis del petróleo no les está haciendo pestañear ni un segundo en bolsa",
     "snippet": "Llevamos casi un mes inmersos en lo que ya se puede catalogar como la Tercera Guerra del Golfo. Desde que a finales de febrero comenzara la ofensiva de Estados Unidos e Israel contra Irán, el mundo se enfrenta a la mayor disrupción del suministro ene",
-    "date": "2026-03-25T23:01:19.407201",
+    "date": "2026-03-26T05:52:36.351078",
     "source": "XATAKA",
     "url": "https://www.xataka.com/energia/misterio-wall-street-mayor-crisis-petroleo-no-les-esta-haciendo-pestanear-segundo-bolsa",
     "category": "TRIBUTARIO"
@@ -255,7 +264,7 @@
     "id": "https://www.xataka.com/espacio/spacex-prepara-salida-a-bolsa-grande-toda-historia-que-haga-este-momento-no-ninguna-casualidad",
     "title": "SpaceX prepara la salida a bolsa más grande de toda la historia: que lo haga justo ahora no es ninguna casualidad",
     "snippet": "A finales de enero SpaceX dejó de conformarse con ser solo SpaceX, y adquirió —¿o sería mejor decir \"absorbió\"?— a xAI, la empresa de inteligencia artificial también fundada por Elon Musk. Ese movimiento y el auge tanto de la división espacial como d",
-    "date": "2026-03-25T23:01:19.407954",
+    "date": "2026-03-26T05:52:36.351834",
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/spacex-prepara-salida-a-bolsa-grande-toda-historia-que-haga-este-momento-no-ninguna-casualidad",
     "category": "TRIBUTARIO"
@@ -264,7 +273,7 @@
     "id": "https://www.xataka.com/historia-tecnologica/1967-veterano-guerra-creia-que-moverse-ordenador-podia-ser-sencillo-asi-que-creo-primer-raton",
     "title": "En 1967 un veterano de guerra creía que moverse por un ordenador podía ser más sencillo. Así que creó el primer ratón",
     "snippet": "Las cosas claras desde el minuto uno. Cuando Douglas Engelbart, responsable del Centro de investigación de Aumento (ARC), en Stanford, quería entrevistar a un nuevo fichaje le daba un lápiz pegado a un ladrillo y luego le pedía que escribiera su nomb",
-    "date": "2026-03-25T23:01:19.408822",
+    "date": "2026-03-26T05:52:36.352699",
     "source": "XATAKA",
     "url": "https://www.xataka.com/historia-tecnologica/1967-veterano-guerra-creia-que-moverse-ordenador-podia-ser-sencillo-asi-que-creo-primer-raton",
     "category": "TRIBUTARIO"
@@ -273,7 +282,7 @@
     "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/gran-problema-cancun-tiene-respuesta-mexico-esta-a-punto-terminar-uno-puentes-largos-latinoamerica",
     "title": "México está a punto de terminar una obra gigantesca: uno de los puentes más largos de Latinoamérica",
     "snippet": "Si has estado en Cancún, es muy probable que hayas pasado por lo mismo: trayectos cortos que se alargan mucho más de lo esperado, especialmente cuando toca cruzar hacia la zona hotelera. La ciudad depende en gran medida de una conexión que, en horas ",
-    "date": "2026-03-25T23:01:19.409914",
+    "date": "2026-03-26T05:52:36.353849",
     "source": "XATAKA",
     "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/gran-problema-cancun-tiene-respuesta-mexico-esta-a-punto-terminar-uno-puentes-largos-latinoamerica",
     "category": "TRIBUTARIO"
@@ -282,7 +291,7 @@
     "id": "https://www.xataka.com/energia/taiwan-produce-90-chips-avanzados-mundo-problema-que-sus-reservas-energia-se-agotan-12-dias",
     "title": "Taiwán produce el 90% de los chips avanzados del mundo. Sus reservas de gas natural dan exactamente para 12 días",
     "snippet": "En los mercados energéticos mundiales, las alarmas no siempre suenan con estruendo; a veces, basta con observar hacia dónde navegan los barcos. Mientras Occidente observa la ya conocida Tercera Guerra del Golfo con una mezcla de horror y lejanía, Asi",
-    "date": "2026-03-25T23:01:19.411018",
+    "date": "2026-03-26T05:52:36.355032",
     "source": "XATAKA",
     "url": "https://www.xataka.com/energia/taiwan-produce-90-chips-avanzados-mundo-problema-que-sus-reservas-energia-se-agotan-12-dias",
     "category": "TRIBUTARIO"
@@ -291,7 +300,7 @@
     "id": "https://www.xataka.com/seleccion/hay-vida-alla-outlook-google-todas-estas-alternativas-europeas-van-genial-quieres-depender-eeuu",
     "title": "Hay vida más allá de Outlook o Google: todas estas alternativas europeas van genial si quieres depender menos de EEUU",
     "snippet": "Puede que te hayas dado cuenta o no, pero lo más probable es que muchas de las apps y servicios que utilizas a diario sean propiedad de una gran compañía de Estados Unidos. Justo por eso mismo, cada vez son más los usuarios que están pensando en pasa",
-    "date": "2026-03-25T23:01:19.412730",
+    "date": "2026-03-26T05:52:36.356829",
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/hay-vida-alla-outlook-google-todas-estas-alternativas-europeas-van-genial-quieres-depender-eeuu",
     "category": "TRIBUTARIO"
@@ -300,7 +309,7 @@
     "id": "https://www.xataka.com/magnet/que-queria-decir-ortega-gasset-cuando-defendia-que-tigre-no-puede-dejar-ser-tigre-ser-humano-esta-siempre-a-punto-dejar-serlo",
     "title": "José Ortega y Gasset: \"El tigre no puede dejar de ser tigre pero el hombre vive en riesgo permanente de deshumanizarse\"",
     "snippet": "\"¿Y aquí me importa a mi lo que pueda o no pueda dejar de hacer un tigre?\". Esa, imagino, es la única pregunta razonable que uno puede hacerse al escuchar esta famosa frase de Ortega y Gasset. \"El tigre no puede dejar de ser tigre\", decía el filósofo",
-    "date": "2026-03-25T23:01:19.413589",
+    "date": "2026-03-26T05:52:36.357752",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/que-queria-decir-ortega-gasset-cuando-defendia-que-tigre-no-puede-dejar-ser-tigre-ser-humano-esta-siempre-a-punto-dejar-serlo",
     "category": "TRIBUTARIO"
@@ -309,34 +318,34 @@
     "id": "https://www.xataka.com/empresas-y-economia/openai-se-prometia-felices-vendiendo-hype-memes-que-se-ha-dado-golpe-realidad",
     "title": "OpenAI creía que el futuro de la IA pasaba por consumo masivo, hype constante y memes: la realidad está siendo dura",
     "snippet": "La noticia del fin de semana es el cierre de Sora. La que en su día fue la plataforma del hype en lo relativo a creación de vídeo dice adiós dejando atrás acuerdos millonarios con gigantes como Disney, la promesa de OpenAI de ser uno de los grandes a",
-    "date": "2026-03-25T23:01:19.414629",
+    "date": "2026-03-26T05:52:36.358854",
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/openai-se-prometia-felices-vendiendo-hype-memes-que-se-ha-dado-golpe-realidad",
     "category": "TRIBUTARIO"
   },
   {
     "id": "a5923314-1fd0-4f5f-9720-31f845558d76",
-    "title": "We've Been Tracking Our Favorite Deals During the Amazon Big Spring Sale and There Are a Ton of Great Ones",
-    "snippet": "The Amazon Big Spring Sale is the first major sale of the year. Amazon has deals on just about anything you could want, from vacuums to TVs and anything in between.",
-    "date": "2026-03-25T23:01:19.662139",
+    "title": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and There Are a Ton of Great Ones",
+    "snippet": "The Amazon Big Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're vetting all the best discounts.",
+    "date": "2026-03-26T05:52:36.538882",
     "source": "CNET",
     "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
     "category": "MERCADO"
   },
   {
-    "id": "911716a8-e477-4925-b67a-16b84851cc9a",
-    "title": "Foldable Smartphone Shipments Grew 28% in 2025, Even Without Apple",
-    "snippet": "Now that more major brands are competing in the foldable market, a growing number of people are making the switch.",
-    "date": "2026-03-25T23:01:19.662258",
+    "id": "1bc01435-c6b2-49b0-8329-a32ea1e0c119",
+    "title": "The Top Tech Deals Our Readers Are Shopping During Amazon's Big Spring Sale",
+    "snippet": "Check out the top trending gadgets that you can snag on sale now during the Amazon Big Spring Sale.",
+    "date": "2026-03-26T05:52:36.538933",
     "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/foldable-smartphone-shipments-growth-2025/",
+    "url": "https://www.cnet.com/deals/tech-deals-our-readers-are-eyeing-amazon-big-spring-sale/",
     "category": "MERCADO"
   },
   {
     "id": "315bb7b0-cfc5-4060-8d43-8ef99d74842b",
     "title": "Razer's new Blade 16 has Intel's latest chips and ultra-fast RAM",
     "snippet": "After leaning into some questionable AI antics at CES 2026, Razer is making some altogether more practical updates to its 16-inch laptop by giving it newer chips and faster RAM. The new Razer Blade 16 features Intel's new Core Ultra chips and speedy ",
-    "date": "2026-03-25T23:01:20.003218",
+    "date": "2026-03-26T05:52:36.948065",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/computing/laptops/razers-new-blade-16-has-intels-latest-chips-and-ultra-fast-ram-185858799.html?src=rss",
     "category": "MERCADO"
@@ -345,7 +354,7 @@
     "id": "97811f9a-c013-44f8-9c6b-646ec8683e88",
     "title": "YouTube is bringing affiliate shopping features to more creators",
     "snippet": "YouTube creators can start making money earlier in their careers. On Wednesday, the company said it's reducing the Shopping affiliate program subscriber threshold from 1,000 to 500.The affiliate program launched in 2022, allowing creators to earn kic",
-    "date": "2026-03-25T23:01:20.004285",
+    "date": "2026-03-26T05:52:36.949205",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/social-media/youtube-is-bringing-affiliate-shopping-features-to-more-creators-183927027.html?src=rss",
     "category": "MERCADO"
@@ -354,7 +363,7 @@
     "id": "78d2ac13-58f3-47b8-8bae-a8074d98b28f",
     "title": "Google's Lyria 3 Pro can now generate AI music (slop) up to 3 minutes in length",
     "snippet": "Google just introduced Lyria 3 Pro, an updated version of its AI model that generates songs based on prompts. The biggest improvement here is the ability to make full three-minute songs, up from 30 seconds when the product launched last month.\nThe to",
-    "date": "2026-03-25T23:01:20.005299",
+    "date": "2026-03-26T05:52:36.950226",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/ai/googles-lyria-3-pro-can-now-generate-ai-music-slop-up-to-3-minutes-in-length-172738752.html?src=rss",
     "category": "MERCADO"
@@ -363,7 +372,7 @@
     "id": "5109fbf5-fa60-404d-bad2-3b99de3dfe86",
     "title": "Meta lays off hundreds of workers, including more from Reality Labs",
     "snippet": "Meta is laying off more employees. Of the hundreds of cuts made on Wednesday, the Reality Labs division is one of the prime recipients. The layoffs come a day after news broke that Meta executives (sans Mark Zuckerberg) could be set for windfalls of ",
-    "date": "2026-03-25T23:01:20.006255",
+    "date": "2026-03-26T05:52:36.951174",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/big-tech/meta-lays-off-hundreds-of-workers-including-more-from-reality-labs-171536879.html?src=rss",
     "category": "MERCADO"
@@ -372,7 +381,7 @@
     "id": "2cef75f1-d574-489d-92b2-9a74741ea83c",
     "title": "The Afeela 1 came too late and now is gone too soon",
     "snippet": "One of the most overly hyped, unfortunately named and curiously positioned cars has been officially killed. It's the Afeela 1, better known as the PlayStation Car, and it was meant to be an ultimate intersection of personal mobility and digital media",
-    "date": "2026-03-25T23:01:20.008638",
+    "date": "2026-03-26T05:52:36.953640",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/transportation/evs/the-afeela-1-came-too-late-and-now-is-gone-too-soon-164845008.html?src=rss",
     "category": "MERCADO"
@@ -381,7 +390,7 @@
     "id": "46440287-e390-46ad-a1ba-35010ef336e2",
     "title": "Reddit will prompt some accounts to 'verify humanness' in latest bot crackdown",
     "snippet": "Reddit CEO Steve Huffman has detailed the company's latest plan to fight bots and it means that some accounts will need to \"verify humanness,\" though the company is stopping short of widespread identity verification. In an update, Huffman said that i",
-    "date": "2026-03-25T23:01:20.009991",
+    "date": "2026-03-26T05:52:36.955166",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/social-media/reddit-will-prompt-some-accounts-to-verify-humanness-in-latest-bot-crackdown-161000181.html?src=rss",
     "category": "MERCADO"
