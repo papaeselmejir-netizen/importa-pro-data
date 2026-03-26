@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.theverge.com/?p=901792",
+    "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale",
+    "snippet": "A good robovac can save you a surprising amount of time. Luckily, Amazon’s Big Spring Sale is a great time to pick one up, as you can currently find deals on everything from basic, budget-friendly robovacs to high-end mo...",
+    "date": "2026-03-26T22:30:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427221",
+    "title": "DP World maneja el contenedor número 10 millones en Dakar",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World gestionó su contenedor número 10 millones en la Terminal de Contenedores de Dakar desde\nLa entrada DP World maneja el contenedor número 10 millones en Dakar se publ...",
+    "date": "2026-03-26T22:00:13",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-maneja-el-contenedor-numero-10-millones-en-dakar/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-pokopia-nuevo-juego-pokemon-mezcla-simulacion-construccion-y-exploracion-1068576.aspx",
+    "title": "Pokopia, el nuevo juego de Pokémon que mezcla simulación, construcción y exploración",
+    "snippet": "El lanzamiento de Pokopia en la Nintendo Switch 2 ha sorprendido a los seguidores de Pokémon al presentar una propuesta distinta dentro de la franquicia, que nos reta siempre con nuevos gimnasios o misteriosos objetos. E...",
+    "date": "2026-03-26T22:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-pokopia-nuevo-juego-pokemon-mezcla-simulacion-construccion-y-exploracion-1068576.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "a5923314-1fd0-4f5f-9720-31f845558d76",
+    "title": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and We're Seeing a Ton of Great Ones",
+    "snippet": "Amazon's Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're filtering out the fluff to find the real bargains....",
+    "date": "2026-03-26T21:58:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=427383",
     "title": "Colombia: Invías realiza rueda de negocios para presentar avances técnicos del proyecto de dragado en Puerto de Buenaventura",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Instituto de Nacional de Vías de Colombia  (Invías) realizó una rueda de negocios para presentar\nLa entrada Colombia: Invías realiza rueda de negocios para presentar avan...",
@@ -7,6 +43,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/colombia-invias-realiza-rueda-de-negocios-para-presentar-avances-tecnicos-del-proyecto-de-dragado-en-puerto-de-buenaventura/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-lima-ya-cuenta-con-decreto-supremo-para-semaforizacion-inteligente-la-capital-1068639.aspx",
+    "title": "Lima ya cuenta con el decreto supremo para semaforización inteligente en la capital",
+    "snippet": "El alcalde de Lima, Renzo Reggiardo, destacó la publicación hoy del decreto supremo que aprueba un desembolso de 150 millones de dólares en favor de la Municipalidad de Lima, lo cual permitirá implementar un proyecto int...",
+    "date": "2026-03-26T21:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-lima-ya-cuenta-con-decreto-supremo-para-semaforizacion-inteligente-la-capital-1068639.aspx",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://portalportuario.cl/?p=427408",
@@ -682,6 +727,15 @@
     "source": "CNET",
     "url": "https://www.cnet.com/tech/gaming/nintendos-20-switch-2-upgrade-for-super-mario-wonder-is-worth-it-for-the-extras/",
     "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3106400",
+    "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+    "snippet": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition....",
+    "date": "2026-03-26T12:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "3a3d8a2c-4099-4baa-8638-ce144586f4da",
