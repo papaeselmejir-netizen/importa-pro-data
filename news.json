@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://rpp.pe/1681981",
+    "title": "El barril de petróleo Brent cerró la semana a 112,57 dólares, el precio más alto desde 2022",
+    "snippet": "Ayer jueves, cerró a 108,01 dólares. En un solo día, ha subido 4,56 dólares, equivalente a un 4,22 %....",
+    "date": "2026-03-27T23:54:48",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/internacional/el-barril-de-petroleo-brent-cerro-la-semana-a-11257-dolares-el-precio-mas-alto-desde-2022-noticia-1681981",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427493",
+    "title": "Puerto de Algeciras lidera suministro de GNL en la Península Ibérica",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Algeciras suministró en 2025 a buques 333.833 metros cúbicos de Gas Natural Licuado\nLa entrada Puerto de Algeciras lidera suministro de GNL en la Península Ibér...",
+    "date": "2026-03-27T23:00:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-algeciras-lidera-suministro-de-gnl-en-la-peninsula-iberica/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-suplemento-variedades-llega-especial-inspirado-la-proxima-semana-santa-1068792.aspx",
+    "title": "Suplemento “Variedades” llega con especial inspirado en la próxima Semana Santa",
+    "snippet": "La edición 648 de “Variedades”, el suplemento cultural del Diario Oficial “El Peruano”, llega hoy con una edición inspirada en la próxima Semana Santa....",
+    "date": "2026-03-27T22:48:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-suplemento-variedades-llega-especial-inspirado-la-proxima-semana-santa-1068792.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427746",
+    "title": "CSAV cierra 2025 con descenso de 45% en utilidades",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Compañía Sud Americana de Vapores (CSAV) reportó utilidades por USD 213,1 millones en 2025, cifra\nLa entrada CSAV cierra 2025 con descenso de 45% en utilidades se publicó...",
+    "date": "2026-03-27T22:38:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/csav-cierra-2025-con-descenso-de-45-en-utilidades/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atencion-callao-cierre-temporal-de-costa-verde-sentido-norte-a-sur-1068791.aspx",
+    "title": "¡Atención, Callao! Cierre temporal de la Costa Verde en sentido norte a sur",
+    "snippet": "La Municipalidad Provincial del Callao informó que se ha dispuesto el cierre temporal de la Vía Expresa Costa Verde, en el sentido norte a sur, debido a oleajes anómalos que aún se encuentran en evaluación y podrían moti...",
+    "date": "2026-03-27T22:33:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atencion-callao-cierre-temporal-de-costa-verde-sentido-norte-a-sur-1068791.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1681986",
+    "title": "Osinergmin dice que \"no ha emitido ninguna estimación\" de multa contra la concesionaria de gas de Camisea",
+    "snippet": "El organismo público señaló que, actualmente, se encuentra en etapa de investigación técnica de la fuga y deflagración de gas, ocurrida en el yacimiento de Camisea, con el objetivo de determinar sus causas y verificar el...",
+    "date": "2026-03-27T22:26:17",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/osinergmin-dice-que-no-ha-estimado-multa-contra-concesionaria-de-gas-de-camisea-noticia-1681986",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427706",
+    "title": "Brasil: Puerto de Santos se integra a comité que debatirá sobre hidrovía de río Madeira",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Santos (APS) se sumó a un comité creado para evaluar los impactos\nLa entrada Brasil: Puerto de Santos se integra a comité que debatirá sobre hidrov...",
+    "date": "2026-03-27T22:08:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-puerto-de-santos-se-integra-a-comite-que-debatira-sobre-hidrovia-de-rio-madeira/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=427696",
     "title": "Crucero fluvial se estrella contra puente tras zarpar del Puerto de Ámsterdam",
     "snippet": "El crucero fluvial A-Rosa Sena se estrelló contra un puente de carretera en las afueras de Ámsterdam, accidente ocurrido en\nLa entrada Crucero fluvial se estrella contra puente tras zarpar del Puerto de Ámsterdam se publ...",
@@ -119,6 +182,15 @@
   {
     "id": "https://www.xataka.com/energia/iran-ha-vuelto-a-convertir-energia-problema-reino-unido-cree-haber-encontrado-solucion-paneles-solares",
     "title": "Irán ha vuelto a convertir la energía en un problema. Reino Unido cree haber encontrado una solución en los paneles solares",
+    "snippet": "Hay temas que creemos resueltos hasta que la realidad se encarga de recordarnos que no lo están. La energía es uno de ellos. Llevamos años hablando de paneles solares, de autoconsumo y de alternativas a los combustibles ...",
+    "date": "2026-03-27T20:01:32",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/iran-ha-vuelto-a-convertir-energia-problema-reino-unido-cree-haber-encontrado-solucion-paneles-solares",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/energia/iran-ha-vuelto-a-convertir-energia-problema-reino-unido-cree-haber-encontrado-solucion-paneles-solares",
+    "title": "La guerra con Irán ha convertido la energía en un problema. Reino Unido cree tener una solución: paneles solares",
     "snippet": "Hay temas que creemos resueltos hasta que la realidad se encarga de recordarnos que no lo están. La energía es uno de ellos. Llevamos años hablando de paneles solares, de autoconsumo y de alternativas a los combustibles ...",
     "date": "2026-03-27T20:01:32",
     "source": "XATAKA",
@@ -1276,77 +1348,5 @@
     "source": "CNET",
     "url": "https://www.cnet.com/tech/mobile/i-want-apple-to-steal-these-android-camera-features-for-the-iphone-18/",
     "category": "MERCADO"
-  },
-  {
-    "id": "83bbda5e-38f3-4366-9673-55e0b09ea890",
-    "title": "WhatsApp's New Update Makes it Easier to Switch Phones, Free Up Storage",
-    "snippet": "Your chat history will be easier to transfer from iPhone to Android, and it's easier to delete large media files from your conversations.",
-    "date": "2026-03-26T19:41:49.236747",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/whatsapps-new-update-makes-it-easier-to-switch-phones-juggle-accounts/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "708d8530-4bd1-476c-abed-f364c6e960c3",
-    "title": "Don't Wait on iOS 26.4: It Might Help Your iPhone Typos",
-    "snippet": "Commentary: The new emoji are also fun. But I'm more into the Apple Music updates.",
-    "date": "2026-03-26T19:41:49.236691",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/dont-wait-on-ios-26-4-it-might-help-your-iphone-typos/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "a5923314-1fd0-4f5f-9720-31f845558d76",
-    "title": "We're Tracking Our Favorite Deals During the Amazon Big Spring Sale and There Are a Ton of Great Ones",
-    "snippet": "The Amazon Big Spring Sale has deals on just about anything you could want, from vacuums to TVs and anything in between, and we're vetting all the best discounts.",
-    "date": "2026-03-26T19:41:49.236482",
-    "source": "CNET",
-    "url": "https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3106400",
-    "title": "A ‘pound of flesh’ from data centers: One senator’s answer to AI job losses",
-    "snippet": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
-    "date": "2026-03-26T19:41:49.168884",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3106435",
-    "title": "Cohere launches an open source voice model specifically for transcription",
-    "snippet": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
-    "date": "2026-03-26T19:41:49.168804",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3106015",
-    "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.",
-    "snippet": "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked online.",
-    "date": "2026-03-26T19:41:49.168727",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3106277",
-    "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
-    "snippet": "Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in.",
-    "date": "2026-03-26T19:41:49.168442",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/diferentes-tipos-memorias-ram-para-no-pagar-dentro-posible-sobrecostes-crisis-hardware-actual",
-    "title": "Diferentes tipos de memorias RAM para no pagar (dentro de lo posible) los sobrecostes de la crisis de hardware actual",
-    "snippet": "Como soy el más 'tech' de mi entorno, en los últimos meses he recibido un montón de preguntas sobre la memoria RAM. Hay mucha inquietud sobre esta, puesto que la inteligencia artificial ha hecho que el precio de esta se dispare. ¿Dónde nos deja eso? ",
-    "date": "2026-03-26T19:41:49.115556",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/diferentes-tipos-memorias-ram-para-no-pagar-dentro-posible-sobrecostes-crisis-hardware-actual",
-    "category": "TRIBUTARIO"
   }
 ]
