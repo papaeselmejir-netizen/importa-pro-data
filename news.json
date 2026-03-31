@@ -1,7 +1,151 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-confirman-derrame-hidrocarburos-tramo-del-oleoducto-norperuano-la-region-amazonas-1069145.aspx",
+    "title": "Confirman derrame de hidrocarburos en tramo del Oleoducto Norperuano en la región Amazonas",
+    "snippet": "El Centro de Operaciones de Emergencia Nacional (COEN) confirmó hoy martes 31 de marzo un nuevo derrame de hidrocarburos registrado en un tramo del Oleoducto NorPeruano, a la altura del km 393+674, en el distrito de Niev...",
+    "date": "2026-03-31T12:03:14",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-confirman-derrame-hidrocarburos-tramo-del-oleoducto-norperuano-la-region-amazonas-1069145.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/queriamos-coches-electricos-paneles-solares-bloqueo-ormuz-nos-ha-devuelto-a-era-carbon-energia-nuclear",
+    "title": "Queríamos coches eléctricos y paneles solares. El bloqueo de Ormuz nos ha devuelto a la era del carbón y la energía nuclear",
+    "snippet": "La Tercera Guerra del Golfo ha provocado lo que décadas de cumbres climáticas intentaron evitar: el cierre efectivo del Estrecho de Ormuz ha borrado de un plumazo el 20% del suministro mundial de petróleo y gas natural l...",
+    "date": "2026-03-31T12:00:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/queriamos-coches-electricos-paneles-solares-bloqueo-ormuz-nos-ha-devuelto-a-era-carbon-energia-nuclear",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428094",
+    "title": "Bolivia: ASP-B asume administración de Puerto Busch",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La gerente ejecutiva de la Administración de Servicios Portuarios-Bolivia (ASP-B), Z. Tania Olmos Tejada, y el\nLa entrada Bolivia: ASP-B asume administración de Puerto Busch...",
+    "date": "2026-03-31T12:00:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/bolivia-asp-b-asume-administracion-de-puerto-busch/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=902603",
+    "title": "Belkin’s battery-equipped Switch 2 case is more than 35 percent off right now",
+    "snippet": "Belkin makes some of the best zip-up cases for the Nintendo Switch 2. Full stop. The company’s aptly titled Charging Case, which includes a 10,000mAh battery to keep your console charged while it’s protected, is particul...",
+    "date": "2026-03-31T12:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/902603/belkin-charging-case-nintendo-switch-2-amazon-big-spring-sale-2026-deal",
+    "category": "MERCADO"
+  },
+  {
+    "id": "a5923314-1fd0-4f5f-9720-31f845558d76",
+    "title": "We're Still Tracking All the Best Amazon Spring Sale Deals, Even on the Final Day",
+    "snippet": "From headphones to Lego sets to cookware, our shopping experts are bringing the can't-miss bargains straight to you....",
+    "date": "2026-03-31T11:31:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/news-live/best-amazon-spring-sale-deals-live-tracker-2026/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/todos-miraban-a-iran-japon-ha-fortificado-sus-islas-frente-a-taiwan-ahora-puede-encerrar-a-china-solo-tiro",
+    "title": "Mientras todos miraban a Irán, Japón ha fortificado sus islas frente a Taiwán con una idea: encerrar a China sin un solo tiro",
+    "snippet": "Japón es un país formado por más de 6.800 islas, aunque solo unas 400 están habitadas de forma permanente. Muchas de ellas son pequeñas, remotas y apenas aparecen en el mapa, pero su ubicación las sitúa en algunos de los...",
+    "date": "2026-03-31T11:30:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/todos-miraban-a-iran-japon-ha-fortificado-sus-islas-frente-a-taiwan-ahora-puede-encerrar-a-china-solo-tiro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-semana-santa-conoce-horario-especial-del-transporte-publico-2-y-3-abril-1069051.aspx",
+    "title": "Semana Santa: conoce el horario especial del transporte público el 2 y 3 de abril",
+    "snippet": "Durante la celebración de Semana Santa miles de familias se movilizan para participar en tradiciones religiosas o disfrutar de momentos recreativos. Ante ello, la Autoridad de Transporte Urbano para Lima y Callao (ATU) i...",
+    "date": "2026-03-31T11:28:36",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-semana-santa-conoce-horario-especial-del-transporte-publico-2-y-3-abril-1069051.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/basics/skills-claude-que-estas-habilidades-sirven-como-se-usan-quien-puede-utilizarlas-para-crear-su-propio-claude",
+    "title": "Skills de Claude: qué son estas habilidades, para qué sirven, cómo se usan y quién puede utilizarlas para crear su propio Claude",
+    "snippet": "Vamos a explicarte qué son los Skills de Claude, también llamadas Habilidades en Español. Se trata de un método con el que puedes crear versiones personalizadas de Claude, una alternativa a los GPTs de ChatGPT o los Gems...",
+    "date": "2026-03-31T11:07:11",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/skills-claude-que-estas-habilidades-sirven-como-se-usan-quien-puede-utilizarlas-para-crear-su-propio-claude",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1682312",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 31 de marzo del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy martes 31 de marzo es de  S/3.50 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-03-31T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-31-de-marzo-del-2026-noticia-1682312",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/espana-adjudico-20-millones-euros-a-stellantis-para-crear-empleo-galicia-europa-ha-impedido-que-le-entreguen-dinero",
+    "title": "España adjudicó 20 millones de euros a Stellantis para crear empleo en Galicia. Europa ha impedido que le entreguen el dinero",
+    "snippet": "20.660.434 euros.\nEsa fue la ayuda que el Gobierno de España en 2017 concedió a PSA (ahora Stellantis tras su fusión con FCA) como \"incentivos regionales para la corrección de los desequilibrios económicos territoriales'...",
+    "date": "2026-03-31T11:00:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/espana-adjudico-20-millones-euros-a-stellantis-para-crear-empleo-galicia-europa-ha-impedido-que-le-entreguen-dinero",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427879",
+    "title": "MOL y Hitachi lanzan iniciativa para convertir buques usados en centros de datos flotantes",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Mitsui OSK Lines (MOL), Hitachi y Hitachi Systems anunciaron la firma de un Memorando de Entendimiento\nLa entrada MOL y Hitachi lanzan iniciativa para convertir buques usado...",
+    "date": "2026-03-31T11:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mol-y-hitachi-lanzan-iniciativa-para-convertir-buques-usados-en-centros-de-datos-flotantes/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=901418",
+    "title": "Apple at 50: a visual history",
+    "snippet": "It's difficult to picture a world without Apple. The company's influence at the heart of technology and culture is so profound that even the era before the iPhone can now seem like a distant memory - and Apple existed mo...",
+    "date": "2026-03-31T11:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/901418/apple-history-photos",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/instagram-quiere-que-puedas-cotillear-historias-tu-ex-que-te-pille-pagando-claro",
+    "title": "Instagram quiere que puedas cotillear las historias de tu ex sin que te pille. Pagando, claro",
+    "snippet": "Las historias de Instagram cumplen diez años dentro de poco y la compañía está preparando una novedad que podría cambiar por completo este producto. El formato, popularizado por Snapchat, tiene unas \"reglas\" básicas, com...",
+    "date": "2026-03-31T10:30:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/instagram-quiere-que-puedas-cotillear-historias-tu-ex-que-te-pille-pagando-claro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/a-espanoles-nos-encantan-operadores-low-cost-asi-que-pccomponentes-se-ha-subido-al-barco",
+    "title": "A los españoles nos encantan los operadores de telefonía low cost. Así que PcComponentes se ha subido al barco",
+    "snippet": "En plena guerra de las operadoras por ofrecer tarifas low cost, la murciana PcComponentes ha decidido entrar en el campo de batalla. La empresa se estrena con tarifas de fibra y móvil de la mano de Likes Telecom, compañí...",
+    "date": "2026-03-31T10:16:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/a-espanoles-nos-encantan-operadores-low-cost-asi-que-pccomponentes-se-ha-subido-al-barco",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/japon-se-ha-dado-cuenta-que-su-problema-turistas-no-cuanto-sino-donde-quiere-mejor-repartidos",
+    "title": "Japón está intentando cuadrar el círculo imposible del turismo: atraer más visitantes pero repartirlos mejor",
+    "snippet": "El dilema se las trae. Japón quiere más turistas, pero no a cualquier precio. Lo primero es bastante comprensible si se tiene en cuenta que el Gobierno calcula que a finales de esta década el país podría estar ingresando...",
+    "date": "2026-03-31T10:00:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/japon-se-ha-dado-cuenta-que-su-problema-turistas-no-cuanto-sino-donde-quiere-mejor-repartidos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/hay-carrera-ia-mucho-profunda-e-importante-que-china-esta-aplastando-a-sus-competidores-talento-humano",
     "title": "Hay una carrera de la IA mucho más profunda e importante en la que China está aplastando a sus competidores: el talento humano",
+    "snippet": "La carrera de la IA va de muchas cosas. No solo de quién hace los mejores modelos de IA, de quién tiene más y mejores centros de datos o de quién tiene más energía barata para alimentar esta revolución. Va también de alg...",
+    "date": "2026-03-31T09:30:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/hay-carrera-ia-mucho-profunda-e-importante-que-china-esta-aplastando-a-sus-competidores-talento-humano",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/hay-carrera-ia-mucho-profunda-e-importante-que-china-esta-aplastando-a-sus-competidores-talento-humano",
+    "title": "Hay una carrera de la IA mucho más profunda en la que China está aplastando a sus competidores: el talento humano",
     "snippet": "La carrera de la IA va de muchas cosas. No solo de quién hace los mejores modelos de IA, de quién tiene más y mejores centros de datos o de quién tiene más energía barata para alimentar esta revolución. Va también de alg...",
     "date": "2026-03-31T09:30:38",
     "source": "XATAKA",
@@ -36,6 +180,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/magnet/que-haya-decenas-a-10-rumbo-a-iran-solo-puede-significar-cosa-eeuu-ha-rescatado-su-avion-bruto-para-mision-imposible",
+    "title": "Que haya decenas de A-10 rumbo a Irán sugiere algo: EEUU ha rescatado a su avión más \"bruto\" para una misión imposible",
+    "snippet": "El cañón de 30 mm de un A-10 puede disparar casi 4.000 proyectiles por minuto y su sonido es tan característico que los soldados lo identifican antes incluso de ver el avión venir. De hecho, durante décadas ha sido uno d...",
+    "date": "2026-03-31T08:30:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/que-haya-decenas-a-10-rumbo-a-iran-solo-puede-significar-cosa-eeuu-ha-rescatado-su-avion-bruto-para-mision-imposible",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/seleccion/descuentos-50-amazon-semana-santa-mejores-chollos-que-hemos-encontrado-hoy-31-marzo",
     "title": "Descuentos de más del 50% en Amazon en Semana Santa: los mejores chollos que hemos encontrado hoy, 31 de marzo",
     "snippet": "Ya ha arrancado la Semana Santa y con ellas días de vacaciones y descanso para muchos. Si estás pensando renovar algunos de tus dispositivos y quieres hacerlo al mejor precio, Amazon tiene descuentos en tecnología que pu...",
@@ -47,6 +200,15 @@
   {
     "id": "https://www.xataka.com/movilidad/hace-150-anos-espana-tomo-decision-unica-mundo-ouigo-e-iryo-creen-que-renfe-utiliza-para-sacarles-mercado",
     "title": "Hace 150 años, España tomó una decisión única en el mundo. Ouigo e Iryo creen que Renfe la utiliza para sacarles del mercado",
+    "snippet": "No tienen material rodante. Y lo peor de todo (para ellas) es que no lo van a tener. Ouigo, Iryo y una tercera compañía de material rodante han alzado la voz ante la Comisión Nacional de los Mercados y la Competencia (CN...",
+    "date": "2026-03-31T08:00:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/hace-150-anos-espana-tomo-decision-unica-mundo-ouigo-e-iryo-creen-que-renfe-utiliza-para-sacarles-mercado",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/hace-150-anos-espana-tomo-decision-unica-mundo-ouigo-e-iryo-creen-que-renfe-utiliza-para-sacarles-mercado",
+    "title": "Hace 150 años, España tomó una decisión única en el mundo. Ouigo e Iryo creen que Renfe la utiliza en su contra",
     "snippet": "No tienen material rodante. Y lo peor de todo (para ellas) es que no lo van a tener. Ouigo, Iryo y una tercera compañía de material rodante han alzado la voz ante la Comisión Nacional de los Mercados y la Competencia (CN...",
     "date": "2026-03-31T08:00:39",
     "source": "XATAKA",
@@ -72,6 +234,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/transporte/malentendido-factura-impagada-estuvo-a-punto-arruinar-viaje-inaugural-yate-steve-jobs",
+    "title": "Steve Jobs pasó sus últimos años diseñando su yate soñado: cuando sus herederos fueron a por él descubrieron que faltaban pagos",
+    "snippet": "El superyate que Steve Jobs diseñó durante los últimos cinco años de su vida estuvo a punto de no llegar nunca a alta mar. No por un fallo técnico ni por un temporal, sino porque alguien denunció que los herederos de Job...",
+    "date": "2026-03-31T07:30:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/transporte/malentendido-factura-impagada-estuvo-a-punto-arruinar-viaje-inaugural-yate-steve-jobs",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/streaming/mejores-peliculas-series-estreno-para-ver-abril-2026-netflix-prime-video-hbo-max-streaming",
     "title": "Las mejores películas y series de estreno para ver en abril de 2026 en Netflix, Prime Video, HBO Max y streaming",
     "snippet": "Con el verano asomando la patita, las plataformas ya no tienen problemas en sacar la artillería pesada. Algunos de los grandes estrenos de la temporada están aquí, desde la esperadísima 'Euphoria' al regreso de 'The Boys...",
@@ -83,6 +254,15 @@
   {
     "id": "https://www.xataka.com/medicina-y-salud/internet-se-ha-obsesionado-beber-agua-caliente-manana-ciencia-tiene-claro-que-hace-que-no",
     "title": "Internet se ha obsesionado con beber agua caliente por la mañana. La ciencia tiene claro qué hace (y qué no)",
+    "snippet": "Vivimos en una era obsesionada con el hielo. Desde el omnipresente iced coffee invernal hasta las complejas bebidas virales como el sleepy girl mocktail que inundan nuestras redes sociales. Sin embargo, en medio de esta ...",
+    "date": "2026-03-31T06:00:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/internet-se-ha-obsesionado-beber-agua-caliente-manana-ciencia-tiene-claro-que-hace-que-no",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/internet-se-ha-obsesionado-beber-agua-caliente-manana-ciencia-tiene-claro-que-hace-que-no",
+    "title": "El \"Chinamaxxing\" está llevando a mucha gente a beber agua caliente por la mañana: la ciencia tiene clara su utilidad",
     "snippet": "Vivimos en una era obsesionada con el hielo. Desde el omnipresente iced coffee invernal hasta las complejas bebidas virales como el sleepy girl mocktail que inundan nuestras redes sociales. Sin embargo, en medio de esta ...",
     "date": "2026-03-31T06:00:39",
     "source": "XATAKA",
@@ -234,6 +414,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/movilidad/china-lleva-anos-empujando-limites-ingenieria-su-gigantesca-tuneladora-alta-velocidad-acaba-dar-otra-muestra",
+    "title": "China lleva años empujando los límites de la ingeniería: su gigantesca tuneladora de alta velocidad acaba de dar otra muestra",
+    "snippet": "China lleva años desarrollando infraestructuras de gran tamaño y maquinaria propia para ejecutarlas, con proyectos que suelen destacar por sus dimensiones y por el control técnico que requieren. No se trata solo de const...",
+    "date": "2026-03-30T22:07:41",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/china-lleva-anos-empujando-limites-ingenieria-su-gigantesca-tuneladora-alta-velocidad-acaba-dar-otra-muestra",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-la-punta-es-reconocida-como-tsunami-ready-tras-fortalecer-su-sistema-alerta-temprana-1069081.aspx",
     "title": "La Punta es reconocida como “Tsunami Ready” tras fortalecer su sistema de alerta temprana",
     "snippet": "El distrito de La Punta ha sido reconocido como comunidad “Tsunami Ready” por la UNESCO, convirtiéndose en la primera localidad del país en alcanzar este estándar internacional y posicionándose como referente en el Pacíf...",
@@ -308,6 +497,15 @@
   {
     "id": "https://www.xataka.com/robotica-e-ia/ia-dominaba-ajedrez-ahora-nos-esta-obligando-a-jugar-otra-manera-para-seguir-compitiendo",
     "title": "La IA ya dominaba el ajedrez. Ahora nos está obligando a jugar de otra manera para seguir compitiendo",
+    "snippet": "Hay algo casi universal en cómo entendemos el ajedrez. Lo imaginamos como un duelo de inteligencia pura, dos jugadores frente a un tablero, intentando anticiparse, leer al rival y encontrar la mejor respuesta en cada mom...",
+    "date": "2026-03-30T20:00:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/ia-dominaba-ajedrez-ahora-nos-esta-obligando-a-jugar-otra-manera-para-seguir-compitiendo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/ia-dominaba-ajedrez-ahora-nos-esta-obligando-a-jugar-otra-manera-para-seguir-compitiendo",
+    "title": "La IA es tan buena jugando al ajedrez que está cambiando algo: la forma en la que los humanos lo jugamos",
     "snippet": "Hay algo casi universal en cómo entendemos el ajedrez. Lo imaginamos como un duelo de inteligencia pura, dos jugadores frente a un tablero, intentando anticiparse, leer al rival y encontrar la mejor respuesta en cada mom...",
     "date": "2026-03-30T20:00:38",
     "source": "XATAKA",
@@ -1150,203 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/terminal-pacifico-sur-atiende-escala-inaugural-de-msc-samia/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3107386",
-    "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
-    "snippet": "Amazon’s bet on “Project Hail Mary” has paid off handsomely....",
-    "date": "2026-03-29T19:50:57",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ejecutivo-transfiere-s-319-millones-a-25-regiones-para-financiar-categorizacion-docente-1068954.aspx",
-    "title": "Ejecutivo transfiere S/ 31.9 millones a 25 regiones para financiar categorización docente",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF), indicó hoy que un total de 942 docentes de los Institutos de Educación Superior Pedagógicos (IESP) y de las Escuelas de Educación Superior Pedagógica (EESP) contarán con financ...",
-    "date": "2026-03-29T19:12:47",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ejecutivo-transfiere-s-319-millones-a-25-regiones-para-financiar-categorizacion-docente-1068954.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/otros/canfranc-fue-uno-grandes-complejos-ferroviarios-europa-paso-decadas-abandonado-hoy-hotel-lujo",
-    "title": "Canfranc fue uno de los grandes complejos ferroviarios de Europa y pasó décadas abandonado: hoy es un hotel de lujo",
-    "snippet": "No todos los hoteles parten de cero. Algunos nacen sobre edificios que ya tenían una historia mucho antes de convertirse en destino turístico, y pocos casos en España son tan claros como el de Canfranc. En el Pirineo ara...",
-    "date": "2026-03-29T19:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/otros/canfranc-fue-uno-grandes-complejos-ferroviarios-europa-paso-decadas-abandonado-hoy-hotel-lujo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-rueda-negocios-expo-peru-norte-supera-expectativas-mas-38-millones-1068949.aspx",
-    "title": "Rueda de negocios de Expo Perú Norte supera expectativas con más de US$ 38 millones",
-    "snippet": "Las ruedas de negocios de exportaciones y turismo de la Expo Perú Norte 2026, realizadas en la ciudad de Chiclayo (Lambayeque) generaron oportunidades de negocios por 38 millones 838,000 dólares, indicó hoy el Ministerio...",
-    "date": "2026-03-29T19:01:15",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-rueda-negocios-expo-peru-norte-supera-expectativas-mas-38-millones-1068949.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427687",
-    "title": "Estados Unidos: Puerto de Palm Beach celebra finalización de ejecución de su Programa de Infraestructura Portuaria",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Palm Beach (Estados Unidos) celebró el final de la ejecución su Programa de\nLa entrada Estados Unidos: Puerto de Palm Beach celebra finalización de ejecución de...",
-    "date": "2026-03-29T19:00:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/estados-unidos-puerto-de-palm-beach-celebra-finalizacion-de-ejecucion-de-su-programa-de-infraestructura-portuaria/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-unalm-crea-snack-y-sopa-instantanea-pota-sin-octogonos-1068743.aspx",
-    "title": "UNALM crea snack y sopa instantánea de pota sin octógonos",
-    "snippet": "Un cereal con proteína de pota, una bebida en polvo fortificada y una sopa instantánea fueron presentadas este viernes, previo a Semana Santa, por científicos de la Facultad de Pesquería de la Universidad Nacional Agrari...",
-    "date": "2026-03-29T18:48:33",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-unalm-crea-snack-y-sopa-instantanea-pota-sin-octogonos-1068743.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-emergencia-amazonas-derrumbe-destruye-viviendas-distrito-jamalca-1068938.aspx",
-    "title": "Emergencia en Amazonas: derrumbe destruye viviendas en distrito de Jamalca",
-    "snippet": "Las intensas lluvias que azotan la región Amazonas continúan dejando severas consecuencias. Esta vez, un derrumbe de rocas ocurrido en el caserío El Cerezo, distrito de Jamalca, ha dejado dos viviendas completamente inha...",
-    "date": "2026-03-29T18:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-emergencia-amazonas-derrumbe-destruye-viviendas-distrito-jamalca-1068938.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/singapur-corazon-oculto-internet-telecomunicaciones-globales-todo-empezo-arbol-oriundo-alli",
-    "title": "Singapur es el \"corazón\" oculto de Internet y de las telecomunicaciones globales. Todo empezó con un árbol oriundo de allí",
-    "snippet": "Vivimos en un mundo conectado y globalizado donde (casi) todo está en la nube y disponible través de internet. Aunque esas conexiones parezcan invisibles a la vista, no lo son: los cables submarinos se encargan del 97% d...",
-    "date": "2026-03-29T18:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/singapur-corazon-oculto-internet-telecomunicaciones-globales-todo-empezo-arbol-oriundo-alli",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/singapur-corazon-oculto-internet-telecomunicaciones-globales-todo-empezo-arbol-oriundo-alli",
-    "title": "Los cables submarinos de internet no serían posible sin un árbol oriundo de Singapur que convirtió la ciudad en el hub de Asia",
-    "snippet": "Vivimos en un mundo conectado y globalizado donde (casi) todo está en la nube y disponible través de internet. Aunque esas conexiones parezcan invisibles a la vista, no lo son: los cables submarinos se encargan del 97% d...",
-    "date": "2026-03-29T18:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/singapur-corazon-oculto-internet-telecomunicaciones-globales-todo-empezo-arbol-oriundo-alli",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427723",
-    "title": "Dover Port programa por primera vez recalada de cuatro cruceros de manera simultánea",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Dover lanzó oficialmente su nueva temporada de cruceros, en que recibirá por primera\nLa entrada Dover Port programa por primera vez recalada de cuatro cruceros ...",
-    "date": "2026-03-29T18:00:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dover-port-programa-por-primera-vez-recalada-de-cuatro-cruceros-de-manera-simultanea/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/composicion-quimica-galaxias-siempre-ha-estado-llena-incognitas-james-webb-ha-dado-paso-enorme-para-resolverlo",
-    "title": "La composición química de las galaxias siempre ha estado llena de incógnitas. El James Webb ha dado un paso enorme para resolverlo",
-    "snippet": "El telescopio espacial James Webb ve donde otros no pueden: su visión infrarroja atraviesa las nubes de polvo cósmico y alcanza galaxias tan lejanas que su luz tardó miles de millones de años en llegar hasta nosotros. Mi...",
-    "date": "2026-03-29T17:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/composicion-quimica-galaxias-siempre-ha-estado-llena-incognitas-james-webb-ha-dado-paso-enorme-para-resolverlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/composicion-quimica-galaxias-siempre-ha-estado-llena-incognitas-james-webb-ha-dado-paso-enorme-para-resolverlo",
-    "title": "Estábamos midiendo mal la composición de las galaxias. El James Webb ha dado un paso de gigante para resolverlo",
-    "snippet": "El telescopio espacial James Webb ve donde otros no pueden: su visión infrarroja atraviesa las nubes de polvo cósmico y alcanza galaxias tan lejanas que su luz tardó miles de millones de años en llegar hasta nosotros. Mi...",
-    "date": "2026-03-29T17:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/composicion-quimica-galaxias-siempre-ha-estado-llena-incognitas-james-webb-ha-dado-paso-enorme-para-resolverlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ceplan-vulnerabilidad-peru-referido-a-servicios-basicos-se-reduce-a-352-puntos-1068940.aspx",
-    "title": "Ceplan: vulnerabilidad en Perú referido a servicios básicos se reduce a 35.2 puntos",
-    "snippet": "El Índice de Vulnerabilidad en el Perú se redujo de 38.5 a 35.2 puntos en el periodo 2013-2024, lo que refleja una mejora de 3.3 puntos referidos a los avances graduales en el acceso a los servicios básicos, salud y educ...",
-    "date": "2026-03-29T17:27:10",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ceplan-vulnerabilidad-peru-referido-a-servicios-basicos-se-reduce-a-352-puntos-1068940.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ejercito-activa-drones-para-responder-a-emergencia-lluvias-intensas-ayacucho-1068939.aspx",
-    "title": "Ejército activa drones para responder a emergencia por lluvias intensas en Ayacucho",
-    "snippet": "Ante las fuertes lluvias que provocaron el desborde del río Sanquirhuato, el sector Defensa, a través del Comando Conjunto de las Fuerzas Armadas, desplegó equipos especializados, unidades móviles y tecnología de última ...",
-    "date": "2026-03-29T17:23:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ejercito-activa-drones-para-responder-a-emergencia-lluvias-intensas-ayacucho-1068939.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/predecir-sequia-seis-meses-antelacion-era-utopia-upv-ha-logrado-sistema-que-usa-ia",
-    "title": "Predecir una sequía con seis meses de antelación era una utopía. La UPV lo ha logrado con un sistema que usa IA",
-    "snippet": "En los últimos años los episodios de sequías se han intensificado en algunas regiones y el miedo a una sequía global sobrevuela el ambiente. En este escenario, un equipo de investigadores de la Universidad Politécnica de...",
-    "date": "2026-03-29T17:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/predecir-sequia-seis-meses-antelacion-era-utopia-upv-ha-logrado-sistema-que-usa-ia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/china-esta-a-paso-autosuficiencia-militar-ha-disparado-su-produccion-esta-a-punto-decir-adios-a-importacion",
-    "title": "China está a un paso de la autosuficiencia militar: ha disparado su producción y está a punto de decir adiós a la importación",
-    "snippet": "Aunque oficialmente la guerra que copa todos los titulares estos días es el conflicto entre Estados Unidos, Israel e Irán, la realidad es que la geopolítica mundial es un avispero tal que todo el mundo se está rearmando....",
-    "date": "2026-03-29T16:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/china-esta-a-paso-autosuficiencia-militar-ha-disparado-su-produccion-esta-a-punto-decir-adios-a-importacion",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-garantizan-adecuadas-redes-viales-y-hospedaje-para-semana-santa-provincias-lima-1068761.aspx",
-    "title": "Garantizan adecuadas redes viales y de hospedaje para Semana Santa en provincias de Lima",
-    "snippet": "La región de Lima Provincias espera entre 500 mil y 600 mil visitantes, aproximadamente, en el feriado largo de Semana Santa, por lo que promueve los atractivos ya conocidos por la población, así como otros que forman pa...",
-    "date": "2026-03-29T16:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-garantizan-adecuadas-redes-viales-y-hospedaje-para-semana-santa-provincias-lima-1068761.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3107183",
-    "title": "TechCrunch Mobility: When a robotaxi has to call 911",
-    "snippet": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
-    "date": "2026-03-29T16:05:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/materiales/no-hemos-colonizado-marte-sabemos-como-construir-ladrillos-para-vivir-alli-orina-bacterias",
-    "title": "Aún no hemos colonizado Marte y ya sabemos cómo construir ladrillos para vivir allí: con orina y bacterias",
-    "snippet": "La humanidad tiene entre ceja y ceja llegar a Marte y eventualmente, plantar una colonia allí. Misiones como el rover Curiosity de la NASA llevan años escudriñando su superficie en busca de señales de habitabilidad pasad...",
-    "date": "2026-03-29T16:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/materiales/no-hemos-colonizado-marte-sabemos-como-construir-ladrillos-para-vivir-alli-orina-bacterias",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-exportacion-del-peru-valor-agregado-a-mexico-supera-los-100-millones-enero-2026-1068930.aspx",
-    "title": "Exportación del Perú con valor agregado a México supera los US$ 100 millones en enero 2026",
-    "snippet": "Las exportaciones peruanas con valor agregado a México alcanzaron los 102 millones de dólares en enero del 2026, representando el 92% del total enviado a ese destino,  destacó hoy la Asociación de Exportadores (Adex)....",
-    "date": "2026-03-29T15:49:49",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-exportacion-del-peru-valor-agregado-a-mexico-supera-los-100-millones-enero-2026-1068930.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/tren-8-000-millones-que-cosera-europa-asia-asi-megaproyecto-para-unir-grandes-aeropuertos-estambul",
-    "title": "El tren de los 8.000 millones que 'coserá' Europa y Asia: así es el megaproyecto para unir los grandes aeropuertos de Estambul",
-    "snippet": "Turquía es geográfica e históricamente el eslabón que une Asia y Europa y si hablamos de aeropuertos, el de Estambul es inmenso y estratégico para la el transporte de Occidente a Oriente. No obstante, la ciudad otomana d...",
-    "date": "2026-03-29T15:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/tren-8-000-millones-que-cosera-europa-asia-asi-megaproyecto-para-unir-grandes-aeropuertos-estambul",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/tren-8-000-millones-que-cosera-europa-asia-asi-megaproyecto-para-unir-grandes-aeropuertos-estambul",
-    "title": "Un tren de 125 km y 8000 millones de dólares para unir Europa y Asia: el megaproyecto para conectar los aeropuertos de Estambul",
-    "snippet": "Turquía es geográfica e históricamente el eslabón que une Asia y Europa y si hablamos de aeropuertos, el de Estambul es inmenso y estratégico para la el transporte de Occidente a Oriente. No obstante, la ciudad otomana d...",
-    "date": "2026-03-29T15:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/tren-8-000-millones-que-cosera-europa-asia-asi-megaproyecto-para-unir-grandes-aeropuertos-estambul",
-    "category": "TRIBUTARIO"
   }
 ]
