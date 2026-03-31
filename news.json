@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-hay-empresas-britanicas-interesadas-las-lineas-3-y-4-del-metro-lima-entrevista-1069142.aspx",
+    "title": "“Hay empresas británicas interesadas en las líneas 3 y 4 del Metro de Lima” [Entrevista]",
+    "snippet": "Diversas firmas británicas mantienen un alto interés en participar en proyectos estratégicos de transporte masivo, específicamente en las líneas 3 y 4 del Metro de Lima y Callao, afirmó la embajadora del Reino Unido en P...",
+    "date": "2026-03-31T05:57:24",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-hay-empresas-britanicas-interesadas-las-lineas-3-y-4-del-metro-lima-entrevista-1069142.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-huancayo-colapso-canal-y-desborde-del-rio-chilca-deja-varias-familias-damnificadas-1069117.aspx",
+    "title": "Huancayo: colapso de canal y desborde del río Chilca deja varias familias damnificadas",
+    "snippet": "Una vivienda construida con material rústico colapsó luego de la acumulación de agua provocada por el presunto cierre de un canal en la zona de prolongación Piura y Tres de Octubre, en el sector de Ocopilla, al este de l...",
+    "date": "2026-03-31T04:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-huancayo-colapso-canal-y-desborde-del-rio-chilca-deja-varias-familias-damnificadas-1069117.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-suspenden-90-dias-importacion-mercancias-pecuarias-origen-aviar-desde-chile-1069137.aspx",
+    "title": "Suspenden por 90 días importación de mercancías pecuarias de origen aviar desde Chile",
+    "snippet": "El Ministerio de Desarrollo Agrario (Midagri) anunció la suspención por 90 días de la importación de mercancías pecuarias de origen aviar que puedan transmitir o sirvan de vehículo del virus que causa la enfermedad de in...",
+    "date": "2026-03-31T04:13:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-suspenden-90-dias-importacion-mercancias-pecuarias-origen-aviar-desde-chile-1069137.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-haiti-al-menos-16-muertos-ataque-pandillas-al-norte-puerto-principe-1069135.aspx",
+    "title": "Haití: al menos 16 muertos en ataque de pandillas al norte de Puerto Príncipe",
+    "snippet": "Miembros de una pandilla perpetraron una masacre en la madrugada del domingo en un pueblo de Haití donde dejaron al menos 16 muertos, informó este lunes la policía local....",
+    "date": "2026-03-31T03:29:36",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-haiti-al-menos-16-muertos-ataque-pandillas-al-norte-puerto-principe-1069135.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427969",
+    "title": "Damen Shipyards entregará dos unidades Combi Freighters 3850 a Polidano Group",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Damen Shipyards Group firmó un contrato con el Grupo Polidano para la entrega de dos buques\nLa entrada Damen Shipyards entregará dos unidades Combi Freighters 3850 a Polidan...",
+    "date": "2026-03-31T02:00:34",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/damen-shipyards-entregara-dos-unidades-combi-freighters-3850-a-polidano-group/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427982",
+    "title": "Omán: Gobierno mantiene investigaciones para conocer procedencia de drones que atacaron el Puerto de Salalah",
+    "snippet": "Por Redacción PortalPortuario / Agencia Europa News @PortalPortuario El Gobierno de Omán anunció el inicio de una investigación para determinar\nLa entrada Omán: Gobierno mantiene investigaciones para conocer procedencia ...",
+    "date": "2026-03-31T01:30:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/oman-gobierno-mantiene-investigaciones-para-conocer-la-procedencia-de-los-drones-que-atacaron-el-puerto-de-salalah/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=427906",
+    "title": "Italia: AdSP obtiene financiación para instalar una red privada 5G autónoma en los puertos de Génova y Savona",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria del Mar Liguria Occidental (AdSP) se adjudicó 2,3 millones de euros en la\nLa entrada Italia: AdSP obtiene financiación para instalar una red privada 5...",
+    "date": "2026-03-31T00:00:54",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/italia-adsp-obtiene-financiacion-para-instalar-una-red-privada-5g-autonoma-en-los-puertos-de-genova-y-savona/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "ac66524d-f38c-40d9-9cca-3effd246c910",
+    "title": "Apple's iPhone Fold Promises the 'Most Significant Overhaul' in Product's History",
+    "snippet": "Trusted Apple leaker Mark Gurman predicts the upcoming iPhone design will eclipse the iPhone 4, 6 and X....",
+    "date": "2026-03-31T00:00:02",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/apples-iphone-fold-will-be-the-most-significant-overhaul-in-the-products-history/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=427936",
     "title": "ESPO respalda carta de la Unión Europea para la restauración y protección de los ecosistemas marinos",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Organización Europea de Puertos Marítimos (ESPO) comunicó su adhesión oficial a la carta publicada por\nLa entrada ESPO respalda carta de la Unión Europea para la restaura...",
@@ -25,6 +97,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/escocia-puerto-de-nigg-recibe-inversion-de-usd-40-millones-de-conglomerado-liderado-por-mitsui/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "e0bbfdc0-d817-4d58-a4ed-5306e9b34793",
+    "title": "Google Maps Can Now Plan EV Road Trips With Charging Stops via Android Auto",
+    "snippet": "Electric cars from 16 automakers in the US will be able to plan long routes with AI-powered charging suggestions....",
+    "date": "2026-03-30T22:59:45",
+    "source": "CNET",
+    "url": "https://www.cnet.com/roadshow/news/google-maps-android-auto-ev-roadrip-charge-plan-update/",
+    "category": "MERCADO"
   },
   {
     "id": "https://rpp.pe/1682275",
@@ -1266,87 +1347,6 @@
     "date": "2026-03-29T12:01:32",
     "source": "XATAKA",
     "url": "https://www.xataka.com/basics/como-crear-aplicacion-google-ai-studio-gratis-forma-sencilla",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "055b0629-2bbf-43b6-ad0c-81ab2021ad3f",
-    "title": "The iPhone 17E's Biggest Rival Isn't Budget Android Phones -- It's Older iPhones",
-    "snippet": "Commentary: Apple's $599 iPhone 17E has a lot of value, but you might be better off with an older iPhone at a similar price....",
-    "date": "2026-03-29T12:00:43",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apples-biggest-iphone-17e-competition-isnt-android-its-older-iphones/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427661",
-    "title": "Brasil: APS realiza capacitación a la dotación de agentes de tránsito del Puerto de Santos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Santos, Brasil (APS) finalizó la capacitación dirigida a sus agentes de tránsito.\nLa entrada Brasil: APS realiza capacitación a la dotación de agen...",
-    "date": "2026-03-29T12:00:35",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-aps-realiza-capacitacion-a-la-dotacion-de-agentes-de-transito-del-puerto-de-santos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "055b0629-2bbf-43b6-ad0c-81ab2021ad3f",
-    "title": "The iPhone 17E's Biggest Rival Isn't Budget Android Phones. It's Older iPhones",
-    "snippet": "Commentary: Apple's $599 iPhone 17E has a lot of value, but you might be better off with an older iPhone at a similar price....",
-    "date": "2026-03-29T12:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apples-biggest-iphone-17e-competition-isnt-android-its-older-iphones/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/sacarse-carnet-conducir-no-igual-toda-espana-estas-provincias-aprobados-a-primera",
-    "title": "Sacarse el carnet de conducir no es igual en toda España: estas son las provincias con más aprobados a la primera",
-    "snippet": "Aprobar el examen práctico de conducir a la primera no depende solo de lo bien que te hayas preparado. También tiene mucho que ver desde dónde lo haces. Un estudio ha analizado los datos de todas las comunidades autónoma...",
-    "date": "2026-03-29T11:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/sacarse-carnet-conducir-no-igual-toda-espana-estas-provincias-aprobados-a-primera",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1d941vw172o#0",
-    "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
-    "snippet": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost....",
-    "date": "2026-03-29T11:12:33",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/espana-lleva-anos-buscando-forma-hacer-digerible-turismo-masivo-eeuu-amenaza-hacer-trabajo-ella",
-    "title": "España lleva años buscando la forma de hacer más digerible el turismo masivo. EEUU amenaza con hacer el trabajo por ella",
-    "snippet": "En 2025 España se quedó con las ganas de alcanzar los 100 millones de turistas extranjeros. Ahora un nubarrón al otro lado del Atlántico amenaza con alejar ese hito también en 2026. En un escenario convulso, condicionado...",
-    "date": "2026-03-29T11:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/espana-lleva-anos-buscando-forma-hacer-digerible-turismo-masivo-eeuu-amenaza-hacer-trabajo-ella",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=427766",
-    "title": "Australia: Puerto de Newcastle completa reubicación y modernización de Torre de Navegación de Throsby",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Newcastle completó la reubicación y modernización de la Torre de Navegación de Throsby,\nLa entrada Australia: Puerto de Newcastle completa reubicación y moderni...",
-    "date": "2026-03-29T11:00:41",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/australia-puerto-de-newcastle-completa-reubicacion-y-modernizacion-de-torre-de-navegacion-de-throsby/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/pensabamos-que-faltaban-infraestructuras-para-cargar-coche-electrico-no-solo-hay-que-repartir-mejor-horario-carga",
-    "title": "Pensábamos que faltaban infraestructuras para cargar el coche eléctrico, pero no: solo hay que repartir mejor el horario de carga",
-    "snippet": "Entre los retos y dudas que presenta el coche eléctrico está el de qué pasaría si hubiera una adopción en masa. Obviamente habría que alimentarlos. Si pensamos en los coches de combustibles fósiles y sus variantes, la so...",
-    "date": "2026-03-29T10:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/pensabamos-que-faltaban-infraestructuras-para-cargar-coche-electrico-no-solo-hay-que-repartir-mejor-horario-carga",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/big-tech-han-confiado-llaves-su-reino-a-nvidia-ahora-quieren-llaves-vuelta",
-    "title": "Las Big Tech han confiado las llaves de su reino a NVIDIA. Ahora quieren las llaves de vuelta",
-    "snippet": "NVIDIA ya no es una compañía de tarjetas gráficas para videojuegos: NVIDIA es una compañía ubicua. Eso quiere decir que es el bebé en el bautizo, la novia en la boda y el cemento de la industria de la inteligencia artifi...",
-    "date": "2026-03-29T10:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/big-tech-han-confiado-llaves-su-reino-a-nvidia-ahora-quieren-llaves-vuelta",
     "category": "TRIBUTARIO"
   }
 ]
