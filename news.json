@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-prestianni-dice-fue-sancionado-sin-pruebas-incidente-vinicius-jr-1069459.aspx",
+    "title": "Prestianni dice que fue sancionado \"sin pruebas\" por incidente con Vinícius Jr",
+    "snippet": "El futbolista argentino Gianluca Prestianni consideró que fue sancionado \"sin pruebas\" en el supuesto incidente racista con el atacante brasileño Vinícius Jr. durante un partido de Liga de Campeones de Europa en febrero....",
+    "date": "2026-04-01T23:36:53",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-prestianni-dice-fue-sancionado-sin-pruebas-incidente-vinicius-jr-1069459.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428631",
+    "title": "Puerto San Antonio, Colsa, Corfo y PUCV alistan Congreso Internacional de Logística Portuaria 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto San Antonio, la Comunidad Logística de San Antonio (Colsa), la Escuela de Ingeniería de Construcción\nLa entrada Puerto San Antonio, Colsa, Corfo y PUCV alistan Congre...",
+    "date": "2026-04-01T23:13:28",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-san-antonio-colsa-corfo-y-pucv-alistan-congreso-internacional-de-logistica-portuaria-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428445",
+    "title": "Porto de Ilhéus moviliza cerca de 50 mil toneladas en los primeros dos meses de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Ilhéus movilizó 49.183 toneladas de carga y recibió nueve cruceros en los dos\nLa entrada Porto de Ilhéus moviliza cerca de 50 mil toneladas en los primeros dos ...",
+    "date": "2026-04-01T23:00:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/porto-de-ilheus-moviliza-cerca-de-50-mil-toneladas-en-los-primeros-dos-meses-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/historico-artemis-ii-despega-exito-humanidad-vuelve-rumbo-a-luna-50-anos",
+    "title": "Histórico: Artemis II despega con éxito y la humanidad vuelve rumbo a la Luna tras más de 50 años",
+    "snippet": "Artemis II ha despegado con éxito y no estamos ante un lanzamiento cualquiera. Lo que hemos visto marca el regreso de seres humanos rumbo a la Luna más de medio siglo después de las últimas misiones del programa Apolo, u...",
+    "date": "2026-04-01T22:36:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/historico-artemis-ii-despega-exito-humanidad-vuelve-rumbo-a-luna-50-anos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iran-acusa-a-ee-uu-hacer-exigencias-irracionales-para-poner-fin-a-guerra-1069453.aspx",
+    "title": "Irán acusa a EE. UU. de hacer exigencias irracionales para poner fin a la guerra",
+    "snippet": "Irán acusó el jueves (diferencia horaria) a Estados Unidos de hacer exigencias \"maximalistas e irracionales\" para poner fin a la guerra en Oriente Medio, al tiempo que negó que haya negociaciones entre ambos países sobre...",
+    "date": "2026-04-01T22:26:39",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iran-acusa-a-ee-uu-hacer-exigencias-irracionales-para-poner-fin-a-guerra-1069453.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428605",
+    "title": "Segmento de remolcadores y naves de conectividad serían los más afectados por elevación transitoria de impuesto específico a combustibles",
+    "snippet": "Por Sebastián Betancourt @PortalPortuario El aumento transitorio del impuesto específico a los combustible que pagan algunos sectores de transporte no\nLa entrada Segmento de remolcadores y naves de conectividad serían lo...",
+    "date": "2026-04-01T22:23:33",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/segmento-de-remolcadores-y-naves-de-conectividad-serian-los-mas-afectados-por-elevacion-transitoria-de-impuesto-especifico-a-combustibles/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3108632",
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "snippet": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices....",
+    "date": "2026-04-01T22:12:13",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428606",
+    "title": "Nuevo ministro de Puertos de Brasil se compromete al diálogo con terminales privadas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con la promesa de continuar el trabajo en el Ministerio de Puertos y Aeropuertos, el nuevo\nLa entrada Nuevo ministro de Puertos de Brasil se compromete al diálogo con termin...",
+    "date": "2026-04-01T22:00:31",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/nuevo-ministro-de-puertos-de-brasil-se-compromete-al-dialogo-con-terminales-privadas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428219",
+    "title": "Reino Unido: Puerto de Tilbury recibirá instalaciones de producción de hidrógeno verde",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario GeoPura y Forth Ports han firmado un acuerdo para producir hidrógeno verde en las instalaciones del\nLa entrada Reino Unido: Puerto de Tilbury recibirá instalaciones de produ...",
+    "date": "2026-04-01T21:30:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-puerto-de-tilbury-recibira-instalaciones-de-produccion-de-hidrogeno-verde/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3108558",
+    "title": "‘System failure’ paralyzes Baidu robotaxis in China",
+    "snippet": "Passengers in Baidu's robotaxis were trapped for up to two hours....",
+    "date": "2026-04-01T21:12:14",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=428592",
     "title": "Panamá: Gobierno aprueba nuevos incisos aduaneros para fortalecer digitalización de trámites de exportaciones",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario  El Ministerio de Comercio e Industrias de Panamá (MICI) en conjunto con la Autoridad Nacional de\nLa entrada Panamá: Gobierno aprueba nuevos incisos aduaneros para fortalece...",
@@ -164,6 +254,15 @@
   {
     "id": "https://www.xataka.com/espacio/asi-experimentaran-consigo-mismos-astronautas-artemis-ii-astronautas-virtuales-a-saliva-trozos-papel",
     "title": "Así experimentarán consigo mismos los astronautas de Artemis II: de astronautas virtuales a saliva en trozos de papel",
+    "snippet": "Realizar experimentos en el espacio es complicado. No abundan los recursos y mucho menos los sujetos de estudio. Por eso, a veces estos deben ser los propios experimentadores. Es justamente lo que tendrán que hacer en lo...",
+    "date": "2026-04-01T20:00:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/asi-experimentaran-consigo-mismos-astronautas-artemis-ii-astronautas-virtuales-a-saliva-trozos-papel",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/asi-experimentaran-consigo-mismos-astronautas-artemis-ii-astronautas-virtuales-a-saliva-trozos-papel",
+    "title": "Los astronautas de Artemis II realizarán experimentos en los que serán sus propios modelos de estudio",
     "snippet": "Realizar experimentos en el espacio es complicado. No abundan los recursos y mucho menos los sujetos de estudio. Por eso, a veces estos deben ser los propios experimentadores. Es justamente lo que tendrán que hacer en lo...",
     "date": "2026-04-01T20:00:24",
     "source": "XATAKA",
@@ -1249,104 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/departamento-de-transporte-de-ee-uu-anuncia-inversion-de-usd-488-millones-en-puertos/",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3107756",
-    "title": "It’s not your imagination: AI seed startups are commanding higher valuations",
-    "snippet": "Among the most recent Y Combinator cohort, many startups were commanding $40 million valuations. But with more money comes higher expectations....",
-    "date": "2026-03-31T21:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "d684fb4e-86a2-4804-8154-85643a3ae1be",
-    "title": "My Favorite Apple Laptop From Last Year Is $200 Off on the Final Day of Amazon’s Spring Sale",
-    "snippet": "The 15-inch M4 MacBook Air has dropped to just $999, but time's ticking to get yours....",
-    "date": "2026-03-31T20:51:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/deals/15-inch-m4-macbook-air-lowest-price-ever-amazon-spring-sale/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-hallazgo-unico-amazonas-descubren-nueva-especie-rana-los-andes-del-norte-peru-1069235.aspx",
-    "title": "Hallazgo único en Amazonas: descubren nueva especie de rana en los Andes del norte de Perú",
-    "snippet": "Una nueva especie de rana fue identifica y descrita en la región Amazonas. por una investigación internacional desarrollada en Perú por el Instituto de Investigación para el Desarrollo Sustentable de Ceja de Selva (INDES...",
-    "date": "2026-03-31T20:39:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-hallazgo-unico-amazonas-descubren-nueva-especie-rana-los-andes-del-norte-peru-1069235.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/hay-gente-ganando-600-dolares-a-semana-hablando-desconocidos-objetivo-ensenar-a-ia-a-sonar-humana",
-    "title": "Hay gente ganando hasta 600 dólares a la semana hablando con desconocidos. El objetivo: enseñar a la IA a sonar humana",
-    "snippet": "En los últimos meses, muchos hemos hablado con una inteligencia artificial sin pensarlo demasiado. Le hemos preguntado dudas, le hemos pedido consejo o simplemente hemos probado hasta dónde llega su capacidad para manten...",
-    "date": "2026-03-31T20:30:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/hay-gente-ganando-600-dolares-a-semana-hablando-desconocidos-objetivo-ensenar-a-ia-a-sonar-humana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/hay-gente-ganando-600-dolares-a-semana-hablando-desconocidos-objetivo-ensenar-a-ia-a-sonar-humana",
-    "title": "La IA no habla o escribe como un humano. Y precisamente por eso hay gente ganando 600 euros a la semana",
-    "snippet": "En los últimos meses, muchos hemos hablado con una inteligencia artificial sin pensarlo demasiado. Le hemos preguntado dudas, le hemos pedido consejo o simplemente hemos probado hasta dónde llega su capacidad para manten...",
-    "date": "2026-03-31T20:30:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/hay-gente-ganando-600-dolares-a-semana-hablando-desconocidos-objetivo-ensenar-a-ia-a-sonar-humana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428271",
-    "title": "China y Pakistán solicitan normalizar navegación a través del estrecho de Ormuz",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario China y Pakistán pidieron un alto el fuego inmediato en el Golfo Pérsico y en\nLa entrada China y Pakistán solicitan normalizar navegación a través del estrec...",
-    "date": "2026-03-31T20:30:03",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/china-y-pakistan-solicitan-normalizar-navegacion-a-traves-del-estrecho-de-ormuz/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sunat-conoce-cronograma-para-presentar-declaracion-renta-anual-2025-1068448.aspx",
-    "title": "Sunat: conoce el cronograma para presentar la declaración de renta anual 2025",
-    "snippet": "Cada año, millones de negocios y empresas en el país deben rendir cuentas sobre sus ingresos y operaciones al fisco, un paso clave para la transparencia financiera y el cumplimiento de las obligaciones tributarias....",
-    "date": "2026-03-31T20:26:38",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sunat-conoce-cronograma-para-presentar-declaracion-renta-anual-2025-1068448.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "6712b01b-a391-4a94-ad87-0aac5b159b6f",
-    "title": "USA vs. Portugal Livestream: How to Watch International Friendly Soccer",
-    "snippet": "Mauricio Pochettino's USMNT team looks to bounce back at Mercedes-Benz Stadium against a Seleção das Quinas....",
-    "date": "2026-03-31T20:00:41",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/usa-vs-portugal-livestream-how-to-watch-international-friendly-soccer-for-free/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428239",
-    "title": "Petrolero con bandera rusa inicia descarga de crudo en puerto cubano de Matanzas",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un petrolero con bandera rusa que transportaba unas 700.000 barriles de crudo atracó a la\nLa entrada Petrolero con bandera rusa inicia descarga de crudo en p...",
-    "date": "2026-03-31T20:00:37",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/petrolero-con-bandera-rusa-inicia-descarga-de-crudo-en-puerto-cubano-de-matanzas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=904579",
-    "title": "Samsung’s new app claims to alleviate motion sickness using sound",
-    "snippet": "Samsung released a new free app today called Hearapy, now available for Android devices through the Google Play store, that it claims can reduce the symptoms of motion sickness using just sound. The app's functionality i...",
-    "date": "2026-03-31T19:56:26",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-beca-182026-82-seleccionados-estudiara-su-misma-region-1069230.aspx",
-    "title": "Beca 18-2026: el 82% de seleccionados estudiará en su misma región",
-    "snippet": "El 82% de los estudiantes seleccionados del primer momento del concurso Beca 18-2026 estudiará en instituciones de educación superior ubicadas en su misma región, una cifra superior en 28 puntos porcentuales en comparaci...",
-    "date": "2026-03-31T19:34:37",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-beca-182026-82-seleccionados-estudiara-su-misma-region-1069230.aspx",
-    "category": "MERCADO"
   }
 ]
