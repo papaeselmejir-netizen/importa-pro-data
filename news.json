@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3108999",
+    "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+    "snippet": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired....",
+    "date": "2026-04-02T22:56:29",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-destituyen-al-jefe-del-estado-mayor-del-ejercito-ee-uu-plena-guerra-iran-1069605.aspx",
+    "title": "Destituyen al jefe del Estado Mayor del Ejército de EE. UU. en plena guerra de Irán",
+    "snippet": "El Departamento de Guerra de Estados Unidos ordenó este jueves al jefe del Estado Mayor del Ejército, Randy George, retirarse de su cargo de forma inmediata, un anuncio que se produce en medio de la guerra en Irán....",
+    "date": "2026-04-02T22:56:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-destituyen-al-jefe-del-estado-mayor-del-ejercito-ee-uu-plena-guerra-iran-1069605.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428468",
+    "title": "Puerto de Motril arranca el año con incremento de 117,4% en exportaciones",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Motril registró un fuerte crecimiento en su actividad exportadora durante enero y febrero,\nLa entrada Puerto de Motril arranca el año con incremento de 117,4% e...",
+    "date": "2026-04-02T22:00:49",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-motril-arranca-el-ano-con-incremento-de-1174-en-exportaciones/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=428783",
     "title": "Terminal petrolera de Primorsk pierde 40% de su capacidad de almacenamiento tras ataques con drones",
     "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El Puerto de Primorsk en el mar Báltico, uno de los principales centros de exportación\nLa entrada Terminal petrolera de Primorsk pierde 40% de su capacidad d...",
@@ -15,6 +42,15 @@
     "date": "2026-04-02T21:19:13",
     "source": "THE VERGE",
     "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+    "category": "MERCADO"
+  },
+  {
+    "id": "3e5dc679-01bd-49bd-861f-372938e7c88f",
+    "title": "iPhone 18: All We Know About Apple's Upcoming Mobile Flagship",
+    "snippet": "Rumors have been circulating about Apple's next iPhone for quite some time. Here's what we know about the iPhone 18 so far....",
+    "date": "2026-04-02T20:42:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-18-pro-rumors-release-date-price-design-specs/",
     "category": "MERCADO"
   },
   {
@@ -1312,41 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/basics/que-puedes-hacer-midni-que-cosas-no-puedes-hacer-app-dni-electronico-movil",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=905012",
-    "title": "Baidu’s robotaxis froze in traffic, creating chaos",
-    "snippet": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in...",
-    "date": "2026-04-01T10:39:52",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "1f965236-a55a-4e79-a02d-b77d6cb91b48",
-    "title": "The Biggest Update Since iOS 26? Here's What's New in iOS 26.4",
-    "snippet": "Your iPhone gets new emoji, video podcasts and more....",
-    "date": "2026-04-01T10:30:50",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/biggest-update-since-ios-26-heres-whats-new-ios-26-4/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "47caae75-32ef-4900-8f9c-4e5ec21fedbf",
-    "title": "iOS 26.4 Brings These Fun New Emoji to Your iPhone",
-    "snippet": "The distorted face emoji is fun, but the orca is number one in my heart....",
-    "date": "2026-04-01T10:01:12",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/ios-26-4-brings-these-fun-new-emoji-to-your-iphone/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428288",
-    "title": "Brasil: Puerto de Imbituba fortalece cooperación internacional en energía eólica marina",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Imbituba recibió a una delegación internacional centrada en el fortalecimiento de la cooperación\nLa entrada Brasil: Puerto de Imbituba fortalece cooperación int...",
-    "date": "2026-04-01T10:00:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-puerto-de-imbituba-fortalece-cooperacion-internacional-en-energia-eolica-marina/",
-    "category": "LOGÍSTICA"
   }
 ]
