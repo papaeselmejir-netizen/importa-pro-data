@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3108753",
+    "title": "The final days of the Tesla Model X and S are here. All bets are on the Cybercab.",
+    "snippet": "It's new era for Tesla — and one that will rely on its ability to launch the Cybercab and mass produce the Optimus robot....",
+    "date": "2026-04-03T16:48:09",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/steam-tiene-nuevo-subgenero-culto-nostalgico-simuladores-gestion-videoclubs-reparacion-videojuegos",
+    "title": "Steam tiene un nuevo subgénero de culto nostálgico: simuladores de gestión de videoclubs y reparación de videojuegos",
+    "snippet": "Los micronichos son uno de los fenómenos más fascinantes de Steam: salidos de no se sabe dónde, poniendo de acuerdo a desarrolladores separados entre sí miles de kilómetros, gracias a ellos coinciden un puñado de juegos ...",
+    "date": "2026-04-03T16:30:56",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/steam-tiene-nuevo-subgenero-culto-nostalgico-simuladores-gestion-videoclubs-reparacion-videojuegos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-semana-santa-descubre-boca-pariamanu-y-su-ruta-del-cacao-madre-dios-1069669.aspx",
+    "title": "Semana Santa: descubre Boca Pariamanu y su ruta del cacao en Madre de Dios",
+    "snippet": "En el marco de la celebración de la Semana Santa, el turismo interno en Perú apunta cada vez más a experiencias sostenibles y de conexión con la naturaleza. En ese escenario, la comunidad nativa Boca Pariamanu, en la reg...",
+    "date": "2026-04-03T16:30:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-semana-santa-descubre-boca-pariamanu-y-su-ruta-del-cacao-madre-dios-1069669.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/mayor-problema-vivir-marte-no-oxigeno-humanos-que-nazcan-alli-dejaran-ser-homo-sapiens",
+    "title": "El mayor problema de vivir en Marte no es el oxígeno: los humanos que nazcan allí dejarán de ser Homo sapiens",
+    "snippet": "Con la misión Artemis II operativa en torno a la Luna, la humanidad tiene a Marte entre sus anhelos colonizadores. Las misiones pasadas y presentes, como el rover Curiosity de la NASA, tienen como objetivo analizar su su...",
+    "date": "2026-04-03T16:00:56",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/mayor-problema-vivir-marte-no-oxigeno-humanos-que-nazcan-alli-dejaran-ser-homo-sapiens",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/precio-petroleo-disparado-japon-ha-vuelto-a-vieja-idea-para-conseguir-energia-recurrir-a-olas-mar",
+    "title": "Con el  precio del petróleo disparado, Japón ha vuelto a una vieja idea para conseguir energía: recurrir a las olas del mar",
+    "snippet": "Si echamos un vistazo al peso de las energías renovables en la generación energética (por ejemplo, en Europa), vamos a encontrarnos que algunas como la eólica y la solar son las que llevan la voz cantante mientras que ot...",
+    "date": "2026-04-03T15:30:56",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/precio-petroleo-disparado-japon-ha-vuelto-a-vieja-idea-para-conseguir-energia-recurrir-a-olas-mar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428858",
+    "title": "Portacontenedores de CMA CGM navega a través del estrecho de Ormuz",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un portacontenedores perteneciente a CMA CGM atravesó el estrecho de Ormuz, según muestran los datos\nLa entrada Portacontenedores de CMA CGM navega a través ...",
+    "date": "2026-04-03T15:30:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/portacontenedores-de-cma-cgm-navega-a-traves-del-estrecho-de-ormuz/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-minedu-y-ejercito-entrenaron-a-200-estudiantes-ante-emergencias-colegios-lima-1069657.aspx",
+    "title": "Minedu y el Ejército entrenaron a 200 estudiantes ante emergencias en colegios de Lima",
+    "snippet": "El Ministerio de Educación (Minedu), en articulación con el Ministerio de Defensa, entrenó a 200 estudiantes voluntarios de la Secretaría Nacional de la Juventud (Senaju) en el dominio de técnicas y procedimientos básico...",
+    "date": "2026-04-03T15:15:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minedu-y-ejercito-entrenaron-a-200-estudiantes-ante-emergencias-colegios-lima-1069657.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/tenemos-nueva-sorprendente-arma-secreta-cambio-climatico-castores",
+    "title": "Tenemos una nueva y sorprendente \"arma secreta\" contra el cambio climático: los castores",
+    "snippet": "Cuando pensamos en formas de capturar carbono de la atmósfera, solemos imaginar enormes y costosas instalaciones tecnológicas; sin embargo, la naturaleza cuenta con sus propios sistemas para poder limpiar el ambiente. Un...",
+    "date": "2026-04-03T15:00:56",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/tenemos-nueva-sorprendente-arma-secreta-cambio-climatico-castores",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428855",
+    "title": "ONU votará resolución sobre el estrecho de Ormuz mientras China se opone a autorización del uso de la fuerza",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El Consejo de Seguridad de la Organización de las Naciones Unidas (ONU) votará una resolución\nLa entrada ONU votará resolución sobre el estrecho de Ormuz mie...",
+    "date": "2026-04-03T15:00:15",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/onu-votara-resolucion-sobre-el-estrecho-de-ormuz-mientras-china-se-opone-a-autorizacion-del-uso-de-la-fuerza/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/huertas-mediterraneas-a-alpes-naufragio-hace-2-000-anos-que-revela-lujos-legiones-romanas-suiza",
+    "title": "De la huerta mediterránea a los Alpes: el naufragio de hace 2.000 años que desvela los \"lujos\" de las legiones romanas en Suiza",
+    "snippet": "Pocos productos de la gastronomía mediterránea son tan icónicos como el vino o el aceite de oliva. De hecho, si echamos un vistazo a las exportaciones actuales del estado español, comprobaremos que ambos siguen en el top...",
+    "date": "2026-04-03T14:30:56",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/huertas-mediterraneas-a-alpes-naufragio-hace-2-000-anos-que-revela-lujos-legiones-romanas-suiza",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=428850",
     "title": "Puerto de Iquique recibe al crucero SH Vega tras cierre por marejadas en Antofagasta",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Iquique recibió al SH Vega en el Molo Sitio N° 1, apenas cinco\nLa entrada Puerto de Iquique recibe al crucero SH Vega tras cierre por marejadas en Antofagasta s...",
@@ -1258,95 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1682366",
-    "title": "Dólar superó los S/ 3.50, cotización que no se registraba en seis meses, por incertidumbre sobre fin de conflicto en Irán",
-    "snippet": "La última vez que el tipo de cambio estuvo por encima de los S/ 3.50, fue hace seis meses, cuando el 25 de setiembre del 2025, cuando cotizó en S/ 3.505....",
-    "date": "2026-04-01T18:00:33",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/dolar-supero-los-s-350-cotizacion-que-no-se-veia-en-seis-meses-por-incertidumbre-sobre-fin-de-conflicto-en-iran-noticia-1682366",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428460",
-    "title": "Conflicto en Irán mantiene a 128 portacontenedores atrapados en el Golfo Pérsico",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un total de 128 portacontenedores permanecen actualmente bloqueados en el Golfo Pérsico a raíz del conflicto\nLa entrada Conflicto en Irán mantiene a 128 portacontenedores at...",
-    "date": "2026-04-01T18:00:26",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/conflicto-en-iran-mantiene-a-128-portacontenedores-atrapados-en-el-golfo-persico/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/energia/anatomia-colapso-como-rele-gipuzkoa-salvo-a-europa-sistema-espanol-moria-exito",
-    "title": "Anatomía de un colapso: cómo un relé en Gipuzkoa salvó a Europa mientras el sistema español moría de éxito",
-    "snippet": "El próximo 28 de abril se cumplirá exactamente un año del mayor colapso de nuestra historia reciente: el gran apagón que fundió a negro la península ibérica y dejó a 55 millones de personas en España y Portugal sin sumin...",
-    "date": "2026-04-01T18:00:24",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/anatomia-colapso-como-rele-gipuzkoa-salvo-a-europa-sistema-espanol-moria-exito",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428547",
-    "title": "Congreso peruano declara de “interés nacional” instalar dique seco post panamax en Callao",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Comisión de Economía, Banca, Finanzas e Inteligencia Financiera del Congreso peruano, que preside el congresista\nLa entrada Congreso peruano declara de &#8220;interés nac...",
-    "date": "2026-04-01T17:35:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/congreso-peruano-declara-de-interes-nacional-instalar-dique-seco-post-panamax-en-callao/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidente-encabeza-firma-convenio-entre-gobierno-regional-lambayeque-y-proinversion-1069382.aspx",
-    "title": "Presidente encabeza firma de convenio entre Gobierno Regional de Lambayeque y Proinversión",
-    "snippet": "El presidente de la república, José María Balcázar, lidera la ceremonia para la firma del convenio entre el Gobierno Regional de Lambayeque y la Agencia de Promoción de la Inversión Privada (Proinversión)....",
-    "date": "2026-04-01T17:26:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidente-encabeza-firma-convenio-entre-gobierno-regional-lambayeque-y-proinversion-1069382.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/dacia-se-ha-visto-obligada-a-dejar-ser-dacia-solucion-vendernos-no-coche-6-000-euros",
-    "title": "Dacia se ha visto obligada a dejar de ser Dacia. Solución: vendernos un no-coche por 6.000 euros",
-    "snippet": "Los coches han subido. No sé si te habrás dado cuenta pero apostaría a que sí. En 2023 os contamos en Xataka que, ya descontada la inflación entre 2014 y 2022 (alrededor del 18%), los precios de los coches más vendidos h...",
-    "date": "2026-04-01T17:00:24",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/dacia-se-ha-visto-obligada-a-dejar-ser-dacia-solucion-vendernos-no-coche-6-000-euros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-mejorara-calidad-informacion-predial-usada-municipios-y-optimizara-sus-tributos-1069373.aspx",
-    "title": "MEF mejorará calidad de información predial usada por municipios y optimizará sus tributos",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó nuevas medidas para mejorar la calidad de la información predial utilizada por las municipalidades y optimizar el cálculo de los tributos municipales, a través del Catast...",
-    "date": "2026-04-01T16:50:43",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-mejorara-calidad-informacion-predial-usada-municipios-y-optimizara-sus-tributos-1069373.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428513",
-    "title": "Agencia estatal rusa rechaza ingreso de 134 toneladas de fruta chilena a través del Puerto de San Petersburgo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Servicio Federal de Vigilancia Veterinaria y Fitosanitaria de Rusia (Rosselkhoznadzor) rechazó el ingreso de 134\nLa entrada Agencia estatal rusa rechaza ingreso de 134 to...",
-    "date": "2026-04-01T16:50:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/agencia-estatal-rusa-rechaza-ingreso-de-134-toneladas-de-fruta-chilena-a-traves-del-puerto-de-san-petersburgo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428449",
-    "title": "Craft lanza su propia operación de contenedores completos en México",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Craft, una multinacional brasileña especializada en transporte internacional de mercancías, anunció el inicio de sus operaciones\nLa entrada Craft lanza su propia operación d...",
-    "date": "2026-04-01T16:30:56",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/craft-lanza-su-propia-operacion-de-contenedores-completos-en-mexico/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/google-sabe-como-romper-bitcoin-no-quiere-decir-todavia",
-    "title": "Google ya sabe cómo romper Bitcoin, pero no lo quiere decir todavía",
-    "snippet": "“Las computadoras cuánticas representarán una amenaza significativa para los estándares criptográficos actuales”. Son palabras de Google en una reciente publicación en la que buscan llamar la atención sobre unas frontera...",
-    "date": "2026-04-01T16:30:24",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/google-sabe-como-romper-bitcoin-no-quiere-decir-todavia",
-    "category": "TRIBUTARIO"
   }
 ]
