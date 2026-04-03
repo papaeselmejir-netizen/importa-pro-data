@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-sector-defensa-traslada-combustible-y-docentes-a-zona-frontera-ucayali-1069717.aspx",
+    "title": "Sector Defensa traslada combustible y docentes a zona de frontera en Ucayali",
+    "snippet": "El sector Defensa prosigue con sus acciones cívicas con la finalidad de apoyar a las poblaciones de las zonas alejadas y de frontera de nuestro país. Es así que trasladó combustible a Purús, así como a docentes y sus fam...",
+    "date": "2026-04-03T23:13:50",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sector-defensa-traslada-combustible-y-docentes-a-zona-frontera-ucayali-1069717.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428342",
+    "title": "Puerto de Foyle se prepara para recibir mayor programa de cruceros de su historia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Foyle, en Irlanda del Norte, se prepara para recibir su mayor programa de\nLa entrada Puerto de Foyle se prepara para recibir mayor programa de cruceros de su hi...",
+    "date": "2026-04-03T23:00:58",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-foyle-se-prepara-para-recibir-mayor-programa-de-cruceros-de-su-historia/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-marina-guerra-callao-tendra-oleajes-anomalos-moderada-intensidad-hasta-cuando-1069255.aspx",
     "title": "Marina de Guerra: Callao tendrá oleajes anómalos de moderada intensidad ¿hasta cuándo?",
     "snippet": "La Marina de Guerra del Perú informó que el litoral peruano experimentará oleajes anómalos de moderada intensidad durante los próximos días, los que se sentirán con mayor fuerza el fin de semana, por lo que pidió reforza...",
@@ -1330,23 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-inspeccionan-aeropuerto-jorge-chavez-ante-proximo-incremento-vuelos-semana-santa-1069432.aspx",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428572",
-    "title": "Alemania: Container Terminal Altenwerder recibe tres grúas pórtico controladas a distancia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Container Terminal Altenwerder (CTA) de HHLA recibió tres grúas pórtico para contenedores, las que son controladas\nLa entrada Alemania: Container Terminal Altenwerder recibe...",
-    "date": "2026-04-01T20:45:41",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/alemania-container-terminal-altenwerder-recibe-tres-gruas-portico-controladas-a-distancia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dia-las-ranas-acuaticas-lideran-esfuerzos-para-proteger-a-guardianas-ecosistemas-1069422.aspx",
-    "title": "Día de las Ranas Acuáticas: lideran esfuerzos para proteger a guardianas de ecosistemas",
-    "snippet": "En el Día Mundial de las Ranas Acuáticas, que se conmemora hoy, el Servicio Nacional Forestal y de Fauna Silvestre (Serfor) celebra la importancia de las 28 especies de ranas acuáticas andinas del género \"Telmatobius\" qu...",
-    "date": "2026-04-01T20:43:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dia-las-ranas-acuaticas-lideran-esfuerzos-para-proteger-a-guardianas-ecosistemas-1069422.aspx",
-    "category": "MERCADO"
   }
 ]
