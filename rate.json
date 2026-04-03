@@ -1,6 +1,6 @@
 {
-  "purchase": 3.455,
-  "sale": 3.467,
-  "date": "2026-04-02",
-  "isLive": true
+  "purchase": 3.82,
+  "sale": 3.85,
+  "date": "OFFLINE",
+  "isLive": false
 }
