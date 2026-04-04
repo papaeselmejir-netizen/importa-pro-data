@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/centros-datos-no-solo-se-beben-energia-generan-calor-se-instalan-regiones-muy-calurosas-como-aragon",
+    "title": "Los centros de datos son auténticas \"calefacciones\". Y se están instalando en regiones tan calurosas como Aragón",
+    "snippet": "Los centros de datos son un agujero negro en varios sentidos. Se están bebiendo la capacidad mundial de fabricar chips NAND (lo que afecta a los SSD, a la RAM o a las tarjetas SD), las empresas que fabrican baterías no d...",
+    "date": "2026-04-04T11:30:56",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/centros-datos-no-solo-se-beben-energia-generan-calor-se-instalan-regiones-muy-calurosas-como-aragon",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-el-iphone-rumbo-a-luna-astronautas-artemis-ii-llevan-estos-modernos-smartphones-1069737.aspx",
+    "title": "El iPhone rumbo a la Luna: astronautas de Artemis II llevan estos modernos smartphones",
+    "snippet": "Por primera vez, la NASA  permitió el uso de teléfonos móviles en una misión tripulada hacia la Luna, marcando un giro significativo en cómo la NASA evalúa y acepta la tecnología comercial a bordo. Sin embargo, no se tra...",
+    "date": "2026-04-04T11:30:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-el-iphone-rumbo-a-luna-astronautas-artemis-ii-llevan-estos-modernos-smartphones-1069737.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/artemis-ii-solo-lleva-dos-dias-espacio-ha-dejado-foto-tierra-espectacular-noche-auroras-boreales",
+    "title": "Artemis II solo lleva dos días en el espacio y ya ha dejado la foto de la Tierra más espectacular: de noche y con auroras boreales",
+    "snippet": "La misión Artemis II partió el pasado 2 de abril (hora peninsular) después de varios retrasos y hoy día 4 de abril ya está más cerca de la Tierra que de la Luna, de acuerdo con el Artemis Real-time Orbit Website” (AROW),...",
+    "date": "2026-04-04T11:00:56",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/artemis-ii-solo-lleva-dos-dias-espacio-ha-dejado-foto-tierra-espectacular-noche-auroras-boreales",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/explotamos-debilidades-ia-lucha-solitaria-profesores-reinventar-deberes-examenes",
     "title": "\"Explotamos las debilidades de la IA\": la lucha solitaria de los profesores por reinventar los deberes y los exámenes",
     "snippet": "“Hay trabajos y ejercicios que veo que me sirven para aprender algo. Esos los hago yo. Pero otros que me parecen innecesarios… Le digo a la IA: hazme este trabajo, copio, pego y lo entrego”. Lucía, estudiante de un grado...",
@@ -1321,32 +1348,5 @@
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-01-de-abril-del-2026-noticia-1682474",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428389",
-    "title": "Autoridad Portuaria de Rotterdam firma alianza con operadores para mejorar transporte ferroviario",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Seis operadores ferroviarios – Rail Force One, HSL Netherlands, DB Cargo Nederland, RTB Cargo, LTE y\nLa entrada Autoridad Portuaria de Rotterdam firma alianza con operadores...",
-    "date": "2026-04-02T00:30:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/autoridad-portuaria-de-rotterdam-firma-alianza-con-operadores-para-mejorar-transporte-ferroviario/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-prestianni-dice-fue-sancionado-sin-pruebas-incidente-vinicius-jr-1069459.aspx",
-    "title": "Prestianni dice que fue sancionado \"sin pruebas\" por incidente con Vinícius Jr",
-    "snippet": "El futbolista argentino Gianluca Prestianni consideró que fue sancionado \"sin pruebas\" en el supuesto incidente racista con el atacante brasileño Vinícius Jr. durante un partido de Liga de Campeones de Europa en febrero....",
-    "date": "2026-04-01T23:36:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-prestianni-dice-fue-sancionado-sin-pruebas-incidente-vinicius-jr-1069459.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428631",
-    "title": "Puerto San Antonio, Colsa, Corfo y PUCV alistan Congreso Internacional de Logística Portuaria 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto San Antonio, la Comunidad Logística de San Antonio (Colsa), la Escuela de Ingeniería de Construcción\nLa entrada Puerto San Antonio, Colsa, Corfo y PUCV alistan Congre...",
-    "date": "2026-04-01T23:13:28",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-san-antonio-colsa-corfo-y-pucv-alistan-congreso-internacional-de-logistica-portuaria-2026/",
-    "category": "LOGÍSTICA"
   }
 ]
