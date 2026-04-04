@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-peru-conquisto-4-medallas-el-sudamericano-u15-y-u19-tenis-mesa-1069808.aspx",
+    "title": "Perú conquistó 4 medallas en el Sudamericano U15 y U19 de tenis de mesa",
+    "snippet": "La delegación nacional de tenis de mesa, con integrantes del Programa de Apoyo al Deportista (PAD) del Instituto Peruano del Deporte (IPD), consiguió 4 medallas en el Campeonato Sudamericano U15 y U19 que se disputó en B...",
+    "date": "2026-04-04T22:02:32",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-conquisto-4-medallas-el-sudamericano-u15-y-u19-tenis-mesa-1069808.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428929",
+    "title": "Australia: Puerto de Newcastle establece nuevo récord de volumen de comercio diversificado en 2025",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto de Newcastle registró su mejor desempeño comercial diversificado hasta la fecha, con más de 11,12\nLa entrada Australia: Puerto de Newcastle establece nuevo récord de ...",
+    "date": "2026-04-04T22:00:10",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/australia-puerto-de-newcastle-establece-nuevo-record-de-volumen-de-comercio-diversificado-en-2025/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=428926",
     "title": "ClassNK otorga la primera notación MASS del mundo a portacontenedores japonés",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario ClassNK otorgó la notación AUTO-Nav2(All) al portacontenedores japonés Genbu, el único buque autónomo de nueva construcción\nLa entrada ClassNK otorga la primera notación MAS...",
@@ -1330,23 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/china-lleva-anos-presumiendo-sus-robotaxis-conductor-que-100-se-han-parado-a-vez-wuhan",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=905652",
-    "title": "Samsung announces 2026 Frame TVs and the Pro costs less than last year’s",
-    "snippet": "Samsung has announced some more details about The Frame and Frame Pro, and the most interesting news is that this year's Frame Pro will be a little less expensive across sizes. While last year's Frame Pro at release was ...",
-    "date": "2026-04-02T15:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/905652/samsung-announces-2026-frame-and-oled-tvs",
-    "category": "MERCADO"
-  },
-  {
-    "id": "fa1ce484-07b0-4d3e-af96-7469b3194ece",
-    "title": "Samsung's 2026 Frame TV Debuts Without Separate Breakout Box",
-    "snippet": "The Frame and Frame Pro TVs boast improved performance in lit rooms and access to over 5,000 artworks....",
-    "date": "2026-04-02T15:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/home-entertainment/samsungs-2026-frame-tv-debuts-without-separate-breakout-box/",
-    "category": "MERCADO"
   }
 ]
