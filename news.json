@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=428749",
+    "title": "APM Terminals Maasvlakte II extiende su flota de terminal tractors eléctricos en Rotterdam",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Maasvlakte II en el Puerto de Rotterdam, junto con Embotech y Terberg Special Vehicles,\nLa entrada APM Terminals Maasvlakte II extiende su flota de terminal tr...",
+    "date": "2026-04-06T04:00:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/apm-terminals-maasvlakte-ii-extiende-su-flota-de-terminal-tractors-electricos-en-rotterdam/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=428761",
+    "title": "Mark Offshore y DroneQ Robotics cierran para utilización de buque RV Mintis",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El proveedor de servicios de robótica no tripulada DroneQ Robotics y Mark Offshore cerraron un acuerdo\nLa entrada Mark Offshore y DroneQ Robotics cierran para utilización de...",
+    "date": "2026-04-06T03:00:10",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mark-offshore-y-droneq-robotics-cierran-para-utilizacion-de-buque-rv-mintis/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=428962",
     "title": "Terminales petroleras rusas bajo ataque no pueden recibir cargamentos por segunda semana",
     "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Los centros de exportación de petróleo del Báltico en Ust-Luga y Primorsk siguen sin poder\nLa entrada Terminales petroleras rusas bajo ataque no pueden recib...",
@@ -15,6 +33,15 @@
     "date": "2026-04-05T22:24:36",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-ejercito-rehabilita-vias-comunicacion-afectadas-lluvias-intensas-la-libertad-1069884.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy41n17e23go#0",
+    "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+    "snippet": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs....",
+    "date": "2026-04-05T22:07:40",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
   },
   {
@@ -1320,33 +1347,6 @@
     "date": "2026-04-03T11:05:39",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-03-de-abril-del-2026-noticia-1682742",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/robotaxis-tesla-autonomos-cuando-conduce-senor-texas",
-    "title": "Los robotaxis de Tesla son autónomos, ecepto cuando los conduce un señor desde Texas",
-    "snippet": "Hacer un trayecto en un taxi autónomo es una sensación inquietante de un futuro que ya está aquí. Sin embargo, aunque el asiento del conductor esté vacío, ahora sabemos que a veces hay una persona a los mandos que lo est...",
-    "date": "2026-04-03T11:00:56",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/robotaxis-tesla-autonomos-cuando-conduce-senor-texas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=428786",
-    "title": "Puerto de Concarneau instala sistema que permitirá combatir incendios con agua de mar",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Ante el riesgo de incendio, el Puerto de Concarneau (CRN) ofrece a los bomberos una solución\nLa entrada Puerto de Concarneau instala sistema que permitirá combatir incendios...",
-    "date": "2026-04-03T11:00:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-concarneau-instala-sistema-que-permitira-combatir-incendios-con-agua-de-mar/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/videojuego-se-ha-dado-cuenta-que-no-relevante-culturalmente-asi-que-esta-tomando-medidas-desesperadas",
-    "title": "El videojuego se ha dado cuenta de que ya no es relevante culturalmente. Así que esta tomando medidas desesperadas",
-    "snippet": "Si te has enterado del lanzamiento del nuevo ‘Resident Evil’ y entras en TikTok buscando ver algo de gameplay o cómo derrotar a un zombi en concreto, ten cuidado porque es más probable que acabes viendo videos dedicados ...",
-    "date": "2026-04-03T10:30:56",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/videojuego-se-ha-dado-cuenta-que-no-relevante-culturalmente-asi-que-esta-tomando-medidas-desesperadas",
     "category": "TRIBUTARIO"
   }
 ]
