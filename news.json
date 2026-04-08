@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cj401ll8j5zo#0",
+    "title": "UK house prices fall as Iran war uncertainty dampens demand",
+    "snippet": "Mortgage rates have been rising and hundreds of the cheapest deals have disappeared over the last month....",
+    "date": "2026-04-08T09:51:42",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/modelos-ia-chinos-presumian-ser-buenos-bonitos-baratos-solo-dos-esas-tres-cosas",
+    "title": "Los modelos de IA chinos presumían de ser buenos, bonitos y baratos. Ya solo son dos de esas tres cosas",
+    "snippet": "No es tan conocida como sus rivales, pero Zhipu AI (z.ai) se ha convertido en una de las startups chinas de IA más prometedoras. Es la responsable de la familia de modelos abiertos GLM que siempre han planteado una alter...",
+    "date": "2026-04-08T09:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/modelos-ia-chinos-presumian-ser-buenos-bonitos-baratos-solo-dos-esas-tres-cosas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/modelo-agujero-negro-7-dimensiones-demuestra-que-para-no-variar-stephen-hawking-tenia-razon",
+    "title": "Un modelo de agujero negro en siete dimensiones demuestra que, para no variar, Stephen Hawking tenía razón",
+    "snippet": "Durante mucho tiempo se pensó que los agujeros negros solo podían crecer, ya que nada escapa de ellos. Más tarde, Stephen Hawking desmontó esta teoría, señalando que sí que puede salir radiación de su interior y que, de ...",
+    "date": "2026-04-08T09:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/modelo-agujero-negro-7-dimensiones-demuestra-que-para-no-variar-stephen-hawking-tenia-razon",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/basics/borrador-renta-2025-como-entrar-presentar-online-tu-declaracion-2026-web-agencia-tributaria",
+    "title": "Borrador de la Renta 2025: cómo entrar y presentar online tu declaración de 2026 con la web de la Agencia Tributaria",
+    "snippet": "Vamos a decirte cómo acceder a tu borrador de la Renta 2025, que es la declaración que tienes que presentar en 2026 para rendir cuentas del pasado año fiscal. El calendario de la Renta ha llegado a su día clave, y a part...",
+    "date": "2026-04-08T08:37:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/borrador-renta-2025-como-entrar-presentar-online-tu-declaracion-2026-web-agencia-tributaria",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/para-localizar-al-piloto-perdido-iran-eeuu-utilizo-dos-herramientas-se-dio-boeing-otra-pura-ciencia-ficcion",
+    "title": "Para localizar al piloto perdido en Irán EEUU utilizó dos herramientas. Una se la dio Boeing, la otra es ciencia ficción",
+    "snippet": "La llamada magnetometría cuántica ha prometido medir campos magnéticos tan débiles que rozan los límites de lo detectable, utilizando defectos microscópicos en diamantes sintéticos capaces de registrar variaciones imperc...",
+    "date": "2026-04-08T08:30:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/para-localizar-al-piloto-perdido-iran-eeuu-utilizo-dos-herramientas-se-dio-boeing-otra-pura-ciencia-ficcion",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/xiaomi-15t-pro-ha-alcanzado-su-precio-minimo-historico-no-su-configuracion-basica",
+    "title": "El Xiaomi 15T Pro ha alcanzado su precio mínimo histórico y no en su configuración más básica",
+    "snippet": "Aunque encontrar el móvil Xiaomi con mejor relación calidad-precio depende de las ofertas del momento, este Xiaomi 15T Pro es una buena opción ahora a este chollo de PcComponentes. Sobre todo, porque no es en su configur...",
+    "date": "2026-04-08T08:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/xiaomi-15t-pro-ha-alcanzado-su-precio-minimo-historico-no-su-configuracion-basica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/india-se-prometia-felices-como-pais-poblado-ahora-le-toca-averiguar-como-diablos-censar-a-1-400-millones-personas",
+    "title": "La India tiene un problema único en la historia de la humanidad: cómo demonios censar a 1.400 millones de personas",
+    "snippet": "No importa a qué te dediques, en qué sector trabajes o la cantidad de personas que tengas a tu cargo. Tus tareas difícilmente serán tan complicadas como la que acaba de afrontar el Gobierno de la India: censar a 1.400 mi...",
+    "date": "2026-04-08T07:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/india-se-prometia-felices-como-pais-poblado-ahora-le-toca-averiguar-como-diablos-censar-a-1-400-millones-personas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/hay-gente-obsesionada-consumir-magnesio-como-suplemento-cuando-mejor-forma-meterlo-tu-dieta-1",
+    "title": "Hay gente obsesionada con el magnesio como suplemento cuando la mejor forma es meterlo directamente en tu dieta",
+    "snippet": "Vivimos en la era de la optimización biológica, donde lo raro sin duda es no tomar suplementos alimentarios del supermercado como magnesio, colágeno, calcio, vitaminas varias... El magnesio en concreto se vende como una ...",
+    "date": "2026-04-08T07:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/hay-gente-obsesionada-consumir-magnesio-como-suplemento-cuando-mejor-forma-meterlo-tu-dieta-1",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/claude-mythos-modelo-ia-potente-que-da-miedo-asi-que-anthropic-ha-decidido-que-no-vas-a-poder-usarlo",
+    "title": "Claude Mythos es un modelo de IA tan potente que da miedo. Así que Anthropic ha decidido que no vas a poder usarlo",
+    "snippet": "Claude Mythos Preview ya está aquí y es tan bueno que asusta. Literalmente. Anthropic acaba de presentarlo en público, pero lo ha hecho con tanta cautela que ni siquiera podremos probarlo y solo estará disponible para ci...",
+    "date": "2026-04-08T06:37:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/claude-mythos-modelo-ia-potente-que-da-miedo-asi-que-anthropic-ha-decidido-que-no-vas-a-poder-usarlo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/mayoria-ciudadanos-pagamos-factura-luz-luz-paga-a-amancio-ortega-49-2-millones-dividendos",
+    "title": "Mientras la mayoría de los ciudadanos pagamos la factura de la luz, la luz paga a Amancio Ortega: 49,2 millones en dividendos",
+    "snippet": "Hay personas que pagan la factura de la luz cada mes, y personas a las que \"la luz\" les paga a ellas. Amancio Ortega pertenece, sin ninguna duda, al segundo grupo. El fundador de Inditex ingresará 49,2 millones de euros ...",
+    "date": "2026-04-08T06:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/mayoria-ciudadanos-pagamos-factura-luz-luz-paga-a-amancio-ortega-49-2-millones-dividendos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=429409",
     "title": "Canadá: Viking Polaris inaugura temporada de cruceros en Puerto de Halifax",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Port Halifax recibió la visita del Viking Polaris y a sus primeros huéspedes de crucero de\nLa entrada Canadá: Viking Polaris inaugura temporada de cruceros en Puerto de Hali...",
@@ -263,6 +353,15 @@
   {
     "id": "https://www.xataka.com/empresas-y-economia/malas-noticias-para-eeuu-fabricas-china-estan-aprendiendo-a-convivir-donald-trump-sus-aranceles",
     "title": "Malas noticias para EEUU: las fábricas de China están aprendiendo a convivir con Donald Trump y sus aranceles",
+    "snippet": "El regreso de Donald Trump a la Casa Blanca el 20 de enero de 2025 y el despliegue masivo de un paquete de aranceles muy agresivo puso a muchas empresas chinas contra las cuerdas. La Administración estadounidense arremet...",
+    "date": "2026-04-07T20:00:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/malas-noticias-para-eeuu-fabricas-china-estan-aprendiendo-a-convivir-donald-trump-sus-aranceles",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/malas-noticias-para-eeuu-fabricas-china-estan-aprendiendo-a-convivir-donald-trump-sus-aranceles",
+    "title": "Los aranceles de Donald Trump están teniendo un efecto imprevisto en China: sus fábricas son cada vez más fuertes",
     "snippet": "El regreso de Donald Trump a la Casa Blanca el 20 de enero de 2025 y el despliegue masivo de un paquete de aranceles muy agresivo puso a muchas empresas chinas contra las cuerdas. La Administración estadounidense arremet...",
     "date": "2026-04-07T20:00:00",
     "source": "XATAKA",
@@ -614,6 +713,15 @@
   {
     "id": "https://www.xataka.com/empresas-y-economia/samsung-se-ha-cansado-ser-segundona-carrera-chips-ahora-se-preparan-para-destronar-al-titan-taiwan",
     "title": "Samsung se ha cansado de ser la segundona de la carrera de los chips. Ahora se preparan para destronar al titán de Taiwán",
+    "snippet": "Cuando hablamos de inteligencia artificial, hay varios nombres propios que protagonizan la conversación. NVIDIA se ha convertido en los cimientos y en el cemento de la IA gracias tanto a sus productos como, sobre todo, a...",
+    "date": "2026-04-07T15:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/samsung-se-ha-cansado-ser-segundona-carrera-chips-ahora-se-preparan-para-destronar-al-titan-taiwan",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/samsung-se-ha-cansado-ser-segundona-carrera-chips-ahora-se-preparan-para-destronar-al-titan-taiwan",
+    "title": "Samsung estuvo años a la sombra de SK Hynix y TSMC. La carrera de la IA la ha vuelto a meter en la batalla",
     "snippet": "Cuando hablamos de inteligencia artificial, hay varios nombres propios que protagonizan la conversación. NVIDIA se ha convertido en los cimientos y en el cemento de la IA gracias tanto a sus productos como, sobre todo, a...",
     "date": "2026-04-07T15:30:13",
     "source": "XATAKA",
@@ -1240,113 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-elecciones-2026-como-llegar-a-los-locales-votacion-mas-mesas-sufragio-1069972.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429168",
-    "title": "Brasil: Invierten USD 1,6 millones en vías de acceso a Puerto de Paranaguá",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puertos de Paraná está invirtiendo R$ 8,6 millones (USD 1,6 millones) en el mantenimiento y rehabilitación de\nLa entrada Brasil: Invierten USD 1,6 millones en vías de acceso...",
-    "date": "2026-04-06T21:00:16",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-invierten-usd-16-millones-en-vias-de-acceso-a-puerto-de-paranagua/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-kompany-sobre-real-madrid-es-partido-mas-dificil-uno-puede-tener-europa-1070014.aspx",
-    "title": "Kompany sobre el Real Madrid: \"Es el partido más difícil que uno puede tener en Europa\"",
-    "snippet": "El entrenador belga Vincent Kompany reconoció este lunes que el cruce contra el Real Madrid \"es quizá el partido más complicado que puedes jugar fuera de casa en esta competición\", en la rueda de prensa previa a la ida d...",
-    "date": "2026-04-06T20:02:31",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-kompany-sobre-real-madrid-es-partido-mas-dificil-uno-puede-tener-europa-1070014.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-licitara-8-proyectos-transmision-electrica-mas-675-millones-1070004.aspx",
-    "title": "Gobierno licitará 8 proyectos de transmisión eléctrica por más de US$ 675 millones",
-    "snippet": "El Ministerio de Energía y Minas (Minem) informó que, en el segundo trimestre del año, a través de la Agencia de Promoción de la Inversión Privada (ProInversión), se realizará la licitación de ocho proyectos de transmisi...",
-    "date": "2026-04-06T19:50:41",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-licitara-8-proyectos-transmision-electrica-mas-675-millones-1070004.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-brigadas-han-ejecutado-acciones-contra-dengue-mas-12900-viviendas-de-libertad-1070003.aspx",
-    "title": "Brigadas han ejecutado acciones contra el dengue en más de 12,900 viviendas de La Libertad",
-    "snippet": "En lo que va del año, un total de 12,945 viviendas fueron intervenidas con el objetivo de prevenir la propagación del dengue en la región La Libertad, informó la Gerencia Regional de Salud (Geresa)....",
-    "date": "2026-04-06T19:42:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-brigadas-han-ejecutado-acciones-contra-dengue-mas-12900-viviendas-de-libertad-1070003.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/crossover/hay-forma-conseguir-que-tu-agente-ia-se-convierta-buen-empleado-hablar-monton-crossover-1x43",
-    "title": "Hay una forma de conseguir que tu agente de IA se convierta en un buen empleado. Hablar un montón con él: Crossover 1x43",
-    "snippet": "Si aún no has probado a instalar OpenClaw o no sabías muy bien cómo hacerlo, en Xataka y Crossover estamos tratando de acercarte a este fascinante agente de IA que se puede convertir en un empleado incansable que trabaja...",
-    "date": "2026-04-06T19:30:56",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/crossover/hay-forma-conseguir-que-tu-agente-ia-se-convierta-buen-empleado-hablar-monton-crossover-1x43",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-inversion-publica-crecio-35-primer-trimestre-2026-y-alcanzo-record-historico-1070002.aspx",
-    "title": "MEF: inversión pública creció 3.5% en primer trimestre de 2026 y alcanzó récord histórico",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) informó que la inversión pública alcanzó una ejecución de 11,641 millones de soles en el primer trimestre del 2026, monto que constituye un récord histórico para este periodo y ...",
-    "date": "2026-04-06T19:07:17",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-inversion-publica-crecio-35-primer-trimestre-2026-y-alcanzo-record-historico-1070002.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/vater-orion-ha-sido-exito-a-medias-astronautas-tendran-que-viajar-su-propia-orina",
-    "title": "Artemis II dispone de un baño que evacúa la orina de los astronautas al espacio. El problema es que se ha congelado",
-    "snippet": "El váter de la cápsula Orión está siendo uno de los temas más comentados de Artemis II. No es para menos, pues facilita mucho la vida de los astronautas que van de camino a la Luna. Sin embargo, si sigue generando conver...",
-    "date": "2026-04-06T19:00:56",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/vater-orion-ha-sido-exito-a-medias-astronautas-tendran-que-viajar-su-propia-orina",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-miembros-mesa-deben-presentarse-a-las-600-am-locales-votacion-1067572.aspx",
-    "title": "Elecciones 2026: Miembros de mesa deben presentarse a las 6:00 AM en locales de votación",
-    "snippet": "Los nueve miembros de mesa, 3 titulares y 6 suplentes, deben acudir a su mesa de votación el día de las elecciones para instalar la mesa de sufragio, de lo contrario serán acreedores a una multa equivalente a 275 soles, ...",
-    "date": "2026-04-06T18:57:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-miembros-mesa-deben-presentarse-a-las-600-am-locales-votacion-1067572.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-    "title": "The best deals on MacBooks right now",
-    "snippet": "It’s 2026, and that means Apple sells MacBooks equipped with not just its capable M-series processors but A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, the company no...",
-    "date": "2026-04-06T18:50:06",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1683110",
-    "title": "Recaudación tributaria creció 11,6% en marzo: Ingresos al fisco superaron los S/16.600 millones",
-    "snippet": "La Sunat informó que la recaudación acumula 22 meses consecutivos al alza impulsado por la actividad económica, los mayores precios de los metales y el avance de la campaña de regularización del Impuesto a la Renta. No o...",
-    "date": "2026-04-06T18:46:30",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/recaudacion-tributaria-crecio-116-en-marzo-ingresos-al-fisco-superaron-los-s-16600-millones-noticia-1683110",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/miyamoto-dice-que-no-hay-universo-cinematografico-nintendo-super-mario-galaxy-esta-siguiendo-recetario-marvel-mcu",
-    "title": "Nintendo insiste en que no existe tal cosa como el \"Universo Cinematográfico Nintendo\". Los hechos sugieren algo distinto",
-    "snippet": "Fox McCloud en una película de Mario, Yoshi con voz de Donald Glover y las escenas postcréditos apuntando directamente a otros juegos de Nintendo. 'Super Mario Galaxy: La película' arrasa en taquilla con 372 millones de ...",
-    "date": "2026-04-06T18:30:56",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/miyamoto-dice-que-no-hay-universo-cinematografico-nintendo-super-mario-galaxy-esta-siguiendo-recetario-marvel-mcu",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/miyamoto-dice-que-no-hay-universo-cinematografico-nintendo-super-mario-galaxy-esta-siguiendo-recetario-marvel-mcu",
-    "title": "Por mucho que lo niegue, es evidente que Nintendo está construyendo algo: el \"Universo Cinematográfico Nintendo\"",
-    "snippet": "Fox McCloud en una película de Mario, Yoshi con voz de Donald Glover y las escenas postcréditos apuntando directamente a otros juegos de Nintendo. 'Super Mario Galaxy: La película' arrasa en taquilla con 372 millones de ...",
-    "date": "2026-04-06T18:30:56",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/miyamoto-dice-que-no-hay-universo-cinematografico-nintendo-super-mario-galaxy-esta-siguiendo-recetario-marvel-mcu",
-    "category": "TRIBUTARIO"
   }
 ]
