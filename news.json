@@ -1,5 +1,203 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3111079",
+    "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
+    "snippet": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket prices on its website without clearly disclosing upfront what the total co...",
+    "date": "2026-04-09T20:04:12",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-autoriza-s-478-millones-credito-suplementario-y-transferencias-para-inversiones-1070519.aspx",
+    "title": "MEF autoriza S/ 478 millones en crédito suplementario y transferencias para inversiones",
+    "snippet": "El Gobierno, a través del Ministerio de Economía y Finanzas (MEF), autorizó más de 478 millones de soles entre crédito suplementario y transferencia de partidas para impulsar 1,015 inversiones en todo el país....",
+    "date": "2026-04-09T20:02:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-autoriza-s-478-millones-credito-suplementario-y-transferencias-para-inversiones-1070519.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=429814",
+    "title": "Colombia: Buque MSC Orsola establece récord en Puerto de Buenaventura",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La llegada del MSC Orsola al Puerto de Buenaventura (Colombia) rompió los récords en cuanto a\nLa entrada Colombia: Buque MSC Orsola establece récord en Puerto de Buenaventur...",
+    "date": "2026-04-09T19:43:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/colombia-buque-msc-orsola-establece-record-en-puerto-de-buenaventura/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ica-region-recibio-mas-100-mil-visitantes-durante-feriado-semana-santa-1070511.aspx",
+    "title": "Ica: región recibió más de 100 mil visitantes durante el feriado por Semana Santa",
+    "snippet": "Durante los feriados de Semana Santa, Ica recibió entre 100 mil y 120 mil visitantes, de los cuales aproximadamente el 50 % tuvo como destino Paracas y la Reserva Nacional que allí se encuentra....",
+    "date": "2026-04-09T19:40:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ica-region-recibio-mas-100-mil-visitantes-durante-feriado-semana-santa-1070511.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "aee77937-314e-4102-910c-0b989ca77681",
+    "title": "Amazon Delays Launch of Leo, Its Satellite Network and Starlink Rival",
+    "snippet": "Amazon's Leo is now expected to launch \"mid-2026,\" CEO Andy Jassy admitted....",
+    "date": "2026-04-09T19:36:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/home/internet/amazon-leo-launch-delay-starlink-rival/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=429781",
+    "title": "Rusia bloquearía retorno de principales navieras al país según Ucrania",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Servicio de Inteligencia Exterior de Ucrania (SZRU) aseguró que Rusia está redactando un decreto que,\nLa entrada Rusia bloquearía retorno de principales navieras al país ...",
+    "date": "2026-04-09T19:30:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rusia-bloquearia-retorno-de-principales-navieras-al-pais-segun-ucrania/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dolar-deberia-reducir-vaivenes-y-mantenerse-baja-volatilidad-el-peru-1070464.aspx",
+    "title": "Dólar debería reducir vaivenes y mantenerse con baja volatilidad en el Perú",
+    "snippet": "El tipo de cambio en el Perú debería mantenerse con baja volatilidad, aunque existe expectativa por la actual coyuntura electoral en el país y, sobre todo, por la situación de incertidumbre generada ante el conflicto bél...",
+    "date": "2026-04-09T19:21:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dolar-deberia-reducir-vaivenes-y-mantenerse-baja-volatilidad-el-peru-1070464.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "69d56b7ce10b2f176bc485f4",
+    "title": "China Is Cracking Down on Scams. Just Not the Ones Hitting Americans",
+    "snippet": "As Beijing clamps down on fraud at home, researchers say crime syndicates are shifting their focus to victims elsewhere....",
+    "date": "2026-04-09T19:14:42",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-elecciones-2026-los-locales-votacion-mas-mesas-sufragio-y-como-ubicarlos-1069972.aspx",
+    "title": "Elecciones 2026: los locales de votación con más mesas de sufragio y cómo ubicarlos",
+    "snippet": "La Oficina Nacional de Procesos Electorales (ONPE) dio a conocer cuáles son los locales de Lima Metropolitana y Callao con mayor número de mesas de sufragio para las Elecciones Generales 2026 y donde se espera que los vo...",
+    "date": "2026-04-09T19:11:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-2026-los-locales-votacion-mas-mesas-sufragio-y-como-ubicarlos-1069972.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=429772",
+    "title": "Carga movilizada por puertos de la Región de Valparaíso cae 0,1% en febrero de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El sector portuario de la Región de Valparaíso presentó un rendimiento negativo en febrero de 2026.\nLa entrada Carga movilizada por puertos de la Región de Valparaíso cae 0,...",
+    "date": "2026-04-09T19:00:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/carga-movilizada-por-puertos-de-la-region-de-valparaiso-cae-01-en-febrero-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/mapa-que-enviamos-al-espacio-alienigenas-nos-encuentren-ahora-candidato-a-convertirse-bandera-tierra",
+    "title": "Hay una competición espontánea para diseñar la \"Bandera de la Humanidad\". Y el mejor diseño es un grabado de la Voyager",
+    "snippet": "Está más que visto y comprobado que las fronteras y las banderas a veces se convierten en foco de conflictos y enemistades. El hecho de ver nuestro propio planeta desde fuera, a través de las imágenes tomadas por Artemis...",
+    "date": "2026-04-09T19:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/mapa-que-enviamos-al-espacio-alienigenas-nos-encuentren-ahora-candidato-a-convertirse-bandera-tierra",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1683610",
+    "title": "Gobierno se endeudará por S/4.200 millones para modernizar la Base Naval del Callao: ¿de qué trata el proyecto respaldado por EE. UU.?",
+    "snippet": "El Ministerio de Economía emitirá bonos soberanos para financiar la Fase II del Plan Maestro de la Base Naval del Callao, proyecto al que Estados Unidos venderá equipos y servicios por US$1.500 millones....",
+    "date": "2026-04-09T18:47:29",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/mef-gobierno-aprueba-deuda-por-mas-de-4200-millones-de-soles-modernizar-base-naval-del-callao-en-que-consiste-proyecto-respaldado-por-eeuu-noticia-1683610",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/reloj-arena-aviacion-europea-se-agota-10-abril-dia-que-dejaran-llegar-barcos-combustible-oriente-medio",
+    "title": "El reloj de arena de la aviación europea se agota el 10 de abril: el día en que dejan de llegar los barcos desde Oriente Medio",
+    "snippet": "Hay una fecha marcada en rojo en los calendarios de logística de todo el continente: mañana, 10 de abril. Según las proyecciones de la firma de análisis Argus Media, en torno a este día atracarán en los puertos europeos ...",
+    "date": "2026-04-09T18:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/reloj-arena-aviacion-europea-se-agota-10-abril-dia-que-dejaran-llegar-barcos-combustible-oriente-medio",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/10-000-toneladas-almendra-han-desaparecido-sola-noche-esta-helada-tardia-aviso-todo-que-esta-a-punto-pasar",
+    "title": "10.000 toneladas de almendra han desaparecido en Granada en una sola noche. Es un aviso de lo que está a punto de pasar",
+    "snippet": "La noche del 30 de marzo de 2026 unos 30 millones de euros se esfumaron. Las cifras son de COAG, pero (teniendo en cuenta los precedentes de principios de la década y el crecimiento del cultivo de la almendra) suenan pla...",
+    "date": "2026-04-09T17:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/10-000-toneladas-almendra-han-desaparecido-sola-noche-esta-helada-tardia-aviso-todo-que-esta-a-punto-pasar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1683588",
+    "title": "Nuevos aranceles de Estados Unidos sobre productos peruanos: Gobierno evalúa impacto en el comercio bilateral",
+    "snippet": "Mincetur afirmó que refuerza su agenda comercial externa para reducir riesgos sobre sus exportaciones y sostener el dinamismo del sector....",
+    "date": "2026-04-09T17:20:00",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/nuevos-aranceles-de-estados-unidos-sobre-productos-peruanos-gobierno-evalua-impacto-medidas-en-el-comercio-bilateral-noticia-1683588",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/telecinco-esta-desesperada-porque-pongas-isla-tentaciones-que-esta-generando-promos-ia-al-estilo-brainrot",
+    "title": "Telecinco está tan desesperada porque pongas 'La isla de las tentaciones' que está generando promos IA al estilo brainrot",
+    "snippet": "En su búsqueda desesperada de unos mínimos de audiencia que levanten sus temblequeantes cifras, Telecinco ha lanzado una inesperada promoción en redes sociales: frutas antropomórficas divirtiéndose, poniéndose celosas y ...",
+    "date": "2026-04-09T17:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/telecinco-esta-desesperada-porque-pongas-isla-tentaciones-que-esta-generando-promos-ia-al-estilo-brainrot",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/ucrania-esta-cerca-lograr-que-nadie-ninguna-guerra-va-a-derribar-misiles-millon-dolares",
+    "title": "Ucrania está cerca de lo que no ha conseguido nadie en una guerra: derribar misiles por menos de un millón de dólares",
+    "snippet": "Un solo misil interceptor avanzado puede costar más que decenas de drones de ataque combinados, y en Ucrania e Irán se han llegado a lanzar varios para neutralizar una única amenaza. Este desequilibrio ha llevado a situa...",
+    "date": "2026-04-09T16:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ucrania-esta-cerca-lograr-que-nadie-ninguna-guerra-va-a-derribar-misiles-millon-dolares",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1683581",
+    "title": "Gobierno incrementa presupuesto de regiones y municipios en cerca de S/ 420 millones para ejecutar obras",
+    "snippet": "Los rescursos inyectados por el Ministerio de Economía y Finanzas (MEF) serán utilizados en la ejecución de 982 proyectos a nivel nacional....",
+    "date": "2026-04-09T16:30:06",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/gobierno-incrementa-presupuesto-en-cerca-de-s-420-millones-para-obras-en-regiones-y-municipios-noticia-1683581",
+    "category": "MERCADO"
+  },
+  {
+    "id": "96dbe890-9f8e-4041-a0cf-c1987ba6b41b",
+    "title": "Check Out Sierra's Gameplay in This New Overwatch Trailer",
+    "snippet": "The new damage hero joins the Overwatch roster next week, swinging around on her drone....",
+    "date": "2026-04-09T16:18:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/overwatch-first-look-hero-51-sierra-gameplay/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/comprar-google-pixel-10-te-va-a-salir-hoy-mucho-barato-mejores-ofertas-que-ha-lanzado-mediamarkt-fecha",
+    "title": "Comprar un Google Pixel 10 te va a salir hoy mucho más barato: es de las mejores ofertas que ha lanzado MediaMarkt hasta la fecha",
+    "snippet": "Desde su lanzamiento, hemos visto numerosas ofertas en el Google Pixel 10. Algunas han sido mejores y otras peores, pero lo que es innegable es que, por lo general, casi siempre suele estar rebajado. MediaMarkt ha lanzad...",
+    "date": "2026-04-09T16:16:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/comprar-google-pixel-10-te-va-a-salir-hoy-mucho-barato-mejores-ofertas-que-ha-lanzado-mediamarkt-fecha",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1683142",
+    "title": "Puerto del Callao recibió uno de los buques más grandes de su historia: ¿qué tipo de cargamento desembarcó?",
+    "snippet": "La nave proveniente de Canadá con 77.000 toneladas de cargamento fue atendida en el Terminal Norte. Con una reducción del tiempo de descarga a la mitad, el puerto chalaco se posiciona como destino para embarcaciones de g...",
+    "date": "2026-04-09T16:15:07",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/puerto-del-callao-recibe-uno-de-buques-mas-grande-de-su-historia-que-cargamento-desembarco-noticia-1683142",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/basics/becas-mec-2026-2027-cuantias-como-solicitarlas-cuales-requisitos",
+    "title": "Becas MEC 2026-2027: cuantías, cómo solicitarlas y cuáles son los requisitos",
+    "snippet": "Vamos a decirte cómo solicitar tu beca MEC del curso 2026/2027, explicándote los requisitos para poder hacerlo y las cuantías de esta ayuda. Se trata de las becas del Ministerio de Educación para estudiantes.\nTambién rep...",
+    "date": "2026-04-09T16:07:08",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/becas-mec-2026-2027-cuantias-como-solicitarlas-cuales-requisitos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=429725",
     "title": "Conceden exenciones para que buques con cargamentos de Irán ingresen a puertos de India",
     "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Con el objetivo de agilizar la entrega de suministros energéticos desde el Golfo Pérsico, la\nLa entrada Conceden exenciones para que buques con cargamentos d...",
@@ -15,6 +213,24 @@
     "date": "2026-04-09T16:00:13",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/paradoja-gorpcore-ciudad-se-llena-botas-ultratecnicas-gran-tendencia-montana-ir-descalzo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/paradoja-gorpcore-ciudad-se-llena-botas-ultratecnicas-gran-tendencia-montana-ir-descalzo",
+    "title": "Mientras los cafés de especialidad se llenan de Salomon, cada vez más gente está caminando descalza por el monte",
+    "snippet": "Es sábado por la mañana en el centro de cualquier gran ciudad. En las cafeterías de especialidad, entre flat whites y pan de masa madre, desfila un ejército urbano equipado para sobrevivir a una ventisca en los Alpes. Ha...",
+    "date": "2026-04-09T16:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/paradoja-gorpcore-ciudad-se-llena-botas-ultratecnicas-gran-tendencia-montana-ir-descalzo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1683447",
+    "title": "Estados Unidos impuso aranceles de hasta 50 % a manufacturas de cobre peruano",
+    "snippet": "Cerca de 500 millones de dólares en manufacturas de cobre exportadas enfrentarán este nuevo arancel que afecta principalmente a productos con valor agregado, mientras las materias primas mantendrían acceso al mercado est...",
+    "date": "2026-04-09T16:00:02",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/estados-unidos-impone-aranceles-de-hasta-50-a-manufacturas-de-cobre-peruano-noticia-1683447",
     "category": "TRIBUTARIO"
   },
   {
@@ -117,6 +333,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/magnet/bombardeos-sanciones-pugna-eeuu-que-se-remonta-a-anos-70-que-papel-juega-pistacho-guerra-iran",
+    "title": "Detrás del petróleo, EEUU tenía un motivo mucho más mundano para atacar a Irán: los pistachos",
+    "snippet": "Desde que el 28 de febrero Estados Unidos e Israel golpearon Irán, desatando una guerra que se ha prolongado más de un mes y pende ahora de una frágil tregua, el mundo ha estado pendiente de los vaivenes en la cotización...",
+    "date": "2026-04-09T14:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/bombardeos-sanciones-pugna-eeuu-que-se-remonta-a-anos-70-que-papel-juega-pistacho-guerra-iran",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3110724",
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
     "snippet": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex....",
@@ -135,8 +360,26 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/movilidad/diesel-gasolina-estan-baratisimos-espana-eso-piensan-franceses",
+    "title": "Con la gasolina a 2 euros el litro en Francia, algo está pasando en Guipúzcoa: franceses cruzando la frontera con bidones",
+    "snippet": "En ciudades como Madrid y Barcelona, hoy el Diésel amanece a 1.94 euros el litro, con la gasolina rozando el 1.60. Son precios absolutamente disparados si los comparamos con los de los últimos meses antes del inicio del ...",
+    "date": "2026-04-09T14:16:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/diesel-gasolina-estan-baratisimos-espana-eso-piensan-franceses",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/magnet/mayor-proyecto-naval-historia-alemania-segunda-guerra-mundial-esta-siendo-disparatado-desastre-militar",
     "title": "El mayor proyecto naval en la historia de Alemania desde la Segunda Guerra Mundial está siendo un disparatado desastre militar",
+    "snippet": "En Europa, los grandes programas militares suelen tardar más de una década en completarse y, en muchos casos, acaban costando varias veces más de lo previsto inicialmente. No es raro que proyectos complejos acumulen mile...",
+    "date": "2026-04-09T14:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/mayor-proyecto-naval-historia-alemania-segunda-guerra-mundial-esta-siendo-disparatado-desastre-militar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/mayor-proyecto-naval-historia-alemania-segunda-guerra-mundial-esta-siendo-disparatado-desastre-militar",
+    "title": "El mayor proyecto naval en la historia de Alemania desde la Segunda Guerra Mundial está siendo un disparatado desastre",
     "snippet": "En Europa, los grandes programas militares suelen tardar más de una década en completarse y, en muchos casos, acaban costando varias veces más de lo previsto inicialmente. No es raro que proyectos complejos acumulen mile...",
     "date": "2026-04-09T14:00:13",
     "source": "XATAKA",
@@ -155,6 +398,15 @@
   {
     "id": "https://www.xataka.com/cine-y-tv/proximas-avatar-tienen-que-ser-cortas-baratas-pese-al-taquillazo-disney-no-tienen-claro-que-saga-continue",
     "title": "\"Las próximas Avatar tienen que ser más cortas y más baratas\": pese al taquillazo, en Disney no tienen claro que la saga continúe",
+    "snippet": "La trilogía de James Cameron ha generado 6.700 millones de dólares en taquilla. Pese a ello, el futuro de las dos secuelas restantes está en el aire, Disney está barajando hacer las siguientes películas más económicas, y...",
+    "date": "2026-04-09T13:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/proximas-avatar-tienen-que-ser-cortas-baratas-pese-al-taquillazo-disney-no-tienen-claro-que-saga-continue",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/proximas-avatar-tienen-que-ser-cortas-baratas-pese-al-taquillazo-disney-no-tienen-claro-que-saga-continue",
+    "title": "'Avatar' es una de las películas más rentables de la historia. Y aún así Disney se está planteando matar a la saga",
     "snippet": "La trilogía de James Cameron ha generado 6.700 millones de dólares en taquilla. Pese a ello, el futuro de las dos secuelas restantes está en el aire, Disney está barajando hacer las siguientes películas más económicas, y...",
     "date": "2026-04-09T13:30:13",
     "source": "XATAKA",
@@ -182,6 +434,15 @@
   {
     "id": "https://www.xataka.com/magnet/gran-crisis-vino-no-ha-llegado-al-mercado-lujo-acaba-vender-botella-cara-historia-700-000-eur",
     "title": "La industria del lujo quiere averiguar cuánto están dispuestos a pagar los millonarios por una botella de vino. Van por 700.000 €",
+    "snippet": "Con 812.500 dólares en el bolsillo (casi 700.000 euros, al cambio) puedes comprarte una buena casa en un barrio acomodado, lanzarte a una aventura empresarial o sencillamente afrontar la vida con mucha más tranquilidad, ...",
+    "date": "2026-04-09T13:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/gran-crisis-vino-no-ha-llegado-al-mercado-lujo-acaba-vender-botella-cara-historia-700-000-eur",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/gran-crisis-vino-no-ha-llegado-al-mercado-lujo-acaba-vender-botella-cara-historia-700-000-eur",
+    "title": "En 1945 alguien embotelló 75 centilitros de vino en Borgoña. Y ahora ese vino es el más caro de la historia: 700.000 euros",
     "snippet": "Con 812.500 dólares en el bolsillo (casi 700.000 euros, al cambio) puedes comprarte una buena casa en un barrio acomodado, lanzarte a una aventura empresarial o sencillamente afrontar la vida con mucha más tranquilidad, ...",
     "date": "2026-04-09T13:00:13",
     "source": "XATAKA",
@@ -225,6 +486,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://techcrunch.com/?p=3110639",
+    "title": "Radify’s sci-fi plasma reactors could break China’s dominance of rare-earth elements",
+    "snippet": "Radify Metals is developing a new way to process a variety of metals that promises to be pollution free....",
+    "date": "2026-04-09T13:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=909122",
     "title": "Amazon’s Starlink competitor Leo gets a new date",
     "snippet": "Amazon CEO Andy Jassy says the company's space-internet service Leo (formerly known as Project Kuiper) will \"launch in mid-2026.\" I'm going to assume that means proper commercial availability since the company already an...",
@@ -236,6 +506,15 @@
   {
     "id": "https://www.xataka.com/magnet/hay-lista-paises-donde-eeuu-quiere-cerrar-sus-bases-primero-esta-marcado-rojo-su-no-a-guerra-espana",
     "title": "Hay una lista de países donde EEUU quiere cerrar sus bases. Y el primero está marcado en rojo desde su “no a la guerra”: España",
+    "snippet": "Más de 80.000 soldados estadounidenses están desplegados de forma permanente en Europa, repartidos en decenas de bases que funcionan como nodos clave para operaciones en Oriente Medio, África y el propio continente. En m...",
+    "date": "2026-04-09T12:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hay-lista-paises-donde-eeuu-quiere-cerrar-sus-bases-primero-esta-marcado-rojo-su-no-a-guerra-espana",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hay-lista-paises-donde-eeuu-quiere-cerrar-sus-bases-primero-esta-marcado-rojo-su-no-a-guerra-espana",
+    "title": "EEUU ya se plantea retirar bases de algunos países de Europa. No hace falta ser un genio para saber de quién habla",
     "snippet": "Más de 80.000 soldados estadounidenses están desplegados de forma permanente en Europa, repartidos en decenas de bases que funcionan como nodos clave para operaciones en Oriente Medio, África y el propio continente. En m...",
     "date": "2026-04-09T12:30:13",
     "source": "XATAKA",
@@ -272,6 +551,15 @@
   {
     "id": "https://www.xataka.com/empresas-y-economia/hacienda-dice-que-no-uses-chatgpt-para-hacer-renta-problema-cuales-sus-alternativas",
     "title": "Hacienda dice que no uses ChatGPT para hacer la Renta. El problema es cuáles son sus alternativas",
+    "snippet": "La directora general de la Agencia Tributaria, Soledad Fernández, ha abierto la campaña de la Renta 2025 con un mensaje claro: no uses ChatGPT para hacer tu declaración. \"Con lo que se ha volcado el equipo de la Agencia ...",
+    "date": "2026-04-09T11:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/hacienda-dice-que-no-uses-chatgpt-para-hacer-renta-problema-cuales-sus-alternativas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/hacienda-dice-que-no-uses-chatgpt-para-hacer-renta-problema-cuales-sus-alternativas",
+    "title": "La Agencia Tributaria no quiere que utilices ChatGPT para la Renta. El problema es que sus alternativas son peores",
     "snippet": "La directora general de la Agencia Tributaria, Soledad Fernández, ha abierto la campaña de la Renta 2025 con un mensaje claro: no uses ChatGPT para hacer tu declaración. \"Con lo que se ha volcado el equipo de la Agencia ...",
     "date": "2026-04-09T11:30:13",
     "source": "XATAKA",
@@ -1059,294 +1347,6 @@
     "date": "2026-04-08T17:15:55",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/services-and-software/ios-26-setting-to-customize-if-you-hate-your-iphones-liquid-glass-design/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1683218",
-    "title": "CCL: Franquicias moverán 1 600 millones de dólares en 2026 gracias a expansión de marcas locales y nuevos formatos",
-    "snippet": "Juan Lazarte, presidente del Sector Franquicias de la CCL, señaló que este avance permitiría recuperar niveles previos a la pandemia. Gastronomía, belleza y salud encabezan participación....",
-    "date": "2026-04-08T17:05:51",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/ccl-franquicias-moveran-1-600-millones-de-dolares-en-2026-gracias-a-expansion-de-marcas-locales-y-nuevos-formatos-noticia-1683218",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429509",
-    "title": "Ataque de dron ruso daña infraestructura y buque civil en mayor puerto ucraniano del río Danubio",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un ataque nocturno de drones rusos contra Izmail, el puerto más grande de Ucrania en\nLa entrada Ataque de dron ruso daña infraestructura y buque civil en may...",
-    "date": "2026-04-08T17:00:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ataque-de-dron-ruso-dana-infraestructura-y-buque-civil-en-mayor-puerto-ucraniano-del-rio-danubio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/dormir-tarde-fin-semana-parece-solucion-perfecta-a-tu-cansancio-tu-cuerpo-tiene-opinion-muy-distinta",
-    "title": "Dormir hasta tarde el fin de semana parece la solución perfecta a tu cansancio. Tu cuerpo tiene una opinión muy distinta",
-    "snippet": "Dormir ocho horas al día de manera religiosa es para muchos un objetivo que no consiguen alcanzar casi nunca, puesto que las alarmas suenan demasiado temprano y las jornadas se alargan, acumulando una deuda de sueño que ...",
-    "date": "2026-04-08T17:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/dormir-tarde-fin-semana-parece-solucion-perfecta-a-tu-cansancio-tu-cuerpo-tiene-opinion-muy-distinta",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/dormir-tarde-fin-semana-parece-solucion-perfecta-a-tu-cansancio-tu-cuerpo-tiene-opinion-muy-distinta",
-    "title": "Llevamos años intentando \"recuperar\" el sueño los fines de semana. La ciencia tiene malas noticias para nuestro metabolismo",
-    "snippet": "Dormir ocho horas al día de manera religiosa es para muchos un objetivo que no consiguen alcanzar casi nunca, puesto que las alarmas suenan demasiado temprano y las jornadas se alargan, acumulando una deuda de sueño que ...",
-    "date": "2026-04-08T17:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/dormir-tarde-fin-semana-parece-solucion-perfecta-a-tu-cansancio-tu-cuerpo-tiene-opinion-muy-distinta",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=908793",
-    "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
-    "snippet": "Microsoft is losing another veteran executive. Julia Liuson, head of Microsoft's developer division (DevDiv), is resigning from the software giant after 34 years. Liuson spent the past 12 years leading Microsoft's develo...",
-    "date": "2026-04-08T16:56:43",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/drones/eeeu-veto-al-mayor-fabricante-chino-drones-no-contaba-que-se-quedaria-mayor-fabricante-chino-drones",
-    "title": "EEEU vetó al mayor fabricante chino de drones. No contaba con que se quedaría sin el mayor fabricante chino de drones",
-    "snippet": "En diciembre de 2025, el gobierno de los Estados Unidos vetó a DJI, convirtiéndola en la Huawei de los drones. Era una idea absolutamente disparatada, con los propios pilotos de drones estadounidenses advirtiendo sobre l...",
-    "date": "2026-04-08T16:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/drones/eeeu-veto-al-mayor-fabricante-chino-drones-no-contaba-que-se-quedaria-mayor-fabricante-chino-drones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "96dbe890-9f8e-4041-a0cf-c1987ba6b41b",
-    "title": "Overwatch's Next Hero Is Sierra, but Does That Mean the Rumors Were Wrong?",
-    "snippet": "The new damage hero joins the roster next week, but lore and gameplay details are still under wraps....",
-    "date": "2026-04-08T16:17:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/overwatch-first-look-hero-51-sierra/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429553",
-    "title": "Consejo de Relación Ciudad-Puerto de Arica define prioridades para 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con la participación de las nuevas autoridades regionales, se llevó a cabo la primera sesión del\nLa entrada Consejo de Relación Ciudad-Puerto de Arica define prioridades par...",
-    "date": "2026-04-08T16:15:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/consejo-de-relacion-ciudad-puerto-de-arica-define-prioridades-para-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429522",
-    "title": "Hanseatic Global Terminals se convierte en socio único de Florida International Terminal",
-    "snippet": "Por Redacción PortalCruceros @PortalCruceros Hanseatic Global Terminals y Grupo Empresas Navieras, a través de su filial Agunsa USA, completaron el\nLa entrada Hanseatic Global Terminals se convierte en socio único de Flo...",
-    "date": "2026-04-08T16:10:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/hanseatic-global-terminals-se-convierte-en-socio-unico-de-florida-international-terminal/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3110418",
-    "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
-    "snippet": "Back, a longtime researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin....",
-    "date": "2026-04-08T16:03:21",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3110416",
-    "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-    "snippet": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access....",
-    "date": "2026-04-08T16:01:09",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429518",
-    "title": "Irán emite nuevas advertencias contra cualquier buque que intente navegar a través del estrecho de Ormuz",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Las navieras afirmaron que necesitan mayor claridad sobre los términos del cese al fuego entre\nLa entrada Irán emite nuevas advertencias contra cualquier buq...",
-    "date": "2026-04-08T16:00:16",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/iran-emite-nuevas-advertencias-contra-cualquier-buque-que-intente-navegar-a-traves-del-estrecho-de-ormuz/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/wearables/guerra-gafas-ia-ha-comenzado-campo-batalla-se-divide-camara-camara-no",
-    "title": "La guerra de las gafas IA ha comenzado: el campo de batalla se divide entre cámara sí o cámara no",
-    "snippet": "\"Imbéciles con una cámara en la cara\", así es como Will Wang ha calificado a los usuarios de una gafas Ray-Ban Meta durante una entrevista con Financial Times. ¿Quién es este señor y por qué dice eso? Wang es el CEO de E...",
-    "date": "2026-04-08T16:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/wearables/guerra-gafas-ia-ha-comenzado-campo-batalla-se-divide-camara-camara-no",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429537",
-    "title": "Aduanas imparte taller de seguridad de cadena logística a Operadores Económicos Autorizados",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Servicio Nacional de Aduanas realizó el Taller de fortalecimiento de la seguridad en la cadena\nLa entrada Aduanas imparte taller de seguridad de cadena logística a Operad...",
-    "date": "2026-04-08T15:56:56",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/aduanas-imparte-taller-de-seguridad-de-cadena-logistica-a-operadores-economicos-autorizados/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=908742",
-    "title": "Amazon’s Smart Thermostat can help lower your energy bills, and it’s down to $62",
-    "snippet": "With temperatures on the rise and Earth Day right around the corner, now’s a good time to invest in a smart thermostat if you haven’t already. A good one like Amazon’s Smart Thermostat can help reduce energy use and lowe...",
-    "date": "2026-04-08T15:56:34",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/908742/amazon-smart-thermostat-samsung-galaxy-buds-4-pro-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "ccd52344-de84-49f3-988f-958343a4eaf2",
-    "title": "The $2,899 Galaxy Z TriFold Is Back. You Can Buy It From Samsung Soon",
-    "snippet": "The foldable phone paused its sales in March after selling through its inventory, but Samsung is bringing it back to its online store....",
-    "date": "2026-04-08T15:52:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-trifold-availability-again/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/espn-llega-a-disney-espana-nba-laliga-champions-que-competiciones-veras-esta-nueva-oferta-deportiva",
-    "title": "ESPN llega a Disney+ en España, con NBA pero sin LaLiga ni Champions: qué competiciones verás en esta nueva oferta deportiva",
-    "snippet": "Disney y ESPN han anunciado el lanzamiento de ESPN en Disney+ en 53 países de Europa y Asia-Pacífico, España incluida. Con este movimiento la presencia global de la marca deportiva se amplía a aproximadamente 100 mercado...",
-    "date": "2026-04-08T15:46:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/espn-llega-a-disney-espana-nba-laliga-champions-que-competiciones-veras-esta-nueva-oferta-deportiva",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "db00eb20-1cbc-418c-a0fa-6df35c4a4ea9",
-    "title": "YouTubers Sue Amazon, Claim AI Tool Was Trained on Scraped Videos",
-    "snippet": "The lawsuit alleges that Amazon bypassed YouTube protections to collect content for its generative AI video system....",
-    "date": "2026-04-08T15:37:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/youtubers-sue-amazon-claim-ai-tool-was-trained-on-scraped-videos/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429412",
-    "title": "Aegean Shipping anuncia implementación de asistente manual impulsado por Inteligencia Artificial",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Aegean Shipping anunció la implementación de un software impulsado por Inteligencia Artificial como asistente\nLa entrada Aegean Shipping anuncia implementación de...",
-    "date": "2026-04-08T15:30:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/aegean-shipping-anuncia-implementacion-de-asistente-manual-impulsado-por-inteligencia-artificial/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/espana-lleva-anos-construyendo-puente-china-ahora-union-europea-quien-necesita-cruzarlo",
-    "title": "España lleva años construyendo un puente con China. Ahora es la Unión Europea quien necesita cruzarlo",
-    "snippet": "Pedro Sánchez va a aterrizar en China esta semana por cuarta vez en tres años. Ningún otro líder occidental se le acerca.\nPor qué es importante. Lo que parecía una excentricidad diplomática se ha convertido en una tenden...",
-    "date": "2026-04-08T15:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/espana-lleva-anos-construyendo-puente-china-ahora-union-europea-quien-necesita-cruzarlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429500",
-    "title": "Puerto ruso de Ust-Luga reanuda exportaciones de petróleo a pesar de continuos ataques con drones",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El puerto ruso de Ust-Luga ha reanudado las exportaciones de petróleo a pesar de los\nLa entrada Puerto ruso de Ust-Luga reanuda exportaciones de petróleo a p...",
-    "date": "2026-04-08T15:00:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-ruso-de-ust-luga-reanuda-exportaciones-de-petroleo-a-pesar-de-continuos-ataques-con-drones/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/nuestro-cerebro-se-esta-pudriendo-a-base-scroll-infinito-alguien-ha-dejado-movil-14-dias-para-ver-hay-vuelta-atras",
-    "title": "Nuestro cerebro se está \"pudriendo\" a base de scroll infinito. Alguien ha dejado el móvil 14 días para ver si hay vuelta atrás",
-    "snippet": "A día de hoy es una realidad que la mayoría de nosotros vivimos pegados a una pantalla, y esto es algo que está documentado en estudios donde se apunta, por ejemplo, que de media revisamos una media de 200 veces el teléf...",
-    "date": "2026-04-08T15:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/nuestro-cerebro-se-esta-pudriendo-a-base-scroll-infinito-alguien-ha-dejado-movil-14-dias-para-ver-hay-vuelta-atras",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/nuevo/nuevo-apple-iphone-plegable-informacion",
-    "title": "El iPhone plegable está cada día más cerca: esto es todo lo que sabemos sobre él hasta ahora",
-    "snippet": "Si hay un dispositivo que se espera desde que Samsung puso su primer Samsung Galaxy Z Fold en el mercado, ese es, si duda el iPhone plegable de Apple. Los rumores y filtraciones sobre este dispositivo llevan tiempo circu...",
-    "date": "2026-04-08T14:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/nuevo/nuevo-apple-iphone-plegable-informacion",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/totalenergies-decidio-topar-precio-gasolina-diesel-consecuencia-se-ha-quedado-gasolina-diesel",
-    "title": "TotalEnergies decidió topar el precio de la gasolina y el diésel. Consecuencia: se ha quedado sin gasolina y sin diésel",
-    "snippet": "El 12% de las gasolineras francesas se está quedando sin combustibles. Es un titular que está copando algunas de las noticias esta semana. Aunque podamos pensar que se debe a un problema de desabastecimiento nacional, la...",
-    "date": "2026-04-08T14:16:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/totalenergies-decidio-topar-precio-gasolina-diesel-consecuencia-se-ha-quedado-gasolina-diesel",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5ywpv1d4geo#0",
-    "title": "Why it could take months for fuel and food prices to return to normal",
-    "snippet": "Analysts fear long-lasting economic damage has already been set in motion....",
-    "date": "2026-04-08T14:07:41",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5ywpv1d4geo#0",
-    "title": "Why fuel and food prices could still be affected for months",
-    "snippet": "Analysts fear long-lasting economic damage from the US-Israel war with Iran has already been set in motion....",
-    "date": "2026-04-08T14:07:41",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/que-protocolo-que-usa-tu-vpn-importa-que-precio-wireguard-openvpn-e-ikev2-explicados-tecnicismos",
-    "title": "Por qué el protocolo que usa tu VPN importa más que el precio: WireGuard, OpenVPN e IKEv2 explicados sin tecnicismos",
-    "snippet": "Vamos a decirte por qué es tan importante el protocolo que elijas en una VPN, y también te explicaremos tres de los más importantes de forma detallada. Te hablaremos de los WireGuard, OpenVPN e IKEv2, que puedes encontra...",
-    "date": "2026-04-08T14:04:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/que-protocolo-que-usa-tu-vpn-importa-que-precio-wireguard-openvpn-e-ikev2-explicados-tecnicismos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3110403",
-    "title": "As YouTube grows on TV, it eyes more interactive video across formats",
-    "snippet": "YouTube's hiring across roles, partnerships, and a Bengaluru hub shows how it is building out its TV strategy....",
-    "date": "2026-04-08T14:03:04",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/guerra-ha-llevado-a-muchos-expats-a-mirar-alla-dubai-italia-hay-ciudad-dispuesta-a-aprovecharlo",
-    "title": "La guerra de Irán tiene un ganador inesperado: Milán y su sueño de relevar a Dubái como nueva \"meca\" de los expats",
-    "snippet": "El skyline quizás sea el rasgo más reconocible de Dubái, sin embargo en las últimas décadas la ciudad se dotó de algo mucho más importante (y complicado) que sus rascacielos: prestigio. Durante años los expats de medio m...",
-    "date": "2026-04-08T14:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/guerra-ha-llevado-a-muchos-expats-a-mirar-alla-dubai-italia-hay-ciudad-dispuesta-a-aprovecharlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/guerra-ha-llevado-a-muchos-expats-a-mirar-alla-dubai-italia-hay-ciudad-dispuesta-a-aprovecharlo",
-    "title": "La guerra ha minado la imagen de Dubái como destino para millonarios. En Europa ya hay una ciudad que quiere ocupar su lugar",
-    "snippet": "El skyline quizás sea el rasgo más reconocible de Dubái, sin embargo en las últimas décadas la ciudad se dotó de algo mucho más importante (y complicado) que sus rascacielos: prestigio. Durante años los expats de medio m...",
-    "date": "2026-04-08T14:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/guerra-ha-llevado-a-muchos-expats-a-mirar-alla-dubai-italia-hay-ciudad-dispuesta-a-aprovecharlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/denza-z9gt-denza-z9-caracteristicas-especificaciones-fotos-precio-fecha",
-    "title": "Denza Z9GT y D9: la marca de lujo de BYD aterriza en Europa con un coupé de más de 1.000 CV y un monovolumen de siete plazas",
-    "snippet": "BYD lleva unos años de infarto en Europa y en el resto de regiones en las que tiene presencia. Sin embargo, la marca ha querido esta vez dar un paso muy distinto: entrar de lleno al segmento premium de vehículos. Y lo ha...",
-    "date": "2026-04-08T13:46:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/denza-z9gt-denza-z9-caracteristicas-especificaciones-fotos-precio-fecha",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429451",
-    "title": "DP World en San Antonio cierra temporada de cruceros con récord de visitantes y barcos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World cerró la temporada de cruceros 2025-26 en su terminal multipropósito en San Antonio, alcanzando\nLa entrada DP World en San Antonio cierra temporada de cruceros con ...",
-    "date": "2026-04-08T13:38:58",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dp-world-san-antonio-cierra-temporada-de-cruceros-con-record-de-visitantes-y-barcos/",
     "category": "MERCADO"
   }
 ]
