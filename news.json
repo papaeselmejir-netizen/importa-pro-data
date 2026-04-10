@@ -1,11 +1,173 @@
 [
   {
+    "id": "https://www.theverge.com/?p=910025",
+    "title": "Amazon Luna axes third-party game purchases",
+    "snippet": "Amazon Luna announced a big change on Friday that will prevent players from purchasing third-party games and subscriptions. The cloud gaming service will remove previously purchased games on June 10th, 2026, though they'...",
+    "date": "2026-04-10T17:31:58",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/legislacion-y-derechos/laliga-lleva-anos-guerra-cloudflare-pirateria-acaba-aliarse-su-principal-competidor",
+    "title": "LaLiga lleva años en guerra con Cloudflare por la piratería. Acaba de aliarse con su principal competidor",
+    "snippet": "Tenemos una noticia mala y otra peor. La mala es que condena de los bloqueos indiscriminados de IPs de LaLiga sigue produciéndose más de un año después. La malísima es que probablemente vayan a más. Sobre todo, después d...",
+    "date": "2026-04-10T17:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/legislacion-y-derechos/laliga-lleva-anos-guerra-cloudflare-pirateria-acaba-aliarse-su-principal-competidor",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=909948",
+    "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+    "snippet": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego video...",
+    "date": "2026-04-10T17:30:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-kuelap-se-pone-moda-607-incremento-numero-turistas-visito-monumento-1070636.aspx",
+    "title": "Kuélap se pone de moda: en 60.7 % incrementó el número de turistas que visitó el Monumento",
+    "snippet": "El Complejo Arqueológico Monumental Kuélap se pone de moda. El atractivo turístico emblema de Amazonas registró un notable incremento en el número de visitantes que recibió durante el último feriado por Semana Santa, des...",
+    "date": "2026-04-10T17:03:14",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-kuelap-se-pone-moda-607-incremento-numero-turistas-visito-monumento-1070636.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-obras-impuestos-supero-los-s-2100-millones-primer-trimestre-del-2026-1070630.aspx",
+    "title": "MEF: Obras por Impuestos superó los S/ 2,100 millones en primer trimestre del 2026",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF), a través de la Agencia de Promoción de la Inversión Privada (ProInversión), informó que, en el primer trimestre del 2026, el mecanismo de Obras por Impuestos superó por primera...",
+    "date": "2026-04-10T17:01:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-obras-impuestos-supero-los-s-2100-millones-primer-trimestre-del-2026-1070630.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/hay-nueva-obsesion-grandes-tecnologicas-clonar-humanos-mediante-avatares-digitales",
+    "title": "Hay una nueva obsesión entre las grandes tecnológicas: clonar humanos mediante avatares digitales",
+    "snippet": "Las Big tech tienen claro que, para promocionar sus servicios de IA, necesitan creadores de contenido. Al mismo tiempo, buena parte de la creación de contenido pasa por influencers creados con IA. Por si pensábamos que n...",
+    "date": "2026-04-10T17:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/hay-nueva-obsesion-grandes-tecnologicas-clonar-humanos-mediante-avatares-digitales",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=429989",
+    "title": "Perú: Movimiento de carga en puertos concesionados supera 10,5 millones de toneladas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos concesionados bajo la supervisión del Organismo Supervisor de la Inversión en Infraestructura de Transporte\nLa entrada Perú: Movimiento de carga en puertos conce...",
+    "date": "2026-04-10T17:00:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-movimiento-de-carga-en-puertos-concesionados-supera-105-millones-de-toneladas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3109679",
+    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "snippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep di...",
+    "date": "2026-04-10T16:38:43",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/teruel-quiere-que-parte-su-futuro-pase-estratosfera-asi-que-esta-construyendo-descomunal-astropuerto",
+    "title": "Teruel está construyendo un hangar XXXL para dirigibles. Su objetivo: ser la primera ciudad de Europa con un \"astropuerto\"",
+    "snippet": "En cuestión de meses (si se cumplen los plazos) Europa estrenará un nuevo y flamante astropuerto, una instalación diseñada para acoger aeronaves de vuelos estratosféricos. Lo curioso no es el complejo en sí, que podrá us...",
+    "date": "2026-04-10T16:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/teruel-quiere-que-parte-su-futuro-pase-estratosfera-asi-que-esta-construyendo-descomunal-astropuerto",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/francia-se-ha-llevado-todo-su-oro-eeuu-ha-salido-ganando-traslado",
+    "title": "Francia se ha llevado todo su oro de EEUU: ha salido ganando con el traslado",
+    "snippet": "El Banco de Francia confirmaba ayer algo que llevaba tiempo gestándose en silencio: ha retirado hasta el último lingote de oro que tenía guardado en las bóvedas de la Reserva Federal de Nueva York. Una operación que habi...",
+    "date": "2026-04-10T16:18:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/francia-se-ha-llevado-todo-su-oro-eeuu-ha-salido-ganando-traslado",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-suplemento-variedades-los-100-anos-del-monumento-a-manco-capac-y-otras-cronicas-1070628.aspx",
+    "title": "Suplemento “Variedades”: los 100 años del monumento a Manco Cápac y otras crónicas",
+    "snippet": "La edición de hoy, viernes 10 de abril, del suplemento “Variedades” del Diario Oficial El Peruano trae una crónica por los cien años del monumento a Manco Cápac, en el distrito limeño de La Victoria....",
+    "date": "2026-04-10T16:02:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-suplemento-variedades-los-100-anos-del-monumento-a-manco-capac-y-otras-cronicas-1070628.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/alzheimer-deja-huella-decadas-antes-dar-cara-mantener-a-raya-vitamina-d-puede-ser-nuestro-mejor-escudo",
+    "title": "El alzhéimer deja huella décadas antes de dar la cara:; mantener a raya la vitamina D es ya un escudo prometedor",
+    "snippet": "El Alzheimer y otras formas de demencia siguen siendo uno de los rompecabezas médicos más complejos de nuestra era, destacando sobre todo por la ausencia de tratamientos que consigan frenar completamente la enfermedad o ...",
+    "date": "2026-04-10T16:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/alzheimer-deja-huella-decadas-antes-dar-cara-mantener-a-raya-vitamina-d-puede-ser-nuestro-mejor-escudo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-operacion-sonrisa-realizara-cirugia-gratuita-a-ninos-fisura-labial-y-paladar-hendido-1070623.aspx",
+    "title": "Operación Sonrisa realizará cirugía gratuita a niños con fisura labial y paladar hendido",
+    "snippet": "Operación Sonrisa abre una nueva convocatoria para realizar 80 cirugías reconstructivas gratuitas a pacientes de escasos recursos de Lima y provincias en el Hospital Daniel Alcides Carrión del Callao....",
+    "date": "2026-04-10T15:53:47",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-operacion-sonrisa-realizara-cirugia-gratuita-a-ninos-fisura-labial-y-paladar-hendido-1070623.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/mirar-a-tierra-no-ver-fronteras-que-astronautas-artemis-ii-que-regresan-hoy-no-como-que-se-fueron",
+    "title": "Cuando los astronautas de Artemis II regresen ya no serán los mismos: el efecto psicológico de \"observar la Tierra\"",
+    "snippet": "El viaje de vuelta de los astronautas de Artemis II finalizará hoy, alrededor de las 20:07 EDT (02:07, hora peninsular española). Los cuatro integrantes de su tripulación volverán por fin a casa. Hace poco más de una sem...",
+    "date": "2026-04-10T15:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/mirar-a-tierra-no-ver-fronteras-que-astronautas-artemis-ii-que-regresan-hoy-no-como-que-se-fueron",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=907744",
+    "title": "Bose’s rugged Soundlink Flex Bluetooth speaker is on sale for up to $50 off",
+    "snippet": "We saw a host of excellent Bose discounts during Amazon’s so-called Big Spring Sale last month; however, none of them were quite as steep as the current price drop we’re seeing on the latest Bose Soundlink Flex. Right no...",
+    "date": "2026-04-10T15:17:28",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/openai-juraba-que-anuncios-chatgpt-eran-su-ultimo-recurso-ahora-su-plan-supervivencia",
+    "title": "OpenAI juraba que los anuncios en ChatGPT eran su \"último recurso\". Ahora son su plan de supervivencia",
+    "snippet": "Hace un par de años Sam Altman decía que meter anuncios en ChatGPT era \"el último recurso para nuestro modelo de negocio\". Pues bien, los anuncios en ChatGPT ya están aquí y OpenAI tiene la seguridad de que va a ser el n...",
+    "date": "2026-04-10T15:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/openai-juraba-que-anuncios-chatgpt-eran-su-ultimo-recurso-ahora-su-plan-supervivencia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3111314",
+    "title": "YouTube Premium and YouTube Music are getting more expensive",
+    "snippet": "The YouTube Premium individual plan is increasing from $13.99 to $15.99 per month, while the family plan is increasing from $22.99 to $26.99 per month....",
+    "date": "2026-04-10T14:38:43",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=429932",
     "title": "Bélgica: Tráfico marítimo en Puerto de Amberes se detiene parcialmente tras vertimiento de petróleo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El tráfico marítimo en los alrededores del Puerto de Amberes, en Bélgica, se ha detenido parcialmente\nLa entrada Bélgica: Tráfico marítimo en Puerto de Amberes se detiene pa...",
     "date": "2026-04-10T14:30:22",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/belgica-trafico-maritimo-en-puerto-de-amberes-se-detiene-parcialmente-tras-vertimiento-de-petroleo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=429932",
+    "title": "Bélgica: Tráfico en Puerto de Amberes se detiene parcialmente tras vertimiento de petróleo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El tráfico marítimo en los alrededores del Puerto de Amberes, en Bélgica, se ha detenido parcialmente\nLa entrada Bélgica: Tráfico en Puerto de Amberes se detiene parcialment...",
+    "date": "2026-04-10T14:30:22",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/belgica-trafico-en-puerto-de-amberes-se-detiene-parcialmente-tras-vertimiento-de-petroleo/",
     "category": "LOGÍSTICA"
   },
   {
@@ -1185,168 +1347,6 @@
     "date": "2026-04-09T11:16:12",
     "source": "XATAKA",
     "url": "https://www.xataka.com/otros-dispositivos/amazon-ha-asestado-golpe-final-a-kindle-antiguos-no-podran-acceder-a-tienda-para-descargar-libros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/uso-multiples-saltos-vpn-tecnica-extrema-para-no-dejar-rastro-internet-asi-funciona",
-    "title": "El uso de múltiples saltos de VPN es una técnica extrema para no dejar rastro en internet. Así funciona",
-    "snippet": "Vamos a explicarte cómo funciona la técnica del multi-salto en una VPN, de forma que sepas este método para no dejar rastro en internet cuando navegas. Porque si una VPN ya te ofrece una capa de seguridad y privacidad, c...",
-    "date": "2026-04-09T11:13:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/uso-multiples-saltos-vpn-tecnica-extrema-para-no-dejar-rastro-internet-asi-funciona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1683513",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 09 de abril del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy jueves 09 de abril es de  S/3.39 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-04-09T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-09-de-abril-del-2026-noticia-1683513",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/china-habia-ganado-guerra-baterias-caos-energetico-iran-solo-le-esta-entregando-trono-mundial",
-    "title": "China ya había ganado la guerra de las baterías. El caos energético en Irán solo le está entregando el trono mundial",
-    "snippet": "Mientras el mundo entra en pánico por la falta de combustibles fósiles, los números en el sector renovable chino son de vértigo. Las acciones del gigante de las baterías CATL se han disparado un 29,5% en la bolsa de Hong...",
-    "date": "2026-04-09T11:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/china-habia-ganado-guerra-baterias-caos-energetico-iran-solo-le-esta-entregando-trono-mundial",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/claude-mythos-da-miedo-sabe-bien-ingeniero-que-comia-sandwich-parque-cuando-recibio-terrorifico-email-esta-ia",
-    "title": "Claude Mythos es inquietante. Lo sabe bien el ingeniero que comía un sándwich en el parque cuando recibió un email de esta IA",
-    "snippet": "Anthropic lanzaba ayer Claude Mythos Preview y nos dejaba a muchos fascinados y, sobre todo, preocupados. Esperábamos que su nuevo modelo de IA fuese más potente, pero lo que no esperábamos es que según sus pruebas y su ...",
-    "date": "2026-04-09T10:46:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/claude-mythos-da-miedo-sabe-bien-ingeniero-que-comia-sandwich-parque-cuando-recibio-terrorifico-email-esta-ia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/chatgpt-dime-que-opinar-ia-esta-convirtiendo-a-universitarios-alumno",
-    "title": "ChatGPT, dime qué opinar:  la IA está convirtiendo a los universitarios en el mismo alumno",
-    "snippet": "La IA ha provocado un terremoto en el sector educativo. Los alumnos la usan (muchas veces  indiscriminadamente) y los profesores tratan de adaptarse al cambio reinventando los deberes y los exámenes. Con el paso de los a...",
-    "date": "2026-04-09T10:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/chatgpt-dime-que-opinar-ia-esta-convirtiendo-a-universitarios-alumno",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/chatgpt-dime-que-opinar-ia-esta-convirtiendo-a-universitarios-alumno",
-    "title": "De repente, todos los trabajos que entregan los alumnos en las universidades parecen el mismo trabajo. Hay una sospechosa",
-    "snippet": "La IA ha provocado un terremoto en el sector educativo. Los alumnos la usan (muchas veces  indiscriminadamente) y los profesores tratan de adaptarse al cambio reinventando los deberes y los exámenes. Con el paso de los a...",
-    "date": "2026-04-09T10:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/chatgpt-dime-que-opinar-ia-esta-convirtiendo-a-universitarios-alumno",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/dos-dias-llega-a-espana-cambio-radical-tiempo-temperaturas-propias-junio-a-nieve-a-700-metros-minimas-6-grados",
-    "title": "En dos días llega a España un cambio radical del tiempo: de temperaturas propias de junio a nieve a 700 metros y mínimas de 6 grados",
-    "snippet": "La primavera. Esa es la palabra clave. Eso es lo que explica que España esté viviendo esta segunda semana de abril una de las oscilaciones térmicas más bruscas de los últimos años. \nY no, no estoy exagerando.\nHablemos, p...",
-    "date": "2026-04-09T10:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/dos-dias-llega-a-espana-cambio-radical-tiempo-temperaturas-propias-junio-a-nieve-a-700-metros-minimas-6-grados",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/dos-dias-llega-a-espana-cambio-radical-tiempo-temperaturas-propias-junio-a-nieve-a-700-metros-minimas-6-grados",
-    "title": "En dos días llega a España un cambio radical del tiempo: de temperaturas de junio a nieve a 700 metros y mínimas de 6º C",
-    "snippet": "La primavera. Esa es la palabra clave. Eso es lo que explica que España esté viviendo esta segunda semana de abril una de las oscilaciones térmicas más bruscas de los últimos años. \nY no, no estoy exagerando.\nHablemos, p...",
-    "date": "2026-04-09T10:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/dos-dias-llega-a-espana-cambio-radical-tiempo-temperaturas-propias-junio-a-nieve-a-700-metros-minimas-6-grados",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-realme-15-pro-game-of-thrones-limited-edition-solo-para-miembros-xataka-xtra",
-    "title": "¡Últimas horas para participar en el sorteo de un Realme 15 Pro Game of Thrones Limited Edition! Solo para miembros de Xataka Xtra",
-    "snippet": "¡Se acaba el tiempo! El tercer sorteo exclusivo para miembros de Xataka Xtra está a punto de terminar, pero todavía tienes ocasión de sumarte a la comunidad Xtra y participar. Como adelantamos la semana pasada, el premio...",
-    "date": "2026-04-09T09:46:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-realme-15-pro-game-of-thrones-limited-edition-solo-para-miembros-xataka-xtra",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/gran-paradoja-guerra-no-que-eeuu-e-iran-se-vean-ganadores-que-terminen-como-socios-negocio-500-mil-millones-dolares",
-    "title": "La guerra en Irán está a punto de activar un negocio de 500.000 millones de dólares entre dos socios inesperados: Irán y EEUU",
-    "snippet": "Más de 20.000 petroleros cruzan cada año algunos de los pasos marítimos más estrechos del planeta, enclaves donde apenas unas decenas de kilómetros separan el flujo constante de energía de un posible colapso global. En e...",
-    "date": "2026-04-09T09:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/gran-paradoja-guerra-no-que-eeuu-e-iran-se-vean-ganadores-que-terminen-como-socios-negocio-500-mil-millones-dolares",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/eeuu-quiere-poner-a-china-cuerdas-ley-match-paises-bajos-japon-no-tiene-nada-que-hacer",
-    "title": "EEUU quiere poner a China contra las cuerdas con la Ley Match. Sin Países Bajos y Japón no tiene nada que hacer",
-    "snippet": "La Ley Match (Multilateral Alignment of Technology Controls on Hardware o Alineación Multilateral de Controles Tecnológicos en Hardware) está en camino. Como os explicamos hace dos días, varios senadores de EEUU pertenec...",
-    "date": "2026-04-09T09:25:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/eeuu-quiere-poner-a-china-cuerdas-ley-match-paises-bajos-japon-no-tiene-nada-que-hacer",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/basics/modificar-tu-declaracion-renta-2025-como-cambiar-cosas-tu-borrador-este-2026-haberlo-presentado",
-    "title": "Modificar tu declaración de la Renta 2025: cómo cambiar cosas de tu borrador de este 2026 tras haberlo presentado",
-    "snippet": "Vamos a decirte cómo modificar tu declaración de la renta una vez has presentado el borrador. La campaña de la Renta 2025 ya ha comenzado, siendo esta la declaración que hacemos durante 2026 sobre el pasado año fiscal. P...",
-    "date": "2026-04-09T09:06:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/modificar-tu-declaracion-renta-2025-como-cambiar-cosas-tu-borrador-este-2026-haberlo-presentado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=429547",
-    "title": "Rotterdam World Gateway recibe primera recalada de ONE Satisfaction",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Rotterdam World Gateway (RWG) dio la bienvenida al ONE Satisfaction durante su escala inaugural. El buque\nLa entrada Rotterdam World Gateway recibe primera recalada de ONE S...",
-    "date": "2026-04-09T09:00:17",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/rotterdam-world-gateway-recibe-primera-recalada-de-one-satisfaction/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/2011-coleccionista-compro-marruecos-meteorito-ha-resultado-ser-prueba-directa-agua-termal-marte-1",
-    "title": "En 2011, un coleccionista compró en Marruecos un meteorito. Ha resultado ser una prueba directa de agua termal en Marte",
-    "snippet": "Una piedra negra que había caído del cielo fue descubierta en el desierto del Sahara por un grupo de saharaui. Vendida al mejor postor, sabemos desde hace tiempo que proviene de la corteza de Marte, pero han tenido que p...",
-    "date": "2026-04-09T09:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/2011-coleccionista-compro-marruecos-meteorito-ha-resultado-ser-prueba-directa-agua-termal-marte-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mediamarkt-deja-a-precio-outlet-esta-tele-oled-samsung-144-hz-1-000-euros-descuento",
-    "title": "MediaMarkt deja a precio de outlet esta tele OLED de Samsung: con 144 Hz y más de 1.000 euros de descuento",
-    "snippet": "MediaMarkt está celebrando su campaña \"Abril ahorral\" con muy buenos descuentos en tecnología. Si llevas tiempo pensando cambiar la tele de tu casa y has pensado en dar el salto ala tecnología OLED, ahora puedes llevarte...",
-    "date": "2026-04-09T08:30:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mediamarkt-deja-a-precio-outlet-esta-tele-oled-samsung-144-hz-1-000-euros-descuento",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/nueva-piratas-caribe-ha-sido-producida-al-margen-disney-disney-no-va-a-mover-dedo-para-impedirlo",
-    "title": "La nueva 'Piratas del Caribe' ha sido producida al margen de Disney. Y Disney no va a mover un dedo para impedirlo",
-    "snippet": "Un húngaro lleva cuatro años rodando una secuela de 'Piratas del Caribe' en tres continentes con navíos de época, en castillos europeos y usando falsos templos indios tallados a mano. Disney sabe que este proyecto existe...",
-    "date": "2026-04-09T08:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/nueva-piratas-caribe-ha-sido-producida-al-margen-disney-disney-no-va-a-mover-dedo-para-impedirlo",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/privacidad/espana-quiere-imitar-a-australia-vetar-redes-sociales-a-menores-problema-jovenes-australianos-no-han-hecho-caso",
-    "title": "España quiere imitar a Australia y vetar las redes sociales a los menores. El problema: los jóvenes australianos no han hecho ni caso",
-    "snippet": "El 10 de diciembre de 2025, Australia se convirtió en el primer país del mundo en prohibir el acceso de menores de 16 años a las redes sociales, con multas de hasta 29 millones de eurtos para las plataformas que no cumpl...",
-    "date": "2026-04-09T08:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/privacidad/espana-quiere-imitar-a-australia-vetar-redes-sociales-a-menores-problema-jovenes-australianos-no-han-hecho-caso",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/meta-vuelve-a-carrera-ia-muse-spark-reto-colosal-demostrar-que-no-ha-perdido-definitivamente",
-    "title": "Nueve meses y 14.300 millones después, Meta presenta Muse Spark. No es el mejor modelo, pero tiene algo que sus rivales no tienen",
-    "snippet": "Hace nueve meses Meta fichó a Alexandr Wang, el fundador de Scale AI, tras gastar 14.300 millones de dólares en ese movimiento. Zuckerberg le encargó reconstruir desde cero la estrategia de IA de la compañía, y hoy esos ...",
-    "date": "2026-04-09T07:24:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/meta-vuelve-a-carrera-ia-muse-spark-reto-colosal-demostrar-que-no-ha-perdido-definitivamente",
     "category": "TRIBUTARIO"
   }
 ]
