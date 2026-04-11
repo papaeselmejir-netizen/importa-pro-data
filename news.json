@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-elecciones-2026-odpe-huancayo-despliega-material-electoral-a-distritos-y-centros-poblados-1070784.aspx",
+    "title": "Elecciones 2026: ODPE Huancayo despliega material electoral a distritos y centros poblados",
+    "snippet": "La Oficina Descentralizada de Procesos Electorales (ODPE) Huancayo desplegó el material electoral hacia los nueve distritos y seis centros poblados de su jurisdicción, como parte de las acciones logísticas para garantiza...",
+    "date": "2026-04-11T21:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-2026-odpe-huancayo-despliega-material-electoral-a-distritos-y-centros-poblados-1070784.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-elecciones-2026-fiscales-retiran-propaganda-electoral-provincia-chiclayo-1070780.aspx",
+    "title": "Elecciones 2026: fiscales retiran propaganda electoral en provincia de Chiclayo",
+    "snippet": "En el marco de las Elecciones Generales 2026, fiscales de Prevención del Delito del Distrito Fiscal de Lambayeque llevaron a cabo operativos simultáneos de retiro de propaganda electoral en diversos puntos de la provinci...",
+    "date": "2026-04-11T20:30:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-2026-fiscales-retiran-propaganda-electoral-provincia-chiclayo-1070780.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=429977",
+    "title": "Puerto de Tallin ve baja interanual en volumen de carga en primer trimestre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el primer trimestre de 2026, 3,1 millones de toneladas de carga y 1,4 millones de\nLa entrada Puerto de Tallin ve baja interanual en volumen de carga en primer trimestre s...",
+    "date": "2026-04-11T20:00:15",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-tallin-ve-baja-interanual-en-volumen-de-carga-en-primer-trimestre/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-amazonas-jee-chachapoyas-refuerza-fiscalizacion-durante-despliegue-material-electoral-1070770.aspx",
     "title": "Amazonas: JEE Chachapoyas refuerza fiscalización durante despliegue de material electoral",
     "snippet": "El Jurado Electoral Especial de Chachapoyas fortaleció sus acciones de fiscalización electoral con la entrega de indumentaria institucional a su equipo de fiscalizadores, con el objetivo de garantizar una supervisión efi...",
@@ -1320,33 +1347,6 @@
     "date": "2026-04-10T08:00:13",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/1599-alguien-anoto-como-se-hacian-tortillas-espana-zanja-vez-debate-sincebollistas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/once-modelos-433-escenarios-apuntan-direccion-super-nino-como-no-veiamos-hace-140-anos",
-    "title": "Una de las peores noticias del año viene de este recuadro rojo: las proyecciones acaban de poner sobre la mesa el peor El Niño en 140 años",
-    "snippet": "A menudo da la sensación de que estamos borrando el significado de la palabra 'histórico' de tanto usarla. Y, sin embargo, aquí me tenéis: a punto de decir que los modelos de predicción estacional muestran una convergenc...",
-    "date": "2026-04-10T07:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/once-modelos-433-escenarios-apuntan-direccion-super-nino-como-no-veiamos-hace-140-anos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/espana-tiene-72-000-puntos-recarga-para-coches-electricos-problema-uno-cada-cuatro-no-funciona",
-    "title": "España ya tiene más de 72.000 puntos de recarga para coches eléctricos. El problema: uno de cada cuatro no funciona",
-    "snippet": "Que el coche eléctrico siga avanzando depende en gran parte de la infraestructura de recarga y en eso España está haciendo los deberes. En octubre del año pasado teníamos 52.000 puntos de recarga repartidos por toda la p...",
-    "date": "2026-04-10T07:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/espana-tiene-72-000-puntos-recarga-para-coches-electricos-problema-uno-cada-cuatro-no-funciona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/empresa-organizo-viaje-team-building-lujo-a-honduras-todo-que-pudo-salir-mal-salio-peor",
-    "title": "Una empresa organizó un viaje de \"team building\" de lujo a Honduras: todo lo que pudo salir mal salió peor",
-    "snippet": "En 2017, la empresa tecnológica Plex, creadora de la plataforma de streaming gratuito con su mismo nombre, decidió organizar algo que debía ser el evento del año para sus empleados: una semana entera en Honduras, con tem...",
-    "date": "2026-04-10T06:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/empresa-organizo-viaje-team-building-lujo-a-honduras-todo-que-pudo-salir-mal-salio-peor",
     "category": "TRIBUTARIO"
   }
 ]
