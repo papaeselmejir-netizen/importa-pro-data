@@ -1,5 +1,122 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-indecopi-dispone-sancion-mas-s-11-millones-a-entidad-financiera-llamadas-spam-1071728.aspx",
+    "title": "Indecopi dispone sanción de más de S/ 1.1 millones a entidad financiera por llamadas spam",
+    "snippet": "En primera instancia administrativa la Comisión de Protección al Consumidor N° 3 del Indecopi dispuso sancionar a Scotiabank Perú con una multa de 202.96 UIT (1 millón 116,280 soles), tras verificar que realizó llamadas ...",
+    "date": "2026-04-17T20:01:55",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-indecopi-dispone-sancion-mas-s-11-millones-a-entidad-financiera-llamadas-spam-1071728.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ferrari-ha-vuelto-a-mostrar-interior-su-coche-electrico-diseno-jony-ive-deja-clara-su-postura-pantallas",
+    "title": "Ferrari ha vuelto a mostrar el interior de su coche eléctrico: el diseño de Jony Ive deja clara su postura sobre las pantallas",
+    "snippet": "“Una gran pantalla táctil no funciona en un coche. Eso es incuestionable”. Así de tajante se mostró Jony Ive recientemente en una entrevista publicada por Top Gear. No hablamos solo del exresponsable de diseño de Apple, ...",
+    "date": "2026-04-17T20:00:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ferrari-ha-vuelto-a-mostrar-interior-su-coche-electrico-diseno-jony-ive-deja-clara-su-postura-pantallas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431071",
+    "title": "Disminuye movimiento de vehículos por puertos mexicanos en marzo",
+    "snippet": "Por Redacción GrupoT21 @GrupoT21 De acuerdo con la estadística del Sistema Portuario Nacional de la Secretaría de Marina (Semar), en\nLa entrada Disminuye movimiento de vehículos por puertos mexicanos en marzo se publicó ...",
+    "date": "2026-04-17T20:00:24",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/disminuye-movimiento-de-vehiculos-por-puertos-mexicanos-en-marzo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431181",
+    "title": "Descubren contrabando de carga que arribó a Puerto de San Vicente a bordo de buque",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Equipos de la Aduana Regional de Talcahuano y de la Policía Marítima lograron detectar un contrabando\nLa entrada Descubren contrabando de carga que arribó a Puerto de San Vi...",
+    "date": "2026-04-17T19:47:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/descubren-contrabando-de-carga-que-arribo-a-puerto-de-san-vicente-a-bordo-de-buque/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/han-secuestrado-agentes-anthropic-google-microsoft-bien-ciencia-tres-empresas-acabaron-pagando",
+    "title": "Han secuestrado agentes de Anthropic, Google y Microsoft por el bien de la ciencia. Las tres empresas acabaron pagando",
+    "snippet": "En algunos equipos de desarrollo ya se está volviendo habitual apoyarse en agentes de inteligencia artificial para revisar incidencias, analizar cambios en el código y moverse por tareas que antes quedaban en manos human...",
+    "date": "2026-04-17T19:30:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/han-secuestrado-agentes-anthropic-google-microsoft-bien-ciencia-tres-empresas-acabaron-pagando",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431176",
+    "title": "Trabajadores de Puerto Ventanas S.A. y Quintero Energía refuerzan capacidades como maestros guías e inician nuevo ciclo de educación dual",
+    "snippet": "Por PortalPortuario Social @PortalPortuario En el marco del compromiso con la educación de los jóvenes de Puchuncaví que promueve Puerto\nLa entrada Trabajadores de Puerto Ventanas S.A. y Quintero Energía refuerzan capaci...",
+    "date": "2026-04-17T19:27:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/trabajadores-de-puerto-ventanas-s-a-y-quintero-energia-refuerzan-capacidades-como-maestros-guias-e-inician-nuevo-ciclo-de-educacion-dual/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/estres-fue-disenado-evolucion-para-salvarte-vida-estres-cronico-moderno-te-esta-quitando",
+    "title": "El estrés fue diseñado por la evolución para salvarte la vida. El estrés crónico moderno te la está quitando",
+    "snippet": "Es fácil escuchar en esta sociedad la frase \"estoy muy estresado\" debido a que cada vez tenemos más exigencias encima en el ámbito laboral o personal, y la verdad es que es algo que poco a poco se usa como \"muletilla\" pa...",
+    "date": "2026-04-17T19:00:55",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/estres-fue-disenado-evolucion-para-salvarte-vida-estres-cronico-moderno-te-esta-quitando",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431127",
+    "title": "Fernando Gajardo: “Lo mas probable es que primero tengamos la altura de ola de 2,3 metros”",
+    "snippet": "Por Gabriel Campos Roullet @PortalPortuario El Puerto de San Antonio se mantiene desarrollando una serie de proyectos para mejorar su\nLa entrada Fernando Gajardo: &#8220;Lo mas probable es que primero tengamos la altura ...",
+    "date": "2026-04-17T19:00:29",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/fernando-gajardo-lo-mas-probable-es-que-primero-tengamos-la-altura-de-ola-de-23-metros/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/no-todas-vpn-se-pueden-usar-dispositivos-ilimitados-esta-cuesta-2-euros-al-mes-viene-tarjeta-regalo-amazon",
+    "title": "No todas las VPN se pueden usar en dispositivos ilimitados: esta cuesta 2 euros al mes y viene con tarjeta regalo de Amazon",
+    "snippet": "Te pongo en situación: imagina que tienes 5 dispositivos y quieres tener una VPN en cada uno de ellos. Eliminando de la ecuación las que son gratis (que no son todo lo seguras que prometen), no hay demasiadas VPN que per...",
+    "date": "2026-04-17T18:46:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/no-todas-vpn-se-pueden-usar-dispositivos-ilimitados-esta-cuesta-2-euros-al-mes-viene-tarjeta-regalo-amazon",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-elecciones-2026-fiscalia-realiza-diligencia-almacen-de-onpe-lurin-1071721.aspx",
+    "title": "Elecciones 2026: Fiscalía realiza diligencia en almacén de la ONPE en Lurín",
+    "snippet": "La Fiscalía de Prevención del Delito de Lima Sur efectúa diligencias en un almacén de la Oficina Nacional de Procesos Electorales (ONPE), ubicado en el distrito de Lurín, en el marco de las investigaciones por la pérdida...",
+    "date": "2026-04-17T18:38:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-2026-fiscalia-realiza-diligencia-almacen-de-onpe-lurin-1071721.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1684795",
+    "title": "MTC plantea que llamadas spam y mensajes de texto publicitarios tengan prefijo \"500\" para identificarlos",
+    "snippet": "El MTC propone que todas las comunicaciones con fines comerciales tengan el prefijo 500, para que los usuarios identifiquen rápidamente y decidan si contestan o no. Inicialmente la medida estaba propuesta solo para las l...",
+    "date": "2026-04-17T18:31:54",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/llamadas-spam-y-mensajes-de-texto-de-publicidad-tendran-prefijo-500-para-identificarlos-desde-cuando-noticia-1684795",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/plan-maestro-china-latinoamerica-llevar-decada-sembrando-puertos-trenes-a-cosechar-sus-coches-electricos",
+    "title": "El plan maestro de China en Latinoamérica: de llevar una década sembrando puertos y trenes a cosechar con sus coches eléctricos",
+    "snippet": "Pekín lleva más de una década construyendo la infraestructura, las alianzas y los acuerdos que le permiten llegar ya con ventaja a un continente que acaba de abrir las puertas de par en par. Y es que tras haber conquista...",
+    "date": "2026-04-17T18:00:55",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/plan-maestro-china-latinoamerica-llevar-decada-sembrando-puertos-trenes-a-cosechar-sus-coches-electricos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1684435",
+    "title": "Congreso promulgó ley que aumenta a S/3.500 la pensión a maestros jubilados, pese a alertas del MEF y Consejo Fiscal",
+    "snippet": "El Consejo Fiscal advirtió un impacto de S/8.000 millones en el tesoro público. La norma había sido observada por el Ministerio de Economía por generar distorsiones en el sistema de pensiones, además de un tratamiento pr...",
+    "date": "2026-04-17T17:45:09",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/pensiones-a-maestros-2026-congreso-promulga-por-insistencia-ley-aumento-a-3500-soles-a-profesores-jubilados-noticia-1684435",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/spacex-no-quiere-que-blue-origin-le-adelante-derecha-exito-starship-v3-presiona-carrera-luna",
     "title": "SpaceX no quiere que Blue Origin le adelante por la derecha: el éxito de Starship V3 acelera la carrera hacia la Luna",
     "snippet": "SpaceX, la compañía espacial de Elon Musk, está casi lista para lanzar su Starship de próxima generación en el mes de mayo. Pero antes de realizar este lanzamiento es necesario llevar a cabo algunas pruebas estáticas, co...",
@@ -99,6 +216,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "1ce09622-8cdd-4e34-8648-06ae598b7832",
+    "title": "The Race for Fashion Smart Glasses Is On",
+    "snippet": "Gucci next on deck? It's all starting to feel like smartwatches circa 2017....",
+    "date": "2026-04-17T16:14:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/smart-glasses-fashion-brands-race-gucci-google-meta/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/estudio-compara-que-ia-hace-a-tu-capacidad-pensar-sindrome-rana-hervida-rana-no-sale-bien-parada",
     "title": "Un estudio compara lo que la IA hace a tu capacidad de pensar con el síndrome de la rana hervida. La rana no sale bien parada",
     "snippet": "Hay dos cosas que la industria tecnológica está empujando con fuerza. Por un lado, los vídeos cortos. El formato TikTok lo ‘rompió’ hace unos años hasta el punto de que plataformas como Instagram o YouTube se tiraron de ...",
@@ -132,6 +258,15 @@
     "date": "2026-04-17T15:21:38",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-trabajadores-independientes-no-estaran-obligados-a-aportar-a-las-afp-ni-a-onp-1071543.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3113679",
+    "title": "Uber will now pick up your returns from your doorstep",
+    "snippet": "The new returns feature is the company's latest effort to become an everything app. There are limitations to the new service, and there is, of course, a courier fee....",
+    "date": "2026-04-17T15:02:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/",
     "category": "MERCADO"
   },
   {
@@ -236,6 +371,15 @@
   {
     "id": "https://www.xataka.com/movilidad/he-probado-modo-fsd-supervisado-tesla-he-descubierto-cosa-supervisar-agotador-que-conducir",
     "title": "He probado el modo FSD supervisado de Tesla y he descubierto una cosa: supervisar es más agotador que conducir",
+    "snippet": "Ahí está Luke, en su X-Wing, con R2-D2 detrás haciendo pitiditos como los módems de antaño. Están volando por el espacio, y Luke le dice a R2 que van al sistema Dagobah. R2 contesta con más pitidos, y al cabo de un momen...",
+    "date": "2026-04-17T13:16:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/he-probado-modo-fsd-supervisado-tesla-he-descubierto-cosa-supervisar-agotador-que-conducir",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/he-probado-modo-fsd-supervisado-tesla-he-descubierto-cosa-supervisar-agotador-que-conducir",
+    "title": "He probado el fascinante modo FSD del Tesla y me he llevado una sorpresa: aunque no conduces, conduces",
     "snippet": "Ahí está Luke, en su X-Wing, con R2-D2 detrás haciendo pitiditos como los módems de antaño. Están volando por el espacio, y Luke le dice a R2 que van al sistema Dagobah. R2 contesta con más pitidos, y al cabo de un momen...",
     "date": "2026-04-17T13:16:54",
     "source": "XATAKA",
@@ -1204,149 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/mercadona-esta-creciendo-que-nunca-asi-tiene-capacidad-crecer-partido-se-juega-norte",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/que-queria-decir-nietzsche-a-menudo-contradecimos-opinion-cuando-realidad-que-nos-resulta-desagradable-tono-que-fue-expresada",
-    "title": "\"Contradecimos una opinión cuando lo que nos resulta desagradable es el tono\": lo que Nietzsche sabía sobre el sesgo de confirmación",
-    "snippet": "No sé muy bien cómo escribir esto para no resultar desagradable, pero Nietzsche tenía razón. Sí, tenía un bigote raro, se ponía hasta arriba de opio y le encantaba dar largos paseos por los Alpes; pero tenía razón. \n\nAl ...",
-    "date": "2026-04-16T12:30:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/que-queria-decir-nietzsche-a-menudo-contradecimos-opinion-cuando-realidad-que-nos-resulta-desagradable-tono-que-fue-expresada",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "b03c76b4-9351-4dab-a760-66db677f403c",
-    "title": "Don't Lose Your Texts: How to Move Away From Samsung Messages Before It Shuts Down",
-    "snippet": "Samsung is deactivating its long-standing Messages app in July. Here's what to do next....",
-    "date": "2026-04-16T12:01:05",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/dont-lose-your-texts-how-to-move-away-from-samsung-messages-before-it-shuts-down/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=430793",
-    "title": "India reduce su déficit comercial durante marzo gracias al aumento de exportaciones hacia Estados Unidos",
-    "snippet": "Por Redacción PortalPortuario /Agencia Reuters @PortalPortuario India redujo su déficit comercial a 20.670 millones de dólares durante marzo del vigente\nLa entrada India reduce su déficit comercial durante marzo gracias ...",
-    "date": "2026-04-16T12:00:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/india-reduce-su-deficit-comercial-durante-marzo-gracias-al-aumento-de-exportaciones-hacia-estados-unidos/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ucrania-e-iran-han-devuelto-a-eeuu-a-segunda-guerra-mundial-que-coches-ford-cadillac-fabriquen-misiles",
-    "title": "Ucrania e Irán han devuelto a EEUU a la Segunda Guerra Mundial: preguntar a Ford y Cadillac si pueden fabricar misiles en vez de coches",
-    "snippet": "En 1942, la fábrica Willow Run en Michigan, operada por Ford Motor Company, logró ensamblar un bombardero B-24 cada 63 minutos, algo impensable para una industria que hasta poco antes producía coches en serie. Aquella ha...",
-    "date": "2026-04-16T12:00:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ucrania-e-iran-han-devuelto-a-eeuu-a-segunda-guerra-mundial-que-coches-ford-cadillac-fabriquen-misiles",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/870-000-euros-dos-anos-carcel-rescatar-cine-descatalogado-enrique-cerezo-demanda-a-web-animo-lucro",
-    "title": "La persona más poderosa del cine español lleva años empeñada en algo: que un streamer vaya a la cárcel y pague 800.000 euros",
-    "snippet": "En octubre de 2021, cinco agentes antidisturbios equipados con escudos, escopetas tácticas y un ariete irrumpieron en el domicilio de un youtuber burgalés conocido como \"El Feo\". No buscaban armas, drogas o delincuentes ...",
-    "date": "2026-04-16T11:30:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/870-000-euros-dos-anos-carcel-rescatar-cine-descatalogado-enrique-cerezo-demanda-a-web-animo-lucro",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://rpp.pe/1684551",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 16 de abril del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy jueves 16 de abril es de  S/3.44 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-04-16T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-16-de-abril-del-2026-noticia-1684551",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "c66c9fc6-3d3c-4646-8cda-7bedd0c2706a",
-    "title": "iPhone 17 vs. iPhone 16: Should You Upgrade?",
-    "snippet": "Apple's iPhone 17 has a lot in common with last year's model, but there are notable improvements to the camera, display and battery....",
-    "date": "2026-04-16T11:01:14",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/iphone-17-vs-iphone-16-which-is-the-right-choice-for-you/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/han-puesto-a-21-chatbots-ia-populares-a-realizar-diagnostico-diferencial-fallan-que-escopeta-feria",
-    "title": "Alguien ha puesto a las 21 IAs más populares a hacer un diagnóstico diferencial. Mienten más que hablan",
-    "snippet": "‘House’ es una serie que me encanta. Las intrahistorias no me importan lo más mínimo, pero el proceso del diagnóstico diferencial -pese a todo lo peliculero-, me vuelve loco. Esa capacidad para ir descartando enfermedade...",
-    "date": "2026-04-16T11:00:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/han-puesto-a-21-chatbots-ia-populares-a-realizar-diagnostico-diferencial-fallan-que-escopeta-feria",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/oceanos-estan-echando-humo-mala-noticia-que-esa-frase-esta-empezando-a-dejar-ser-metafora",
-    "title": "Los océanos están echando humo y la mala noticia es que esa frase está empezando a dejar de ser una metáfora",
-    "snippet": "La temperatura superficial del mar global vuelve a acercarse a los récords de 2024, el hielo ártico marca su mínimo histórico invernal y la temperatura media se sitúa 1,43 grados por encima de los niveles preindustriales...",
-    "date": "2026-04-16T10:30:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/oceanos-estan-echando-humo-mala-noticia-que-esa-frase-esta-empezando-a-dejar-ser-metafora",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/oceanos-estan-echando-humo-mala-noticia-que-esa-frase-esta-empezando-a-dejar-ser-metafora",
-    "title": "El mayor problema que afronta la Tierra es también al que menos atención prestamos: los océanos están ardiendo",
-    "snippet": "La temperatura superficial del mar global vuelve a acercarse a los récords de 2024, el hielo ártico marca su mínimo histórico invernal y la temperatura media se sitúa 1,43 grados por encima de los niveles preindustriales...",
-    "date": "2026-04-16T10:30:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/oceanos-estan-echando-humo-mala-noticia-que-esa-frase-esta-empezando-a-dejar-ser-metafora",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/china-casi-ha-cerrado-brecha-ia-estados-unidos-ha-hecho-todos-palos-ruedas",
-    "title": "China casi ha cerrado la brecha de IA con Estados Unidos. Y lo ha hecho con todos los palos en las ruedas",
-    "snippet": "Es complicado entrar a detallar la cantidad de bailes en los que están inmersos Estados Unidos y China en estos momentos. La guerra tecnológica es el paraguas bajo el que se encuentran la guerra comercial, el conato de c...",
-    "date": "2026-04-16T10:00:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/china-casi-ha-cerrado-brecha-ia-estados-unidos-ha-hecho-todos-palos-ruedas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/china-casi-ha-cerrado-brecha-ia-estados-unidos-ha-hecho-todos-palos-ruedas",
-    "title": "En 2022 parecía imposible que China cerrara el \"hueco\" de EEUU en IA en cuatro años. En 2026 es un hecho",
-    "snippet": "Es complicado entrar a detallar la cantidad de bailes en los que están inmersos Estados Unidos y China en estos momentos. La guerra tecnológica es el paraguas bajo el que se encuentran la guerra comercial, el conato de c...",
-    "date": "2026-04-16T10:00:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/china-casi-ha-cerrado-brecha-ia-estados-unidos-ha-hecho-todos-palos-ruedas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "999fb22b-f7be-41ab-82c9-88e96bdfcda0",
-    "title": "This iPhone Search Bar Hack Makes Navigating Your Call History Easy",
-    "snippet": "Apple introduced this feature in 2024 alongside iOS 18....",
-    "date": "2026-04-16T10:00:47",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/iphone-search-bar-hack-makes-navigating-call-history-easy/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/deducir-tu-cuota-gimnasio-renta-2025-que-comunidades-se-puede-como-hacerlo-declaracion-2026",
-    "title": "Deducir tu cuota de gimnasio de la Renta 2025: en qué comunidades se puede y cómo hacerlo en la declaración de 2026",
-    "snippet": "Vamos a explicarte cómo y dónde puedes deducir tu cuota de gimnasio en la tu Renta 2025, que es la que hacemos en 2026 para rendir cuentas con el pasado año fiscal. Ya puedes solicitar y presentar tu borrador online y de...",
-    "date": "2026-04-16T09:32:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/deducir-tu-cuota-gimnasio-renta-2025-que-comunidades-se-puede-como-hacerlo-declaracion-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/japon-esta-desesperado-atraer-talento-vive-paradoja-ese-talento-tiene-que-pagar-para-trabajar",
-    "title": "Japón está desesperado por atraer talento pero vive una paradoja: ese talento tiene que pagar para trabajar",
-    "snippet": "Japón necesita trabajadores extranjeros. Los necesita de verdad y con urgencia. Pero su sistema de contratación para extranjeros vive una curiosa paradoja: el país necesita a esos extranjeros, pero les cobra un dineral y...",
-    "date": "2026-04-16T09:30:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/japon-esta-desesperado-atraer-talento-vive-paradoja-ese-talento-tiene-que-pagar-para-trabajar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/japon-esta-desesperado-atraer-talento-vive-paradoja-ese-talento-tiene-que-pagar-para-trabajar",
-    "title": "Japón tiene el trabajo, pero le faltan los trabajadores. Así que ellos ya están pagando hasta 6.000 euros por ir allí",
-    "snippet": "Japón necesita trabajadores extranjeros. Los necesita de verdad y con urgencia. Pero su sistema de contratación para extranjeros vive una curiosa paradoja: el país necesita a esos extranjeros, pero les cobra un dineral y...",
-    "date": "2026-04-16T09:30:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/japon-esta-desesperado-atraer-talento-vive-paradoja-ese-talento-tiene-que-pagar-para-trabajar",
-    "category": "TRIBUTARIO"
   }
 ]
