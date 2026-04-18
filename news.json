@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-impulsan-autonomia-economica-mas-80-mujeres-de-pesca-artesanal-1071781.aspx",
+    "title": "Impulsan autonomía económica de más de 80 mujeres de la pesca artesanal",
+    "snippet": "Con el objetivo de ampliar las oportunidades económicas de las mujeres vinculadas a la pesca artesanal, el Ministerio de la Producción (Produce), a través de la Dirección General de Pesca Artesanal, desarrolló en Chancay...",
+    "date": "2026-04-18T04:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-impulsan-autonomia-economica-mas-80-mujeres-de-pesca-artesanal-1071781.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iran-amenaza-cerrar-nuevo-estrecho-ormuz-si-continua-bloqueo-eeuu-1071787.aspx",
+    "title": "Irán amenaza con cerrar de nuevo el estrecho de Ormuz si continúa bloqueo de EE.UU.",
+    "snippet": "Teherán amenazó el sábado (diferencia horaria) con cerrar el estrecho de Ormuz si Estados Unidos mantiene el bloqueo a los puertos iraníes, hora después de que el paso marítimo fuera reabierto....",
+    "date": "2026-04-18T03:26:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iran-amenaza-cerrar-nuevo-estrecho-ormuz-si-continua-bloqueo-eeuu-1071787.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431229",
+    "title": "Majestic Princess abre temporada de cruceros en Puerto de Le Havre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Le Havre recibió la escala inaugural del buque Majestic Princess, crucero operado por\nLa entrada Majestic Princess abre temporada de cruceros en Puerto de Le Ha...",
+    "date": "2026-04-18T03:00:25",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/majestic-princess-abre-temporada-de-cruceros-en-haropa-port/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ancash-mtc-redobla-trabajos-para-restablecer-transito-tras-caida-rocas-copuma-1071784.aspx",
+    "title": "Áncash: MTC redobla trabajos para restablecer tránsito tras la caída de rocas en Copuma",
+    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC), a través de Provías Nacional, intensifica las labores para restablecer el tránsito seguro en el sector de Copuma, ubicado entre los km 185+190 y 185+250 del tramo Puch...",
+    "date": "2026-04-18T02:59:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ancash-mtc-redobla-trabajos-para-restablecer-transito-tras-caida-rocas-copuma-1071784.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-metropolitano-como-recuperar-saldo-tu-tarjeta-caso-perdida-o-robo-1071782.aspx",
+    "title": "Metropolitano: ¿Cómo recuperar el saldo de tu tarjeta en caso de pérdida o robo?",
+    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC), a través de la Autoridad de Transporte Urbano para Lima y Callao (ATU), recuerda la importancia de personalizar las tarjetas del Metropolitano y Lima Pass para que los...",
+    "date": "2026-04-18T02:49:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-metropolitano-como-recuperar-saldo-tu-tarjeta-caso-perdida-o-robo-1071782.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431288",
+    "title": "Puerto de Santa Marta acuerda con ministra de Comercio avanzar en tres proyectos clave",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La ministra de Comercio, Industria y Turismo de Colombia, Diana Morales Rojas, junto a su equipo\nLa entrada Puerto de Santa Marta acuerda con ministra de Comercio avanzar en...",
+    "date": "2026-04-18T02:00:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-santa-marta-acuerda-con-ministra-de-comercio-avanzar-en-tres-proyectos-clave/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431284",
+    "title": "Comunidad Logística Portuaria Coquimbo comparte medidas para fortalecer volúmenes de carga",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Junto a representantes de puertos de Valparaíso, San Antonio, Talcahuano-San Vicente y Coquimbo, se desarrolló la\nLa entrada Comunidad Logística Portuaria Coquimbo comparte ...",
+    "date": "2026-04-18T01:00:11",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/comunidad-logistica-portuaria-coquimbo-comparte-medidas-para-fortalecer-volumenes-de-carga/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=431264",
     "title": "Corporación de Puertos del Conosur impulsa posicionamiento de Chile en industria internacional de cruceros",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Corporación de Puertos del Conosur desplegó una agenda de trabajo durante la feria Seatrade Cruise\nLa entrada Corporación de Puertos del Conosur impulsa posicionamiento d...",
@@ -1285,68 +1348,5 @@
     "source": "BBC BIZ",
     "url": "https://www.bbc.com/news/articles/c2082r38gr6o?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/aemet-alerta-que-verano-llega-dos-meses-antes-este-fin-semana-registraremos-temperaturas-altas-jamas-medidas-20-abril",
-    "title": "La alerta de AEMET es clarísima para los próximos tres días en España: llega un \"verano adelantado\" a abril",
-    "snippet": "En abril de 2023, un episodio cálido anómalo reventó los récords absolutos de todo el suroeste. 38,8 grados marcaron los termómetros en Córdoba, 37,4 en Morón y 36,9 en Sevilla. Parecía un hecho aislado, algo relacionado...",
-    "date": "2026-04-16T15:46:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/aemet-alerta-que-verano-llega-dos-meses-antes-este-fin-semana-registraremos-temperaturas-altas-jamas-medidas-20-abril",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/aemet-alerta-que-verano-llega-dos-meses-antes-este-fin-semana-registraremos-temperaturas-altas-jamas-medidas-20-abril",
-    "title": "En dos días, AEMET tiene claro que la primavera se suspende: llega un \"verano anticipado\" a España",
-    "snippet": "En abril de 2023, un episodio cálido anómalo reventó los récords absolutos de todo el suroeste. 38,8 grados marcaron los termómetros en Córdoba, 37,4 en Morón y 36,9 en Sevilla. Parecía un hecho aislado, algo relacionado...",
-    "date": "2026-04-16T15:46:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/aemet-alerta-que-verano-llega-dos-meses-antes-este-fin-semana-registraremos-temperaturas-altas-jamas-medidas-20-abril",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-roland-garros-eleva-a-617-millones-euros-los-premios-a-repartir-el-presente-ano-1071551.aspx",
-    "title": "Roland Garros eleva a 61,7 millones de euros los premios a repartir en el presente año",
-    "snippet": "Roland Garros incrementará un 9,5 % la dotación prevista para la próxima edición, que ascenderá a 61,7 millones de euros, de los que 2,8 millones se los llevará cada uno de los dos ganadores individuales, 300.000 euros m...",
-    "date": "2026-04-16T15:40:52",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-roland-garros-eleva-a-617-millones-euros-los-premios-a-repartir-el-presente-ano-1071551.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/motor-gasolina-que-gaste-3l-a-100km-sueno-hecho-realidad-solo-podia-fabricarlo-espanita",
-    "title": "Un motor gasolina que gaste 3L a los 100 kilómetros es un sueño hecho realidad. Y solo podía fabricarlo Españita",
-    "snippet": "Con la gasolina y el diésel absolutamente disparados, reducir unas cuantas décimas (o litros) a los 100 es el deseo de prácticamente todo español. Aunque la eficiencia de los motores actuales es cada vez mayor, y el cons...",
-    "date": "2026-04-16T15:30:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/motor-gasolina-que-gaste-3l-a-100km-sueno-hecho-realidad-solo-podia-fabricarlo-espanita",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/motor-gasolina-que-gaste-3l-a-100km-sueno-hecho-realidad-solo-podia-fabricarlo-espanita",
-    "title": "Alguien acaba de inventar un motor de gasolina que consume 3 litros a los 100 kilómetros. Y está en España, claro",
-    "snippet": "Con la gasolina y el diésel absolutamente disparados, reducir unas cuantas décimas (o litros) a los 100 es el deseo de prácticamente todo español. Aunque la eficiencia de los motores actuales es cada vez mayor, y el cons...",
-    "date": "2026-04-16T15:30:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/motor-gasolina-que-gaste-3l-a-100km-sueno-hecho-realidad-solo-podia-fabricarlo-espanita",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=430881",
-    "title": "Puerto de Aveiro firma acuerdo con recinto portuario brasileño para crear nuevas rutas marítimas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Aveiro, ubicado en Portugal, firmó un memorando de entendimiento con el Puerto Piauí, situado\nLa entrada Puerto de Aveiro firma acuerdo con recinto portuario br...",
-    "date": "2026-04-16T15:30:01",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-aveiro-firma-acuerdo-con-recinto-portuario-brasileno-para-crear-nuevas-rutas-maritimas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/empresa-que-invento-formato-que-domina-internet-sigue-saber-rentabilizarlo-ahora-despide-a-1-000-empleados-para-intentarlo",
-    "title": "Snapchat inventó el formato que domina Internet. 15 años después sigue siendo incapaz de rentabilizarlo",
-    "snippet": "Evan Spiegel ha enviado esta semana un memo a sus empleados anunciando que Snap va a despedir a a unas 1.000 personas, el 16% de toda la plantilla, además de cancelar 300 posiciones vacantes que todavía estaban por cubri...",
-    "date": "2026-04-16T15:16:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/empresa-que-invento-formato-que-domina-internet-sigue-saber-rentabilizarlo-ahora-despide-a-1-000-empleados-para-intentarlo",
-    "category": "TRIBUTARIO"
   }
 ]
