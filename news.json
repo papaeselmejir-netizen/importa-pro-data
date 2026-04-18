@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.xataka.com/aplicaciones/caso-emergencia-usar-este-usb-alguien-ha-metido-todo-imprescindible-pendrive-supervivencia",
+    "title": "\"En caso de emergencia, usar este USB\": alguien ha metido todo lo imprescindible en un pendrive de supervivencia",
+    "snippet": "La llegada masiva de internet y los dispositivos conectados nos han implementado una verdad a medias en nuestro día a día: que siempre va a haber conectividad. Y no tiene por qué serlo. Yo lo descubrí a las duras el pasa...",
+    "date": "2026-04-18T08:00:55",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/caso-emergencia-usar-este-usb-alguien-ha-metido-todo-imprescindible-pendrive-supervivencia",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/mapa-espana-donde-puedes-ver-como-saludable-agua-grifo-tu-pueblo",
+    "title": "El mapa de España donde puedes ver cómo de saludable es el agua de grifo de tu pueblo",
+    "snippet": "La gestión del agua en el estado español tiene varios frentes: desde el puramente hidrológico ante cada vez más frecuentes escenarios de escasez a la calidad de esta. Sí, el agua que llega al grifo ha atravesado una plan...",
+    "date": "2026-04-18T07:30:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/mapa-espana-donde-puedes-ver-como-saludable-agua-grifo-tu-pueblo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/1953-corea-norte-corea-sur-hablaban-idioma-2026-empiezan-a-ser-dos-distintos",
+    "title": "En 1953, Corea del Norte y Corea del Sur hablaban el mismo idioma. En 2026, empiezan a ser dos distintos",
+    "snippet": "Los bruscos cambios políticos, las traumáticas medidas impuestas a fuerza de mandato militar sobre un pueblo, pueden tener efectos inesperados visibles a corto plazo y dejar heridas que no cicatricen hasta mucho después ...",
+    "date": "2026-04-18T07:00:55",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/1953-corea-norte-corea-sur-hablaban-idioma-2026-empiezan-a-ser-dos-distintos",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-impulsan-autonomia-economica-mas-80-mujeres-de-pesca-artesanal-1071781.aspx",
     "title": "Impulsan autonomía económica de más de 80 mujeres de la pesca artesanal",
     "snippet": "Con el objetivo de ampliar las oportunidades económicas de las mujeres vinculadas a la pesca artesanal, el Ministerio de la Producción (Produce), a través de la Dirección General de Pesca Artesanal, desarrolló en Chancay...",
@@ -1321,32 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/hay-enigma-que-lleva-decadas-fascinando-a-arqueologos-que-diablos-hace-busto-romano-tumba-prehispanica-mexico",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1684232",
-    "title": "Gobierno promulga ley que otorga bonificación excepcional a militares que prestaron servicio entre los años 1980 y 2000",
-    "snippet": "La norma establece el pago mensual de S/ 1 130 para los licenciados debidamente reconocidos. El beneficio se entregará de manera vitalicia e intransferible a quienes cumplieron su labor en zonas de emergencia....",
-    "date": "2026-04-16T16:00:54",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/politica/gobierno/gobierno-promulga-ley-que-otorga-bonificacion-excepcional-a-militares-que-prestaron-servicio-entre-los-anos-1980-y-2000-noticia-1684232",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=430852",
-    "title": "Puertos mexicanos “recuperan el timón” con crecimiento de movimiento de TEU en marzo",
-    "snippet": "Por Redacción GrupoT21 @GrupoT21 En marzo de 2026, los puertos mexicanos reportaron un crecimiento de 3,1% respecto al mismo mes\nLa entrada Puertos mexicanos “recuperan el timón” con crecimiento de movimiento de TEU en m...",
-    "date": "2026-04-16T16:00:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puertos-mexicanos-recuperan-el-timon-con-crecimiento-de-movimiento-de-teu-en-marzo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c2082r38gr6o#1",
-    "title": "DHL staff at Jaguar Land Rover vote to strike",
-    "snippet": "Up to 300 DHL logistics workers based at Jaguar Land Rover in Solihull vote to strike indefinitely....",
-    "date": "2026-04-16T15:55:39",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c2082r38gr6o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
