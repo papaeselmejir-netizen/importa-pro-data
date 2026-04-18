@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3113979",
+    "title": "AI chip startup Cerebras files for IPO",
+    "snippet": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion....",
+    "date": "2026-04-18T19:19:11",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/ciencia-ha-logrado-apagar-cromosoma-extra-sindrome-down-tambien-ha-abierto-gran-debate-etico-edicion-genica",
+    "title": "La ciencia ha logrado apagar el cromosoma extra del síndrome de Down. También ha abierto el gran debate ético sobre la edición génica",
+    "snippet": "En el complejo mapa genético que rodea al conocido síndrome de Down, el problema no radica en que haya una falta de información en nuestras células, sino que hay un exceso. La presencia de una tercera copia del cromosoma...",
+    "date": "2026-04-18T18:31:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/ciencia-ha-logrado-apagar-cromosoma-extra-sindrome-down-tambien-ha-abierto-gran-debate-etico-edicion-genica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-produce-dictara-mentoria-para-impulsar-negocios-ia-1071830.aspx",
+    "title": "Produce dictará mentoría para impulsar negocios con IA",
+    "snippet": "El programa ProInnóvate del Ministerio de la Producción (Produce), en colaboración con el Instituto Tecnológico y de Estudios Superiores de Monterrey (México), realizará este miércoles 22 de abril la mentoría “Claves par...",
+    "date": "2026-04-18T18:27:17",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-produce-dictara-mentoria-para-impulsar-negocios-ia-1071830.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/literatura-comics-y-juegos/como-senor-anillos-se-convirtio-texto-sagrado-ultraderecha-italiana-obsesion-meloni-tolkien",
+    "title": "La ultraderecha italiana buscaba una forma de lavar su imagen. Encontró la fórmula en 'El Señor de los Anillos'",
+    "snippet": "En noviembre de 2023, la primera ministra de Italia, Giorgia Meloni, inauguró una exposición sobre J.R.R. Tolkien en la Galería Nacional de Arte Moderno de Roma, organizada por su Ministerio de Cultura. Nada inusual, exc...",
+    "date": "2026-04-18T18:01:50",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/literatura-comics-y-juegos/como-senor-anillos-se-convirtio-texto-sagrado-ultraderecha-italiana-obsesion-meloni-tolkien",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/china-ha-activado-su-experimento-ambicioso-1980-que-su-ibiza-no-sea-solo-para-vacaciones-sino-para-cerrar-negocios",
+    "title": "China ha activado su experimento más ambicioso desde 1980: que su \"Ibiza\" no sea solo para vacaciones, sino para negocios",
+    "snippet": "En la década de 1980, un pequeño pueblo pesquero del sur de China llamado Shenzhen fue elegido para un experimento económico que, en apenas tres décadas, lo transformó en una megaciudad de más de diez millones de habitan...",
+    "date": "2026-04-18T17:31:50",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/china-ha-activado-su-experimento-ambicioso-1980-que-su-ibiza-no-sea-solo-para-vacaciones-sino-para-cerrar-negocios",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/investigacion/hemos-encontrado-ingrediente-secreto-para-usar-arena-desierto-construccion-serrin-sandwichera-gigante",
     "title": "Hemos encontrado el ingrediente secreto para usar la arena del desierto en la construcción: serrín y una sandwichera gigante",
     "snippet": "En un momento donde los humanos no paramos de construir y erigir grandes edificaciones, hay un problema que cada vez nos debe preocupar más: hay una falta de arena para poder hacer hormigón. Pero aquí cualquiera se puede...",
@@ -234,6 +279,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/energia/navarra-silicon-valley-viento-ahora-busca-liderar-almacenamiento-europa-sabe-como-gigante-chino-hithium",
+    "title": "Navarra ya no solo es el 'Silicon Valley' del viento: ahora va a por el trono europeo de las baterías",
+    "snippet": "Navarra es un referente mundial consolidado en energías renovables especialmente puntera en eólica: allá por 1994 construyó su primer parque y desde entonces no solo ha vestido algunas de sus montañas más icónicas con ae...",
+    "date": "2026-04-18T12:00:55",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/navarra-silicon-valley-viento-ahora-busca-liderar-almacenamiento-europa-sabe-como-gigante-chino-hithium",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/magnet/china-fue-potencia-que-lanzo-drones-al-planeta-ahora-se-ha-dado-cuenta-su-peligro-decision-inedita-cerrar-su-cielo",
     "title": "China fue la potencia que lanzó a los drones. Ahora se ha dado cuenta de su peligro con una decisión: cerrarles el cielo",
     "snippet": "Hace exactamente 10 años ocurrió un hecho sin precedentes. Un pequeño dron aterrizó sin autorización en el jardín de la Casa Blanca tras perder el control su operador. No llevaba explosivos ni cámaras sofisticadas, pero ...",
@@ -245,6 +299,15 @@
   {
     "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/marruecos-acaba-estrenar-tercer-rascacielos-alto-africa-soberbia-torre-250-metros-sello-cordoba",
     "title": "Marruecos acaba de estrenar el tercer rascacielos más alto de África: una soberbia torre de 250 metros con sello de Córdoba",
+    "snippet": "Los rascacielos no se construyen solo para albergar oficinas o apartamentos. Son ante todo una declaración de intenciones: una ciudad que levanta una torre está anunciando al mundo que existe, que crece, que compite. Mar...",
+    "date": "2026-04-18T11:16:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/marruecos-acaba-estrenar-tercer-rascacielos-alto-africa-soberbia-torre-250-metros-sello-cordoba",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/marruecos-acaba-estrenar-tercer-rascacielos-alto-africa-soberbia-torre-250-metros-sello-cordoba",
+    "title": "El nuevo techo de Marruecos tiene sello cordobés: una soberbia torre de 250 metros que ya es historia de África",
     "snippet": "Los rascacielos no se construyen solo para albergar oficinas o apartamentos. Son ante todo una declaración de intenciones: una ciudad que levanta una torre está anunciando al mundo que existe, que crece, que compite. Mar...",
     "date": "2026-04-18T11:16:54",
     "source": "XATAKA",
@@ -1285,68 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-sedentarismo-y-estres-27-peruanos-no-hace-ejercicios-regularmente-durante-ano-1071623.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gvvnpl5kno#0",
-    "title": "Rising value of Pokémon cards sparks smash and grab crime spree",
-    "snippet": "Small shops across the UK are being targeted by thieves stealing collectibles worth thousands of pounds....",
-    "date": "2026-04-16T23:01:59",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=430920",
-    "title": "México: Puerto de Manzanillo establece récord al superar el millón de TEU movidos en el primer trimestre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Manzanillo registró, en el primer trimestre del año, un crecimiento de 2,9% en\nLa entrada México: Puerto de Manzanillo establece récord al superar el millón de ...",
-    "date": "2026-04-16T23:00:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/mexico-puerto-de-manzanillo-establece-record-al-superar-el-millon-de-teu-movidos-en-el-primer-trimestre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-gobierno-prioriza-culminacion-obras-infraestructura-mayor-avance-1071622.aspx",
-    "title": "MEF: Gobierno prioriza culminación de obras de infraestructura con mayor avance",
-    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña Namihas, señaló hoy ante el Pleno del Congreso que la prioridad del Ejecutivo es cerrar brechas de infraestructura mediante la culminación de obras con mayor nivel de ava...",
-    "date": "2026-04-16T22:50:43",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-gobierno-prioriza-culminacion-obras-infraestructura-mayor-avance-1071622.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "1cb59d60-be2f-4794-9ef1-ad49ca704289",
-    "title": "Tapo Releases Ultrapowerful Dual-Lens Camera Kit for Complete Yard Coverage",
-    "snippet": "The Tapo C675D kit is the largest Tapo security camera I've seen, complete with tracking and a solar panel for battery charging....",
-    "date": "2026-04-16T22:46:46",
-    "source": "CNET",
-    "url": "https://www.cnet.com/home/security/tapo-releases-ultrapowerful-dual-lens-camera-kit-for-complete-yard-coverage/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1684677",
-    "title": "MEF sobre Elecciones 2026: “hay recursos suficientes para asegurar que el proceso electoral se concluya correctamente”",
-    "snippet": "El ministro de Economía, Rodolfo Acuña, señaló que el presupuesto del proceso electoral este año es de alrededor de S/ 3.000 millones y que, hasta el momento, la ONPE y el JNE han ejecutado el 30%....",
-    "date": "2026-04-16T22:43:51",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/elecciones-2026-mef-dice-hay-recursos-suficientes-para-que-proceso-electoral-se-concluya-correctamente-voto-de-confianza-noticia-1684677",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-inventoras-pueden-postular-para-representar-al-peru-feria-tecnologia-corea-1071621.aspx",
-    "title": "Inventoras pueden postular para representar al Perú en feria de tecnología en Corea",
-    "snippet": "El Indecopi, a través de su Dirección de Invenciones y Nuevas Tecnologías, convocó a las inventoras peruanas que cuentan con patentes en trámite o concedidas a integrar la delegación nacional que representará al país en ...",
-    "date": "2026-04-16T22:35:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-inventoras-pueden-postular-para-representar-al-peru-feria-tecnologia-corea-1071621.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=430941",
-    "title": "Perú: Impulsan construcción de tercer carril en tramo de Panamericana Sur",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones (MTC) del Perú, mediante su Dirección General de Programas y\nLa entrada Perú: Impulsan construcción de tercer carril en tramo d...",
-    "date": "2026-04-16T22:31:55",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/peru-impulsan-construccion-de-tercer-carril-en-tramo-de-panamericana-sur/",
-    "category": "LEGAL"
   }
 ]
