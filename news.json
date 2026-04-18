@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-loreto-muyuna-fest-2026-convertira-a-iquitos-epicentro-del-cine-amazonico-1071837.aspx",
+    "title": "Loreto: Muyuna Fest 2026 convertirá a Iquitos en epicentro del cine amazónico",
+    "snippet": "La ciudad de Iquitos, capital del departamento de Loreto, volverá a posicionarse como uno de los principales escenarios culturales del país con la realización del Muyuna Fest 2026, un festival que en su tercera edición p...",
+    "date": "2026-04-18T23:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-loreto-muyuna-fest-2026-convertira-a-iquitos-epicentro-del-cine-amazonico-1071837.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431207",
+    "title": "Puerto de Santos destaca puente como obra clave en éxito de temporada de cruceros",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Santos está celebrando números positivos en el arribo de cruceros y destaca\nLa entrada Puerto de Santos destaca puente como obra clave en éxito de ...",
+    "date": "2026-04-18T22:00:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-santos-destaca-puente-como-obra-clave-en-exito-de-temporada-de-cruceros/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://techcrunch.com/?p=3113986",
     "title": "Tesla brings its robotaxi service to Dallas and Houston",
     "snippet": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and includes a 14-second...",
@@ -1330,23 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-dia-mundial-de-hemofilia-que-consiste-como-se-contrae-y-cuantos-casos-hay-peru-1071634.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=430855",
-    "title": "AD Ports Group garantiza funcionamiento de red logística integrada ante crisis en Medio Oriente",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario AD Ports Group comunicó que está aprovechando su red logística integrada para garantizar la resiliencia del\nLa entrada AD Ports Group garantiza funcionamiento de red logísti...",
-    "date": "2026-04-17T02:30:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ad-ports-group-garantiza-funcionamiento-de-red-logistica-integrada-ante-crisis-en-medio-oriente/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=430921",
-    "title": "EAU: Ventas de combustible marino en Fujairah se desploman producto del conflicto en Irán",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Las ventas de combustible marino en el Puerto de Fujairah, en los Emiratos Árabes Unidos\nLa entrada EAU: Ventas de combustible marino en Fujairah se desploma...",
-    "date": "2026-04-17T02:00:52",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/eau-ventas-de-combustible-marino-en-fujairah-se-desploman-producto-del-conflicto-en-iran/",
-    "category": "LOGÍSTICA"
   }
 ]
