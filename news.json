@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-uso-responsable-del-agua-cinco-acciones-para-cuidar-este-recurso-desde-hogar-1071981.aspx",
+    "title": "Uso responsable del agua: cinco acciones para cuidar este recurso desde el hogar",
+    "snippet": "El Perú es uno de los países con mayor disponibilidad hídrica en la región, gracias a la cuenca amazónica y la regulación natural que ejerce la cordillera de los Andes. Pero, la distribución del recurso es desigual, ya q...",
+    "date": "2026-04-21T22:12:34",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-uso-responsable-del-agua-cinco-acciones-para-cuidar-este-recurso-desde-hogar-1071981.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crr1ln1575lo#0",
+    "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
+    "snippet": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging....",
+    "date": "2026-04-21T22:10:22",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431766",
+    "title": "Puertos de Hanseatic Global Terminals Latin America se reúnen en Iquique para fortalecer trabajo en seguridad",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En Iquique Terminal Internacional (ITI), Hanseatic Global Terminals Latin America realizó su encuentro de seguridad, instancia\nLa entrada Puertos de Hanseatic Global Termina...",
+    "date": "2026-04-21T22:00:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puertos-de-hanseatic-global-terminals-latin-america-se-reunen-en-iquique-para-fortalecer-trabajo-en-seguridad/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-trump-extiende-alto-fuego-iran-para-seguir-negociando-pero-mantiene-bloqueo-naval-1072178.aspx",
+    "title": "Trump extiende alto el fuego con Irán para seguir negociando, pero mantiene bloqueo naval",
+    "snippet": "El presidente Donald Trump anunció el martes que prolongaba el alto el fuego con Irán para dar más tiempo a las negociaciones, pero dijo que mantendría el bloqueo naval estadounidense de los puertos del país....",
+    "date": "2026-04-21T21:59:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-trump-extiende-alto-fuego-iran-para-seguir-negociando-pero-mantiene-bloqueo-naval-1072178.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-avanza-tarjeta-unica-para-transporte-servicios-pagaran-con-misma-tarjeta-1071707.aspx",
+    "title": "ATU avanza en tarjeta única para transporte: ¿qué servicios pagarán con la misma tarjeta?",
+    "snippet": "En febrero último, la Autoridad de Transporte Urbano para Lima y Callao (ATU) anunció la implementación de una tarjeta única para el pago del pasaje en el transporte público, una medida importante que beneficiará a miles...",
+    "date": "2026-04-21T21:30:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-avanza-tarjeta-unica-para-transporte-servicios-pagaran-con-misma-tarjeta-1071707.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3114713",
+    "title": "Tim Cook is stepping down as CEO of Apple. Here’s a look at his 15-year legacy, from new products and services to China expansion.",
+    "snippet": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse....",
+    "date": "2026-04-21T21:09:09",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431597",
+    "title": "Se inician pruebas de nuevo ferry de Polonia a Suecia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La compañía naviera polaca Polferries anunció un avance estratégico en su red de conexiones bálticas tras\nLa entrada Se inician pruebas de nuevo ferry de Polonia a Suecia se...",
+    "date": "2026-04-21T20:30:29",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/se-inician-pruebas-de-nuevo-ferry-de-polonia-a-suecia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cuidado-estafadores-hacen-videos-ia-imitan-voz-phillip-chu-joy-1072125.aspx",
+    "title": "¡Cuidado! Estafadores hacen videos con IA que imitan la voz de Phillip Chu Joy",
+    "snippet": "El influencer y empresario peruano Phillip Chu Joy  advirtió que estafadores en Facebook han publicado un video generado con inteligencia artificial (IA) en el que se promueve sospechosas campañas de inversión en cripmon...",
+    "date": "2026-04-21T20:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cuidado-estafadores-hacen-videos-ia-imitan-voz-phillip-chu-joy-1072125.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/millones-proteger-fragata-guerra-rastreador-bluetooth-pocos-euros-ha-bastado-para-seguirla-tiempo-real",
+    "title": "Millones en proteger una fragata de guerra. Un rastreador Bluetooth de pocos euros ha bastado para seguirla en tiempo real",
+    "snippet": "Proteger un buque de guerra cuesta una fortuna. Hablamos de sensores, protocolos, personal, armamento y una cadena de seguridad pensada para reducir al mínimo cualquier exposición innecesaria. Por eso resulta tan llamati...",
+    "date": "2026-04-21T20:00:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/millones-proteger-fragata-guerra-rastreador-bluetooth-pocos-euros-ha-bastado-para-seguirla-tiempo-real",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/ia-sabia-crear-imagenes-openai-dice-haber-dado-pieza-que-faltaba-nuevo-chatgpt-images-2-0",
     "title": "La IA ya sabía crear imágenes. OpenAI dice haber dado con la pieza que faltaba con el nuevo ChatGPT Images 2.0",
     "snippet": "Durante los últimos años hemos visto cómo los generadores de imágenes se volvían cada vez más espectaculares, más rápidos y también más populares. El problema es que una imagen llamativa no siempre sirve para trabajar co...",
@@ -30,6 +111,15 @@
     "id": "https://rpp.pe/1685268",
     "title": "Compras de peruanos vía plataformas como Temu y Amazon en auge: cantidad de envíos se triplican y Sunat busca mayor control",
     "snippet": "La Sunat informó que las importaciones por comercio electrónico pasarían de 18 millones el año pasado a 60 millones este 2026, mediante el régimen de envíos rápidos para consumo. No obstante, la superintendencia identifi...",
+    "date": "2026-04-21T19:02:20",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/temu-y-amazon-sunat-busca-mayor-control-aumento-de-compras-desde-peru-tras-triplicarse-envios-en-plataforma-de-comercio-electronico-noticia-1685268",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1685268",
+    "title": "Sunat busca mayor control sobre compras al exterior vía plataformas como Temu y Amazon",
+    "snippet": "La Sunat informó que las importaciones por comercio electrónico se triplicarán: pasarán de 18 millones el año pasado a 60 millones este 2026. Aunque hay un régimen especial para envíos rápidos para consumo, la superinten...",
     "date": "2026-04-21T19:02:20",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/temu-y-amazon-sunat-busca-mayor-control-aumento-de-compras-desde-peru-tras-triplicarse-envios-en-plataforma-de-comercio-electronico-noticia-1685268",
@@ -1257,96 +1347,6 @@
     "date": "2026-04-20T14:00:20",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/silencio-eeuu-esta-armando-a-grande-al-vecino-incomodo-espana-al-otro-lado-estrecho-gibraltar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/silencio-eeuu-esta-armando-a-grande-al-vecino-incomodo-espana-al-otro-lado-estrecho-gibraltar",
-    "title": "EEUU está preparando un envío de F-35, helicópteros Apache y misiles. Y su destino está frente a Cádiz: armar a Marruecos",
-    "snippet": "La escena tuvo lugar en la década de 1980, cuando Estados Unidos utilizó discretamente las bases en el sur de España para lanzar ataques aéreos sobre Libia, una operación que mostró hasta qué punto los equilibrios estrat...",
-    "date": "2026-04-20T14:00:20",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/silencio-eeuu-esta-armando-a-grande-al-vecino-incomodo-espana-al-otro-lado-estrecho-gibraltar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/dos-fabricantes-semiconductores-se-preparan-para-revolucion-que-se-esta-cocinando-chips-cuanticos",
-    "title": "Dos fabricantes de semiconductores se preparan para la revolución que ya se está cocinando: la de los chips cuánticos",
-    "snippet": "Fabricar un cúbit, el dispositivo físico que implementa la mínima unidad de información en los ordenadores cuánticos, no es en absoluto pan comido. Los hay de varios tipos: superconductores, trampas de iones, átomos neut...",
-    "date": "2026-04-20T13:30:19",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/dos-fabricantes-semiconductores-se-preparan-para-revolucion-que-se-esta-cocinando-chips-cuanticos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/que-movil-samsung-comprar-2026-recomendacion-cada-rango-precio",
-    "title": "Qué móvil de Samsung comprar en 2026: una recomendación por cada rango de precio",
-    "snippet": "En estos últimos meses Samsung ha ido lanzando una nueva hornada de móviles, por lo que la marca ahora mismo cuenta con una selección de modelos lo suficientemente amplia (y renovada) como para elegir en función del pres...",
-    "date": "2026-04-20T13:16:19",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/que-movil-samsung-comprar-2026-recomendacion-cada-rango-precio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/union-europea-esta-empenadisima-que-baterias-sean-extraibles-2027-apple-esta-empenadisima-que-no",
-    "title": "La UE quiere que todas las baterías de nuestros móviles sean extraíbles. La letra pequeña esconde muchos matices",
-    "snippet": "La Unión Europea ha detallado su plan para que las baterías de los teléfonos sean extraíbles a partir de 2027. Una normativa que llegará en medio de la mayor revolución en la capacidad de las baterías en los últimos años...",
-    "date": "2026-04-20T13:00:20",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/union-europea-esta-empenadisima-que-baterias-sean-extraibles-2027-apple-esta-empenadisima-que-no",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=431155",
-    "title": "Primer prestamista marítimo de la India planea millonaria recaudación para financiar puertos y astilleros",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Sagarmala Finance Corporation (SFC), la primera compañía financiera no bancaria de la India enfocada exclusivamente\nLa entrada Primer prestamista marítimo de...",
-    "date": "2026-04-20T13:00:15",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/primer-prestamista-maritimo-de-la-india-planea-millonaria-recaudacion-para-financiar-puertos-y-astilleros/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=913410",
-    "title": "Vampire Survivors’ new spinoff switches genres but keeps the good vibes",
-    "snippet": "When Vampire Survivors first exploded onto the scene, it was pretty much all I could think about. The formula of jumping into runs, taking on thousands of enemies, and becoming absurdly overpowered kept me picking up the...",
-    "date": "2026-04-20T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/extrano-caso-ruleta-suerte-intermedio-dos-decadas-exito-audiencias-estables-television",
-    "title": "Una fórmula, una audiencia extremadamente fiel y 20 años de emisión: el raro éxito de 'El Intermedio' y 'La ruleta de la suerte'",
-    "snippet": "La misma semana de abril de 2006 en que La Sexta estrenaba emisiones, 'El Intermedio' comenzaba su trayectoria como uno de los programas abanderados del canal y Antena 3 ponía en marcha la etapa actual de 'La ruleta de l...",
-    "date": "2026-04-20T12:30:19",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/extrano-caso-ruleta-suerte-intermedio-dos-decadas-exito-audiencias-estables-television",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=914807",
-    "title": "Huawei beats Samsung and Apple to market with the first wide foldable",
-    "snippet": "Huawei has launched its passport-style foldable in China, ahead of similar devices said to be coming from Apple and Samsung. That makes the Pura X Max the first wide foldable phone that's actually available to buy, with ...",
-    "date": "2026-04-20T12:19:19",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/rio-congo-lleva-decadas-siendo-barrera-insalvable-para-dos-capitales-proximas-mundo-ahora",
-    "title": "El Congo lleva siglos separando a dos de las ciudades más pobladas de África: ahora un puente aspira a ponerle fin",
-    "snippet": "Desde hace décadas la República del Congo y la República Democrática del Congo (RDC) viven una situación peculiar: a pesar de que tienen las capitales más próximas a nivel geográfico de todo el planeta (con excepción del...",
-    "date": "2026-04-20T12:00:19",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/rio-congo-lleva-decadas-siendo-barrera-insalvable-para-dos-capitales-proximas-mundo-ahora",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/anthropic-no-ha-subido-precio-claude-ha-inventado-algo-mejor-inflacion-tokens",
-    "title": "Anthropic no ha subido el precio de Claude. Ha inventado algo mejor: la inflación de tokens",
-    "snippet": "\"No os preocupéis, que cuesta lo mismo\". Ese fue el mensaje de Anthropic al anunciar el lanzamiento de su nuevo modelo de IA, Claude Opus 4.7. En ese comunicado dejaron claro que \"el precio sigue siendo el mismo que el d...",
-    "date": "2026-04-20T11:30:19",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/anthropic-no-ha-subido-precio-claude-ha-inventado-algo-mejor-inflacion-tokens",
     "category": "TRIBUTARIO"
   }
 ]
