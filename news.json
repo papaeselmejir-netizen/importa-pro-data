@@ -1,5 +1,221 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3115431",
+    "title": "France confirms data breach at government agency that manages citizens’ IDs",
+    "snippet": "The French government agency that issues and manages national IDs, passports, and other documents, announced that hackers stole the personal information of an unspecified number of citizens....",
+    "date": "2026-04-22T19:34:41",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sientes-todo-gira-diferencia-entre-vertigo-y-mareo-y-sus-principales-causas-1072257.aspx",
+    "title": "¿Sientes que todo gira? Diferencia entre vértigo y mareo y sus principales causas",
+    "snippet": "Sentir que el mundo da vueltas no debe tomarse solo como una sensación incómoda; en algunos casos exige buscar ayuda profesional urgente, destacó el médico otorrinolaringólogo del Instituto Nacional de Ciencias Neurológi...",
+    "date": "2026-04-22T19:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sientes-todo-gira-diferencia-entre-vertigo-y-mareo-y-sus-principales-causas-1072257.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431980",
+    "title": "Ecuador: DP World Posorja inaugura obra de expansión de muelle",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World inauguró expansión en su terminal de Posorja, parte de una inversión de más de\nLa entrada Ecuador: DP World Posorja inaugura obra de expansión de muelle se publicó ...",
+    "date": "2026-04-22T19:17:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ecuador-dp-world-posorja-inaugura-obra-de-expansion-de-muelle/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3115404",
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "snippet": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app....",
+    "date": "2026-04-22T19:13:02",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-madre-dios-inpe-frustra-intento-fuga-establecimiento-penal-puerto-maldonado-1072282.aspx",
+    "title": "Madre de Dios: INPE frustra intento de fuga en establecimiento penal de Puerto Maldonado",
+    "snippet": "Agentes de seguridad del Establecimiento Penitenciario de Puerto Maldonado, ubicado en la provincia de Tambopata, región Madre de Dios, frustraron el intento de fuga del interno José Anthony Soto Vásquez, de nacionalidad...",
+    "date": "2026-04-22T19:06:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-madre-dios-inpe-frustra-intento-fuga-establecimiento-penal-puerto-maldonado-1072282.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431977",
+    "title": "Puerto Antofagasta presenta capacidades y proyectos estratégicos a delegación de Argentina y Brasil",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el marco de sus constantes acciones de articulación regional e internacional vinculadas al proceso de\nLa entrada Puerto Antofagasta presenta capacidades y proyectos estra...",
+    "date": "2026-04-22T19:04:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-antofagasta-presenta-capacidades-y-proyectos-estrategicos-a-delegacion-de-argentina-y-brasil/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/espana-hemos-glorificado-siesta-para-ciencia-dormir-30-minutos-al-dia-bandera-roja-para-tu-salud",
+    "title": "En España hemos glorificado la larga siesta. En los estudios científicos tienen otra opinión al respecto",
+    "snippet": "La siesta es, para muchos, un pilar fundamental del estilo de vida mediterráneo y un placer irrenunciable durante la tarde para poder aguantar el resto del día. Sin embargo, la evidencia científica ha puesto este hábito ...",
+    "date": "2026-04-22T19:00:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/espana-hemos-glorificado-siesta-para-ciencia-dormir-30-minutos-al-dia-bandera-roja-para-tu-salud",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431847",
+    "title": "Volumen de carga del Puerto de Rotterdam se mantiene estable en primer trimestre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El volumen de carga en el Puerto de Rotterdam disminuyó 0,7 % en el primer trimestre\nLa entrada Volumen de carga del Puerto de Rotterdam se mantiene estable en primer trimes...",
+    "date": "2026-04-22T19:00:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/volumen-de-carga-del-puerto-de-rotterdam-se-mantiene-estable-en-primer-trimestre/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431882",
+    "title": "Osmari de Castilho Ribas: “La mayor producción de movimientos por hora en Brasil es de Portonave”",
+    "snippet": "Por Andrés Orrego Siebert @PortalPortuario Son muy pocos los puertos en Sudamérica los capaces de atender naves de 400 metros\nLa entrada Osmari de Castilho Ribas: &#8220;La mayor producción de movimientos por hora en Bra...",
+    "date": "2026-04-22T18:58:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/osmari-de-castilho-ribas-la-mayor-produccion-de-movimientos-por-hora-en-brasil-es-de-portonave/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-loreto-oefa-ordena-entrega-agua-tras-confirmar-derrame-petroleo-el-rio-amazonas-1072280.aspx",
+    "title": "Loreto: OEFA ordena entrega de agua tras confirmar derrame de petróleo en el río Amazonas",
+    "snippet": "El Organismo de Evaluación y Fiscalización Ambiental (OEFA) confirmó hoy que se produjo un derrame de petróleo en el río Amazonas, a la altura de la desembocadura del río Napo, en el distrito de Las Amazonas, provincia d...",
+    "date": "2026-04-22T18:51:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-loreto-oefa-ordena-entrega-agua-tras-confirmar-derrame-petroleo-el-rio-amazonas-1072280.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3115340",
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "snippet": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now....",
+    "date": "2026-04-22T18:39:27",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
+    "title": "Hoy llega a Netflix uno de los clásicos por excelencia del cine de los 70: siete Oscar avalan a 'El Golpe'",
+    "snippet": "Hay dos cosas que podemos asegurar sin temor a equivocarnos. Primero, el punto fuerte del fondo de catálogo de Netflix no son los clásicos: otras plataformas como HBO, Disney+, Filmin o FlixOlé están infinitamente más su...",
+    "date": "2026-04-22T18:30:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431894",
+    "title": "Irlanda: Logran controlar derrame de petróleo en Puerto de Dublín",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Dublín (Irlanda) anunció que logró controlar el derrame de petróleo originado durante las\nLa entrada Irlanda: Logran controlar derrame de petróleo en Puerto de ...",
+    "date": "2026-04-22T18:30:24",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/irlanda-logran-controlar-derrame-de-petroleo-en-puerto-de-dublin/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431843",
+    "title": "APM Terminals invierte en modernización de sistema eléctrico y amplía concesión en Valencia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consejo de Administración de la Autoridad Portuaria de Valencia (VPA) aprobó una prórroga de ocho\nLa entrada APM Terminals invierte en modernización de sistema eléctrico ...",
+    "date": "2026-04-22T18:00:54",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/apm-terminals-invierte-en-modernizacion-de-sistema-electrico-y-amplia-concesion-en-valencia/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/singapur-lujo-no-tener-ferrari-lamborghini-verdadero-lujo-simplemente-conducir-1",
+    "title": "En Singapur, el lujo no es tener un Ferrari o un Lamborghini. El verdadero lujo es simplemente conducir",
+    "snippet": "Singapur, esa pequeña ciudad/país-estado entre Malasia e Indonesia donde apenas superan los cinco millones de habitantes, es un lugar de contrastes. Mientras el enclave tiene un alto grado de control gubernamental y cier...",
+    "date": "2026-04-22T18:00:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/singapur-lujo-no-tener-ferrari-lamborghini-verdadero-lujo-simplemente-conducir-1",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=916818",
+    "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
+    "snippet": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your cup. Thankfully, if you don’t own one, the ...",
+    "date": "2026-04-22T17:58:23",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/hojas-ramas-arboles-liquidos-belgrado-fascinante-solucion-biotecnologica-para-limpiar-aire-ciudades",
+    "title": "Ni hojas, ni ramas: los \"árboles líquidos\" de Belgrado son la fascinante solución biotecnológica para limpiar el aire de las ciudades",
+    "snippet": "A día de hoy, la ciudad de Belgrado tiene un importante problema en lo que a calidad de aire respecta, siendo ya algo bastante típico de las grandes ciudades. Aquí la situación, la verdad es que es bastante crítica, con ...",
+    "date": "2026-04-22T17:30:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/hojas-ramas-arboles-liquidos-belgrado-fascinante-solucion-biotecnologica-para-limpiar-aire-ciudades",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431945",
+    "title": "Terminal Pacífico Sur Valparaíso avanza en auditorías de programas medioambientales",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Dos iniciativas para la gestión de los objetivos y compromisos en materia ambiental de Terminal Pacífico\nLa entrada Terminal Pacífico Sur Valparaíso avanza en auditorías de ...",
+    "date": "2026-04-22T17:00:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/terminal-pacifico-sur-valparaiso-avanza-en-auditorias-de-programas-medioambientales/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/iphone-puede-hacer-mucho-que-creemos-clave-esta-atajos-asi-puedes-empezar-a-aprovecharlos",
+    "title": "El iPhone puede hacer mucho más de lo que creemos. La clave está en los Atajos y así puedes empezar a aprovecharlos",
+    "snippet": "Hace unos días estaba en un café con un amigo cuando, en mitad de la conversación, sacó su iPhone y me enseñó hasta qué punto se había convertido en un experto en Atajos. En ese momento pensé que más personas deberían sa...",
+    "date": "2026-04-22T17:00:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/iphone-puede-hacer-mucho-que-creemos-clave-esta-atajos-asi-puedes-empezar-a-aprovecharlos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=916779",
+    "title": "Google Meet will take AI notes for in-person meetings too",
+    "snippet": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to...",
+    "date": "2026-04-22T16:38:19",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ryanair-se-ha-dejado-a-sus-pasajeros-tierra-dos-veces-semana-culpable-tiene-nombre-apellidos-ees",
+    "title": "Ryanair se ha dejado a sus pasajeros en tierra dos veces en una semana. El culpable tiene nombre y apellidos: EES",
+    "snippet": "Que un avión despegue de manera puntual y que se acabe dejando a cientos de pasajeros detrás es algo que no suele ocurrir a menudo. Sin embargo, ya ha pasado en varios vuelos de Ryanair en las últimas semanas, y la expli...",
+    "date": "2026-04-22T16:30:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ryanair-se-ha-dejado-a-sus-pasajeros-tierra-dos-veces-semana-culpable-tiene-nombre-apellidos-ees",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431888",
+    "title": "Ataque con drones rusos daña infraestructura del Puerto de Odesa",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Drones rusos atacaron el Puerto de Odesa, en el mar Negro ucraniano, acorde a lo informado\nLa entrada Ataque con drones rusos daña infraestructura del Puerto...",
+    "date": "2026-04-22T16:30:13",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ataque-con-drones-rusos-dana-infraestructura-del-puerto-de-odesa/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=431439",
+    "title": "Puerto de Klaipeda registra incremento de 9% en manipulación de carga en primer trimestre de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Klaipeda inició el año con un volumen de carga en aumento, ya que\nLa entrada Puerto de Klaipeda registra incremento de 9% en manipulación de carga en primer tri...",
+    "date": "2026-04-22T16:00:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-klaipeda-registra-incremento-de-9-en-manipulacion-de-carga-en-primer-trimestre-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/mexico-se-queda-alternativa-real-a-telcel-que-salida-telefonica-dice-mercado-cautivo-america-latina",
+    "title": "La huida de Telefónica de México revela una verdad más incómoda: el país no tiene alternativa real a Telcel",
+    "snippet": "La venta de Movistar México al consorcio Melisa Acquisition (450 millones de dólares por un operador con el 15% del mercado aproximadamente) cierra un capítulo de más de dos décadas en el que la operadora española ha inv...",
+    "date": "2026-04-22T16:00:41",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/mexico-se-queda-alternativa-real-a-telcel-que-salida-telefonica-dice-mercado-cautivo-america-latina",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3115227",
     "title": "Rivian R2 production has started despite tornado damage to factory",
     "snippet": "The company's all-important mass-market EV is just about ready to start heading to customers....",
@@ -11,6 +227,15 @@
   {
     "id": "https://www.theverge.com/?p=916698",
     "title": "Will a new CEO realize Apple&#8217;s smart home potential?",
+    "snippet": "It took Tim Cook years to launch Apple into major new hardware categories, such as the smartwatch. But John Ternus could start his tenure right away with an ambitious new project: smart home hardware. All signs point to ...",
+    "date": "2026-04-22T15:31:34",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=916698",
+    "title": "Will a new CEO help realize Apple&#8217;s smart home potential?",
     "snippet": "It took Tim Cook years to launch Apple into major new hardware categories, such as the smartwatch. But John Ternus could start his tenure right away with an ambitious new project: smart home hardware. All signs point to ...",
     "date": "2026-04-22T15:31:34",
     "source": "THE VERGE",
@@ -168,6 +393,15 @@
     "date": "2026-04-22T14:00:00",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/04/22/mary-minno-teams-up-with-esther-and-anne-wojcicki-to-launch-healthcare-residency-and-early-stage-fund/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3114582",
+    "title": "Esther and Anne Wojcicki back new  healthcare accelerator, fund",
+    "snippet": "Mary Minno launches early-stage startup accelerator program, Treehub, and an early-stage firm, AI Health Fund, aimed at backing startups working at the intersection of healthcare and AI....",
+    "date": "2026-04-22T14:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/22/esther-and-anne-wojcicki-back-new-healthcare-accelerator-fund/",
     "category": "MERCADO"
   },
   {
@@ -963,6 +1197,15 @@
     "category": "LOGÍSTICA"
   },
   {
+    "id": "https://rpp.pe/1685145",
+    "title": "Sunat plantea que pagos en billeteras digitales sean consideradas boletas electrónicas",
+    "snippet": "La entidad apunta a mejorar el rastreo de las operaciones de los pequeños negocios para facilitar su declaración de impuestos. La propuesta busca adaptarse al dinamismo de los comerciantes que ya usan las billeteras, com...",
+    "date": "2026-04-21T16:45:26",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/sunat-propone-constancia-de-pagos-en-billeteras-digitales-sean-consideradas-boletas-electronicas-noticia-1685145",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/movilidad/puente-largo-mundo-para-peatones-tranvia-esta-helsinki-meta-que-dure-al-unos-200-anos",
     "title": "El puente más largo del mundo para peatones se acaba de inaugurar en Helsinki: la meta es que dure unos 200 años",
     "snippet": "Helsinki inauguró el pasado 18 de abril un puente de 1,2 kilómetros por el que no circulará ningún coche. El puente se llenó de gente casi en el mismo momento en que abrió, y los organizadores animaron a los visitantes a...",
@@ -1105,248 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/mensajes-fraudulentos-ofrecen-a-navieras-transito-seguro-a-traves-del-estrecho-de-ormuz/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3114589",
-    "title": "Amazon taps Sweden’s Einride for its electric big rigs",
-    "snippet": "The agreement comes just as Einride is finalizing a merger with blank-check company Legato Merger Corp. to go public....",
-    "date": "2026-04-21T14:09:43",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/21/amazon-taps-swedens-einride-for-its-electric-big-rigs/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=431543",
-    "title": "Puertos de Singapur, Long Beach y Los Ángeles renuevan acuerdo sobre corredor marítimo ecológico y digital",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Marítima y Portuaria de Singapur (MPA), el Puerto de Long Beach y el Puerto\nLa entrada Puertos de Singapur, Long Beach y Los Ángeles renuevan acuerdo sobre corr...",
-    "date": "2026-04-21T14:00:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puertos-de-singapur-long-beach-y-los-angeles-renuevan-acuerdo-sobre-corredor-maritimo-ecologico-y-digital/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/dormir-cuatro-horas-al-dia-rendir-al-maximo-no-mito-rareza-genetica-1-poblacion",
-    "title": "Dormir cuatro horas al día y rendir al máximo no es un mito, es una rareza genética del 1% de la población",
-    "snippet": "Hay gente que presume de dormir apenas cuatro o cinco horas diarias y asegura levantarse fresco como una lechuga, algo que puede generar mucha envidia, pero también escepticismo, ya que parece poco creíble el poder dormi...",
-    "date": "2026-04-21T14:00:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/dormir-cuatro-horas-al-dia-rendir-al-maximo-no-mito-rareza-genetica-1-poblacion",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=431417",
-    "title": "BGN amplía su flota de GLP con cuatro nuevos buques VLGC de combustible dual",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario BGN firmó un contrato con HD Hyundai Heavy Industries para la construcción de cuatro nuevos buques\nLa entrada BGN amplía su flota de GLP con cuatro nuevos buques VLGC de com...",
-    "date": "2026-04-21T13:30:53",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/bgn-amplia-su-flota-de-glp-con-cuatro-nuevos-buques-vlgc-de-combustible-dual/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/dune-3-le-ha-bloqueado-imax-a-vengadores-doomsday-respuesta-disney-ha-sido-inventarse-su-propio-imax",
-    "title": "'Dune 3' le ha bloqueado IMAX a 'Vengadores: Doomsday. La respuesta de Disney ha sido inventarse su propio IMAX",
-    "snippet": "El 18 de diciembre de 2026, dos de los blockbusters más esperados de la última década comparten fecha de estreno. Warner Bros. tiene contratada la exclusividad de todas las pantallas IMAX de Estados Unidos para 'Dune: Pa...",
-    "date": "2026-04-21T13:30:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/dune-3-le-ha-bloqueado-imax-a-vengadores-doomsday-respuesta-disney-ha-sido-inventarse-su-propio-imax",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1685200",
-    "title": "MEF bajo presión: alcaldes demandan más de S/ 7,000 millones para culminar obras",
-    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña, afirmó que las primeras semanas de mayo se presentará una propuesta de ampliación del presupuesto público del 2026....",
-    "date": "2026-04-21T13:26:46",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/mef-bajo-presion-alcaldes-demandan-mas-de-s-7000-millones-para-culminar-obras-noticia-1685200",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/kindle-kobo-pocketbook-cinco-ereader-oferta-para-devorar-novelas-dia-libro",
-    "title": "Kindle, Kobo y Pocketbook: cinco eReader en oferta para devorar novelas en el Día del Libro",
-    "snippet": "Quedan tan sólo dos días para la llegada del Día del Libro, por lo que si te animas a dar el salto al formato digital o si simplemente quieres hacer un \"cambio de armario\" para renovar el que ya tienes, hoy vamos a repas...",
-    "date": "2026-04-21T13:16:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/kindle-kobo-pocketbook-cinco-ereader-oferta-para-devorar-novelas-dia-libro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=915655",
-    "title": "Splatoon Raiders hits the Switch 2 in July",
-    "snippet": "The squid kids will be back this summer. Nintendo announced this morning that Splatoon Raiders, a single-player spinoff of its competitive shooter series, will launch on the Nintendo Switch 2 on July 23rd. It'll be the f...",
-    "date": "2026-04-21T13:10:54",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ha-ocurrido-hecho-inedito-guerra-ucrania-ha-tumbado-shaheds-rusos-hotel-a-500-km-clave-esta-wifi",
-    "title": "Ha ocurrido algo inédito en la guerra: Ucrania ha tumbado shaheds rusos desde un hotel a 500 kilómetros de distancia",
-    "snippet": "Durante una prueba militar en Estados Unidos, un piloto logró aterrizar un avión de combate sin tocar los mandos y a kilómetros de distancia, guiándolo únicamente a través de una conexión remota como si fuera un simulado...",
-    "date": "2026-04-21T13:00:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ha-ocurrido-hecho-inedito-guerra-ucrania-ha-tumbado-shaheds-rusos-hotel-a-500-km-clave-esta-wifi",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=394145",
-    "title": "Canadá: Puerto de Trois-Rivières recibe primera escala inaugural desde que asumió nuevo CEO",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Trois-Rivières recibió, por primera vez, al Federal Phoenix, un barco bulk carrier de\nLa entrada Canadá: Puerto de Trois-Rivières recibe primera escala inaugura...",
-    "date": "2026-04-21T13:00:24",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/canada-puerto-de-trois-rivieres-recibe-primera-escala-inaugural-desde-que-asumio-nuevo-ceo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/relojes-inteligentes/oppo-watch-x3-caracteristicas-precio-ficha-tecnica",
-    "title": "Si la pregunta es cuántas specs caben en un reloj inteligente, la respuesta es: mira el OPPO Watch X3",
-    "snippet": "Hoy es un gran día para OPPO. Aprovechando el lanzamiento de su nuevo buque insignia, el Find X9 Pro, la compañía ha presentado dos dispositivos de lo más interesante: sus nuevos auriculares OPPO Enco Clip2, y su reloj i...",
-    "date": "2026-04-21T12:30:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/relojes-inteligentes/oppo-watch-x3-caracteristicas-precio-ficha-tecnica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/oppo-find-x9-ultra-caracteristicas-precio-ficha-tecnica",
-    "title": "El Oppo Find X9 Ultra llega para difuminar la línea que separa el móvil convencional de las cámaras profesionales",
-    "snippet": "Las compañías chinas de móviles se han marcado un objetivo para este comienzo de 2026: sacar músculo. Pero a lo bestia, además. Si Vivo presentó hace unas semanas el Vivo X300 Ultra, ahora es el turno de una Oppo que tam...",
-    "date": "2026-04-21T12:30:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/oppo-find-x9-ultra-caracteristicas-precio-ficha-tecnica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/tablets/oppo-pad-5-caracteristicas-precio-ficha-tecnica",
-    "title": "Las tablets siguen muy vivas y la Oppo Pad 5 llega con lápiz y hasta arriba de IA para crear contenido",
-    "snippet": "Oppo se ha plantado a finales de abril con una renovación completa de buena parte de su línea de dispositivos. El más potente es un Oppo Find X9 Ultra que apuesta todo a mostrar músculo en el segmento de la fotografía mó...",
-    "date": "2026-04-21T12:30:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/tablets/oppo-pad-5-caracteristicas-precio-ficha-tecnica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/londres-alguien-ha-pagado-310-millones-casa-cara-historia-prueba-que-mercado-lujo-no-tiene-techo",
-    "title": "En Londres alguien ha pagado 310 millones por la casa más cara de la historia. Es la prueba de que el mercado del lujo no tiene techo",
-    "snippet": "En el mundo hay casas caras (cada vez más), casas carísimas y luego casas al alcance solo de las mayores fortunas del planeta, como la que acaba de venderse en Londres por la friolera de 270 millones de libras, unos 310 ...",
-    "date": "2026-04-21T12:00:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/londres-alguien-ha-pagado-310-millones-casa-cara-historia-prueba-que-mercado-lujo-no-tiene-techo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/londres-alguien-ha-pagado-310-millones-casa-cara-historia-prueba-que-mercado-lujo-no-tiene-techo",
-    "title": "Un millonario acaba de comprarse la casa más cara de la historia: está en Londres y cuesta 310 millones de euros",
-    "snippet": "En el mundo hay casas caras (cada vez más), casas carísimas y luego casas al alcance solo de las mayores fortunas del planeta, como la que acaba de venderse en Londres por la friolera de 270 millones de libras, unos 310 ...",
-    "date": "2026-04-21T12:00:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/londres-alguien-ha-pagado-310-millones-casa-cara-historia-prueba-que-mercado-lujo-no-tiene-techo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "e94189bc-ccca-4a41-a9bc-e22512501f9e",
-    "title": "I Really Need Apple to Launch Its Foldable iPhone Flip This Year",
-    "snippet": "Commentary: Apple is seriously at risk of missing the foldables boat if it doesn't act soon....",
-    "date": "2026-04-21T12:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apple-needs-to-launch-a-foldable-iphone-flip/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/como-medir-distancia-dos-puntos-google-maps-pc-movil",
-    "title": "Cómo medir la distancia entre dos puntos en Google Maps en PC y móvil",
-    "snippet": "Vamos a explicarte cómo medir distancias en Google Maps, de forma que puedas tener unas mejores referencias de lo lejos que están los puntos que te interesen. No se trata de medir distancias en carreteras o caminos, para...",
-    "date": "2026-04-21T11:48:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/como-medir-distancia-dos-puntos-google-maps-pc-movil",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/apple-ha-dado-giro-historico-su-liderazgo-ceo-logistica-da-paso-al-ceo-ingenieria",
-    "title": "Con John Ternus, Apple ha dado un giro histórico en su liderazgo: el CEO de la logística da paso al CEO de la ingeniería",
-    "snippet": "Tim Cook ha anunciado que dejará el cargo de CEO de Apple el 1 de septiembre. Le sustituirá John Ternus, su vicepresidente senior de ingeniería de hardware. Este relevo generacional, largamente esperado, supone un cambio...",
-    "date": "2026-04-21T11:46:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/apple-ha-dado-giro-historico-su-liderazgo-ceo-logistica-da-paso-al-ceo-ingenieria",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/amazon-tiene-clara-su-estrategia-para-guerra-ia-no-puedes-tu-enemigo-invierte",
-    "title": "Amazon quiere salir ganador de la carrera IA a cualquier precio. Por eso ha invertido a la vez en Anthropic y OpenAI",
-    "snippet": "Hace apenas dos meses Amazon anunciaba una inversión astronómica de 50.000 millones de dólares en OpenAI. Hoy ha hecho un movimiento muy similar al anunciar que invertirá 5.000 millones de dólares a Anthropic y podría in...",
-    "date": "2026-04-21T11:30:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/amazon-tiene-clara-su-estrategia-para-guerra-ia-no-puedes-tu-enemigo-invierte",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/como-deducirte-alquiler-tu-vivienda-habitual-renta-2025-que-comunidades-puedes-hacerlo-tu-declaracion-2026",
-    "title": "Cómo deducirte el alquiler de tu vivienda habitual en la Renta 2025, y en qué comunidades puedes hacerlo en tu declaración de 2026",
-    "snippet": "Vamos a explicarte cómo y dónde puedes deducirte el alquiler de tu vivienda habitual en tu Renta 2025, que es la declaración que hacemos en 2026 para rendir cuentas del pasado año fiscal. Ya puedes solicitar y presentar ...",
-    "date": "2026-04-21T11:08:07",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/como-deducirte-alquiler-tu-vivienda-habitual-renta-2025-que-comunidades-puedes-hacerlo-tu-declaracion-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1685178",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 21 de abril del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy martes 21 de abril es de  S/3.44 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-04-21T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-21-de-abril-del-2026-noticia-1685178",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "d255c210-80e3-4898-ba60-048ed65e6833",
-    "title": "Horizon Zero Dawn Remastered, Squirrel With a Gun and More Are Now on PlayStation Plus",
-    "snippet": "Squirrel With a Gun has my full attention....",
-    "date": "2026-04-21T11:01:07",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/horizon-zero-dawn-remastered-squirrel-with-a-gun-and-more-are-now-on-playstation-plus/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/televisores/pregunta-que-diferencia-a-samsung-su-competencia-charlie-bae-director-producto-samsung-tiene-claro-ecosistema",
-    "title": "Si la pregunta es qué diferencia a Samsung del resto, Charlie Bae, director de producto de Samsung tiene claro: \"ecosistema\"",
-    "snippet": "El mercado de televisores está más disputado que nunca y las marcas tradicionales ya no monopolizan las ventas como solían hacerlo. Tal y como sucede en otros ámbitos como el de la automoción o los smartphones, los fabri...",
-    "date": "2026-04-21T11:00:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/televisores/pregunta-que-diferencia-a-samsung-su-competencia-charlie-bae-director-producto-samsung-tiene-claro-ecosistema",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/china-resiste-presion-eeuu-35-sus-maquinas-fabricacion-chips-origen-chino",
-    "title": "China resiste la presión de EEUU: el 35% de sus máquinas de fabricación de chips ya es de origen chino",
-    "snippet": "Los fabricantes de equipos de litografía y procesamiento de obleas extranjeros cada vez venden menos en China. En 2024 el país liderado por Xi Jinping representó el 41% de los ingresos de ASML, pero en 2025 esta cifra se...",
-    "date": "2026-04-21T10:30:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/china-resiste-presion-eeuu-35-sus-maquinas-fabricacion-chips-origen-chino",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/china-resiste-presion-eeuu-35-sus-maquinas-fabricacion-chips-origen-chino",
-    "title": "EEUU está haciendo todo para ahogar a China. China ya ha conseguido que el 35% de sus máquinas de chips ya sean chinas",
-    "snippet": "Los fabricantes de equipos de litografía y procesamiento de obleas extranjeros cada vez venden menos en China. En 2024 el país liderado por Xi Jinping representó el 41% de los ingresos de ASML, pero en 2025 esta cifra se...",
-    "date": "2026-04-21T10:30:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/china-resiste-presion-eeuu-35-sus-maquinas-fabricacion-chips-origen-chino",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/quien-johny-srouji-que-este-gran-desconocido-se-acaba-convertir-segunda-persona-poder-apple",
-    "title": "Quién es Johny Srouji y por qué este gran desconocido se acaba de convertir en la segunda persona con más poder de Apple",
-    "snippet": "Para quienes llevan tiempo siguiendo a Apple Johny Srouji no es ningún extraño. Para el resto del mundo sí, pero tras el nombramiento de John Ternus como CEO de Apple, este ingeniero israelí se ha convertido en la segund...",
-    "date": "2026-04-21T10:16:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/quien-johny-srouji-que-este-gran-desconocido-se-acaba-convertir-segunda-persona-poder-apple",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/quien-johny-srouji-que-este-gran-desconocido-se-acaba-convertir-segunda-persona-poder-apple",
-    "title": "De Haifa a Cupertino: cómo el hombre que inventó el Apple Silicon se ha convertido en la segunda persona más poderosa de Apple",
-    "snippet": "Para quienes llevan tiempo siguiendo a Apple Johny Srouji no es ningún extraño. Para el resto del mundo sí, pero tras el nombramiento de John Ternus como CEO de Apple, este ingeniero israelí se ha convertido en la segund...",
-    "date": "2026-04-21T10:16:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/quien-johny-srouji-que-este-gran-desconocido-se-acaba-convertir-segunda-persona-poder-apple",
-    "category": "TRIBUTARIO"
   }
 ]
