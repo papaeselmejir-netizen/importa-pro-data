@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-conmebol-analiza-a-ecuador-como-posible-sede-para-realizacion-de-copa-america-2028-1072473.aspx",
+    "title": "Conmebol analiza a Ecuador como posible sede para la realización de la Copa América 2028",
+    "snippet": "La Confederación Sudamericana de Fútbol (Conmebol) evalúa a Ecuador como posible sede de la Copa América de 2028, dijo el jueves en Quito el jefe del organismo, Alejandro Domínguez....",
+    "date": "2026-04-23T23:15:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conmebol-analiza-a-ecuador-como-posible-sede-para-realizacion-de-copa-america-2028-1072473.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ositran-sustento-propuesta-revision-tarifaria-del-terminal-norte-del-callao-1072472.aspx",
+    "title": "Ositrán sustentó la propuesta de revisión tarifaria del Terminal Norte del Callao",
+    "snippet": "El Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público (Ositrán) sustentó, en audiencia pública, la propuesta de Tercera Revisión Tarifaria de Oficio del Factor de Productividad para el T...",
+    "date": "2026-04-23T23:08:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ositran-sustento-propuesta-revision-tarifaria-del-terminal-norte-del-callao-1072472.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432250",
+    "title": "Perú: Terminales Portuarios Euroandinos se integra a rotación de nuevo servicio de Cosco Shipping",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Terminales Portuarios Euroandinos (TPE), operador del Puerto de Paita, firmó un acuerdo con Cosco Shipping Lines\nLa entrada Perú: Terminales Portuarios Euroandinos se integr...",
+    "date": "2026-04-23T23:04:27",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-terminales-portuarios-euroandinos-se-integra-a-rotacion-de-nuevo-servicio-de-cosco-shipping/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-incautan-mas-70-celulares-durante-operativo-penal-arequipa-1072461.aspx",
     "title": "Incautan más de 70 celulares durante operativo en penal de Arequipa",
     "snippet": "Más de 70 celulares fueron incautados en el penal de Arequipa, tras las requisas que forman parte de las acciones de control en dicho establecimiento penitenciario, informó el Ministerio de Justicia y Derechos Humanos (M...",
@@ -52,6 +79,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/temporada-de-cruceros-en-puerto-de-rio-finaliza-con-impacto-economico-de-usd-40-millones/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "6cbb10a7-4c72-45b7-aa0c-7d508c0c2f09",
+    "title": "Samsung Brings Ikea Smart Home Support to Its Platform, With One Important Caveat",
+    "snippet": "If you have the right Samsung hub, you can now get Ikea's low-cost devices without needing any expensive add-ons....",
+    "date": "2026-04-23T21:37:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/home/smart-home/samsung-brings-ikea-smart-home-support-to-its-platform-with-one-important-caveat/",
+    "category": "MERCADO"
   },
   {
     "id": "https://portalportuario.cl/?p=432089",
@@ -1312,41 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/irlanda-logran-controlar-derrame-de-petroleo-en-puerto-de-dublin/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=431843",
-    "title": "APM Terminals invierte en modernización de sistema eléctrico y amplía concesión en Valencia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consejo de Administración de la Autoridad Portuaria de Valencia (VPA) aprobó una prórroga de ocho\nLa entrada APM Terminals invierte en modernización de sistema eléctrico ...",
-    "date": "2026-04-22T18:00:54",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/apm-terminals-invierte-en-modernizacion-de-sistema-electrico-y-amplia-concesion-en-valencia/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/singapur-lujo-no-tener-ferrari-lamborghini-verdadero-lujo-simplemente-conducir-1",
-    "title": "En Singapur, el lujo no es tener un Ferrari o un Lamborghini. El verdadero lujo es simplemente conducir",
-    "snippet": "Singapur, esa pequeña ciudad/país-estado entre Malasia e Indonesia donde apenas superan los cinco millones de habitantes, es un lugar de contrastes. Mientras el enclave tiene un alto grado de control gubernamental y cier...",
-    "date": "2026-04-22T18:00:40",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/singapur-lujo-no-tener-ferrari-lamborghini-verdadero-lujo-simplemente-conducir-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=916818",
-    "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
-    "snippet": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your cup. Thankfully, if you don’t own one, the ...",
-    "date": "2026-04-22T17:58:23",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hojas-ramas-arboles-liquidos-belgrado-fascinante-solucion-biotecnologica-para-limpiar-aire-ciudades",
-    "title": "Ni hojas, ni ramas: los \"árboles líquidos\" de Belgrado son la fascinante solución biotecnológica para limpiar el aire de las ciudades",
-    "snippet": "A día de hoy, la ciudad de Belgrado tiene un importante problema en lo que a calidad de aire respecta, siendo ya algo bastante típico de las grandes ciudades. Aquí la situación, la verdad es que es bastante crítica, con ...",
-    "date": "2026-04-22T17:30:40",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hojas-ramas-arboles-liquidos-belgrado-fascinante-solucion-biotecnologica-para-limpiar-aire-ciudades",
-    "category": "TRIBUTARIO"
   }
 ]
