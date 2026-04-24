@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-peru-moda-deco-norteamerica-2026-genero-349-millones-oportunidades-comerciales-en-1072609.aspx",
+    "title": "Perú Moda Deco Norteamérica 2026 generó US$ 34.9 millones en oportunidades comerciales en",
+    "snippet": "La Comisión de Promoción del Perú para la Exportación y el Turismo (Promperú) cerró la más reciente edición de Perú Moda Deco Norteamérica en Nueva York con 34.9 millones de dólares en oportunidades comerciales, consolid...",
+    "date": "2026-04-24T23:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-moda-deco-norteamerica-2026-genero-349-millones-oportunidades-comerciales-en-1072609.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432432",
+    "title": "Puerto de Santos bate récords y en tres meses alcanza las cifras anuales del siglo XX",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Santos continúa batiendo récords. El mes pasado, el movimiento de carga alcanzó los\nLa entrada Puerto de Santos bate récords y en tres meses alcanza las cifras ...",
+    "date": "2026-04-24T23:00:49",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-santos-bate-records-y-en-tres-meses-alcanza-las-cifras-anuales-del-siglo-xx/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cofopri-mas-700-familias-tienen-nueva-oportunidad-para-titular-sus-viviendas-1072619.aspx",
+    "title": "Cofopri: más de 700 familias tienen nueva oportunidad para titular sus viviendas",
+    "snippet": "Más de 700 familias de Lima Metropolitana, Callao, Huaral y Cañete vuelven a tener una oportunidad de acceder al título de propiedad de sus viviendas. El Organismo de Formalización de la Propiedad Informal (Cofopri) desp...",
+    "date": "2026-04-24T22:55:51",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cofopri-mas-700-familias-tienen-nueva-oportunidad-para-titular-sus-viviendas-1072619.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=432322",
     "title": "Canadá otorga el estatus de puerto internacional de contenedores a Quebec",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Quebec ha alcanzado un hito decisivo en su historia, ya que el Gobierno\nLa entrada Canadá otorga el estatus de puerto internacional de contenedores a Quebec se ...",
@@ -1321,32 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3115768",
-    "title": "X is shutting down Communities because of low usage and lots of spam",
-    "snippet": "X Communities are no more. Only a fraction of X users were using Communities, and much of that use was spam, the company said....",
-    "date": "2026-04-23T15:32:10",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/renfe-no-quiere-repetir-error-talgo-su-nuevo-concurso-para-ave-va-a-priorizar-calidad-dinero",
-    "title": "Renfe no quiere repetir el error de los Talgo: su nuevo concurso para los AVE va a priorizar la calidad sobre el dinero",
-    "snippet": "El mes pasado, Renfe dio luz verde a la compra de esos 30 nuevos trenes AVE (ampliables a 40) con los que espera renovar su flota en España. El operador ferroviario los ha lanzado a concurso y se espera que en septiembre...",
-    "date": "2026-04-23T15:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/renfe-no-quiere-repetir-error-talgo-su-nuevo-concurso-para-ave-va-a-priorizar-calidad-dinero",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/renfe-no-quiere-repetir-error-talgo-su-nuevo-concurso-para-ave-va-a-priorizar-calidad-dinero",
-    "title": "Renfe busca nuevos trenes para el AVE y algo mucho más importante: no cometer el mismo error que con Talgo",
-    "snippet": "El mes pasado, Renfe dio luz verde a la compra de esos 30 nuevos trenes AVE (ampliables a 40) con los que espera renovar su flota en España. El operador ferroviario los ha lanzado a concurso y se espera que en septiembre...",
-    "date": "2026-04-23T15:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/renfe-no-quiere-repetir-error-talgo-su-nuevo-concurso-para-ave-va-a-priorizar-calidad-dinero",
-    "category": "TRIBUTARIO"
   }
 ]
