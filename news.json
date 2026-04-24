@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-sector-interior-fortalece-trabajo-alcaldes-amazonas-sobre-seguridad-ciudadana-1072488.aspx",
+    "title": "Sector Interior fortalece trabajo con alcaldes de Amazonas sobre seguridad ciudadana",
+    "snippet": "El Ministerio del Interior (Mininter) lideró una reunión de trabajo con alcaldes distritales de la región Amazonas, con el objetivo de fortalecer la articulación interinstitucional y promover acciones conjuntas en materi...",
+    "date": "2026-04-24T01:54:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sector-interior-fortalece-trabajo-alcaldes-amazonas-sobre-seguridad-ciudadana-1072488.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpqxgxx9nrqo#0",
+    "title": "White House memo claims mass AI theft by Chinese firms",
+    "snippet": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models....",
+    "date": "2026-04-24T00:58:58",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432119",
+    "title": "PIL y PSA International lanzan primer servicio de transporte marítimo-terrestre ecológico conjunto de Singapur",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Pacific International Lines (PIL) y PSA International (PSA), con el apoyo de DNV, han lanzado el\nLa entrada PIL y PSA International lanzan primer servicio de transporte marí...",
+    "date": "2026-04-24T00:30:32",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/pil-y-psa-international-lanzan-primer-servicio-de-transporte-maritimo-terrestre-ecologico-conjunto-de-singapur/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432132",
+    "title": "Brasil: Puertos de Bahía cierran la temporada de cruceros con 80 escalas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La temporada de cruceros 2025/2026 llegó a su fin en Bahía este jueves 23 de abril,\nLa entrada Brasil: Puertos de Bahía cierran la temporada de cruceros con 80 escalas se pu...",
+    "date": "2026-04-24T00:00:07",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-puertos-de-bahia-cierran-la-temporada-de-cruceros-con-80-escalas/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-conmebol-analiza-a-ecuador-como-posible-sede-para-realizacion-de-copa-america-2028-1072473.aspx",
     "title": "Conmebol analiza a Ecuador como posible sede para la realización de la Copa América 2028",
     "snippet": "La Confederación Sudamericana de Fútbol (Conmebol) evalúa a Ecuador como posible sede de la Copa América de 2028, dijo el jueves en Quito el jefe del organismo, Alejandro Domínguez....",
@@ -1312,41 +1348,5 @@
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
-    "title": "Hoy llega a Netflix uno de los clásicos por excelencia del cine de los 70: siete Oscar avalan a 'El Golpe'",
-    "snippet": "Hay dos cosas que podemos asegurar sin temor a equivocarnos. Primero, el punto fuerte del fondo de catálogo de Netflix no son los clásicos: otras plataformas como HBO, Disney+, Filmin o FlixOlé están infinitamente más su...",
-    "date": "2026-04-22T18:30:40",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
-    "title": "Llega a Netflix un clásico indiscutible de los 70: ganó siete Oscar gracias al carisma de su dúo protagonista",
-    "snippet": "Hay dos cosas que podemos asegurar sin temor a equivocarnos. Primero, el punto fuerte del fondo de catálogo de Netflix no son los clásicos: otras plataformas como HBO, Disney+, Filmin o FlixOlé están infinitamente más su...",
-    "date": "2026-04-22T18:30:40",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
-    "title": "Hoy en Netflix: un clásico de los 70 que ganó siete Oscar gracias al carisma de su dúo protagonista y su icónica banda sonora",
-    "snippet": "Hay dos cosas que podemos asegurar sin temor a equivocarnos. Primero, el punto fuerte del fondo de catálogo de Netflix no son los clásicos: otras plataformas como HBO, Disney+, Filmin o FlixOlé están infinitamente más su...",
-    "date": "2026-04-22T18:30:40",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/llega-a-netflix-clasico-indiscutible-gano-siete-oscar-gracias-al-imbatible-carisma-su-duo-protagonista",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=431894",
-    "title": "Irlanda: Logran controlar derrame de petróleo en Puerto de Dublín",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Dublín (Irlanda) anunció que logró controlar el derrame de petróleo originado durante las\nLa entrada Irlanda: Logran controlar derrame de petróleo en Puerto de ...",
-    "date": "2026-04-22T18:30:24",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/irlanda-logran-controlar-derrame-de-petroleo-en-puerto-de-dublin/",
-    "category": "LOGÍSTICA"
   }
 ]
