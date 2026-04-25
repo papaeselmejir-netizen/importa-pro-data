@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3116468",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "snippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money....",
+    "date": "2026-04-25T21:43:37",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=432546",
     "title": "MSC está a dos unidades de contar con una flota compuesta por 1.000 portacontenedores",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Mediterranean Shipping Company (MSC), naviera que, en enero de 2022, se convirtió en la compañía marítima\nLa entrada MSC está a dos unidades de contar con una flota compuest...",
@@ -1339,14 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-viajar-sin-gastar-mas-cinco-claves-para-planificarlo-y-cuidar-tu-presupuesto-1072492.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/carretera-recta-larga-mundo-todo-reto-mental-240-km-curvas-pleno-desierto-trafico-camiones-1",
-    "title": "La carretera recta más larga del mundo es todo un reto mental: 240 km sin curvas, en pleno desierto y con tráfico de camiones",
-    "snippet": "Imagina conducir durante más de dos horas sin girar el volante ni un solo grado. Sin curvas, sin pendientes apreciables, sin cambios en el horizonte. Esa es la realidad de la Highway 10 (Autopista 10) de Arabia Saudí, qu...",
-    "date": "2026-04-24T07:45:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/carretera-recta-larga-mundo-todo-reto-mental-240-km-curvas-pleno-desierto-trafico-camiones-1",
-    "category": "TRIBUTARIO"
   }
 ]
