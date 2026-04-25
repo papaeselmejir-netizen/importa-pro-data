@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-aspero-raymi-2026-ruth-shady-destaca-importancia-centro-astronomico-recien-descubierto-1072715.aspx",
+    "title": "Áspero Raymi 2026: Ruth Shady destaca importancia de centro astronómico recién descubierto",
+    "snippet": "La compleja estructura arquitectónica vinculada a la observación astronómica recién descubierta en el asentamiento arqueológico de Áspero, antigua ciudad pesquera de la Civilización Caral ubicada en Supe Puerto, provinci...",
+    "date": "2026-04-25T19:24:04",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-aspero-raymi-2026-ruth-shady-destaca-importancia-centro-astronomico-recien-descubierto-1072715.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=918769",
+    "title": "Trump fires the entire National Science Board",
+    "snippet": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already b...",
+    "date": "2026-04-25T19:20:15",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432289",
+    "title": "Molslinjen devela fallas que generaron accidente en Puerto de Nordby",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera danesa Molslinjen concluyó la investigación técnica tras el incidente registrado el 9 de febrero\nLa entrada Molslinjen devela fallas que generaron accidente en Pu...",
+    "date": "2026-04-25T19:00:51",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/molslinjen-devela-fallas-que-generaron-accidente-en-puerto-de-nordby/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/ecologia-y-naturaleza/que-tienen-comun-tenerife-piramides-guiza-unas-burbujas-invisibles-plasma-que-pueden-dejarte-gps",
     "title": "Qué tienen en común Tenerife y las pirámides de Guiza: unas burbujas invisibles de plasma que pueden dejarte sin GPS",
     "snippet": "La Tierra está envuelta por la ionosfera, una capa de gas ionizado que actúa como frontera dinámica entre la atmósfera y el espacio exterior. Esa región tiene varias funciones clave para la humanidad que van desde proteg...",
@@ -1321,32 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/rusia-tiene-enemigo-inedito-guerra-ucrania-japon-acaba-aterrizar-arma-para-tumbar-sus-shaheds",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=420673",
-    "title": "España: Grupo Arola celebra inauguración de centro logístico fronterizo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Grupo Arola celebró la inauguración oficial de su nuevo centro logístico Arola &#38; Hitsein-Hub Logis Empordà,\nLa entrada España: Grupo Arola celebra inauguración de centro...",
-    "date": "2026-04-24T05:00:47",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/espana-grupo-arola-celebra-inauguracion-de-centro-logistico-fronterizo/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sarampion-minsa-refuerza-vacunacion-contra-enfermedad-y-busca-cierre-brechas-1072502.aspx",
-    "title": "Sarampión: Minsa refuerza vacunación contra la enfermedad y busca cierre de brechas",
-    "snippet": "El Ministerio de Salud (Minsa), a través de la Dirección de Redes Integradas de Salud (Diris) Lima Sur, ha desplegado jornadas de inmunización en puntos estratégicos con el objetivo de contener la propagación del sarampi...",
-    "date": "2026-04-24T04:11:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sarampion-minsa-refuerza-vacunacion-contra-enfermedad-y-busca-cierre-brechas-1072502.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=431944",
-    "title": "Realizan instalación ambiental pionera en Puerto de Las Palmas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Dos buques de Ponant están recibiendo una intervención importante en Astican, en el Puerto de Las\nLa entrada Realizan instalación ambiental pionera en Puerto de Las Palmas s...",
-    "date": "2026-04-24T03:00:04",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/realizan-instalacion-ambiental-pionera-en-puerto-de-las-palmas/",
-    "category": "LOGÍSTICA"
   }
 ]
