@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cq57vxjvdy4o#0",
+    "title": "How climate change threatens the economic backbone of the Pacific",
+    "snippet": "Tuna populations around the Pacific Islands could move away as ocean temperatures increase....",
+    "date": "2026-04-26T23:16:41",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "655e8e48-90d9-48ba-80a2-6596c8aa43dc",
+    "title": "Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge",
+    "snippet": "It's hard to resist the appeal of these slim phones. Here's how they compare....",
+    "date": "2026-04-26T22:00:43",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-madre-dios-comunidad-nativa-produce-mas-castana-manejo-sostenible-del-bosque-1072800.aspx",
     "title": "Madre de Dios: comunidad nativa produce más castaña con manejo sostenible del bosque",
     "snippet": "El trabajo articulado entre el Ministerio del Ambiente (Minam) y las comunidades nativas continúa generando resultados concretos en la conservación de los bosques amazónicos, mediante incentivos económicos y asistencia t...",
@@ -1330,23 +1348,5 @@
     "source": "BBC BIZ",
     "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-culminan-trabajos-recuperacion-sector-de-muralla-sur-kuelap-afectado-2022-1072605.aspx",
-    "title": "Culminan trabajos de recuperación de sector de la muralla sur de Kuélap afectado en 2022",
-    "snippet": "Culminaron los trabajos de recuperación del sector de la muralla sur de la llaqta del Monumento Arqueológico de Kuélap, ubicado en la región Amazonas, afectado por el colapso ocurrido en abril de 2022 a consecuencia de l...",
-    "date": "2026-04-24T21:02:02",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-culminan-trabajos-recuperacion-sector-de-muralla-sur-kuelap-afectado-2022-1072605.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432295",
-    "title": "Puerto de Houston supera un millón de TEU manejados en el primer trimestre de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Houston superó el millón de TEU en el primer trimestre de 2026, alcanzando\nLa entrada Puerto de Houston supera un millón de TEU manejados en el primer trimestre...",
-    "date": "2026-04-24T21:00:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-houston-supera-un-millon-de-teu-manejados-en-el-primer-trimestre-de-2026/",
-    "category": "LOGÍSTICA"
   }
 ]
