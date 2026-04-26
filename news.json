@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-jicamarca-atu-interna-a-combi-involucrada-accidente-dejo-un-muerto-y-21-heridos-1072765.aspx",
+    "title": "Jicamarca: ATU interna a combi involucrada en accidente que dejó un muerto y 21 heridos",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) internó este fin de semana en uno de sus depósitos a la combi de placa D8D -142, unidad que estuvo involucrada en un accidente de tránsito ocurrido el martes 21 ...",
+    "date": "2026-04-26T18:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-jicamarca-atu-interna-a-combi-involucrada-accidente-dejo-un-muerto-y-21-heridos-1072765.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-presentan-12-nuevos-estudios-sobre-america-latina-china-y-transicion-energetica-1072780.aspx",
+    "title": "Presentan 12 nuevos estudios sobre América Latina, China y la transición energética",
+    "snippet": "A medida que las potencias globales compiten por el control de los minerales necesarios para las tecnologías de energía limpia, América Latina se encuentra en el centro de la carrera hacia una transición global....",
+    "date": "2026-04-26T18:17:45",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presentan-12-nuevos-estudios-sobre-america-latina-china-y-transicion-energetica-1072780.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/petra-no-solo-era-bella-ciudad-tallada-roca-tambien-tenia-sofisticado-sistema-hidrico-pleno-desierto-jordania",
+    "title": "Petra no solo era una bella ciudad tallada en roca: también tenía un sofisticado sistema hídrico en pleno desierto de Jordania",
+    "snippet": "Pocos monumentos hay más conocidos en toda la faz de la Tierra que Petra, la capital del Reino Nabateo en el sur del actual Jordán. Esa majestuosa fachada esculpida en roca es patrimonio de la humanidad. Sin embargo, hay...",
+    "date": "2026-04-26T18:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/petra-no-solo-era-bella-ciudad-tallada-roca-tambien-tenia-sofisticado-sistema-hidrico-pleno-desierto-jordania",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-homenaje-a-mario-vargas-llosa-lleno-emocion-fil-buenos-aires-cronica-1072777.aspx",
+    "title": "Homenaje a Mario Vargas Llosa llenó de emoción la FIL de Buenos Aires (crónica)",
+    "snippet": "Buenos Aires, Argentina.- Hubo silencios que pesaron más que las palabras; pausas que parecían contener toda una vida. Y también hubo risas, esas que nacen cuando la memoria se encuentra con la ironía. Así se vivió anoch...",
+    "date": "2026-04-26T17:48:31",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-homenaje-a-mario-vargas-llosa-lleno-emocion-fil-buenos-aires-cronica-1072777.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/mexico-toca-cielo-nuevo-elegante-rascacielos-484-metros-99-plantas-sera-alto-todo-america-latina",
     "title": "México toca el cielo con un nuevo y elegante rascacielos de 484 metros y 99 plantas. Será el más alto de todo América Latina",
     "snippet": "Desde hace décadas, parecía que lo de \"el límite es el cielo\" aplicado a la arquitectura era una máxima a la que solo llegaba Asia y Oriente Medio. De hecho, en los últimos tiempos el mundo ha asistido a una frenética ca...",
@@ -24,6 +60,15 @@
     "date": "2026-04-26T17:01:27",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-incendio-proporciones-destruyo-cerca-25-viviendas-ciudad-chancay-1072770.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-incendio-proporciones-destruyo-cerca-25-viviendas-ciudad-chancay-video-1072770.aspx",
+    "title": "Incendio de proporciones destruyó cerca de 25 viviendas en ciudad de Chancay [video]",
+    "snippet": "Un incendio de proporciones, código 2, destruyó durante esta mañana cerca de 25 viviendas en la asociación Asovisem, ubicada a escasas dos cuadras de la comisaría y la plaza de armas de Chancay, en la provincia de Huaral...",
+    "date": "2026-04-26T17:01:27",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-incendio-proporciones-destruyo-cerca-25-viviendas-ciudad-chancay-video-1072770.aspx",
     "category": "LOGÍSTICA"
   },
   {
@@ -1303,50 +1348,5 @@
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=918527",
-    "title": "Alex Jones has uncovered another massive conspiracy",
-    "snippet": "Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian ...",
-    "date": "2026-04-24T20:10:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432452",
-    "title": "Puerto Arica fortalece vínculos comerciales con Bolivia durante visita oficial de canciller chileno",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Empresa Portuaria Arica (EPA/Puerto Arica) fortaleció las relaciones comerciales con Bolivia, tras participar en reuniones\nLa entrada Puerto Arica fortalece vínculos come...",
-    "date": "2026-04-24T19:46:26",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-arica-fortalece-vinculos-comerciales-con-bolivia-durante-visita-oficial-de-canciller-chileno/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-hallazgo-aspero-descubren-milenaria-estructura-vinculada-a-observacion-astronomica-1071959.aspx",
-    "title": "Hallazgo en Áspero: descubren milenaria estructura vinculada a la observación astronómica",
-    "snippet": "Investigadores de la Zona Arqueológica Caral, encabezados por Ruth Shady Solís, descubrieron una compleja estructura arquitectónica vinculada a la observación astronómica en el asentamiento arqueológico de Áspero, antigu...",
-    "date": "2026-04-24T19:45:33",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-hallazgo-aspero-descubren-milenaria-estructura-vinculada-a-observacion-astronomica-1071959.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/desarrollador-se-fue-a-dormir-alerta-10-dolares-google-cloud-desperto-factura-18-000",
-    "title": "Un desarrollador se fue a dormir con una alerta de 10 dólares en Google Cloud: despertó con una factura de más de 18.000",
-    "snippet": "La nube tiene algo de invisible hasta que llega la factura. Levantamos una aplicación, probamos una API, dejamos un presupuesto configurado y seguimos con nuestra vida pensando que el sistema avisará si algo se sale de l...",
-    "date": "2026-04-24T19:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/desarrollador-se-fue-a-dormir-alerta-10-dolares-google-cloud-desperto-factura-18-000",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/china-ha-prohibido-a-otra-startup-ia-exportar-talento-e-investigacion-estado-esta-nacionalizando-su-ia",
-    "title": "China ha prohibido a otra startup de IA exportar talento e investigación: poco a poco, está \"nacionalizando\" la IA",
-    "snippet": "El caso de Manus parece que ha plantado una semilla en cómo China va a gestionar su talento de IA. Y es que Pekín le ha dado otro toque de atención a otra empresa de inteligencia artificial, MiroMind, para que no mueva n...",
-    "date": "2026-04-24T19:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/china-ha-prohibido-a-otra-startup-ia-exportar-talento-e-investigacion-estado-esta-nacionalizando-su-ia",
-    "category": "TRIBUTARIO"
   }
 ]
