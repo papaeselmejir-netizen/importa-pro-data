@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-madre-dios-comunidad-nativa-produce-mas-castana-manejo-sostenible-del-bosque-1072800.aspx",
+    "title": "Madre de Dios: comunidad nativa produce más castaña con manejo sostenible del bosque",
+    "snippet": "El trabajo articulado entre el Ministerio del Ambiente (Minam) y las comunidades nativas continúa generando resultados concretos en la conservación de los bosques amazónicos, mediante incentivos económicos y asistencia t...",
+    "date": "2026-04-26T22:00:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-madre-dios-comunidad-nativa-produce-mas-castana-manejo-sostenible-del-bosque-1072800.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3116505",
     "title": "Amazon’s new podcast strategy: Monetize everything",
     "snippet": "Amazon's podcasting business seems to have transformed over the past six months....",
@@ -209,6 +218,15 @@
   {
     "id": "https://www.xataka.com/magnet/san-agustin-tenia-razon-pregunta-importante-para-entender-a-alguien-no-que-cree-que-espera-pregunta-que-ama",
     "title": "Qué quería decir exactamente San Agustín con eso de \"Ama y haz lo que quieras\"",
+    "snippet": "\"Para saber si alguien es bueno, no preguntamos qué cree o espera, sino qué ama\". Uno lee esta frase y es casi inevitablemente pensar que se trata de la típica mercancía escacharrada de autoayuda que llena feeds, tazas y...",
+    "date": "2026-04-26T15:01:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/san-agustin-tenia-razon-pregunta-importante-para-entender-a-alguien-no-que-cree-que-espera-pregunta-que-ama",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/san-agustin-tenia-razon-pregunta-importante-para-entender-a-alguien-no-que-cree-que-espera-pregunta-que-ama",
+    "title": "Qué quería decir San Agustín cuando dijo que \"para saber si alguien es bueno, no preguntemos qué cree o qué espera, sino qué ama\"",
     "snippet": "\"Para saber si alguien es bueno, no preguntamos qué cree o espera, sino qué ama\". Uno lee esta frase y es casi inevitablemente pensar que se trata de la típica mercancía escacharrada de autoayuda que llena feeds, tazas y...",
     "date": "2026-04-26T15:01:49",
     "source": "XATAKA",
@@ -1329,24 +1347,6 @@
     "date": "2026-04-24T21:00:36",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-de-houston-supera-un-millon-de-teu-manejados-en-el-primer-trimestre-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432480",
-    "title": "Irán condena ante Naciones Unidas incautación de buque comercial por parte de Estados Unidos",
-    "snippet": "Por Redacción PortalPortuario/Agencia Anadolu @PortalPortuario La misión de Irán ante las Naciones Unidas condenó la incautación informada de un buque\nLa entrada Irán condena ante Naciones Unidas incautación de buque com...",
-    "date": "2026-04-24T20:51:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/iran-condena-ante-naciones-unidas-incautacion-de-buque-comercial-por-parte-de-estados-unidos/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432477",
-    "title": "Armada brasileña aprueba plan para retirar buque histórico que zozobró en Puerto de Santos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El 8.º Distrito Naval de la Armada brasileña aprobó el plan de remoción del histórico buque\nLa entrada Armada brasileña aprueba plan para retirar buque histórico que zozobró...",
-    "date": "2026-04-24T20:46:29",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/armada-brasilena-aprueba-plan-para-retirar-buque-historico-que-zozobro-en-puerto-de-santos/",
     "category": "LOGÍSTICA"
   }
 ]
