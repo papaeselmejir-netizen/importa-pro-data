@@ -1,5 +1,212 @@
 [
   {
+    "id": "https://www.theverge.com/?p=918962",
+    "title": "Amazon snaps up Oprah Winfrey’s podcast",
+    "snippet": "Oprah Winfrey's video podcast, Book Club, and Favorite Things are headed to Amazon, according to reports from The New York Times and Variety. Starting in July, The Oprah Podcast will get new episodes twice per week, inst...",
+    "date": "2026-04-27T13:33:18",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-madre-dios-comunidad-nativa-incrementa-produccion-sostenible-castana-1072830.aspx",
+    "title": "Madre de Dios: comunidad nativa incrementa la producción sostenible de castaña",
+    "snippet": "La comunidad nativa Puerto Nuevo, ubicada en la región Madre de Dios, ha incrementado su producción de castaña gracias al manejo sostenible del bosque donde recolectan el cotizado producto con el apoyo del Programa Nacio...",
+    "date": "2026-04-27T13:33:05",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-madre-dios-comunidad-nativa-incrementa-produccion-sostenible-castana-1072830.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/aqui-acaban-moviles-que-mediamarkt-expone-sus-tiendas-outlet-descuentos-40",
+    "title": "Aquí acaban los móviles que MediaMarkt expone en sus tiendas: un outlet con descuentos de hasta el 40%",
+    "snippet": "Si estás pensando en renovar tu móvil y no quieres pagar de más, quizá te interese un móvil de los que MediaMarkt expone en sus tiendas. Pero, ¿dónde acaban realmente esos móviles y cómo se pueden comprar? En eBay, Media...",
+    "date": "2026-04-27T13:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/aqui-acaban-moviles-que-mediamarkt-expone-sus-tiendas-outlet-descuentos-40",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-es-un-hub-del-comercio-internacional-entrevista-1072804.aspx",
+    "title": "“Perú es un hub del comercio internacional” [Entrevista]",
+    "snippet": "El secretario general de la Organización Mundial de Aduanas (OMA), Ian Saunders, considera que son necesarios una asociación y un diálogo constante entre las administraciones aduaneras y los actores privados para un mejo...",
+    "date": "2026-04-27T13:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-es-un-hub-del-comercio-internacional-entrevista-1072804.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3116540",
+    "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+    "snippet": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents....",
+    "date": "2026-04-27T13:16:55",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/atun-caro-mundo-se-acaba-pescar-murcia-furtivo-dos-ejemplares-200-kilos-multa-estratosferica-guardia-civil",
+    "title": "El atún más \"caro\" del mundo se acaba de pescar en Murcia: un furtivo, dos ejemplares de 200 kilos y una multa estratosférica de la Guardia Civil",
+    "snippet": "El 20 de abril, la Guardia Civil detuvo a un pescador profesional en el puerto de Águilas (Murcia) con dos atunes rojos recién pescados. Cada pieza pesaba unos y el tipo no tenía autorización específica, no había comunic...",
+    "date": "2026-04-27T13:15:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/atun-caro-mundo-se-acaba-pescar-murcia-furtivo-dos-ejemplares-200-kilos-multa-estratosferica-guardia-civil",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-usa-esta-plataforma-de-nasa-y-crea-tu-nombre-imagenes-satelitales-de-tierra-1072822.aspx",
+    "title": "Usa esta plataforma de la NASA y crea tu nombre con imágenes satelitales de la Tierra",
+    "snippet": "El proyecto Your Name in Landsat de la NASA se ha convertido en una innovadora herramienta interactiva que permite a los usuarios escribir su nombre utilizando formaciones reales de la Tierra captadas por satélites. Esta...",
+    "date": "2026-04-27T13:15:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-usa-esta-plataforma-de-nasa-y-crea-tu-nombre-imagenes-satelitales-de-tierra-1072822.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/cada-vez-turistas-extranjeros-se-resisten-a-viajar-a-eeuu-eso-amenaza-tiene-gran-beneficiada-china",
+    "title": "Parecía difícil que China compitiera con EEUU como potencia turística global. Y sin embargo está sucediendo",
+    "snippet": "Aunque los ánimos se han enfriado tras la guerra de Irán y las dudas sobre qué impacto tendrá en el sector, en general el turismo internacional está viviendo sus 'locos años 20'. Las familias han salido del parón pandémi...",
+    "date": "2026-04-27T13:01:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/cada-vez-turistas-extranjeros-se-resisten-a-viajar-a-eeuu-eso-amenaza-tiene-gran-beneficiada-china",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-piura-inspeccionan-28000-casas-para-evitar-reproduccion-zancudo-transmisor-del-dengue-1072825.aspx",
+    "title": "Piura: inspeccionan 28,000 casas para evitar reproducción de zancudo transmisor del dengue",
+    "snippet": "Un total de 28,000 viviendas pertenecientes a los asentamientos humanos Señor de los Milagros, Susana Higuchi, Javier Heraud, José María Arguedas y San Pedro de la ciudad de Piura fueron inspeccionados por brigadistas de...",
+    "date": "2026-04-27T12:59:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-piura-inspeccionan-28000-casas-para-evitar-reproduccion-zancudo-transmisor-del-dengue-1072825.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-apertura-asi-va-tabla-tras-triunfo-alianza-lima-y-caida-universitario-casa-1072821.aspx",
+    "title": "Apertura: Así va la tabla tras el triunfo de Alianza Lima y caída de Universitario en casa",
+    "snippet": "La fecha 12 del Torneo Apertura culmina este lunes, pero hubo movimiento en la parte alta de la tabla de posiciones porque Alianza Lima volvió a la punta al ganar en Trujillo; Universitario y Cristal perdieron el paso de...",
+    "date": "2026-04-27T12:40:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-apertura-asi-va-tabla-tras-triunfo-alianza-lima-y-caida-universitario-casa-1072821.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/malas-noticias-para-asml-tsmc-momento-no-va-a-usar-sus-maquinas-high-na-tiene-razon-peso-para-no-hacerlo",
+    "title": "Malas noticias para ASML: TSMC de momento no va a usar sus máquinas High-NA y tiene una razón de peso para no hacerlo",
+    "snippet": "El pasado 23 de abril TSMC oficializó una decisión estratégica muy importante: ha aplazado la adopción de las máquinas de litografía de ultravioleta extremo (UVE) y alta apertura de ASML hasta 2029. Estos son los equipos...",
+    "date": "2026-04-27T12:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/malas-noticias-para-asml-tsmc-momento-no-va-a-usar-sus-maquinas-high-na-tiene-razon-peso-para-no-hacerlo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj0v0gr2yz7o#0",
+    "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+    "snippet": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner....",
+    "date": "2026-04-27T12:21:42",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-proyecta-un-mejor-desempeno-de-economia-los-proximos-anos-1072791.aspx",
+    "title": "MEF proyecta un mejor desempeño de la economía en los próximos años",
+    "snippet": "El viceministro de Economía, Eloy Durán, destacó que el crecimiento alcanzado por la producción nacional en los últimos años se basa en diversos factores cuyo potencial de crecimiento se mantiene....",
+    "date": "2026-04-27T12:16:40",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-proyecta-un-mejor-desempeno-de-economia-los-proximos-anos-1072791.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/basics/claude-design-que-como-funciona-herramienta-diseno-grafico-claude",
+    "title": "Claude Design: qué es y cómo funciona la herramienta de diseño gráfico de Claude",
+    "snippet": "Vamos a explicarte qué es Claude Design, una nueva función dentro del chat de inteligencia artificial de Claude. Se trata de una herramienta de diseño gráfico con la que vas a poder crear todo tipo de elementos interacti...",
+    "date": "2026-04-27T12:11:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/claude-design-que-como-funciona-herramienta-diseno-grafico-claude",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "c874605a-798a-401b-a528-09d3e6b66bdf",
+    "title": "iPhone Fold: Every Leak and Rumor on Apple's 2026 Foldable",
+    "snippet": "Apple's first foldable may launch in 2026. Rumors point to a $2,000-plus price, a September release and a possible new name: the iPhone Ultra....",
+    "date": "2026-04-27T12:07:24",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-fold-launch-date-price-and-everything-we-know/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/ucrania-acaba-reinventar-combate-aereo-pieza-era-sovietica-avion-que-no-dispara-misiles-dispara-drones",
+    "title": "Ucrania acaba de reinventar el combate aéreo con una pieza de la era soviética: un avión que dispara drones",
+    "snippet": "Durante la Guerra de Afganistán, las fuerzas soviéticas recurrieron en más de una ocasión a adaptar helicópteros y aviones de transporte para funciones improvisadas en combate, desde apoyo cercano hasta plataformas de vi...",
+    "date": "2026-04-27T12:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ucrania-acaba-reinventar-combate-aereo-pieza-era-sovietica-avion-que-no-dispara-misiles-dispara-drones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=918165",
+    "title": "Govee’s multicolor ceiling light doubles as a low-res screen",
+    "snippet": "The smart lighting company is having a busy month. After releasing its first solar-powered lights, a cordless table lamp, and an updated LED light wall over the past few weeks, Govee has announced a new multicolor ceilin...",
+    "date": "2026-04-27T12:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=918951",
+    "title": "Is this Samsung’s upcoming wide foldable?",
+    "snippet": "The wide foldable phone that Samsung is reportedly developing is expected to arrive later this year, and now we may have some idea of what it will look like. Leaker and journalist Sonny Dickson has shared images online o...",
+    "date": "2026-04-27T11:52:18",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-villa-salvador-volcadura-camion-causa-congestion-vehicular-la-panamericana-sur-1072818.aspx",
+    "title": "Villa El Salvador: volcadura de camión causa congestión vehicular en la Panamericana Sur",
+    "snippet": "Una intensa congestión vehicular se registra en el kilómetro 16 de la Panamericana Sur, en el distrito de Villa El Salvador, a causa de la volcadura de un camión frigorífico que transportaba jabas de pota, obligando a ce...",
+    "date": "2026-04-27T11:45:11",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-villa-salvador-volcadura-camion-causa-congestion-vehicular-la-panamericana-sur-1072818.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/c-3po-tenia-ereccion-1977-se-vio-miles-cromos-que-padres-se-dieron-cuenta",
+    "title": "C-3PO tenía una erección en 1977 y se vio en miles de cromos. Hasta que los padres se dieron cuenta",
+    "snippet": "Como es de sobra sabido, 'Star Wars' fue revolucionaria en 1977 a muchos iveles, pero en ningún aspecto lo fue tanto como en el merchandising. La historia de las figuras de acción y de cómo Kenner venció a Mattel quedánd...",
+    "date": "2026-04-27T11:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/c-3po-tenia-ereccion-1977-se-vio-miles-cromos-que-padres-se-dieron-cuenta",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1685969",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 27 de abril del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy lunes 27 de abril es de  S/3.49 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-04-27T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-27-de-abril-del-2026-noticia-1685969",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/xataka-xtra/nuevo-sorteo-exclusivo-para-suscriptores-xataka-xtra-asi-puedes-conseguir-plaud-note-pro",
+    "title": "Nuevo sorteo exclusivo para suscriptores de Xataka Xtra: así puedes conseguir un Plaud Note Pro",
+    "snippet": "Los lunes son menos lunes si eres miembro de Xataka Xtra y puedes participar en otro sorteo exclusivo. Y es que sí, xatakeros, tras sortear un televisor, dos móviles y un pack de baño de Lush y Super Mario Galaxy hoy tra...",
+    "date": "2026-04-27T11:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/xataka-xtra/nuevo-sorteo-exclusivo-para-suscriptores-xataka-xtra-asi-puedes-conseguir-plaud-note-pro",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/google-invertira-40-000-millones-dolares-anthropic-porque-nueva-normalidad-ia-invertir-tu-enemigo",
+    "title": "Google invertirá hasta 40.000 millones de dólares en Anthropic porque la nueva normalidad de la IA es invertir en tu enemigo",
+    "snippet": "Que el ritmo no pare. Amazon anunciaba una inversión de 25.000 millones en Anthropic hace una semana, y cuatro días después era Google iba aún más allá. La empresa de Mountain View hablaba el viernes de una inversión de ...",
+    "date": "2026-04-27T11:01:51",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/google-invertira-40-000-millones-dolares-anthropic-porque-nueva-normalidad-ia-invertir-tu-enemigo",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/ecologia-y-naturaleza/aemet-esta-observando-fenomeno-extrano-tenemos-tormentas-verano-pleno-mes-abril",
     "title": "AEMET está observando un fenómeno extraño: tenemos \"tormentas de verano\" en pleno mes de abril",
     "snippet": "La buena noticia es que AEMET nos ha asegurado mañanas tranquilas y apacibles. Las mala noticia es que AEMET nos ha asegurado tardes con nubes de evolución que descargan chubascos localmente fuertes, con tormenta, graniz...",
@@ -11,6 +218,15 @@
   {
     "id": "https://www.xataka.com/medicina-y-salud/muerte-subita-se-ha-disparado-30-europa-espana-problema-grave-silencioso",
     "title": "La muerte súbita se ha disparado un 30% en Europa. En España el problema es aún más grave y silencioso",
+    "snippet": "Llega sin avisar, de forma inesperada y en la mayoría de las ocasiones con un origen cardíaco fulminante que deja a los pacientes en el suelo en unos segundos y sin capacidad de respuesta. Estas son algunas de las caract...",
+    "date": "2026-04-27T09:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/muerte-subita-se-ha-disparado-30-europa-espana-problema-grave-silencioso",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/muerte-subita-se-ha-disparado-30-europa-espana-problema-grave-silencioso",
+    "title": "Cada vez más personas mueren por un ataque al corazón repentino en España: la pandemia de la muerte súbita",
     "snippet": "Llega sin avisar, de forma inesperada y en la mayoría de las ocasiones con un origen cardíaco fulminante que deja a los pacientes en el suelo en unos segundos y sin capacidad de respuesta. Estas son algunas de las caract...",
     "date": "2026-04-27T09:01:52",
     "source": "XATAKA",
@@ -36,8 +252,26 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/magnet/ahora-sabemos-que-fuerza-aerea-irani-le-hizo-a-eeuu-que-ucrania-no-pudo-hacerle-a-rusia-drones-agujero-abismal",
+    "title": "EEUU creía tener un \"escudo\" con sus bases en Oriente Medio. Irán las ha convertido en una enorme vulnerabilidad",
+    "snippet": "Durante la Guerra de Vietnam, los mandos estadounidenses descubrieron que algunas de sus bases más protegidas podían ser golpeadas de forma inesperada por ataques coordinados de bajo coste, obligando a reforzar defensas ...",
+    "date": "2026-04-27T08:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ahora-sabemos-que-fuerza-aerea-irani-le-hizo-a-eeuu-que-ucrania-no-pudo-hacerle-a-rusia-drones-agujero-abismal",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/energia/europa-necesita-coltan-desesperadamente-para-sus-chips-solucion-esta-pueblo-ourense-depende-solo-tramite",
     "title": "Europa necesita coltán desesperadamente para sus chips. La solución está en un pueblo de Ourense y depende de un solo trámite",
+    "snippet": "Galicia esconde bajo su suelo un tesoro tecnológico indispensable para el siglo XXI, y la maquinaria para desenterrarlo ya se ha puesto en marcha. Hablamos de la mina de Penouta, ubicada en la localidad ourensana de Vian...",
+    "date": "2026-04-27T08:01:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/europa-necesita-coltan-desesperadamente-para-sus-chips-solucion-esta-pueblo-ourense-depende-solo-tramite",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/energia/europa-necesita-coltan-desesperadamente-para-sus-chips-solucion-esta-pueblo-ourense-depende-solo-tramite",
+    "title": "Europa necesita coltán para fabricar sus chips y lo ha encontrado en un lugar inesperado: un pueblo de Ourense",
     "snippet": "Galicia esconde bajo su suelo un tesoro tecnológico indispensable para el siglo XXI, y la maquinaria para desenterrarlo ya se ha puesto en marcha. Hablamos de la mina de Penouta, ubicada en la localidad ourensana de Vian...",
     "date": "2026-04-27T08:01:53",
     "source": "XATAKA",
@@ -56,6 +290,15 @@
   {
     "id": "https://www.xataka.com/robotica-e-ia/ia-entra-era-cpu-para-sorpresa-nadie-mala-noticia-para-consumidor",
     "title": "Intel no puede permitirse tener a los centros de datos esperando, así que va a dejar de hacer tantos chips para los usuarios",
+    "snippet": "La actualidad de los centros de datos está redefiniendo las líneas de producción de los principales actores tecnológicos. Lo que parecía una crisis puntual en el precio de la RAM y los SSD, ha terminado convirtiéndose en...",
+    "date": "2026-04-27T07:34:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/ia-entra-era-cpu-para-sorpresa-nadie-mala-noticia-para-consumidor",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/ia-entra-era-cpu-para-sorpresa-nadie-mala-noticia-para-consumidor",
+    "title": "La relación de CPU y GPU en los centros de datos se está acercando a 1:1. Intel sabe perfectamente lo que eso significa",
     "snippet": "La actualidad de los centros de datos está redefiniendo las líneas de producción de los principales actores tecnológicos. Lo que parecía una crisis puntual en el precio de la RAM y los SSD, ha terminado convirtiéndose en...",
     "date": "2026-04-27T07:34:49",
     "source": "XATAKA",
@@ -225,6 +468,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/magnet/petra-no-solo-era-bella-ciudad-tallada-roca-tambien-tenia-sofisticado-sistema-hidrico-pleno-desierto-jordania",
+    "title": "Lo que vemos en Petra es una ciudad \"tallada en piedra\": lo que realmente esconde es un alucinante sistema hídrico",
+    "snippet": "Pocos monumentos hay más conocidos en toda la faz de la Tierra que Petra, la capital del Reino Nabateo en el sur del actual Jordán. Esa majestuosa fachada esculpida en roca es patrimonio de la humanidad. Sin embargo, hay...",
+    "date": "2026-04-26T18:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/petra-no-solo-era-bella-ciudad-tallada-roca-tambien-tenia-sofisticado-sistema-hidrico-pleno-desierto-jordania",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-homenaje-a-mario-vargas-llosa-lleno-emocion-fil-buenos-aires-cronica-1072777.aspx",
     "title": "Homenaje a Mario Vargas Llosa llenó de emoción la FIL de Buenos Aires (crónica)",
     "snippet": "Buenos Aires, Argentina.- Hubo silencios que pesaron más que las palabras; pausas que parecían contener toda una vida. Y también hubo risas, esas que nacen cuando la memoria se encuentra con la ironía. Así se vivió anoch...",
@@ -243,8 +495,26 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/mexico-toca-cielo-nuevo-elegante-rascacielos-484-metros-99-plantas-sera-alto-todo-america-latina",
+    "title": "México toca el cielo con un nuevo y elegante rascacielos de 484 metros y 99 plantas: será el más alto de todo América Latina",
+    "snippet": "Desde hace décadas, parecía que lo de \"el límite es el cielo\" aplicado a la arquitectura era una máxima a la que solo llegaba Asia y Oriente Medio. De hecho, en los últimos tiempos el mundo ha asistido a una frenética ca...",
+    "date": "2026-04-26T17:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/mexico-toca-cielo-nuevo-elegante-rascacielos-484-metros-99-plantas-sera-alto-todo-america-latina",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/cine-y-tv/sylvester-stallone-frase-que-convirtio-escena-peligrosa-su-carrera-golpeame-verdad",
     "title": "Sylvester Stallone y la frase que convirtió una escena en la más peligrosa de su carrera: “Golpéame de verdad”",
+    "snippet": "Durante años, en el cine de acción hubo una especie de regla no escrita: cuanto más real parecía una escena, mejor funcionaba en pantalla, aunque eso implicara asumir riesgos fuera de lo habitual. Ese límite se puso a pr...",
+    "date": "2026-04-26T17:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/sylvester-stallone-frase-que-convirtio-escena-peligrosa-su-carrera-golpeame-verdad",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/sylvester-stallone-frase-que-convirtio-escena-peligrosa-su-carrera-golpeame-verdad",
+    "title": "\"Golpéame de verdad\": la historia detrás de Sylvester Stallone y una de las escenas más peligrosas de la historia dle cine",
     "snippet": "Durante años, en el cine de acción hubo una especie de regla no escrita: cuanto más real parecía una escena, mejor funcionaba en pantalla, aunque eso implicara asumir riesgos fuera de lo habitual. Ese límite se puso a pr...",
     "date": "2026-04-26T17:01:52",
     "source": "XATAKA",
@@ -1077,276 +1347,6 @@
     "date": "2026-04-25T14:01:52",
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/nasa-acaba-lanzar-guante-a-empresas-lista-deseos-todo-que-necesita-para-montar-base-luna",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/nasa-acaba-lanzar-guante-a-empresas-lista-deseos-todo-que-necesita-para-montar-base-luna",
-    "title": "La 'lista de la compra' de la NASA para vivir en la Luna: esto es todo lo que necesita (y no tiene) para su base",
-    "snippet": "Cuando la NASA todavía no sabía cómo iba a ir el periplo de Orión en el marco de la misión Artemis II (partió el 1 de abril y retornó con éxito diez días después), la agencia espacial norteamericana presentaba su proyect...",
-    "date": "2026-04-25T14:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/nasa-acaba-lanzar-guante-a-empresas-lista-deseos-todo-que-necesita-para-montar-base-luna",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432360",
-    "title": "Puerto de Klaipeda recibe certificado de finalización de obra para producción de hidrógeno verde",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Klaipeda alcanzó la fase final de su proyecto de planta de hidrógeno verde,\nLa entrada Puerto de Klaipeda recibe certificado de finalización de obra para produc...",
-    "date": "2026-04-25T14:00:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-klaipeda-recibe-certificado-de-finalizacion-de-obra-para-produccion-de-hidrogeno-verde/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hemos-encontrado-al-verdadero-kraken-midio-19-metros-reino-mares-hace-100-millones-anos",
-    "title": "Hemos encontrado al verdadero kraken. Midió 19 metros y reinó en los mares hace 100 millones de años",
-    "snippet": "El kraken ha estado durante décadas en el ideario de los mitos y se imaginaba como un monstruo marino gigantesco capaz de arrastrar a los barcos a las profundidades con uno de sus tentáculos. Pero la verdad es que era al...",
-    "date": "2026-04-25T13:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hemos-encontrado-al-verdadero-kraken-midio-19-metros-reino-mares-hace-100-millones-anos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/problema-aerogeneradores-xxl-no-viento-donde-guardarlos-odisea-asturias-para-liderar-eolica-marina",
-    "title": "El problema de los aerogeneradores XXL no es el viento, es dónde guardarlos: la odisea de Asturias para liderar la eólica marina",
-    "snippet": "Durante mucho tiempo se ha pensado que el mayor desafío de la energía eólica offshore (marina) estaba en alta mar. Sin embargo, el verdadero reto no es domar el viento o las olas, sino fabricar, almacenar y mover gigante...",
-    "date": "2026-04-25T13:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/problema-aerogeneradores-xxl-no-viento-donde-guardarlos-odisea-asturias-para-liderar-eolica-marina",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432411",
-    "title": "PIL y ABS impulsarán la descarbonización marítima con verificación de emisiones de combustibles alternativos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Pacific International Lines (PIL) y ABS han anunciado una colaboración formal mediante un Memorando de Entendimiento\nLa entrada PIL y ABS impulsarán la descarbonización marí...",
-    "date": "2026-04-25T13:00:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/pil-y-abs-impulsaran-la-descarbonizacion-maritima-con-verificacion-de-emisiones-de-combustibles-alternativos/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-sabado-25-abril-del-2026-1072657.aspx",
-    "title": "Estas son las normas legales más importantes del sábado 25 de abril del 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-04-25T12:55:25",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-sabado-25-abril-del-2026-1072657.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/viaje-al-centro-motor-chino-parte-3-descubriendo-red-ferrocarriles-grande-mundo-a-347-km-h",
-    "title": "Viaje al centro del motor chino (parte 3): descubriendo la red de ferrocarriles más grande del mundo a 347 km/h",
-    "snippet": "Amanece un nuevo día en Pekín. Tras una larga (y agotadora) jornada en el Salón del Automóvil, hoy ​tenemos por delante un largo viaje en tren. Hoy dejamos Pekín para dirigirnos a Wuhu, la ciudad en la que se encuentra l...",
-    "date": "2026-04-25T12:45:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/viaje-al-centro-motor-chino-parte-3-descubriendo-red-ferrocarriles-grande-mundo-a-347-km-h",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/95-trafico-intercontinental-internet-va-cables-submarinos-china-acaba-probar-que-puede-cortarlos-a-3-500-metros",
-    "title": "El 95% del tráfico intercontinental de internet va por cables submarinos. China acaba de probar que puede cortarlos a 3.500 metros",
-    "snippet": "El mundo está conectado a través del \"invisible\", casi omnipresente y en apariencia omnipotente internet. Pero resulta que el 95% del tráfico de datos corren por unos cables que aunque no estén a la vista, son bien tangi...",
-    "date": "2026-04-25T12:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/95-trafico-intercontinental-internet-va-cables-submarinos-china-acaba-probar-que-puede-cortarlos-a-3-500-metros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/95-trafico-intercontinental-internet-va-cables-submarinos-china-acaba-probar-que-puede-cortarlos-a-3-500-metros",
-    "title": "Internet cuelga de un hilo: China demuestra que es capaz de cortarlo incluso a 3.500 metros de profundidad",
-    "snippet": "El mundo está conectado a través del \"invisible\", casi omnipresente y en apariencia omnipotente internet. Pero resulta que el 95% del tráfico de datos corren por unos cables que aunque no estén a la vista, son bien tangi...",
-    "date": "2026-04-25T12:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/95-trafico-intercontinental-internet-va-cables-submarinos-china-acaba-probar-que-puede-cortarlos-a-3-500-metros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/dia-que-espana-monto-empresa-para-lograr-su-mayor-fantasia-imperial-convertir-china-parte-espana",
-    "title": "El día que España montó una empresa para lograr su mayor fantasía imperial: convertir China en parte de España",
-    "snippet": "Algunas de las mayores ambiciones históricas empezaron con ideas que, sobre el papel, parecían sorprendentemente simples. Durante la expansión europea en Asia, no era raro que informes y cartas describieran territorios l...",
-    "date": "2026-04-25T12:01:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/dia-que-espana-monto-empresa-para-lograr-su-mayor-fantasia-imperial-convertir-china-parte-espana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "f2a3f57c-c356-454a-8c3b-f998c9cbd724",
-    "title": "Galaxy Watch 9 and Ultra 2: Samsung's Double Smartwatch Debut Is Taking Shape",
-    "snippet": "New leaks point to a double debut at Samsung's next Unpacked event, and a major power gap that could set the two apart....",
-    "date": "2026-04-25T12:00:57",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "9b699b37-6369-468d-82fe-546c292c972b",
-    "title": "Motorola's Razr Is Days Away From Its iPhone Moment",
-    "snippet": "Commentary: After a year of tinkering with the 2025 Razr, Motorola's next lower-cost foldable could steal the show in 2026....",
-    "date": "2026-04-25T12:00:56",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/motorolas-razr-is-so-close-to-its-iphone-moment/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-investigador-usa-nuevas-tecnologias-para-modernizar-gestion-forestal-la-amazonia-1072655.aspx",
-    "title": "Investigador usa nuevas tecnologías para modernizar la gestión forestal en la Amazonía",
-    "snippet": "El uso de tecnologías de vanguardia como los sistemas LiDAR (Light Detection and Ranging) son una  herramienta clave para modernizar el manejo de bosques de nuestra Amazonía....",
-    "date": "2026-04-25T12:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-investigador-usa-nuevas-tecnologias-para-modernizar-gestion-forestal-la-amazonia-1072655.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=918695",
-    "title": "The most exciting laptop I’ve seen in forever",
-    "snippet": "Hi, friends! Welcome to Installer No. 125, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me cereal recommendations, and also you can read all the old editions at the Install...",
-    "date": "2026-04-25T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/estrecho-ormuz-conflictivo-imagina-estrecho-gibraltar-espana-ha-encontrado-frente-a-cadiz-134-naufragios",
-    "title": "Si el estrecho de Ormuz es conflictivo, imagina el de Gibraltar: España ha encontrado frente a Cádiz 134 naufragios",
-    "snippet": "A veces, los lugares más transitados esconden historias que solo salen a la luz siglos después. Durante décadas, pescadores del sur de España comentaban que sus redes se enganchaban en el fondo en puntos muy concretos, c...",
-    "date": "2026-04-25T11:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/estrecho-ormuz-conflictivo-imagina-estrecho-gibraltar-espana-ha-encontrado-frente-a-cadiz-134-naufragios",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/10-anos-pruebas-se-acabo-dar-buenos-dias-al-conductor-noruega-estrena-su-primer-autobus-supervision-a-bordo",
-    "title": "Tras 10 años de pruebas, se acabó dar el \"buenos días\" al conductor: Noruega estrena su primer autobús sin supervisión a bordo",
-    "snippet": "La movilidad está sufriendo una transformación brutal y no es solo por la electrificación: la automatización total está a la vuelta de la esquina. Lo hemos visto en pruebas, pero Noruega acaba de dar un paso adelante: es...",
-    "date": "2026-04-25T11:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/10-anos-pruebas-se-acabo-dar-buenos-dias-al-conductor-noruega-estrena-su-primer-autobus-supervision-a-bordo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/10-anos-pruebas-se-acabo-dar-buenos-dias-al-conductor-noruega-estrena-su-primer-autobus-supervision-a-bordo",
-    "title": "Se acabó saludar al chófer: Noruega pone en marcha el primer autobús donde no hay ni un solo humano al mando",
-    "snippet": "La movilidad está sufriendo una transformación brutal y no es solo por la electrificación: la automatización total está a la vuelta de la esquina. Lo hemos visto en pruebas, pero Noruega acaba de dar un paso adelante: es...",
-    "date": "2026-04-25T11:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/10-anos-pruebas-se-acabo-dar-buenos-dias-al-conductor-noruega-estrena-su-primer-autobus-supervision-a-bordo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=917340",
-    "title": "The US gets the worst phones",
-    "snippet": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, soft...",
-    "date": "2026-04-25T11:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/hace-casi-20-anos-islandia-dio-bolsa-magma-casualidad-encontraron-filon-energia-ilimitada",
-    "title": "Hace casi 20 años Islandia dio con una bolsa de magma por casualidad. Encontraron un filón de energía ilimitada",
-    "snippet": "La búsqueda de fuentes de energía alternativas a los clásicos combustibles fósiles ha llevado a los países a echar mano a los recursos que tienen disponibles al alcance de su mano: (no es lo único pero) España tiene sol ...",
-    "date": "2026-04-25T10:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/hace-casi-20-anos-islandia-dio-bolsa-magma-casualidad-encontraron-filon-energia-ilimitada",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/hace-casi-20-anos-islandia-dio-bolsa-magma-casualidad-encontraron-filon-energia-ilimitada",
-    "title": "Perforaron un volcán por error hace 20 años. Hoy es el \"secreto\" de Islandia para tener energía ilimitada",
-    "snippet": "La búsqueda de fuentes de energía alternativas a los clásicos combustibles fósiles ha llevado a los países a echar mano a los recursos que tienen disponibles al alcance de su mano: (no es lo único pero) España tiene sol ...",
-    "date": "2026-04-25T10:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/hace-casi-20-anos-islandia-dio-bolsa-magma-casualidad-encontraron-filon-energia-ilimitada",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/formulas-excel-esenciales",
-    "title": "19 fórmulas esenciales de Excel para dominar la aplicación",
-    "snippet": "Vamos a decirte las 19 fórmulas esenciales de Excel, con una recopilación para que exprimas las hojas de cálculo de Microsoft Office. Excel. Esta herramienta es junto a Google Sheets una de las mejores alternativas para ...",
-    "date": "2026-04-25T10:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/formulas-excel-esenciales",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "2de4980c-5876-448f-a4c8-36cd2da62f50",
-    "title": "How to Change Your iPhone's Liquid Glass Design in a Few Easy Steps",
-    "snippet": "You can't remove the design from your device, but Apple gives you options to darken some elements....",
-    "date": "2026-04-25T10:00:51",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/how-to-change-your-iphones-liquid-glass-design-in-a-few-easy-steps/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/cafe-no-solo-te-despierta-ciencia-apunta-tambien-mejora-animo-incluso-descafeinado",
-    "title": "El café no solo te despierta: la ciencia apunta ahora que también mejora el ánimo (incluso descafeinado)",
-    "snippet": "Para muchos de nosotros, la vida no empieza hasta que nos tomamos la primera taza de café por la mañana para recibir el \"subidón\"matutino que asociamos directamente al poder de la cafeína. Pero la realidad es que este no...",
-    "date": "2026-04-25T09:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/cafe-no-solo-te-despierta-ciencia-apunta-tambien-mejora-animo-incluso-descafeinado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/31-octubre-2000-fue-dia-especial-ultima-vez-que-todos-humanos-estuvieron-tierra",
-    "title": "El 31 de octubre de 2000 fue un día especial: la última vez que todos los humanos estuvieron en la Tierra",
-    "snippet": "Suena como el inicio de una obra de ciencia ficción, pero es un hito silencioso en la historia de nuestra especie. El martes 31 de octubre de 2000 marcó el último día en que cada ser humano del planeta se encontraba a es...",
-    "date": "2026-04-25T09:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/31-octubre-2000-fue-dia-especial-ultima-vez-que-todos-humanos-estuvieron-tierra",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-corte-ingles-tecnologia-entretenimiento-hoy-25-abril",
-    "title": "Las mejores ofertas de MediaMarkt y El Corte Inglés en tecnología y entretenimiento, hoy 25 de abril",
-    "snippet": "Estamos finalizando un mes de abril en el que hemos podido encontrar muchos descuentos tanto en productos de tecnología como de entretenimiento. MediaMarkt y El Corte Inglés ahora mismo tendrán durante todo el fin de sem...",
-    "date": "2026-04-25T08:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-corte-ingles-tecnologia-entretenimiento-hoy-25-abril",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/pregunta-ricos-nacen-se-hacen-respuesta-esta-condensada-grafico-que-demuestra-que-spain-is-different",
-    "title": "Si la pregunta es si los ricos nacen o se hacen, la respuesta está condensada en un gráfico que demuestra que Spain is different",
-    "snippet": "A nivel mundial, la distribución de la riqueza no se mide solo por cuánto dinero tienen los más ricos, sino también por el flujo económico y cómo es la arquitectura del éxito que cada país ha construido. El equilibrio en...",
-    "date": "2026-04-25T08:01:53",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/pregunta-ricos-nacen-se-hacen-respuesta-esta-condensada-grafico-que-demuestra-que-spain-is-different",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/espana-1-hungria-0-mg-elige-espana-para-su-fabrica-europea-coches-electricos-bloomberg",
-    "title": "España 1- Hungría 0. MG elige España para su fábrica europea de coches eléctricos, según Bloomberg",
-    "snippet": "MG es una de las marcas chinas de moda en España. Es la empresa que domina el mercado por volumen de ventas, entre otras cosas gracias a su claro enfoque en la gama de entrada o media. Sus cifras en el estado español sub...",
-    "date": "2026-04-25T07:27:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/espana-1-hungria-0-mg-elige-espana-para-su-fabrica-europea-coches-electricos-bloomberg",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/espana-1-hungria-0-mg-elige-espana-para-su-fabrica-europea-coches-electricos-bloomberg",
-    "title": "MG ya tiene claro dónde montará su primera planta de coches eléctricos en Europa para esquivar aranceles: España, según Bloomberg",
-    "snippet": "MG es una de las marcas chinas de moda en España. Es la empresa que domina el mercado por volumen de ventas, entre otras cosas gracias a su claro enfoque en la gama de entrada o media. Sus cifras en el estado español sub...",
-    "date": "2026-04-25T07:27:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/espana-1-hungria-0-mg-elige-espana-para-su-fabrica-europea-coches-electricos-bloomberg",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/espana-1-hungria-0-mg-elige-espana-para-su-fabrica-europea-coches-electricos-bloomberg",
-    "title": "La fábrica que cambia el mapa del coche eléctrico en Europa llega a España gracias a MG, según Bloomberg",
-    "snippet": "MG es una de las marcas chinas de moda en España. Es la empresa que domina el mercado por volumen de ventas, entre otras cosas gracias a su claro enfoque en la gama de entrada o media. Sus cifras en el estado español sub...",
-    "date": "2026-04-25T07:27:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/espana-1-hungria-0-mg-elige-espana-para-su-fabrica-europea-coches-electricos-bloomberg",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/fotografia-y-video/1972-modelo-sueca-poso-desnuda-para-playboy-anos-despues-tenemos-formato-jpeg-gracias-a-ello",
-    "title": "En 1972, una modelo sueca posó desnuda para 'Playboy'. Años después, tenemos el formato JPEG gracias a ello",
-    "snippet": "La de Lena Sjööblom es una de las carreras más delirantes de la historia de la tecnología.\nDe entrada, porque cuando dejó huella en el sector no era ingeniera, ni matemática, ni física, ni nada que se le pareciera lo más...",
-    "date": "2026-04-25T07:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/fotografia-y-video/1972-modelo-sueca-poso-desnuda-para-playboy-anos-despues-tenemos-formato-jpeg-gracias-a-ello",
     "category": "TRIBUTARIO"
   }
 ]
