@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-presidencia-emite-comunicado-sobre-reportaje-emitido-programa-periodistico-1072814.aspx",
+    "title": "Presidencia emite comunicado sobre reportaje emitido en programa periodístico",
+    "snippet": "En relación con el reportaje propalado por el programa Punto Final, respecto a las actas de las sesiones del Consejo de Ministros, el Despacho Presidencial emitió un comunicado donde informa a la opinión pública lo sigui...",
+    "date": "2026-04-27T04:35:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidencia-emite-comunicado-sobre-reportaje-emitido-programa-periodistico-1072814.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-congreso-comision-fiscalizacion-abordara-manana-situacion-hospitales-el-callao-1072813.aspx",
+    "title": "Congreso: Comisión de Fiscalización abordará mañana situación de hospitales en el Callao",
+    "snippet": "La Comisión de Fiscalización del Congreso se reunirá mañana para abordar la situación en la que se encuentran los hospitales de Ventanilla y San José del Callao, así como el estado de los centros de salud José Boterín, M...",
+    "date": "2026-04-27T03:50:27",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-congreso-comision-fiscalizacion-abordara-manana-situacion-hospitales-el-callao-1072813.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-inpe-intensifica-requisas-el-penal-challapalca-1072812.aspx",
     "title": "INPE intensifica requisas en el penal de Challapalca",
     "snippet": "Con el objetivo de neutralizar riesgos que comprometan la seguridad en el establecimiento penitenciario de máxima seguridad de Challapalca, el Instituto Nacional Penitenciario (INPE) viene intensificando las acciones de ...",
@@ -245,6 +263,15 @@
   {
     "id": "https://www.xataka.com/magnet/casa-aislada-mundo-no-bjork-falta-que-le-hace-tiene-historia-mundana-que-fascinante",
     "title": "La \"casa más aislada del mundo\" no es de Björk ni falta que le hace: tiene una historia tan mundana que es fascinante",
+    "snippet": "En el océano Atlántico Norte, frente a la costa sur de Islandia, hay una edificación  solitaria enmarcada en un entorno de postal cuya imagen probablemente te suene porque ha sido fotografíada hasta la saciedad: se trata...",
+    "date": "2026-04-26T15:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/casa-aislada-mundo-no-bjork-falta-que-le-hace-tiene-historia-mundana-que-fascinante",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/casa-aislada-mundo-no-bjork-falta-que-le-hace-tiene-historia-mundana-que-fascinante",
+    "title": "Ni es de Björk ni es un búnker secreto: la fascinante historia real de \"la casa más aislada del mundo\" que está en Islandia",
     "snippet": "En el océano Atlántico Norte, frente a la costa sur de Islandia, hay una edificación  solitaria enmarcada en un entorno de postal cuya imagen probablemente te suene porque ha sido fotografíada hasta la saciedad: se trata...",
     "date": "2026-04-26T15:31:52",
     "source": "XATAKA",
@@ -1321,32 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-peru-moda-deco-norteamerica-2026-genero-349-millones-oportunidades-comerciales-en-1072609.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "2d0d160f-6535-4669-9180-e4579846829f",
-    "title": "Sony Begins Age Verification for PlayStation Users in the UK and Ireland",
-    "snippet": "Those who don't verify their age will lose access to voice chat, messaging and other social features....",
-    "date": "2026-04-24T23:10:49",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/sony-begins-age-verification-for-playstation-users-in-the-uk-and-ireland/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432432",
-    "title": "Puerto de Santos bate récords y en tres meses alcanza las cifras anuales del siglo XX",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Santos continúa batiendo récords. El mes pasado, el movimiento de carga alcanzó los\nLa entrada Puerto de Santos bate récords y en tres meses alcanza las cifras ...",
-    "date": "2026-04-24T23:00:49",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-santos-bate-records-y-en-tres-meses-alcanza-las-cifras-anuales-del-siglo-xx/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cofopri-mas-700-familias-tienen-nueva-oportunidad-para-titular-sus-viviendas-1072619.aspx",
-    "title": "Cofopri: más de 700 familias tienen nueva oportunidad para titular sus viviendas",
-    "snippet": "Más de 700 familias de Lima Metropolitana, Callao, Huaral y Cañete vuelven a tener una oportunidad de acceder al título de propiedad de sus viviendas. El Organismo de Formalización de la Propiedad Informal (Cofopri) desp...",
-    "date": "2026-04-24T22:55:51",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cofopri-mas-700-familias-tienen-nueva-oportunidad-para-titular-sus-viviendas-1072619.aspx",
-    "category": "LOGÍSTICA"
   }
 ]
