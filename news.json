@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/aemet-esta-observando-fenomeno-extrano-tenemos-tormentas-verano-pleno-mes-abril",
+    "title": "AEMET está observando un fenómeno extraño: tenemos \"tormentas de verano\" en pleno mes de abril",
+    "snippet": "La buena noticia es que AEMET nos ha asegurado mañanas tranquilas y apacibles. Las mala noticia es que AEMET nos ha asegurado tardes con nubes de evolución que descargan chubascos localmente fuertes, con tormenta, graniz...",
+    "date": "2026-04-27T10:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/aemet-esta-observando-fenomeno-extrano-tenemos-tormentas-verano-pleno-mes-abril",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/muerte-subita-se-ha-disparado-30-europa-espana-problema-grave-silencioso",
+    "title": "La muerte súbita se ha disparado un 30% en Europa. En España el problema es aún más grave y silencioso",
+    "snippet": "Llega sin avisar, de forma inesperada y en la mayoría de las ocasiones con un origen cardíaco fulminante que deja a los pacientes en el suelo en unos segundos y sin capacidad de respuesta. Estas son algunas de las caract...",
+    "date": "2026-04-27T09:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/muerte-subita-se-ha-disparado-30-europa-espana-problema-grave-silencioso",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/para-gaming-cine-esta-tele-miniled-144-hz-cuesta-ahora-400-euros",
+    "title": "Cuesta 398 euros: una tele MiniLED con Dolby Vision & Atmos y que sirve también para gaming",
+    "snippet": "Hasta hace poco tiempo, si querías disfrutar de una auténtica experiencia de cine, te tocaba preparar la cartera para pagar por un panel OLED o un MiniLED de más de 1.000 euros. Aunque esto es algo que desmitifica Hisens...",
+    "date": "2026-04-27T08:45:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/para-gaming-cine-esta-tele-miniled-144-hz-cuesta-ahora-400-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/ahora-sabemos-que-fuerza-aerea-irani-le-hizo-a-eeuu-que-ucrania-no-pudo-hacerle-a-rusia-drones-agujero-abismal",
+    "title": "Ahora sabemos que la Fuerza Aérea iraní le hizo a EEUU lo que Ucrania no pudo hacerle a Rusia con drones: un agujero abismal",
+    "snippet": "Durante la Guerra de Vietnam, los mandos estadounidenses descubrieron que algunas de sus bases más protegidas podían ser golpeadas de forma inesperada por ataques coordinados de bajo coste, obligando a reforzar defensas ...",
+    "date": "2026-04-27T08:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ahora-sabemos-que-fuerza-aerea-irani-le-hizo-a-eeuu-que-ucrania-no-pudo-hacerle-a-rusia-drones-agujero-abismal",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/energia/europa-necesita-coltan-desesperadamente-para-sus-chips-solucion-esta-pueblo-ourense-depende-solo-tramite",
     "title": "Europa necesita coltán desesperadamente para sus chips. La solución está en un pueblo de Ourense y depende de un solo trámite",
     "snippet": "Galicia esconde bajo su suelo un tesoro tecnológico indispensable para el siglo XXI, y la maquinaria para desenterrarlo ya se ha puesto en marcha. Hablamos de la mina de Penouta, ubicada en la localidad ourensana de Vian...",
@@ -11,6 +47,15 @@
   {
     "id": "https://www.xataka.com/robotica-e-ia/ia-entra-era-cpu-para-sorpresa-nadie-mala-noticia-para-consumidor",
     "title": "La IA entra en la era de las CPU. Para sorpresa de nadie, es una mala noticia para el consumidor",
+    "snippet": "La actualidad de los centros de datos está redefiniendo las líneas de producción de los principales actores tecnológicos. Lo que parecía una crisis puntual en el precio de la RAM y los SSD, ha terminado convirtiéndose en...",
+    "date": "2026-04-27T07:34:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/ia-entra-era-cpu-para-sorpresa-nadie-mala-noticia-para-consumidor",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/ia-entra-era-cpu-para-sorpresa-nadie-mala-noticia-para-consumidor",
+    "title": "Intel no puede permitirse tener a los centros de datos esperando, así que va a dejar de hacer tantos chips para los usuarios",
     "snippet": "La actualidad de los centros de datos está redefiniendo las líneas de producción de los principales actores tecnológicos. Lo que parecía una crisis puntual en el precio de la RAM y los SSD, ha terminado convirtiéndose en...",
     "date": "2026-04-27T07:34:49",
     "source": "XATAKA",
@@ -380,6 +425,15 @@
   {
     "id": "https://www.xataka.com/ecologia-y-naturaleza/alto-precio-prendas-impermeables-antimanchas-quimicos-para-siempre-han-invadido-nuestro-armario-nuestra-sangre",
     "title": "El alto precio de las prendas impermeables y antimanchas: los \"químicos para siempre\" han invadido nuestro armario (y nuestra sangre)",
+    "snippet": "Como escribía recientemente la periodista Jess Cartner-Morley en las páginas de The Guardian, los leggings han vuelto con fuerza. Ya no son una prenda relegada exclusivamente al gimnasio, sino que se han convertido en un...",
+    "date": "2026-04-26T14:31:51",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/alto-precio-prendas-impermeables-antimanchas-quimicos-para-siempre-han-invadido-nuestro-armario-nuestra-sangre",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/alto-precio-prendas-impermeables-antimanchas-quimicos-para-siempre-han-invadido-nuestro-armario-nuestra-sangre",
+    "title": "Europa y EEUU tienen un problema gigantesco con la ropa impermeable: está llena de PFAS y nadie sabe muy bien cómo deshacerse de ellos",
     "snippet": "Como escribía recientemente la periodista Jess Cartner-Morley en las páginas de The Guardian, los leggings han vuelto con fuerza. Ya no son una prenda relegada exclusivamente al gimnasio, sino que se han convertido en un...",
     "date": "2026-04-26T14:31:51",
     "source": "XATAKA",
@@ -1294,59 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/fotografia-y-video/1972-modelo-sueca-poso-desnuda-para-playboy-anos-despues-tenemos-formato-jpeg-gracias-a-ello",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432375",
-    "title": "Ocean Platform Marinas y Global Ports Holding celebran inicio de operaciones en Sevilla",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La gestora de puertos deportivos para grandes yates en España Ocean Platform Marinas (OPM), controlada mayoritariamente\nLa entrada Ocean Platform Marinas y Global Ports Hold...",
-    "date": "2026-04-25T04:00:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ocean-platform-marinas-y-global-ports-holding-celebran-inicio-de-operaciones-en-sevilla/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-callao-tendra-ruta-honor-al-papa-lugares-claves-su-labor-pastoral-el-puerto-1072648.aspx",
-    "title": "Callao tendrá ruta en honor al Papa, con lugares claves de su labor pastoral en el puerto",
-    "snippet": "La Municipalidad Provincial del Callao presentó el road show de la ruta turística “Los Caminos del Papa León XIV”, una iniciativa que busca fortalecer la identidad cultural del primer puerto, dinamizar el turismo y gener...",
-    "date": "2026-04-25T03:48:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-callao-tendra-ruta-honor-al-papa-lugares-claves-su-labor-pastoral-el-puerto-1072648.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432391",
-    "title": "OOCL refuerza conexión entre China e Indonesia con incorporación de  nuevo servicio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Orient Overseas Container Line (OOCL) dio a conocer el lanzamiento de su nuevo servicio CIS3, que reforzará\nLa entrada OOCL refuerza conexión entre China e Indonesia con inc...",
-    "date": "2026-04-25T03:00:52",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/oocl-refuerza-conexion-entre-china-e-indonesia-con-incorporacion-de-nuevo-servicio/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-oefa-evalua-impacto-ambiental-incendio-almacen-clandestino-del-jiron-miroquesada-1072639.aspx",
-    "title": "OEFA evalúa impacto ambiental de incendio en almacén clandestino del Jirón Miroquesada",
-    "snippet": "Miembros del Organismo de Evaluación y Fiscalización Ambiental (OEFA) se han movilizado al centro de Lima para evaluar el posible impacto ambiental generado por el enorme incendio ocurrido en un almacén clandestino del J...",
-    "date": "2026-04-25T01:43:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-oefa-evalua-impacto-ambiental-incendio-almacen-clandestino-del-jiron-miroquesada-1072639.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mtc-avanza-obras-viales-ica-beneficiaran-a-mas-240000-ciudadanos-1072638.aspx",
-    "title": "MTC avanza obras viales en Ica que beneficiarán a más de 240,000 ciudadanos",
-    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC) continúa ejecutando proyectos de infraestructura vial para brindar vías más seguras y eficientes....",
-    "date": "2026-04-25T01:26:22",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mtc-avanza-obras-viales-ica-beneficiaran-a-mas-240000-ciudadanos-1072638.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432365",
-    "title": "Argentina: Totalidad de empresas podrán acceder a beneficios del Régimen de Aduana en Factoría",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La totalidad de las empresas argentinas podrán acceder al Régimen de Aduana en Factoría (RAF). La\nLa entrada Argentina: Totalidad de empresas podrán acceder a beneficios del...",
-    "date": "2026-04-25T01:00:44",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-totalidad-de-empresas-podran-acceder-a-beneficios-del-regimen-de-aduana-en-factoria/",
-    "category": "MERCADO"
   }
 ]
