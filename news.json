@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.xataka.com/robotica-e-ia/empresas-eeuu-siguen-empenadas-modelos-ia-grandes-china-siguen-demostrando-que-se-puede-hacer",
+    "title": "Las empresas de EEUU siguen empeñadas en modelos IA más y más grandes. Las de China siguen demostrando que no hace falta",
+    "snippet": "Alibaba tenía hasta ahora un modelo abierto estupendo para programar. Se traba de Qwen3.5-397B-A17B, pero el problema es que era gigantesco con sus 397.000 millones de parámetros y sus 807 GB de tamaño en disco (y memori...",
+    "date": "2026-04-28T06:01:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/empresas-eeuu-siguen-empenadas-modelos-ia-grandes-china-siguen-demostrando-que-se-puede-hacer",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432729",
+    "title": "Puertos del Arco Atlántico refuerzan cooperación estratégica en Shipping Days de La Rochelle",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con motivo de los Shipping Days, celebrados en La Rochelle, los actores del sector marítimo, del\nLa entrada Puertos del Arco Atlántico refuerzan cooperación estratégica en S...",
+    "date": "2026-04-28T06:00:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puertos-del-arco-atlantico-refuerzan-cooperacion-estrategica-en-shipping-days-de-la-rochelle/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432631",
+    "title": "Musterian Corporation y Samsung Heavy Industries firman MoU para suministrar centros de datos flotantes en EEUU",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Musterian Corporation (M3), desarrollador de infraestructura de centros de datos flotantes y adyacentes al agua, y\nLa entrada Musterian Corporation y Samsung Heavy Industrie...",
+    "date": "2026-04-28T05:00:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/musterian-corporation-y-samsung-heavy-industries-firman-mou-para-suministrar-centros-de-datos-flotantes-en-eeuu/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministro-defensa-superviso-atencion-a-374-damnificados-deslizamiento-san-martin-1072944.aspx",
+    "title": "Ministro de Defensa supervisó atención a 374 damnificados por deslizamiento en San Martín",
+    "snippet": "El ministro de Defensa, Javier Flores, llegó al distrito de San José de Sisa, en la provincia de El Dorado, región San Martín, para supervisar la atención a las familias afectadas por el deslizamiento de tierra ocurrido ...",
+    "date": "2026-04-28T04:41:44",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministro-defensa-superviso-atencion-a-374-damnificados-deslizamiento-san-martin-1072944.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=432580",
+    "title": "España: Puerto de Vigo avanza en hoja de ruta con proyección hacia 2035",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de la Autoridad Portuaria de Vigo, Carlos Botana, presentó al Consejo de Administración la\nLa entrada España: Puerto de Vigo avanza en hoja de ruta con proyecc...",
+    "date": "2026-04-28T04:00:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/espana-puerto-de-vigo-avanza-en-hoja-de-ruta-con-proyeccion-hacia-2035/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cotizacion-del-dolar-supera-los-350-soles-ante-coyuntura-internacional-y-local-1072938.aspx",
+    "title": "Cotización del dólar supera los 3.50 soles ante la coyuntura internacional y local",
+    "snippet": "La cotización del dólar superó los 3.50 soles y cerró la jornada cambiara en 3.507 soles en el mercado interbancario, nivel superior en 0.53% respecto al cierre del viernes 24 cuando terminó en 3.488 soles, debido a la c...",
+    "date": "2026-04-28T03:31:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cotizacion-del-dolar-supera-los-350-soles-ante-coyuntura-internacional-y-local-1072938.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mas-1700-familias-bagua-grande-recibieron-titulos-propiedad-sus-viviendas-1072936.aspx",
+    "title": "Más de 1700 familias de Bagua Grande recibieron títulos de propiedad de sus viviendas",
+    "snippet": "Tras más de dos décadas de espera, más de 6800 ciudadanos de la región Amazonas se beneficiaron con la entrega de 1720 títulos de propiedad, por parte del Ministerio de Vivienda, Construcción y Saneamiento (MVCS), a trav...",
+    "date": "2026-04-28T03:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mas-1700-familias-bagua-grande-recibieron-titulos-propiedad-sus-viviendas-1072936.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=432813",
     "title": "Argentina: Puerto de Bahía Blanca suma nueva ruta de cabotaje",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Bahía Blanca, ubicado al sur de la Provincia de Buenos Aires, incorporó una\nLa entrada Argentina: Puerto de Bahía Blanca suma nueva ruta de cabotaje se publicó ...",
@@ -605,6 +668,15 @@
   {
     "id": "https://www.xataka.com/seleccion/aqui-acaban-moviles-que-mediamarkt-expone-sus-tiendas-outlet-descuentos-40",
     "title": "Aquí acaban los móviles que MediaMarkt expone en sus tiendas: un outlet con descuentos de hasta el 40%",
+    "snippet": "Si estás pensando en renovar tu móvil y no quieres pagar de más, quizá te interese un móvil de los que MediaMarkt expone en sus tiendas. Pero, ¿dónde acaban realmente esos móviles y cómo se pueden comprar? En eBay, Media...",
+    "date": "2026-04-27T13:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/aqui-acaban-moviles-que-mediamarkt-expone-sus-tiendas-outlet-descuentos-40",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/aqui-acaban-moviles-que-mediamarkt-expone-sus-tiendas-outlet-descuentos-40",
+    "title": "MediaMarkt tiene un outlet en el que puedes comprar móviles iPhone, Samsung, Xiaomi y más con hasta el 40% de descuento",
     "snippet": "Si estás pensando en renovar tu móvil y no quieres pagar de más, quizá te interese un móvil de los que MediaMarkt expone en sus tiendas. Pero, ¿dónde acaban realmente esos móviles y cómo se pueden comprar? En eBay, Media...",
     "date": "2026-04-27T13:31:52",
     "source": "XATAKA",
@@ -1275,78 +1347,6 @@
     "date": "2026-04-26T15:01:49",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/san-agustin-tenia-razon-pregunta-importante-para-entender-a-alguien-no-que-cree-que-espera-pregunta-que-ama",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/san-agustin-tenia-razon-pregunta-importante-para-entender-a-alguien-no-que-cree-que-espera-pregunta-que-ama",
-    "title": "Qué quería decir San Agustín cuando dijo que \"para saber si alguien es bueno, no preguntemos qué cree o qué espera, sino qué ama\"",
-    "snippet": "\"Para saber si alguien es bueno, no preguntamos qué cree o espera, sino qué ama\". Uno lee esta frase y es casi inevitablemente pensar que se trata de la típica mercancía escacharrada de autoayuda que llena feeds, tazas y...",
-    "date": "2026-04-26T15:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/san-agustin-tenia-razon-pregunta-importante-para-entender-a-alguien-no-que-cree-que-espera-pregunta-que-ama",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432506",
-    "title": "Disney Cruise Line y Puerto de San Diego extienden acuerdo como base",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Disney Cruise Line y el Puerto de San Diego anunciaron un nuevo acuerdo que se extenderá\nLa entrada Disney Cruise Line y Puerto de San Diego extienden acuerdo como base se p...",
-    "date": "2026-04-26T15:00:23",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/disney-cruise-line-y-puerto-de-san-diego-extienden-acuerdo-como-base/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3115138",
-    "title": "SpeakOn’s dictation device is a good idea marred by platform limitations",
-    "snippet": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps...",
-    "date": "2026-04-26T15:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3115138",
-    "title": "SpeakON’s dictation device is a good idea marred by platform limitations",
-    "snippet": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps....",
-    "date": "2026-04-26T15:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/alto-precio-prendas-impermeables-antimanchas-quimicos-para-siempre-han-invadido-nuestro-armario-nuestra-sangre",
-    "title": "El alto precio de las prendas impermeables y antimanchas: los \"químicos para siempre\" han invadido nuestro armario (y nuestra sangre)",
-    "snippet": "Como escribía recientemente la periodista Jess Cartner-Morley en las páginas de The Guardian, los leggings han vuelto con fuerza. Ya no son una prenda relegada exclusivamente al gimnasio, sino que se han convertido en un...",
-    "date": "2026-04-26T14:31:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/alto-precio-prendas-impermeables-antimanchas-quimicos-para-siempre-han-invadido-nuestro-armario-nuestra-sangre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/alto-precio-prendas-impermeables-antimanchas-quimicos-para-siempre-han-invadido-nuestro-armario-nuestra-sangre",
-    "title": "Europa y EEUU tienen un problema gigantesco con la ropa impermeable: está llena de PFAS y nadie sabe muy bien cómo deshacerse de ellos",
-    "snippet": "Como escribía recientemente la periodista Jess Cartner-Morley en las páginas de The Guardian, los leggings han vuelto con fuerza. Ya no son una prenda relegada exclusivamente al gimnasio, sino que se han convertido en un...",
-    "date": "2026-04-26T14:31:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/alto-precio-prendas-impermeables-antimanchas-quimicos-para-siempre-han-invadido-nuestro-armario-nuestra-sangre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/literatura-comics-y-juegos/vives-madrid-barcelona-posible-que-haya-abierto-libreria-latinoamericana-a-tu-casa",
-    "title": "Si vives en Madrid o Barcelona, es posible que haya abierto una librería latinoamericana junto a tu casa",
-    "snippet": "Las indomables, abierta hace cuatro meses en el barrio madrileño de Prosperidad y dirigida por una mexicana. A unos metros del parque del Retiro, la ya clásica El Retiro de las Letras, propiedad de dos colombianos. En Ar...",
-    "date": "2026-04-26T14:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/literatura-comics-y-juegos/vives-madrid-barcelona-posible-que-haya-abierto-libreria-latinoamericana-a-tu-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/literatura-comics-y-juegos/vives-madrid-barcelona-posible-que-haya-abierto-libreria-latinoamericana-a-tu-casa",
-    "title": "El boom de librerías latinoamericanas llena un hueco de distribución que nadie más cubre",
-    "snippet": "Las indomables, abierta hace cuatro meses en el barrio madrileño de Prosperidad y dirigida por una mexicana. A unos metros del parque del Retiro, la ya clásica El Retiro de las Letras, propiedad de dos colombianos. En Ar...",
-    "date": "2026-04-26T14:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/literatura-comics-y-juegos/vives-madrid-barcelona-posible-que-haya-abierto-libreria-latinoamericana-a-tu-casa",
     "category": "TRIBUTARIO"
   }
 ]
