@@ -1,5 +1,131 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-callao-presenta-buses-del-corredor-rosado-conoce-cual-es-su-ruta-y-tarifa-promocional-1073149.aspx",
+    "title": "Callao presenta buses del Corredor Rosado: conoce cuál es su ruta y tarifa promocional",
+    "snippet": "La Municipalidad Provincial del Callao presentó hoy la nueva flota de buses del Corredor Rosado, un servicio que busca reducir los tiempos de viaje y mejorar la movilidad urbana entre el Callao y Lima con estándares de s...",
+    "date": "2026-04-29T16:26:24",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-callao-presenta-buses-del-corredor-rosado-conoce-cual-es-su-ruta-y-tarifa-promocional-1073149.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/fin-suscripcion-plana-ia-github-copilot-se-pasa-al-pago-tokens-china-practicamente-regalan",
+    "title": "El modelo \"freemium\" de la IA está muriendo: GitHub Copilot y Claude están poniendo cada vez más tarifas y costes",
+    "snippet": "Como usuarios finales, pagar una cuota mensual por utilizar un modelo de IA es la norma para acceder a modelos más completos y potentes. Sin embargo, los desarrolladores que dependen de un modelo de IA para impulsar su h...",
+    "date": "2026-04-29T16:16:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/fin-suscripcion-plana-ia-github-copilot-se-pasa-al-pago-tokens-china-practicamente-regalan",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433096",
+    "title": "Ucrania pide a Israel confiscar buque acusado de transportar grano robado por Rusia",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Ucrania ha pedido a Israel que confisque un buque acusado de transportar grano robado desde\nLa entrada Ucrania pide a Israel confiscar buque acusado de trans...",
+    "date": "2026-04-29T16:00:58",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ucrania-pide-a-israel-confiscar-buque-acusado-de-transportar-grano-robado-por-rusia/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/motorola-razr-70-razr-70-plus-razr-70-ultra-caracteristicas-precio-ficha-tecnica",
+    "title": "Motorola Razr 70, 70 Plus y 70 Ultra: tres plegables que se parecen mucho por fuera, pero no por dentro (y eso importa)",
+    "snippet": "Si lo que buscamos es un teléfono que ocupe menos en el bolsillo, pero que al abrirlo se comporte como un móvil grande, un plegable tipo concha puede ser una buena opción. La idea se entiende rápido, pero también importa...",
+    "date": "2026-04-29T16:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/motorola-razr-70-razr-70-plus-razr-70-ultra-caracteristicas-precio-ficha-tecnica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433106",
+    "title": "Puerto de Manzanillo: Hutchison Ports Timsa recibe dos nuevas grúas móviles eléctricas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Hutchison Ports Timsa anunció la incorporación de dos grúas eléctricas tipo MHC de alta capacidad, las\nLa entrada Puerto de Manzanillo: Hutchison Ports Timsa recibe dos nuev...",
+    "date": "2026-04-29T15:31:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/hutchison-ports-timsa-recibe-dos-nuevas-gruas-moviles-electricas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ue-acusa-a-meta-permitir-acceso-menores-13-anos-a-facebook-e-instagram-1073135.aspx",
+    "title": "UE acusa a Meta de permitir acceso de menores de 13 años a Facebook e Instagram",
+    "snippet": "La Unión Europea acusó el miércoles al grupo estadounidense Meta de infringir las reglas comunitarias y sus propias condiciones al permitir el acceso de menores de 13 años a Instagram y Facebook....",
+    "date": "2026-04-29T15:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ue-acusa-a-meta-permitir-acceso-menores-13-anos-a-facebook-e-instagram-1073135.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/deepseek-v4-esta-aqui-buenas-noticias-para-eficiencia-malas-noticias-para-mito",
+    "title": "DeepSeek V4 ya está aquí. Son buenas noticias para la eficiencia y malas noticias para el mito",
+    "snippet": "DeepSeek ha publicado su modelo V4 bajo licencia MIT, con mejoras notables en código y arquitectura diseñada para chips chinos. También ha admitido, en su propio informe técnico, que va de tres a seis meses por detrás de...",
+    "date": "2026-04-29T15:16:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/deepseek-v4-esta-aqui-buenas-noticias-para-eficiencia-malas-noticias-para-mito",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=919671",
+    "title": "The best deals we found during Amazon’s Gaming Week",
+    "snippet": "Amazon’s annual Gaming Week is bringing discounts on video games, accessories, and PC components through May 4th. This event is smaller than Amazon’s other sales, but there are some genuinely good deals. This year, we’ve...",
+    "date": "2026-04-29T15:14:53",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/919671/amazon-gaming-week-2026-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/llevamos-casi-40-anos-culpando-a-higiene-nuestras-alergias-adn-ancestral-acaba-demostrar-que-problema-complejo",
+    "title": "Llevamos casi 40 años culpando a la higiene de nuestras alergias. El ADN ancestral acaba de demostrar que el problema es más complejo",
+    "snippet": "Cada vez que un niño desarrolla un asma, rinitis o eccema, una de las preguntas que nos hacemos es por qué ocurre, y uno de los 'culpables' al que apuntamos es al exceso de limpieza. Ahora mismo es una realidad que vivim...",
+    "date": "2026-04-29T15:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/llevamos-casi-40-anos-culpando-a-higiene-nuestras-alergias-adn-ancestral-acaba-demostrar-que-problema-complejo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/legislacion-y-derechos/verificacion-edad-no-nada-grecia-quiere-eliminar-completo-anonimato-internet",
+    "title": "Lo de la verificación de edad no es nada. Grecia quiere eliminar por completo el anonimato en internet",
+    "snippet": "Grecia celebrará elecciones a principios de 2027 y sus gobernantes han tenido una idea singular para evitar (o mitigar) los deepfakes, la desinformación y los discursos tóxicos, especialmente en relación a ese proceso el...",
+    "date": "2026-04-29T14:46:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/legislacion-y-derechos/verificacion-edad-no-nada-grecia-quiere-eliminar-completo-anonimato-internet",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-29-abril-del-2026-1073138.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy miércoles 29 de abril del 2026?",
+    "snippet": "El precio del dólar inició subiendo frente al sol en la sesión cambiaria de hoy, en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-04-29T14:39:29",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-29-abril-del-2026-1073138.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/investigacion/hay-miles-articulos-cientificos-que-piden-pagar-para-leerlos-sci-bot-ha-llegado-para-acceder-a-ellos-gratis",
+    "title": "Hay miles de artículos científicos que piden pagar para leerlos. Sci-Bot ha llegado para acceder a ellos gratis",
+    "snippet": "El conocimiento científico supuestamente es algo que nos nutre a todos los seres humanos para seguir avanzando, pero el problema es que en muchas ocasiones los artículos que contienen este conocimiento están en herramien...",
+    "date": "2026-04-29T14:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/investigacion/hay-miles-articulos-cientificos-que-piden-pagar-para-leerlos-sci-bot-ha-llegado-para-acceder-a-ellos-gratis",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/xbox-prepara-su-gran-regreso-a-consolas-project-helix-advertencia-esta-clara-precio-sera-victima-ramageddon",
+    "title": "Xbox prepara su gran regreso a las consolas con Project Helix. La advertencia está clara: el precio será víctima del RAMageddon",
+    "snippet": "Steam Machine, la nueva máquina de Valve, ya debería estar en el mercado. Sin embargo, hace unas semanas ocurrió algo curioso: Valve se presentó en la GDC pidiendo 'ayuda' para poder comprar memoria RAM. Porque ni siquie...",
+    "date": "2026-04-29T14:16:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/xbox-prepara-su-gran-regreso-a-consolas-project-helix-advertencia-esta-clara-precio-sera-victima-ramageddon",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/huesca-lleida-estaban-separadas-110-kilometros-espana-ha-tardado-25-anos-unirlas-autovia",
+    "title": "Huesca y Lleida estaban separadas por 110 kilómetros. España ha tardado 25 años en unirlas por autovía",
+    "snippet": "España tiene una máxima que se repite cuando hablamos de carreteras: las cosas van despacio. Bastante despacio, de hecho. Solo hay que ver que la A-11, una de las grandes autovías castellanoleonesas lleva desde 1995 en m...",
+    "date": "2026-04-29T14:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/huesca-lleida-estaban-separadas-110-kilometros-espana-ha-tardado-25-anos-unirlas-autovia",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-arquero-argentino-esteban-andrada-fue-suspendido-13-partidos-punetazo-a-rival-1073129.aspx",
     "title": "Arquero argentino Esteban Andrada fue suspendido 13 partidos por puñetazo a rival",
     "snippet": "El argentino Esteban Andrada, guardameta del Zaragoza, ha sido sancionado con trece partidos de suspensión tras agredir a Jorge Pulido, defensa del Huesca, el partido de la trigésima séptima jornada de LaLiga Hypermotion...",
@@ -16,6 +142,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-columbo-es-reconocido-como-socio-estrategico-en-aniversario-de-camara-aduanera-de-chile/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "c545ed2d-2a53-488e-bc53-578e483dd147",
+    "title": "Waymo Eyes Portland for Robotaxi Expansion, With Testing Already Underway",
+    "snippet": "You may soon see the self-driving robotaxis​ in Oregon's City of Roses....",
+    "date": "2026-04-29T13:48:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/roadshow/news/waymo-portland-oregon-robotaxi-expansion-driver-technology/",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://www.xataka.com/empresas-y-economia/amancio-ortega-ha-conquistado-ibex-tres-empresas-blackrock-ha-intentado-veinte-se-le-ha-acercado",
@@ -135,8 +270,26 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/empresas-y-economia/juicio-musk-altman-mucho-que-juicio-empresa-puede-cambiar-mision",
+    "title": "El juicio de Musk contra Altman empieza con una pregunta que nadie ha respondido: ¿puede una ONG cambiar de misión?",
+    "snippet": "Elon Musk y Sam Altman se han plantado ante un tribunal en Oakland para dirimir el futuro de OpenAI, con una demanda que reclama más de 130.000 millones de dólares y pide la destitución de Sam Altman como director ejecut...",
+    "date": "2026-04-29T12:46:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/juicio-musk-altman-mucho-que-juicio-empresa-puede-cambiar-mision",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/magnet/alguien-ha-calculado-que-paises-mundo-han-aumentado-su-gasto-militar-hay-sorpresa-espana-esta-cabeza",
     "title": "Alguien ha calculado qué países del mundo han aumentado más su gasto militar y hay una sorpresa: España está en cabeza",
+    "snippet": "Con el runrún de los tambores de guerra de fondo, la invasión de Ucrania enquistada, la tensión escalando en Oriente Medio y Donald Trump amagando con sacar a EEUU de la OTAN al mismo tiempo que exigía más inversión mili...",
+    "date": "2026-04-29T12:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/alguien-ha-calculado-que-paises-mundo-han-aumentado-su-gasto-militar-hay-sorpresa-espana-esta-cabeza",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/alguien-ha-calculado-que-paises-mundo-han-aumentado-su-gasto-militar-hay-sorpresa-espana-esta-cabeza",
+    "title": "España se ha colgado el sambenito de de no querer invertir en defensa. Resulta que en 2025 lideró el aumento en gasto militar",
     "snippet": "Con el runrún de los tambores de guerra de fondo, la invasión de Ucrania enquistada, la tensión escalando en Oriente Medio y Donald Trump amagando con sacar a EEUU de la OTAN al mismo tiempo que exigía más inversión mili...",
     "date": "2026-04-29T12:30:26",
     "source": "XATAKA",
@@ -272,6 +425,15 @@
   {
     "id": "https://www.xataka.com/magnet/iran-ha-encontrado-atajo-perfecto-para-llegar-a-china-gasolinera-flotante-mitad-oceano-esta-burlando-a-eeuu",
     "title": "Irán se ha sacado de la manga un “truco” para vender a China eludiendo a EEUU: convertir el océano en su gasolinera secreta",
+    "snippet": "En las imágenes satelitales de ciertos puntos del sudeste asiático hay días en los que aparecen decenas de petroleros completamente detenidos en mar abierto, formando una especie de aparcamiento improvisado en mitad de u...",
+    "date": "2026-04-29T11:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/iran-ha-encontrado-atajo-perfecto-para-llegar-a-china-gasolinera-flotante-mitad-oceano-esta-burlando-a-eeuu",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/iran-ha-encontrado-atajo-perfecto-para-llegar-a-china-gasolinera-flotante-mitad-oceano-esta-burlando-a-eeuu",
+    "title": "Irán se ha sacado de la manga un \"truco” para vender a China eludiendo a EEUU: convertir el océano en su gasolinera secreta",
     "snippet": "En las imágenes satelitales de ciertos puntos del sudeste asiático hay días en los que aparecen decenas de petroleros completamente detenidos en mar abierto, formando una especie de aparcamiento improvisado en mitad de u...",
     "date": "2026-04-29T11:00:27",
     "source": "XATAKA",
@@ -1186,167 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/energia/llevaban-60-anos-siendo-alumno-aplicado-opep-ahora-emiratos-da-portazo-historico-que-amenaza-dinamitar-cartel-petroleo",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/ue-vuelve-a-apretarle-tuercas-a-google-quiere-que-gemini-deje-ser-unico-asistente-ia-privilegios-android",
-    "title": "La UE vuelve a apretarle las tuercas a Google: quiere que Gemini deje de ser la única IA con privilegios en Android",
-    "snippet": "La Comisión Europea ha publicado sus conclusiones preliminares sobre cómo Google gestiona la inteligencia artificial en Android. Según el organismo, el sistema operativo favorece a Gemini frente al resto de competidores,...",
-    "date": "2026-04-28T15:15:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/ue-vuelve-a-apretarle-tuercas-a-google-quiere-que-gemini-deje-ser-unico-asistente-ia-privilegios-android",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432820",
-    "title": "Concordia Damen entregará empujador fluvial de 41 metros para operar en Paraguay",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Concordia Damen firmó un contrato de construcción con un cliente paraguayo, cuyo nombre no se ha\nLa entrada Concordia Damen entregará empujador fluvial de 41 metros para ope...",
-    "date": "2026-04-28T15:00:49",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/concordia-damen-entregara-empujador-fluvial-de-41-metros-para-operar-en-paraguay/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/china-adelanta-derecha-a-nasa-uno-sus-proyectos-ambiciosos-arana-espacial-que-ensambla-estructuras-microgravedad",
-    "title": "China ha adelantado a la NASA con uno de sus proyectos más ambiciosos: la araña espacial que ensambla estructuras",
-    "snippet": "Cuando decimos que China le pisa los talones a la NASA en su carrera espacial no bromeamos. No se trata solo de las misiones a la Luna o la puesta en marcha de su propia estación espacial. El país asiático ha sido capaz ...",
-    "date": "2026-04-28T14:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/china-adelanta-derecha-a-nasa-uno-sus-proyectos-ambiciosos-arana-espacial-que-ensambla-estructuras-microgravedad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432834",
-    "title": "Puerto de São Francisco registra beneficios en resultados financieros por tercer año consecutivo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Por tercer año consecutivo, el Puerto de São Francisco registra ganancias en sus resultados financieros. En\nLa entrada Puerto de São Francisco registra beneficios en resulta...",
-    "date": "2026-04-28T14:30:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-sao-francisco-registra-beneficios-en-resultados-financieros-por-tercer-ano-consecutivo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-martes-28-abril-del-2026-1072975.aspx",
-    "title": "¿Cuál es la cotización del dólar hoy martes 28 de abril del 2026?",
-    "snippet": "El precio del dólar inició subiendo frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
-    "date": "2026-04-28T14:30:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-martes-28-abril-del-2026-1072975.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/madrid-tiene-red-cercanias-saturada-solucion-trenes-gigantes-1-900-plazas-que-estan-pruebas",
-    "title": "Madrid tiene una red de Cercanías saturada. Solución: trenes gigantes de 1.900 plazas que ya están en pruebas",
-    "snippet": "Madrid está enfrascada en la renovación de sus Cercanías. La Comunidad Autónoma lleva años reclamando mayores inversiones para modernizar las infraestructuras y ampliar su capacidad, aquejada de trenes atestados y avería...",
-    "date": "2026-04-28T14:15:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/madrid-tiene-red-cercanias-saturada-solucion-trenes-gigantes-1-900-plazas-que-estan-pruebas",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/energia/japon-tiene-plan-colosal-para-no-depender-gas-extranjero-parque-eolico-1-gw-flotando-frente-a-costa-tokio",
-    "title": "Japón tiene un plan colosal para no depender del gas: un parque eólico de 1 GW flotando frente a la costa de Tokio",
-    "snippet": "Las aguas frente a la cadena de islas de Izu, en el océano Pacífico, podrían albergar pronto un coloso de la ingeniería moderna. El Gobierno Metropolitano de Tokio ha puesto sobre la mesa un plan sin precedentes: constru...",
-    "date": "2026-04-28T14:01:53",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/japon-tiene-plan-colosal-para-no-depender-gas-extranjero-parque-eolico-1-gw-flotando-frente-a-costa-tokio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "e35cdd2f-d69f-42d7-8d46-e2f0d25b9bd6",
-    "title": "Does Your Fridge Keep Freezing Your Veggies? Here's How I Fixed It",
-    "snippet": "I tested almost every temperature setting on my fridge to find the \"Goldilocks\" zone that wouldn't freeze my produce....",
-    "date": "2026-04-28T14:00:42",
-    "source": "CNET",
-    "url": "https://www.cnet.com/news/i-tested-almost-every-temperature-setting-and-found-the-sweet-spot/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/prometedor-estudio-barbacid-cancer-ha-sido-retirado-motivo-no-ciencia-spin-off-oculta",
-    "title": "El prometedor estudio de Barbacid contra el cáncer ha sido retirado. El motivo no es la ciencia, es una spin-off “oculta”",
-    "snippet": "El pasado mes de diciembre, el equipo liderado por el prestigioso investigador Mariano Barbacid llenó los titulares de los principales medios de comunicación con una gran noticia: habían encontrado una triple terapia par...",
-    "date": "2026-04-28T13:51:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/prometedor-estudio-barbacid-cancer-ha-sido-retirado-motivo-no-ciencia-spin-off-oculta",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/eeuu-esta-usando-superordenador-potencia-exaescala-para-resolver-mayor-desafio-fusion-nuclear",
-    "title": "EEUU está usando un superordenador de potencia exaescala para resolver el mayor desafío de la fusión nuclear",
-    "snippet": "El superordenador Frontier del Laboratorio Nacional Oak Ridge (ORNL) vinculado al Departamento de Energía de EEUU es uno de los más potentes del planeta. De hecho, actualmente es el segundo superordenador exaescala más c...",
-    "date": "2026-04-28T13:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/eeuu-esta-usando-superordenador-potencia-exaescala-para-resolver-mayor-desafio-fusion-nuclear",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/dificil-ver-partido-mejor-que-bayern-psg-puedes-ver-dos-veces-mejor-movistar-plus-emite-esta-eliminatoria-completa",
-    "title": "Es difícil ver un partido mejor que Bayern-PSG y, si lo puedes ver dos veces, mejor: Movistar Plus+ emite esta eliminatoria completa",
-    "snippet": "El Mundial de fútbol ya está a la vuelta de la esquina, pero todavía queda que se decida una de las competiciones más importantes: la Champions League. Es una competición que da gusto ver, incluso si no juega tu equipo f...",
-    "date": "2026-04-28T13:15:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/dificil-ver-partido-mejor-que-bayern-psg-puedes-ver-dos-veces-mejor-movistar-plus-emite-esta-eliminatoria-completa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/dificil-ver-partido-mejor-que-bayern-psg-puedes-ver-dos-veces-mejor-movistar-plus-emite-esta-eliminatoria-completa",
-    "title": "La eliminatoria completa Bayern de Múnich-PSG es solo el aperitivo: en Movistar Plus+ podrás ver el Clásico y mucho más",
-    "snippet": "El Mundial de fútbol ya está a la vuelta de la esquina, pero todavía queda que se decida una de las competiciones más importantes: la Champions League. Es una competición que da gusto ver, incluso si no juega tu equipo f...",
-    "date": "2026-04-28T13:15:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/dificil-ver-partido-mejor-que-bayern-psg-puedes-ver-dos-veces-mejor-movistar-plus-emite-esta-eliminatoria-completa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/trabajos-mejor-pagados-espana-2026-profesiones-sueldos-altos",
-    "title": "Los trabajos mejor pagados en España en 2026: de los 56.000 euros de un médico a 250.000 por dirigir la banca privada",
-    "snippet": "Ganar más de 50.000 euros al año en España sigue siendo más una excepción que una norma. Según la Encuesta de Remuneración Total elaborada por la consultora Mercer con datos de más de 700 empresas y 4.800 puestos de trab...",
-    "date": "2026-04-28T13:01:53",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/trabajos-mejor-pagados-espana-2026-profesiones-sueldos-altos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/sistema-oceanico-predecible-pacifico-ha-colapsado-primera-vez-40-anos-nadie-sabe-muy-bien-que",
-    "title": "El sistema oceánico más predecible del Pacífico ha colapsado por primera vez en 40 años. Y nadie sabe muy bien por qué",
-    "snippet": "Por primera vez en al menos 40 años de registros sistemáticos, el \"afloramiento estacional\" del Golfo de Panamá (el mecanismo que empuja agua fría y rica en nutrientes desde el fondo hasta la superficie cada primer trime...",
-    "date": "2026-04-28T12:31:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/sistema-oceanico-predecible-pacifico-ha-colapsado-primera-vez-40-anos-nadie-sabe-muy-bien-que",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/freepik-se-llama-ahora-magnific-cambio-nombre",
-    "title": "Freepik se llama ahora Magnific. Y el cambio de nombre es lo de menos",
-    "snippet": "Freepik se ha rebautizado como Magnific. La empresa malagueña, fundada en 2010 como un buscador de recursos gráficos, ha decidido adoptar el nombre de la startup murciana que adquirió en mayo de 2024 y reorganizar bajo e...",
-    "date": "2026-04-28T12:17:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/freepik-se-llama-ahora-magnific-cambio-nombre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/alguien-conecto-pc-windows-xp-proteccion-a-internet-para-ver-que-pasaba-resultado-no-sorprende",
-    "title": "Alguien conectó un PC con Windows XP sin protección a Internet para ver qué pasaba. El resultado no sorprende",
-    "snippet": "Cuando Microsoft finaliza su soporte de actualizaciones de seguridad en sus sistemas operativos, no suele ser recomendable utilizar un PC con dicho sistema a no ser que sea para algún caso puntual y específico. Eric Park...",
-    "date": "2026-04-28T12:15:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/alguien-conecto-pc-windows-xp-proteccion-a-internet-para-ver-que-pasaba-resultado-no-sorprende",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hora-hablar-uno-secretos-mejor-guardados-antartida-pinguinos-apestan-mal",
-    "title": "Es hora de hablar de uno de los secretos mejor guardados de la Antártida: los pingüinos huelen que apestan",
-    "snippet": "Esta historia empieza tomando café en el Ateneo de Lugo y hojeando el Progreso; continúa con una entrevista a Iker Trigo, un técnico lucenses del CSIC que ha pasado una campaña antártica, confesando que \"nunca imaginó qu...",
-    "date": "2026-04-28T12:01:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hora-hablar-uno-secretos-mejor-guardados-antartida-pinguinos-apestan-mal",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-martes-28-abril-del-2026-1072952.aspx",
-    "title": "Estas son las normas legales más importantes del martes 28 de abril del 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-04-28T11:42:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-martes-28-abril-del-2026-1072952.aspx",
-    "category": "MERCADO"
   }
 ]
