@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cx21n6zzpqwo#0",
+    "title": "The kelp producer who wants to get Americans eating seaweed",
+    "snippet": "Marine farmer Suzie Flores also hopes the crop can revitalise the US's small fishing towns....",
+    "date": "2026-04-29T23:01:07",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cx21n6zzpqwo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433197",
+    "title": "Brasil: APS presenta plan de contingencia del Puerto de Santos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Santos (APS) presentó una versión actualizada del Plan de Contingencia del Puerto\nLa entrada Brasil: APS presenta plan de contingencia del Puerto d...",
+    "date": "2026-04-29T23:00:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-aps-presenta-plan-de-contingencia-del-puerto-de-santos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-proinversion-impulsa-nuevas-oportunidades-negocio-sectores-productivos-ancash-1073215.aspx",
+    "title": "ProInversión impulsa nuevas oportunidades de negocio en sectores productivos de Áncash",
+    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión), con el acompañamiento de la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), presentó en Huaraz diversas oportunidades de invers...",
+    "date": "2026-04-29T23:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-proinversion-impulsa-nuevas-oportunidades-negocio-sectores-productivos-ancash-1073215.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c9d313g91g4o#0",
+    "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
+    "snippet": "The family dynasty behind Samsung is so complicated it regularly makes headline news in South Korea....",
+    "date": "2026-04-29T22:35:53",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433073",
+    "title": "Gobierno de Donald Trump invierte USD 800 millones de dólares en puertos para fortalecer cadenas de suministro",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración Marítima del Departamento de Transporte (Marad) anunció la inversión de 774 millones de dólares\nLa entrada Gobierno de Donald Trump invierte USD 800 millon...",
+    "date": "2026-04-29T22:30:02",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/gobierno-de-donald-trump-invierte-usd-800-millones-de-dolares-en-puertos-para-fortalecer-cadenas-de-suministro/",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.theverge.com/920845/alexis-ohanian-shocks-washington-with-pro-immigration-remarks",
     "title": "Grindr — yes, Grindr — won the WHCD party circuit",
     "snippet": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here...",
@@ -1302,51 +1347,6 @@
     "date": "2026-04-28T21:00:41",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/cosco-shipping-lanza-nuevo-contenedor-refrigerado-ferroviario-de-45-pies/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/energia/ia-necesita-cada-vez-electricidad-para-avanzar-meta-ha-firmado-acuerdo-para-buscarla-espacio",
-    "title": "La IA necesita cada vez más electricidad para avanzar: Meta ha firmado un acuerdo para buscarla en el espacio",
-    "snippet": "Allá por 1941, Isaac Asimov ya jugaba con una idea que durante décadas sonó más a literatura que a infraestructura: capturar energía solar en el espacio y enviarla de vuelta a la Tierra. No era una ocurrencia menor. En e...",
-    "date": "2026-04-28T20:45:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/ia-necesita-cada-vez-electricidad-para-avanzar-meta-ha-firmado-acuerdo-para-buscarla-espacio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-concytec-reunira-a-investigadores-nacionales-y-extranjeros-evento-peru-investiga-2026-1073030.aspx",
-    "title": "Concytec reunirá a investigadores nacionales y extranjeros en evento Perú Investiga 2026",
-    "snippet": "Del 20 al 22 de mayo de 2026, investigadores peruanos y extranjeros, junto a actores del ecosistema de la ciencia, la tecnología y la innovación (CTI), se reunirán en Perú Investiga 2026, la primera edición de un evento ...",
-    "date": "2026-04-28T20:35:50",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-concytec-reunira-a-investigadores-nacionales-y-extranjeros-evento-peru-investiga-2026-1073030.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMi3wFBVV95cUxOR1dNLXFyMzNWaGxTV0tSSnk3a0NYMldSOXQ4VHJ3NXdaQWNvSzRBaGZTRWc1clRXdXZYcENHQTNxMlN0MDBVY1FheUo1WEZIQi1YdEZhSnI3Sm9JT2YzTElKM2xiS0g5NkJzN2JXUjBBZmw0LTZVNVJPelA0Ul9QMFF3UFJvVGFDc05IbU04QjN3UTZEZXNXVkswSnE2RElOakhNX082VjVRWk5LOGhuVTZkbG5NRjNrSEFnZ1BxckFyWmYxQ3E2NXhNUHY5Z3UwYjJucmFVd0wteXdfWjI0",
-    "title": "Indecopi declara ilegales restricciones horarias a la venta de bebidas alcohólicas en seis distritos - TVPerú",
-    "snippet": "Indecopi declara ilegales restricciones horarias a la venta de bebidas alcohólicas en seis distritos  TVPerú...",
-    "date": "2026-04-28T20:34:49",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1dNLXFyMzNWaGxTV0tSSnk3a0NYMldSOXQ4VHJ3NXdaQWNvSzRBaGZTRWc1clRXdXZYcENHQTNxMlN0MDBVY1FheUo1WEZIQi1YdEZhSnI3Sm9JT2YzTElKM2xiS0g5NkJzN2JXUjBBZmw0LTZVNVJPelA0Ul9QMFF3UFJvVGFDc05IbU04QjN3UTZEZXNXVkswSnE2RElOakhNX082VjVRWk5LOGhuVTZkbG5NRjNrSEFnZ1BxckFyWmYxQ3E2NXhNUHY5Z3UwYjJucmFVd0wteXdfWjI0?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432963",
-    "title": "Fuerzas estadounidenses abordan buque en el mar Arábigo bajo sospecha de intentar llegar a puertos iraníes",
-    "snippet": "Por Redacción PortalPortuario/Agencia Anadolu @PortalPortuario El Comando Central de los Estados Unidos (Centcom) informó que sus fuerzas que operan en\nLa entrada Fuerzas estadounidenses abordan buque en el mar Arábigo b...",
-    "date": "2026-04-28T20:30:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/fuerzas-estadounidenses-abordan-buque-en-el-mar-arabigo-bajo-sospecha-de-intentar-llegar-a-puertos-iranies/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432904",
-    "title": "Brasil: EMAP implementará tecnología de control e inspección con escáneres de doble visión en Puerto de Itaquí",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Compañía Administrativa Portuaria de Maranhão (EMAP) anunció la implementación de un equipo integrado de tecnologías\nLa entrada Brasil: EMAP implementará tecnología de co...",
-    "date": "2026-04-28T20:00:26",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-emap-implementara-tecnologia-de-control-e-inspeccion-con-escaneres-de-doble-vision-en-puerto-de-itaqui/",
     "category": "LOGÍSTICA"
   }
 ]
