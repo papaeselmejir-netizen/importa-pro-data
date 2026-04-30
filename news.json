@@ -1,5 +1,131 @@
 [
   {
+    "id": "https://www.xataka.com/empresas-y-economia/vinted-vale-8-000-millones-ha-conseguido-ia-solo-vendiendo-ropa-usada-tus-vecinos",
+    "title": "Vinted ya vale 8.000 millones y lo ha conseguido sin IA. Solo vendiendo la ropa usada de tus vecinos",
+    "snippet": "Vinted, la plataforma lituana de segunda mano, ha cerrado una venta secundaria de acciones de 880 millones de euros liderada por EQT que aumenta su valoración a 8.000 millones. No ha captado capital nuevo. Ha dejado sali...",
+    "date": "2026-04-30T15:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/vinted-vale-8-000-millones-ha-conseguido-ia-solo-vendiendo-ropa-usada-tus-vecinos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3117905",
+    "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
+    "snippet": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian....",
+    "date": "2026-04-30T15:29:49",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=921157",
+    "title": "$100 Nintendo gift cards are $20 off at Newegg today",
+    "snippet": "Nintendo eShop gift cards can be used to buy games, apparel, and even hardware or accessories from its online storefront. No matter what you want to get, you can save a fairly substantial amount by purchasing a twin-pack...",
+    "date": "2026-04-30T15:15:03",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/921157/100-nintendo-gift-cards-are-20-off-at-newegg-today",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/dano-colateral-bloqueo-estadounidense-cerrar-pozos-falta-espacio-amenaza-destruir-vieja-infraestructura-petrolera-irani",
+    "title": "EEUU sí está haciendo mucho daño a Irán con el contrabloqueo de Ormuz. Tanto que ya sopesa cerrar pozos de petróleo",
+    "snippet": "El petróleo tiene una ley física inquebrantable: una vez que sale de la tierra, tiene que ir a alguna parte. Si los barcos no pueden transportarlo y los tanques de almacenamiento se llenan, la única opción es cerrar los ...",
+    "date": "2026-04-30T15:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/dano-colateral-bloqueo-estadounidense-cerrar-pozos-falta-espacio-amenaza-destruir-vieja-infraestructura-petrolera-irani",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433301",
+    "title": "Buque acusado por Ucrania de transportar grano robado no descargará en Israel",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El ministro de Asuntos Exteriores de Ucrania, Andrii Sybiha, afirmó que un buque que transportaba\nLa entrada Buque acusado por Ucrania de transportar grano r...",
+    "date": "2026-04-30T15:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/buque-acusado-por-ucrania-de-transportar-grano-robado-no-descargara-en-israel/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/olivar-espanol-ha-vendido-su-alma-noticias-dicen-que-agoniza-placas-solares-expropiaciones-datos-cuenta-contrario",
+    "title": "El olivar español ha vendido su alma: mientras las noticias dicen que agoniza entre placas solares y expropiaciones, los datos cuenta lo contrario",
+    "snippet": "Placas solares que arrasan olivos, expropiaciones masivas en Jaén, advertencias de que España deberá importar aceite... Si hiciéramos caso a los últimos meses de noticias sobre el mundo de la aceituna las conclusiones so...",
+    "date": "2026-04-30T14:46:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/olivar-espanol-ha-vendido-su-alma-noticias-dicen-que-agoniza-placas-solares-expropiaciones-datos-cuenta-contrario",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/componentes/crisis-ram-buenisima-noticia-para-alguien-ese-alguien-samsung",
+    "title": "La crisis de la RAM es una buenísima noticia para alguien. Ese alguien es Samsung",
+    "snippet": "La gran crisis de suministro en 2026 está protagonizada por las memorias. Samsung, SK Hynix y Micron controlan el 90% de la producción mundial de DRAM, y solo pueden cubrir actualmente cerca del 60% de la demanda previst...",
+    "date": "2026-04-30T14:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/componentes/crisis-ram-buenisima-noticia-para-alguien-ese-alguien-samsung",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=920921",
+    "title": "How Adam Scott became an accidental horror movie star",
+    "snippet": "Adam Scott grew up watching horror movies at, as he describes it, \"probably too young\" an age. But he never set out to work specifically in the genre. Even still, horror seemed to follow him around from the very beginnin...",
+    "date": "2026-04-30T14:30:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-proyecta-crecimiento-32-para-economia-peruana-entre-2027-y-2029-1073281.aspx",
+    "title": "MEF proyecta crecimiento de 3.2% para la economía peruana entre el 2027 y 2029",
+    "snippet": "La economía peruana crecería en promedio 3.2% en el período 2027-2029, sostenido por mayores inversiones, exportaciones más dinámicas y mejoras de productividad, todo ello en un entorno de estabilidad macroeconómica y ma...",
+    "date": "2026-04-30T14:18:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-proyecta-crecimiento-32-para-economia-peruana-entre-2027-y-2029-1073281.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "ae96f933-8e73-4715-bf5c-69c879acec6e",
+    "title": "Europa League Soccer: Livestream Nottingham Forest vs. Aston Villa Today",
+    "snippet": "The Tricky Trees host fellow Premier League team Aston Villa in this intriguing first leg....",
+    "date": "2026-04-30T14:13:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-nottingham-forest-vs-aston-villa/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-pronabec-beneficiarios-pueden-postular-a-curso-sobre-big-data-hasta-3-mayo-1073283.aspx",
+    "title": "Pronabec: beneficiarios pueden postular a curso sobre Big Data hasta el 3 de mayo",
+    "snippet": "Con el objetivo de que más jóvenes peruanos refuercen sus habilidades en el campo de la tecnología y mejoren su perfil de empleabilidad, el Programa Nacional de Becas y Crédito Educativo (Pronabec) coordinó con el Progra...",
+    "date": "2026-04-30T14:07:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-pronabec-beneficiarios-pueden-postular-a-curso-sobre-big-data-hasta-3-mayo-1073283.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ryanair-recortara-1-2-millones-asientos-aeropuertos-espanoles-region-sufrira-que-resto-galicia",
+    "title": "Ryanair recortará 1,2 millones de asientos en España pero hay una región que sufrirá más que el resto: Galicia",
+    "snippet": "Ryanair reducirá asientos, cancelará rutas y subirá el precio de los billetes. Esa es la estrategia que atisba la compañía para España durante el próximo verano. Y es que Eddie Wilson ha confirmado una estrategia de la q...",
+    "date": "2026-04-30T14:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ryanair-recortara-1-2-millones-asientos-aeropuertos-espanoles-region-sufrira-que-resto-galicia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-startup-combina-biodiversidad-peruana-y-ciencia-productos-cosmeticos-1072894.aspx",
+    "title": "Startup combina biodiversidad peruana y ciencia en productos cosméticos",
+    "snippet": "La cosmética peruana está dando un gran salto hacia la ciencia y la sostenibilidad. En el centro de esta evolución se encuentra Intiflow, un innovador bloqueador solar FPS 50+ desarrollado a partir de insumos naturales d...",
+    "date": "2026-04-30T14:00:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-startup-combina-biodiversidad-peruana-y-ciencia-productos-cosmeticos-1072894.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=920768",
+    "title": "How to win — and lose — Decoder",
+    "snippet": "This interview has been lightly edited for length and clarity.&#160; Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer, and I&#8217;m joined by host ...",
+    "date": "2026-04-30T14:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=921190",
     "title": "Samsung says the RAM shortage could get even worse next year",
     "snippet": "There may be a long wait before the end of the RAM shortage that's driving up prices on everything from phones to gaming handhelds. During an earnings call on Thursday, Samsung predicted that the severe memory shortage, ...",
@@ -288,6 +414,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/magnet/dos-turistas-eeuu-decidieron-liberar-langostas-bar-italia-ecologistas-creen-que-fue-decision-pesima",
+    "title": "Dos turistas estadounidenses decidieron marcarse un \"liberad a Willy\" versión marisquería en Italia. Grave error",
+    "snippet": "En teoría iba a ser un gesto bonito, una performance con la que dar un punto emotivo a unas vacaciones en el Mediterráneo, pero ha acabado convertido en un error garrafal. Hace unos días, mientras comían en un restaurant...",
+    "date": "2026-04-30T08:30:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/dos-turistas-eeuu-decidieron-liberar-langostas-bar-italia-ecologistas-creen-que-fue-decision-pesima",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/seleccion/6-mejores-televisores-que-recomiendo-para-ver-mundial-futbol-2026",
     "title": "Qué tele elegir para disfrutar del Mundial de fútbol en 2026: estas son mis seis recomendaciones",
     "snippet": "El Mundial de Fútbol 2026 está a la vuelta de la esquina. Si hay algo que define a este torneo (desde el punto de vista tecnológico estamos hablando) es la necesidad de una buena tele con brillo extremo (sobre todo para ...",
@@ -299,6 +434,15 @@
   {
     "id": "https://www.xataka.com/seleccion/6-mejores-televisores-que-recomiendo-para-ver-mundial-futbol-2026",
     "title": "Seis teles que te recomiendo para ver el Mundial de fútbol 2026 como si estuvieras en el estadio",
+    "snippet": "El Mundial de Fútbol 2026 está a la vuelta de la esquina. Si hay algo que define a este torneo (desde el punto de vista tecnológico estamos hablando) es la necesidad de una buena tele con brillo extremo (sobre todo para ...",
+    "date": "2026-04-30T08:13:55",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/6-mejores-televisores-que-recomiendo-para-ver-mundial-futbol-2026",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/6-mejores-televisores-que-recomiendo-para-ver-mundial-futbol-2026",
+    "title": "Teles RGB, MiniLED, OLED y QLED: las mejores opciones para ver los partidos del Mundial 2026 en casa",
     "snippet": "El Mundial de Fútbol 2026 está a la vuelta de la esquina. Si hay algo que define a este torneo (desde el punto de vista tecnológico estamos hablando) es la necesidad de una buena tele con brillo extremo (sobre todo para ...",
     "date": "2026-04-30T08:13:55",
     "source": "XATAKA",
@@ -384,6 +528,15 @@
     "date": "2026-04-30T06:00:27",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/crisis-combustible-esta-poniendo-jaque-a-aerolineas-ryanair-sabe-donde-empezar-a-recortar-espana",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-30-abril-del-2026-1073291.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy jueves 30 de abril del 2026?",
+    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-04-30T05:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-30-abril-del-2026-1073291.aspx",
     "category": "TRIBUTARIO"
   },
   {
@@ -1195,158 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-29-abril-del-2026-1073138.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/hay-miles-articulos-cientificos-que-piden-pagar-para-leerlos-sci-bot-ha-llegado-para-acceder-a-ellos-gratis",
-    "title": "Hay miles de artículos científicos que piden pagar para leerlos. Sci-Bot ha llegado para acceder a ellos gratis",
-    "snippet": "El conocimiento científico supuestamente es algo que nos nutre a todos los seres humanos para seguir avanzando, pero el problema es que en muchas ocasiones los artículos que contienen este conocimiento están en herramien...",
-    "date": "2026-04-29T14:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/hay-miles-articulos-cientificos-que-piden-pagar-para-leerlos-sci-bot-ha-llegado-para-acceder-a-ellos-gratis",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/hay-miles-articulos-cientificos-que-piden-pagar-para-leerlos-sci-bot-ha-llegado-para-acceder-a-ellos-gratis",
-    "title": "Leer los artículos científicos más importantes del mundo era caro y complejo: Sci-Hub lo ha arreglado con una IA",
-    "snippet": "El conocimiento científico supuestamente es algo que nos nutre a todos los seres humanos para seguir avanzando, pero el problema es que en muchas ocasiones los artículos que contienen este conocimiento están en herramien...",
-    "date": "2026-04-29T14:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/hay-miles-articulos-cientificos-que-piden-pagar-para-leerlos-sci-bot-ha-llegado-para-acceder-a-ellos-gratis",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/xbox-prepara-su-gran-regreso-a-consolas-project-helix-advertencia-esta-clara-precio-sera-victima-ramageddon",
-    "title": "Xbox prepara su gran regreso a las consolas con Project Helix. La advertencia está clara: el precio será víctima del RAMageddon",
-    "snippet": "Steam Machine, la nueva máquina de Valve, ya debería estar en el mercado. Sin embargo, hace unas semanas ocurrió algo curioso: Valve se presentó en la GDC pidiendo 'ayuda' para poder comprar memoria RAM. Porque ni siquie...",
-    "date": "2026-04-29T14:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/xbox-prepara-su-gran-regreso-a-consolas-project-helix-advertencia-esta-clara-precio-sera-victima-ramageddon",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/xbox-prepara-su-gran-regreso-a-consolas-project-helix-advertencia-esta-clara-precio-sera-victima-ramageddon",
-    "title": "Xbox aún no ha hecho oficial su nueva consola pero sí sabemos algo: va a ser muy cara por culpa de la RAM",
-    "snippet": "Steam Machine, la nueva máquina de Valve, ya debería estar en el mercado. Sin embargo, hace unas semanas ocurrió algo curioso: Valve se presentó en la GDC pidiendo 'ayuda' para poder comprar memoria RAM. Porque ni siquie...",
-    "date": "2026-04-29T14:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/xbox-prepara-su-gran-regreso-a-consolas-project-helix-advertencia-esta-clara-precio-sera-victima-ramageddon",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/huesca-lleida-estaban-separadas-110-kilometros-espana-ha-tardado-25-anos-unirlas-autovia",
-    "title": "Huesca y Lleida estaban separadas por 110 kilómetros. España ha tardado 25 años en unirlas por autovía",
-    "snippet": "España tiene una máxima que se repite cuando hablamos de carreteras: las cosas van despacio. Bastante despacio, de hecho. Solo hay que ver que la A-11, una de las grandes autovías castellanoleonesas lleva desde 1995 en m...",
-    "date": "2026-04-29T14:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/huesca-lleida-estaban-separadas-110-kilometros-espana-ha-tardado-25-anos-unirlas-autovia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-arquero-argentino-esteban-andrada-fue-suspendido-13-partidos-punetazo-a-rival-1073129.aspx",
-    "title": "Arquero argentino Esteban Andrada fue suspendido 13 partidos por puñetazo a rival",
-    "snippet": "El argentino Esteban Andrada, guardameta del Zaragoza, ha sido sancionado con trece partidos de suspensión tras agredir a Jorge Pulido, defensa del Huesca, el partido de la trigésima séptima jornada de LaLiga Hypermotion...",
-    "date": "2026-04-29T13:55:05",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-arquero-argentino-esteban-andrada-fue-suspendido-13-partidos-punetazo-a-rival-1073129.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433050",
-    "title": "Puerto Columbo es reconocido como socio estratégico en aniversario de Cámara Aduanera de Chile",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el marco de la conmemoración de un nuevo aniversario de la Cámara Aduanera de Chile,\nLa entrada Puerto Columbo es reconocido como socio estratégico en aniversario de Cáma...",
-    "date": "2026-04-29T13:55:05",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-columbo-es-reconocido-como-socio-estrategico-en-aniversario-de-camara-aduanera-de-chile/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "c545ed2d-2a53-488e-bc53-578e483dd147",
-    "title": "Waymo Eyes Portland for Robotaxi Expansion, With Testing Already Underway",
-    "snippet": "You may soon see the self-driving robotaxis​ in Oregon's City of Roses....",
-    "date": "2026-04-29T13:48:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/roadshow/news/waymo-portland-oregon-robotaxi-expansion-driver-technology/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/amancio-ortega-ha-conquistado-ibex-tres-empresas-blackrock-ha-intentado-veinte-se-le-ha-acercado",
-    "title": "España ya tiene su propio \"Warren Buffett\": Amancio Ortega se ha convertido el mayor inversor del Ibex35 con solo tres inversiones",
-    "snippet": "Amancio Ortega no solo es el hombre más rico de España, gracias a haber fundado los imperios financieros de Inditex y Pontegadea, sino que también ha resultado ser el mayor accionista privado de la bolsa española. Y, ade...",
-    "date": "2026-04-29T13:46:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/amancio-ortega-ha-conquistado-ibex-tres-empresas-blackrock-ha-intentado-veinte-se-le-ha-acercado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-aprueba-normas-para-regimen-excepcional-pago-multas-pesca-y-acuicultura-1073126.aspx",
-    "title": "Gobierno aprueba normas para régimen excepcional de pago de multas en pesca y acuicultura",
-    "snippet": "El Ministerio de la Producción (Produce) aprobó normas temporales para la aplicación de un régimen excepcional para el pago de multas administrativas en el sector pesca y acuicultura....",
-    "date": "2026-04-29T13:35:55",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-aprueba-normas-para-regimen-excepcional-pago-multas-pesca-y-acuicultura-1073126.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-expoamazonica-cusco-2026-espera-generar-negocios-mas-s-100-millones-1073060.aspx",
-    "title": "ExpoAmazónica Cusco 2026 espera generar negocios por más de S/ 100 millones",
-    "snippet": "Entre este miércoles 29 de abril y el domingo 3 de mayo, Cusco será escenario por primera vez de la Feria ExpoAmazónica en la que se espera reunir a gran número de empresarios y productores del país y del extranjero, en ...",
-    "date": "2026-04-29T13:34:14",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-expoamazonica-cusco-2026-espera-generar-negocios-mas-s-100-millones-1073060.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433017",
-    "title": "Wilson Sons hace entregas mediante drones en Bahía de Guanabara",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Wilson Sons, operador de logística marítima y portuaria con más de 188 años de experiencia, realizará\nLa entrada Wilson Sons hace entregas mediante drones en Bahía de Guanab...",
-    "date": "2026-04-29T13:30:28",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/wilson-sons-hace-entregas-mediante-drones-en-bahia-de-guanabara/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/envejecimiento-poblacion-ha-llevado-a-japon-a-plan-precedentes-llenar-luchadores-mma-sus-residencias",
-    "title": "El envejecimiento de la población ha llevado a Japón a un plan sin precedentes: llenar sus residencias de luchadores de MMA",
-    "snippet": "En 1964, durante los Juegos Olímpicos de Tokio, Japón desplegó a miles de jóvenes voluntarios para asistir a visitantes extranjeros en tareas tan básicas como orientarse o moverse por la ciudad, en un esfuerzo coordinado...",
-    "date": "2026-04-29T13:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/envejecimiento-poblacion-ha-llevado-a-japon-a-plan-precedentes-llenar-luchadores-mma-sus-residencias",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cientificos-detectan-nueva-plaga-afecta-al-cultivo-palto-la-region-amazonas-1073024.aspx",
-    "title": "Científicos detectan nueva plaga que afecta al cultivo de palto en la región Amazonas",
-    "snippet": "Investigadores de la Universidad Nacional Toribio Rodríguez de Mendoza (UNTRM) de Amazonas identificaron por primera vez en el país la presencia del insecto Monalonion velezangeli, una plaga que está afectando los cultiv...",
-    "date": "2026-04-29T13:29:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cientificos-detectan-nueva-plaga-afecta-al-cultivo-palto-la-region-amazonas-1073024.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sporting-cristal-dt-ze-ricardo-hizo-un-pedido-importante-a-fpf-tras-ganar-al-junior-1073124.aspx",
-    "title": "Sporting Cristal: DT Zé Ricardo hizo un pedido importante a la FPF tras ganar al Junior",
-    "snippet": "El técnico de Sporting Cristal, Zé Ricardo, pidió a la Federación Peruana de Fútbol (FPF) que ayude a los clubes peruanos que compiten en los torneo internacionales (Copa Libertadores y Copa Sudamericana) con la reprogra...",
-    "date": "2026-04-29T13:18:57",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sporting-cristal-dt-ze-ricardo-hizo-un-pedido-importante-a-fpf-tras-ganar-al-junior-1073124.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/seis-razones-que-no-compre-kindle-no-me-arrepiento-nada-2026",
-    "title": "Seis razones por las que no compré un Kindle y no me arrepiento nada en 2026",
-    "snippet": "Hace casi cuatro años di el salto a los eReaders (lectores de libros electrónicos) para, en cierto modo, obligarme un poco a leer. Por aquel entonces llevaba bastante tiempo sin adentrarme en la lectura y quise comprar u...",
-    "date": "2026-04-29T13:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/seis-razones-que-no-compre-kindle-no-me-arrepiento-nada-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3117341",
-    "title": "Firestorm Labs raises $82M to take drone factories into the field",
-    "snippet": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines....",
-    "date": "2026-04-29T13:10:57",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-    "category": "MERCADO"
   }
 ]
