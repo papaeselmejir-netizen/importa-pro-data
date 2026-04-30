@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-pacto-por-bienestar-integral-programas-sociales-trabajaran-enfoque-salud-mental-1073395.aspx",
+    "title": "Pacto por el bienestar integral: programas sociales trabajarán con enfoque de salud mental",
+    "snippet": "En una iniciativa orientada a fortalecer la atención integral de la población más vulnerable, el Ministerio de Desarrollo e Inclusión Social (Midis) y el Consejo Directivo Regional I Lima y Callao del Colegio de Psicólog...",
+    "date": "2026-04-30T23:39:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-pacto-por-bienestar-integral-programas-sociales-trabajaran-enfoque-salud-mental-1073395.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433509",
+    "title": "Uruguay: Administración Nacional de Puertos logra incremento de 32% en resultado económico al cierre de 2025",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El resultado económico de la Administración Nacional de Puertos (ANP) de Uruguay durante el ejercicio 2025\nLa entrada Uruguay: Administración Nacional de Puertos logra incre...",
+    "date": "2026-04-30T23:30:31",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/uruguay-administracion-nacional-de-puertos-logra-incremento-de-32-en-resultado-economico-al-cierre-de-2025/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ucayali-mas-1000-hogares-masisea-se-beneficiaran-energia-solar-a-fines-mayo-1073367.aspx",
+    "title": "Ucayali: más de 1000 hogares de Masisea se beneficiarán con energía solar a fines de mayo",
+    "snippet": "Más de 1000 hogares del distrito de Masisea, en la región Ucayali, contarán con energía eléctrica a partir de fines de mayo, cuando entre en funcionamiento la Central Solar Fotovoltaica Masisea, infraestructura con una p...",
+    "date": "2026-04-30T23:00:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ucayali-mas-1000-hogares-masisea-se-beneficiaran-energia-solar-a-fines-mayo-1073367.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=433438",
     "title": "Uruguay: Administración Nacional de Puertos recibe nueva embarcación batimétrica",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración Nacional de Puertos (ANP) de Uruguay recibió su nueva lancha batimétrica. La unidad, llamada\nLa entrada Uruguay: Administración Nacional de Puertos recibe ...",
@@ -43,6 +70,24 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/avanza-proceso-para-licitar-consultoria-de-diseno-que-permita-definir-ampliacion-del-puerto-terrestre-los-andes/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "689705cf-2af4-428b-a2e2-c95dc2a98718",
+    "title": "Apple Plugs Security Hole That Enabled FBI to Access Deleted Signal Messages on iPhone",
+    "snippet": "The iOS 26.4.2 update is actually a big deal for privacy, even for people who use other messaging apps....",
+    "date": "2026-04-30T21:56:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/apple-plugs-iphone-hole-that-enabled-fbi-to-access-deleted-signal-messages/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "67c4f6cc-3599-4d80-9133-a895025952b6",
+    "title": "Best VPN for iPhone 2026: Boost Your Privacy on the Go",
+    "snippet": "Enhance your privacy while surfing the web, stream foreign Netflix libraries, unblock regional sports and avoid mobile traffic shaping with the best iPhone VPNs....",
+    "date": "2026-04-30T21:51:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/best-vpn-for-iphone/",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-cusco-loreto-y-san-martin-tienen-cartera-inversiones-mas-5000-millones-1073377.aspx",
@@ -1302,51 +1347,6 @@
     "date": "2026-04-29T21:19:39",
     "source": "THE VERGE",
     "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1686315",
-    "title": "Indecopi: bancos y financieras no pueden rechazar créditos por edad",
-    "snippet": "Sala Especializada en Protección al Consumidor sancionó a la Caja Municipal de Ahorro y Crédito Tacna y a la Cooperativa de Ahorro y Crédito Serfinco por establecer rangos de edad en la promoción de sus productos, sin ac...",
-    "date": "2026-04-29T21:12:08",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/indecopi-bancos-y-financieras-no-pueden-rechazar-creditos-por-edad-noticia-1686315",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433192",
-    "title": "Puerto Antofagasta y Antofagasta Terminal Internacional realizaron feria abierta a la comunidad sobre seguridad y salud en el trabajo",
-    "snippet": "Por PortalPortuario Social Puerto Antofagasta, junto a su concesionario Antofagasta Terminal Internacional, realiza la segunda versión de la Feria de\nLa entrada Puerto Antofagasta y Antofagasta Terminal Internacional rea...",
-    "date": "2026-04-29T21:11:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-antofagasta-y-antofagasta-terminal-internacional-realizaron-feria-abierta-a-la-comunidad-sobre-seguridad-y-salud-en-el-trabajo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433180",
-    "title": "Puerto Antofagasta y Antofagasta Terminal Internacional realizan feria comunitaria sobre seguridad y salud en el trabajo",
-    "snippet": "Por PortalPortuario Social Puerto Antofagasta, junto a su concesionario Antofagasta Terminal Internacional, realiza la segunda versión de la Feria de\nLa entrada Puerto Antofagasta y Antofagasta Terminal Internacional rea...",
-    "date": "2026-04-29T21:03:21",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-antofagasta-y-antofagasta-terminal-internacional-realizan-feria-comunitaria-sobre-seguridad-y-salud-en-el-trabajo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/google-ha-llevado-a-gemini-paso-alla-ahora-genera-archivos-excel-pdfs-mucho-directamente",
-    "title": "Google ha llevado a Gemini un paso más allá: ahora genera archivos de Excel, PDFs y mucho más directamente",
-    "snippet": "La inteligencia artificial generativa ha cambiado muchas cosas, pero no ha eliminado una escena muy cotidiana: pedirle algo al chatbot, recibir una respuesta útil y terminar llevándola a mano a otro documento. Una propue...",
-    "date": "2026-04-29T20:38:08",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/google-ha-llevado-a-gemini-paso-alla-ahora-genera-archivos-excel-pdfs-mucho-directamente",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-amazonas-inician-capacitacion-brigadistas-para-combatir-incendios-forestales-1073210.aspx",
-    "title": "Amazonas: inician capacitación de brigadistas para combatir incendios forestales",
-    "snippet": "Especialistas del Servicio Nacional Forestal y de Fauna Silvestre (Serfor) dictaron el “Curso de Formación de Brigadistas de Apoyo Local” en la región Amazonas, dirigido a servidores públicos municipales, como parte de l...",
-    "date": "2026-04-29T20:25:48",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-amazonas-inician-capacitacion-brigadistas-para-combatir-incendios-forestales-1073210.aspx",
     "category": "MERCADO"
   }
 ]
