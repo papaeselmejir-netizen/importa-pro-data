@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.theverge.com/?p=921527",
+    "title": "Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages",
+    "snippet": "Apple's iPhone revenue jumped 22 percent to $57 billion over the past few months, despite supply chain issues impacting the device's processor. During an interview with Reuters, Apple CEO Tim Cook said iPhone \"demand was...",
+    "date": "2026-04-30T20:58:22",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-china-insta-a-eeuu-a-preservar-estabilidad-sus-relaciones-y-advierte-sobre-taiwan-1073369.aspx",
+    "title": "China insta a EE.UU. a preservar estabilidad de sus relaciones y advierte sobre Taiwán",
+    "snippet": "El jefe de la diplomacia china, Wang Yi, exhortó el jueves a Estados Unidos a \"preservar la estabilidad\" entre las dos potencias y advirtió de que Taiwán representa el mayor riesgo, dos semanas antes de la prevista visit...",
+    "date": "2026-04-30T20:35:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-china-insta-a-eeuu-a-preservar-estabilidad-sus-relaciones-y-advierte-sobre-taiwan-1073369.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433504",
+    "title": "EE. UU.: Puerto de Houston recibe subvención para expansión y mejoras en Terminal de Bayport",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Houston recibió una subvención federal de USD 48 millones para apoyar la construcción\nLa entrada EE. UU.: Puerto de Houston recibe subvención para expansión y m...",
+    "date": "2026-04-30T20:30:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ee-uu-puerto-de-houston-recibe-subvencion-para-expansion-y-mejoras-en-terminal-de-bayport/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
+    "title": "Prime Video will stream three Duke basketball games next season",
+    "snippet": "This marks Amazon's first streaming deal with a college team....",
+    "date": "2026-04-30T20:25:46",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2161567/prime-video-will-stream-three-duke-basketball-games-next-season/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118182",
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "snippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns....",
+    "date": "2026-04-30T20:14:47",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-carretera-central-concientizan-sobre-importancia-visibilizarse-rutas-poca-luz-1073359.aspx",
+    "title": "Carretera Central: concientizan sobre importancia de visibilizarse en rutas con poca luz",
+    "snippet": "La campaña ‘Hazte visible’ del Ministerio de Transportes y Comunicaciones (MTC) llegó a la Carretera Central, donde se sensibilizó a los conductores que transitan por dicha vía respecto a la importancia de mantener una a...",
+    "date": "2026-04-30T19:49:11",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-carretera-central-concientizan-sobre-importancia-visibilizarse-rutas-poca-luz-1073359.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "7ea0fbe0-6b72-4713-a8ef-d9ec0cb66237",
+    "title": "AI Outperforms ER Doctors in Diagnostic Cases, Study Points to Collaborative Care",
+    "snippet": "While large language models can match or exceed emergency physicians in specific contexts, AI can't replace doctors....",
+    "date": "2026-04-30T19:31:55",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/new-study-finds-ai-llm-outperforms-human-doctors/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/japan-airlines-tiene-solucion-falta-personal-aeropuertos-que-trabajen-robots-humanoides",
+    "title": "Japan Airlines tiene una solución ante la falta de personal en aeropuertos: que trabajen los robots humanoides",
+    "snippet": "Un aeropuerto puede parecer una máquina muy automatizada: pantallas, puertas de embarque, cintas, controles y procesos que avanzan casi sin que nos demos cuenta. Pero basta mirar un poco más allá del recorrido del pasaje...",
+    "date": "2026-04-30T19:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/japan-airlines-tiene-solucion-falta-personal-aeropuertos-que-trabajen-robots-humanoides",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "2fd900e5-7356-48c6-b1e2-0afd4b5b728c",
+    "title": "Samsung Chip Profits Soar Amid the Tech World's RAM Shortages",
+    "snippet": "Demand for increasing AI compute is keeping chip supply short for the foreseeable future, and Samsung is coming out ahead....",
+    "date": "2026-04-30T19:06:57",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/computing/samsung-chip-profits-soar-amid-the-tech-worlds-ram-shortages/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=433451",
     "title": "Desmantelan banda criminal que movilizaba droga desde Puerto de San Antonio rumbo a Australia",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario A raíz de una investigación desarrollado por la Brigada Antinarcóticos y Contra el Crimen Organizado (Brianco)\nLa entrada Desmantelan banda criminal que movilizaba droga des...",
@@ -16,6 +97,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/energia/aluminio-se-dispara-a-maximos-cuatro-anos-europa-no-tiene-plan-b-tormenta-perfecta-que-asfixia-a-occidente",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "257b1176-bbb3-47ab-8e7c-e0096a14d923",
+    "title": "The Best Hair Dryers of 2026, With Many on Sale for Mother’s Day",
+    "snippet": "If you’re looking for the best hair dryer for your specific hair type and budget, we tested popular models from Shark, Dyson and more....",
+    "date": "2026-04-30T18:43:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/health/personal-care/best-hair-dryer/",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.xataka.com/espacio/elon-musk-quiere-millon-personas-marte-para-desbloquear-su-paga-extra-definitiva",
@@ -1258,95 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-como-se-revisan-los-certificados-discapacidad-el-serums-minsa-responde-1073151.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-lanzan-concurso-agroindustrial-asesoria-gratuita-para-emprendedores-1073200.aspx",
-    "title": "Lanzan concurso agroindustrial con asesoría gratuita para emprendedores",
-    "snippet": "El Instituto Tecnológico de la Producción (ITP) lanzó la “Innovatón”, un concurso que ofrece asesoría gratuita para desarrollar ideas agroindustriales y facilitar su ingreso al mercado competitivo....",
-    "date": "2026-04-29T19:26:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-lanzan-concurso-agroindustrial-asesoria-gratuita-para-emprendedores-1073200.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/metajets-wingardium-leviosa-luminoso-que-promete-llevar-naves-al-espacio-necesidad-combustible",
-    "title": "Metajets, el ‘Wingardium Leviosa’ luminoso que promete llevar naves al espacio sin necesidad de combustible",
-    "snippet": "Un equipo de científicos de la Universidad de Texas A&amp;M ha logrado levantar y dirigir objetos diminutos sin tocarlos. Y no, no lo ha hecho con un hechizo de Wingardium leviosa, sino con una tecnología láser que podrí...",
-    "date": "2026-04-29T19:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/metajets-wingardium-leviosa-luminoso-que-promete-llevar-naves-al-espacio-necesidad-combustible",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/metajets-wingardium-leviosa-luminoso-que-promete-llevar-naves-al-espacio-necesidad-combustible",
-    "title": "Metajets, el \"Wingardium Leviosa’ luminoso que promete llevar naves al espacio sin necesidad de combustible",
-    "snippet": "Un equipo de científicos de la Universidad de Texas A&amp;M ha logrado levantar y dirigir objetos diminutos sin tocarlos. Y no, no lo ha hecho con un hechizo de Wingardium leviosa, sino con una tecnología láser que podrí...",
-    "date": "2026-04-29T19:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/metajets-wingardium-leviosa-luminoso-que-promete-llevar-naves-al-espacio-necesidad-combustible",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-congreso-fernando-rospigliosi-se-reunio-alcalde-cusco-1073183.aspx",
-    "title": "Congreso: Fernando Rospigliosi se reunió con alcalde de Cusco",
-    "snippet": "El presidente del Congreso, Fernando Rospigliosi, se reunió esta mañana con el alcalde del Cusco, Luis Pantoja Calvo, quien agradeció al Parlamento por la aprobación de la ley que garantiza la implementación del Parque M...",
-    "date": "2026-04-29T19:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-congreso-fernando-rospigliosi-se-reunio-alcalde-cusco-1073183.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "fcad7242-558d-4c24-9210-7bd6b1b2ed0d",
-    "title": "Do It for 'Da Vine': Divine, the AI-Free Video App and Vine Archive, Is Out Now",
-    "snippet": "Damn, Daniel. Merry Chrysler. Road work ahead? Uh, yeah, I sure hope it does....",
-    "date": "2026-04-29T18:40:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/news/social-media/divine-app-launch-vine-archive-evan-henshaw-plath/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-jne-recibira-s-174-millones-para-implementacion-jurados-electorales-especiales-1073186.aspx",
-    "title": "JNE recibirá S/ 17.4 millones para implementación de Jurados Electorales Especiales",
-    "snippet": "El Gobierno, a través del Ministerio de Economía y Finanzas (MEF), autorizó una transferencia de partidas por 17 millones 370,221 soles a favor del Jurado Nacional de Elecciones (JNE), con el objetivo de financiar la imp...",
-    "date": "2026-04-29T18:30:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-jne-recibira-s-174-millones-para-implementacion-jurados-electorales-especiales-1073186.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "f4384334-7cbf-4338-a1c7-2e382a4e8fc7",
-    "title": "Google Is Paying Android Phone Owners $135 Million. Learn Why and Who's Eligible",
-    "snippet": "Anyone who has used an Android phone with a mobile service plan in the last nine years could be eligible for a payout....",
-    "date": "2026-04-29T18:15:44",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/google-is-paying-android-phone-owners-135-million-learn-why-and-whos-eligible/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/asfalto-a-barras-calistenia-como-parques-tu-ciudad-se-han-convertido-mejor-terapia-ansiedad-moderna",
-    "title": "Del asfalto a las barras de calistenia: cómo los parques de tu ciudad se han convertido en la mejor terapia contra la ansiedad moderna",
-    "snippet": "Un paseo matutino por casi cualquier parque urbano revela una escena cada vez más común: las barras de calistenia, los bancos de madera y las explanadas de césped han dejado de ser simples elementos del paisaje para conv...",
-    "date": "2026-04-29T18:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/asfalto-a-barras-calistenia-como-parques-tu-ciudad-se-han-convertido-mejor-terapia-ansiedad-moderna",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/asfalto-a-barras-calistenia-como-parques-tu-ciudad-se-han-convertido-mejor-terapia-ansiedad-moderna",
-    "title": "En la fiebre por entrenar fuerza, al gimnasio le ha salido competencia: cada vez más gente entrena en la calle",
-    "snippet": "Un paseo matutino por casi cualquier parque urbano revela una escena cada vez más común: las barras de calistenia, los bancos de madera y las explanadas de césped han dejado de ser simples elementos del paisaje para conv...",
-    "date": "2026-04-29T18:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/asfalto-a-barras-calistenia-como-parques-tu-ciudad-se-han-convertido-mejor-terapia-ansiedad-moderna",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433121",
-    "title": "Presidente de Puertos de Tierra del Fuego proyecta importancia de ampliar muelles en Ushuaia",
-    "snippet": "Las futuras inversiones en materia portuaria están siendo estudiadas por la Dirección Provincial de Puertos de Tierra del Fuego, Argentina. “Para\nLa entrada Presidente de Puertos de Tierra del Fuego proyecta importancia ...",
-    "date": "2026-04-29T18:00:04",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/presidente-de-puertos-de-tierra-del-fuego-proyecta-importancia-de-ampliar-muelles-en-ushuaia/",
-    "category": "LOGÍSTICA"
   }
 ]
