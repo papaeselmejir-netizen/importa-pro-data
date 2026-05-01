@@ -1,5 +1,122 @@
 [
   {
+    "id": "https://www.theverge.com/?p=922302",
+    "title": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
+    "snippet": "Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the \"Price history\" button next to the item's p...",
+    "date": "2026-05-01T17:55:22",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=922246",
+    "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
+    "snippet": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, wh...",
+    "date": "2026-05-01T17:55:08",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-arequipa-supervisan-modernizacion-del-desembarcadero-pesquero-artesanal-faro-matarani-1073457.aspx",
+    "title": "Arequipa: supervisan modernización del desembarcadero pesquero artesanal El Faro Matarani",
+    "snippet": "Una comitiva del Ministerio de la Producción (Produce), encabezada por su titular, César Quispe Luján, realizó una visita de supervisión a los trabajos de modernización del desembarcadero pesquero artesanal (DPA) El Faro...",
+    "date": "2026-05-01T17:31:45",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-arequipa-supervisan-modernizacion-del-desembarcadero-pesquero-artesanal-faro-matarani-1073457.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/desierto-almeria-a-llanuras-marte-accidentado-viaje-rover-que-busca-hacer-historia-2028",
+    "title": "Del desierto de Almería a las llanuras de Marte: el accidentado viaje del rover que busca hacer historia en 2028",
+    "snippet": "Rosalind Franklin hizo uno de los descubrimientos científicos más importantes del siglo XX. Sus compañeros se adueñaron de su trabajo y recibieron el premio Nobel y ella ni siquiera vivió para verlo. Cuando la Agencia Es...",
+    "date": "2026-05-01T17:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/desierto-almeria-a-llanuras-marte-accidentado-viaje-rover-que-busca-hacer-historia-2028",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433343",
+    "title": "Polonia: Puerto de Gdansk registra crecimiento del 13,6% en manipulación de carga durante primer trimestre de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Gdansk (Polonia) registró un crecimiento del 13,6% en manipulación de carga durante el\nLa entrada Polonia: Puerto de Gdansk registra crecimiento del 13,6% en ma...",
+    "date": "2026-05-01T17:30:08",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/polonia-puerto-de-gdansk-registra-crecimiento-del-136-en-manipulacion-de-carga-durante-primer-trimestre-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433645",
+    "title": "Perú: MTC y Enapu suscriben convenio para proyecto de espigón rompeolas en Terminal Portuario de Ilo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones (MTC) y la Empresa Nacional de Puertos (Enapu) suscribieron en\nLa entrada Perú: MTC y Enapu suscriben convenio para proyecto de...",
+    "date": "2026-05-01T17:00:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-mtc-y-enapu-suscriben-convenio-para-proyecto-de-espigon-rompeolas-en-terminal-portuario-de-ilo/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/eeuu-le-tiran-molotov-al-ceo-openai-china-ninos-bailan-robots-carrera-ia-tambien-emocional",
+    "title": "Las dos caras emocionales de la IA: en EEUU lanzan cócteles molotov a sus creadores, en China los niños bailan con robots",
+    "snippet": "El pasado 10 de abril, un hombre lanzó un cóctel molotov contra la mansión de Sam Altman, CEO de OpenAI. En su bolsillo llevaba un manifiesto anti-IA y los nombres de otros líderes tech. Mientras tanto, en China, los rob...",
+    "date": "2026-05-01T17:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/eeuu-le-tiran-molotov-al-ceo-openai-china-ninos-bailan-robots-carrera-ia-tambien-emocional",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433634",
+    "title": "Argentina: Adjudican obra para fortalecer operatividad de Muelle Almirante Storni de Puerto Madryn",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Gobierno del Chubut, a través de la Administración Portuaria de Puerto Madryn (APPM), avanzó en\nLa entrada Argentina: Adjudican obra para fortalecer operatividad de Muell...",
+    "date": "2026-05-01T16:30:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/argentina-adjudican-obra-para-fortalecer-operatividad-de-muelle-almirante-storni-de-puerto-madryn/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/mapa-hundimiento-ciudad-mexico-cronica-colapso-anunciado-registrado-casi-vivo-nasa",
+    "title": "El mapa del hundimiento de Ciudad de México: crónica de un colapso anunciado y registrado casi en vivo por la NASA",
+    "snippet": "La Ciudad de México se enfrenta a uno de los desafíos geológicos más complejos que existen y no son los terremotos: es la subsidencia acelerada por la actividad humana. ¿Qué es eso? El hundimiento lento y progresivo del ...",
+    "date": "2026-05-01T16:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/mapa-hundimiento-ciudad-mexico-cronica-colapso-anunciado-registrado-casi-vivo-nasa",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-destacan-participacion-emprendedores-san-martin-la-feria-expoamazonica-cusco-2026-1073451.aspx",
+    "title": "Destacan participación de emprendedores de San Martín en la feria ExpoAmazónica Cusco 2026",
+    "snippet": "La participación de la región San Martín en la Expoamazónica Cusco 2026 se consolida como una muestra clara del dinamismo productivo y empresarial de la Amazonía peruana, donde los emprendedores sanmartinenses no solo ex...",
+    "date": "2026-05-01T16:20:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-destacan-participacion-emprendedores-san-martin-la-feria-expoamazonica-cusco-2026-1073451.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118436",
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "snippet": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models....",
+    "date": "2026-05-01T16:02:36",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-lima-se-prepara-para-recibir-artistas-cubanos-reparto-1073448.aspx",
+    "title": "Lima se prepara para recibir artistas cubanos de reparto",
+    "snippet": "El dúo viral en las redes sociales y de las radios locales, los cantantes cubanos Rey Tony y Helabusador llegan a Lima en las próximas semanas para cumplir con su gira a nivel nacional....",
+    "date": "2026-05-01T16:02:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-lima-se-prepara-para-recibir-artistas-cubanos-reparto-1073448.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/gasolina-fue-solo-principio-guerra-iran-esta-a-punto-disparar-donde-duele-tu-ropa-zara",
+    "title": "Tras la gasolina, la guerra de Irán está a punto de disparar el precio de algo igual de doloroso: tu ropa de Zara",
+    "snippet": "Durante la crisis del petróleo de 1973, varias industrias que parecían completamente ajenas a la energía, como la del plástico o los fertilizantes, descubrieron de golpe que sus costes podían dispararse en cuestión de se...",
+    "date": "2026-05-01T16:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/gasolina-fue-solo-principio-guerra-iran-esta-a-punto-disparar-donde-duele-tu-ropa-zara",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=433642",
     "title": "Perú: Aprueban Plan Maestro de Terminal Portuario de Lambayeque",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones (MTC) del Perú, a través de la Autoridad Portuaria Nacional\nLa entrada Perú: Aprueban Plan Maestro de Terminal Portuario de Lam...",
@@ -1231,122 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/resultados-big-tech-dejan-algo-claro-negocio-ia-no-ia-alquilar-infraestructura-que-hace-posible",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dia-del-psicologo-ubica-centro-salud-mental-comunitario-mas-cerca-tu-casa-1044253.aspx",
-    "title": "Día del Psicólogo: ubica el centro de salud mental comunitario más cerca de tu casa",
-    "snippet": "Si conoces a alguien que llora sin una causa aparente o tienes un familiar con déficit de atención, hiperactividad, depresión o problemas familiares que lo abruman, estos son motivos suficientes para acudir a un Centro d...",
-    "date": "2026-04-30T12:19:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dia-del-psicologo-ubica-centro-salud-mental-comunitario-mas-cerca-tu-casa-1044253.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/mundo-no-se-puede-deshacer-carbon-china-sabe-como-usarlo-para-generar-electricidad-quemarlo-emisiones",
-    "title": "El mundo tiene un problema irresoluble con el carbón. China ha encontrado la solución y no pasa por quemarlo",
-    "snippet": "Hace décadas, el mundo se embarcó en la carrera de la descarbonización. Cada país ha ido a un ritmo con las nucleares, pero el gas, la investigación con el hidrógeno y el auge de las renovables apuntaban a ser el impulso...",
-    "date": "2026-04-30T12:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/mundo-no-se-puede-deshacer-carbon-china-sabe-como-usarlo-para-generar-electricidad-quemarlo-emisiones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=920999",
-    "title": "Instagram says it doesn’t want your tweet round ups",
-    "snippet": "The internet is full of copycat, stolen, reposted, and low-effort content - and Meta, at least publicly, has said it is working to cut off some of the reach. Beginning in 2024, the company has made incremental announceme...",
-    "date": "2026-04-30T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/llevamos-92-000-despidos-sector-tecnologico-2026-ahorro-costes-esta-saliendo-muy-caro-a-big-tech",
-    "title": "Llevamos más de 92.000 despidos del sector tecnológico en 2026: el ahorro de costes está saliendo muy caro a las big tech",
-    "snippet": "Las grandes compañías tecnológicas llevan meses en una dinámica difícil de entender si no se tiene en cuenta el contexto tecnológico actual. Compañías que, según sus resultados fiscales del primer trimestre de 2026, regi...",
-    "date": "2026-04-30T11:45:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/llevamos-92-000-despidos-sector-tecnologico-2026-ahorro-costes-esta-saliendo-muy-caro-a-big-tech",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-jueves-30-abril-del-2026-1073267.aspx",
-    "title": "Estas son las normas legales más importantes del jueves 30 de abril del 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-04-30T11:37:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-jueves-30-abril-del-2026-1073267.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hay-meteorologos-que-comparar-nino-2027-1877-evento-catastrofico-que-acabo-4-poblacion-tenemos-as-manga",
-    "title": "Hay meteorólogos que ya comparar El Niño de 2027 con el de 1877, un evento catastrófico que acabó con el 4% de la población. Tenemos un as en la manga",
-    "snippet": "Llevamos semanas preocupados por El Niño y con razón. Uno a uno, los principales climatológicos han ido avisándonos de que vienen curvas. Es cierto que el 24 de abril de 2026, la Organización Meteorológicamente Mundial s...",
-    "date": "2026-04-30T11:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hay-meteorologos-que-comparar-nino-2027-1877-evento-catastrofico-que-acabo-4-poblacion-tenemos-as-manga",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hay-meteorologos-que-comparar-nino-2027-1877-evento-catastrofico-que-acabo-4-poblacion-tenemos-as-manga",
-    "title": "Hay meteorólogos que ya comparan El Niño de 2027 con el de 1877, un evento catastrófico que acabó con el 4% de la población",
-    "snippet": "Llevamos semanas preocupados por El Niño y con razón. Uno a uno, los principales climatológicos han ido avisándonos de que vienen curvas. Es cierto que el 24 de abril de 2026, la Organización Meteorológicamente Mundial s...",
-    "date": "2026-04-30T11:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hay-meteorologos-que-comparar-nino-2027-1877-evento-catastrofico-que-acabo-4-poblacion-tenemos-as-manga",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1686418",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 30 de abril del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy jueves 30 de abril es de  S/3.52 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-04-30T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-30-de-abril-del-2026-noticia-1686418",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=432922",
-    "title": "Klaveness Combination Carriers completa primer trimestre 2026 con ebitda de USD 29,3 millones",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Klaveness Combination Carriers ASA (KCC) registró un ebitda de 29,3 millones de dólares y un beneficio\nLa entrada Klaveness Combination Carriers completa primer trimestre 20...",
-    "date": "2026-04-30T11:00:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/klaveness-combination-carriers-completa-primer-trimestre-2026-con-ebitda-de-usd-293-millones/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ucrania-acaba-abrir-ultimo-misil-ruso-no-sale-su-asombro-verdadero-enemigo-tiene-cara-amigo",
-    "title": "Ucrania acaba de abrir el último misil ruso y no sale de su asombro: el verdadero enemigo tiene cara de \"amigo\"",
-    "snippet": "Tas el derribo del vuelo Malaysia Airlines Flight MH17 en 2014, los investigadores internacionales analizaron los restos del misil implicado y descubrieron que muchas de sus piezas procedían de cadenas de producción dist...",
-    "date": "2026-04-30T11:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ucrania-acaba-abrir-ultimo-misil-ruso-no-sale-su-asombro-verdadero-enemigo-tiene-cara-amigo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=920547",
-    "title": "DJI’s Osmo Pocket 4 is a better camera in every respect",
-    "snippet": "First they came for the drones, and now the vlogging cameras. DJI's Osmo Pocket 4 is the first of its compact steadicams not to launch in the US, following a string of DJI drones also missing the US market. The good news...",
-    "date": "2026-04-30T11:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/920547/dji-osmo-pocket-4-review",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/china-prepara-superordenador-exaescala-potente-raro-planeta-no-tiene-gpu-solo-cpu-chinas",
-    "title": "China prepara el superordenador exaescala más potente y raro del planeta. No tiene GPU: solo CPU chinas",
-    "snippet": "Un superordenador exaescala es aquel capaz de realizar al menos 1 exaflop (10¹⁸) de operaciones en coma flotante por segundo. Estas máquinas son las más potentes disponibles actualmente si nos ceñimos a los ordenadores c...",
-    "date": "2026-04-30T10:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/china-prepara-superordenador-exaescala-potente-raro-planeta-no-tiene-gpu-solo-cpu-chinas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433036",
-    "title": "AD Ports Group y Azcon Holding exploran colaboración en infraestructura de transporte y logística en Azerbaiyán",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario AD Ports Group firmó un Memorando de Entendimiento (MdE) con Azerbaijan Transport and Communications Holding (Azcon)\nLa entrada AD Ports Group y Azcon Holding exploran colab...",
-    "date": "2026-04-30T10:00:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ad-ports-group-y-azcon-holding-exploran-colaboracion-en-infraestructura-de-transporte-y-logistica-en-azerbaiyan/",
-    "category": "LOGÍSTICA"
   }
 ]
