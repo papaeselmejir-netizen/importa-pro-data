@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-loreto-iiap-entrega-81-mil-alevinos-gamitana-a-familias-rurales-del-bajo-amazonas-1073539.aspx",
+    "title": "Loreto: IIAP entrega 81 mil alevinos de gamitana a familias rurales del bajo Amazonas",
+    "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad del Ministerio del Ambiente, entregó el 29 de abril un total de 81 mil alevinos de gamitana a 71 familias de seis comunidades del distrito de Pebas, ...",
+    "date": "2026-05-02T21:00:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-loreto-iiap-entrega-81-mil-alevinos-gamitana-a-familias-rurales-del-bajo-amazonas-1073539.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433755",
+    "title": "MSC lanza nuevo servicio entre Europa y Medio Oriente en respuesta a crisis geopolítica",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Mediterranean Shipping Company (MSC) anunció el lanzamiento de su nuevo servicio Europe – Red Sea –\nLa entrada MSC lanza nuevo servicio entre Europa y Medio Oriente en respu...",
+    "date": "2026-05-02T21:00:00",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/msc-lanza-nuevo-servicio-entre-europa-y-medio-oriente-en-respuesta-a-crisis-geopolitica/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-ministerio-salud-fortalece-prevencion-y-control-del-dengue-zonas-rurales-1073549.aspx",
     "title": "Ministerio de Salud fortalece prevención y control del dengue en zonas rurales",
     "snippet": "El Ministerio de Salud (Minsa) dio un paso importante en la prevención y control de enfermedades metaxénicas transmitidas por vectores; como el dengue, malaria o fiebre amarilla, con la aprobación de la Resolución Minist...",
@@ -1330,23 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/uruguay-administracion-nacional-de-puertos-recibe-nueva-embarcacion-batimetrica/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-34-conductores-autos-sancionados-invadir-via-del-metropolitano-1073381.aspx",
-    "title": "ATU: 34 conductores de autos sancionados por invadir la vía del Metropolitano",
-    "snippet": "A fin de prevenir accidentes de tránsito y asegurar un servicio rápido y ordenado para los usuarios, la Autoridad de Transporte Urbano para Lima y Callao (ATU) continúa realizando operativos en coordinación con la Policí...",
-    "date": "2026-04-30T22:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-34-conductores-autos-sancionados-invadir-via-del-metropolitano-1073381.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8pdk3l4d2o#0",
-    "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
-    "snippet": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus....",
-    "date": "2026-04-30T22:22:11",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
