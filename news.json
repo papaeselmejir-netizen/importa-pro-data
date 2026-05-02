@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=433583",
+    "title": "Corea del Sur: HMM y sindicato acuerdan trasladar sede a Busan",
+    "snippet": "Por Redacción PortalPortuario / Agencia Yonhap @PortalPortuario HMM Co., la mayor  naviera de Corea del Sur, anunció que su dirección\nLa entrada Corea del Sur: HMM y sindicato acuerdan trasladar sede a Busan se publicó p...",
+    "date": "2026-05-02T04:00:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/corea-del-sur-hmm-y-sindicato-acuerdan-trasladar-sede-a-busan/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433259",
+    "title": "Sector logístico alcanza máximo histórico de trabajadores en España con más de 900 mil empleados",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El empleo en el sector de logística alcanzó su máximo histórico en el cuarto trimestre de\nLa entrada Sector logístico alcanza máximo histórico de trabajadores en España con ...",
+    "date": "2026-05-02T03:00:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/sector-logistico-alcanza-maximo-historico-de-trabajadores-en-espana-con-mas-de-900-mil-empleados/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=433640",
     "title": "Orca AI une fuerzas con Samsung Heavy Industries para acelerar tecnología de buques autónomos",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Orca AI, una empresa dedicada al desarrollo de inteligencia artificial marítima, firmó un Memorando de Entendimiento\nLa entrada Orca AI une fuerzas con Samsung Heavy Industr...",
@@ -47,6 +65,15 @@
   {
     "id": "https://portalportuario.cl/?p=433696",
     "title": "CSSC Tianjin Shipbuilding entrega segundo buque portacontenedores de combustible dual metanol de 15.000 TEU a CMA CGM",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario CSSC (Tianjin) Shipbuilding, filial de Dalian Shipbuilding Industry Corporation (DSIC), perteneciente a China State Shipbuilding Corporation\nLa entrada CSSC Tianjin Shipbuil...",
+    "date": "2026-05-02T01:00:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cssc-tianjin-shipbuilding-entrega-segundo-buque-portacontenedores-de-combustible-dual-metanol-de-15-000-teu-a-cma-cgm/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433696",
+    "title": "CSSC Tianjin Shipbuilding entrega a CMA CGM el segundo portacontenedores de 15.000 TEU de combustible dual a metanol",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario CSSC (Tianjin) Shipbuilding, filial de Dalian Shipbuilding Industry Corporation (DSIC), perteneciente a China State Shipbuilding Corporation\nLa entrada CSSC Tianjin Shipbuil...",
     "date": "2026-05-02T01:00:55",
     "source": "PORTAL PORTUARIO",
@@ -1321,32 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-autoriza-bonos-soberanos-s-521-millones-para-financiar-comunas-loreto-1073293.aspx",
-    "title": "MEF autoriza bonos soberanos por S/ 52.1 millones para financiar comunas de Loreto",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó dos operaciones de endeudamiento interno, mediante la emisión de bonos soberanos, por un monto total de 52 millones 185,059.97 soles....",
-    "date": "2026-04-30T15:56:39",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-autoriza-bonos-soberanos-s-521-millones-para-financiar-comunas-loreto-1073293.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3117913",
-    "title": "Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis",
-    "snippet": "Hertz is creating a new affiliate company called \"Oro Mobility\" to provide fleet management solutions \"across a range of mobility segments.\"...",
-    "date": "2026-04-30T15:55:28",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/vinted-vale-8-000-millones-ha-conseguido-ia-solo-vendiendo-ropa-usada-tus-vecinos",
-    "title": "Vinted ya vale 8.000 millones y lo ha conseguido sin IA. Solo vendiendo la ropa usada de tus vecinos",
-    "snippet": "Vinted, la plataforma lituana de segunda mano, ha cerrado una venta secundaria de acciones de 880 millones de euros liderada por EQT que aumenta su valoración a 8.000 millones. No ha captado capital nuevo. Ha dejado sali...",
-    "date": "2026-04-30T15:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/vinted-vale-8-000-millones-ha-conseguido-ia-solo-vendiendo-ropa-usada-tus-vecinos",
-    "category": "TRIBUTARIO"
   }
 ]
