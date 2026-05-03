@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-minsa-advierte-consumo-indiscriminado-vitaminas-puede-ser-perjudicial-para-salud-1073560.aspx",
+    "title": "Minsa advierte que consumo indiscriminado de vitaminas puede ser perjudicial para la salud",
+    "snippet": "El consumo excesivo y sin prescripción de suplementos vitamínicos puede provocar efectos adversos graves en la salud, los cuales podrían empeorar si se combinan con otros medicamentos sin supervisión médica, advirtió el ...",
+    "date": "2026-05-03T01:15:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minsa-advierte-consumo-indiscriminado-vitaminas-puede-ser-perjudicial-para-salud-1073560.aspx",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://portalportuario.cl/?p=433762",
     "title": "Caída de contenedor con carga peligrosa activa protocolos de emergencia en San Antonio Terminal Internacional",
     "snippet": "Por Sebastián Betancourt @PortalPortuario La caída de un contenedor con carga peligrosa activó los protocolos de emergencia al interior de\nLa entrada Caída de contenedor con carga peligrosa activa protocolos de emergenci...",
@@ -1339,14 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-pacto-por-bienestar-integral-programas-sociales-trabajaran-enfoque-salud-mental-1073395.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "35cee05c-8d23-4c7b-99d8-cb2a35f2a5a7",
-    "title": "The New OnePlus Pad 4 Is Thin and Fast, but Not Yet in the US",
-    "snippet": "North American customers will have to wait -- the tablet is only selling in India for now....",
-    "date": "2026-04-30T23:33:31",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/computing/oneplus-pad-4-launches-in-india/",
-    "category": "MERCADO"
   }
 ]
