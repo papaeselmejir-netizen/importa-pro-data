@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c9wejdekpwyo#0",
+    "title": "Amsterdam bans public adverts for meat and fossil fuels",
+    "snippet": "Local politicians say the move is in line with the Dutch capital's environmental targets....",
+    "date": "2026-05-03T23:07:44",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433288",
+    "title": "Puerto de Sevilla recibe financiación de USD 10,5 millones para avanzar en automatización de operaciones ferroviarias",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consejo de Administración de la Autoridad Portuaria de Sevilla (APS) fue informado de la resolución\nLa entrada Puerto de Sevilla recibe financiación de USD 10,5 millones ...",
+    "date": "2026-05-03T23:00:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-sevilla-recibe-financiacion-de-usd-105-millones-para-avanzar-en-automatizacion-de-operaciones-ferroviarias/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=433562",
     "title": "Puerto de Doha supera expectativas pese a guerra en la zona",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Old Port de Doha concluyó la temporada 2025/26 con 49 escalas de cruceros, según cifras publicadas\nLa entrada Puerto de Doha supera expectativas pese a guerra en la zona se ...",
@@ -1330,23 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/panama-proyecto-de-nuevo-muelle-fiscal-en-puerto-almirante-entra-en-fase-de-estudio-de-mercado/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/nvidia-no-solo-pegamento-ia-ahora-tiene-modelo-omnipotente-que-lee-ve-escucha-todo-a-vez",
-    "title": "Nvidia no solo es el pegamento de la IA: ahora tiene un modelo omnipotente que lee, ve y escucha. Todo a la vez",
-    "snippet": "Hace ocho años, cuando Nvidia aún era una compañía que hacía gráficas para videojuegos, la compañía apuntó a algo que está empezando a entrar en la conversación: la robótica física. Son los robots con inteligencia artifi...",
-    "date": "2026-05-01T14:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/nvidia-no-solo-pegamento-ia-ahora-tiene-modelo-omnipotente-que-lee-ve-escucha-todo-a-vez",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=922113",
-    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-    "snippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on...",
-    "date": "2026-05-01T14:09:56",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-    "category": "MERCADO"
   }
 ]
