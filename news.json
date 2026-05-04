@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-san-juan-lurigancho-nueva-flota-gnv-llega-para-fortalecer-conexion-pachacamac-1073730.aspx",
+    "title": "San Juan de Lurigancho: Nueva flota de GNV llega para fortalecer conexión con Pachacámac",
+    "snippet": "Hoy se presentó una nueva flota de buses ecoamigables que permitirá fortalecer la conectividad entre San Juan de Lurigancho y Pachacámac, en beneficio de miles de usuarios de Lima este y sur, informó la Autoridad de Tran...",
+    "date": "2026-05-04T23:53:21",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-san-juan-lurigancho-nueva-flota-gnv-llega-para-fortalecer-conexion-pachacamac-1073730.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-brasil-expresa-interes-aumentar-inversiones-y-comercio-con-peru-1073624.aspx",
+    "title": "Brasil expresa interés en aumentar inversiones y comercio con el Perú",
+    "snippet": "La frontera más larga de Perú con un país es la de Brasil, se trata de más de 2,800 kilómetros en medio de la densa vegetación de la Amazonía, la cual ya no constituye una barrera para la integración económica; por el co...",
+    "date": "2026-05-04T23:40:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-brasil-expresa-interes-aumentar-inversiones-y-comercio-con-peru-1073624.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-recaudacion-tributaria-del-peru-crecio-139-abril-al-sumar-s-24962-millones-1073734.aspx",
+    "title": "Recaudación tributaria del Perú creció 13.9% en abril al sumar S/ 24,962 millones",
+    "snippet": "La recaudación tributaria del Perú conformada por los ingresos tributarios del Gobierno Central (que descuentan las devoluciones de impuestos) sumaron en abril de este año, los 24,962 millones de soles, monto mayor en 13...",
+    "date": "2026-05-04T23:20:37",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-recaudacion-tributaria-del-peru-crecio-139-abril-al-sumar-s-24962-millones-1073734.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "69f8d886695a64015ab422d6",
+    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+    "snippet": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab....",
+    "date": "2026-05-04T23:19:52",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433961",
+    "title": "Estados Unidos evacúa a Pakistán a 22 tripulantes del portacontenedores con bandera iraní Touska",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Estados Unidos evacuó hacia Pakistán a 22 miembros de la tripulación que permanecían retenidos a\nLa entrada Estados Unidos evacúa a Pakistán a 22 tripulantes...",
+    "date": "2026-05-04T23:00:35",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estados-unidos-evacua-a-pakistan-a-22-tripulantes-del-portacontenedores-con-bandera-irani-touska/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434007",
+    "title": "Puerto Valparaíso, TPS y TPV lanzan segundo operativo de limpieza en Barrio Puerto",
+    "snippet": "Por PortalPortuario Social Este lunes, en la Plaza Echaurren de Valparaíso, se dio inicio a la segunda versión del programa\nLa entrada Puerto Valparaíso, TPS y TPV lanzan segundo operativo de limpieza en Barrio Puerto se...",
+    "date": "2026-05-04T22:54:32",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-valparaiso-tps-y-tpv-lanzan-segundo-operativo-de-limpieza-en-barrio-puerto/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-nuevo-terminal-portuario-chimbote-sera-declarado-interes-mayo-2026-1073729.aspx",
+    "title": "Nuevo Terminal Portuario de Chimbote será declarado de interés en mayo 2026",
+    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión) anunció hoy que presentará este mes la declaratoria de interés del Terminal Portuario Internacional de Chimbote, adelantando su cronograma previsto y concret...",
+    "date": "2026-05-04T22:41:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-nuevo-terminal-portuario-chimbote-sera-declarado-interes-mayo-2026-1073729.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433989",
+    "title": "Ministra de Seguridad Pública visita por primera vez Puerto Antofagasta y presencia ejercicio de protección marítima-portuaria",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La ministra de Seguridad Pública, Trinidad Steinert, visitó por primera vez Puerto Antofagasta, instancia en la\nLa entrada Ministra de Seguridad Pública visita por primera v...",
+    "date": "2026-05-04T22:24:35",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ministra-de-seguridad-publica-visita-por-primera-vez-puerto-antofagasta-y-presencia-ejercicio-de-proteccion-maritima-portuaria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=433988",
+    "title": "Argentina: Buques quimiqueros colisionan en zona operativa del Puerto de Campana",
+    "snippet": "El Puerto de Campana fue escenario de un incidente naval que mantiene en alerta a la Prefectura Naval Argentina. Según\nLa entrada Argentina: Buques quimiqueros colisionan en zona operativa del Puerto de Campana se public...",
+    "date": "2026-05-04T22:14:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/argentina-buques-quimiqueros-colisionan-en-zona-operativa-del-puerto-de-campana/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-exportaciones-peruanas-cafe-superan-los-1313-millones-primer-bimestre-2026-1073722.aspx",
     "title": "Exportaciones peruanas de café superan los US$ 131.3 millones el primer bimestre 2026",
     "snippet": "Las exportaciones peruanas de café sin tostar sumaron 131.3 millones de dólares en el primer bimestre de este año, monto superior en 71.9% respecto al similar periodo del 2025 (76.4 millones de dólares), indicó hoy el Mi...",
@@ -7,6 +88,15 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-exportaciones-peruanas-cafe-superan-los-1313-millones-primer-bimestre-2026-1073722.aspx",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "64948105-acaa-4eba-8a3f-c591e084a9fd",
+    "title": "How to Watch the NBA Playoffs 2026: Round 2 Matchups, TV and Streaming Schedule, and More",
+    "snippet": "See which streaming services you need to watch every playoff game without cable....",
+    "date": "2026-05-04T21:37:51",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-nba-playoffs-2026/",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-comando-unificado-pataz-interviene-bocamina-ventura-y-decomisa-armas-1073717.aspx",
@@ -1258,95 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/ecologia-y-naturaleza/paris-vence-al-ruido-trafico-le-falta-dificil-que-pajaros-recuperen-su-canto-original",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/paris-vence-al-ruido-trafico-le-falta-dificil-que-pajaros-recuperen-su-canto-original",
-    "title": "El plan de París contra el ruido del tráfico funciona, pero los pájaros aún no se han enterado: su canto sigue \"deformado\"",
-    "snippet": "El ruido es un contaminante invisible, pero sus efectos se dejan ver. Para empezar, el escenario sonoro natural cambia, altera el comportamiento de los animales y afecta a la salud de humanos y otras especies. Es cierto ...",
-    "date": "2026-05-03T13:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/paris-vence-al-ruido-trafico-le-falta-dificil-que-pajaros-recuperen-su-canto-original",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/paris-vence-al-ruido-trafico-le-falta-dificil-que-pajaros-recuperen-su-canto-original",
-    "title": "París ha conseguido apaciguar su tráfico. Ahora le falta una cosa mucho más difícil: recuperar a sus pájaros",
-    "snippet": "El ruido es un contaminante invisible, pero sus efectos se dejan ver. Para empezar, el escenario sonoro natural cambia, altera el comportamiento de los animales y afecta a la salud de humanos y otras especies. Es cierto ...",
-    "date": "2026-05-03T13:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/paris-vence-al-ruido-trafico-le-falta-dificil-que-pajaros-recuperen-su-canto-original",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433365",
-    "title": "Rotterdam presenta informe de impacto de industria de cruceros en la ciudad",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Una investigación recién publicada en Rotterdam examina cómo la actividad de cruceros se traduce en efectos\nLa entrada Rotterdam presenta informe de impacto de industria de ...",
-    "date": "2026-05-03T13:00:13",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/rotterdam-presenta-informe-de-impacto-de-industria-de-cruceros-en-la-ciudad/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=917067",
-    "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
-    "snippet": "I love when my friends have their fridges covered in Polaroids. It’s often a visual crash course of what’s been going on in their lives chronicling recent adventures, get-togethers, and other fun moments. But I don’t lov...",
-    "date": "2026-05-03T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=921690",
-    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-    "snippet": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's ...",
-    "date": "2026-05-03T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/xoloitzcuintle-perro-que-vencio-a-genetica-2-000-anos-pelo-mision-sagrada-inframundo",
-    "title": "El xoloitzcuintle, el perro que venció a la genética: más de 2.000 años sin pelo y una misión sagrada en el inframundo",
-    "snippet": "Cuando hacia la década de 1930 el nacionalismo mexicano empezó a reivindicar su pasado prehispánico y a rescatar iconos del país hubo uno en concreto que destacó por su simbolismo: el xoloitzcuintle. Su nombre quizás no ...",
-    "date": "2026-05-03T12:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/xoloitzcuintle-perro-que-vencio-a-genetica-2-000-anos-pelo-mision-sagrada-inframundo",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/xoloitzcuintle-perro-que-vencio-a-genetica-2-000-anos-pelo-mision-sagrada-inframundo",
-    "title": "La improbable historia del 'xolo': el perro azteca que venció a la genética y se convirtió en símbolo del inframundo",
-    "snippet": "Cuando hacia la década de 1930 el nacionalismo mexicano empezó a reivindicar su pasado prehispánico y a rescatar iconos del país hubo uno en concreto que destacó por su simbolismo: el xoloitzcuintle. Su nombre quizás no ...",
-    "date": "2026-05-03T12:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/xoloitzcuintle-perro-que-vencio-a-genetica-2-000-anos-pelo-mision-sagrada-inframundo",
-    "category": "MERCADO"
-  },
-  {
-    "id": "2dc7d052-ea35-4a1c-bfc3-915923843641",
-    "title": "Google Pixel 10A vs. Samsung Galaxy A57: Which midranger should you buy?",
-    "snippet": "One is eerily similar to its predecessor, while the other is $50 more expensive than before....",
-    "date": "2026-05-03T12:00:45",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/google-pixel-10a-vs-samsung-galaxy-a57-which-midranger-should-you-buy/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/ceo-nvidia-considera-que-estamos-nueva-revolucion-industrial-donde-ia-no-nos-sustituira-nos-micromanageara",
-    "title": "El CEO de Nvidia cree que estamos en una nueva revolución industrial donde la IA no nos sustituirá: nos micromanageará",
-    "snippet": "La inteligencia artificial lleva a disposición de usuarios y empresas ya unos cuantos años y nos encontramos en un punto en el que convergen varias ideas sobre la IA y el futuro del trabajo. Hay varios frentes abiertos c...",
-    "date": "2026-05-03T12:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/ceo-nvidia-considera-que-estamos-nueva-revolucion-industrial-donde-ia-no-nos-sustituira-nos-micromanageara",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "2dc7d052-ea35-4a1c-bfc3-915923843641",
-    "title": "Google Pixel 10A vs. Samsung Galaxy A57: Which Midranger Should You Buy?",
-    "snippet": "One is eerily similar to its predecessor, while the other is $50 more expensive than before....",
-    "date": "2026-05-03T12:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/google-pixel-10a-vs-samsung-galaxy-a57-which-midranger-should-you-buy/",
-    "category": "MERCADO"
   }
 ]
