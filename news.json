@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3119050",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "snippet": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw....",
+    "date": "2026-05-05T23:50:10",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-gobierno-instala-grupo-trabajo-multisectorial-para-fortalecer-seguridad-ciudadana-1073903.aspx",
+    "title": "MEF: Gobierno instala grupo de trabajo multisectorial para fortalecer seguridad ciudadana",
+    "snippet": "El grupo de trabajo multisectorial para diseñar un Programa Presupuestal Orientado a Resultados en materia de seguridad ciudadana y lucha contra la criminalidad, inició sesiones hoy, destacó el Ministerio de Economía y F...",
+    "date": "2026-05-05T23:39:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-gobierno-instala-grupo-trabajo-multisectorial-para-fortalecer-seguridad-ciudadana-1073903.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434149",
+    "title": "Estados Unidos: Visitan ubicación de futura terminal de contenedores en Puerto de Coos Bay",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un nuevo paso adelante se dio en el camino hacia la construcción del proyecto Pacific Coast\nLa entrada Estados Unidos: Visitan ubicación de futura terminal de contenedores e...",
+    "date": "2026-05-05T23:30:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estados-unidos-visitan-ubicacion-de-futura-terminal-de-contenedores-en-puerto-de-coos-bay/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434217",
+    "title": "Perú: Puerto de Paracas incorpora a Fernando Valdivieso como nuevo gerente de operaciones",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Paracas dio a conocer la incorporación de Fernando Valdivieso Gálvez como nuevo gerente\nLa entrada Perú: Puerto de Paracas incorpora a Fernando Valdivieso como ...",
+    "date": "2026-05-05T23:21:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-puerto-de-paracas-incorpora-a-fernando-valdivieso-como-nuevo-gerente-de-operaciones/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434214",
+    "title": "Con un homenaje a exportuarios EPSA conmemora 114 años de historia del Puerto de San Antonio",
+    "snippet": "Por PortalPortuario Social Junto a representantes de la comunidad, ejecutivos portuarios, autoridades locales y dirigentes sindicales, la Empresa Portuaria San\nLa entrada Con un homenaje a exportuarios EPSA conmemora 114...",
+    "date": "2026-05-05T23:10:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/con-un-homenaje-a-exportuarios-epsa-conmemora-114-anos-de-historia-del-puerto-de-san-antonio/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-indicadores-adelantados-anticipan-crecimiento-marzo-y-aceleracion-abril-1073897.aspx",
+    "title": "MEF: indicadores adelantados anticipan crecimiento en marzo y aceleración en abril",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) señaló hoy que los indicadores adelantados muestran que en marzo la economía creció y en abril se habría registrado un mayor dinamismo, impulsado por la recuperación de la deman...",
+    "date": "2026-05-05T23:01:24",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-indicadores-adelantados-anticipan-crecimiento-marzo-y-aceleracion-abril-1073897.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434207",
+    "title": "Perú: Nuevo Terminal Portuario de Chimbote será declarado de interés en mayo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Agencia de Promoción de la Inversión Privada (Proinversión) del Perú presentará este mes la declaratoria\nLa entrada Perú: Nuevo Terminal Portuario de Chimbote será declar...",
+    "date": "2026-05-05T22:58:22",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-nuevo-terminal-portuario-de-chimbote-sera-declarado-de-interes-en-mayo/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=434202",
     "title": "Brasil: Estudian reactivación de hidrovía de São Francisco para reducir costos de transporte",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Puertos y Aeropuertos (MPor) de Brasil estudia la reactivación de la hidrovía del\nLa entrada Brasil: Estudian reactivación de hidrovía de São Francisco para...",
@@ -1285,68 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-de-tarragona-reafirma-crecimiento-con-impulso-del-39-en-movimiento-de-carga-durante-primer-trimestre-de-2026/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=918544",
-    "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
-    "snippet": "When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot. And right now, i...",
-    "date": "2026-05-04T20:44:06",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-hospital-especialidades-quirurgicas-canta-callao-ejecuto-mas-mil-cirugias-1073707.aspx",
-    "title": "Hospital de Especialidades Quirúrgicas Canta Callao ejecutó más de mil cirugías",
-    "snippet": "El Hospital de Especialidades Quirúrgicas Canta Callao de EsSalud realizó 1,014 cirugías entre enero y abril de 2026. Esta cifra responde a un plan de desembalse quirúrgico que redujo drásticamente las listas de espera e...",
-    "date": "2026-05-04T20:27:32",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-hospital-especialidades-quirurgicas-canta-callao-ejecuto-mas-mil-cirugias-1073707.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433958",
-    "title": "Argentina: Anpyn establece baja tarifaria en Puerto de Ushuaia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Agencia Nacional de Puertos y Navegación de Argentina (Anpyn) avanzó en una baja tarifaria que\nLa entrada Argentina: Anpyn establece baja tarifaria en Puerto de Ushuaia s...",
-    "date": "2026-05-04T20:15:14",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-anpyn-establece-baja-tarifaria-en-puerto-de-ushuaia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2164303/ios-26-5-will-add-end-to-end-encryption-for-rcs-messages/",
-    "title": "iOS 26.5 will add end-to-end encryption for RCS messages between Apple and Android",
-    "snippet": "Keep those private conversations truly private....",
-    "date": "2026-05-04T20:14:59",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2164303/ios-26-5-will-add-end-to-end-encryption-for-rcs-messages/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/industria-espacial-china-esta-lista-para-dar-siguiente-paso-superfabrica-para-fabricar-cohetes-serie",
-    "title": "La industria espacial china está lista para dar el siguiente paso: una superfábrica para fabricar cohetes en serie",
-    "snippet": "China lleva más de dos décadas convirtiendo hitos espaciales en una declaración de intenciones. Primero fue Yang Liwei a bordo de la Shenzhou-5, en 2003, cuando el país se convirtió en el tercero del mundo en enviar huma...",
-    "date": "2026-05-04T20:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/industria-espacial-china-esta-lista-para-dar-siguiente-paso-superfabrica-para-fabricar-cohetes-serie",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/durante-120-anos-cientificos-dieron-extinto-al-conejo-omiltemi-vecinos-sierra-madre-sur-cazaban-para-comer",
-    "title": "Durante 120 años, los científicos dieron por extinto al conejo de Omiltemi. Mientras tanto, en Sierra Madre del Sur los cazaban para comer",
-    "snippet": "Cuando en 1904 Edward William Nelson identificó los primeros conejos de Omiltemi, no sabía que aquella iba a ser uno de los últimos avistamientos confirmados del que, durante décadas, se ha considerado uno de los mamífer...",
-    "date": "2026-05-04T19:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/durante-120-anos-cientificos-dieron-extinto-al-conejo-omiltemi-vecinos-sierra-madre-sur-cazaban-para-comer",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "a0c92600-d090-423e-8403-e06c8b9f79b4",
-    "title": "Sony to Pay $7.85M in PlayStation Store Settlement. What to Know",
-    "snippet": "Payments are automatic in most cases, but those with deactivated PlayStation Network accounts will have to put in more work to receive their share....",
-    "date": "2026-05-04T19:27:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/",
-    "category": "MERCADO"
   }
 ]
