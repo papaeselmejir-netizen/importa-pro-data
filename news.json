@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-copa-sudamericana-cienciano-cae-goleada-30-ante-puerto-cabello-venezuela-1073941.aspx",
+    "title": "Copa Sudamericana: Cienciano cae por goleada 3-0 ante Puerto Cabello en Venezuela",
+    "snippet": "El “papá de América” tuvo esta noche una actuación en falso en la ciudad de Valencia y cayó por goleada (3-0) ante la Academia Puerto Cabello de Venezuela, por la Copa Conmebol Sudamericana....",
+    "date": "2026-05-06T04:11:19",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-copa-sudamericana-cienciano-cae-goleada-30-ante-puerto-cabello-venezuela-1073941.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-las-mypes-generan-mas-del-70-del-empleo-y-aportan-cerca-del-20-del-pbi-del-peru-1073907.aspx",
+    "title": "Las mypes generan más del 70% del empleo y aportan cerca del 20% del PBI del Perú",
+    "snippet": "En el Perú, las micro y pequeñas empresas (mypes) no solo sostienen la economía: generan alrededor del 70% del empleo nacional y aportan cerca del 20% del PBI, según cifras de organismos oficiales, destacó la Asociación ...",
+    "date": "2026-05-06T04:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-las-mypes-generan-mas-del-70-del-empleo-y-aportan-cerca-del-20-del-pbi-del-peru-1073907.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=434167",
     "title": "Puerto de Nueva York-Nueva Jersey maneja alto número de TEU en marzo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Nueva York y Nueva Jersey fue la principal puerta de entrada de carga\nLa entrada Puerto de Nueva York-Nueva Jersey maneja alto número de TEU en marzo se publicó...",
@@ -42,6 +60,15 @@
     "date": "2026-05-06T00:32:08",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/la-granja-el-proyecto-minero-en-peru-que-se-posiciona-entre-los-depositos-de-cobre-mas-grandes-del-mundo-noticia-1687148",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0j2nydnzy7o#0",
+    "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
+    "snippet": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers....",
+    "date": "2026-05-06T00:15:14",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
   },
   {
@@ -1320,33 +1347,6 @@
     "date": "2026-05-04T23:01:10",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/services-and-software/surfshark-vpn-launches-vega-os-app-for-amazon-fire-tv-users/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=433961",
-    "title": "Estados Unidos evacúa a Pakistán a 22 tripulantes del portacontenedores con bandera iraní Touska",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Estados Unidos evacuó hacia Pakistán a 22 miembros de la tripulación que permanecían retenidos a\nLa entrada Estados Unidos evacúa a Pakistán a 22 tripulantes...",
-    "date": "2026-05-04T23:00:35",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/estados-unidos-evacua-a-pakistan-a-22-tripulantes-del-portacontenedores-con-bandera-irani-touska/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434007",
-    "title": "Puerto Valparaíso, TPS y TPV lanzan segundo operativo de limpieza en Barrio Puerto",
-    "snippet": "Por PortalPortuario Social Este lunes, en la Plaza Echaurren de Valparaíso, se dio inicio a la segunda versión del programa\nLa entrada Puerto Valparaíso, TPS y TPV lanzan segundo operativo de limpieza en Barrio Puerto se...",
-    "date": "2026-05-04T22:54:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-valparaiso-tps-y-tpv-lanzan-segundo-operativo-de-limpieza-en-barrio-puerto/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-nuevo-terminal-portuario-chimbote-sera-declarado-interes-mayo-2026-1073729.aspx",
-    "title": "Nuevo Terminal Portuario de Chimbote será declarado de interés en mayo 2026",
-    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión) anunció hoy que presentará este mes la declaratoria de interés del Terminal Portuario Internacional de Chimbote, adelantando su cronograma previsto y concret...",
-    "date": "2026-05-04T22:41:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-nuevo-terminal-portuario-chimbote-sera-declarado-interes-mayo-2026-1073729.aspx",
     "category": "MERCADO"
   }
 ]
