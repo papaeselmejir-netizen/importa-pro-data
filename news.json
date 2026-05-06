@@ -1,11 +1,65 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c0k257g8jk5o#0",
+    "title": "Gulf economies face long-term hit from Iran conflict",
+    "snippet": "Commentators say it will take years or even decades to repair the damage....",
+    "date": "2026-05-06T23:06:17",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx21k21vnmgo#0",
+    "title": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
+    "snippet": "The unmanned aircraft can drop off 100 parcels a day within a 12km radius of Amazon's hub....",
+    "date": "2026-05-06T23:02:06",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434343",
+    "title": "China: Puerto de Qingdao bate récord mundial de rendimiento con maniobra de megabuque",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Qingdao, perteneciente al Grupo Portuario de Shandong (SPG), estableció un referente mundial después\nLa entrada China: Puerto de Qingdao bate récord mundial de ...",
+    "date": "2026-05-06T23:00:06",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/china-puerto-de-qingdao-bate-record-mundial-de-rendimiento-con-maniobra-de-megabuque/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-dejar-atras-mayor-lastre-claude-ha-conseguido-sellar-alianza-spacex-elon-musk",
+    "title": "Anthropic acaba de dejar atrás el mayor lastre de Claude. Lo ha conseguido tras sellar una alianza con SpaceX de Elon Musk",
+    "snippet": "Hay pocas cosas más frustrantes que encontrar una herramienta que encaja casi exactamente con lo que necesitamos y descubrir, justo cuando empezamos a sacarle partido, que no podemos seguir usándola al mismo ritmo. Claud...",
+    "date": "2026-05-06T22:58:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-dejar-atras-mayor-lastre-claude-ha-conseguido-sellar-alianza-spacex-elon-musk",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "8d36dacb-b998-4fbf-9f8c-d3254e2c3b38",
+    "title": "Amazon Blink Unveils Its Most Advanced Video Doorbells for New Budget Choices",
+    "snippet": "Blink's security line adds doorbells with 2K resolution at prices under $50....",
+    "date": "2026-05-06T22:45:19",
+    "source": "CNET",
+    "url": "https://www.cnet.com/home/security/amazon-blink-unveils-its-most-advanced-video-doorbells-for-new-budget-choices/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-congreso-comision-aprueba-declarar-interes-nacional-zona-economica-especial-paracas-1074060.aspx",
     "title": "Congreso: Comisión aprueba declarar de interés nacional zona económica especial en Paracas",
     "snippet": "La Comisión de Economía del Congreso de la República aprobó el dictamen que declara de interés nacional la creación de una Zona Económica Especial Privada (ZEEP) en el distrito de Paracas, provincia de Pisco, departament...",
     "date": "2026-05-06T22:39:48",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-congreso-comision-aprueba-declarar-interes-nacional-zona-economica-especial-paracas-1074060.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "149a04a3-67d7-47fe-9c40-7a1579d66608",
+    "title": "Surprise! Nintendo's StarFox Remake Hits Switch 2 on June 25",
+    "snippet": "It looks like a remake of StarFox 64, but the visuals look impressive....",
+    "date": "2026-05-06T22:37:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/surprise-nintendos-starfox-remake-hits-switch-2-june-25/",
     "category": "MERCADO"
   },
   {
@@ -1294,59 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-mef-indicadores-adelantados-anticipan-crecimiento-marzo-y-aceleracion-abril-1073897.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434207",
-    "title": "Perú: Nuevo Terminal Portuario de Chimbote será declarado de interés en mayo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Agencia de Promoción de la Inversión Privada (Proinversión) del Perú presentará este mes la declaratoria\nLa entrada Perú: Nuevo Terminal Portuario de Chimbote será declar...",
-    "date": "2026-05-05T22:58:22",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/peru-nuevo-terminal-portuario-de-chimbote-sera-declarado-de-interes-en-mayo/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434202",
-    "title": "Brasil: Estudian reactivación de hidrovía de São Francisco para reducir costos de transporte",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Puertos y Aeropuertos (MPor) de Brasil estudia la reactivación de la hidrovía del\nLa entrada Brasil: Estudian reactivación de hidrovía de São Francisco para...",
-    "date": "2026-05-05T22:53:55",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-estudian-reactivacion-de-hidrovia-de-sao-francisco-para-reducir-costos-de-transporte/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434200",
-    "title": "Investimentos em transportes e logística atingem maior nível dos últimos 11 anos",
-    "snippet": "Por Redação PortalPortuario @PortalPortuario O Brasil vive um novo momento para os investimentos em infraestrutura, com reflexos diretos no setor\nLa entrada Investimentos em transportes e logística atingem maior nível do...",
-    "date": "2026-05-05T22:46:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/investimentos-em-transportes-e-logistica-atingem-maior-nivel-dos-ultimos-11-anos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434196",
-    "title": "Brasil: Inversiones en transporte y logística alcanzan nivel más alto en últimos 11 años",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Las inversiones públicas y privadas en infraestructura y logística en Brasil alcanzaron aproximadamente R$ 76.500 millones\nLa entrada Brasil: Inversiones en transporte y log...",
-    "date": "2026-05-05T22:43:37",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-inversiones-en-transporte-y-logistica-alcanzan-nivel-mas-alto-en-ultimos-11-anos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434061",
-    "title": "Stena Line invierte 18,9 millones de dólares en su flota del Mar de Irlanda",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Stena Line ha anunciado una importante inversión de aproximadamente 18,9 millones de dólares en la modernización\nLa entrada Stena Line invierte 18,9 millones de dólares en s...",
-    "date": "2026-05-05T22:30:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/stena-line-invierte-189-millones-de-dolares-en-su-flota-del-mar-de-irlanda/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/a-chrome-siempre-le-ha-gustado-devorar-ram-ahora-descarga-modelo-ia-varios-gigas-avisar",
-    "title": "A Chrome siempre le ha gustado devorar RAM. Ahora descarga un modelo de IA de varios gigas sin avisar",
-    "snippet": "Chrome forma parte de la rutina digital de millones de personas hasta el punto de que muchas veces dejamos de preguntarnos qué hace exactamente mientras navegamos. Lo usamos para casi todo, le confiamos sesiones, extensi...",
-    "date": "2026-05-05T22:15:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/a-chrome-siempre-le-ha-gustado-devorar-ram-ahora-descarga-modelo-ia-varios-gigas-avisar",
-    "category": "TRIBUTARIO"
   }
 ]
