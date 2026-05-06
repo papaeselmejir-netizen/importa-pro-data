@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-sunass-exhorta-accion-inmediata-ante-discurrimiento-aguas-residuales-zonas-paita-1074056.aspx",
+    "title": "Sunass exhorta acción inmediata ante discurrimiento de aguas residuales en zonas de Paita",
+    "snippet": "Ante la emergencia sanitaria generada por el desborde y discurrimiento de aguas residuales en diversos sectores de la provincia de Paita, la Superintendencia Nacional de Servicios de Saneamiento (Sunass), mediante su ofi...",
+    "date": "2026-05-06T21:54:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sunass-exhorta-accion-inmediata-ante-discurrimiento-aguas-residuales-zonas-paita-1074056.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/pensabamos-que-linux-era-especialmente-seguro-vulnerabilidad-acaba-sacudir-casi-todas-sus-versiones",
+    "title": "Pensábamos que Linux era un sistema operativo “blindado”: una vulnerabilidad acaba de sacudir casi todas sus versiones",
+    "snippet": "Linux tiene fama de sistema robusto. No invulnerable, claro, pero sí especialmente resistente, hasta el punto de haberse convertido en una de las bases silenciosas de Internet, de los servidores empresariales y de muchos...",
+    "date": "2026-05-06T21:51:01",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/pensabamos-que-linux-era-especialmente-seguro-vulnerabilidad-acaba-sacudir-casi-todas-sus-versiones",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-el-psg-derriba-al-bayern-munich-alemania-y-defendera-su-trono-europeo-ante-arsenal-1074049.aspx",
+    "title": "El PSG derriba al Bayern Múnich en Alemania y defenderá su trono europeo ante el Arsenal",
+    "snippet": "El Paris Saint-Germain aspirará a defender su título de la Liga de Campeones de Europa tras eliminar en su semifinal al Bayern Múnich, con el que empató 1-1 en la vuelta este miércoles en Alemania, una semana después del...",
+    "date": "2026-05-06T21:34:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-el-psg-derriba-al-bayern-munich-alemania-y-defendera-su-trono-europeo-ante-arsenal-1074049.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434404",
+    "title": "Enrique Duarte: “La mediterraneidad no es una limitación, sino una condición que debe ser gestionada estratégicamente”",
+    "snippet": "Por Pablo Ramírez, corresponsal @PortalPortuario La economía de Paraguay atraviesa un momento de notable dinamismo, posicionándose como uno de los\nLa entrada Enrique Duarte: &#8220;La mediterraneidad no es una limitación...",
+    "date": "2026-05-06T21:22:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/enrique-duarte-la-mediterraneidad-no-es-una-limitacion-sino-una-condicion-que-debe-ser-gestionada-estrategicamente/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1687174",
+    "title": "Precio del dólar Perú y tipo de cambio hoy miércoles 06 de mayo del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy miércoles 06 de mayo es de S/3.46 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-05-06T21:15:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-06-de-mayo-del-2026-noticia-1687174",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434412",
+    "title": "Puerto San Antonio reconoce a trabajadores por compromiso con seguridad y prevención de accidentes en faenas portuarias",
+    "snippet": "Por PortalPortuario Social En el marco de lo que fue la conmemoración del Día Mundial de la Seguridad y la\nLa entrada Puerto San Antonio reconoce a trabajadores por compromiso con seguridad y prevención de accidentes en ...",
+    "date": "2026-05-06T20:51:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-san-antonio-reconoce-a-trabajadores-por-compromiso-con-seguridad-y-prevencion-de-accidentes-en-faenas-portuarias/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1687225",
+    "title": "Ruta Caminos del Papa León XIV en Chiclayo: MEF destina más de S/ 15 millones para mejoras de vías",
+    "snippet": "Los recursos financiarán la tercera etapa del mantenimiento de 51 calles y avenidas de Chiclayo para mejorar la transitabilidad vehicular, facilitar el acceso a los destinos del circuito turístico-cultural y contribuir a...",
+    "date": "2026-05-06T20:34:24",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/ruta-caminos-del-papa-leon-xiv-en-chiclayo-mef-destina-mas-de-s-15-millones-para-mejoras-de-vias-noticia-1687225",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mas-del-70-las-compras-online-se-realizaran-desde-un-celular-1074004.aspx",
     "title": "Más del 70% de las compras online se realizarán desde un celular",
     "snippet": "En Perú, el Día de la Madre es la celebración con mayor carga afectiva del año y, lejos de ser una fecha más, impacta directo en el consumo. Según proyecciones de la Asociación de Centros Comerciales y de Entretenimiento...",
@@ -1285,68 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-presidente-del-ipd-es-nombrado-representante-ante-consejo-fundacion-de-wada-1073887.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-congreso-declaran-interes-nacional-construccion-dique-seco-postpanamax-1073882.aspx",
-    "title": "Congreso: declaran de interés nacional construcción de dique seco Post-Panamax",
-    "snippet": "El presidente encargado del Congreso, Fernando Rospigliosi, afirmó que el Perú da un paso decisivo hacia su desarrollo marítimo tras la firma de la autógrafa de ley que declara de interés nacional la construcción, equipa...",
-    "date": "2026-05-05T21:28:50",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-congreso-declaran-interes-nacional-construccion-dique-seco-postpanamax-1073882.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=924706",
-    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-    "snippet": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in th...",
-    "date": "2026-05-05T21:18:23",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3119249",
-    "title": "As crypto cools, a16z crypto raises a $2.2B fund",
-    "snippet": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course....",
-    "date": "2026-05-05T21:15:56",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ucayali-maiz-morado-derriba-barreras-y-ahora-crece-tambien-la-amazonia-1073881.aspx",
-    "title": "Ucayali: el maíz morado derriba barreras y ahora crece también en la Amazonía",
-    "snippet": "El maíz morado, fruto oriundo de la zona de Sudamérica en la que se encuentra el Perú, no solo se cultiva en las zonas costeras y andinas, sino también en la Amazonía y ha dado pie a la creación de una bebida en la que s...",
-    "date": "2026-05-05T21:15:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ucayali-maiz-morado-derriba-barreras-y-ahora-crece-tambien-la-amazonia-1073881.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "e7a773c2-0c16-44d4-98a6-b14d33464200",
-    "title": "I Played the New Lego Batman, a Whimsical Game That Takes the Dark Knight Seriously",
-    "snippet": "The upcoming game walks a tight Bat-rope retelling the Caped Crusader's biggest adventures with a mixture of slapstick charm and deep comic cuts....",
-    "date": "2026-05-05T20:56:46",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/i-played-the-new-lego-batman-preview/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ruta-del-papa-leon-xiv-impulsa-boom-economico-y-turistico-chiclayo-y-norte-peru-1073877.aspx",
-    "title": "Ruta del Papa León XIV impulsa boom económico y turístico en Chiclayo y el norte de Perú",
-    "snippet": "La denominada “Ruta del Papa León XIV” se ha convertido en uno de los motores económicos más importantes del norte del país, luego de la elección del exobispo de Chiclayo, Robert Prevost, como Sumo Pontífice. A casi un a...",
-    "date": "2026-05-05T20:41:37",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ruta-del-papa-leon-xiv-impulsa-boom-economico-y-turistico-chiclayo-y-norte-peru-1073877.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dolar-sube-428-primer-cuatrimestre-del-2026-tension-belica-medio-oriente-1073778.aspx",
-    "title": "Dólar sube 4.28% en primer cuatrimestre del 2026 por tensión bélica en Medio Oriente",
-    "snippet": "En lo que va del 2026 el dólar se ha fortalecido frente al sol en 4.28%, pero en los 12 últimos meses ha perdido 3.92% de valor frente a la moneda peruana, en un contexto de tensión bélica en el Medio Oriente, señaló Jor...",
-    "date": "2026-05-05T20:24:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dolar-sube-428-primer-cuatrimestre-del-2026-tension-belica-medio-oriente-1073778.aspx",
-    "category": "TRIBUTARIO"
   }
 ]
