@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=434646",
+    "title": "Comité Paritario de Puerto San Antonio recibe Certificación Intermedia de ACHS",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Empresa Portuaria San Antonio (EPSA) se convirtió en la primera organización de la Región de\nLa entrada Comité Paritario de Puerto San Antonio recibe Certificación Interm...",
+    "date": "2026-05-07T21:25:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/comite-paritario-de-puerto-san-antonio-recibe-certificacion-intermedia-de-achs/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3120264",
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "snippet": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round....",
+    "date": "2026-05-07T21:02:11",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434613",
+    "title": "Subsecretario de Transportes conoce avances de ampliación en Puerto de Valparaíso",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El subsecretario de Transportes, Martín Mackenna, visitó el Puerto de Valparaíso, donde se reunió con la\nLa entrada Subsecretario de Transportes conoce avances de ampliación...",
+    "date": "2026-05-07T20:34:43",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/subsecretario-de-transportes-conoce-avances-de-ampliacion-en-puerto-de-valparaiso/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/wearables/fitbit-air-caracteristicas-precio-ficha-tecnica",
+    "title": "Fitbit vuelve con Fitbit Air, una pulsera sencilla y barata. La sorpresa es que Google está diluyendo la marca por dentro",
+    "snippet": "Fitbit parecía haber quedado en un segundo plano dentro del ecosistema de Google, casi como una marca que seguía ahí por inercia mientras el protagonismo recaía en los Pixel Watch. Ahora vuelve con Fitbit Air, una pulser...",
+    "date": "2026-05-07T20:31:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/wearables/fitbit-air-caracteristicas-precio-ficha-tecnica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-hantavirus-minsa-refuerza-vigilancia-aeropuertos-y-puertos-del-peru-1074166.aspx",
+    "title": "Hantavirus: Minsa refuerza vigilancia en aeropuertos y puertos del Perú",
+    "snippet": "El ministro de Salud, Juan Carlos Velasco Guerrero, indicó que sistema de salud peruano se encuentra en estado de alerta ante la eventual llegada del hantavirus al país, tras una advertencia de carácter internacional....",
+    "date": "2026-05-07T20:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-hantavirus-minsa-refuerza-vigilancia-aeropuertos-y-puertos-del-peru-1074166.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-donald-trump-dice-no-pagaria-mas-mil-dolares-una-entrada-al-mundial-2026-1074181.aspx",
     "title": "Donald Trump dice que no pagaría más de mil dólares por una entrada al Mundial 2026",
     "snippet": "El presidente estadounidense, Donald Trump, se declaró sorprendido por el alto precio de las entradas para el primer partido de su selección en el Mundial 2026, superior a los 1.000 dólares, y aseguró que él \"no pagaría\"...",
@@ -33,6 +78,15 @@
     "date": "2026-05-07T19:41:57",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2167335/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "68f996bc-6a1f-432b-bc84-1c9e906ca0f9",
+    "title": "38 Best High School Graduation Gifts for 2026",
+    "snippet": "Whether your grad is heading to college or starting a new job, our CNET experts assembled a selection of thoughtful and practical gifts that will get them ready for their next chapter....",
+    "date": "2026-05-07T19:30:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/news/high-school-graduation-gifts/",
     "category": "MERCADO"
   },
   {
@@ -255,6 +309,15 @@
     "id": "69ebbc844d198adf5e58ce70",
     "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
     "snippet": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy....",
+    "date": "2026-05-07T16:25:48",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "69ebbc844d198adf5e58ce70",
+    "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+    "snippet": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy....",
     "date": "2026-05-07T16:25:48",
     "source": "WIRED",
     "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
@@ -1285,68 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-gran-premio-caricatura-del-concurso-malaga-grenet-otorgara-5-mil-dolares-al-ganador-1074015.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/tirania-puedes-todo-al-lujo-no-hacer-nada-como-agotamiento-nuevo-sintoma-sistema-roto",
-    "title": "De la tiranía del \"puedes con todo\" al lujo de no hacer nada: el agotamiento es el nuevo síntoma de un sistema roto",
-    "snippet": "“No me da la vida”. Esta frase, repetida casi como un mantra diario, se ha convertido en la excusa universal para cancelar una quedada con amigos, posponer una llamada o justificar un correo sin responder. Lo que antes e...",
-    "date": "2026-05-06T18:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/tirania-puedes-todo-al-lujo-no-hacer-nada-como-agotamiento-nuevo-sintoma-sistema-roto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "5732a104-f5fb-4e26-adbd-1a86bc498574",
-    "title": "How to Collect on Apple's $250 Million AI iPhone Settlement",
-    "snippet": "The company will start paying the quarter-billion-dollar sum to settle a lawsuit over delayed and missing AI features....",
-    "date": "2026-05-06T18:26:08",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/how-to-collect-on-apples-250-million-ai-settlement/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3119720",
-    "title": "DOJ says ransomware gang tapped into Russian government databases",
-    "snippet": "U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft....",
-    "date": "2026-05-06T18:20:21",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/hemos-echado-cuentas-esta-forma-barata-ver-104-partidos-mundial-futbol-dazn",
-    "title": "Hemos echado cuentas y esta es la forma más barata de ver los 104 partidos del Mundial de fútbol en DAZN",
-    "snippet": "Queda poquito más de un mes para que empiece, por fin, el Mundial de fútbol. Es momento de lo mismo que cada cuatro años: ver cómo y dónde podemos hartarnos de ver partidos. Es cierto que tendremos partidos gratis tanto ...",
-    "date": "2026-05-06T18:16:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/hemos-echado-cuentas-esta-forma-barata-ver-104-partidos-mundial-futbol-dazn",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/espana-necesita-urgentemente-20-000-camioneros-2026-solucion-que-camioneros-extranjeros-convaliden-sus-carnets",
-    "title": "España necesita urgentemente 20.000 camioneros en 2026. La solución: que los camioneros extranjeros convaliden sus carnets",
-    "snippet": "Casi todo lo que consumes ha viajado en un camión en algún momento del proceso. Desde la fruta que llega a los supermercados hasta el paquete de Amazon que llevas todo el día esperando. El transporte por carretera mueve ...",
-    "date": "2026-05-06T18:16:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/espana-necesita-urgentemente-20-000-camioneros-2026-solucion-que-camioneros-extranjeros-convaliden-sus-carnets",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-alianza-atletico-vs-america-cali-vendaval-se-juega-todo-la-copa-sudamericana-1074009.aspx",
-    "title": "Alianza Atlético vs. América de Cali: El 'Vendaval' se juega todo en la Copa Sudamericana",
-    "snippet": "Alianza Atlético se juega su última oportunidad de seguir con vida en la Copa Sudamericana, cuando enfrente a América de Cali en el Estadio Miguel Grau del Callao, a las 21:00 horas, por la fecha 4 del Grupo A....",
-    "date": "2026-05-06T18:14:28",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-alianza-atletico-vs-america-cali-vendaval-se-juega-todo-la-copa-sudamericana-1074009.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "af8772fd-017f-4e0a-848e-d894ba1dafa0",
-    "title": "Apple iPhone Fold, Google Pixel 11, Samsung Galaxy Z Fold 8 and Other Phones Left to Launch in 2026",
-    "snippet": "While we've already seen multiple phone launches so far, Samsung, Apple and Google are gearing up for some very exciting announcements (including an all-new wide-screen Galaxy Fold) this year....",
-    "date": "2026-05-06T18:11:08",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/",
-    "category": "MERCADO"
   }
 ]
