@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-atu-22-rutas-transporte-vuelven-a-circular-por-av-28-julio-1074330.aspx",
+    "title": "ATU: 22 rutas de transporte vuelven a circular por la av. 28 de Julio",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) informó que 22 rutas autorizadas retomarán su recorrido habitual por la avenida 28 de Julio, luego de la liberación de vías realizada en el marco de los avances ...",
+    "date": "2026-05-08T20:40:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-22-rutas-transporte-vuelven-a-circular-por-av-28-julio-1074330.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-exportaciones-peruanas-crecen-335-primer-trimestre-2026-y-suman-27217-millones-1074331.aspx",
+    "title": "Exportaciones peruanas crecen 33.5% en primer trimestre 2026  y suman US$ 27,217 millones",
+    "snippet": "Las exportaciones peruanas de bienes se incrementaron en 33.5% durante el primer trimestre del 2026, alcanzando los 27,217 millones de dólares, informó el l Ministerio de Comercio Exterior y Turismo (Mincetur)....",
+    "date": "2026-05-08T20:39:39",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-exportaciones-peruanas-crecen-335-primer-trimestre-2026-y-suman-27217-millones-1074331.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=927327",
+    "title": "Amazon is adding a vertical video feed to Prime Video",
+    "snippet": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump in...",
+    "date": "2026-05-08T20:19:57",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434712",
+    "title": "OOCL bautiza su primer portacontenedores de doble combustible de metanol con capacidad para 24.000 TEU",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Orient Overseas Container Line Ltd. (OOCL) celebró la ceremonia de bautizo del OOCL Wisdom, el primer\nLa entrada OOCL bautiza su primer portacontenedores de doble combustibl...",
+    "date": "2026-05-08T20:00:25",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/oocl-bautiza-su-primer-portacontenedores-de-doble-combustible-de-metanol-con-capacidad-para-24-000-teu/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434845",
+    "title": "Puerto Angamos inaugura centro logístico con mayor capacidad del mundo para manejo de litio",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto Angamos dio a conocer que, junto a la empresa Novandino Litio, inauguró el centro logístico\nLa entrada Puerto Angamos inaugura centro logístico con mayor capacidad de...",
+    "date": "2026-05-08T19:41:48",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-angamos-inaugura-centro-logistico-con-mayor-capacidad-del-mundo-para-manejo-de-litio/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434727",
+    "title": "Italia: Contship introduce primer tractor portuario eléctrico en la Terminal de Contenedores de La Spezia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Contship da un paso más hacia la descarbonización con la introducción del primer tractor portuario totalmente\nLa entrada Italia: Contship introduce primer tractor portuario ...",
+    "date": "2026-05-08T19:30:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/italia-contship-introduce-primer-tractor-portuario-electrico-en-la-terminal-de-contenedores-de-la-spezia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/energia/grandes-tecnologicas-tenian-objetivos-climaticos-ambiciosos-entonces-llego-ia-empezo-a-devorarlos",
+    "title": "Las grandes tecnológicas tenían objetivos climáticos ambiciosos. Entonces llegó la IA y empezó a devorarlos",
+    "snippet": "Hubo un momento en el que la tecnología parecía haber encontrado una forma cómoda de contar su futuro climático. Las grandes compañías hablaban de “energía limpia”, emisiones netas cero, operaciones cada vez más eficient...",
+    "date": "2026-05-08T19:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/grandes-tecnologicas-tenian-objetivos-climaticos-ambiciosos-entonces-llego-ia-empezo-a-devorarlos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "3e5dc679-01bd-49bd-861f-372938e7c88f",
+    "title": "iPhone 18: Here's What We Know About Apple's Next Flagship Phone",
+    "snippet": "As we get closer to WWDC in June, more rumors are circulating about what the next iPhone could look like....",
+    "date": "2026-05-08T19:17:24",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-18-heres-what-we-know-about-apples-next-flagship-phone/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=926989",
     "title": "Here is Yarbo’s promise to fix the robot mower that ran me over",
     "snippet": "Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS coordinates, Wi-Fi pas...",
@@ -119,6 +191,15 @@
   {
     "id": "https://www.xataka.com/empresas-y-economia/todos-fundadores-openai-se-han-hecho-milmillonarios-chatgpt-todos-excepto-sam-altman-que-no-tiene-acciones",
     "title": "Todos los fundadores de OpenAI se han hecho milmillonarios con ChatGPT. Todos excepto Sam Altman, que no tiene acciones",
+    "snippet": "Sam Altman es la cara más reconocible de la industria de la IA en el mundo. Dirige OpenAI, la empresa que creó ChatGPT y que hoy está valorada en 852.000 millones de dólares. Sin embargo, un documento filtrado durante el...",
+    "date": "2026-05-08T17:16:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/todos-fundadores-openai-se-han-hecho-milmillonarios-chatgpt-todos-excepto-sam-altman-que-no-tiene-acciones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/todos-fundadores-openai-se-han-hecho-milmillonarios-chatgpt-todos-excepto-sam-altman-que-no-tiene-acciones",
+    "title": "Todos los fundadores de OpenAI se han hecho milmillonarios con ChatGPT. Todos, excepto Sam Altman",
     "snippet": "Sam Altman es la cara más reconocible de la industria de la IA en el mundo. Dirige OpenAI, la empresa que creó ChatGPT y que hoy está valorada en 852.000 millones de dólares. Sin embargo, un documento filtrado durante el...",
     "date": "2026-05-08T17:16:25",
     "source": "XATAKA",
@@ -371,6 +452,15 @@
   {
     "id": "https://www.xataka.com/magnet/pregunta-como-acabar-bullying-aulas-singapur-tiene-claro-azotando-a-ninos-vara",
     "title": "Singapur tiene un plan muy antiguo para acabar con el \"bullying\" en los colegios: azotar a los niños con una vara",
+    "snippet": "Cuando de aplicar reglas se trata, en Singapur no valen las medias tintas. Eso es algo que el resto del mundo ha aprendido a golpe de noticias virales como la que protagoniza desde hace unas semanas (muy a su pesar) Didi...",
+    "date": "2026-05-08T14:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/pregunta-como-acabar-bullying-aulas-singapur-tiene-claro-azotando-a-ninos-vara",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/pregunta-como-acabar-bullying-aulas-singapur-tiene-claro-azotando-a-ninos-vara",
+    "title": "Llevamos años intentando erradicar el 'bullying' sin grandes resultados. Singapur tiene una idea: azotes con varas",
     "snippet": "Cuando de aplicar reglas se trata, en Singapur no valen las medias tintas. Eso es algo que el resto del mundo ha aprendido a golpe de noticias virales como la que protagoniza desde hace unas semanas (muy a su pesar) Didi...",
     "date": "2026-05-08T14:30:26",
     "source": "XATAKA",
@@ -1257,96 +1347,6 @@
     "date": "2026-05-07T20:25:28",
     "source": "INDECOPI",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNnNWbUs2bHVTTDk2d1pfdEs1MmV4T3NBZnFaLTJxQmVMUnVJTEltT0hGZG9oVndUd0xNOVdYRW42QTVQdHgwZGtLcHBlNHBaTzUwTHY0WFdWZnpGY3ZyZ1U1TXhUUmpVT0ZJRnRIZG9NbTE1d3ZPOTR3NkczdThmX2VHbG03SFpQMkRkMzc4bG5yZXZrcFN6MWJ3eHRBb1c3Ui1pbnJua1QzZ0NlTzQybmlDUk43a3RxaklCRzdMMzNJWWN2TWVmMGpkazFXbG1FTjN6ZzQzVFBMXzdoVkdlcg?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-donald-trump-dice-no-pagaria-mas-mil-dolares-una-entrada-al-mundial-2026-1074181.aspx",
-    "title": "Donald Trump dice que no pagaría más de mil dólares por una entrada al Mundial 2026",
-    "snippet": "El presidente estadounidense, Donald Trump, se declaró sorprendido por el alto precio de las entradas para el primer partido de su selección en el Mundial 2026, superior a los 1.000 dólares, y aseguró que él \"no pagaría\"...",
-    "date": "2026-05-07T20:11:28",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-donald-trump-dice-no-pagaria-mas-mil-dolares-una-entrada-al-mundial-2026-1074181.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434497",
-    "title": "DP World lanza seguro integral de carga contra riesgos de guerra en Medio Oriente",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World lanzó una solución pionera de seguro de carga contra riesgos de guerra para ayudar\nLa entrada DP World lanza seguro integral de carga contra riesgos de guerra en Me...",
-    "date": "2026-05-07T20:00:29",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dp-world-lanza-seguro-integral-de-carga-contra-riesgos-de-guerra-en-medio-oriente/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-canciller-carlos-pareja-transmite-saludo-del-gobierno-peru-a-presidente-chile-1074172.aspx",
-    "title": "Canciller Carlos Pareja transmite saludo del Gobierno de Perú a presidente de Chile",
-    "snippet": "El canciller Carlos Pareja transmitió el saludo del Gobierno del Perú al presidente de Chile, José Antonio Kast, y a su delegación, en un encuentro en el aeropuerto Jorge Chávez de Lima....",
-    "date": "2026-05-07T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-canciller-carlos-pareja-transmite-saludo-del-gobierno-peru-a-presidente-chile-1074172.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2167335/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev/",
-    "title": "The Lexus TZ is a quieter, upscale take on the Highlander EV",
-    "snippet": "It's also the company's first fully-electric three-row SUV....",
-    "date": "2026-05-07T19:41:57",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2167335/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "68f996bc-6a1f-432b-bc84-1c9e906ca0f9",
-    "title": "38 Best High School Graduation Gifts for 2026",
-    "snippet": "Whether your grad is heading to college or starting a new job, our CNET experts assembled a selection of thoughtful and practical gifts that will get them ready for their next chapter....",
-    "date": "2026-05-07T19:30:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/news/high-school-graduation-gifts/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "322ae0a1-1115-49a4-a326-957d7827bf5d",
-    "title": "'Power Ballad' Hits the Right Notes With Humor, Heart and Nostalgia",
-    "snippet": "Review: John Carney's latest film is a lighthearted exploration of fame, ambition and friendship. The music's pretty damn good, too....",
-    "date": "2026-05-07T19:00:58",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/home-entertainment/power-ballad-review/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/nuevo-trailer-gta-vi-saldra-14-mayo-a-11-00-dicen-planetas",
-    "title": "El nuevo tráiler de ‘GTA VI’ saldrá el 14 de mayo a las 11:00. Lo dice la ciencia de la astrología",
-    "snippet": "Ya lo decía Esperanza Gracia: si Mercurio está retrógrado, toca preguntarse cuándo saldrá el tercer tráiler de ‘GTA VI’. Las estrellas llevan milenios guiando a la humanidad, pero también sirven para algo igual de import...",
-    "date": "2026-05-07T19:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/nuevo-trailer-gta-vi-saldra-14-mayo-a-11-00-dicen-planetas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/nuevo-trailer-gta-vi-saldra-14-mayo-a-11-00-dicen-planetas",
-    "title": "Plutón está en Sagitario y eso sólo puede significar una cosa: el tercer tráiler de 'GTA VI' saldrá el 14 de mayo",
-    "snippet": "Ya lo decía Esperanza Gracia: si Mercurio está retrógrado, toca preguntarse cuándo saldrá el tercer tráiler de ‘GTA VI’. Las estrellas llevan milenios guiando a la humanidad, pero también sirven para algo igual de import...",
-    "date": "2026-05-07T19:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/nuevo-trailer-gta-vi-saldra-14-mayo-a-11-00-dicen-planetas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/ue-ha-pactado-prohibir-apps-ia-para-crear-desnudos-propuesta-espana-polemica-grok",
-    "title": "La UE ha pactado prohibir las apps de IA para crear desnudos: una propuesta de España tras la polémica de Grok",
-    "snippet": "Durante mucho tiempo, buena parte de la conversación sobre la IA se ha movido entre promesas de productividad, creatividad y automatización. Pero hay usos que exhiben una realidad mucho más áspera: la posibilidad de gene...",
-    "date": "2026-05-07T18:43:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/ue-ha-pactado-prohibir-apps-ia-para-crear-desnudos-propuesta-espana-polemica-grok",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "0c729dda-4349-434c-9ff1-04672a6819e9",
-    "title": "Samsung's 2026 Monitors Arrive This Month. Here's How to Score Exclusive Savings on Them at Launch",
-    "snippet": "We've got all the details on how you can upgrade your monitor without paying full price....",
-    "date": "2026-05-07T18:37:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/deals/samsung-2026-monitor-reservation-deal/",
     "category": "MERCADO"
   }
 ]
