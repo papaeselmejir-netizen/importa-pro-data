@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-dia-de-madre-salome-vargas-llevo-arte-y-castana-madre-dios-hasta-espana-1074456.aspx",
+    "title": "Día de la Madre: Salomé Vargas llevó el arte y la castaña de Madre de Dios hasta España",
+    "snippet": "Desde niña, Salomé Vargas creció viendo a su padre y a sus hermanos internarse en el bosque amazónico de Madre de Dios para recolectar castaña. Hoy, a sus 45 años y siendo madre de tres hijos, continúa profundamente liga...",
+    "date": "2026-05-09T22:31:29",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dia-de-madre-salome-vargas-llevo-arte-y-castana-madre-dios-hasta-espana-1074456.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434678",
+    "title": "Yilport Oslo declara emisiones prácticamente nulas en terminal de contenedores.",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con nueve tractores terminales eléctricos en funcionamiento, Yilport Oslo está dando un paso importante hacia las\nLa entrada Yilport Oslo declara emisiones prácticamente nul...",
+    "date": "2026-05-09T22:00:17",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/yilport-oslo-declara-emisiones-practicamente-nulas-en-terminal-de-contenedores/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dia-del-trabajo-feriado-movilizo-mas-955-mil-turistas-internos-1074436.aspx",
+    "title": "Día del Trabajo: feriado movilizó más de 955 mil turistas internos",
+    "snippet": "El ministro de Comercio Exterior y Turismo, José Reyes Llanos, informó que, durante el feriado por el Día del Trabajo, del viernes 1 al domingo 3 de mayo, se movilizaron a nivel nacional más de 955 mil turistas internos,...",
+    "date": "2026-05-09T22:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dia-del-trabajo-feriado-movilizo-mas-955-mil-turistas-internos-1074436.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=434949",
     "title": "Autoridades debaten cómo potenciar participación del Puerto de Coquimbo en traslado de material minero entre Chile y Argentina",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La posibilidad de reactivar la línea ferroviaria que recorre la Región de Coquimbo, permitiendo el traslado\nLa entrada Autoridades debaten cómo potenciar participación del P...",
@@ -1320,33 +1347,6 @@
     "date": "2026-05-08T13:00:14",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/rox-establecera-centro-de-fabricacion-avanzada-con-ia-en-kezad-logistic-park/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-transfiere-s-249-millones-para-intervenciones-ante-ocurrencia-desastres-1074259.aspx",
-    "title": "MEF transfiere S/ 24.9 millones para intervenciones ante ocurrencia de desastres",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia de 24 millones 929,720 soles a favor de 17 municipalidades para financiar la continuidad de la ejecución de 20 intervenciones priorizadas en el Acta N...",
-    "date": "2026-05-08T12:33:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-transfiere-s-249-millones-para-intervenciones-ante-ocurrencia-desastres-1074259.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/solo-hay-forma-correcta-colocar-papel-higienico-patente-acabo-debate-1891-1",
-    "title": "Solo hay una forma correcta de colocar el papel higiénico. Una patente acabó con el debate en 1891",
-    "snippet": "Llevamos siglos librando todo tipo de batallas, y en algunos casos la respuesta pasó de largo entre disputas de unos y otros. Entre esos debates hay uno que nunca parece desaparecer porque ambos bandos lo tienen igual de...",
-    "date": "2026-05-08T12:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/solo-hay-forma-correcta-colocar-papel-higienico-patente-acabo-debate-1891-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.scmp.com/news/hong-kong/politics/article/3352943/janice-tse-property-queen-hong-kong-ministers-heres-what-she-owns?utm_source=rss_feed",
-    "title": "Janice Tse is the ‘property queen’ of Hong Kong ministers. Here’s what she owns",
-    "snippet": "Secretary for Constitutional and Mainland Affairs Janice Tse Siu-wa has emerged as the biggest landlord among Hong Kong ministers after declaring that she has 25 properties in her name in the city, mainland China and the...",
-    "date": "2026-05-08T12:30:09",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3352943/janice-tse-property-queen-hong-kong-ministers-heres-what-she-owns?utm_source=rss_feed",
     "category": "MERCADO"
   }
 ]
