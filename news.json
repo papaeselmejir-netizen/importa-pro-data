@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.xataka.com/materiales/1724-cayo-meteorito-alemania-acabamos-descubrir-que-contenia-material-imposible-para-fisica",
+    "title": "En 1724 cayó un meteorito en Alemania: acabamos de descubrir que contenía un material 'imposible' para la física",
+    "snippet": "En julio del año pasado una investigación académica sacudió la física de materiales con un protagonista inesperado: una roca espacial recogida en Alemania hace tres siglos. En su interior albergaba un mineral cuyo compor...",
+    "date": "2026-05-09T13:16:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/materiales/1724-cayo-meteorito-alemania-acabamos-descubrir-que-contenia-material-imposible-para-fisica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/pensabamos-que-tinder-redes-sociales-nos-habian-hecho-infieles-psicologia-tiene-explicacion-mucho-incomoda",
+    "title": "Pensábamos que Tinder y las redes sociales nos habían hecho más infieles: la psicología tiene una explicación mucho más incómoda",
+    "snippet": "Un olor nuevo que no identificas, un poco de carmín en la camisa o una pequeña marca en el cuello era suficiente para saber que tu pareja no se había ido con sus amigos a por unas cervezas. O tal vez sí. No obstante, aho...",
+    "date": "2026-05-09T13:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/pensabamos-que-tinder-redes-sociales-nos-habian-hecho-infieles-psicologia-tiene-explicacion-mucho-incomoda",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/como-albert-camus-gran-simbolo-filosofia-absurdo-tuvo-absurda-muertes",
+    "title": "Cómo Albert Camus, el gran símbolo de la filosofía del absurdo, tuvo la más absurda de las muertes",
+    "snippet": "Hay ocasiones en las que la línea que separa la tragedia, la ironía, el absurdo y la crueldad es tan fina que resulta casi imposible apreciarla. Ocurrió la tarde del 4 de enero de 1960 en la Route Nationale 5 de Francia,...",
+    "date": "2026-05-09T12:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/como-albert-camus-gran-simbolo-filosofia-absurdo-tuvo-absurda-muertes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/zaragoza-ha-encontrado-remedio-para-esos-coches-aparcados-al-sol-que-se-vuelven-horno-montarles-panel-solar-encima",
+    "title": "Zaragoza ha tenido una idea para los coches aparcados al sol que se vuelven un horno: montarles un panel solar encima",
+    "snippet": "Aragón es una de las comunidades autónomas de la \"España energética\" y su capital se está posicionando como una de las ciudades europeas de referencia en la transición energética urbana. Dentro de su estrategia \"Zaragoza...",
+    "date": "2026-05-09T12:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/zaragoza-ha-encontrado-remedio-para-esos-coches-aparcados-al-sol-que-se-vuelven-horno-montarles-panel-solar-encima",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/gran-problema-escribir-correos-ia-que-suenan-a-ia-gmail-tiene-solucion-ia",
     "title": "Tu bandeja de Gmail se ha llenado de correos escritos evidentemente con IA. Google quiere arreglarlo con más IA",
     "snippet": "Todos hemos pasado varios minutos mirando el cursor, pensando cómo responder a ese correo electrónico importante; encontrar el tono, que sea contundente y amable al mismo tiempo, pero no demasiado amable. Con la integrac...",
@@ -39,6 +75,15 @@
     "id": "https://www.scmp.com/news/hong-kong/politics/article/3352996/wanted-hong-kong-parliament-member-could-be-deported-thailand?utm_source=rss_feed",
     "title": "Wanted ‘Hong Kong Parliament’ member could be deported from Thailand",
     "snippet": "A wanted member of the overseas opposition group “Hong Kong Parliament” has been arrested in Thailand for overstaying her visa, and is reportedly set to be deported to mainland China.\nThe opposition group said on Friday ...",
+    "date": "2026-05-09T10:11:41",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3352996/wanted-hong-kong-parliament-member-could-be-deported-thailand?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.scmp.com/news/hong-kong/politics/article/3352996/wanted-hong-kong-parliament-member-could-be-deported-thailand?utm_source=rss_feed",
+    "title": "Wanted ‘Hong Kong Parliament’ member may be deported from Thailand",
+    "snippet": "A wanted member of the overseas group “Hong Kong Parliament” has been arrested in Thailand for overstaying her visa and is reportedly set to be deported to mainland China.\nThe organisation said on Friday that Zhang Xinya...",
     "date": "2026-05-09T10:11:41",
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3352996/wanted-hong-kong-parliament-member-could-be-deported-thailand?utm_source=rss_feed",
@@ -1303,50 +1348,5 @@
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=926606",
-    "title": "Nintendo is raising Switch 2 prices",
-    "snippet": "Nintendo is raising the price of its Switch 2 console globally, \"in light of changes in market conditions,\" and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.9...",
-    "date": "2026-05-08T08:33:24",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/madrid-promete-abrir-tunel-a-5-diciembre-antes-queda-punto-delicado-juntar-tunel-nuevo-viejo",
-    "title": "Madrid promete abrir el túnel de la A-5 en diciembre, pero antes queda un punto delicado: juntar el túnel nuevo con el viejo",
-    "snippet": "Las obras del túnel de la A-5 llevan un buen tiempo condicionando el tráfico de Madrid y las vidas de sus residentes. Las buenas noticias es que ya están a punto de terminar, al menos en lo que respecta a la excavación. ...",
-    "date": "2026-05-08T08:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/madrid-promete-abrir-tunel-a-5-diciembre-antes-queda-punto-delicado-juntar-tunel-nuevo-viejo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/macbook-neo-viene-airpods-gratis-tele-samsung-mejor-relacion-calidad-precio-esta-oferta-cazando-gangas",
-    "title": "El MacBook Neo viene con AirPods gratis, la tele Samsung con mejor relación-calidad precio está de oferta y más. Cazando Gangas",
-    "snippet": "Hoy es viernes y eso significa que en Xataka volvemos con un nuevo Cazando Gangas. Esta semana la ha protagonizado Apple con algunas de las mejores ofertas que hemos visto recientemente (y eso es mucho decir), pero no po...",
-    "date": "2026-05-08T08:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/macbook-neo-viene-airpods-gratis-tele-samsung-mejor-relacion-calidad-precio-esta-oferta-cazando-gangas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434490",
-    "title": "Tailandia: DP World extiende concesión en Puerto de Laem Chabang",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World, a través de su empresa conjunta Laem Chabang International Terminal (LCIT), logró una prórroga\nLa entrada Tailandia: DP World extiende concesión en Puerto de Laem ...",
-    "date": "2026-05-08T08:00:24",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/tailandia-dp-world-extiende-concesion-en-puerto-de-laem-chabang/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/nintendo-switch-2-sube-precio-hay-claro-culpable-crisis-ram",
-    "title": "El aumento de precio de Nintendo Switch 2 es un recordatorio de que las generaciones de consolas ya no son como antes",
-    "snippet": "Nintendo Switch 2 está de celebración. No porque lleve casi un año en el mercado (cumplirá el próximo 5 de junio y debe andar cerca de las 20 millones de máquinas vendidas, una absoluta barbaridad), sino porque Nintendo ...",
-    "date": "2026-05-08T08:00:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/nintendo-switch-2-sube-precio-hay-claro-culpable-crisis-ram",
-    "category": "TRIBUTARIO"
   }
 ]
