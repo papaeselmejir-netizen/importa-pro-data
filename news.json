@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3121025",
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "snippet": "Nvidia continues to be a big investor in the AI ecosystem....",
+    "date": "2026-05-09T14:43:30",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/wearables/llevo-10-anos-apple-watch-muneca-unico-que-pedia-era-pulsera-google",
+    "title": "Llevo 10 años con el Apple Watch en la muñeca. Lo único que pedía era la pulsera de Google",
+    "snippet": "Servidor tiene un Apple Watch en el cajón desde hace meses. Y acaba de aprovechar la oferta de lanzamiento de la Fitbit Air por 99 euros más 45 euros de saldo en Google Store (justo lo que valen las correas). ¿Por qué? P...",
+    "date": "2026-05-09T14:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/wearables/llevo-10-anos-apple-watch-muneca-unico-que-pedia-era-pulsera-google",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mas-199500-madres-ejercen-un-rol-clave-el-servicio-alimentacion-escolar-del-pae-1074405.aspx",
+    "title": "Más de 199,500 madres ejercen un rol clave en el servicio de alimentación escolar del PAE",
+    "snippet": "A propósito del Día de la Madre, el Programa de Alimentación Escolar (PAE) destacó que un total de 199 556 mamás forman parte de los Comités de Alimentación Escolar (CAE) y de los Comités de Gestión de Alimentación Escol...",
+    "date": "2026-05-09T14:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mas-199500-madres-ejercen-un-rol-clave-el-servicio-alimentacion-escolar-del-pae-1074405.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434782",
+    "title": "Irlanda: Puerto de Cork lanza primer servicio directo a Nueva York de la mano de CMA CGM",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Port of Cork Company un hito importante con la incorporación de Puerto de Cork como puerto\nLa entrada Irlanda: Puerto de Cork lanza primer servicio directo a Nueva York de l...",
+    "date": "2026-05-09T14:00:28",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/irlanda-puerto-de-cork-lanza-primer-servicio-directo-a-nueva-york-de-la-mano-de-cma-cgm/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/me-duelen-ojos-pico-busquedas-google-eclipse-2024-revela-que-seguimos-ignorando-a-ciencia",
+    "title": "\"Me duelen los ojos\": el pico de búsquedas en Google tras el eclipse de 2024 revela que seguimos ignorando a la ciencia",
+    "snippet": "Hace mucho tiempo que se sabe que no es sano mirar directamente a un eclipse solar. Se dice que el mismísimo Sócrates ya recomendaba mirarlo reflejado en el agua, pero nunca de forma directa. Sin embargo, los seres human...",
+    "date": "2026-05-09T14:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/me-duelen-ojos-pico-busquedas-google-eclipse-2024-revela-que-seguimos-ignorando-a-ciencia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/arqueologos-han-dado-80-toneladas-piedras-mar-todo-apunta-a-siete-maravillas-mundo-antiguo",
+    "title": "Unos arqueólogos han dado con 80 toneladas de piedras bajo el mar. Todo apunta a una de las Siete Maravillas del Mundo Antiguo",
+    "snippet": "A finales del siglo XIX, varios pescadores del puerto de Alejandría comenzaron a sacar accidentalmente enormes fragmentos de piedra enredados en sus redes. Algunos eran tan grandes y extraños que durante años circularon ...",
+    "date": "2026-05-09T13:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/arqueologos-han-dado-80-toneladas-piedras-mar-todo-apunta-a-siete-maravillas-mundo-antiguo",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/materiales/1724-cayo-meteorito-alemania-acabamos-descubrir-que-contenia-material-imposible-para-fisica",
     "title": "En 1724 cayó un meteorito en Alemania: acabamos de descubrir que contenía un material 'imposible' para la física",
     "snippet": "En julio del año pasado una investigación académica sacudió la física de materiales con un protagonista inesperado: una roca espacial recogida en Alemania hace tres siglos. En su interior albergaba un mineral cuyo compor...",
@@ -1294,59 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/wearables/fitbit-air-confirmacion-tendencia-que-lleva-tiempo-cocinandose-pulseras-pantalla",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/pregunta-cuanto-tiempo-tenemos-que-usar-ia-para-volvernos-perezosos-respuesta-suspiro",
-    "title": "La IA es buenísima ayudándote a resolver problemas. Lo malo es lo que pasa cuando te la quitan",
-    "snippet": "Diez minutos. Es el tiempo que tarda la IA en tener un efecto negativo en nuestra habilidad para razonar y resolver problemas, o al menos eso es lo que han concluido en un nuevo estudio en el que han medido cómo el uso d...",
-    "date": "2026-05-08T09:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/pregunta-cuanto-tiempo-tenemos-que-usar-ia-para-volvernos-perezosos-respuesta-suspiro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn7pxm13lrro#0",
-    "title": "South East Water boss quits after supply failures",
-    "snippet": "David Hinton faced criticism after outages affected tens of thousands of people in Kent and Sussex....",
-    "date": "2026-05-08T09:17:34",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/grecia-quiere-evitar-que-sus-playas-acaben-asfixiadas-turismo-masivo-asi-que-ha-declarado-guerra-a-tumbonas",
-    "title": "Grecia quiere evitar que sus playas acaben asfixiadas por el turismo masivo. Así que ha declarado la guerra a las tumbonas",
-    "snippet": "Grecia se enfrenta a un dilema. Uno bien conocido en otros países que, como Italia, Francia, Holanda, Japón o España, se han convertido en destinos soñados para los viajeros de todo el mundo: su atractivo turístico amena...",
-    "date": "2026-05-08T09:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/grecia-quiere-evitar-que-sus-playas-acaben-asfixiadas-turismo-masivo-asi-que-ha-declarado-guerra-a-tumbonas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/grecia-quiere-evitar-que-sus-playas-acaben-asfixiadas-turismo-masivo-asi-que-ha-declarado-guerra-a-tumbonas",
-    "title": "Cada verano las playas de Grecia se convierten en un \"resort\" con hordas de turistas. Atenas tiene un plan para que eso cambie",
-    "snippet": "Grecia se enfrenta a un dilema. Uno bien conocido en otros países que, como Italia, Francia, Holanda, Japón o España, se han convertido en destinos soñados para los viajeros de todo el mundo: su atractivo turístico amena...",
-    "date": "2026-05-08T09:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/grecia-quiere-evitar-que-sus-playas-acaben-asfixiadas-turismo-masivo-asi-que-ha-declarado-guerra-a-tumbonas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/grecia-quiere-evitar-que-sus-playas-acaben-asfixiadas-turismo-masivo-asi-que-ha-declarado-guerra-a-tumbonas",
-    "title": "Las playas de Grecia son su gallina de los huevos de oro. Ahora tiene un plan para evitar que el sobreturismo acabe con ella",
-    "snippet": "Grecia se enfrenta a un dilema. Uno bien conocido en otros países que, como Italia, Francia, Holanda, Japón o España, se han convertido en destinos soñados para los viajeros de todo el mundo: su atractivo turístico amena...",
-    "date": "2026-05-08T09:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/grecia-quiere-evitar-que-sus-playas-acaben-asfixiadas-turismo-masivo-asi-que-ha-declarado-guerra-a-tumbonas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
-    "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
-    "snippet": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year....",
-    "date": "2026-05-08T08:59:32",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
-    "category": "MERCADO"
   }
 ]
