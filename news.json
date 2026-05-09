@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=434926",
+    "title": "Puerto de Newcastle recibe recalada inaugural del BBC Bremen",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Newcastle marcó un hito operativo con la llegada del BBC Bremen, un buque\nLa entrada Puerto de Newcastle recibe recalada inaugural del BBC Bremen se publicó pri...",
+    "date": "2026-05-09T06:00:44",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-newcastle-recibe-recalada-inaugural-del-bbc-bremen/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1687635",
+    "title": "Las exportaciones chinas crecieron un 9,8 % interanual en abril",
+    "snippet": "Las cifras publicadas por la Administración General de Aduanas del país asiático apuntan a su vez a un incremento del 20,6 % interanual en las importaciones....",
+    "date": "2026-05-09T04:25:05",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/internacional/las-exportaciones-chinas-crecieron-un-98-interanual-en-abril-noticia-1687635",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-conectamef-asistio-a-mas-26-mil-funcionarios-primer-cuatrimestre-1074382.aspx",
+    "title": "CONECTAMEF asistió a más de 26 mil funcionarios en primer cuatrimestre",
+    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña Namihas, destacó que, entre enero y abril de 2026, los 27 Centros de Servicios de Atención al Usuario (CONECTAMEF) brindaron 26 901 asistencias técnicas a funcionarios pú...",
+    "date": "2026-05-09T03:59:20",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conectamef-asistio-a-mas-26-mil-funcionarios-primer-cuatrimestre-1074382.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-9-mayo",
     "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 9 de mayo",
     "snippet": "Este sábado vuelve a entrar en vigor el esquema del Hoy No Circula sabatino, el mecanismo con el que la Secretaría de Medio Ambiente de la Ciudad de México (SEDEMA) limita la circulación de determinados autos para ayudar...",
@@ -1320,33 +1347,6 @@
     "date": "2026-05-08T01:42:14",
     "source": "WIRED",
     "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434570",
-    "title": "Italia: Avanza proceso para obras de dragado en puertos de Pesaro y Ancona",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria del Adriático Central está adjudicando contratos para dos proyectos de dragado del lecho\nLa entrada Italia: Avanza proceso para obras de dragado en pu...",
-    "date": "2026-05-08T01:30:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/italia-avanza-proceso-para-obras-de-dragado-en-puertos-de-pesaro-y-ancona/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3352402/hong-kong-needs-peoples-wisdom-its-5-year-plan-succeed?utm_source=rss_feed",
-    "title": "Hong Kong needs the people’s wisdom for its 5-year plan to succeed",
-    "snippet": "For decades, Hong Kong thrived as the world’s freest economy without five-year plans, while mainland China rose to become the world’s second largest economy through them. Now Hong Kong has the rare advantage of both: mar...",
-    "date": "2026-05-08T01:30:04",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3352402/hong-kong-needs-peoples-wisdom-its-5-year-plan-succeed?utm_source=rss_feed",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-varazon-inusual-pota-y-sardina-ocurrio-el-litoral-matarani-arequipa-1074222.aspx",
-    "title": "Varazón inusual de pota y sardina ocurrió en el litoral de Matarani, en Arequipa",
-    "snippet": "Una inusual varazón de pota (Dosidicus gigas) se registró el último martes 5 de mayo, en el litoral de Matarani, región Arequipa. El evento ocurrió en un tramo de aproximadamente 130 metros de la costa, entre las instala...",
-    "date": "2026-05-08T01:14:25",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-varazon-inusual-pota-y-sardina-ocurrio-el-litoral-matarani-arequipa-1074222.aspx",
     "category": "MERCADO"
   }
 ]
