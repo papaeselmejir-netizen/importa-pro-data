@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-adex-exportaciones-chocolate-peruano-crecieron-67-primer-bimestre-del-2026-1074434.aspx",
+    "title": "Adex: exportaciones de chocolate peruano crecieron 67% en primer bimestre del 2026",
+    "snippet": "Las exportaciones de chocolate peruano sumaron 16 millones 695 mil dólares en el primer bimestre del 2026, lo que representó un crecimiento de 67% frente al mismo periodo del año pasado, informó la Asociación de Exportad...",
+    "date": "2026-05-09T19:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-adex-exportaciones-chocolate-peruano-crecieron-67-primer-bimestre-del-2026-1074434.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/algo-insolito-acaba-aparecer-escocia-isla-artificial-estructura-madera-piedra-antigua-que-stonehenge",
+    "title": "Algo insólito acaba de aparecer en Escocia: una isla artificial con una estructura de madera y piedra más antigua que Stonehenge",
+    "snippet": "En varias zonas rurales de Escocia existe desde hace siglos una vieja tradición: cuando el nivel de algunos lagos baja tras épocas de sequía o tormentas, a veces aparecen brevemente extrañas filas de piedras y maderas os...",
+    "date": "2026-05-09T18:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/algo-insolito-acaba-aparecer-escocia-isla-artificial-estructura-madera-piedra-antigua-que-stonehenge",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/investigacion/ese-largo-suspiro-bronca-trabajo-no-falta-aire-tu-amigdala-hipertrofiada-reseteando-tu-cerebro",
+    "title": "Ese largo suspiro tras una bronca en el trabajo no es falta de aire: es tu amígdala \"hipertrofiada\" reseteando tu cerebro",
+    "snippet": "Cuando se está triste o estresado, es fácil soltar un suspiro profundo casi de manera automática, que llama mucho la atención a los que están a nuestro alrededor, que entienden al momento que algo 'malo' nos está ocurrie...",
+    "date": "2026-05-09T18:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/investigacion/ese-largo-suspiro-bronca-trabajo-no-falta-aire-tu-amigdala-hipertrofiada-reseteando-tu-cerebro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434887",
+    "title": "Índice Intra-Asia de Drewry sube por cuarta semana consecutiva",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Índice de Contenedores Intra-Asia (IACI) de Drewry registró un alza por cuarta semana consecutiva, situándose\nLa entrada Índice Intra-Asia de Drewry sube por cuarta seman...",
+    "date": "2026-05-09T18:00:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/indice-intra-asia-de-drewry-sube-por-cuarta-semana-consecutiva/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-servicio-militar-45-mil-jovenes-percibiran-un-50-mas-su-asignacion-economica-mensual-1074420.aspx",
     "title": "Servicio militar: 45 mil jóvenes percibirán un 50% más en su asignación económica mensual",
     "snippet": "El incremento en la asignación económica mensual que percibe el personal que presta el servicio militar acuartelado en las instituciones de las Fuerzas Armadas beneficiará a aproximadamente 45 mil jóvenes, quienes recibi...",
@@ -1311,42 +1347,6 @@
     "date": "2026-05-08T11:53:00",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/gaming/nintendo-increases-switch-2-price/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/ia-academica-vive-su-crisis-silenciosa-publicar-importa-que-investigar",
-    "title": "La IA académica vive su crisis más silenciosa: publicar importa más que investigar",
-    "snippet": "Durante el pasado mes de marzo ICML (International Conference on Machine Learning), la conferencia académica dedicada al aprendizaje automático (machine learning) más antigua del mundo, rechazó de golpe 497 artículos cie...",
-    "date": "2026-05-08T11:46:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/ia-academica-vive-su-crisis-silenciosa-publicar-importa-que-investigar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/ia-academica-vive-su-crisis-silenciosa-publicar-importa-que-investigar",
-    "title": "El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA",
-    "snippet": "Durante el pasado mes de marzo ICML (International Conference on Machine Learning), la conferencia académica dedicada al aprendizaje automático (machine learning) más antigua del mundo, rechazó de golpe 497 artículos cie...",
-    "date": "2026-05-08T11:46:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/ia-academica-vive-su-crisis-silenciosa-publicar-importa-que-investigar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/cada-vez-buscamos-respuestas-humanas-reddit-esa-razon-que-ahora-buscador-google-sea-reddit-disfrazado",
-    "title": "Google ya sabe cómo hacer que sus AI Overviews sean más humanas: usar el contenido de Reddit sin piedad",
-    "snippet": "Google ha actualizado su plataforma de búsquedas por enésima vez, pero lo ha hecho con un cambio especialmente significativo. La experiencia de usuario en sus buscadores con IA (tanto AI Overviews como AI Mode) intenta v...",
-    "date": "2026-05-08T11:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/cada-vez-buscamos-respuestas-humanas-reddit-esa-razon-que-ahora-buscador-google-sea-reddit-disfrazado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn7pxm13lrro#0",
-    "title": "South East Water boss quits after supply failures",
-    "snippet": "David Hinton faced criticism after outages affected tens of thousands of people in Kent and Sussex....",
-    "date": "2026-05-08T11:20:48",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
   }
 ]
