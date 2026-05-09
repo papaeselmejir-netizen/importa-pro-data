@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3120223",
+    "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
+    "snippet": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty....",
+    "date": "2026-05-09T15:45:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mtc-cancelo-mas-86-mil-licencias-manejar-estado-ebriedad-entre-2015-y-2025-1074238.aspx",
+    "title": "MTC canceló más de 86 mil licencias por manejar en estado de ebriedad entre 2015 y 2025",
+    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC), a través de la Dirección de Circulación Vial, informó que un total de 86 297 licencias de conducir fueron canceladas e inhabilitadas de manera definitiva en el Perú tr...",
+    "date": "2026-05-09T15:36:22",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mtc-cancelo-mas-86-mil-licencias-manejar-estado-ebriedad-entre-2015-y-2025-1074238.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/nos-hemos-obsesionado-pastillas-naturales-para-dormir-problema-que-no-estamos-solucionando-mucho",
+    "title": "Nos hemos obsesionado con las pastillas \"naturales\" para dormir. El problema es que no estamos solucionando mucho",
+    "snippet": "En una sociedad donde los problemas para conciliar el sueño están en el orden del día, la promesa de tener un descanso profundo y reparador se ha convertido en uno de los grandes negocios del siglo XXI. Y ante una epidem...",
+    "date": "2026-05-09T15:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/nos-hemos-obsesionado-pastillas-naturales-para-dormir-problema-que-no-estamos-solucionando-mucho",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/baterias-silicio-carbono-explicadas-que-cada-vez-moviles-aguantan-dos-dias-pesan",
+    "title": "Baterías de silicio-carbono, explicadas: por qué cada vez más móviles aguantan hasta dos días y pesan menos",
+    "snippet": "Los dispositivos tecnológicos llevan ya casi 30 años encadenados a las limitaciones químicas de las baterías de iones de litio. Hasta hace poco, si queríamos que un móvil tuviera más autonomía, lo que necesitábamos era u...",
+    "date": "2026-05-09T15:16:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/baterias-silicio-carbono-explicadas-que-cada-vez-moviles-aguantan-dos-dias-pesan",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434685",
+    "title": "Mayor tendedor de cables del mundo arriba a Puerto de Middlesbrough",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario AV Dawson Limited, empresa controladora de Port of Middlesbrough, celebró la llegada a sus muelles del\nLa entrada Mayor tendedor de cables del mundo arriba a Puerto de Middl...",
+    "date": "2026-05-09T15:00:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mayor-tendedor-de-cables-del-mundo-arriba-a-puerto-de-middlesbrough/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/rusia-ha-construido-imponente-submarino-nuclear-sola-mision-lanzar-armas-extremas-jamas-creadas",
+    "title": "Rusia ha construido un imponente submarino nuclear con una misión: lanzar una de las armas más extremas jamás ideadas",
+    "snippet": "En 1961, la Marina estadounidense perdió un submarino nuclear en el Atlántico y pasó años intentando localizar exactamente qué había ocurrido bajo miles de metros de agua. Aquella búsqueda dejó una idea entre estrategas ...",
+    "date": "2026-05-09T15:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/rusia-ha-construido-imponente-submarino-nuclear-sola-mision-lanzar-armas-extremas-jamas-creadas",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3121025",
     "title": "Nvidia has already committed $40B to equity AI deals this year",
     "snippet": "Nvidia continues to be a big investor in the AI ecosystem....",
@@ -1179,6 +1233,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cn7pxm13lrro#0",
+    "title": "South East Water boss quits after supply failures",
+    "snippet": "David Hinton faced criticism after outages affected tens of thousands of people in Kent and Sussex....",
+    "date": "2026-05-08T11:20:48",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/ecologia-y-naturaleza/almadraba-tienen-fama-ser-arte-milenario-artesano-sostenible-ella-se-esconde-industrializaciones-salvajes-mar",
     "title": "La almadraba tienen fama de ser un arte milenario, artesano y sostenible.  Pero tras de ella se esconde una de las industrializaciones más salvajes del mar",
     "snippet": "Los fenicios llegaron a las costas de Andalucía hace unos 3.000 años buscando oro, plata y cobre. Se quedaron por todo lo demás. Para el siglo V a.C., las factorías de la costa del Estrecho ya enviaban ánforas y ánforas ...",
@@ -1284,69 +1347,6 @@
     "date": "2026-05-08T10:16:26",
     "source": "XATAKA",
     "url": "https://www.xataka.com/seguridad/vibe-coding-prometia-democratizar-software-su-primer-regalo-5-000-apps-datos-sensibles-abierto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434607",
-    "title": "Reino Unido: Puerto de Bristol incrementa movimiento de vehículos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Bristol registró uno de sus periodos de mayor actividad en los últimos años,\nLa entrada Reino Unido: Puerto de Bristol incrementa movimiento de vehículos se pub...",
-    "date": "2026-05-08T10:00:54",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/reino-unido-puerto-de-bristol-incrementa-movimiento-de-vehiculos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "5731ac2a-e148-46b9-9793-25b18f8db05c",
-    "title": "Need Math Help? Try Using This iPhone Messages Feature",
-    "snippet": "You don't need your Calculator app to perform conversions and equations....",
-    "date": "2026-05-08T10:00:41",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/need-math-help-try-using-this-iphone-messages-feature/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/bombarderos-rusos-tu-95ms-acaban-sobrevolar-circulo-polar-artico-misiles-crucero-no-estaban-solos",
-    "title": "Bombarderos rusos Tu-95MS acaban de sobrevolar el Círculo Polar Ártico con misiles de crucero. Y no estaban solos",
-    "snippet": "A comienzos de los años sesenta, varios radares militares instalados en el extremo norte de Alaska detectaban con frecuencia enormes ecos acercándose desde el horizonte polar. Durante unos minutos, los operadores no sabí...",
-    "date": "2026-05-08T10:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/bombarderos-rusos-tu-95ms-acaban-sobrevolar-circulo-polar-artico-misiles-crucero-no-estaban-solos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/bombarderos-rusos-tu-95ms-acaban-sobrevolar-circulo-polar-artico-misiles-crucero-no-estaban-solos",
-    "title": "Mientras todos miramos a Irán, algo se mueve en el Círculo Polar Ártico: Rusia está enviando a bombarderos con misiles",
-    "snippet": "A comienzos de los años sesenta, varios radares militares instalados en el extremo norte de Alaska detectaban con frecuencia enormes ecos acercándose desde el horizonte polar. Durante unos minutos, los operadores no sabí...",
-    "date": "2026-05-08T10:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/bombarderos-rusos-tu-95ms-acaban-sobrevolar-circulo-polar-artico-misiles-crucero-no-estaban-solos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/como-evitar-que-ia-te-siempre-razon-defecto-asi-conseguir-que-claude-gemini-chatgpt-tengan-alucinaciones",
-    "title": "Cómo evitar que la IA te de siempre la razón por defecto y así conseguir que Claude, Gemini y ChatGPT tengan menos alucinaciones",
-    "snippet": "Vamos a decirte cómo evitar que la IA te de la razón por defecto, modificando su actitud para que sea menos complaciente. De esta manera, al no esforzarse por agradarte conseguirás que la inteligencia artificial cometa m...",
-    "date": "2026-05-08T09:51:08",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/como-evitar-que-ia-te-siempre-razon-defecto-asi-conseguir-que-claude-gemini-chatgpt-tengan-alucinaciones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/wearables/fitbit-air-confirmacion-tendencia-que-lleva-tiempo-cocinandose-pulseras-pantalla",
-    "title": "Google se ha sumado a una tendencia que llevaba tiempo cocinándose: la pulsera que mide tu cuerpo sin distraerte",
-    "snippet": "Google ha presentado la Fitbit Air, una pulsera de actividad de 99,99 dólares sin pantalla, sin notificaciones y sin reloj. Recoge datos las 24 horas, los vuelca a una aplicación y desaparece de tu muñeca.\nHasta aquí lle...",
-    "date": "2026-05-08T09:46:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/wearables/fitbit-air-confirmacion-tendencia-que-lleva-tiempo-cocinandose-pulseras-pantalla",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/wearables/fitbit-air-confirmacion-tendencia-que-lleva-tiempo-cocinandose-pulseras-pantalla",
-    "title": "Hasta Google se ha sumado a la nueva tendencia de los wearables: imitar a Whoop",
-    "snippet": "Google ha presentado la Fitbit Air, una pulsera de actividad de 99,99 dólares sin pantalla, sin notificaciones y sin reloj. Recoge datos las 24 horas, los vuelca a una aplicación y desaparece de tu muñeca.\nHasta aquí lle...",
-    "date": "2026-05-08T09:46:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/wearables/fitbit-air-confirmacion-tendencia-que-lleva-tiempo-cocinandose-pulseras-pantalla",
     "category": "TRIBUTARIO"
   }
 ]
