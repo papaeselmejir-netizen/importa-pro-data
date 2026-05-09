@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=434949",
+    "title": "Autoridades debaten cómo potenciar participación del Puerto de Coquimbo en traslado de material minero entre Chile y Argentina",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La posibilidad de reactivar la línea ferroviaria que recorre la Región de Coquimbo, permitiendo el traslado\nLa entrada Autoridades debaten cómo potenciar participación del P...",
+    "date": "2026-05-09T21:00:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/autoridades-debaten-como-potenciar-participacion-del-puerto-de-coquimbo-en-traslado-de-material-minero-entre-chile-y-argentina/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-capacitara-a-taxistas-para-fortalecer-atencion-zonas-alta-demanda-1074444.aspx",
+    "title": "ATU capacitará a taxistas para fortalecer la atención en zonas de alta demanda",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) realizará un curso de capacitación dirigido a taxistas formales de Lima y Callao, con el objetivo de fortalecer sus competencias en seguridad vial, atención al u...",
+    "date": "2026-05-09T21:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-capacitara-a-taxistas-para-fortalecer-atencion-zonas-alta-demanda-1074444.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-produce-realizara-capacitaciones-para-micro-y-pequenas-empresas-varias-regiones-1074435.aspx",
     "title": "Produce realizará capacitaciones para micro y pequeñas empresas en varias regiones",
     "snippet": "El Ministerio de la Producción (Produce) informó que, a través del Programa Nacional Tu Empresa, realizará capacitaciones y actividades de fortalecimiento empresarial para las micro y pequeñas empresas en diversas region...",
@@ -105,6 +123,15 @@
     "date": "2026-05-09T17:00:03",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/terminal-zona-sur-del-callao-proyecta-23-millones-de-teu-para-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434937",
+    "title": "DP World Callao proyecta 2,3 millones de TEU para 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El concesionario DP World Callao, que opera el Muelle Sur del Puerto del Callao, expuso que la\nLa entrada DP World Callao proyecta 2,3 millones de TEU para 2026 se publicó p...",
+    "date": "2026-05-09T17:00:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-callao-proyecta-23-millones-de-teu-para-2026/",
     "category": "LOGÍSTICA"
   },
   {
@@ -1321,32 +1348,5 @@
     "source": "SCMP CHINA",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3352943/janice-tse-property-queen-hong-kong-ministers-heres-what-she-owns?utm_source=rss_feed",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/ue-digo-que-su-ley-ia-era-prodigiosa-no-debe-ser-buena-cuando-va-a-retrasar-su-aplicacion-2028",
-    "title": "Europa quiso dar un ejemplo al mundo con su Ley de la IA. Lo que está consiguiendo es quedar en evidencia",
-    "snippet": "Bruselas ha acordado retrasar las restricciones más duras de su Ley de IA hasta diciembre de 2027, lo que en la práctica traslada su impacto real a 2028. Inicialmente el calendario era mucho más ambicioso y pretendía pro...",
-    "date": "2026-05-08T12:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/ue-digo-que-su-ley-ia-era-prodigiosa-no-debe-ser-buena-cuando-va-a-retrasar-su-aplicacion-2028",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434542",
-    "title": "China: Puerto de Qingdao añade nuevo servicio al sur de Asia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El buque portacontenedores MSC Tampa atracó en el Puerto de Qingdao, operado por Shandong Port Group\nLa entrada China: Puerto de Qingdao añade nuevo servicio al sur de Asia ...",
-    "date": "2026-05-08T12:00:52",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/china-puerto-de-qingdao-anade-nuevo-servicio-al-sur-de-asia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/murcia-lleva-27-anos-pagando-primer-peaje-sombra-espana-este-ano-acabara",
-    "title": "Murcia lleva 27 años pagando el primer \"peaje en sombra\" de España. Este año acabará con él",
-    "snippet": "Era 1997 cuando Murcia aprobaba la Ley 4/1997, de 24 de julio, de Construcción y Explotación de Infraestructuras de la Región de Murcia. Podría parecer una normativa más relacionada con las infraestructuras de la comunid...",
-    "date": "2026-05-08T12:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/murcia-lleva-27-anos-pagando-primer-peaje-sombra-espana-este-ano-acabara",
-    "category": "TRIBUTARIO"
   }
 ]
