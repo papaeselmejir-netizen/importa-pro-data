@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.xataka.com/movilidad/toyota-ha-creado-ciudad-futuro-esta-llena-ia-camaras-que-te-protegen-tambien-pesadilla-para-privacidad",
+    "title": "Toyota ha creado la ciudad del futuro y está llena de IA y de cámaras que te protegen. También es una pesadilla para la privacidad",
+    "snippet": "A los pies del Monte Fuji, Toyota lleva años construyendo una ciudad entera diseñada desde cero para probar sus inventos del futuro. Se llama Woven City, y ya tiene sus primeros habitantes. Y es que si bien a la ciudad n...",
+    "date": "2026-05-10T11:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/toyota-ha-creado-ciudad-futuro-esta-llena-ia-camaras-que-te-protegen-tambien-pesadilla-para-privacidad",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/cuanta-proteina-necesitas-realmente-al-dia-que-dice-ciencia-suplementos-para-alcanzar-tus-objetivos",
+    "title": "Cuánta proteína necesitas realmente al día y qué dice la ciencia sobre los suplementos para alcanzar tus objetivos",
+    "snippet": "En el mundo deportivo hay un gran debate en torno a cuánta proteína se debe consumir a diario para poder tener un buen resultado en el gimnasio y que los músculos vayan a más. Pero la verdad es que a veces las cifras que...",
+    "date": "2026-05-10T11:16:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/cuanta-proteina-necesitas-realmente-al-dia-que-dice-ciencia-suplementos-para-alcanzar-tus-objetivos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/cleopatra-no-tenia-origen-egipcio-se-suicido-amor-esto-que-sabemos-ultima-faraona-egipto",
+    "title": "Cleopatra no tenía origen egipcio ni se suicidó por amor. Esto es lo que sabemos sobre la última faraona de Egipto",
+    "snippet": "La historia está trufada de personajes que se mueven en la fina línea entre los hechos comprobables y el puro mito, pero en pocos casos la balanza se inclina tanto hacia el lado de la leyenda como en el de Cleopatra. Y e...",
+    "date": "2026-05-10T11:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/cleopatra-no-tenia-origen-egipcio-se-suicido-amor-esto-que-sabemos-ultima-faraona-egipto",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/origen-luna-azul-realidad-error-traduccion-como-traicion-acabo-dando-nombre-al-satelite",
+    "title": "El origen de la \"luna azul\" es en realidad un error de traducción: cómo una \"traición\" acabó dando nombre al satélite",
+    "snippet": "A pesar de la inmensa cantidad de información que hay desmintiéndolo, nos la siguen colando de vez en cuando con el tema de las lunas de colores. No hay más que ver lo que ocurrió el pasado mes de abril con la famosa lun...",
+    "date": "2026-05-10T10:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/origen-luna-azul-realidad-error-traduccion-como-traicion-acabo-dando-nombre-al-satelite",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/contrasenas-utilizadas-espana-se-hackean-segundos-tuya-esta-esta-lista-tienes-problema",
+    "title": "Las contraseñas más utilizadas en España se hackean en segundos: si la tuya está en esta lista, tienes un problema",
+    "snippet": "Estamos adentrándonos en una realidad en la que las contraseñas van a dejar de tener la importancia que tienen ahora. Sin embargo, hasta que eso ocurra, no te cuesta nada darle una vuelta a las contraseñas que tienes pue...",
+    "date": "2026-05-10T10:16:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/contrasenas-utilizadas-espana-se-hackean-segundos-tuya-esta-esta-lista-tienes-problema",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "2c54b0c3-4fcb-4543-94de-ec4b941aaebe",
+    "title": "Is Your iPhone Lock Screen Missing the Volume Bar? Here's How to Bring It Back",
+    "snippet": "Apple removed the lock screen's volume bar a few years ago with iOS 16, but you can bring it back to your screen now....",
+    "date": "2026-05-10T10:00:32",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/is-your-iphone-lock-screen-missing-the-volume-bar-heres-how-to-bring-it-back/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/guerra-robots-humanoides-estados-unidos-bailan-china-trabajan-a-destajo-no-cuestion-tecnologica",
     "title": "En la guerra de los robots humanoides, los de Estados Unidos bailan y los de China trabajan a destajo. No es una cuestión tecnológica",
     "snippet": "Estados Unidos y China libran una batalla tecnológica con dos estrategias muy marcadas: una visible y otra invisible. La invisible es la de la inteligencia artificial, la lucha entre modelos y el desarrollo tecnológico d...",
@@ -1294,59 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1687517",
-    "title": "Día de la Madre: desde ropa hasta viajes, ¿qué regalan los limeños a sus mamás?",
-    "snippet": "Más del 90 % de limeños planea comprar un regalo por el Día de la Madre, la mitad de ellos compra a última hora, ya que lo realiza en la misma semana de esta fecha especial. Siete de cada 10 prefiere hacerlo en tiendas f...",
-    "date": "2026-05-08T14:30:37",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/dia-de-la-madre-desde-ropa-hasta-viajes-que-regalan-los-limenos-a-sus-mamas-noticia-1687517",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434715",
-    "title": "Caza F-18 de EE.UU. abre fuego contra dos petroleros para impedir su entrada a puertos iraníes",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El Comando Central de Estados Unidos (Centcom) confirmó la neutralización de dos unidades de transporte de\nLa entrada Caza F-18 de EE.UU. abre fuego contra d...",
-    "date": "2026-05-08T14:30:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/caza-f-18-de-ee-uu-abre-fuego-contra-dos-petroleros-para-impedir-su-entrada-a-puertos-iranies/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/pregunta-como-acabar-bullying-aulas-singapur-tiene-claro-azotando-a-ninos-vara",
-    "title": "Singapur tiene un plan muy antiguo para acabar con el \"bullying\" en los colegios: azotar a los niños con una vara",
-    "snippet": "Cuando de aplicar reglas se trata, en Singapur no valen las medias tintas. Eso es algo que el resto del mundo ha aprendido a golpe de noticias virales como la que protagoniza desde hace unas semanas (muy a su pesar) Didi...",
-    "date": "2026-05-08T14:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/pregunta-como-acabar-bullying-aulas-singapur-tiene-claro-azotando-a-ninos-vara",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/pregunta-como-acabar-bullying-aulas-singapur-tiene-claro-azotando-a-ninos-vara",
-    "title": "Llevamos años intentando erradicar el 'bullying' sin grandes resultados. Singapur tiene una idea: azotes con varas",
-    "snippet": "Cuando de aplicar reglas se trata, en Singapur no valen las medias tintas. Eso es algo que el resto del mundo ha aprendido a golpe de noticias virales como la que protagoniza desde hace unas semanas (muy a su pesar) Didi...",
-    "date": "2026-05-08T14:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/pregunta-como-acabar-bullying-aulas-singapur-tiene-claro-azotando-a-ninos-vara",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-viernes-8-mayo-del-2026-1074280.aspx",
-    "title": "¿Cuál es la cotización del dólar hoy viernes 8 de mayo del 2026?",
-    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
-    "date": "2026-05-08T14:30:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-viernes-8-mayo-del-2026-1074280.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/mercado-pc-tocado-crisis-ram-apple-puede-dar-estocada-al-portatil-barato-windows",
-    "title": "El mercado del PC está herido de muerte por culpa de la RAM. Excelentes noticias para los planes de Apple",
-    "snippet": "Si había algo que faltaba en el catálogo de Apple, sin duda alguna era el MacBook barato. El MacBook no Pro murió hace mucho, el último intento de un MacBook sin apellido no cuajó y ese papel de portátil “asequible” cayó...",
-    "date": "2026-05-08T14:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/mercado-pc-tocado-crisis-ram-apple-puede-dar-estocada-al-portatil-barato-windows",
-    "category": "TRIBUTARIO"
   }
 ]
