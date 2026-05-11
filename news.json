@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/ce9pvp210zdo#0",
+    "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+    "snippet": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission....",
+    "date": "2026-05-11T02:48:53",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-china-confirma-trump-visitara-pais-del-13-al-15-mayo-1074538.aspx",
+    "title": "China confirma que Trump visitará el país del 13 al 15 de mayo",
+    "snippet": "La Cancillería de China confirmó este lunes en un comunicado que el presidente estadounidense, Donald Trump, realizará una visita de Estado al país asiático del 13 al 15 de mayo por invitación de su homólogo chino, Xi Ji...",
+    "date": "2026-05-11T02:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-china-confirma-trump-visitara-pais-del-13-al-15-mayo-1074538.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434907",
+    "title": "Sudáfrica: TNPA solicita propuestas para operar terminal de granel líquido en Puerto de Ciudad del Cabo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Transnet National Ports Authority (TNPA) invitó a las partes interesadas a presentar ofertas en respuesta\nLa entrada Sudáfrica: TNPA solicita propuestas para operar termi...",
+    "date": "2026-05-11T02:00:51",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/sudafrica-tnpa-solicita-propuestas-para-operar-terminal-de-granel-liquido-en-puerto-de-ciudad-del-cabo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ckgp4ev4yg4o#0",
+    "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
+    "snippet": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments....",
+    "date": "2026-05-11T01:12:30",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434904",
+    "title": "TUI Cruises amplía significativamente presencia en Puerto de Hamburgo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario TUI Cruises está ampliando su presencia en Hamburgo, lo que demuestra la importancia de la ubicación\nLa entrada TUI Cruises amplía significativamente presencia en Puerto de ...",
+    "date": "2026-05-11T01:00:33",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/tui-cruises-amplia-significativamente-presencia-en-puerto-de-hamburgo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-94-personas-19-nacionalidades-fueron-evacuadas-del-hondius-primer-dia-1074535.aspx",
+    "title": "\"94 personas\" de 19 nacionalidades fueron evacuadas del Hondius el primer día",
+    "snippet": "Noventa y cuatro personas de las aproximadamente 150 del crucero afectado por un brote de hantavirus fueron evacuadas este domingo de España en el primero de los dos días de la operación de repatriación, anunció la minis...",
+    "date": "2026-05-11T01:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-94-personas-19-nacionalidades-fueron-evacuadas-del-hondius-primer-dia-1074535.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=434896",
+    "title": "Damen firma acuerdo con Albayrak Group para entregar dos remolcadores",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Damen Shipyards Group firmó un contrato con el grupo turco Albayrak para la entrega de remolcadores\nLa entrada Damen firma acuerdo con Albayrak Group para entregar dos remol...",
+    "date": "2026-05-11T00:00:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/damen-firma-acuerdo-con-albayrak-group-para-entregar-dos-remolcadores/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=435043",
     "title": "Contenedores caen sobre muelle en STI",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Dos contenedores cayeron desde un buque al muelle en San Antonio Terminal Internacional (STI). Desde el\nLa entrada Contenedores caen sobre muelle en STI  se publicó primero ...",
@@ -24,6 +87,15 @@
     "date": "2026-05-10T22:14:07",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/contecon-acusa-inscontitucionalidad-contra-regimen-portuario-de-ecuador/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435009",
+    "title": "Contecon acusa inconstitucionalidad contra régimen portuario de Ecuador",
+    "snippet": "El concesionario del Puerto Libertador Simón Bolívar de Guayaquil, Contecon, presentó una demanda acusando inconstitucionalidad contra el régimen portuario de\nLa entrada Contecon acusa inconstitucionalidad contra régimen...",
+    "date": "2026-05-10T22:14:07",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/contecon-acusa-inconstitucionalidad-contra-regimen-portuario-de-ecuador/",
     "category": "LOGÍSTICA"
   },
   {
@@ -1276,77 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-congreso-subcomision-analizo-5-informes-calificacion-sobre-denuncias-constitucionales-1074344.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1687623",
-    "title": "Zonas Económicas Especiales Privadas con beneficios tributarios a empresas iniciaría por eje Callao-Chancay: ¿en qué otras regiones?",
-    "snippet": "Destacan futuros corredores agroexportador en el norte, minero-industrial en el sur y espacios logísticos vinculados a la Amazonía y al eje bioceánico con Brasil. Está pendiente que el MEF emita una norma con los parámet...",
-    "date": "2026-05-09T00:02:55",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/zonas-economicas-especiales-privadas-con-beneficios-tributarios-a-empresas-empezaria-por-eje-callao-chancay-noticia-1687623",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434862",
-    "title": "EE. UU.: Puerto de Hueneme obtiene subvención federal de USD 11,25 millones para ampliar capacidad y modernizar infraestructura",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Hueneme recibió USD 11.250.000 en fondos federales, a través de la Administración Marítima\nLa entrada EE. UU.: Puerto de Hueneme obtiene subvención federal de U...",
-    "date": "2026-05-09T00:00:46",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-puerto-de-hueneme-obtiene-subvencion-federal-de-usd-1125-millones-para-ampliar-capacidad-y-modernizar-infraestructura/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1687619",
-    "title": "Nuevo megapuerto en Perú se asoma: Corío en Arequipa presentará su plan maestro el 15 de mayo",
-    "snippet": "El gobernador de Arequipa, Rohel Sánchez, afirmó que el megapuerto de Corío demandaría una inversión total de alrededor de US$ 7,000 millones y su desarrollo será por etapas....",
-    "date": "2026-05-08T23:51:34",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/nuevo-megapuerto-en-peru-se-asoma-corio-en-arequipa-presentara-su-plan-maestro-el-15-de-mayo-noticia-1687619",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434803",
-    "title": "Puerto de Itajaí y Consulado de EE.UU. buscan fortalecer relaciones institucionales y ampliar cooperación internacional",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Superintendencia del Puerto de Itajaí recibió la visita de James Ermarth, consejero político y económico\nLa entrada Puerto de Itajaí y Consulado de EE.UU. buscan fortalec...",
-    "date": "2026-05-08T23:00:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-itajai-y-consulado-de-ee-uu-buscan-fortalecer-relaciones-institucionales-y-ampliar-cooperacion-internacional/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1687148",
-    "title": "La Granja: el proyecto minero en Perú que se ubica como uno de los depósitos de cobre más grandes del mundo",
-    "snippet": "El megaproyecto peruano ubicado al norte del país registra aproximadamente 22 millones de toneladas de cobre sin explotar....",
-    "date": "2026-05-08T23:00:08",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/la-granja-el-proyecto-minero-en-peru-que-se-posiciona-entre-los-depositos-de-cobre-mas-grandes-del-mundo-noticia-1687148",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dolar-cae-228-la-semana-frente-al-sol-peruano-1074342.aspx",
-    "title": "Dólar cae 2.28% en la semana frente al sol peruano",
-    "snippet": "El dólar registró una caída acumulada de 2.28% frente al sol peruano durante la semana y cerró en 3.4360 soles, su nivel más bajo en más de dos semanas, informó Jorge Luis Huayta, trader FX de Kambista....",
-    "date": "2026-05-08T23:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dolar-cae-228-la-semana-frente-al-sol-peruano-1074342.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mtc-atendio-mas-700-emergencias-viales-los-primeros-cuatro-meses-del-2026-1074355.aspx",
-    "title": "MTC atendió más de 700 emergencias viales en los primeros cuatro meses del 2026",
-    "snippet": "En lo que va del 2026, las intensas lluvias en distintas regiones del país han generado huaicos, desbordes, inundaciones y derrumbes, impactando tramos estratégicos de la Red Vial Nacional no concesionada....",
-    "date": "2026-05-08T22:34:56",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mtc-atendio-mas-700-emergencias-viales-los-primeros-cuatro-meses-del-2026-1074355.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=434870",
-    "title": "Puerto Panul trabaja en proyecto para optimizar capacidad operativa",
-    "snippet": "Por Sebastián Betancourt @PortalPortuario Puerto Panul, concesionario especializado en la descarga de granel limpio del Puerto de San Antonio, está\nLa entrada Puerto Panul trabaja en proyecto para optimizar capacidad ope...",
-    "date": "2026-05-08T22:00:49",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-panul-trabaja-en-proyecto-para-optimizar-capacidad-operativa/",
-    "category": "LOGÍSTICA"
   }
 ]
