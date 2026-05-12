@@ -1,11 +1,119 @@
 [
   {
+    "id": "https://rpp.pe/1687958",
+    "title": "Precio del dólar Perú y tipo de cambio hoy martes 12 de mayo del 2026 es de S/3.43",
+    "snippet": "En Perú, el tipo de cambio para hoy martes 12 de mayo es de S/3.43 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-05-12T21:15:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-12-de-mayo-del-2026-noticia-1687958",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435482",
+    "title": "EE. UU.: Exportación de contenedores en Puerto de Nueva York y Nueva Jersey crece en marzo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La exportación de contenedores en los Puerto de Nueva York y Nueva Jersey crecieron 2,6% en\nLa entrada EE. UU.: Exportación de contenedores en Puerto de Nueva York y Nueva J...",
+    "date": "2026-05-12T21:00:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ee-uu-exportacion-de-contenedores-en-puerto-de-nueva-york-y-nueva-jersey-crece-en-marzo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-creditos-a-0-y-1-interes-para-acuicultores-afectados-lluvias-aqui-los-requisitos-1073052.aspx",
+    "title": "Créditos a 0% y 1% de interés para acuicultores afectados por lluvias: aquí los requisitos",
+    "snippet": "El Ministerio de la Producción (Produce) informó que los acuicultores afectados por las lluvias e inundaciones en los distritos declarados en emergencia, pueden acceder a créditos de 0% y 1% de interés anual....",
+    "date": "2026-05-12T20:47:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-creditos-a-0-y-1-interes-para-acuicultores-afectados-lluvias-aqui-los-requisitos-1073052.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435486",
+    "title": "Perú: Gobierno asegura que proyecto Puerto de Corío despertaría interés de más 350 empresarios",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El proyecto Puerto de Corío (Perú) fue presentado en un foro de negocios con el objetivo\nLa entrada Perú: Gobierno asegura que proyecto Puerto de Corío despertaría interés d...",
+    "date": "2026-05-12T20:33:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-gobierno-asegura-que-proyecto-puerto-de-corio-despertaria-interes-de-mas-350-empresarios/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "cee5aa01-190e-455f-8801-10802ca999e2",
+    "title": "Android 17 Will Excite the Rich. But What About the Rest of Us?",
+    "snippet": "Commentary: Google assumes I'm wealthy and sexy. It shouldn't....",
+    "date": "2026-05-12T20:31:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/android-17-will-excite-the-rich-but-what-about-the-rest-of-us/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-provincia-sanchez-carrion-impulsa-proyectos-s-175-millones-via-obras-impuestos-1074778.aspx",
+    "title": "Provincia de Sánchez Carrión impulsa proyectos por S/ 175 millones vía obras por impuestos",
+    "snippet": "La provincia de Sánchez Carrión, en la región La Libertad, se consolida como uno de los principales focos de inversión bajo el mecanismo de Obras por Impuestos (OxI), con una cartera de proyectos valorizada en aproximada...",
+    "date": "2026-05-12T20:25:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-provincia-sanchez-carrion-impulsa-proyectos-s-175-millones-via-obras-impuestos-1074778.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2171333/samsungs-one-ui-9-beta-will-roll-out-for-galaxy-s26-owners-this-week/",
+    "title": "Samsung's One UI 9 beta will roll out for Galaxy S26 owners this week",
+    "snippet": "However, its marquee features won't arrive until the final release....",
+    "date": "2026-05-12T20:18:34",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2171333/samsungs-one-ui-9-beta-will-roll-out-for-galaxy-s26-owners-this-week/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2171294/metroid-dread-developer-mercurysteam-announces-layoffs/",
+    "title": "Metroid Dread developer MercurySteam announces layoffs",
+    "snippet": "The Spanish studio's newest title is due to be released on Steam later this week....",
+    "date": "2026-05-12T20:00:02",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2171294/metroid-dread-developer-mercurysteam-announces-layoffs/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-la-victoria-sutran-clausura-centros-conversion-a-gnv-operaban-sin-autorizacion-1074726.aspx",
+    "title": "La Victoria: Sutran clausura centros de conversión a GNV que operaban sin autorización",
+    "snippet": "La Superintendencia Nacional de Transporte Terrestre de Personas, Carga y Mercancía (Sutran), entidad adscrita al Ministerio de Transportes y Comunicaciones (MTC), ejecutó un operativo simultáneo de fiscalización contra ...",
+    "date": "2026-05-12T20:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-la-victoria-sutran-clausura-centros-conversion-a-gnv-operaban-sin-autorizacion-1074726.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-descenso-temperatura-nocturna-la-sierra-pone-riesgo-a-casi-un-millon-personas-1074765.aspx",
+    "title": "Descenso de temperatura nocturna en la sierra pone en riesgo a casi un millón de personas",
+    "snippet": "Aproximadamente un millón de personas se encuentran en riesgo alto frente a la previsión de un descenso de la temperatura nocturna entre hoy y el jueves 14 de mayo en la zona andina del país, mientras que más de 700 mil ...",
+    "date": "2026-05-12T19:57:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-descenso-temperatura-nocturna-la-sierra-pone-riesgo-a-casi-un-millon-personas-1074765.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "bd6781c7-0293-4909-96f5-67e0ea0edfbe",
+    "title": "I Tried Amazon's New 30-Minute Delivery. Diet Cokes Were at My Door in 16 Minutes",
+    "snippet": "Amazon Now launched Tuesday in Seattle, Philadelphia, Dallas-Fort Worth and Atlanta....",
+    "date": "2026-05-12T19:57:10",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/amazon-launches-30-minute-delivery-service-with-amazon-now/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-barcelona-estudia-emprender-acciones-legales-las-acusaciones-florentino-perez-1074773.aspx",
     "title": "Barcelona estudia emprender acciones legales por las acusaciones de Florentino Pérez",
     "snippet": "El FC Barcelona estudiará emprender acciones legales por las declaraciones del presidente del Real Madrid, Florentino Pérez, quien este martes acusó al club catalán de \"corrupción\", de \"enriquecer a los árbitros\" y de sa...",
     "date": "2026-05-12T19:52:51",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-barcelona-estudia-emprender-acciones-legales-las-acusaciones-florentino-perez-1074773.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "ac985aca-9623-4517-8d33-1dcd4f36fa73",
+    "title": "Nintendo Offers Free Games Prior to Switch 2 Price Hike",
+    "snippet": "It wasn't a matter of if it would happen, only a matter of when....",
+    "date": "2026-05-12T19:40:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/nintendo-increases-switch-2-price/",
     "category": "MERCADO"
   },
   {
@@ -191,6 +299,15 @@
   {
     "id": "https://www.xataka.com/robotica-e-ia/mayor-apuesta-android-ia-tiene-nombre-se-llama-gemini-intelligence-quiere-cambiar-como-usamos-movil",
     "title": "La gran apuesta para el futuro de Android no es el 17: es Gemini Intelligence y que tu móvil haga cosas solo",
+    "snippet": "Google acaba de presentar Gemini Intelligence en The Android Show, el gran evento donde se ha presentado lo último de Android 17. El nombre, que inevitablemente recuerda a Apple Intelligence, deja bastante claro por dónd...",
+    "date": "2026-05-12T17:25:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/mayor-apuesta-android-ia-tiene-nombre-se-llama-gemini-intelligence-quiere-cambiar-como-usamos-movil",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/mayor-apuesta-android-ia-tiene-nombre-se-llama-gemini-intelligence-quiere-cambiar-como-usamos-movil",
+    "title": "La gran apuesta para el futuro de Android no es solo Android 17: es Gemini Intelligence y que tu móvil haga cosas solo",
     "snippet": "Google acaba de presentar Gemini Intelligence en The Android Show, el gran evento donde se ha presentado lo último de Android 17. El nombre, que inevitablemente recuerda a Apple Intelligence, deja bastante claro por dónd...",
     "date": "2026-05-12T17:25:00",
     "source": "XATAKA",
@@ -429,6 +546,33 @@
     "date": "2026-05-12T17:00:00",
     "source": "THE VERGE",
     "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3120809",
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "snippet": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas....",
+    "date": "2026-05-12T17:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3121120",
+    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+    "snippet": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones....",
+    "date": "2026-05-12T17:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "78f82412-1da1-465d-921f-5b0704124151",
+    "title": "Googlebooks Could Be the Ultimate Laptop for Android Fans",
+    "snippet": "While Apple's MacBook Neo might have shocked the budget PC market, Googlebooks could take a bite out of the premium laptop competition....",
+    "date": "2026-05-12T17:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/computing/googlebooks-premium-laptop-gemini-ai-chromebooks-android/",
     "category": "MERCADO"
   },
   {
@@ -1204,149 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/mundo-esta-intentando-desconectarse-tecnologia-eeuu-hay-problema-fundamental-estamos-demasiado-comodos-ella",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/c919-nacio-para-plantar-cara-a-boeing-airbus-datos-muestran-como-cerca-lejos-esta-lograrlo",
-    "title": "El C919 nació para plantar cara a Boeing y Airbus. Los datos muestran cómo de cerca (o lejos) está de lograrlo",
-    "snippet": "Si has hecho un vuelo de medio radio en los últimos años, lo más probable es que hayas viajado en algún avión de la familia Airbus A320 o de la familia Boeing 737. Es la norma no escrita de buena parte de esos trayectos:...",
-    "date": "2026-05-12T06:46:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/c919-nacio-para-plantar-cara-a-boeing-airbus-datos-muestran-como-cerca-lejos-esta-lograrlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/mercado-ram-imposible-paso-inevitable-pastillas-ddr5-falsificadas",
-    "title": "Con el mercado de la RAM imposible, pasó lo inevitable: pastillas DDR5 falsificadas",
-    "snippet": "Hacer una referencia a ‘Los Simpson’ a estas alturas es complicado porque las nuevas generaciones puede que no lo pillen, pero hay un episodio en el que Springfield declara la ley seca y, cuando la tumban, el alcalde pre...",
-    "date": "2026-05-12T06:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/mercado-ram-imposible-paso-inevitable-pastillas-ddr5-falsificadas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/mercado-ram-imposible-paso-inevitable-pastillas-ddr5-falsificadas",
-    "title": "El estado actual del mercado de componentes es tan loco que ya se están comprando pastillas DDR5 falsificadas",
-    "snippet": "Hacer una referencia a ‘Los Simpson’ a estas alturas es complicado porque las nuevas generaciones puede que no lo pillen, pero hay un episodio en el que Springfield declara la ley seca y, cuando la tumban, el alcalde pre...",
-    "date": "2026-05-12T06:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/mercado-ram-imposible-paso-inevitable-pastillas-ddr5-falsificadas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/realidad-virtual-aumentada/tragedia-vision-pro-apple-ha-dejado-que-producto-maravilloso-este-respiracion-asistida",
-    "title": "La tragedia de las Vision Pro: Apple ha dejado que un producto maravilloso esté en respiración asistida",
-    "snippet": "Quienes han (hemos) probado las Apple Vision Pro, lo tienen claro: es uno de los productos tecnológicos más impactantes de toda la historia. El efecto 'wow' es inevitable, y en esos primeros minutos en que las tienes pue...",
-    "date": "2026-05-12T06:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/realidad-virtual-aumentada/tragedia-vision-pro-apple-ha-dejado-que-producto-maravilloso-este-respiracion-asistida",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/realidad-virtual-aumentada/tragedia-vision-pro-apple-ha-dejado-que-producto-maravilloso-este-respiracion-asistida",
-    "title": "Con las Vision Pro, Apple creó un producto de potencial revolucionario. Actos seguido lo abandonó a su suerte",
-    "snippet": "Quienes han (hemos) probado las Apple Vision Pro, lo tienen claro: es uno de los productos tecnológicos más impactantes de toda la historia. El efecto 'wow' es inevitable, y en esos primeros minutos en que las tienes pue...",
-    "date": "2026-05-12T06:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/realidad-virtual-aumentada/tragedia-vision-pro-apple-ha-dejado-que-producto-maravilloso-este-respiracion-asistida",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435177",
-    "title": "Vancouver Fraser recibe por primera vez un crucero de Virgin Voyages",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Vancouver Fraser Port Authority recibió a la línea de cruceros Virgin Voyages en el Puerto de\nLa entrada Vancouver Fraser recibe por primera vez un crucero de Virgin Voyages...",
-    "date": "2026-05-12T05:00:09",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/vancouver-fraser-recibe-por-primera-vez-un-crucero-de-virgin-voyages/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1687950",
-    "title": "Presidente de Osinergmin dice que Petroperú logró \"cifras en azul\" en el primer trimestre del año",
-    "snippet": "El presidente interino de Osinergmin, Aurelio Ochoa, sostuvo en una entrevista con RPP que el nuevo aval financiero aprobado por el Ejecutivo para Petroperú “era muy necesario”, ya que la empresa estatal posee un “potenc...",
-    "date": "2026-05-12T05:00:07",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/presidente-de-osinergmin-dice-que-petroperu-logro-cifras-en-azul-en-el-primer-trimestre-del-ano-noticia-1687950",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atencion-iquitos-minsa-movil-desplegara-gran-jornada-medica-gratuita-desde-este-martes-1074682.aspx",
-    "title": "¡Atención Iquitos! Minsa Móvil desplegará gran jornada médica gratuita desde este martes",
-    "snippet": "El Ministerio de Salud (Minsa), a través de la estrategia Minsa Móvil, realizará una gran jornada de atención médica gratuita en la Plaza Sargento Lores, en Iquitos, región Loreto,d el martes 12 al jueves 14 de mayo, com...",
-    "date": "2026-05-12T04:57:07",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atencion-iquitos-minsa-movil-desplegara-gran-jornada-medica-gratuita-desde-este-martes-1074682.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-lambayeque-detectan-brotes-aislados-influenza-aviar-crianzas-traspatio-1074681.aspx",
-    "title": "Lambayeque: detectan brotes aislados de influenza aviar en crianzas de traspatio",
-    "snippet": "En lo que va del año, autoridades del Servicio Nacional de Sanidad Agraria (Senasa) han confirmado al menos cuatro brotes aislados de influenza aviar en distintos distritos de la región Lambayeque, encendiendo las alerta...",
-    "date": "2026-05-12T04:55:41",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-lambayeque-detectan-brotes-aislados-influenza-aviar-crianzas-traspatio-1074681.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-trujillo-defensa-civil-construira-enrocado-playa-taquila-avance-erosion-costera-1074679.aspx",
-    "title": "Trujillo: Defensa Civil construirá enrocado en playa Taquila por avance de erosión costera",
-    "snippet": "Con el objetivo de frenar el avance de la erosión costera, autoridades de Defensa Civil acordaron construir un enrocado de emergencia de aproximadamente 150 metros de extensión en la playa Taquila II, ubicada en el distr...",
-    "date": "2026-05-12T04:21:05",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-trujillo-defensa-civil-construira-enrocado-playa-taquila-avance-erosion-costera-1074679.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-combinar-medicamentos-sin-supervision-pacientes-hipertension-puede-ser-mortal-1074678.aspx",
-    "title": "Combinar medicamentos sin supervisión en pacientes con hipertensión puede ser mortal",
-    "snippet": "El Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), alertaron que los pacientes con hipertensión arterial que no siguen su tratamiento o mezclan medicamentos sin ...",
-    "date": "2026-05-12T04:18:50",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-combinar-medicamentos-sin-supervision-pacientes-hipertension-puede-ser-mortal-1074678.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-la-u-empata-00-sport-boys-el-callao-y-queda-a-8-puntos-del-lider-alianza-lima-1074667.aspx",
-    "title": "La “U” empata 0-0 con Sport Boys en el Callao y queda a 8 puntos del líder Alianza Lima",
-    "snippet": "En un partido sin brillo, Universitario de Deportes empató esta noche 0-0 con Sport Boys del Callao, por la fecha 14 del torneo Apertura. Con ese resultado, los ‘cremas’ suman 25 puntos y quedan a 8 unidades del líder, A...",
-    "date": "2026-05-12T03:51:25",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-u-empata-00-sport-boys-el-callao-y-queda-a-8-puntos-del-lider-alianza-lima-1074667.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-gobierno-impulsa-acciones-vinculadas-a-ruta-turisticocultural-caminos-del-papa-leon-1074658.aspx",
-    "title": "MEF: Gobierno impulsa acciones vinculadas a ruta turístico-cultural Caminos del Papa León",
-    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña, participó en la ceremonia religiosa realizada el último fin de semana en el atrio de la Catedral de Chiclayo con motivo del primer aniversario del pontificado del Papa L...",
-    "date": "2026-05-12T03:48:40",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-gobierno-impulsa-acciones-vinculadas-a-ruta-turisticocultural-caminos-del-papa-leon-1074658.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy2rnyg50zo#0",
-    "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
-    "snippet": "David Malpass also said that Beijing's claim to be a developing nation is no longer credible....",
-    "date": "2026-05-12T03:40:29",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce9pvp210zdo#1",
-    "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
-    "snippet": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission....",
-    "date": "2026-05-12T02:50:17",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435228",
-    "title": "Perú: Proyecto de Puerto de Corío se perfila como eje internacional del comercio entre Sudamérica y Asia",
-    "snippet": "Por Redacción PortalPortuario / Agencia Andina @PortalPortuario El proyecto Puerto de Corío se perfila para transformar al sur de Perú\nLa entrada Perú: Proyecto de Puerto de Corío se perfila como eje internacional del co...",
-    "date": "2026-05-12T02:30:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/peru-proyecto-de-puerto-de-corio-se-perfila-como-eje-internacional-del-comercio-entre-sudamerica-y-asia/",
-    "category": "LOGÍSTICA"
   }
 ]
