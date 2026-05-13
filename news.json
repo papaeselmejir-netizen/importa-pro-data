@@ -1,5 +1,293 @@
 [
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/llevabamos-anos-preguntandonos-que-jabalis-chernobil-eran-radiactivos-respuesta-no-estaba-accidente-2",
+    "title": "Llevábamos años preguntándonos por qué los jabalís de Chernóbil eran tan radiactivos. La respuesta no estaba en el accidente",
+    "snippet": "Cuatro décadas después del accidente de la central nuclear ubicada en Prypiat, los animales de Chernóbil siguen generando fascinación. Estos supervivientes en una de las regiones más contaminadas de Europa nos sorprenden...",
+    "date": "2026-05-13T15:41:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/llevabamos-anos-preguntandonos-que-jabalis-chernobil-eran-radiactivos-respuesta-no-estaba-accidente-2",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3122176",
+    "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+    "snippet": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn, and is attempting to extort the company....",
+    "date": "2026-05-13T15:39:37",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-servicio-militar-45-mil-jovenes-recibiran-un-50-mas-su-asignacion-economica-mensual-1074420.aspx",
+    "title": "Servicio militar: 45 mil jóvenes recibirán un 50% más en su asignación económica mensual",
+    "snippet": "El incremento en la asignación económica mensual que percibe el personal que presta el servicio militar acuartelado en las instituciones de las Fuerzas Armadas beneficiará a aproximadamente 45 mil jóvenes, quienes recibi...",
+    "date": "2026-05-13T15:35:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-servicio-militar-45-mil-jovenes-recibiran-un-50-mas-su-asignacion-economica-mensual-1074420.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/rusia-acaba-anunciar-arma-nuclear-poderosa-mundo-amenaza-supera-todos-sistemas-defensa-existentes",
+    "title": "Rusia acaba de lanzar “el arma nuclear más poderosa del mundo” con una amenaza: supera todos los sistemas de defensa existentes",
+    "snippet": "En 1961, la Unión Soviética detonó la bomba Tsar sobre el Ártico. Su onda expansiva fue tan enorme que rompió ventanas a cientos de kilómetros de distancia y dio varias vueltas al planeta registrándose en estaciones sísm...",
+    "date": "2026-05-13T15:31:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/rusia-acaba-anunciar-arma-nuclear-poderosa-mundo-amenaza-supera-todos-sistemas-defensa-existentes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=929667",
+    "title": "Sony ups its new A7R VI to 66.8 megapixels and jumps the price to $4,500",
+    "snippet": "Sony announced its new flagship high-resolution camera, the A7R VI. The standout feature is its fully stacked full-frame sensor with 66.8 megapixels of resolution and up to 16 stops of dynamic range. That's only an incre...",
+    "date": "2026-05-13T15:30:14",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/929667/sony-alpha-a7rvi-mirrorless-camera-price-specs",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-indecopi-simplifica-procedimientos-para-fortalecer-defensa-de-libre-competencia-1074860.aspx",
+    "title": "Indecopi simplifica procedimientos para fortalecer la defensa de la libre competencia",
+    "snippet": "El Indecopi aprobó la modificación de su Texto Único de Procedimientos Administrativos (TUPA) con el objetivo de simplificar procedimientos vinculados a la defensa de la libre competencia y facilitar el acceso de ciudada...",
+    "date": "2026-05-13T15:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-indecopi-simplifica-procedimientos-para-fortalecer-defensa-de-libre-competencia-1074860.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
+    "title": "¿A quién quieres más, a los bares o Mercadona? La hostelería está llevando la batalla por la comida preparada a un juego de suma cero",
+    "snippet": "Desde que España creó oficializó el \"menú del día\" hace 61 años, en tiempos de Manuel Fraga, trabajadores, viajeros y familias han acudido a los bares a mediodía en busca básicamente de dos cosas, además de pitanza: ahor...",
+    "date": "2026-05-13T15:15:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/europa-construye-centros-datos-para-lograr-independencia-su-red-electrica-entra-juegos-hambre",
+    "title": "Mientras Europa construye centros de datos para lograr la independencia, su red eléctrica entra en los juegos del hambre",
+    "snippet": "Europa se encuentra en una encrucijada. Si hace caso al CEO de Mistral, debe empezar a invertir a lo grande para dejar de ser el vasallo tecnológico de Estados Unidos. Eso implica invertir y que parte de esa inversión se...",
+    "date": "2026-05-13T15:01:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/europa-construye-centros-datos-para-lograr-independencia-su-red-electrica-entra-juegos-hambre",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=928854",
+    "title": "Garmin’s mini satellite communicators are on sale for up to 40 percent off",
+    "snippet": "REI’s annual Anniversary Sale doesn’t&#160;start until March 15th, but that hasn’t stopped Garmin from rolling out discounts on a range of devices — including its InReach Mini satellite communicators. Right now, for inst...",
+    "date": "2026-05-13T15:00:35",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3122166",
+    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+    "snippet": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant....",
+    "date": "2026-05-13T14:59:32",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/llevamos-decada-subiendo-fotos-pixeladas-a-instagram-android-17-dice-que-esta-bien",
+    "title": "Llevamos una década subiendo fotos pixeladas a Instagram: Android 17 dice que ya está bien",
+    "snippet": "Subir contenidos a redes sociales desde un móvil Android ha sido, durante años, un auténtico castigo. Más allá de acuerdos puntuales con Samsung o Google —que sí introdujeron mejoras relevantes, como el soporte HDR en al...",
+    "date": "2026-05-13T14:45:46",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/llevamos-decada-subiendo-fotos-pixeladas-a-instagram-android-17-dice-que-esta-bien",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-13-mayo-del-2026-1074859.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy miércoles 13 de mayo del 2026?",
+    "snippet": "El precio del dólar inició con una ligera alza frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-05-13T14:45:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-13-mayo-del-2026-1074859.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/tsmc-vive-pesadilla-arizona-se-gastara-20-000-millones-fabrica-escasa-agua-mano-obra",
+    "title": "TSMC vive una pesadilla en Arizona: se gastará 20.000 millones más en una fábrica con escasa agua y mano de obra",
+    "snippet": "El periplo de TSMC en Arizona (EEUU) sigue su curso. Ayer el consejo de administración de este fabricante de chips, el mayor del planeta, aprobó una inyección de 20.000 millones de dólares en la que ya es su planta de pr...",
+    "date": "2026-05-13T14:31:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/tsmc-vive-pesadilla-arizona-se-gastara-20-000-millones-fabrica-escasa-agua-mano-obra",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435584",
+    "title": "VLCC con bandera de China transporta cargamento de crudo iraquí a través del estrecho de Ormuz",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un Very Large Crude Carrier (VLCC) con bandera de China transportó dos millones de barriles de\nLa entrada VLCC con bandera de China transporta cargamento de ...",
+    "date": "2026-05-13T14:30:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/vlcc-con-bandera-de-china-transporta-cargamento-de-crudo-iraqui-a-traves-del-estrecho-de-ormuz/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-trujillo-multiple-choque-deja-varios-heridos-cerca-del-ovalo-milagro-1074865.aspx",
+    "title": "Trujillo: múltiple choque deja varios heridos cerca del óvalo El Milagro",
+    "snippet": "Por causas que aún son materia de investigación, varias personas resultaron heridas esta madrugada, como consecuencia de un múltiple choque entre tres tráiler, un ómnibus lleno de pasajeros y un volquete en la carretera ...",
+    "date": "2026-05-13T14:21:04",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-trujillo-multiple-choque-deja-varios-heridos-cerca-del-ovalo-milagro-1074865.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
+    "title": "Hace 1.800 años los romanos tenían un amuleto contra la mala suerte. Era literalmente un pene diminuto",
+    "snippet": "Mide unos tres centímetros, está moldeado en bronce con todo lujo de detalles (anatómicos) y a pesar de tener alrededor de 1.800 años se conserva asombrosamente bien. Hablamos de un falo. Un pene. Una antigua figurilla q...",
+    "date": "2026-05-13T14:01:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435567",
+    "title": "Trump dice que no necesita ayuda de China para mitigar control de Irán sobre estrecho de Ormuz",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El presidente de Estados Unidos, Donald Trump, ha declarado que no necesita la ayuda de\nLa entrada Trump dice que no necesita ayuda de China para mitigar con...",
+    "date": "2026-05-13T14:00:13",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/trump-dice-que-no-necesita-ayuda-de-china-para-mitigar-control-de-iran-sobre-estrecho-de-ormuz/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=929374",
+    "title": "Why does the Googlebook exist?",
+    "snippet": "Google announced its new Googlebook laptop platform yesterday, and so far I've been left asking, \"Why?\" Why is Google blowing up its Chromebook and ChromeOS platform for this? I've been excited by the prospect of Android...",
+    "date": "2026-05-13T14:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1688152",
+    "title": "Ministerio de Economía: “Petroperú no puede dejar de operar, es un riesgo para el país, nos bajaría el grado de inversión”",
+    "snippet": "El titular del MEF, Rodolfo Acuña, enfatizó que “sale más caro parar la refinería que seguir operando”. Explicó que detener las operaciones de Petroperú tendría consecuencias económicas y reputacionales para el país, deb...",
+    "date": "2026-05-13T13:45:50",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/petroperu-mef-asegura-empresa-estatal-no-puede-dejar-de-operar-y-bajaria-el-grado-de-inversion-noticia-1688152",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/tokenmaxxing-tiene-su-primer-absurdo-algunos-empleados-amazon-usan-ia-solo-para-inflar-sus-metricas-tokens",
+    "title": "El tokenmaxxing ya tiene su primer absurdo: algunos empleados de Amazon usan IA solo para inflar sus métricas de tokens",
+    "snippet": "El tokenmaxxing tiene ahora su caso más documentado. Algunos empleados de Amazon llevan semanas usando MeshClaw, una herramienta interna de agentes de IA, para automatizar tareas innecesarias y así inflar su consumo de t...",
+    "date": "2026-05-13T13:45:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/tokenmaxxing-tiene-su-primer-absurdo-algunos-empleados-amazon-usan-ia-solo-para-inflar-sus-metricas-tokens",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/2025-ucrania-se-lleno-vehiculos-mad-max-2026-todavia-inquietante-han-llevado-mad-max-a-barcos",
+    "title": "En 2025 Ucrania se llenó de vehículos a lo Mad Max. En 2026 las jaulas han llegado a los barcos de guerra",
+    "snippet": "En la Segunda Guerra Mundial, varios barcos aliados empezaron a cubrir partes de sus cubiertas con colchones, troncos de madera, sacos de arena y estructuras metálicas improvisadas para intentar sobrevivir a los ataques ...",
+    "date": "2026-05-13T13:31:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/2025-ucrania-se-lleno-vehiculos-mad-max-2026-todavia-inquietante-han-llevado-mad-max-a-barcos",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435370",
+    "title": "DP World y Al Dahra se asocian para fortalecer seguridad alimentaria y desarrollar la agrologística de Consejo de Cooperación del Golfo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World y Al Dahra Holding, una multinacional agroindustrial con sede en Abu Dabi, firmaron un\nLa entrada DP World y Al Dahra se asocian para fortalecer seguridad alimentar...",
+    "date": "2026-05-13T13:30:48",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-y-al-dahra-se-asocian-para-fortalecer-seguridad-alimentaria-y-desarrollar-la-agrologistica-de-consejo-de-cooperacion-del-golfo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=929527",
+    "title": "Nintendo says it has more Switch 2 games in store for 2026",
+    "snippet": "With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo. That increased cost means that the company will rely heavily on new games to sell its current console - but as of rig...",
+    "date": "2026-05-13T13:25:02",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
+    "title": "Promo de lanzamiento de HUAWEI WATCH FIT 5 Series: descuento de 60 euros y varios regalos incluidos",
+    "snippet": "Si juntamos en la misma frase smartwatch y superventas, es difícil no hablar de HUAWEI WATCH FIT 4 Series. Pues sin más, buenas noticias: HUAWEI WATCH FIT 5 Series ya están aquí. Son dos nuevos relojes muy interesantes (...",
+    "date": "2026-05-13T13:15:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/dos-meses-guerra-iran-amenaza-toma-forma-horizonte-desplome-comercio-fertilizantes",
+    "title": "Tras más de dos meses de guerra en Irán, una amenaza toma forma en el horizonte: el desplome del comercio de fertilizantes",
+    "snippet": "Si algo tienen guerras como la de Irán (o Ucrania) es que nos recuerdan la enorme fragilidad de algunos de los pilares que sostienen la economía mundial. Y eso es algo que empieza a preocupar a los agricultores. Además d...",
+    "date": "2026-05-13T13:01:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/dos-meses-guerra-iran-amenaza-toma-forma-horizonte-desplome-comercio-fertilizantes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435360",
+    "title": "Buque Ro-Ro de NYK concreta prueba de sistema de navegación autónoma en Puerto de Singapur",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El buque de transporte de automóviles Elder Leader, operado por NYK y equipado con un sistema\nLa entrada Buque Ro-Ro de NYK concreta prueba de sistema de navegación autónoma...",
+    "date": "2026-05-13T13:00:00",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/buque-ro-ro-de-nyk-concreta-prueba-de-sistema-de-navegacion-autonoma-en-puerto-de-singapur/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2171710/full-amazon-shop-echo-show/",
+    "title": "You can now visit Amazon.com on big-screen Echo Show displays",
+    "snippet": "The full Amazon experience is available on Echo Show 15 and 21....",
+    "date": "2026-05-13T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2171710/full-amazon-shop-echo-show/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2171806/amazon-made-a-version-of-alexa-just-for-shopping/",
+    "title": "Amazon made a version of Alexa just for shopping",
+    "snippet": "Alexa for Shopping is an 'agentic AI assistant' for Amazon purchases...",
+    "date": "2026-05-13T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2171806/amazon-made-a-version-of-alexa-just-for-shopping/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=929457",
+    "title": "Alexa is moving into Amazon․com",
+    "snippet": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Sh...",
+    "date": "2026-05-13T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ryanair-recorta-1-2-millones-asientos-espana-hueco-que-esta-dejando-tiene-nombre-wizz-air",
+    "title": "Mientras Ryanair recorta 1,2 millones de asientos en España, el hueco que está dejando tiene nombre: Wizz Air",
+    "snippet": "Ryanair sigue en sus trece recortando asientos en los aeropuertos regionales españoles. La cosa es que el resto de aerolíneas low cost no se han quedado de brazos cruzados y están aprovechando para tener mayor presencia....",
+    "date": "2026-05-13T12:31:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ryanair-recorta-1-2-millones-asientos-espana-hueco-que-esta-dejando-tiene-nombre-wizz-air",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/microsoft-queria-crear-megacentro-datos-kenia-para-funcionar-medio-pais-tenia-que-vivir-luz",
+    "title": "Microsoft quería crear un megacentro de datos en Kenia. Para funcionar, medio país tenía que vivir sin luz",
+    "snippet": "En mayo de 2024 Microsoft anunciaba lo que parecía un acuerdo histórico para el desarrollo tecnológico de Kenia. El objetivo: crear un gigantesco centro de datos que estaría impulsado por energía geotérmica. Dicho centro...",
+    "date": "2026-05-13T12:15:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/microsoft-queria-crear-megacentro-datos-kenia-para-funcionar-medio-pais-tenia-que-vivir-luz",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3122107",
+    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+    "snippet": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning....",
+    "date": "2026-05-13T12:11:33",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/china-nvidia-protagonizan-gran-divorcio-tecnologico-2026-infierno-burocratico-que-esta-borrando-mercado",
     "title": "China y Nvidia protagonizan el \"gran divorcio tecnológico\" de 2026. Un infierno burocrático que la está borrando del mercado",
     "snippet": "Hablar de Nvidia es hablar del pegamento de la inteligencia artificial. El gigante de las GPU ha invertido millonadas financiando compañías como OpenAI o Anthropic, pero durante el camino no se ha olvidado de las startup...",
@@ -7,6 +295,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/china-nvidia-protagonizan-gran-divorcio-tecnologico-2026-infierno-burocratico-que-esta-borrando-mercado",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "58cbd244-15c8-492c-9f7e-b04e698b071c",
+    "title": "Google Is Giving My Phone Habits Just the Right Boost With These 3 New Android Features",
+    "snippet": "Commentary: Google's Android Show debuts new features that might actually simplify a few things, including when I need a break from my phone....",
+    "date": "2026-05-13T12:01:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/google-is-giving-my-phone-habits-just-the-right-boost-with-these-3-new-android-features/",
+    "category": "MERCADO"
   },
   {
     "id": "https://portalportuario.cl/?p=435443",
@@ -72,6 +369,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/avispon-asiatico-esta-comiendose-aragon-respuesta-no-se-ha-hecho-esperar-llenar-rios-botellas-plastico-reconvertidas",
+    "title": "El avispón asiático está comiéndose Aragón y su respuesta no se ha hecho esperar: llenar los ríos con botellas de plástico reconvertidas",
+    "snippet": "Debía ser finales de 2009 y, mientras nadie miraba, un puñado de avispas cruzaba el río Nivelle y se colaban en Dantxaria. Las encontramos unos meses más tardes instaladas en Amaiur, 15 kilómetros más abajo, ya en la com...",
+    "date": "2026-05-13T11:15:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/avispon-asiatico-esta-comiendose-aragon-respuesta-no-se-ha-hecho-esperar-llenar-rios-botellas-plastico-reconvertidas",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://rpp.pe/1688120",
     "title": "Precio del dólar Perú y tipo de cambio hoy 13 de mayo del 2026",
     "snippet": "En Perú, el tipo de cambio para hoy miércoles 13 de mayo es de  S/3.43 según el Banco Central de Reserva Del Perú....",
@@ -108,8 +414,26 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/ordenadores/cursor-raton-lleva-medio-siglo-apenas-cambiar-google-acaba-intentar-que-eso-no-sea-asi",
+    "title": "El puntero del ratón ha sido una de las grandes constantes de la tecnología. Google ha dicho que ha durado demasiado",
+    "snippet": "Google DeepMind ha publicado los principios y demos del Magic Pointer, un puntero de ratón impulsado por Gemini que entiende qué estás señalando y por qué. Sin escribir nada. Solo apuntando.\nPor qué es importante. El cha...",
+    "date": "2026-05-13T10:45:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ordenadores/cursor-raton-lleva-medio-siglo-apenas-cambiar-google-acaba-intentar-que-eso-no-sea-asi",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/magnet/su-expansion-imparable-espana-turismo-masivo-se-esta-cobrando-nueva-victima-albaicin-granada",
     "title": "En su expansión imparable por España, el turismo masivo se está cobrando una nueva víctima: el Albaicín de Granada",
+    "snippet": "Historia por los cuatro costados. Cultura. Vistas a la Alhambra. En teoría vivir en el Albaicín, un barrio histórico de Granada, debería ser un privilegio. En teoría. La masificación turística que ha devorado ya otras ci...",
+    "date": "2026-05-13T10:31:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/su-expansion-imparable-espana-turismo-masivo-se-esta-cobrando-nueva-victima-albaicin-granada",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/su-expansion-imparable-espana-turismo-masivo-se-esta-cobrando-nueva-victima-albaicin-granada",
+    "title": "El Albaicín de Granada se ha convertido en uno de los lugares más turistificados de España. Y los vecinos se han cansado",
     "snippet": "Historia por los cuatro costados. Cultura. Vistas a la Alhambra. En teoría vivir en el Albaicín, un barrio histórico de Granada, debería ser un privilegio. En teoría. La masificación turística que ha devorado ya otras ci...",
     "date": "2026-05-13T10:31:49",
     "source": "XATAKA",
@@ -1023,330 +1347,6 @@
     "date": "2026-05-12T17:00:00",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3121345",
-    "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
-    "snippet": "The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer....",
-    "date": "2026-05-12T17:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3121517",
-    "title": "Google brings agentic AI and vibe-coded widgets to Android",
-    "snippet": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities...",
-    "date": "2026-05-12T17:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3121576",
-    "title": "Google launches new Android security feature to help uncover spyware attacks",
-    "snippet": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices....",
-    "date": "2026-05-12T17:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2169750/google-announces-upcoming-security-tools-for-android/",
-    "title": "Google announces upcoming security tools for Android, including enhanced protection against banking scam calls",
-    "snippet": "The Live Threat Detection feature is also getting a major upgrade....",
-    "date": "2026-05-12T17:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2169750/google-announces-upcoming-security-tools-for-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/",
-    "title": "Googlebooks are the Android-based evolution of the Chromebook",
-    "snippet": "Google's only giving us a tease of what it has planned for its new laptop lineup....",
-    "date": "2026-05-12T17:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2170145/instagrams-in-camera-app-will-support-ultra-hdr-and-night-sight-on-android/",
-    "title": "Instagram's in-app camera will support Ultra HDR and Night Sight on Android",
-    "snippet": "Meta is also finally delivering an Instagram app for Android tablets....",
-    "date": "2026-05-12T17:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2170145/instagrams-in-camera-app-will-support-ultra-hdr-and-night-sight-on-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2169854/gemini-in-chrome-arrives-on-android-devices-in-june/",
-    "title": "Gemini in Chrome arrives on Android devices in June",
-    "snippet": "A device with at least 4GB of RAM is required to use the software....",
-    "date": "2026-05-12T17:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2169854/gemini-in-chrome-arrives-on-android-devices-in-june/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2170770/gemini-intelligence-brings-app-automation-to-android/",
-    "title": "Gemini Intelligence brings app automation to Android",
-    "snippet": "It will arrive on Pixel and Samsung Galaxy phones first....",
-    "date": "2026-05-12T17:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2170770/gemini-intelligence-brings-app-automation-to-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/",
-    "title": "Android 17 includes better iOS file sharing and a forced break for addictive apps",
-    "snippet": "Google is also launching 3D Emoji....",
-    "date": "2026-05-12T17:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2170136/android-auto-is-getting-a-big-makeover-for-2026/",
-    "title": "Android Auto is getting a big makeover for 2026",
-    "snippet": "Upgrades include a revamped UI, support for widgets, immersive 3D maps and more....",
-    "date": "2026-05-12T17:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2170136/android-auto-is-getting-a-big-makeover-for-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=927759",
-    "title": "Android Auto is now one (screen) size fits all",
-    "snippet": "This week at I/O, Google rolled out a series of major updates for Android Auto that include better sizing for unconventionally shaped screens, video streaming through YouTube, widget support, and of course, more AI-power...",
-    "date": "2026-05-12T17:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=928479",
-    "title": "Google announces its Chromebook successor: the Googlebook",
-    "snippet": "Google is announcing a new line of laptops coming in the fall called Googlebooks. Details are sparse for now, as the tease is just a small part of various Android announcements during Google's Android Show. But we do kno...",
-    "date": "2026-05-12T17:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=928653",
-    "title": "The 9 biggest new features in Android 17",
-    "snippet": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji ov...",
-    "date": "2026-05-12T17:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=928724",
-    "title": "Gemini&#8217;s biggest new features are all about controlling your phone",
-    "snippet": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome o...",
-    "date": "2026-05-12T17:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3121120",
-    "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
-    "snippet": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones...",
-    "date": "2026-05-12T17:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "78f82412-1da1-465d-921f-5b0704124151",
-    "title": "Googlebooks Could Be the Ideal Laptop for Android Fans",
-    "snippet": "While Apple's MacBook Neo might have shocked the budget PC market, Googlebooks could take a bite out of the premium laptop competition....",
-    "date": "2026-05-12T17:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/computing/googlebooks-premium-laptop-gemini-ai-chromebooks-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=928724",
-    "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-    "snippet": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome o...",
-    "date": "2026-05-12T17:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3120809",
-    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-    "snippet": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas....",
-    "date": "2026-05-12T17:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3121120",
-    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-    "snippet": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones....",
-    "date": "2026-05-12T17:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "78f82412-1da1-465d-921f-5b0704124151",
-    "title": "Googlebooks Could Be the Ultimate Laptop for Android Fans",
-    "snippet": "While Apple's MacBook Neo might have shocked the budget PC market, Googlebooks could take a bite out of the premium laptop competition....",
-    "date": "2026-05-12T17:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/computing/googlebooks-premium-laptop-gemini-ai-chromebooks-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-te-vas-vacaciones-conoce-los-8-paises-sudamerica-puedes-visitar-sin-pasaporte-1074714.aspx",
-    "title": "¿Te vas de Vacaciones? Conoce los 8 países de Sudamérica que puedes visitar sin pasaporte",
-    "snippet": "La Superintendencia Nacional de Migraciones recordó a los ciudadanos peruanos que pueden viajar a ocho países de Sudamérica utilizando únicamente el Documento Nacional de Identidad (DNI), gracias a acuerdos internacional...",
-    "date": "2026-05-12T16:58:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-te-vas-vacaciones-conoce-los-8-paises-sudamerica-puedes-visitar-sin-pasaporte-1074714.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/google-apple-llevan-anos-queriendo-matar-al-sms-asi-que-han-firmado-paz-sus-apps-mensajeria",
-    "title": "Google y Apple llevan años queriendo matar al SMS. Así que han firmado la paz entre sus apps de mensajería",
-    "snippet": "Apple y Google llevan años apostando por protocolos propios de mensajería RCS. Soluciones relevantes en territorios como Estados Unidos, pero que no terminan de calar en el resto del mundo. Pese a ello, ambas compañías h...",
-    "date": "2026-05-12T16:46:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/google-apple-llevan-anos-queriendo-matar-al-sms-asi-que-han-firmado-paz-sus-apps-mensajeria",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.engadget.com/2170994/nintendo-just-announced-a-dollar500-switch-2-bundle-that-includes-a-first-party-game/",
-    "title": "Nintendo just announced a $500 Switch 2 bundle that includes a first-party game",
-    "snippet": "The console price shoots up in September, so this might be a good way to save some cash....",
-    "date": "2026-05-12T16:44:48",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2170994/nintendo-just-announced-a-dollar500-switch-2-bundle-that-includes-a-first-party-game/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/spotify-esta-caido-mayor-servicio-musica-streaming-no-funciona",
-    "title": "Spotify está caído: el mayor servicio de música en streaming no funciona",
-    "snippet": "Es martes por la tarde. Probablemente acabas de terminar la jornada laboral y vas de camino a casa. Buen momento para escuchar tu música favorita, ¿verdad? Pues si estás intentando hacerlo con Spotify, tenemos que decirt...",
-    "date": "2026-05-12T16:44:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/spotify-esta-caido-mayor-servicio-musica-streaming-no-funciona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/spotify-esta-caido-mayor-servicio-musica-streaming-no-funciona",
-    "title": "Spotify está caído: el mayor servicio de música en streaming no funciona [Actualizado]",
-    "snippet": "Martes 12 de mayo de 2026, 20:03: Spotify funciona de manera intermitente.Martes 12 de mayo de 2026, 23:41: Spotify vuelve a funcionar normalmente.\n      \n    \n \n      \n  \n \n\nEs martes por la tarde. Probablemente acabas ...",
-    "date": "2026-05-12T16:44:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/spotify-esta-caido-mayor-servicio-musica-streaming-no-funciona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidente-jose-maria-balcazar-se-reunio-pescadores-artesanales-del-callao-1074738.aspx",
-    "title": "Presidente José María Balcázar se reunió con pescadores artesanales del Callao",
-    "snippet": "El presidente de la República, José María Balcázar, sostuvo una reunión con representantes de los pescadores artesanales del Callao en Palacio de Gobierno....",
-    "date": "2026-05-12T16:38:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidente-jose-maria-balcazar-se-reunio-pescadores-artesanales-del-callao-1074738.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435348",
-    "title": "EE. UU.: Puerto de Los Ángeles registra el segundo mejor abril de su historia gracias a las importaciones",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Los Ángeles procesó 890.861 TEU en abril, 5,7% más que el año anterior.\nLa entrada EE. UU.: Puerto de Los Ángeles registra el segundo mejor abril de su historia...",
-    "date": "2026-05-12T16:31:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/eeuu-puerto-de-los-angeles-registra-el-segundo-mejor-abril-de-su-historia-gracias-a-las-importaciones/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1688003",
-    "title": "Empresas que no depositen CTS 2026 a trabajadores podrían ser multadas hasta con S/143 000, advierte la CCL",
-    "snippet": "Las compañías que no entreguen la hoja de liquidación de la CTS dentro de los cinco días posteriores al depósito podrán recibir multas de hasta S/84 460....",
-    "date": "2026-05-12T16:30:36",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/empresas-que-no-depositen-cts-a-trabajadores-podrian-ser-multadas-hasta-con-s-143000-advierte-la-ccl-noticia-1688003",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/guerra-talleres-iryo-se-defiende-le-ha-dejado-claro-a-renfe-que-utilizara-sus-instalaciones",
-    "title": "En la \"guerra de los talleres\", Iryo se defiende. Y ya le ha dejado claro a Renfe por qué utilizará sus instalaciones",
-    "snippet": "La batalla por el uso de los talleres de Renfe sigue dándonos nuevos capítulos. De la puerta cerrada y la queja a la CNMC hemos pasado a los recursos a la decisión de esta última y un cruce de declaraciones en los que se...",
-    "date": "2026-05-12T16:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/guerra-talleres-iryo-se-defiende-le-ha-dejado-claro-a-renfe-que-utilizara-sus-instalaciones",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/guerra-talleres-iryo-se-defiende-le-ha-dejado-claro-a-renfe-que-utilizara-sus-instalaciones",
-    "title": "Iryo tiene una cifra y una ciudad para seguir utilizando los talleres de Renfe pese a su enfado: el 7% y Roma",
-    "snippet": "La batalla por el uso de los talleres de Renfe sigue dándonos nuevos capítulos. De la puerta cerrada y la queja a la CNMC hemos pasado a los recursos a la decisión de esta última y un cruce de declaraciones en los que se...",
-    "date": "2026-05-12T16:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/guerra-talleres-iryo-se-defiende-le-ha-dejado-claro-a-renfe-que-utilizara-sus-instalaciones",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435388",
-    "title": "Operadores del buque Dali enfrentan cargos penales por accidente que derribó el puente Francis Scott Key",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Departamento de Justicia de Estados Unidos hizo pública una acusación formal que imputa a Synergy\nLa entrada Operadores del buque Dali enfrentan cargos penales por accide...",
-    "date": "2026-05-12T16:30:04",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/operadores-del-buque-dali-enfrentan-cargos-penales-por-accidente-que-derribo-el-puente-francis-scott-key/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=928624",
-    "title": "Android Show 2026: all the news and announcements",
-    "snippet": "Google I/O is just a week away, and that means it’s time for another Android Show event to unpack all the Android ecosystem highlights Google has in store.&#160; Android Show: I/O Edition is set to kick off on YouTube an...",
-    "date": "2026-05-12T16:30:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/928624/android-show-2026-all-the-news-and-announcements",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/reddit-era-ultimas-plataformas-refugio-innternautas-acaba-dar-paso-direccion-preocupante",
-    "title": "Reddit era una de las últimas plataformas refugio de los internautas. Acaba de dar un paso en una dirección preocupante",
-    "snippet": "La red social Reddit se ha convertido en la mejor fuente de datos humanos de internet. Es de hecho uno de los pocos refugios que quedan de esa \"red de redes humana\" con la que todo comenzó, pero esta singular y anárquica...",
-    "date": "2026-05-12T16:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/reddit-era-ultimas-plataformas-refugio-innternautas-acaba-dar-paso-direccion-preocupante",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/reddit-era-ultimas-plataformas-refugio-innternautas-acaba-dar-paso-direccion-preocupante",
-    "title": "Reddit era uno de los últimos rincones de Internet libres de la quema. Ahora empieza a dar señales preocupantes",
-    "snippet": "La red social Reddit se ha convertido en la mejor fuente de datos humanos de internet. Es de hecho uno de los pocos refugios que quedan de esa \"red de redes humana\" con la que todo comenzó, pero esta singular y anárquica...",
-    "date": "2026-05-12T16:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/reddit-era-ultimas-plataformas-refugio-innternautas-acaba-dar-paso-direccion-preocupante",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1688010",
-    "title": "Produce suspende primera temporada de pesca de anchoveta por 15 días para proteger ejemplares juveniles",
-    "snippet": "Imparte detectó una elevada presencia de ejemplares juveniles y eventos de “enmallamiento” superiores al 50%, por lo que recomendó la suspesión de la temporada actual....",
-    "date": "2026-05-12T16:07:11",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/produce-suspende-primera-temporada-de-pesca-de-anchoveta-por-15-dias-para-proteger-ejemplares-juveniles-noticia-1688010",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/",
-    "title": "Lord of the Rings: The Rings of Power returns to Prime Video in November",
-    "snippet": "Season three of Amazon's Lord of the Rings show skips forward several years from the second season finale....",
-    "date": "2026-05-12T16:05:17",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/",
     "category": "MERCADO"
   }
 ]
