@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.xataka.com/movilidad/desproporcionado-tecnicamente-imposible-renfe-le-deja-claro-a-iryo-cnmc-su-postura-guerra-talleres",
+    "title": "\"Desproporcionado y técnicamente imposible\": Renfe le deja claro a Iryo y la CNMC su postura en la guerra de los talleres",
+    "snippet": "El culebrón Iryo-Renfe sigue adelante. Cada día que pasa tenemos un nuevo capítulo, un nuevo cruce de declaraciones, nuevas cifras encima de la mesa. Y cada día que pasa, Iryo sigue encontrándose con la puerta de los tal...",
+    "date": "2026-05-14T07:31:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/desproporcionado-tecnicamente-imposible-renfe-le-deja-claro-a-iryo-cnmc-su-postura-guerra-talleres",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/nadie-quiere-centro-datos-cerca-asi-que-startup-ha-tenido-idea-loca-que-gente-se-instale-uno-jardin",
+    "title": "Nadie quiere un centro de datos cerca, así que una startup ha tenido una idea loca: que la gente se instale uno en el jardín",
+    "snippet": "Los centros de datos se han convertido en las nuevas antenas de telefonía: nadie quiere vivir cerca de uno, ni aunque ofrezcan una pasta para construir uno. Hay motivos de peso, como la contaminación o que disparan los p...",
+    "date": "2026-05-14T07:05:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/nadie-quiere-centro-datos-cerca-asi-que-startup-ha-tenido-idea-loca-que-gente-se-instale-uno-jardin",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
+    "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
+    "snippet": "The company agrees with Google that it would put European users' privacy and safety at risk....",
+    "date": "2026-05-14T07:03:16",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435673",
+    "title": "MSC Poesia hace primera escala en Puerto de Ketchikan",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El MSC Poesia llegó al Puerto de Ketchikan como parte de la temporada inaugural de MSC\nLa entrada MSC Poesia hace primera escala en Puerto de Ketchikan se publicó primero en...",
+    "date": "2026-05-14T06:00:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/msc-poesia-hace-primera-escala-en-puerto-de-ketchikan/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3122444",
+    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+    "snippet": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption....",
+    "date": "2026-05-14T05:24:39",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c7v9ld262n4o#0",
+    "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+    "snippet": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors....",
+    "date": "2026-05-14T05:10:45",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-conoce-cronograma-2026-pagos-sueldos-y-pensiones-el-estado-1056807.aspx",
+    "title": "Conoce el cronograma 2026 de pagos de sueldos y pensiones en el Estado",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
+    "date": "2026-05-14T05:02:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conoce-cronograma-2026-pagos-sueldos-y-pensiones-el-estado-1056807.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-minsa-malas-posturas-pueden-ocasionar-lesiones-cronicas-manos-y-munecas-1075030.aspx",
+    "title": "Minsa: Malas posturas pueden ocasionar lesiones crónicas en manos y muñecas",
+    "snippet": "Hoy en día, muchos jóvenes pasan largas horas frente a una computadora o consola debido al auge de los deportes electrónicos y videojuegos. Ante esta realidad, el Ministerio de Salud (Minsa) brinda recomendaciones debido...",
+    "date": "2026-05-14T04:51:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minsa-malas-posturas-pueden-ocasionar-lesiones-cronicas-manos-y-munecas-1075030.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-xi-advierte-a-trump-del-riesgo-un-conflicto-si-se-maneja-mal-cuestion-taiwan-1075028.aspx",
     "title": "Xi advierte a Trump del riesgo de un \"conflicto\" si se maneja mal la cuestión de Taiwán",
     "snippet": "El presidente chino, Xi Jinping, le dijo este jueves a su par estadounidense, Donald Trump, que sus países podrían \"entrar en conflicto\" si no se maneja adecuadamente la cuestión de Taiwán, una isla autónoma que Pekín re...",
@@ -630,6 +702,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/medicina-y-salud/nada-sirve-machacarte-gimnasio-comes-ultraprocesados-porque-grasa-adora-musculo",
+    "title": "De nada sirve machacarte en el gimnasio si comes ultraprocesados, porque la grasa adora el músculo",
+    "snippet": "Algo que está ya bastante interiorizado entre la sociedad, precisamente, es que abusar de los alimentos ultraprocesados está íntimamente ligado a la obesidad, la diabetes tipo 2 y los problemas cardiovasculares debido so...",
+    "date": "2026-05-13T16:01:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/nada-sirve-machacarte-gimnasio-comes-ultraprocesados-porque-grasa-adora-musculo",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/musica/bernabeu-puede-volver-a-celebrar-conciertos-pregunta-alguien-va-a-querer-hacerlo",
     "title": "El Bernabéu ya puede volver a celebrar conciertos. La pregunta es si alguien va a querer hacerlo",
     "snippet": "El Real Madrid lleva más de año y medio sin celebrar conciertos en el Bernabéu. Esta semana, la Audiencia Provincial de Madrid ha archivado la causa penal que pesaba sobre el club por el ruido de los espectáculos del ver...",
@@ -713,6 +794,15 @@
   {
     "id": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
     "title": "¿A quién quieres más, a los bares o Mercadona? La hostelería está llevando la batalla por la comida preparada a un juego de suma cero",
+    "snippet": "Desde que España creó oficializó el \"menú del día\" hace 61 años, en tiempos de Manuel Fraga, trabajadores, viajeros y familias han acudido a los bares a mediodía en busca básicamente de dos cosas, además de pitanza: ahor...",
+    "date": "2026-05-13T15:15:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
+    "title": "Los hosteleros se han dado cuenta de que Mercadona es su nueva bestia negra. Así que han sacado su mejor arma: la regulación",
     "snippet": "Desde que España creó oficializó el \"menú del día\" hace 61 años, en tiempos de Manuel Fraga, trabajadores, viajeros y familias han acudido a los bares a mediodía en busca básicamente de dos cosas, además de pitanza: ahor...",
     "date": "2026-05-13T15:15:48",
     "source": "XATAKA",
@@ -810,6 +900,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
+    "title": "Hace casi 2.000 años los romanos tuvieron una idea para librarse del mal de ojo: rodearse de penes minúsculos",
+    "snippet": "Mide unos tres centímetros, está moldeado en bronce con todo lujo de detalles (anatómicos) y a pesar de tener alrededor de 1.800 años se conserva asombrosamente bien. Hablamos de un falo. Un pene. Una antigua figurilla q...",
+    "date": "2026-05-13T14:01:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=435567",
     "title": "Trump dice que no necesita ayuda de China para mitigar control de Irán sobre estrecho de Ormuz",
     "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El presidente de Estados Unidos, Donald Trump, ha declarado que no necesita la ayuda de\nLa entrada Trump dice que no necesita ayuda de China para mitigar con...",
@@ -884,6 +983,15 @@
   {
     "id": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
     "title": "Promo de lanzamiento de HUAWEI WATCH FIT 5 Series: descuento de 60 euros y varios regalos incluidos",
+    "snippet": "Si juntamos en la misma frase smartwatch y superventas, es difícil no hablar de HUAWEI WATCH FIT 4 Series. Pues sin más, buenas noticias: HUAWEI WATCH FIT 5 Series ya están aquí. Son dos nuevos relojes muy interesantes (...",
+    "date": "2026-05-13T13:15:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
+    "title": "Una batería que dura hasta 10 días y compatible con pagos NFC: los Huawei Watch Fit 5 llegan con descuento de 60 euros y regalos",
     "snippet": "Si juntamos en la misma frase smartwatch y superventas, es difícil no hablar de HUAWEI WATCH FIT 4 Series. Pues sin más, buenas noticias: HUAWEI WATCH FIT 5 Series ya están aquí. Son dos nuevos relojes muy interesantes (...",
     "date": "2026-05-13T13:15:48",
     "source": "XATAKA",
@@ -1240,113 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/vigo-tiene-su-ave-directo-a-madrid-paradas-castilla-leon-ahora-tarda-que-antes",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/vigo-tiene-su-ave-directo-a-madrid-paradas-castilla-leon-ahora-tarda-que-antes",
-    "title": "Vigo ha hecho todo lo posible para que sus AVE no paren en Castilla y León y lo han conseguido. Pero no como esperaban",
-    "snippet": "Hace poco más de un año, saltaba la polémica entre comunidades autónomas. Abel Caballero, alcalde de Vigo, aseguraba que uno de los motivos por el que el AVE a Madrid no tardaba el tiempo prometido era por \"un excesivo n...",
-    "date": "2026-05-13T07:01:47",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/vigo-tiene-su-ave-directo-a-madrid-paradas-castilla-leon-ahora-tarda-que-antes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435313",
-    "title": "PortCastelló participa en discusión sobre cómo descarbonizar la logística en Ecoforum de la Comunitat Valenciana",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de la Autoridad Portuaria de Castellón, Rubén Ibáñez, participó, junto a Gonzalo Romero, concejal\nLa entrada PortCastelló participa en discusión sobre cómo des...",
-    "date": "2026-05-13T07:00:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/portcastello-participa-en-discusion-sobre-como-descarbonizar-la-logistica-en-ecoforum-de-la-comunitat-valenciana/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/modelos-ia-tienen-su-nueva-obsesion-antes-era-vibecoding-ahora-ciberseguridad",
-    "title": "Los modelos de IA ya tienen su nueva obsesión: antes era el vibecoding, ahora  es la ciberseguridad",
-    "snippet": "Claude Mythos Preview ha puesto patas arriba el segmento de la IA. El nuevo modelo de Anthropic es tan poderoso que sus creadores han preferido no lanzarlo públicamente. En su anuncio oficial ya lo dejaron claro: es capa...",
-    "date": "2026-05-13T06:31:46",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/modelos-ia-tienen-su-nueva-obsesion-antes-era-vibecoding-ahora-ciberseguridad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/modelos-ia-tienen-su-nueva-obsesion-antes-era-vibecoding-ahora-ciberseguridad",
-    "title": "La industria de la IA ya sabe cómo ganar más dinero. Basta con usar la estrategia del miedo",
-    "snippet": "Claude Mythos Preview ha puesto patas arriba el segmento de la IA. El nuevo modelo de Anthropic es tan poderoso que sus creadores han preferido no lanzarlo públicamente. En su anuncio oficial ya lo dejaron claro: es capa...",
-    "date": "2026-05-13T06:31:46",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/modelos-ia-tienen-su-nueva-obsesion-antes-era-vibecoding-ahora-ciberseguridad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yx757w048o#0",
-    "title": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip",
-    "snippet": "A total of 18 US executives have joined the president on his visit, where he will meet his Chinese counterpart Xi Jinping....",
-    "date": "2026-05-13T06:15:13",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/navarra-tiene-operativo-su-radar-tramo-largo-cubre-30-kilometros-asi-no-largo-espana",
-    "title": "Navarra ya tiene operativo su radar de tramo más largo. Cubre 30 kilómetros, y aún así no es el más largo de España",
-    "snippet": "Navarra ha colocado un radar de velocidad media en la AP-68 que controla más de 30 kilómetros seguidos entre Cortes y Tudela. El dispositivo ya se encuentra vigilando este tramo y sancionando. Se trata de uno de los más ...",
-    "date": "2026-05-13T06:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/navarra-tiene-operativo-su-radar-tramo-largo-cubre-30-kilometros-asi-no-largo-espana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/navarra-tiene-operativo-su-radar-tramo-largo-cubre-30-kilometros-asi-no-largo-espana",
-    "title": "Navarra acaba de inaugurar un radar de tramo de 30 kilómetros. Y ni siquiera es el más largo de España",
-    "snippet": "Navarra ha colocado un radar de velocidad media en la AP-68 que controla más de 30 kilómetros seguidos entre Cortes y Tudela. El dispositivo ya se encuentra vigilando este tramo y sancionando. Se trata de uno de los más ...",
-    "date": "2026-05-13T06:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/navarra-tiene-operativo-su-radar-tramo-largo-cubre-30-kilometros-asi-no-largo-espana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cdrpx0xl7v8o#0",
-    "title": "Glassmaker questions future of UK manufacturing",
-    "snippet": "Bristol Blue Glass says rising energy costs and taxes have forced its closure....",
-    "date": "2026-05-13T05:15:56",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/cdrpx0xl7v8o?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435484",
-    "title": "Francia: Realizan incautación récord de cigarrillos en Puerto de Fos-sur-Mer",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los servicios de aduanas de Marsella llevaron a cabo una incautación récord de 26 toneladas de\nLa entrada Francia: Realizan incautación récord de cigarrillos en Puerto de Fo...",
-    "date": "2026-05-13T05:00:41",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/francia-realizan-incautacion-record-de-cigarrillos-en-puerto-de-fos-sur-mer/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435343",
-    "title": "Adani Ports invertirá 1.360 millones de dólares en su expansión por Europa",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario La compañía india Adani Ports anunció que reforzará su presencia en Europa mediante el desarrollo\nLa entrada Adani Ports invertirá 1.360 millones de dólares ...",
-    "date": "2026-05-13T04:00:55",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/adani-ports-invertira-1-360-millones-de-dolares-en-su-expansion-por-europa/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-midagri-impulsa-genetica-y-exportacion-camelidos-congreso-mundial-1074805.aspx",
-    "title": "Midagri impulsa genética y exportación de camélidos en congreso mundial",
-    "snippet": "El Ministerio de Desarrollo Agrario y Riego (Midagri) informó que el Perú lidera el IX Congreso Mundial de Camélidos Sudamericanos con el objetivo de fortalecer la genética, la innovación tecnológica y las exportaciones ...",
-    "date": "2026-05-13T04:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-midagri-impulsa-genetica-y-exportacion-camelidos-congreso-mundial-1074805.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435365",
-    "title": "Puerto de Dover recibe por primera vez cuatro cruceros en un día",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Por primera vez en su historia, el Puerto de Dover registró el atraque simultáneo de cuatro\nLa entrada Puerto de Dover recibe por primera vez cuatro cruceros en un día se pu...",
-    "date": "2026-05-13T03:30:27",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-dover-recibe-por-primera-vez-cuatro-cruceros-en-un-dia/",
-    "category": "LOGÍSTICA"
   }
 ]
