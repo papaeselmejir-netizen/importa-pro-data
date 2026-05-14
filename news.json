@@ -1,5 +1,194 @@
 [
   {
+    "id": "https://www.theverge.com/?p=930213",
+    "title": "The Beats Solo 4 have returned to their best price of the year",
+    "snippet": "If you want a pair of Apple-made wireless headphones that work just as well with Android as with iOS, the Beats Solo 4 are down to around $129.95 ($70 off) at Amazon, Best Buy, and Target. That matches the best price we’...",
+    "date": "2026-05-14T15:13:14",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/930213/beats-solo-4-headphones-anker-nano-travel-adapter-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-premios-oscar-del-turismo-2026-por-votar-peru-como-mejor-destino-sudamerica-1074957.aspx",
+    "title": "Premios Óscar del Turismo 2026: ¿Por qué votar por Perú como Mejor Destino de Sudamérica?",
+    "snippet": "El próximo 12 de junio vence el plazo para votar por las 21 candidaturas de Perú en la edición sudamericana de los World Travel Awards 2026, conocidos como los Premios Óscar del Turismo. ¿Por qué votar por Perú como Mejo...",
+    "date": "2026-05-14T15:04:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-premios-oscar-del-turismo-2026-por-votar-peru-como-mejor-destino-sudamerica-1074957.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/corea-norte-tiene-problema-impensable-hace-unos-anos-no-hay-forma-encontrar-aparcamientos-culpa-china",
+    "title": "Corea del Norte tiene un problema impensable hace años: no hay forma de encontrar aparcamiento y la culpa es de China",
+    "snippet": "La escena tiene lugar en los años 90, cuando un turista occidental que visitó Pyongyang cuenta la misma experiencia extraña: podía recorrer avenidas gigantescas durante minutos enteros sin cruzarse apenas con otro vehícu...",
+    "date": "2026-05-14T15:01:31",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/corea-norte-tiene-problema-impensable-hace-unos-anos-no-hay-forma-encontrar-aparcamientos-culpa-china",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=930343",
+    "title": "Razer’s Blade 18 is getting a $500 price hike and a new Intel chip",
+    "snippet": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with u...",
+    "date": "2026-05-14T15:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atleta-nacional-jose-luis-mandros-competira-la-diamond-league-shanghai-1075059.aspx",
+    "title": "Atleta nacional José Luis Mandros competirá en la Diamond League de Shanghái",
+    "snippet": "El destacado atleta nacional José Luis Mandros hará historia este sábado 16 de mayo al disputar por primera vez una fecha de la Wanda Diamond League, el circuito más importante del atletismo mundial, durante la parada de...",
+    "date": "2026-05-14T14:48:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atleta-nacional-jose-luis-mandros-competira-la-diamond-league-shanghai-1075059.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-14-mayo-del-2026-1075053.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy jueves 14 de mayo del 2026?",
+    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-05-14T14:34:23",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-14-mayo-del-2026-1075053.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gobierno-entrega-3-toneladas-ayuda-humanitaria-para-mil-familias-damnificadas-loreto-1075051.aspx",
+    "title": "Gobierno entrega 3 toneladas de ayuda humanitaria para mil familias damnificadas en Loreto",
+    "snippet": "Como parte de las acciones desplegadas ante emergencias, el Gobierno entregó tres toneladas de bienes de primera necesidad al Gobierno Regional de Loreto para las familias damnificadas en esa región, informó el Ministeri...",
+    "date": "2026-05-14T14:31:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-entrega-3-toneladas-ayuda-humanitaria-para-mil-familias-damnificadas-loreto-1075051.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435850",
+    "title": "Buque es abordado por personal no autorizado mientras se encontraba anclado al noreste del Puerto de Fujairah",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un navío fue abordado por personal no autorizado mientras se encontraba anclado al noreste del\nLa entrada Buque es abordado por personal no autorizado mientr...",
+    "date": "2026-05-14T14:30:10",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/buque-es-abordado-por-personal-no-autorizado-mientras-se-encontraba-anclado-al-noreste-del-puerto-de-fujairah/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=930376",
+    "title": "AMD’s FSR 4.1 upscaling tech is coming to older graphics cards",
+    "snippet": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RD...",
+    "date": "2026-05-14T14:06:48",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/analisis/mova-e40-ultra-analisis-caracteristicas-precio-especificaciones",
+    "title": "Mova E40 Ultra, análisis: es increíble lo que este robot aspirador hace por 450 euros, simple y llanamente",
+    "snippet": "Te resumo el culebrón: Xiaomi nació en 2010 y no necesita presentaciones. En 2018 nacía Dreame, una startup participada de Xiaomi que en 2019 iniciaría su andadura para vender aspiradores bajo su marca. Ya hemos probado ...",
+    "date": "2026-05-14T14:01:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/analisis/mova-e40-ultra-analisis-caracteristicas-precio-especificaciones",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435578",
+    "title": "Port Powers impulsa Corredor Ecológico para Camiones en Puerto de Long Beach",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Long Beach, The Wonderful Company y Lincoln Transportation Services firmaron un memorando de\nLa entrada Port Powers impulsa Corredor Ecológico para Camiones en ...",
+    "date": "2026-05-14T14:00:37",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/port-powers-impulsa-corredor-ecologico-para-camiones-en-puerto-de-long-beach/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/2026-estamos-enganchados-al-movil-1929-gente-estaba-alarmada-adiccion-a-crucigramas",
+    "title": "En 2026 estamos enganchados al móvil. En 1929 la gente estaba alarmada por la \"adicción\" a los crucigramas",
+    "snippet": "En una época en la que la heroína y la cocaína eran de curso legal, activistas, periodistas y legisladores decidieron que lo realmente preocupante, lo que realmente estaba destruyendo la civilización occidental eran los ...",
+    "date": "2026-05-14T13:45:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/2026-estamos-enganchados-al-movil-1929-gente-estaba-alarmada-adiccion-a-crucigramas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/carrefour-vende-ahora-a-precio-outlet-esta-enorme-tele-qled-75-pulgadas-dolby-vision-atmos",
+    "title": "Carrefour vende ahora, a precio de outlet, esta enorme tele QLED de 75 pulgadas con Dolby Vision & Atmos",
+    "snippet": "Carrefour está celebrando los \"Super Chollos\", una campaña vigente hasta el próximo 25 de mayo y en la que puedes encontrar multitud de televisores de calidad con financiación sin intereses en 12 meses y envío gratuito. ...",
+    "date": "2026-05-14T13:31:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/carrefour-vende-ahora-a-precio-outlet-esta-enorme-tele-qled-75-pulgadas-dolby-vision-atmos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/android-17-estrena-pause-point-funcion-para-salvarnos-apps-adictivas-paradoja-bombero-piromano",
+    "title": "Android 17 estrena Pause Point, una función para salvarnos de apps adictivas. Es la paradoja del bombero pirómano",
+    "snippet": "De entre todas las novedades anunciadas por Google hace unos días, sin duda Gemini Intelligence fue la que más focos atrajo, pero no fue la única. Android 17 también estrena otros cambios entre los que me llamó la atenci...",
+    "date": "2026-05-14T13:31:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/android-17-estrena-pause-point-funcion-para-salvarnos-apps-adictivas-paradoja-bombero-piromano",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435805",
+    "title": "DP World en San Antonio refuerza operación de contenedores con incorporación de siete tracto eléctricos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World en Chile incorporó siete modernos tracto eléctricos a su terminal multipropósito en el Puerto\nLa entrada DP World en San Antonio refuerza operación de contenedores ...",
+    "date": "2026-05-14T13:08:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-en-san-antonio-refuerza-operacion-de-contenedores-con-incorporacion-de-siete-tracto-electricos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/ia-monto-cafeteria-cero-saco-permisos-contrato-personal-negocio-proveedores-luego-pidio-3-000-guantes-goma",
+    "title": "Una IA montó una cafetería desde cero: sacó permisos, contrató personal y negoció con proveedores. Luego pidió 3.000 guantes de goma",
+    "snippet": "El lanzamiento de OpenClaw marcó una nueva en la carrera de la IA, una en la que la IA agéntica se ocupa de tareas complejas en las que hasta hace poco fallaba estrepitosamente. A pesar de que el salto cualitativo es inn...",
+    "date": "2026-05-14T13:01:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/ia-monto-cafeteria-cero-saco-permisos-contrato-personal-negocio-proveedores-luego-pidio-3-000-guantes-goma",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435603",
+    "title": "Reino Unido: Ellerman City Liniers anuncia servicio semanal que conectará el Puerto de Hull con Polonia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Ellerman City Liniers iniciará un nuevo servicio que conecta de manera directa el Puerto\nLa entrada Reino Unido: Ellerman City Liniers anuncia servicio semanal qu...",
+    "date": "2026-05-14T13:00:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-ellerman-city-liniers-anuncia-servicio-semanal-que-conectara-el-puerto-de-hull-con-polonia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2172439/motorola-razr-fold-review/",
+    "title": "Motorola Razr Fold review: A worthy rival to Google and Samsung",
+    "snippet": "It even has native stylus support, which Samsung dropped on the Galaxy Z Fold 7....",
+    "date": "2026-05-14T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2172439/motorola-razr-fold-review/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435801",
+    "title": "Estudiantes de Colegio Inglés participan en jornada de vinculación Vive Tu Puerto en Iquique",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con la finalidad de estrechar vínculos con la comunidad estudiantil y fortalecer el conocimiento sobre el\nLa entrada Estudiantes de Colegio Inglés participan en jornada de v...",
+    "date": "2026-05-14T12:48:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estudiantes-de-colegio-ingles-participan-en-jornada-de-vinculacion-vive-tu-puerto-en-iquique/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/ucrania-ha-encontrado-nueva-forma-asaltar-edificios-ocupados-rusia-enviar-robot-sorpresa-300-kilos",
+    "title": "Ucrania ha encontrado una nueva forma de asaltar edificios ocupados por Rusia: enviar un robot con una sorpresa de 300 kilos",
+    "snippet": "En 1944, durante el levantamiento de Varsovia, algunos combatientes polacos improvisaron pequeños vehículos teledirigidos cargados de explosivos para intentar destruir posiciones alemanas sin exponer directamente a sus h...",
+    "date": "2026-05-14T12:45:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ucrania-ha-encontrado-nueva-forma-asaltar-edificios-ocupados-rusia-enviar-robot-sorpresa-300-kilos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/espana-lleva-anos-viendo-inmigracion-su-tabla-salvacion-demografica-hay-quien-cree-que-tiene-fecha-caducidad",
+    "title": "España contaba con la inmigración para revertir su drama demográfico. Ahora los inmigrantes también están dejando de tener hijos",
+    "snippet": "Nunca había vivido tanta gente en España. No al menos desde que hay registros oficiales. Hace unos días el INE reveló que a cierre del primer trimestre de 2026 el país rondaba los 49,7 millones de residentes, \"el valor m...",
+    "date": "2026-05-14T12:31:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/espana-lleva-anos-viendo-inmigracion-su-tabla-salvacion-demografica-hay-quien-cree-que-tiene-fecha-caducidad",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/ultima-pesadilla-centros-datos-ia-no-subirte-factura-luz-infrasonidos-que-no-se-oyen-se-sienten",
     "title": "La última pesadilla de los centros de datos de IA no es subirte la factura de la luz: son los infrasonidos que no se oyen pero se sienten",
     "snippet": "Quienes viven cerca de centros de datos en EEUU están denunciando estar siendo afectados por los llamados infrasonidos. Se trata de sonidos de baja frecuencia que están por debajo de los límites de audición humanos pero ...",
@@ -27,6 +216,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "fd712af9-e617-4087-a030-4ed0c7bc03b0",
+    "title": "We Tested 33 New Phones to See Which Charge Fastest and Crown 2 Winners",
+    "snippet": "We ran 33 phones from Apple, Google, OnePlus, Samsung, Motorola and more through our charging tests. The winners are given our CNET Lab Award....",
+    "date": "2026-05-14T12:00:58",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/cnet-lab-exclusive-fastest-wired-wireless-charging-phone/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/televisores/primeras-impresiones-tcl-rm9l-rgb-miniled-alternativa-al-oled-para-pantallas-gran-formato",
     "title": "Primeras impresiones del TCL RM9L con RGB MiniLED: la alternativa al OLED para pantallas de gran formato",
     "snippet": "Una de las pocas fábricas de TCL fuera de China se encuentra a apenas 40 km de Varsovia, por lo que no es raro que la marca haya elegido Polonia para hacer la presentación oficial de su gama de televisores para 2026.\n\nEn...",
@@ -43,6 +241,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/ecologia-y-naturaleza/sabiamos-que-pulpos-eran-inteligentisimos-no-punto-tener-cerebro-cada-brazo",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "2ec0b817-bb67-4b5c-8fb6-eb0339213aa2",
+    "title": "LG OLED G6 Series Review: Top-End TV Gains More Than It Loses",
+    "snippet": "For movie fans, the G6 OLED is especially good, but it's up against some serious competition from the Samsung S95H....",
+    "date": "2026-05-14T11:12:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/home-entertainment/lg-oled-g6-series-review/",
+    "category": "MERCADO"
   },
   {
     "id": "https://rpp.pe/1688294",
@@ -81,6 +288,15 @@
     "category": "LEGAL"
   },
   {
+    "id": "https://www.xataka.com/criptomonedas/claude-ha-ayudado-a-hombre-a-recuperar-400-000-dolares-bitcoin-que-perdio-hace-11-anos-se-coloco-olvido-contrasena",
+    "title": "Fue a una fiesta, se colocó y olvidó la contraseña de sus bitcoins. 11 años después ha logrado recuperar 400.000 dólares gracias a Claude",
+    "snippet": "Un usuario de X llamado Cprkrn contaba recientemente su odisea con final (muy) feliz en X. En 2015 compró cinco bitcoins (BTC) cuando el precio rondaba los 250 dólares. En un arrebato de euforia universitaria decidió que...",
+    "date": "2026-05-14T10:45:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/criptomonedas/claude-ha-ayudado-a-hombre-a-recuperar-400-000-dolares-bitcoin-que-perdio-hace-11-anos-se-coloco-olvido-contrasena",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://www.xataka.com/empresas-y-economia/islandia-tiene-semana-laboral-cuatro-dias-2019-siete-anos-despues-cumple-todas-promesas-gen-z",
     "title": "Islandia tiene semana laboral de cuatro días desde 2019. Siete años después, cumple todas las promesas de la Gen Z",
     "snippet": "Islandia fue uno de los primeros países que se atrevió a experimentar con la jornada laboral de cuatro días y nuevos modelos de jornada laboral manteniendo el salario. Hoy, Islandia no solo ha conseguido reducir su jorna...",
@@ -108,6 +324,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/magnet/madonna-shakira-bts-van-a-actuar-descanso-final-mundial-reglamento-solo-deja-que-sean-15-minutos",
+    "title": "Cuando el fútbol quiere ser fútbol americano: la FIFA se inventa un show de medio tiempo con Madonna a imitación de la Super Bowl",
+    "snippet": "Desde hace años, Gianni Infantino miraba con envidia el espectáculo de los descansos del fútbol americano. Este año, el presidente de la FIFA va a tener lo que lleva años deseando: la final del Mundial del 19 de julio en...",
+    "date": "2026-05-14T10:31:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/madonna-shakira-bts-van-a-actuar-descanso-final-mundial-reglamento-solo-deja-que-sean-15-minutos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/ecologia-y-naturaleza/supernino-1877-acabo-4-poblacion-mundial-que-empieza-a-formarse-promete-ser-peor-que-significa-eso-2027",
     "title": "El superNiño de 1877 acabó con el 4% de la población mundial. El que ya empieza a formarse promete ser peor, pero ¿qué significa eso en 2027?",
     "snippet": "En la última semana, El Niño se ha hecho de repente real. Medios como el Washington Post, la BBC o un sinfín de medios en español han empezado a comparar lo que se nos viene encima con El superNiño de 1877, el evento que...",
@@ -128,6 +353,15 @@
   {
     "id": "https://www.xataka.com/movilidad/mirabamos-a-gasolina-crisis-iran-ha-disparado-precio-asfalto-carreteras-medio-mundo-sufren",
     "title": "Mientras mirábamos a la gasolina, la crisis de Irán ha disparado el precio del asfalto. Y las carreteras de medio mundo ya lo sufren",
+    "snippet": "Hace unos meses publicamos en Xataka un artículo con el siguiente título: Las carreteras españolas tienen un problema en 2026: reparar un kilómetro de asfalto es más caro que nunca. \n\nEra 26 de febrero de 2026. En él ana...",
+    "date": "2026-05-14T10:01:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/mirabamos-a-gasolina-crisis-iran-ha-disparado-precio-asfalto-carreteras-medio-mundo-sufren",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/mirabamos-a-gasolina-crisis-iran-ha-disparado-precio-asfalto-carreteras-medio-mundo-sufren",
+    "title": "Si ya temíamos por el estado de nuestras carreteras, tenemos un motivo más para preocuparnos: el precio del asfalto está disparado",
     "snippet": "Hace unos meses publicamos en Xataka un artículo con el siguiente título: Las carreteras españolas tienen un problema en 2026: reparar un kilómetro de asfalto es más caro que nunca. \n\nEra 26 de febrero de 2026. En él ana...",
     "date": "2026-05-14T10:01:30",
     "source": "XATAKA",
@@ -1114,239 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
-    "title": "Los hosteleros se han dado cuenta de que Mercadona es su nueva bestia negra. Así que han sacado su mejor arma: la regulación",
-    "snippet": "Desde que España creó oficializó el \"menú del día\" hace 61 años, en tiempos de Manuel Fraga, trabajadores, viajeros y familias han acudido a los bares a mediodía en busca básicamente de dos cosas, además de pitanza: ahor...",
-    "date": "2026-05-13T15:15:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
-    "title": "La nueva cruzada de \"Salvemos a la Hostelería\" es el Mercadona: sus comida preparada les está ganando terreno",
-    "snippet": "Desde que España creó oficializó el \"menú del día\" hace 61 años, en tiempos de Manuel Fraga, trabajadores, viajeros y familias han acudido a los bares a mediodía en busca básicamente de dos cosas, además de pitanza: ahor...",
-    "date": "2026-05-13T15:15:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/a-quien-quieres-a-bares-mercadona-hosteleria-esta-llevando-batalla-comida-preparada-a-juego-suma-cero",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/europa-construye-centros-datos-para-lograr-independencia-su-red-electrica-entra-juegos-hambre",
-    "title": "Mientras Europa construye centros de datos para lograr la independencia, su red eléctrica entra en los juegos del hambre",
-    "snippet": "Europa se encuentra en una encrucijada. Si hace caso al CEO de Mistral, debe empezar a invertir a lo grande para dejar de ser el vasallo tecnológico de Estados Unidos. Eso implica invertir y que parte de esa inversión se...",
-    "date": "2026-05-13T15:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/europa-construye-centros-datos-para-lograr-independencia-su-red-electrica-entra-juegos-hambre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=928854",
-    "title": "Garmin’s mini satellite communicators are on sale for up to 40 percent off",
-    "snippet": "REI’s annual Anniversary Sale doesn’t&#160;start until March 15th, but that hasn’t stopped Garmin from rolling out discounts on a range of devices — including its InReach Mini satellite communicators. Right now, for inst...",
-    "date": "2026-05-13T15:00:35",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3122166",
-    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-    "snippet": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant....",
-    "date": "2026-05-13T14:59:32",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/llevamos-decada-subiendo-fotos-pixeladas-a-instagram-android-17-dice-que-esta-bien",
-    "title": "Llevamos una década subiendo fotos pixeladas a Instagram: Android 17 dice que ya está bien",
-    "snippet": "Subir contenidos a redes sociales desde un móvil Android ha sido, durante años, un auténtico castigo. Más allá de acuerdos puntuales con Samsung o Google —que sí introdujeron mejoras relevantes, como el soporte HDR en al...",
-    "date": "2026-05-13T14:45:46",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/llevamos-decada-subiendo-fotos-pixeladas-a-instagram-android-17-dice-que-esta-bien",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-13-mayo-del-2026-1074859.aspx",
-    "title": "¿Cuál es la cotización del dólar hoy miércoles 13 de mayo del 2026?",
-    "snippet": "El precio del dólar inició con una ligera alza frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
-    "date": "2026-05-13T14:45:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-13-mayo-del-2026-1074859.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/tsmc-vive-pesadilla-arizona-se-gastara-20-000-millones-fabrica-escasa-agua-mano-obra",
-    "title": "TSMC vive una pesadilla en Arizona: se gastará 20.000 millones más en una fábrica con escasa agua y mano de obra",
-    "snippet": "El periplo de TSMC en Arizona (EEUU) sigue su curso. Ayer el consejo de administración de este fabricante de chips, el mayor del planeta, aprobó una inyección de 20.000 millones de dólares en la que ya es su planta de pr...",
-    "date": "2026-05-13T14:31:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/tsmc-vive-pesadilla-arizona-se-gastara-20-000-millones-fabrica-escasa-agua-mano-obra",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435584",
-    "title": "VLCC con bandera de China transporta cargamento de crudo iraquí a través del estrecho de Ormuz",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un Very Large Crude Carrier (VLCC) con bandera de China transportó dos millones de barriles de\nLa entrada VLCC con bandera de China transporta cargamento de ...",
-    "date": "2026-05-13T14:30:45",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/vlcc-con-bandera-de-china-transporta-cargamento-de-crudo-iraqui-a-traves-del-estrecho-de-ormuz/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-trujillo-multiple-choque-deja-varios-heridos-cerca-del-ovalo-milagro-1074865.aspx",
-    "title": "Trujillo: múltiple choque deja varios heridos cerca del óvalo El Milagro",
-    "snippet": "Por causas que aún son materia de investigación, varias personas resultaron heridas esta madrugada, como consecuencia de un múltiple choque entre tres tráiler, un ómnibus lleno de pasajeros y un volquete en la carretera ...",
-    "date": "2026-05-13T14:21:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-trujillo-multiple-choque-deja-varios-heridos-cerca-del-ovalo-milagro-1074865.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
-    "title": "Hace 1.800 años los romanos tenían un amuleto contra la mala suerte. Era literalmente un pene diminuto",
-    "snippet": "Mide unos tres centímetros, está moldeado en bronce con todo lujo de detalles (anatómicos) y a pesar de tener alrededor de 1.800 años se conserva asombrosamente bien. Hablamos de un falo. Un pene. Una antigua figurilla q...",
-    "date": "2026-05-13T14:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
-    "title": "Los romanos eran muy supersticiosos, así que hace casi 2.000 años tuvieron una idea: rodearse de \"micropenes\"",
-    "snippet": "Mide unos tres centímetros, está moldeado en bronce con todo lujo de detalles (anatómicos) y a pesar de tener alrededor de 1.800 años se conserva asombrosamente bien. Hablamos de un falo. Un pene. Una antigua figurilla q...",
-    "date": "2026-05-13T14:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
-    "title": "Hace casi 2.000 años los romanos tuvieron una idea para librarse del mal de ojo: rodearse de penes minúsculos",
-    "snippet": "Mide unos tres centímetros, está moldeado en bronce con todo lujo de detalles (anatómicos) y a pesar de tener alrededor de 1.800 años se conserva asombrosamente bien. Hablamos de un falo. Un pene. Una antigua figurilla q...",
-    "date": "2026-05-13T14:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-1-800-anos-romanos-tenian-amuleto-mala-suerte-era-literalmente-pene-diminuto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435567",
-    "title": "Trump dice que no necesita ayuda de China para mitigar control de Irán sobre estrecho de Ormuz",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El presidente de Estados Unidos, Donald Trump, ha declarado que no necesita la ayuda de\nLa entrada Trump dice que no necesita ayuda de China para mitigar con...",
-    "date": "2026-05-13T14:00:13",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/trump-dice-que-no-necesita-ayuda-de-china-para-mitigar-control-de-iran-sobre-estrecho-de-ormuz/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=929374",
-    "title": "Why does the Googlebook exist?",
-    "snippet": "Google announced its new Googlebook laptop platform yesterday, and so far I've been left asking, \"Why?\" Why is Google blowing up its Chromebook and ChromeOS platform for this? I've been excited by the prospect of Android...",
-    "date": "2026-05-13T14:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1688152",
-    "title": "Ministerio de Economía: “Petroperú no puede dejar de operar, es un riesgo para el país, nos bajaría el grado de inversión”",
-    "snippet": "El titular del MEF, Rodolfo Acuña, enfatizó que “sale más caro parar la refinería que seguir operando”. Explicó que detener las operaciones de Petroperú tendría consecuencias económicas y reputacionales para el país, deb...",
-    "date": "2026-05-13T13:45:50",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/petroperu-mef-asegura-empresa-estatal-no-puede-dejar-de-operar-y-bajaria-el-grado-de-inversion-noticia-1688152",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/tokenmaxxing-tiene-su-primer-absurdo-algunos-empleados-amazon-usan-ia-solo-para-inflar-sus-metricas-tokens",
-    "title": "El tokenmaxxing ya tiene su primer absurdo: algunos empleados de Amazon usan IA solo para inflar sus métricas de tokens",
-    "snippet": "El tokenmaxxing tiene ahora su caso más documentado. Algunos empleados de Amazon llevan semanas usando MeshClaw, una herramienta interna de agentes de IA, para automatizar tareas innecesarias y así inflar su consumo de t...",
-    "date": "2026-05-13T13:45:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/tokenmaxxing-tiene-su-primer-absurdo-algunos-empleados-amazon-usan-ia-solo-para-inflar-sus-metricas-tokens",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/2025-ucrania-se-lleno-vehiculos-mad-max-2026-todavia-inquietante-han-llevado-mad-max-a-barcos",
-    "title": "En 2025 Ucrania se llenó de vehículos a lo Mad Max. En 2026 las jaulas han llegado a los barcos de guerra",
-    "snippet": "En la Segunda Guerra Mundial, varios barcos aliados empezaron a cubrir partes de sus cubiertas con colchones, troncos de madera, sacos de arena y estructuras metálicas improvisadas para intentar sobrevivir a los ataques ...",
-    "date": "2026-05-13T13:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/2025-ucrania-se-lleno-vehiculos-mad-max-2026-todavia-inquietante-han-llevado-mad-max-a-barcos",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/2025-ucrania-se-lleno-vehiculos-mad-max-2026-todavia-inquietante-han-llevado-mad-max-a-barcos",
-    "title": "La guerra en Ucrania se está llenando de barcos “Mad Max”: pantallas metálicas y redes contra drones FPV en el mar Negro",
-    "snippet": "En la Segunda Guerra Mundial, varios barcos aliados empezaron a cubrir partes de sus cubiertas con colchones, troncos de madera, sacos de arena y estructuras metálicas improvisadas para intentar sobrevivir a los ataques ...",
-    "date": "2026-05-13T13:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/2025-ucrania-se-lleno-vehiculos-mad-max-2026-todavia-inquietante-han-llevado-mad-max-a-barcos",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435370",
-    "title": "DP World y Al Dahra se asocian para fortalecer seguridad alimentaria y desarrollar la agrologística de Consejo de Cooperación del Golfo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World y Al Dahra Holding, una multinacional agroindustrial con sede en Abu Dabi, firmaron un\nLa entrada DP World y Al Dahra se asocian para fortalecer seguridad alimentar...",
-    "date": "2026-05-13T13:30:48",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dp-world-y-al-dahra-se-asocian-para-fortalecer-seguridad-alimentaria-y-desarrollar-la-agrologistica-de-consejo-de-cooperacion-del-golfo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=929527",
-    "title": "Nintendo says it has more Switch 2 games in store for 2026",
-    "snippet": "With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo. That increased cost means that the company will rely heavily on new games to sell its current console - but as of rig...",
-    "date": "2026-05-13T13:25:02",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
-    "title": "Promo de lanzamiento de HUAWEI WATCH FIT 5 Series: descuento de 60 euros y varios regalos incluidos",
-    "snippet": "Si juntamos en la misma frase smartwatch y superventas, es difícil no hablar de HUAWEI WATCH FIT 4 Series. Pues sin más, buenas noticias: HUAWEI WATCH FIT 5 Series ya están aquí. Son dos nuevos relojes muy interesantes (...",
-    "date": "2026-05-13T13:15:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
-    "title": "Una batería que dura hasta 10 días y compatible con pagos NFC: los Huawei Watch Fit 5 llegan con descuento de 60 euros y regalos",
-    "snippet": "Si juntamos en la misma frase smartwatch y superventas, es difícil no hablar de HUAWEI WATCH FIT 4 Series. Pues sin más, buenas noticias: HUAWEI WATCH FIT 5 Series ya están aquí. Son dos nuevos relojes muy interesantes (...",
-    "date": "2026-05-13T13:15:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/promo-lanzamiento-huawei-watch-fit-5-series-descuento-60-euros-varios-regalos-incluidos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/dos-meses-guerra-iran-amenaza-toma-forma-horizonte-desplome-comercio-fertilizantes",
-    "title": "Tras más de dos meses de guerra en Irán, una amenaza toma forma en el horizonte: el desplome del comercio de fertilizantes",
-    "snippet": "Si algo tienen guerras como la de Irán (o Ucrania) es que nos recuerdan la enorme fragilidad de algunos de los pilares que sostienen la economía mundial. Y eso es algo que empieza a preocupar a los agricultores. Además d...",
-    "date": "2026-05-13T13:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/dos-meses-guerra-iran-amenaza-toma-forma-horizonte-desplome-comercio-fertilizantes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/dos-meses-guerra-iran-amenaza-toma-forma-horizonte-desplome-comercio-fertilizantes",
-    "title": "Si el mundo creía que la subida del petróleo era la mayor amenaza de la guerra es porque no sabía lo que viene: la gran crisis de la urea",
-    "snippet": "Si algo tienen guerras como la de Irán (o Ucrania) es que nos recuerdan la enorme fragilidad de algunos de los pilares que sostienen la economía mundial. Y eso es algo que empieza a preocupar a los agricultores. Además d...",
-    "date": "2026-05-13T13:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/dos-meses-guerra-iran-amenaza-toma-forma-horizonte-desplome-comercio-fertilizantes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435360",
-    "title": "Buque Ro-Ro de NYK concreta prueba de sistema de navegación autónoma en Puerto de Singapur",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El buque de transporte de automóviles Elder Leader, operado por NYK y equipado con un sistema\nLa entrada Buque Ro-Ro de NYK concreta prueba de sistema de navegación autónoma...",
-    "date": "2026-05-13T13:00:00",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/buque-ro-ro-de-nyk-concreta-prueba-de-sistema-de-navegacion-autonoma-en-puerto-de-singapur/",
-    "category": "LOGÍSTICA"
   }
 ]
