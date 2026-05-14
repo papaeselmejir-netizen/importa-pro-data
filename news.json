@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.theverge.com/?p=930941",
+    "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+    "snippet": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger,...",
+    "date": "2026-05-14T21:08:46",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-reniec-inaugura-primera-agencia-del-voluntariado-de-identificacion-el-callao-1075104.aspx",
+    "title": "Reniec inaugura primera agencia del Voluntariado de la Identificación en el Callao",
+    "snippet": "El Registro Nacional de Identificación y Estado Civil (Reniec) inauguró este jueves 14 de mayo la Agencia 290 del Voluntariado de la Identificación a nivel nacional y la primera en la región Callao, con el objetivo de ac...",
+    "date": "2026-05-14T21:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-reniec-inaugura-primera-agencia-del-voluntariado-de-identificacion-el-callao-1075104.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435938",
+    "title": "Argentina: Puerto Coronel Rosales presenta plan quinquenal ante Gobierno de Buenos Aires",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Coronel Rosales presentó su último plan quinquenal al Gobierno de la Provincia de\nLa entrada Argentina: Puerto Coronel Rosales presenta plan quinquenal ante Gob...",
+    "date": "2026-05-14T20:30:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/argentina-puerto-coronel-rosales-presenta-plan-quinquenal-ante-gobierno-de-buenos-aires/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2173272/amazon-has-hurled-its-lord-of-the-rings-mmo-back-into-the-fires-of-mount-doom/",
+    "title": "Amazon hurled its Lord of the Rings MMO back into the fires of Mount Doom",
+    "snippet": "It's still making a new game set in Middle-earth, though....",
+    "date": "2026-05-14T20:25:29",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2173272/amazon-has-hurled-its-lord-of-the-rings-mmo-back-into-the-fires-of-mount-doom/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3122714",
+    "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+    "snippet": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch....",
+    "date": "2026-05-14T20:23:03",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435964",
+    "title": "Puerto San Antonio y la Armada invitan a niños y adolescentes al concurso de dibujo y pintura Mayo a tu Pinta",
+    "snippet": "Por PortalPortuario Social El próximo sábado 30 de mayo, desde las 10.30 horas en el sector de las mesas de\nLa entrada Puerto San Antonio y la Armada invitan a niños y adolescentes al concurso de dibujo y pintura Mayo a ...",
+    "date": "2026-05-14T20:07:06",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-san-antonio-y-la-armada-invitan-a-ninos-y-adolescentes-al-concurso-de-dibujo-y-pintura-mayo-a-tu-pinta/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/alianza-apple-openai-ha-comenzado-a-resquebrajarse-hay-razon-fondo-que-explica-bloomberg",
+    "title": "La alianza entre Apple y OpenAI ha comenzado a resquebrajarse: hay una razón de fondo que lo explica, según Bloomberg",
+    "snippet": "El acuerdo entre OpenAI y Apple, anunciado en la WWDC24, reunía todos los ingredientes para convertirse en uno de los movimientos más afinados del sector. La compañía de inteligencia artificial del momento desembarcaba c...",
+    "date": "2026-05-14T20:02:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/alianza-apple-openai-ha-comenzado-a-resquebrajarse-hay-razon-fondo-que-explica-bloomberg",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435910",
+    "title": "Perú: MTC proyecta que Muelle del Sur del Callao supere los dos millones de contenedores en 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones (MTC) del Perú informó que el Terminal de Contenedores Zona\nLa entrada Perú: MTC proyecta que Muelle del Sur del Callao supere ...",
+    "date": "2026-05-14T20:00:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-muelle-del-sur-del-callao-proyecta-superar-los-dos-millones-de-contenedores-en-2026/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-hospital-dos-mayo-aplican-innovadora-tecnica-para-tratar-lesiones-gastrointestinales-1075086.aspx",
+    "title": "Hospital Dos de Mayo: aplican innovadora técnica para tratar lesiones gastrointestinales",
+    "snippet": "El Hospital Nacional Dos de Mayo (HNDM), fortalece el manejo de lesiones gastrointestinales con la implementación de la Disección Submucosa Endoscópica, una técnica avanzada y mínimamente invasiva que permite retirar les...",
+    "date": "2026-05-14T20:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-hospital-dos-mayo-aplican-innovadora-tecnica-para-tratar-lesiones-gastrointestinales-1075086.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435880",
+    "title": "Terminal de Contenedores de Paranaguá concentra 37% del mercado exportador de madera en Brasil",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario TCP, la empresa que administra la Terminal de Contenedores de Paranaguá, consolidó su liderazgo en la\nLa entrada Terminal de Contenedores de Paranaguá concentra 37% del merc...",
+    "date": "2026-05-14T19:50:32",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/terminal-de-contenedores-de-paranagua-concentra-37-del-mercado-exportador-de-madera-en-brasil/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.theverge.com/?p=930785",
     "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
     "snippet": "If you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs through May 26th, the origina...",
@@ -1258,95 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/brasil-impulsa-iniciativas-centradas-en-transicion-energetica-de-sector-portuario/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435762",
-    "title": "Continuidad operativa de puertos omaníes atrae a empresa india para compensar déficit de nafta",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario La empresa india Haldia Petrochemicals (HPL) ha recurrido a Omán para compensar el déficit en\nLa entrada Continuidad operativa de puertos omaníes atrae a emp...",
-    "date": "2026-05-13T21:18:25",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/continuidad-operativa-de-puertos-omanies-atrae-a-empresa-india-para-compensar-deficit-de-nafta/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435668",
-    "title": "Ictsi apela adjudicación de modernización de Puerto Caldera en Costa Rica",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario International Container Terminal Services, Inc. (Ictsi) envió dos recursos de apelación a la Contraloría General de\nLa entrada Ictsi apela adjudicación de modernización de P...",
-    "date": "2026-05-13T21:00:23",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ictsi-apela-adjudicacion-de-modernizacion-de-puerto-caldera-en-costa-rica/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mundial-2026-promueven-movilidad-verde-la-sede-ciudad-mexico-1074900.aspx",
-    "title": "Mundial 2026: Promueven movilidad verde en la sede de Ciudad de México",
-    "snippet": "La empresa china CRRC realizó en la capital mexicana una jornada de puertas abiertas titulada \"Ir al partido en el tren ligero STE\", una actividad que combinó movilidad sustentable, cultura y fútbol de cara a la Copa Mun...",
-    "date": "2026-05-13T21:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mundial-2026-promueven-movilidad-verde-la-sede-ciudad-mexico-1074900.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-lineas-3-4-y-7-del-metro-permitiran-ahorrar-hasta-dos-horas-viaje-lima-y-callao-1074921.aspx",
-    "title": "Líneas 3, 4 y 7 del Metro permitirán ahorrar hasta dos horas de viaje en Lima y Callao",
-    "snippet": "La implementación de las Líneas 3, 4 y 7 del Metro permitirá generar ahorros de casi dos horas de viajes en los desplazamientos diarios de millones de usuarios en Lima Metropolitana y el Callao, destacó la Autoridad de T...",
-    "date": "2026-05-13T21:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-lineas-3-4-y-7-del-metro-permitiran-ahorrar-hasta-dos-horas-viaje-lima-y-callao-1074921.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-eeuu-ofrece-100-millones-ayuda-a-cuba-pero-solo-a-traves-de-iglesia-catolica-1074952.aspx",
-    "title": "EE.UU. ofrece US$ 100 millones en ayuda a Cuba pero solo a través de la Iglesia católica",
-    "snippet": "Estados Unidos está dispuesto a entregar 100 millones de dólares en ayuda a Cuba si se distribuye a través de la Iglesia católica, anunció el miércoles el gobierno de Donald Trump....",
-    "date": "2026-05-13T20:44:43",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-eeuu-ofrece-100-millones-ayuda-a-cuba-pero-solo-a-traves-de-iglesia-catolica-1074952.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-amazonas-presenta-su-gran-riqueza-cultural-y-turistica-seminario-vivelo-la-selva-1074942.aspx",
-    "title": "Amazonas presenta su gran riqueza cultural y turística en seminario \"Vívelo en la Selva\"",
-    "snippet": "El seminario \"Vívelo en la Selva\", que se desarrolló en Lima, fue la ocasión perfecta para que la Dirección Desconcentrada de Cultura y la Dirección Regional de Comercio Exterior y Turismo (Dircetur) de Amazonas presente...",
-    "date": "2026-05-13T20:33:26",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-amazonas-presenta-su-gran-riqueza-cultural-y-turistica-seminario-vivelo-la-selva-1074942.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435744",
-    "title": "Argentina: Puerto de Bahía Blanca presenta plan quinquenal 2025-2029",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consorcio de Gestión del Puerto de Bahía Blanca presentó su Plan Quinquenal Portuario 2025-2029. El\nLa entrada Argentina: Puerto de Bahía Blanca presenta plan quinquenal ...",
-    "date": "2026-05-13T20:30:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-puerto-de-bahia-blanca-presenta-plan-quinquenal-2025-2029/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-promueve-parques-industriales-sostenibles-responsables-y-competitivos-1074932.aspx",
-    "title": "Gobierno promueve parques industriales sostenibles, responsables y competitivos",
-    "snippet": "El Ministerio de la Producción (Produce) aprobó la modificación de los “Lineamientos para la promoción y gestión sostenible de los parques industriales del Sistema Nacional de Parques Industriales (SNPI)”, con la finalid...",
-    "date": "2026-05-13T20:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-promueve-parques-industriales-sostenibles-responsables-y-competitivos-1074932.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-instagram-lanza-instants-una-nueva-forma-compartir-fotos-espontaneas-como-usarlo-1074943.aspx",
-    "title": "Instagram lanza Instants, una nueva forma de compartir fotos espontáneas ¿Cómo usarlo?",
-    "snippet": "Instagram lanza Instants, una nueva forma de compartir fotos espontáneas y sin filtros con tus amigos en el momento. Las instantáneas son efímeras, desaparecen una vez que alguien las abre y no se pueden volver a ver des...",
-    "date": "2026-05-13T20:29:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-instagram-lanza-instants-una-nueva-forma-compartir-fotos-espontaneas-como-usarlo-1074943.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMi0gFBVV95cUxQWVlvVTdIT0JyX1ZtNFdoLV9QYVlRYTB0Zi0tWkQ0MEVjemlxdHphYVNQOE9uVDZtWEdmcmpwV2hYdk80MEdEc18wbHhUSTJpb21sdXdvTEZlVGp6eld4bzRJcHkzTmU0cnZSSW1mY2hoMVk0LTZrY1hqOUo1bE9hSGVtWWV1TEluWVhGcEhMRXFBNnYtUUxPSldWbTJhUjdfeVZTSzNlVmQ1blRDdzVhMm10cUZEaVY0TG5yNE5idTBGNFlXU2NRU0dXMmhObU5mdFE",
-    "title": "Indecopi sanciona a centro comercial de Cusco por caso de presunta agresión sexual a menor - TVPerú",
-    "snippet": "Indecopi sanciona a centro comercial de Cusco por caso de presunta agresión sexual a menor  TVPerú...",
-    "date": "2026-05-13T20:27:09",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWVlvVTdIT0JyX1ZtNFdoLV9QYVlRYTB0Zi0tWkQ0MEVjemlxdHphYVNQOE9uVDZtWEdmcmpwV2hYdk80MEdEc18wbHhUSTJpb21sdXdvTEZlVGp6eld4bzRJcHkzTmU0cnZSSW1mY2hoMVk0LTZrY1hqOUo1bE9hSGVtWWV1TEluWVhGcEhMRXFBNnYtUUxPSldWbTJhUjdfeVZTSzNlVmQ1blRDdzVhMm10cUZEaVY0TG5yNE5idTBGNFlXU2NRU0dXMmhObU5mdFE?oc=5",
-    "category": "MERCADO"
   }
 ]
