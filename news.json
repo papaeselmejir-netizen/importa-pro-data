@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-corte-del-callao-entrega-a-domicilio-depositos-judiciales-a-personas-vulnerables-1075297.aspx",
+    "title": "Corte del Callao entrega a domicilio depósitos judiciales a personas vulnerables",
+    "snippet": "El presidente de la Corte Superior de Justicia del Callao, Miguel Ricardo Castañeda Moya, puso en marcha “Rapiendosos”, un servicio gratuito que entregará endosos judiciales en la puerta de la casa de alimentistas y pers...",
+    "date": "2026-05-15T23:43:14",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-corte-del-callao-entrega-a-domicilio-depositos-judiciales-a-personas-vulnerables-1075297.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1688596",
+    "title": "Peru Travel Mart 2026: más de 200 operadores turísticos de 29 países interesados en destinos peruanos",
+    "snippet": "Destacan empresarios de países como China, Australia, Estados Unidos, Brasil e India. La feria turística proyecta generar compromisos comerciales por alrededor de US$19 millones....",
+    "date": "2026-05-15T23:11:17",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/peru-travel-mart-2026-cuales-son-los-destinos-peruanos-por-mas-de-200-operadores-turisticos-de-29-paises-noticia-1688596",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436128",
+    "title": "Índice Intra-Asia de Drewry alcanza su nivel más alto en casi dos años",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Índice de Contenedores Intra-Asia (IACI) de Drewry subió a 939 dólares por contenedor de 40 pies esta semana,\nLa entrada Índice Intra-Asia de Drewry alcanza su nivel más ...",
+    "date": "2026-05-15T23:00:48",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/indice-intra-asia-de-drewry-alcanza-su-nivel-mas-alto-en-casi-dos-anos/",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=436202",
     "title": "Brasil: Avanzan los trabajos de dragado en canal de navegación del Puerto de Itajaí",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Itajaí (Brasil) actualizó los avances de los trabajos de dragado en su\nLa entrada Brasil: Avanzan los trabajos de dragado en canal de navegación de...",
@@ -1321,32 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-christian-cueva-fue-contactado-por-dt-carlos-desio-para-sea-refuerzo-sport-boys-1075103.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/padres-helicoptero-al-averigualo-malas-asi-crianza-fafo-que-divide-a-expertos",
-    "title": "De los \"padres helicóptero\" al \"averígualo por las malas\": así es la crianza FAFO que divide a los expertos",
-    "snippet": "Internet y las redes sociales se han convertido en un terreno fértil para el debate sobre cómo se tienen que criar a los niños, algo a lo que recurren sobre todo los padres primerizos que quieren saber cuál es el mejor m...",
-    "date": "2026-05-14T18:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/padres-helicoptero-al-averigualo-malas-asi-crianza-fafo-que-divide-a-expertos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435916",
-    "title": "OMI califica abandono de marineros en el estrecho de Ormuz como algo “profundamente preocupante”",
-    "snippet": "Por Redacción PortalPortuario/Agencia Anadolu @PortalPortuario El secretario general de la Organización Marítima Internacional (OMI), Arsenio Domínguez, declaró que un número\nLa entrada OMI califica abandono de marineros...",
-    "date": "2026-05-14T18:00:13",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/omi-califica-abandono-de-marineros-en-el-estrecho-de-ormuz-como-algo-profundamente-preocupante/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atencion-trabajadores-cts-no-puede-ser-depositada-manera-fraccionada-1075092.aspx",
-    "title": "Atención trabajadores: la CTS no puede ser depositada de manera fraccionada",
-    "snippet": "Mañana vence el plazo para que los empleadores cumplan con el depósito de la CTS para sus trabajadores. En este caso es necesario precisar que este depósito no se puede hacer por partes, de hacerlo el empleador se hará s...",
-    "date": "2026-05-14T18:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atencion-trabajadores-cts-no-puede-ser-depositada-manera-fraccionada-1075092.aspx",
-    "category": "MERCADO"
   }
 ]
