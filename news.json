@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.xataka.com/robotica-e-ia/samsung-hyundai-lg-estan-poniendo-dinero-enigmatica-startup-quiere-ser-tsmc-datos-para-robots",
+    "title": "Samsung, Hyundai y LG están poniendo dinero en una enigmática startup: quiere ser el “TSMC” de los datos para robots",
+    "snippet": "Durante los últimos años hemos visto cómo la inteligencia artificial avanzaba sobre una materia prima relativamente abundante: texto, imágenes, vídeos y código publicado en la web. Con los robots, el terreno cambia por c...",
+    "date": "2026-05-15T07:31:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/samsung-hyundai-lg-estan-poniendo-dinero-enigmatica-startup-quiere-ser-tsmc-datos-para-robots",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ue-quiere-que-renfe-venda-billetes-iryo-ouigo-su-propia-web-palo-a-monopolios-ferroviarios-europeos",
+    "title": "La UE quiere que Renfe venda billetes de Iryo y Ouigo en su propia web: un palo a los monopolios ferroviarios europeos",
+    "snippet": "La Comisión Europea ha presentado un paquete legislativo que obliga a los grandes operadores ferroviarios a abrir sus plataformas de venta a otras compañías. Y Renfe, principal operador en España, está en el punto de mir...",
+    "date": "2026-05-15T07:01:31",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ue-quiere-que-renfe-venda-billetes-iryo-ouigo-su-propia-web-palo-a-monopolios-ferroviarios-europeos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435814",
+    "title": "Puerto de Motril pone en marcha protocolo específico de actuación para operaciones de cruceros",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Motril puso en marcha un protocolo específico de actuación para las operaciones de\nLa entrada Puerto de Motril pone en marcha protocolo específico de actuación ...",
+    "date": "2026-05-15T07:00:22",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-motril-pone-en-marcha-protocolo-especifico-de-actuacion-para-operaciones-de-cruceros/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=435579",
     "title": "Puerto de la Bahía de Cádiz acerca regeneración marina e innovación azul en jornada sobre biodiversidad",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de la Bahía de Cádiz en colaboración con la compañía tecnológica Ocean Ecostructures,\nLa entrada Puerto de la Bahía de Cádiz acerca regeneración marin...",
@@ -1320,33 +1347,6 @@
     "date": "2026-05-14T05:02:26",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-conoce-cronograma-2026-pagos-sueldos-y-pensiones-el-estado-1056807.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minsa-malas-posturas-pueden-ocasionar-lesiones-cronicas-manos-y-munecas-1075030.aspx",
-    "title": "Minsa: Malas posturas pueden ocasionar lesiones crónicas en manos y muñecas",
-    "snippet": "Hoy en día, muchos jóvenes pasan largas horas frente a una computadora o consola debido al auge de los deportes electrónicos y videojuegos. Ante esta realidad, el Ministerio de Salud (Minsa) brinda recomendaciones debido...",
-    "date": "2026-05-14T04:51:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minsa-malas-posturas-pueden-ocasionar-lesiones-cronicas-manos-y-munecas-1075030.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-xi-advierte-a-trump-del-riesgo-un-conflicto-si-se-maneja-mal-cuestion-taiwan-1075028.aspx",
-    "title": "Xi advierte a Trump del riesgo de un \"conflicto\" si se maneja mal la cuestión de Taiwán",
-    "snippet": "El presidente chino, Xi Jinping, le dijo este jueves a su par estadounidense, Donald Trump, que sus países podrían \"entrar en conflicto\" si no se maneja adecuadamente la cuestión de Taiwán, una isla autónoma que Pekín re...",
-    "date": "2026-05-14T04:29:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-xi-advierte-a-trump-del-riesgo-un-conflicto-si-se-maneja-mal-cuestion-taiwan-1075028.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cumbre-pekin-presidente-trump-augura-un-futuro-fantastico-para-eeuu-y-china-1075025.aspx",
-    "title": "Cumbre en Pekín: presidente Trump augura un \"futuro fantástico\" para EE.UU. y China",
-    "snippet": "El presidente estadounidense, Donald Trump, le aseguró este jueves a su par chino, Xi Jinping, que ambos países tendrán \"un futuro fantástico juntos\", al dar inicio a su esperada cumbre en Pekín para tratar temas espinos...",
-    "date": "2026-05-14T04:07:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cumbre-pekin-presidente-trump-augura-un-futuro-fantastico-para-eeuu-y-china-1075025.aspx",
     "category": "MERCADO"
   }
 ]
