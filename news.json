@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.engadget.com/2173529/apple-reportedly-testing-intel-18a-p-for-apple-silicon/",
+    "title": "Apple reportedly testing Intel's 18A-P process to make iPhone and Mac chips",
+    "snippet": "The initial run will focus on older Apple Silicon systems....",
+    "date": "2026-05-15T10:01:42",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2173529/apple-reportedly-testing-intel-18a-p-for-apple-silicon/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/despues-2025-catastrofico-ventas-tesla-siguen-cayendo-china-solucion-vieja-conocida",
+    "title": "Después de un 2025 catastrófico, las ventas de Tesla siguen cayendo en China. La solución es una vieja conocida",
+    "snippet": "Las ventas de coches eléctricos han caído en China. Aunque el descalabro no es tan alto como el de los vehículos puros de combustión, el retroceso en el mercado está arrojando resultados muy malos para Tesla. Y la empres...",
+    "date": "2026-05-15T10:01:31",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/despues-2025-catastrofico-ventas-tesla-siguen-cayendo-china-solucion-vieja-conocida",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/metodo-sencillo-para-no-fallar-nunca-eligiendo-vino-restaurante-ir-a-segundo-barato",
+    "title": "El método más sencillo para no fallar nunca eligiendo vino en un restaurante: ir a por el segundo más barato",
+    "snippet": "No siempre es sencillo elegir el vino adecuado cuando acudes a un restaurante. Si la carta está plagada de nombres y bodegas desconocidas, ¿qué instrumentos tienes a tu alcance para informar tu decisión? El precio, natur...",
+    "date": "2026-05-15T10:01:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/metodo-sencillo-para-no-fallar-nunca-eligiendo-vino-restaurante-ir-a-segundo-barato",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/para-sorpresa-nadie-empresas-que-despiden-a-empleados-ia-no-estan-teniendo-beneficios-que-esperaban",
+    "title": "Para sorpresa de nadie, las empresas que despiden a empleados por la IA no están teniendo los beneficios que esperaban",
+    "snippet": "Llevamos años escuchando que la inteligencia artificial iba a transformar el mercado laboral tal y como lo conocemos. Al parecer, las empresas que apostaran fuerte por la automatización ganarían productividad, ahorrarían...",
+    "date": "2026-05-15T09:31:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/para-sorpresa-nadie-empresas-que-despiden-a-empleados-ia-no-estan-teniendo-beneficios-que-esperaban",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/guerra-ucrania-ha-entrado-fase-desquiciada-que-soldados-estan-disparando-a-sus-propios-drones",
+    "title": "La guerra en Ucrania ha entrado en una fase tan desquiciada que los soldados están disparando a sus propios drones",
+    "snippet": "En 1943, durante una misión nocturna sobre Europa, varios pilotos británicos regresaron convencidos de que habían sido perseguidos por extraños objetos luminosos que aparecían y desaparecían alrededor de sus aviones. Alg...",
+    "date": "2026-05-15T09:01:31",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/guerra-ucrania-ha-entrado-fase-desquiciada-que-soldados-estan-disparando-a-sus-propios-drones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435861",
+    "title": "Finlandia: Puerto de Katajanokka informa resultados positivos en monitoreo de la calidad del aire en sus operaciones",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad de Servicios Ambientales de la Región de Helsinki (HSY) publicó el monitoreo de la\nLa entrada Finlandia: Puerto de Katajanokka informa resultados positivos en m...",
+    "date": "2026-05-15T09:00:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/finlandia-puerto-de-katajanokka-informa-resultados-positivos-en-monitoreo-de-la-calidad-del-aire-en-sus-operaciones/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/cazando-gangas-tecnologia-hoy-15-mayo-ofertas-packs-teles-moviles-consolas",
+    "title": "Cazando Gangas en tecnología, hoy 15 de mayo con ofertas en packs de teles, móviles, consolas y más",
+    "snippet": "Hoy es viernes, y eso quiere decir que vuelve un nuevo Cazando Gangas. ¿Buscas un móvil y estás buscando buenos descuentos? ¿Aprovechando el Mundial de fútbol quieres renovar el televisor del salón? Pues mucho ojo porque...",
+    "date": "2026-05-15T08:45:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/cazando-gangas-tecnologia-hoy-15-mayo-ofertas-packs-teles-moviles-consolas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/mercadona-tiene-arma-mayor-que-su-marca-blanca-listo-para-comer-mayor-rentabilidad-ganancia-articulo",
+    "title": "El motor de Mercadona no es la marca blanca, sino aplastar en rentabilidad a sus rivales ganando menos por producto",
+    "snippet": "Podrá gustarte más o menos su catálogo, su estrategia comercial o incluso los pronósticos culinario-apocalípticos de su presidente, pero hay algo innegable: Mercadona hace tiempo que dejó de ser una cadena de tiendas par...",
+    "date": "2026-05-15T08:31:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/mercadona-tiene-arma-mayor-que-su-marca-blanca-listo-para-comer-mayor-rentabilidad-ganancia-articulo",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/a-spacex-se-le-queda-pequena-texas-esta-buscando-otras-bases-estados-unidos-e-incluso-extranjero",
+    "title": "A SpaceX se le queda pequeña Texas: ya está buscando otras bases en Estados Unidos (e incluso el extranjero)",
+    "snippet": "El ritmo de lanzamientos de SpaceX ya es vertiginoso, pero la compañía de Elon Musk asegura que esto no es nada. En el futuro, esperan hacer muchísimos más lanzamientos. De hecho, su objetivo más ambicioso es llegar a ha...",
+    "date": "2026-05-15T08:01:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/a-spacex-se-le-queda-pequena-texas-esta-buscando-otras-bases-estados-unidos-e-incluso-extranjero",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=435837",
+    "title": "Grecia: Puerto del Pireo recibe delegación de organizaciones portuarias y construcción naval de Israel",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto del Pireo (Grecia) recibió la visita de una delegación de organizaciones portuarias y de\nLa entrada Grecia: Puerto del Pireo recibe delegación de organizaciones po...",
+    "date": "2026-05-15T08:00:49",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/grecia-puerto-del-pireo-recibe-delegacion-de-organizaciones-portuarias-y-construccion-naval-de-israel/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cts-2026-cinco-recomendaciones-para-usar-este-dinero-y-mejorar-tus-finanzas-1075172.aspx",
+    "title": "CTS 2026: cinco recomendaciones para usar este dinero y mejorar tus finanzas",
+    "snippet": "Cerca de 6 millones de trabajadores peruanos podrán disponer libremente del 100% de su Compensación por Tiempo de Servicios (CTS) hasta diciembre de 2026, luego de la aprobación de la norma que autoriza el retiro total d...",
+    "date": "2026-05-15T08:00:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cts-2026-cinco-recomendaciones-para-usar-este-dinero-y-mejorar-tus-finanzas-1075172.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/samsung-hyundai-lg-estan-poniendo-dinero-enigmatica-startup-quiere-ser-tsmc-datos-para-robots",
     "title": "Samsung, Hyundai y LG están poniendo dinero en una enigmática startup: quiere ser el “TSMC” de los datos para robots",
     "snippet": "Durante los últimos años hemos visto cómo la inteligencia artificial avanzaba sobre una materia prima relativamente abundante: texto, imágenes, vídeos y código publicado en la web. Con los robots, el terreno cambia por c...",
@@ -639,6 +738,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/espacio/mayor-problema-vivir-luna-sus-noches-nasa-cree-haber-encontrado-solucion-para-no-quedarse-electricidad",
+    "title": "La NASA lleva cinco años desarrollando una batería para la Luna que se recarga sola, únicamente con dos “ingredientes”",
+    "snippet": "Si queremos construir bases en la Luna o en Marte, debemos ir trabajando en el desarrollo de tecnologías que hagan más fácil la vida de los colonos lunares. Por ejemplo, es importante pensar en formas de obtener energía....",
+    "date": "2026-05-14T17:01:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/mayor-problema-vivir-luna-sus-noches-nasa-cree-haber-encontrado-solucion-para-no-quedarse-electricidad",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://rpp.pe/1688294",
     "title": "Precio del dólar Perú y tipo de cambio hoy 14 de mayo del 2026 es de S/ 3.42",
     "snippet": "En Perú, el tipo de cambio para hoy jueves 14 de mayo es de S/3.42 según el Banco Central de Reserva Del Perú....",
@@ -1240,113 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/ordenadores/google-tiene-uno-retos-colosales-su-historia-poner-ordenador-android-tu-mesa",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/sensor-grande-vs-sensor-pequeno-que-gran-batalla-camaras-moviles-esta-tamano-no-megapixeles",
-    "title": "Sensor grande vs sensor pequeño: por qué la gran batalla de las cámaras móviles está en el tamaño y no en los megapíxeles",
-    "snippet": "Qué difícil puede llegar a ser saber si la cámara de un móvil es mejor que la de otro. Un ejemplo a modo de adivinanza, a ver si podéis ver, de un simple vistazo, qué cámara es mejor. Son las dos cámaras principales de d...",
-    "date": "2026-05-14T08:15:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/sensor-grande-vs-sensor-pequeno-que-gran-batalla-camaras-moviles-esta-tamano-no-megapixeles",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/europa-china-se-juegan-carrera-primer-observatorio-ondas-gravitacionales-espacio",
-    "title": "Europa y China se la juegan en la carrera por el primer observatorio de ondas gravitacionales en el espacio",
-    "snippet": "Los detectores de ondas gravitacionales terrestres, como el famoso LIGO, han hecho descubrimientos muy interesantes en la última década. Sin embargo, hay un gran consenso que apunta a que sería muy útil detectar este fen...",
-    "date": "2026-05-14T08:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/europa-china-se-juegan-carrera-primer-observatorio-ondas-gravitacionales-espacio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/europa-china-se-juegan-carrera-primer-observatorio-ondas-gravitacionales-espacio",
-    "title": "LIGO lo hizo desde tierra. Ahora China quiere dar el salto al espacio para detectar ondas gravitacionales con más claridad",
-    "snippet": "Los detectores de ondas gravitacionales terrestres, como el famoso LIGO, han hecho descubrimientos muy interesantes en la última década. Sin embargo, hay un gran consenso que apunta a que sería muy útil detectar este fen...",
-    "date": "2026-05-14T08:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/europa-china-se-juegan-carrera-primer-observatorio-ondas-gravitacionales-espacio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435712",
-    "title": "Yang Ming informa ingresos consolidados de 1.220 millones de dólares durante primer trimestre de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Yang Ming Marine Transport hizo público su informe financiero correspondiente al primer trimestre del\nLa entrada Yang Ming informa ingresos consolidados de 1.220 ...",
-    "date": "2026-05-14T08:00:47",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/yang-ming-informa-ingresos-consolidados-de-1-220-millones-de-dolares-durante-primer-trimestre-de-2026/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/desproporcionado-tecnicamente-imposible-renfe-le-deja-claro-a-iryo-cnmc-su-postura-guerra-talleres",
-    "title": "\"Desproporcionado y técnicamente imposible\": Renfe le deja claro a Iryo y la CNMC su postura en la guerra de los talleres",
-    "snippet": "El culebrón Iryo-Renfe sigue adelante. Cada día que pasa tenemos un nuevo capítulo, un nuevo cruce de declaraciones, nuevas cifras encima de la mesa. Y cada día que pasa, Iryo sigue encontrándose con la puerta de los tal...",
-    "date": "2026-05-14T07:31:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/desproporcionado-tecnicamente-imposible-renfe-le-deja-claro-a-iryo-cnmc-su-postura-guerra-talleres",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/desproporcionado-tecnicamente-imposible-renfe-le-deja-claro-a-iryo-cnmc-su-postura-guerra-talleres",
-    "title": "La CNMC quiere obliga a Renfe a que ceda sus talleres a Iryo. Renfe tiene un mensaje: no hay tiempo",
-    "snippet": "El culebrón Iryo-Renfe sigue adelante. Cada día que pasa tenemos un nuevo capítulo, un nuevo cruce de declaraciones, nuevas cifras encima de la mesa. Y cada día que pasa, Iryo sigue encontrándose con la puerta de los tal...",
-    "date": "2026-05-14T07:31:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/desproporcionado-tecnicamente-imposible-renfe-le-deja-claro-a-iryo-cnmc-su-postura-guerra-talleres",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/nadie-quiere-centro-datos-cerca-asi-que-startup-ha-tenido-idea-loca-que-gente-se-instale-uno-jardin",
-    "title": "Nadie quiere un centro de datos cerca, así que una startup ha tenido una idea loca: que la gente se instale uno en el jardín",
-    "snippet": "Los centros de datos se han convertido en las nuevas antenas de telefonía: nadie quiere vivir cerca de uno, ni aunque ofrezcan una pasta para construir uno. Hay motivos de peso, como la contaminación o que disparan los p...",
-    "date": "2026-05-14T07:05:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/nadie-quiere-centro-datos-cerca-asi-que-startup-ha-tenido-idea-loca-que-gente-se-instale-uno-jardin",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
-    "title": "Apple backs Google after EU orders Android be opened up to AI rivals",
-    "snippet": "The company agrees with Google that it would put European users' privacy and safety at risk....",
-    "date": "2026-05-14T07:03:16",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2172631/apple-comments-back-google-eu-ai-order-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435673",
-    "title": "MSC Poesia hace primera escala en Puerto de Ketchikan",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El MSC Poesia llegó al Puerto de Ketchikan como parte de la temporada inaugural de MSC\nLa entrada MSC Poesia hace primera escala en Puerto de Ketchikan se publicó primero en...",
-    "date": "2026-05-14T06:00:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/msc-poesia-hace-primera-escala-en-puerto-de-ketchikan/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3122444",
-    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-    "snippet": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption....",
-    "date": "2026-05-14T05:24:39",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7v9ld262n4o#0",
-    "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-    "snippet": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors....",
-    "date": "2026-05-14T05:10:45",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-conoce-cronograma-2026-pagos-sueldos-y-pensiones-el-estado-1056807.aspx",
-    "title": "Conoce el cronograma 2026 de pagos de sueldos y pensiones en el Estado",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
-    "date": "2026-05-14T05:02:26",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-conoce-cronograma-2026-pagos-sueldos-y-pensiones-el-estado-1056807.aspx",
-    "category": "MERCADO"
   }
 ]
