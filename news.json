@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3122332",
+    "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
+    "snippet": "Founder and CEO RJ Scaringe has a knack for raising money. So far, his three startups have raised more than $12.3 billion....",
+    "date": "2026-05-15T20:30:20",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-amazonas-presenta-cronograma-oficial-del-raymi-llaqta-su-fiesta-mas-emblematica-1075292.aspx",
+    "title": "Amazonas presenta cronograma oficial del Raymi Llaqta, su fiesta más emblemática",
+    "snippet": "La región Amazonas última los detalles de la Fiesta del Raymi Llaqta de los Chachapoya 2026, su celebración más emblemática que simboliza la identidad cultural de este departamento, con la presentación oficial del cronog...",
+    "date": "2026-05-15T20:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-amazonas-presenta-cronograma-oficial-del-raymi-llaqta-su-fiesta-mas-emblematica-1075292.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ucayali-incautan-mas-30-toneladas-insumos-quimicos-destinados-para-uso-ilegal-1075294.aspx",
+    "title": "Ucayali: incautan más de 30 toneladas de insumos químicos destinados para uso ilegal",
+    "snippet": "Agentes de la Superintendencia Nacional de Aduanas y Administración Tributaria (Sunat) incautaron más de 30 toneladas de insumos químicos transportados sin documentación en Pucallpa. Las autoridades advirtieron que los p...",
+    "date": "2026-05-15T20:06:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ucayali-incautan-mas-30-toneladas-insumos-quimicos-destinados-para-uso-ilegal-1075294.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/ue-quiso-que-elegir-navegador-fuera-facil-mozilla-acaba-revelar-cuantas-veces-fue-elegido-firefox",
+    "title": "La UE quiso que elegir navegador fuera más fácil: Mozilla acaba de revelar cuántas veces fue elegido Firefox",
+    "snippet": "Durante años, elegir navegador ha sido una de esas decisiones que parecían estar en nuestras manos, pero que en la práctica venían bastante condicionadas por el dispositivo que sacábamos de la caja. En el iPhone estaba S...",
+    "date": "2026-05-15T20:01:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/ue-quiso-que-elegir-navegador-fuera-facil-mozilla-acaba-revelar-cuantas-veces-fue-elegido-firefox",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/ia-ha-puesto-patas-arriba-vieja-regla-servidores-memoria-no-quiere-vivir-cada-maquina",
     "title": "La IA ha puesto patas arriba una vieja regla de los servidores: la memoria ya no quiere vivir en cada máquina",
     "snippet": "Para muchos de nosotros, la escasez de memoria puede sonar primero a un problema cercano al consumo doméstico: módulos de RAM, componentes y dispositivos condicionados por una demanda cada vez más tensionada. Pero el fen...",
@@ -1312,41 +1348,5 @@
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/empresas-que-no-depositen-cts-a-trabajadores-podrian-ser-multadas-hasta-con-s-143000-advierte-la-ccl-noticia-1688003",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/rusia-corea-norte-van-a-estar-unidos-carretera-primera-vez-historia-puente-construido-tiempo-record",
-    "title": "Rusia y Corea del Norte van a estar unidos por carretera por primera vez en la historia: con un puente construido en tiempo récord",
-    "snippet": "Las imágenes de satélite revisadas por la BBC confirman que la primera carretera de conexión directa entre Moscú y Pyongyang estará operativa en las próximas semanas. Es decir, que en breves existirá un puente que una po...",
-    "date": "2026-05-14T17:15:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/rusia-corea-norte-van-a-estar-unidos-carretera-primera-vez-historia-puente-construido-tiempo-record",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/mayor-problema-vivir-luna-sus-noches-nasa-cree-haber-encontrado-solucion-para-no-quedarse-electricidad",
-    "title": "El mayor problema de vivir en la Luna son sus noches. La NASA cree haber encontrado la solución para no quedarse sin electricidad",
-    "snippet": "Si queremos construir bases en la Luna o en Marte, debemos ir trabajando en el desarrollo de tecnologías que hagan más fácil la vida de los colonos lunares. Por ejemplo, es importante pensar en formas de obtener energía....",
-    "date": "2026-05-14T17:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/mayor-problema-vivir-luna-sus-noches-nasa-cree-haber-encontrado-solucion-para-no-quedarse-electricidad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/mayor-problema-vivir-luna-sus-noches-nasa-cree-haber-encontrado-solucion-para-no-quedarse-electricidad",
-    "title": "La NASA lleva cinco años desarrollando una batería para la Luna que se recarga sola, únicamente con dos “ingredientes”",
-    "snippet": "Si queremos construir bases en la Luna o en Marte, debemos ir trabajando en el desarrollo de tecnologías que hagan más fácil la vida de los colonos lunares. Por ejemplo, es importante pensar en formas de obtener energía....",
-    "date": "2026-05-14T17:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/mayor-problema-vivir-luna-sus-noches-nasa-cree-haber-encontrado-solucion-para-no-quedarse-electricidad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1688294",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 14 de mayo del 2026 es de S/ 3.42",
-    "snippet": "En Perú, el tipo de cambio para hoy jueves 14 de mayo es de S/3.42 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-05-14T17:00:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-14-de-mayo-del-2026-noticia-1688294",
-    "category": "TRIBUTARIO"
   }
 ]
