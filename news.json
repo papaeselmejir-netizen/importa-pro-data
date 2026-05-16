@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=436240",
+    "title": "MSC posee casi la mitad del mercado entre norte de Europa y Mediterráneo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Mediterranean Shipping Company (MSC) controla casi la mitad de toda la capacidad de portacontenedores desplegada en\nLa entrada MSC posee casi la mitad del mercado entre nort...",
+    "date": "2026-05-16T02:00:10",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/msc-posee-casi-la-mitad-del-mercado-entre-norte-de-europa-y-mediterraneo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436122",
+    "title": "Fesco entrega primer lote de contenedores procedentes de Rusia a Tanzania",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Grupo de Transporte Fesco completó su primer envío de exportación desde Rusia a uno de\nLa entrada Fesco entrega primer lote de contenedores procedentes de Rusia a Tanzani...",
+    "date": "2026-05-16T01:00:14",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/fesco-entrega-primer-lote-de-contenedores-procedentes-de-rusia-a-tanzania/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dia-nacional-de-mype-se-reunen-empresarios-cuero-calzado-textil-y-confecciones-1075308.aspx",
+    "title": "Día Nacional de la Mype: se reúnen empresarios de cuero, calzado, textil y confecciones",
+    "snippet": "El Instituto Tecnológico de la Producción (ITP), entidad adscrita al Ministerio de la Producción (Produce), informó que el CITEccal Lima reunió a empresarios de los sectores cuero, calzado, textil y confecciones durante ...",
+    "date": "2026-05-16T01:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dia-nacional-de-mype-se-reunen-empresarios-cuero-calzado-textil-y-confecciones-1075308.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1688603",
+    "title": "Este domingo inician los desvios en Morales Duárez por la construcción del puente definitivo al aeropuerto Jorge Chávez",
+    "snippet": "El Ministerio de Transportes indicó que, pese a los trabajos, no se interrumpirá totalmente el tránsito en la avenida Morales Duárez. Conoce el plan de desvío....",
+    "date": "2026-05-16T00:48:24",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/peru/actualidad/aeropuerto-jorge-chavez-inician-desvios-en-morales-duarez-por-la-construccion-del-puente-definitivo-noticia-1688603",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-congreso-proponen-pnp-cuente-unidad-ejecutora-la-region-callao-1075305.aspx",
+    "title": "Congreso: proponen que PNP cuente con unidad ejecutora en la región Callao",
+    "snippet": "La congresista Auristela Obando (Fuerza Popular), anunció a presentación de una propuesta para que la Policía Nacional del Perú (PNP) y la Región Callao cuente con una unidad ejecutora propia....",
+    "date": "2026-05-16T00:01:40",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-congreso-proponen-pnp-cuente-unidad-ejecutora-la-region-callao-1075305.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dolar-cerro-estable-s-3437-pese-a-presion-inflacionaria-global-1075313.aspx",
+    "title": "Dólar cerró estable en S/ 3.437 pese a presión inflacionaria global",
+    "snippet": "El dólar cerró la jornada de este viernes en 3.437 soles y acumuló una ligera alza semanal de 0.06% en medio del fortalecimiento global de la divisa estadounidense y las presiones inflacionarias derivadas de las tensione...",
+    "date": "2026-05-16T00:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dolar-cerro-estable-s-3437-pese-a-presion-inflacionaria-global-1075313.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-metro-lima-y-callao-cuanto-le-falta-a-delia-para-llegar-a-estacion-final-1075318.aspx",
+    "title": "Metro de Lima y Callao: ¿cuánto le falta a ‘Delia’ para llegar a la estación final?",
+    "snippet": "La tuneladora ‘Delia’ de la Línea 2 del Metro de Lima y Callao está próxima a culminar sus labores en la construcción del túnel del primer tren subterráneo del Perú. Esta vez, llegó a la Estación E-05 Carmen de la Legua ...",
+    "date": "2026-05-15T23:56:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-metro-lima-y-callao-cuanto-le-falta-a-delia-para-llegar-a-estacion-final-1075318.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-corte-del-callao-entrega-a-domicilio-depositos-judiciales-a-personas-vulnerables-1075297.aspx",
     "title": "Corte del Callao entrega a domicilio depósitos judiciales a personas vulnerables",
     "snippet": "El presidente de la Corte Superior de Justicia del Callao, Miguel Ricardo Castañeda Moya, puso en marcha “Rapiendosos”, un servicio gratuito que entregará endosos judiciales en la puerta de la casa de alimentistas y pers...",
@@ -1284,69 +1347,6 @@
     "date": "2026-05-14T19:00:34",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/plantean-reconfigurar-modelo-logistico-chileno-a-traves-del-fortalecimiento-ferrovial-y-portuario-del-bio-bio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=930447",
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "snippet": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and oth...",
-    "date": "2026-05-14T19:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-accidente-chancay-bus-interprovincial-protagoniza-triple-choque-panamericana-norte-1075119.aspx",
-    "title": "Accidente en Chancay: bus interprovincial protagoniza triple choque en Panamericana Norte",
-    "snippet": "Un bus interprovincial de la empresa Rosa protagonizó en las primeras horas de hoy jueves 14 de mayo un grave accidente de tránsito, que no causó víctimas mortales pero si varios heridos de consideración, al chocar con d...",
-    "date": "2026-05-14T18:58:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-accidente-chancay-bus-interprovincial-protagoniza-triple-choque-panamericana-norte-1075119.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=930573",
-    "title": "Linux devs are fighting the new age-gated internet",
-    "snippet": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Andr...",
-    "date": "2026-05-14T18:58:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/hoy-prime-video-conclusion-mejor-serie-creador-the-sandman-llega-sorpresa-radical-su-duracion",
-    "title": "Hoy en Prime Video, la conclusión de la mejor serie del creador de 'The Sandman' llega con una sorpresa radical en su duración",
-    "snippet": "Tres años llevan millones de fans de 'Good Omens' atrapados en uno de los cliffhangers más crueles de la televisión reciente, con el que concluía la segunda temporada. Ahora, la conclusión de esta historia de amistad ent...",
-    "date": "2026-05-14T18:31:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/hoy-prime-video-conclusion-mejor-serie-creador-the-sandman-llega-sorpresa-radical-su-duracion",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-uni-gana-fondo-s-350-mil-para-ia-detectara-tala-ilegal-la-amazonia-1075109.aspx",
-    "title": "UNI gana fondo de S/ 350 mil para IA que detectará tala ilegal en la Amazonía",
-    "snippet": "Un equipo de investigadores de la Universidad Nacional de Ingeniería (UNI) obtuvo un financiamiento de 350 mil soles de Prociencia para desarrollar un sistema basado en inteligencia artificial que permitirá detectar tala...",
-    "date": "2026-05-14T18:18:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-uni-gana-fondo-s-350-mil-para-ia-detectara-tala-ilegal-la-amazonia-1075109.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/escudo-renovable-espanol-ha-funcionado-bien-que-ha-activado-su-propia-trampa-vuelve-iva-luz-al-21",
-    "title": "El \"escudo renovable\" español ha funcionado tan bien que ha activado su propia trampa: vuelve el IVA de la luz al 21%",
-    "snippet": "El IVA de la luz y el gas vuelve al 21% a partir del 1 de junio. Esa es la noticia del día, y antes de echarte las manos a la cabeza al pensar en tu próxima factura, respira, porque aquí hay mucha tela que cortar. Segura...",
-    "date": "2026-05-14T18:15:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/escudo-renovable-espanol-ha-funcionado-bien-que-ha-activado-su-propia-trampa-vuelve-iva-luz-al-21",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-christian-cueva-fue-contactado-por-dt-carlos-desio-para-sea-refuerzo-sport-boys-1075103.aspx",
-    "title": "Christian Cueva fue contactado por el DT Carlos Desio para que sea refuerzo de Sport Boys",
-    "snippet": "El entrenador de Sport Boys, Carlos Desio, confirmó que ha mantenido conversaciones con Christian Cueva, donde ha intentado convencerlo de venir al Callao, para que pueda reforzar al equipo rosado de cara al Torneo Claus...",
-    "date": "2026-05-14T18:07:40",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-christian-cueva-fue-contactado-por-dt-carlos-desio-para-sea-refuerzo-sport-boys-1075103.aspx",
     "category": "LOGÍSTICA"
   }
 ]
