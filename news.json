@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-cusco-mimp-fortalece-autonomia-economica-mas-200-mujeres-emprendedoras-1075402.aspx",
+    "title": "Cusco: MIMP fortalece autonomía económica de más de 200 mujeres emprendedoras",
+    "snippet": "La ministra de la Mujer y Poblaciones Vulnerables (MIMP), Edith Pariona, visitó a las artesanas de Cusco y destacó que la Plataforma Mujer Emprendedora de su sector tiene registradas a más de 200 mujeres emprendedoras de...",
+    "date": "2026-05-16T20:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cusco-mimp-fortalece-autonomia-economica-mas-200-mujeres-emprendedoras-1075402.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436065",
+    "title": "Puerto de Algeciras supera 32 millones de toneladas de mercancías en primer cuatrimestre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Algeciras mostró un tráfico total acumulado en el primer tercio del año de\nLa entrada Puerto de Algeciras supera 32 millones de toneladas de mercancías en prime...",
+    "date": "2026-05-16T20:00:46",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-algeciras-supera-32-millones-de-toneladas-de-mercancias-en-primer-cuatrimestre/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/estar-siempre-alerta-tiene-premio-personas-ansiosas-enferman-porque-su-cerebro-detecta-riesgos-resto",
     "title": "Estar siempre en alerta tiene premio: las personas ansiosas enferman menos porque su cerebro detecta los riesgos antes que el resto",
     "snippet": "Existe un estereotipo profundamente arraigado en nuestra sociedad: la persona ansiosa, la que se preocupa por todo, la que revisa sus síntomas en internet a las tres de la mañana, está condenada a vivir menos. Solemos pe...",
@@ -1330,23 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/a-spacex-se-le-queda-pequena-texas-esta-buscando-otras-bases-estados-unidos-e-incluso-extranjero",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435837",
-    "title": "Grecia: Puerto del Pireo recibe delegación de organizaciones portuarias y construcción naval de Israel",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto del Pireo (Grecia) recibió la visita de una delegación de organizaciones portuarias y de\nLa entrada Grecia: Puerto del Pireo recibe delegación de organizaciones po...",
-    "date": "2026-05-15T08:00:49",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/grecia-puerto-del-pireo-recibe-delegacion-de-organizaciones-portuarias-y-construccion-naval-de-israel/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cts-2026-cinco-recomendaciones-para-usar-este-dinero-y-mejorar-tus-finanzas-1075172.aspx",
-    "title": "CTS 2026: cinco recomendaciones para usar este dinero y mejorar tus finanzas",
-    "snippet": "Cerca de 6 millones de trabajadores peruanos podrán disponer libremente del 100% de su Compensación por Tiempo de Servicios (CTS) hasta diciembre de 2026, luego de la aprobación de la norma que autoriza el retiro total d...",
-    "date": "2026-05-15T08:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cts-2026-cinco-recomendaciones-para-usar-este-dinero-y-mejorar-tus-finanzas-1075172.aspx",
-    "category": "MERCADO"
   }
 ]
