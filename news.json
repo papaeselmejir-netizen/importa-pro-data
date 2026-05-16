@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-congreso-subcomision-admite-a-tramite-denuncia-constitucional-contra-pedro-castillo-1075337.aspx",
+    "title": "Congreso: subcomisión admite a trámite denuncia constitucional contra Pedro Castillo",
+    "snippet": "La Subcomisión de Acusaciones Constitucionales (SAC) del Congreso, evaluó este viernes cinco informes de calificación relacionados con denuncias constitucionales contra exautoridades del Poder Ejecutivo, exfuncionarios, ...",
+    "date": "2026-05-16T04:07:32",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-congreso-subcomision-admite-a-tramite-denuncia-constitucional-contra-pedro-castillo-1075337.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436081",
+    "title": "Australia: Proyecto de Mejora en Puerto de Newcastle recibe pilotes y estructuras de acero",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Brady Marine &#38; Civil anotó un hito en el Proyecto de Mejora del Muelle 4 de Mayfield,\nLa entrada Australia: Proyecto de Mejora en Puerto de Newcastle recibe pilotes y es...",
+    "date": "2026-05-16T04:00:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/australia-proyecto-de-mejora-en-puerto-de-newcastle-recibe-pilotes-y-estructuras-de-acero/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gracias-al-inr-volvi-a-caminar-superacion-el-mayor-centro-rehabilitacion-del-pais-1075340.aspx",
+    "title": "“Gracias al INR volví a caminar”: superación en el mayor centro de rehabilitación del país",
+    "snippet": "Giovanna Walter Tiravanti (41), madre de familia procedente de Chiclayo, volvió a caminar luego de recibir una prótesis en el Instituto Nacional de Rehabilitación (INR) “Dra. Adriana Rebaza Flores” Amistad Perú-Japón tra...",
+    "date": "2026-05-16T03:50:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gracias-al-inr-volvi-a-caminar-superacion-el-mayor-centro-rehabilitacion-del-pais-1075340.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=436240",
     "title": "MSC posee casi la mitad del mercado entre norte de Europa y Mediterráneo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Mediterranean Shipping Company (MSC) controla casi la mitad de toda la capacidad de portacontenedores desplegada en\nLa entrada MSC posee casi la mitad del mercado entre nort...",
@@ -1321,32 +1348,5 @@
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
     "category": "MERCADO"
-  },
-  {
-    "id": "6a04c841c772513a5272652f",
-    "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
-    "snippet": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher....",
-    "date": "2026-05-14T19:04:47",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/dos-farmaceuticas-se-unen-para-hacer-medicamentos-orbita-depender-nasa-espacio-como-nueva-fabrica",
-    "title": "Dos farmacéuticas se unen para hacer medicamentos en órbita sin depender de la NASA: el espacio como nueva fábrica",
-    "snippet": "Dos empresas farmacéuticas se han asociado para poner en marcha un ambicioso plan de síntesis de fármacos en el espacio. No es una manía cara. Está más que comprobado que algunos medicamentos cuentan con ventajas añadida...",
-    "date": "2026-05-14T19:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/dos-farmaceuticas-se-unen-para-hacer-medicamentos-orbita-depender-nasa-espacio-como-nueva-fabrica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=435937",
-    "title": "Plantean reconfigurar modelo logístico chileno a través del fortalecimiento ferrovial y portuario del Bio Bio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Autoridades regionales, junto con representantes de ProChile y de Puerto Coronel, han manifestado la necesidad de\nLa entrada Plantean reconfigurar modelo logístico chileno a...",
-    "date": "2026-05-14T19:00:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/plantean-reconfigurar-modelo-logistico-chileno-a-traves-del-fortalecimiento-ferrovial-y-portuario-del-bio-bio/",
-    "category": "LOGÍSTICA"
   }
 ]
