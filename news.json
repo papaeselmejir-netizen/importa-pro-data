@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.xataka.com/robotica-e-ia/algunos-robots-humanoides-chinos-van-a-escuela-mision-ensenarles-a-trabajar-vida-real",
+    "title": "Algunos robots humanoides chinos ya van a la “escuela”: la misión es enseñarles a trabajar en la vida real",
+    "snippet": "Durante mucho tiempo, la gran conversación sobre inteligencia artificial ha girado alrededor de los modelos capaces de resumir, programar o generar imágenes. Pero cuando llevamos esa ambición al mundo físico, todo se cam...",
+    "date": "2026-05-17T19:00:42",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/algunos-robots-humanoides-chinos-van-a-escuela-mision-ensenarles-a-trabajar-vida-real",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436129",
+    "title": "Canadá: Puerto de Montreal habilita nueva subestación eléctrica",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Montreal (Canadá) informó que su nueva subestación eléctrica ya se encuentra operativa. Este\nLa entrada Canadá: Puerto de Montreal habilita nueva subestación el...",
+    "date": "2026-05-17T19:00:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/canada-puerto-de-montreal-habilita-nueva-subestacion-electrica/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-proinnovate-impulsa-modelos-negocio-transforman-residuos-nuevas-materias-primas-1075441.aspx",
+    "title": "ProInnóvate impulsa modelos de negocio que transforman residuos en nuevas materias primas",
+    "snippet": "Para gestionar de manera eficiente la acumulación de residuos generados por diversas actividades económicas, el Ministerio de la Producción (Produce), mediante el programa ProInnóvate, promueve modelos de negocio que int...",
+    "date": "2026-05-17T18:53:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-proinnovate-impulsa-modelos-negocio-transforman-residuos-nuevas-materias-primas-1075441.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/fin-insectos-nos-pasa-factura-han-medido-primera-vez-como-su-desaparicion-nos-hace-pobres-nos-desnutre",
+    "title": "El fin de los insectos nos pasa factura: han medido por primera vez cómo su desaparición nos hace más pobres y nos desnutre",
+    "snippet": "Llevamos años escuchando advertencias sobre el colapso global de las poblaciones de abejas, mariposas y otros polinizadores. Hasta ahora, el debate se había centrado a menudo en términos de pérdida de biodiversidad y eco...",
+    "date": "2026-05-17T18:30:42",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/fin-insectos-nos-pasa-factura-han-medido-primera-vez-como-su-desaparicion-nos-hace-pobres-nos-desnutre",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/ballenas-estan-gritando-estrecho-gibraltar-nadie-escucha-hemos-convertido-oceano-infierno-acustico",
+    "title": "Las ballenas están \"gritando\" en el Estrecho de Gibraltar y nadie las escucha: hemos convertido el océano en un infierno acústico",
+    "snippet": "El océano ya no es el paraíso silencioso que solía ser, puesto que bajo la superficie una cacofonía constante de motores, hélices y cascos de embarcaciones gigantes ha creado una auténtica \"niebla acústica\" que está asfi...",
+    "date": "2026-05-17T18:00:42",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/ballenas-estan-gritando-estrecho-gibraltar-nadie-escucha-hemos-convertido-oceano-infierno-acustico",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436228",
+    "title": "Puerto de Long Beach inaugura centro de operaciones de ciberdefensa",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Long Beach inauguró un nuevo centro dedicado a defender uno de los puertos\nLa entrada Puerto de Long Beach inaugura centro de operaciones de ciberdefensa se pub...",
+    "date": "2026-05-17T18:00:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-long-beach-inaugura-centro-de-operaciones-de-ciberdefensa/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mef-transfiere-mas-s-9-millones-a-91-municipios-para-atender-emergencias-lluvias-1075457.aspx",
     "title": "MEF transfiere más de S/ 9 millones a 91 municipios para atender emergencias por lluvias",
     "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia por más de 9 millones de soles a favor de 91 gobiernos locales para financiar intervenciones de capacidad de respuesta y rehabilitación frente a emerg...",
@@ -1293,60 +1347,6 @@
     "date": "2026-05-15T19:12:48",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-kuelap-recupera-muralla-sur-tras-colapso-2022-y-espera-recibir-80000-turistas-este-ano-1074601.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/proximo-tratamiento-depresion-podria-estar-ojos-han-probado-exito-unas-lentillas-inteligentes-ratones",
-    "title": "El próximo tratamiento contra la depresión podría estar en los ojos. Ya han probado con éxito unas lentillas inteligentes en ratones",
-    "snippet": "La depresión que resiste a los fármacos es uno de los mayores desafíos de la medicina actual, puesto que cuando los antidepresivos no funcionan, la psiquiatría y la neurología tienen que recurrir a terapias como la elect...",
-    "date": "2026-05-15T19:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/proximo-tratamiento-depresion-podria-estar-ojos-han-probado-exito-unas-lentillas-inteligentes-ratones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=931615",
-    "title": "The Analogue 3D is finally getting save states",
-    "snippet": "Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you to save at any moment ...",
-    "date": "2026-05-15T18:43:43",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/cientificos-japoneses-han-descubierto-que-tienen-que-ver-nubes-venus-tu-fregadero",
-    "title": "Científicos japoneses han descubierto lo que tienen que ver las nubes de Venus con tu fregadero",
-    "snippet": "En 2016, la misión japonesa Akatsuki detectó una perturbación masiva en Venus que dejó desconcertados a los científicos. Durante mucho tiempo, su origen ha sido un misterio. Sin embargo, ahora un equipo de investigadores...",
-    "date": "2026-05-15T18:31:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/cientificos-japoneses-han-descubierto-que-tienen-que-ver-nubes-venus-tu-fregadero",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-refuerza-fiscalizacion-para-garantizar-respeto-al-medio-pasaje-lima-y-callao-1075272.aspx",
-    "title": "ATU refuerza fiscalización para garantizar respeto al medio pasaje en Lima y Callao",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) viene intensificando sus acciones de fiscalización para asegurar que las empresas de transporte público respeten el derecho al medio pasaje de escolares y univer...",
-    "date": "2026-05-15T18:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-refuerza-fiscalizacion-para-garantizar-respeto-al-medio-pasaje-lima-y-callao-1075272.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1688538",
-    "title": "BCRP sobre segunda vuelta electoral: \"estamos atentos para actuar en caso de turbulencia en los mercados financieros\"",
-    "snippet": "Tras culminar al 100% el conteo de votos, que confirma el pase a segunda vuelta electoral a Keiko Fujimori y Roberto Sánchez, el dólar cerró con ligero alza y la bolsa de valores registra indicadores en rojo....",
-    "date": "2026-05-15T18:29:42",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/segunda-vuelta-elecciones-2026-bcrp-esta-atento-posible-turbulencia-en-mercados-financieros-noticia-1688538",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-inei-ingreso-promedio-mensual-lima-metropolitana-aumento-73-entre-febrero-y-abril-1075274.aspx",
-    "title": "INEI: ingreso promedio mensual en Lima Metropolitana aumentó 7.3% entre febrero y abril",
-    "snippet": "El ingreso promedio mensual proveniente del trabajo en Lima Metropolitana fue de 2,256.6 soles entre febrero y abril del 2026, cifra que comparada con igual trimestre del año anterior representó un crecimiento de 7.3% (1...",
-    "date": "2026-05-15T18:21:24",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-inei-ingreso-promedio-mensual-lima-metropolitana-aumento-73-entre-febrero-y-abril-1075274.aspx",
     "category": "MERCADO"
   }
 ]
