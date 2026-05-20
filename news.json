@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-oefa-supervisa-manejo-aguas-residuales-y-residuos-solidos-ciudadela-machu-picchu-1075862.aspx",
+    "title": "OEFA supervisa manejo de aguas residuales y residuos sólidos en ciudadela de Machu Picchu",
+    "snippet": "El Organismo de Evaluación y Fiscalización Ambiental (OEFA) inició una supervisión ambiental en la ciudadela o llaqta Inca de Machu Picchu, en la región Cusco, con el fin de verificar el cumplimiento de las obligaciones ...",
+    "date": "2026-05-20T03:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-oefa-supervisa-manejo-aguas-residuales-y-residuos-solidos-ciudadela-machu-picchu-1075862.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-papa-a-huancaina-cumple-su-primer-ano-como-especialidad-tradicional-garantizada-1075858.aspx",
+    "title": "Papa a la Huancaína cumple su primer año como especialidad tradicional garantizada",
+    "snippet": "Hoy se cumple el primer año desde que la ”Papa a la Huancaína según la tradición de la provincia de Huancayo” fue reconocida oficialmente como Especialidad Tradicional Garantizada (ETG) por el Instituto Nacional de Defen...",
+    "date": "2026-05-20T03:11:21",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-papa-a-huancaina-cumple-su-primer-ano-como-especialidad-tradicional-garantizada-1075858.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436716",
+    "title": "EE. UU.: Port Freeport recibe subvención para mejorar operaciones en Velasco Terminal",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Port Freeport fue beneficiado con una subvención de 11 millones de dólares del Programa de Desarrollo\nLa entrada EE. UU.: Port Freeport recibe subvención para mejorar operac...",
+    "date": "2026-05-20T03:00:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ee-uu-port-freeport-recibe-subvencion-para-mejorar-operaciones-en-velasco-terminal/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ucayali-mas-ocho-horas-lluvia-inundo-varias-zonas-los-distritos-pucallpa-1075854.aspx",
+    "title": "Ucayali: más de ocho horas de lluvia inundó varias zonas de los distritos de Pucallpa",
+    "snippet": "Una torrencial lluvia que en algunos sectores de Pucallpa, región Ucayali, se inició desde las 8 de la noche del último lunes y se prolongó hasta aproximadamente las 7 de la mañana de hoy dejó completamente inundadas var...",
+    "date": "2026-05-20T02:49:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ucayali-mas-ocho-horas-lluvia-inundo-varias-zonas-los-distritos-pucallpa-1075854.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministro-jose-zapata-nuestra-prioridad-es-reducir-percepcion-inseguridad-ciudadana-1075853.aspx",
+    "title": "Ministro José Zapata: \"Nuestra prioridad es reducir percepción de inseguridad ciudadana\"",
+    "snippet": "El ministro del Interior, José Zapata Morante, afirmó que una de las prioridades de su gestión es reducir la percepción de inseguridad ciudadana, la cual, según indicó, alcanza actualmente el 83 %, además de continuar fo...",
+    "date": "2026-05-20T02:32:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministro-jose-zapata-nuestra-prioridad-es-reducir-percepcion-inseguridad-ciudadana-1075853.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436629",
+    "title": "Ganancias de naviera belga CMB.Tech se benefician con cierre del estrecho de Ormuz",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario La naviera belga CMB.Tech declaró que su beneficio principal se multiplicó por más de tres\nLa entrada Ganancias de naviera belga CMB.Tech se benefician con c...",
+    "date": "2026-05-20T02:30:11",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ganancias-de-naviera-belga-cmb-tech-se-benefician-con-cierre-del-estrecho-de-ormuz/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436697",
+    "title": "Canarias, Francia y Portugal piden a Unión Europea flexibilidad para sus puertos en tasas a CO2",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Canarias, junto a regiones ultraperiféricas de Francia y Portugal, reclamó a la Unión Europea (UE) flexibilidad\nLa entrada Canarias, Francia y Portugal piden a Unión Europea...",
+    "date": "2026-05-20T01:00:58",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/canarias-francia-y-portugal-piden-a-union-europea-flexibilidad-para-sus-puertos-en-tasas-a-co2/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "b424f289-b555-4ecc-a78e-b13fe2f0177c",
+    "title": "Where, Oh Where, Was Wear OS 7 at Google I/O This Year?",
+    "snippet": "Google's smartwatch software gets buried under a heap of AI health news at I/O 2026....",
+    "date": "2026-05-20T00:10:42",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/wheres-wear-os-7/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436628",
+    "title": "Estados Unidos: Puerto de Savannah ve caída de 2,5% en movimiento de contenedores en el año fiscal",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En lo que va del año fiscal (julio-abril), Georgia Ports ha gestionado aproximadamente 4,7 millones de\nLa entrada Estados Unidos: Puerto de Savannah ve caída de 2,5% en movi...",
+    "date": "2026-05-20T00:00:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estados-unidos-puerto-de-savannah-ve-caida-de-25-en-movimiento-de-contenedores-en-el-ano-fiscal/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436712",
+    "title": "Cuatro buques cargados con GNL navegan desde Estados Unidos hacia China",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Cuatro buques cargados con gas natural licuado (GNL) navegaban hacia China desde Estados Unidos y\nLa entrada Cuatro buques cargados con GNL navegan desde Est...",
+    "date": "2026-05-19T23:30:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cuatro-buques-cargados-con-gnl-navegan-desde-estados-unidos-hacia-china/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=934323",
+    "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+    "snippet": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 ...",
+    "date": "2026-05-19T23:24:36",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=436691",
     "title": "Portugal: Puerto de Lisboa acoge escala inaugural de buque Eco Ponente",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Lisboa recibió por primera vez al Eco Ponente, un buque de última generación\nLa entrada Portugal: Puerto de Lisboa acoge escala inaugural de buque Eco Ponente s...",
@@ -1248,105 +1347,6 @@
     "date": "2026-05-18T21:07:12",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-lambayeque-su-dia-los-museos-de-region-apuestan-por-inclusion-1075601.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/elon-musk-pierde-caso-openai-sam-altman-desenlace-ha-llegado-antes-esperado",
-    "title": "Elon Musk pierde el caso contra OpenAI y Sam Altman: el desenlace ha llegado antes de lo esperado",
-    "snippet": "Hay pocas historias recientes en tecnología tan cargadas de contradicciones como la de OpenAI. Nació con una misión vinculada al interés general, pero acabó ocupando un lugar clave en una industria cada vez más competiti...",
-    "date": "2026-05-18T20:21:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/elon-musk-pierde-caso-openai-sam-altman-desenlace-ha-llegado-antes-esperado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=436466",
-    "title": "Puerto de Montreal moderniza muelle para proyecto de nueva terminal petrolera",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto de Montreal está llevando a cabo en el sector de graneles líquidos la optimización y\nLa entrada Puerto de Montreal moderniza muelle para proyecto de nueva terminal pe...",
-    "date": "2026-05-18T20:00:38",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-montreal-moderniza-muelle-para-proyecto-de-nueva-terminal-petrolera/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-no-presentara-demandas-inconstitucionalidad-iniciativas-gasto-del-congreso-1075590.aspx",
-    "title": "MEF no presentará demandas de inconstitucionalidad por iniciativas de gasto del Congreso",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) señaló hoy que reafirma su respeto irrestricto a los derechos de los trabajadores del sector público, así como a los espacios de diálogo y negociación colectiva establecidos en ...",
-    "date": "2026-05-18T19:49:02",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-no-presentara-demandas-inconstitucionalidad-iniciativas-gasto-del-congreso-1075590.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "3ee8f70f-9b26-4ecc-a684-93a50c98ac29",
-    "title": "Honor's Influencer-Coded Robot Phone Set for Fall Launch in China",
-    "snippet": "Content creators, get ready to put aside your handheld action cams -- the Robot Phone is coming....",
-    "date": "2026-05-18T19:39:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/honors-robot-phone-launch-q3-china/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=932817",
-    "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
-    "snippet": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall...",
-    "date": "2026-05-18T19:28:42",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1688939",
-    "title": "CTS y gratificaciones a trabajadores CAS: MEF ahora dice que no irá al TC por ley que da beneficios laborales",
-    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña, había afirmado que evauluaban llevar al TC las leyes de gasto aprobadas por el Congreso, pero desupúes de la segunda vuelta....",
-    "date": "2026-05-18T19:19:41",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/cts-y-gratificaciones-a-trabajadores-cas-mef-ahora-dice-que-no-ira-al-tc-por-ley-que-da-beneficios-laborales-noticia-1688939",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-la-cronica-universitaria-una-mirada-a-las-comunidades-musica-y-solidaridad-1075584.aspx",
-    "title": "“La Crónica Universitaria”: una mirada a las comunidades, la música y la solidaridad",
-    "snippet": "La edición número 15 del suplemento “La Crónica Universitaria” (LCU) trae historias escritas por estudiantes universitarios que nos permiten sumergirnos en cómo se vive un miércoles de Freestyle en las noches limeñas lle...",
-    "date": "2026-05-18T19:06:24",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-cronica-universitaria-una-mirada-a-las-comunidades-musica-y-solidaridad-1075584.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "beb04150-96ad-4a6f-abbd-4be8d10997d5",
-    "title": "I Tested the iPhone 17 Pro Max. It's Part Midlife Crisis and Part Battery-Life King",
-    "snippet": "Review: Apple's bold redesign begs you to look its way -- especially in orange -- but the best-in-class battery and superb cameras are the real reasons to go Pro....",
-    "date": "2026-05-18T19:01:22",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apple-iphone-17-pro-iphone-17-pro-max-review/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "cd309941-1932-4775-9f8a-873bf85f8c1b",
-    "title": "Galaxy S26 Ultra Review: Privacy Display Proves Hardware Still Matters in an AI World",
-    "snippet": "Samsung delivers modest but meaningful upgrades to the Ultra's design, cameras and battery. And yes, the phone is packed with new AI features -- and most of them are actually pretty useful....",
-    "date": "2026-05-18T19:00:55",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/galaxy-s26-ultra-review/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1e24z2q7xqo#0",
-    "title": "PlayStation Plus to raise monthly subscription by £1 in UK",
-    "snippet": "The videogame firm says the increase is due to \"ongoing market conditions\"...",
-    "date": "2026-05-18T18:58:33",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1e24z2q7xqo#0",
-    "title": "PlayStation Plus to raise monthly subscription fee",
-    "snippet": "The video game firm says the increase is due to \"ongoing market conditions\"....",
-    "date": "2026-05-18T18:58:33",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
   }
 ]
