@@ -1,5 +1,86 @@
 [
   {
+    "id": "6a0ccc586abd255867f55341",
+    "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
+    "snippet": "The long-awaited documents SpaceX filed with US regulators Wednesday included details about a lucrative deal to lend GPUs to a major AI rival....",
+    "date": "2026-05-20T21:43:40",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dolar-cae-tras-senales-avance-acuerdo-paz-entre-estados-unidos-e-iran-1075987.aspx",
+    "title": "Dólar cae tras señales de avance en acuerdo de paz entre Estados Unidos e Irán",
+    "snippet": "El precio del dólar cerró la sesión de hoy a la baja en un contexto internacional que presionó a la moneda norteamericana hacia menores niveles, señaló Fernando Ruiz, CEO de Kambista....",
+    "date": "2026-05-20T21:34:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dolar-cae-tras-senales-avance-acuerdo-paz-entre-estados-unidos-e-iran-1075987.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-aprueban-terminos-planes-pasivos-ambientales-para-industria-manufacturera-y-comercio-1075980.aspx",
+    "title": "Aprueban términos de Planes de Pasivos Ambientales para industria manufacturera y comercio",
+    "snippet": "Para fortalecer la gestión de pasivos ambientales en el territorio nacional, derivados de las actividades de la industria manufacturera y comercio interno, el Ministerio de la Producción (Produce) aprobó los “Términos de...",
+    "date": "2026-05-20T20:53:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-aprueban-terminos-planes-pasivos-ambientales-para-industria-manufacturera-y-comercio-1075980.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3124692",
+    "title": "Microsoft’s carbon-removal plans aren’t dead after all",
+    "snippet": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups....",
+    "date": "2026-05-20T20:30:24",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-inversion-acumulada-modernizacion-puertos-asciende-a-2376-millones-1075976.aspx",
+    "title": "Perú: inversión acumulada en modernización de puertos asciende a US$ 2,376 millones",
+    "snippet": "La inversión acumulada en el proceso de modernización del sistema portuario nacional asciende a 2,376 millones de dólares en los terminales concesionados, señaló hoy el gerente general de la Asociación para el Fomento de...",
+    "date": "2026-05-20T20:26:12",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-inversion-acumulada-modernizacion-puertos-asciende-a-2376-millones-1075976.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1688939",
+    "title": "CTS y gratificaciones a trabajadores CAS: MEF dice ahora que no irá al TC por ley que da beneficios laborales",
+    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña, había afirmado que evaluaban llevar al TC las leyes de gasto aprobadas por el Congreso, pero desupúes de la segunda vuelta....",
+    "date": "2026-05-20T20:15:41",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/cts-y-gratificaciones-a-trabajadores-cas-mef-ahora-dice-que-no-ira-al-tc-por-ley-que-da-beneficios-laborales-noticia-1688939",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=437038",
+    "title": "China impone sanciones a navieras internacionales por irregularidades en declaración de tarifas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario China impuso sanciones a nueve navieras internacionales dedicadas al transporte de contenedores, tras detectar irregularidades en\nLa entrada China impone sanciones a naviera...",
+    "date": "2026-05-20T20:00:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/china-impone-sanciones-a-navieras-internacionales-por-irregularidades-en-declaracion-de-tarifas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iiap-presenta-tecnologia-permite-reproduccion-gamitana-durante-todo-ano-1075940.aspx",
+    "title": "IIAP presenta tecnología que permite la reproducción de gamitana durante todo el año",
+    "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), organismo adscrito al Ministerio del Ambiente, presentó una innovadora tecnología de reproducción de gamitana en el marco del II Encuentro Nacional de Acuicu...",
+    "date": "2026-05-20T20:00:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iiap-presenta-tecnologia-permite-reproduccion-gamitana-durante-todo-ano-1075940.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/china-tiene-listo-su-siguiente-movimiento-guerra-ia-fabricas-tokens-hardware-propio",
+    "title": "China ya tiene listo su siguiente movimiento en la guerra de la IA: “fábricas de tokens” con hardware propio",
+    "snippet": "La carrera de la IA ya no se explica solo mirando qué empresa lanza el modelo más potente o quién consigue acceso a los chips más avanzados. Esa parte sigue siendo importante, pero no cuenta toda la historia. Lo que empi...",
+    "date": "2026-05-20T19:30:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/china-tiene-listo-su-siguiente-movimiento-guerra-ia-fabricas-tokens-hardware-propio",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-conoce-cronograma-2026-pagos-sueldos-y-pensiones-el-estado-1056807.aspx",
     "title": "Conoce el cronograma 2026 de pagos de sueldos y pensiones en el Estado",
     "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
@@ -15,6 +96,15 @@
     "date": "2026-05-20T19:14:03",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/buque-vinculado-a-flota-fantasma-rusa-se-mantiene-a-la-gira-en-zona-de-fondeo-de-arica/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "61581286-e4b7-4529-8d0f-00d0272c6bd1",
+    "title": "Having Android XR Glasses Support iOS Might Be Their Best Feature",
+    "snippet": "When Google's Android XR glasses launch this fall, they'll have a host of helpful features, but their compatibility is what stood out to me most....",
+    "date": "2026-05-20T19:12:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/having-android-xr-glasses-support-ios-might-be-their-best-feature/",
     "category": "MERCADO"
   },
   {
@@ -128,6 +218,15 @@
   {
     "id": "https://www.xataka.com/movilidad/renfe-confiaba-justicia-para-impedir-que-iryo-utilice-sus-talleres-su-ultima-esperanza-acaba-desvanecerse",
     "title": "Renfe confiaba en la Justicia para impedir que Iryo utilice sus talleres. Su última esperanza acaba de desvanecerse",
+    "snippet": "Renfe tendrá que abrir sus talleres a Iryo. Al menos de momento. Es lo que ha decidido la Audiencia Nacional que rechaza las medidas cautelarísimas solicitadas por Renfe con las que pretendía cerrar el paso a la empresa ...",
+    "date": "2026-05-20T17:31:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/renfe-confiaba-justicia-para-impedir-que-iryo-utilice-sus-talleres-su-ultima-esperanza-acaba-desvanecerse",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/renfe-confiaba-justicia-para-impedir-que-iryo-utilice-sus-talleres-su-ultima-esperanza-acaba-desvanecerse",
+    "title": "En su batalla contra Iryo, Renfe confiaba en la justicia. Y la Justicia ha hablado",
     "snippet": "Renfe tendrá que abrir sus talleres a Iryo. Al menos de momento. Es lo que ha decidido la Audiencia Nacional que rechaza las medidas cautelarísimas solicitadas por Renfe con las que pretendía cerrar el paso a la empresa ...",
     "date": "2026-05-20T17:31:40",
     "source": "XATAKA",
@@ -362,6 +461,15 @@
   {
     "id": "https://rpp.pe/1689270",
     "title": "Pedro Francke, asesor económico de Roberto Sánchez, a favor de continuidad de Velarde en el BCR: “Yo sí le pediría la ratificación”",
+    "snippet": "En diálogo con RPP, el economista aseguró que buscarán preservar la continuidad técnica del Banco Central de Reserva (BCR). Además, dijo que es técnicamente viable elevar el sueldo mínimo a S/1.500 y descartó estatizacio...",
+    "date": "2026-05-20T14:40:54",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/pedro-francke-asesor-economico-de-roberto-sanchez-a-favor-de-continuidad-de-velarde-en-el-bcr-yo-si-le-pediria-la-ratificacion-noticia-1689270",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1689270",
+    "title": "Pedro Francke a favor de la continuidad de Julio Velarde en el BCR: “Yo sí le pediría la ratificación”",
     "snippet": "En diálogo con RPP, el economista aseguró que buscarán preservar la continuidad técnica del Banco Central de Reserva (BCR). Además, dijo que es técnicamente viable elevar el sueldo mínimo a S/1.500 y descartó estatizacio...",
     "date": "2026-05-20T14:40:54",
     "source": "RPP ECON",
@@ -1240,113 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/smile-esta-espacio-esto-no-ha-hecho-que-empezar-asi-funciona-mision-que-estudiara-tormentas-solares",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/smile-esta-espacio-esto-no-ha-hecho-que-empezar-asi-funciona-mision-que-estudiara-tormentas-solares",
-    "title": "El lanzamiento exitoso de SMILE ha sido solo el principio: cuándo y cómo veremos sus primeros datos",
-    "snippet": "Por fin, a pesar del aplazamiento del pasado mes de abril, SMILE se ha lanzado con éxito. La misión que une a China y Europa para estudiar cómo interaccionan los vientos solares con la magnetosfera terrestre partió del P...",
-    "date": "2026-05-19T18:31:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/smile-esta-espacio-esto-no-ha-hecho-que-empezar-asi-funciona-mision-que-estudiara-tormentas-solares",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "26178ff3-842c-4e2d-85b8-96f69f6310c6",
-    "title": "Google and Samsung's Warby Parker and Gentle Monster Glasses Are Coming This Fall",
-    "snippet": "We now know what they look like, but not their cost or name....",
-    "date": "2026-05-19T18:26:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/computing/google-and-samsungs-warby-parker-and-gentle-monster-glasses-are-coming-this-fall/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/manana-regresa-a-prime-video-uno-principales-heroes-accion-plataforma-hace-formato-inesperado",
-    "title": "Mañana regresa a Prime Video uno de los principales héroes de acción de la plataforma, aunque lo hace en un formato inesperado",
-    "snippet": "Cuando Amazon cerró 'Jack Ryan de Tom Clancy' en julio de 2023, la cuarta y última temporada dejó un personaje con las cuentas saldadas. John Krasinski había pasado cinco años encarnando a un analista de la CIA perpetuam...",
-    "date": "2026-05-19T18:15:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/manana-regresa-a-prime-video-uno-principales-heroes-accion-plataforma-hace-formato-inesperado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/manana-regresa-a-prime-video-uno-principales-heroes-accion-plataforma-hace-formato-inesperado",
-    "title": "Hoy regresa a Prime Video uno de los principales héroes de acción de la plataforma, aunque lo hace en un formato inesperado",
-    "snippet": "Cuando Amazon cerró 'Jack Ryan de Tom Clancy' en julio de 2023, la cuarta y última temporada dejó un personaje con las cuentas saldadas. John Krasinski había pasado cinco años encarnando a un analista de la CIA perpetuam...",
-    "date": "2026-05-19T18:15:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/manana-regresa-a-prime-video-uno-principales-heroes-accion-plataforma-hace-formato-inesperado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/manana-regresa-a-prime-video-uno-principales-heroes-accion-plataforma-hace-formato-inesperado",
-    "title": "Uno de los principales héroes de acción de Prime Video regresa hoy a la plataforma, aunque con formato novedoso",
-    "snippet": "Cuando Amazon cerró 'Jack Ryan de Tom Clancy' en julio de 2023, la cuarta y última temporada dejó un personaje con las cuentas saldadas. John Krasinski había pasado cinco años encarnando a un analista de la CIA perpetuam...",
-    "date": "2026-05-19T18:15:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/manana-regresa-a-prime-video-uno-principales-heroes-accion-plataforma-hace-formato-inesperado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-asi-funciona-sistema-alertas-sismos-google-tu-celular-939108.aspx",
-    "title": "Así funciona el sistema de alertas de sismos de Google en tu celular",
-    "snippet": "Ante un temblor, Google ofrece información en tiempo real a los usuarios peruanos que usen celulares con el sistema operativo Android actualizado. Descubre cómo funciona el Sistema de Alertas de Sismos y cómo activar las...",
-    "date": "2026-05-19T18:12:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-asi-funciona-sistema-alertas-sismos-google-tu-celular-939108.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-seleccion-peruana-femenina-sub16-waterpolo-gano-medalla-bronce-brasil-1075755.aspx",
-    "title": "Selección peruana femenina sub-16 de waterpolo ganó la medalla de bronce en Brasil",
-    "snippet": "La selección peruana femenina logró la medalla de bronce en el Campeonato Sudamericano sub-16 de Waterpolo en João Pessoa, Brasil, tras vencer 13-12 a Argentina....",
-    "date": "2026-05-19T17:57:48",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-seleccion-peruana-femenina-sub16-waterpolo-gano-medalla-bronce-brasil-1075755.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-pasco-usuaria-pension-65-iniciara-carrera-tecnica-tras-graduarse-curso-digital-1075753.aspx",
-    "title": "Pasco: Usuaria de Pensión 65 iniciará carrera técnica tras graduarse de curso digital",
-    "snippet": "Tras seis meses de participación en un curso de alfabetización digital impulsado por Pensión 65, en articulación con la Fundación Dispurse y la Municipalidad Provincial de Daniel Alcides Carrión, región Pasco, Marcelina ...",
-    "date": "2026-05-19T17:52:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-pasco-usuaria-pension-65-iniciara-carrera-tecnica-tras-graduarse-curso-digital-1075753.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=933921",
-    "title": "Google wants to compete with Anthropic’s Mythos",
-    "snippet": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The dif...",
-    "date": "2026-05-19T17:48:22",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-    "category": "MERCADO"
-  },
-  {
-    "id": "4241eded-9dac-4fd7-a872-0d427ca03fac",
-    "title": "Google Has So Many New Smart Glasses Coming Soon. I Wore Them All",
-    "snippet": "Samsung, Google, Gentle Monster, Warby Parker and Xreal are going some wild Gemini places. But how will they address the growing privacy concerns?...",
-    "date": "2026-05-19T17:46:22",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/google-io-2026-smart-glasses-gemini-project-aura-samsung-i-wore-them/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3123442",
-    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-    "snippet": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development....",
-    "date": "2026-05-19T17:45:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3123526",
-    "title": "Google updates its Gemini app to take on ChatGPT and Claude",
-    "snippet": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot....",
-    "date": "2026-05-19T17:45:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
-    "category": "MERCADO"
   }
 ]
