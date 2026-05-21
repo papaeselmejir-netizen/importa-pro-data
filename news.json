@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cd7pzr88de1o#0",
+    "title": "Free bus trips and chocolate tax cuts to be announced",
+    "snippet": "Chancellor Rachel Reeves will make a series of announcemenrs aimed at relieving cost-of-living pressures....",
+    "date": "2026-05-21T11:20:07",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1689413",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 21 de mayo del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy jueves 21 de mayo es de  S/3.42 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-05-21T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-21-de-mayo-del-2026-noticia-1689413",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c759x9pq3dpo#0",
+    "title": "Nvidia's latest record result fails to impress investors",
+    "snippet": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition....",
+    "date": "2026-05-21T11:05:18",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/eric-schmidt-advirtio-a-jovenes-universitarios-que-ia-cambiara-todo-respuesta-universitarios-abuchearle",
+    "title": "Eric Schmidt advirtió a los jóvenes universitarios que la IA lo cambiará todo. Respuesta de los universitarios: abuchearle",
+    "snippet": "Estamos viviendo un momento curioso en el día a día tecnológico. Bueno, en muchísimos aspectos, realmente, pero evidentemente la inteligencia artificial es algo que acapara buena parte de la conversación y parece que no ...",
+    "date": "2026-05-21T11:01:35",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/eric-schmidt-advirtio-a-jovenes-universitarios-que-ia-cambiara-todo-respuesta-universitarios-abuchearle",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3124502",
+    "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+    "snippet": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm....",
+    "date": "2026-05-21T11:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/espana-cenamos-demasiado-tarde-pagamos-alto-precio-metabolico-asi-afecta-al-sueno-irse-a-cama-estomago-lleno",
+    "title": "En España cenamos demasiado tarde y pagamos un alto precio metabólico: así afecta al sueño irse a la cama con el estómago lleno",
+    "snippet": "Cerrar el ordenador tarde, llegar a casa arrastrando los pies y sentarse a cenar a las diez de la noche. Para nosotros es una estampa costumbrista; para el resto de Europa, una excentricidad incomprensible. Sin embargo, ...",
+    "date": "2026-05-21T10:31:34",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/espana-cenamos-demasiado-tarde-pagamos-alto-precio-metabolico-asi-afecta-al-sueno-irse-a-cama-estomago-lleno",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/baidu-nacio-como-google-china-se-acaba-dar-cuenta-algo-que-nuca-debe-ser-google-china",
+    "title": "Baidu nació como la Google china y se acaba de dar cuenta de algo: más que nuca, debe ser la Google china",
+    "snippet": "Durante más de dos décadas, a Baidu le fue muy bien con una estrategia muy clara: ser “la Google china”. Nació sólo un año después que Google y, mientras la estadounidense se comió el mercado mundial, Baidu hizo lo propi...",
+    "date": "2026-05-21T10:01:35",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/baidu-nacio-como-google-china-se-acaba-dar-cuenta-algo-que-nuca-debe-ser-google-china",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=437092",
+    "title": "Brasil y Australia presionan a China para que les permita exportar más carne de res",
+    "snippet": "Por Redacción PortalPortuario / Agencia Reuters @PortalPortuario Brasil y Australia, los mayores exportadores de carne de vacuno del mundo, están\nLa entrada Brasil y Australia presionan a China para que les permita expor...",
+    "date": "2026-05-21T10:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-y-australia-presionan-a-china-para-que-les-permita-exportar-mas-carne-de-res/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=935163",
+    "title": "Meta lays off thousands of employees to offset AI investments",
+    "snippet": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted sta...",
+    "date": "2026-05-21T09:20:46",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/a-pregunta-cuanto-esperas-ganar-entrevista-trabajo-bill-gates-da-consejo-definitivo-para-acertar-respuesta",
+    "title": "A la pregunta de \"cuánto esperas ganar\" en una entrevista de trabajo, Bill Gates da el consejo definitivo para acertar",
+    "snippet": "Da igual lo que te hayas preparado para una entrevista de trabajo o que tengas un currículum impresionante, porque a la hora de la verdad, en esa entrevista de trabajo cara a cara, es bastante común que tengamos los nerv...",
+    "date": "2026-05-21T09:01:34",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/a-pregunta-cuanto-esperas-ganar-entrevista-trabajo-bill-gates-da-consejo-definitivo-para-acertar-respuesta",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=437090",
+    "title": "EE. UU. celebra avances de la UE en pacto comercial y pide a Bruselas eliminar barreras no arancelarias",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario La Oficina del Representante Comercial de Estados Unidos (USTR) recibió con satisfacción el acuerdo provisional\nLa entrada EE. UU. celebra avances de la UE e...",
+    "date": "2026-05-21T09:00:25",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ee-uu-celebra-avances-de-la-ue-en-pacto-comercial-y-pide-a-bruselas-eliminar-barreras-no-arancelarias/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/barcelona-se-ha-convertido-zona-guerra-donde-francotiradores-drones-estan-eliminando-miles-jabalies",
+    "title": "Barcelona se ha convertido en una zona de guerra: una donde francotiradores y drones están eliminando miles de jabalíes",
+    "snippet": "En noviembre de 2025, la Generalitat llegó a desplegar a la UME, drones y controles policiales alrededor de Collserola después de encontrar decenas de jabalíes muertos cerca de Barcelona. Lo que empezó con dos animales i...",
+    "date": "2026-05-21T08:30:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/barcelona-se-ha-convertido-zona-guerra-donde-francotiradores-drones-estan-eliminando-miles-jabalies",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/hubo-epoca-que-nvidia-era-empresa-gaming-ese-negocio-ahora-calderilla-para-duena-senora-ia",
+    "title": "Hubo una época en que Nvidia era una empresa de gaming. Ese negocio es ahora calderilla para la dueña y señora de la IA",
+    "snippet": "En 1993, Nvidia se fundó con el objetivo de crear chips gráficos para videojuegos. Durante casi tres décadas Nvidia ha sido básicamente eso: una empresa de semiconductores para gaming que eso sí, tenía ambición en el ter...",
+    "date": "2026-05-21T08:21:21",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/hubo-epoca-que-nvidia-era-empresa-gaming-ese-negocio-ahora-calderilla-para-duena-senora-ia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/moviles-teles-oled-tablets-a-precio-outlet-corte-ingles-ahorrate-iva-solo-domingo",
+    "title": "Móviles, teles OLED, tablets y más a precio de outlet en El Corte Inglés: ahórrate el IVA solo hasta el domingo",
+    "snippet": "Anoche en web y app y hoy en tiendas, El Corte Inglés dio el pistoletazo de salida a una de sus campañas más famosas, \"Ahórrate el IVA\", la cual es una oportunidad excelente para renovar algunos dispositivos tecnológicos...",
+    "date": "2026-05-21T08:15:34",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/moviles-teles-oled-tablets-a-precio-outlet-corte-ingles-ahorrate-iva-solo-domingo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/ejecutivos-occidentales-que-triunfan-linkedin-tienen-secreto-asistentes-virtuales-filipinas-que-escriben-ellos",
+    "title": "Los ejecutivos occidentales que triunfan en LinkedIn tienen un secreto: asistentes virtuales en Filipinas que escriben por ellos",
+    "snippet": "Que internet está plagada de contenido generado por IA es algo de lo que venimos hablando desde hace tiempo, pero hay una plataforma donde el fenómeno resulta especialmente evidente: LinkedIn. Ya no es que las publicacio...",
+    "date": "2026-05-21T08:01:34",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ejecutivos-occidentales-que-triunfan-linkedin-tienen-secreto-asistentes-virtuales-filipinas-que-escriben-ellos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=436922",
+    "title": "Fujairah Terminals arrienda terrenos en Aeropuerto, Zona Franca y Al Dahra Agriculture Trading",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Fujairah Terminals, parte de AD Ports Group, anunció la firma de tres acuerdos estratégicos de arrendamiento\nLa entrada Fujairah Terminals arrienda terrenos en Aeropuerto, Z...",
+    "date": "2026-05-21T08:00:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/fujairah-terminals-arrienda-terrenos-en-aeropuerto-zona-franca-y-al-dahra-agriculture-trading/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cm2pxz7de41o#0",
     "title": "Wes Streeting pledges 'wealth tax that works'",
     "snippet": "Wes Streeting is proposing reforms to capital gains tax, as part of his pitch for the Labour leadership....",
@@ -425,6 +569,15 @@
   {
     "id": "https://www.xataka.com/movilidad/herederos-ozempic-quieren-gran-premio-f1-se-van-a-gastar-500-millones-euros-ampliar-circuito-su-pueblo",
     "title": "Los herederos de Ozempic quieren un Gran Premio de F1: se van a gastar 500 millones de euros en ampliar el circuito de su pueblo",
+    "snippet": "La Fórmula 1 es mucho más que un deporte de motor. Cada Gran Premio mueve miles de millones en intereses publicitarios e inversiones, por eso las principales de ciudades del mundo pugnan por tener su propio circuito en e...",
+    "date": "2026-05-20T18:31:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/herederos-ozempic-quieren-gran-premio-f1-se-van-a-gastar-500-millones-euros-ampliar-circuito-su-pueblo",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/herederos-ozempic-quieren-gran-premio-f1-se-van-a-gastar-500-millones-euros-ampliar-circuito-su-pueblo",
+    "title": "Madrid lleva años peleando por su Gran Premio de F1. Los ricos herederos de Ozempic también quieren un Gran Premio en su pueblo",
     "snippet": "La Fórmula 1 es mucho más que un deporte de motor. Cada Gran Premio mueve miles de millones en intereses publicitarios e inversiones, por eso las principales de ciudades del mundo pugnan por tener su propio circuito en e...",
     "date": "2026-05-20T18:31:39",
     "source": "XATAKA",
@@ -1195,158 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/liquidacion-gama-alta-para-esta-tele-oled-sony-fnac-2-700-a-1-300-euros",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/liquidacion-gama-alta-para-esta-tele-oled-sony-fnac-2-700-a-1-300-euros",
-    "title": "Tener una tele OLED Sony BRAVIA sale ahora mucho más barato: en esta tienda puedes comprarla con más del 50% de descuento",
-    "snippet": "A la hora de buscar la máxima calidad en el mercado de los televisores, el debate se suele reducir a un par de marcas, pero Sony siempre juega en su propia liga gracias a su procesado de imagen. Si estabas esperando el m...",
-    "date": "2026-05-20T08:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/liquidacion-gama-alta-para-esta-tele-oled-sony-fnac-2-700-a-1-300-euros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/22-coches-electricos-que-compramos-europa-se-producen-china-solo-punta-iceberg",
-    "title": "Un dato sirve para entender hasta qué punto las marcas chinas se están comiendo al coche eléctrico europeo: el 22%",
-    "snippet": "Uno de cada cinco coches eléctricos que se compran en Europa son chinos. Chinos de origen, pero no quiere decir que sus fabricantes sean chinos. Sin embargo, es un dato que no explica la historia entera. Las empresas chi...",
-    "date": "2026-05-20T08:01:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/22-coches-electricos-que-compramos-europa-se-producen-china-solo-punta-iceberg",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/gemini-intelligence-promete-ser-revolucion-ia-google-problema-que-casi-nadie-podra-usarlo",
-    "title": "El listado de requisitos para Gemini Intelligence es tan largo que hasta muchos teléfonos de Google se quedan fuera",
-    "snippet": "Las actualizaciones siempre han sido el talón de Aquiles de Android, pero desde hace varios años hemos visto como los fabricantes están empujando para ofrecer hasta siete años de actualizaciones en sus móviles. Es una bu...",
-    "date": "2026-05-20T08:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/gemini-intelligence-promete-ser-revolucion-ia-google-problema-que-casi-nadie-podra-usarlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=436680",
-    "title": "Grecia: PPA SA recibe a delegación de Georgia en Puerto de El Pireo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario PPA SA dio la bienvenida a una delegación de Georgia al Puerto de El Pireo, encabezada\nLa entrada Grecia: PPA SA recibe a delegación de Georgia en Puerto de El Pireo se publ...",
-    "date": "2026-05-20T08:00:54",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/grecia-ppa-sa-recibe-a-delegacion-de-georgia-en-puerto-de-el-pireo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-reservas-internacionales-suman-97000-millones-al-cierre-del-primer-cuatrimestre-1075856.aspx",
-    "title": "Reservas Internacionales suman US$ 97,000 millones al cierre del primer cuatrimestre",
-    "snippet": "Las Reservas Internacionales Netas (RIN) de Perú cerraron el primer cuatrimestre del 2026 con un total de 97,020 millones de dólares, equivalente al 29% del Producto Bruto Interno (PBI) del Perú, según información del Ba...",
-    "date": "2026-05-20T08:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-reservas-internacionales-suman-97000-millones-al-cierre-del-primer-cuatrimestre-1075856.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/todos-expertos-coinciden-que-introducir-bisonte-espana-mala-idea-asi-estamos-haciendo",
-    "title": "Todos los expertos coinciden en que introducir los bisonte en España es una mala idea. Y, aún así, lo estamos haciendo",
-    "snippet": "Nueve bisontes europeos pastan desde hace cuatro meses en el municipio guadalajareño de El Recuenco, en el corazón del Alto Tajo. Y única pregunta realmente relevante es por qué. \nEs decir, sabemos por qué. Están ahí por...",
-    "date": "2026-05-20T07:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/todos-expertos-coinciden-que-introducir-bisonte-espana-mala-idea-asi-estamos-haciendo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/domotica-1/a-pregunta-cuantas-cosas-chulas-puede-tener-robot-aspirador-dreame-ha-respondido-asi-nuevos-dreame-x60",
-    "title": "A la pregunta de \"cuántas cosas chulas puede tener un robot aspirador\", Dreame ha respondido \"sí\": así son los nuevos Dreame X60",
-    "snippet": "Si hay una categoría de producto que ha evolucionado muchísimo en cuestión de un par de años, esa es, sin duda, la de los robots aspiradores. De robots con un cepillo y una mopa regulera hemos pasado a robots con brazos,...",
-    "date": "2026-05-20T07:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/domotica-1/a-pregunta-cuantas-cosas-chulas-puede-tener-robot-aspirador-dreame-ha-respondido-asi-nuevos-dreame-x60",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=436632",
-    "title": "España: Adjudican obras de construcción de nuevo edificio en Puerto de Bilbao",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Bilbao adjudicó, por un importe de 1.079.384 euros (USD 1.252.409), la ejecución\nLa entrada España: Adjudican obras de construcción de nuevo edific...",
-    "date": "2026-05-20T07:00:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/espana-adjudican-obras-de-construccion-de-nuevo-edificio-en-puerto-de-bilbao/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/perifericos/samsung-odyssey-g8-g80h-caracteristicas-precio-ficha-tecnica",
-    "title": "Samsung renueva sus Odyssey con una apuesta ambiciosa: el primer monitor gaming 6K de la industria",
-    "snippet": "¿Hasta qué punto importa el monitor cuando hablamos de jugar? Mucho más de lo que parece cuando uno mira solo el procesador, la gráfica o la consola. La pantalla es el último eslabón de toda esa cadena: ahí se traduce la...",
-    "date": "2026-05-20T06:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/perifericos/samsung-odyssey-g8-g80h-caracteristicas-precio-ficha-tecnica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/perifericos/samsung-odyssey-g8-g80h-caracteristicas-precio-ficha-tecnica",
-    "title": "Samsung tiene clarísimo que el liderazgo de monitores gaming es suyo: Odyssey es el primer 6K de la industria",
-    "snippet": "¿Hasta qué punto importa el monitor cuando hablamos de jugar? Mucho más de lo que parece cuando uno mira solo el procesador, la gráfica o la consola. La pantalla es el último eslabón de toda esa cadena: ahí se traduce la...",
-    "date": "2026-05-20T06:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/perifericos/samsung-odyssey-g8-g80h-caracteristicas-precio-ficha-tecnica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/adios-a-depender-viento-sol-canarias-acaba-encender-primera-plataforma-que-genera-electricidad-hirviendo-oceano",
-    "title": "Adiós a depender del viento o del sol: Canarias acaba de encender la primera plataforma que genera electricidad \"hirviendo\" el océano",
-    "snippet": "Llevan décadas prometiéndonos que el océano sería la batería del futuro. La diferencia ahora es que alguien por fin ha enchufado el cable. La compañía británica Global OTEC ha instalado en las aguas de Canarias la primer...",
-    "date": "2026-05-20T06:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/adios-a-depender-viento-sol-canarias-acaba-encender-primera-plataforma-que-genera-electricidad-hirviendo-oceano",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/adios-a-depender-viento-sol-canarias-acaba-encender-primera-plataforma-que-genera-electricidad-hirviendo-oceano",
-    "title": "Canarias ya no necesita al viento o al sol para generar energía. Ahora simplemente puede poner a \"hervir\" al Atlántico",
-    "snippet": "Llevan décadas prometiéndonos que el océano sería la batería del futuro. La diferencia ahora es que alguien por fin ha enchufado el cable. La compañía británica Global OTEC ha instalado en las aguas de Canarias la primer...",
-    "date": "2026-05-20T06:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/adios-a-depender-viento-sol-canarias-acaba-encender-primera-plataforma-que-genera-electricidad-hirviendo-oceano",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=436749",
-    "title": "Puerto de Santander celebra escala inaugural junto a doble recalada de cruceros",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El SH Diana y el Silver Spirit coincidieron en el Puerto de Santander, sumando 845 pasajeros y\nLa entrada Puerto de Santander celebra escala inaugural junto a doble recalada...",
-    "date": "2026-05-20T05:00:24",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-santander-celebra-escala-inaugural-junto-a-doble-recalada-de-cruceros/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c98rjydlgp4o#0",
-    "title": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
-    "snippet": "The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said....",
-    "date": "2026-05-20T04:59:40",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mincetur-rol-estrategico-del-sector-privado-posiciona-a-peru-como-hub-logistico-regional-1075852.aspx",
-    "title": "Mincetur: rol estratégico del sector privado posiciona a Perú como hub logístico regional",
-    "snippet": "El ministro de Comercio Exterior y Turismo, José Reyes Llanos, sostuvo una reunión de trabajo con el gerente general de DP World, Marco Hernández, para abordar los principales desafíos y oportunidades vinculados al forta...",
-    "date": "2026-05-20T04:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mincetur-rol-estrategico-del-sector-privado-posiciona-a-peru-como-hub-logistico-regional-1075852.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-oefa-supervisa-manejo-aguas-residuales-y-residuos-solidos-ciudadela-machu-picchu-1075862.aspx",
-    "title": "OEFA supervisa manejo de aguas residuales y residuos sólidos en ciudadela de Machu Picchu",
-    "snippet": "El Organismo de Evaluación y Fiscalización Ambiental (OEFA) inició una supervisión ambiental en la ciudadela o llaqta Inca de Machu Picchu, en la región Cusco, con el fin de verificar el cumplimiento de las obligaciones ...",
-    "date": "2026-05-20T03:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-oefa-supervisa-manejo-aguas-residuales-y-residuos-solidos-ciudadela-machu-picchu-1075862.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-a-huancaina-cumple-su-primer-ano-como-especialidad-tradicional-garantizada-1075858.aspx",
-    "title": "Papa a la Huancaína cumple su primer año como especialidad tradicional garantizada",
-    "snippet": "Hoy se cumple el primer año desde que la ”Papa a la Huancaína según la tradición de la provincia de Huancayo” fue reconocida oficialmente como Especialidad Tradicional Garantizada (ETG) por el Instituto Nacional de Defen...",
-    "date": "2026-05-20T03:11:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-a-huancaina-cumple-su-primer-ano-como-especialidad-tradicional-garantizada-1075858.aspx",
-    "category": "MERCADO"
   }
 ]
