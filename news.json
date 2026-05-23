@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-inversion-privada-crecio-132-primer-trimestre-y-acumulo-9-trimestres-expansion-1076408.aspx",
+    "title": "Inversión privada creció 13.2% en primer trimestre y acumuló 9 trimestres de expansión",
+    "snippet": "La inversión privada creció 13.2% en el primer trimestre de este año y acumuló nueve trimestres consecutivos de expansión, consolidándose como uno de los principales motores del dinamismo de la demanda interna y del crec...",
+    "date": "2026-05-23T22:47:05",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inversion-privada-crecio-132-primer-trimestre-y-acumulo-9-trimestres-expansion-1076408.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-arequipa-firman-pacto-nacional-por-infraestructura-y-desarrollo-productivo-1076392.aspx",
+    "title": "Arequipa: firman Pacto Nacional por la Infraestructura y el Desarrollo Productivo",
+    "snippet": "Con el propósito de promover proyectos estratégicos que contribuyan a cerrar brechas logísticas, fomentar nuevas inversiones, fortalecer la competitividad y generar empleo formal en el país, se suscribió en Arequipa el ‘...",
+    "date": "2026-05-23T22:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-arequipa-firman-pacto-nacional-por-infraestructura-y-desarrollo-productivo-1076392.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-proinversion-adjudica-proyecto-clave-a-favor-del-hospital-del-nino-san-borja-1076317.aspx",
+    "title": "ProInversión adjudica proyecto clave a favor del Hospital del Niño de San Borja",
+    "snippet": "El Perú da un paso decisivo para garantizar la continuidad y calidad de atención de miles de niños y adolescentes con enfermedades de alta complejidad. La Agencia de Promoción de la Inversión Privada (ProInversión) adjud...",
+    "date": "2026-05-23T22:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-proinversion-adjudica-proyecto-clave-a-favor-del-hospital-del-nino-san-borja-1076317.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=437207",
     "title": "PortCastelló y Ayuntamiento presentan primer dron operativo para emergencias de bomberos",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria y el Ayuntamiento presentaron en la zona del Moll de Costa del Puerto de\nLa entrada PortCastelló y Ayuntamiento presentan primer dron operativo para e...",
@@ -1321,32 +1348,5 @@
     "source": "BBC BIZ",
     "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/oviedo-ha-batido-su-record-calor-para-mayo-aemet-avisa-que-esto-no-ha-hecho-que-empezar",
-    "title": "Oviedo está a 34º C en pleno mes de mayo y AEMET sabe que es el principio de algo más: una dorsal de calor brutal",
-    "snippet": "Quedémonos con una cifra: 34,3. Es, casi con toda seguridad, el dato más importante de la semana. El jueves 21 de mayo de 2026 los termómetros de la ciudad de Oviedo registraron una temperatura de 34,3 grados. 1.8 ºC más...",
-    "date": "2026-05-22T10:52:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/oviedo-ha-batido-su-record-calor-para-mayo-aemet-avisa-que-esto-no-ha-hecho-que-empezar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cd6pzg7z319o#0",
-    "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
-    "snippet": "The BBC's Michelle Fleury looks at trades disclosed by the president....",
-    "date": "2026-05-22T10:45:38",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/uber-haya-ha-gastado-cuatro-meses-su-presupuesto-anual-para-ia-porque-ia-nos-esta-convirtiendo-adictos-a-ella",
-    "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
-    "snippet": "El CTO de Uber, Praveen Neppalli Naga, explicaba recientemente cómo su empresa decidió desplegar Claude Code entre sus 5.000 ingenieros. La adopción de la herramienta se disparó del 32% al 84% en un mes, y todos ellos co...",
-    "date": "2026-05-22T10:31:34",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/uber-haya-ha-gastado-cuatro-meses-su-presupuesto-anual-para-ia-porque-ia-nos-esta-convirtiendo-adictos-a-ella",
-    "category": "TRIBUTARIO"
   }
 ]
