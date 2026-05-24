@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-capacito-a-mas-1000-funcionarios-gobiernos-regionales-y-locales-1076409.aspx",
+    "title": "MEF capacitó a más de 1,000 funcionarios de gobiernos regionales y locales",
+    "snippet": "Más de 1000 funcionarios de gobiernos regionales y locales recibieron asistencia técnica por parte del Ministerio de Economía y Finanzas (MEF) para contribuir a un cierre de gestión ordenado y transparente, con el objeti...",
+    "date": "2026-05-23T23:02:12",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-capacito-a-mas-1000-funcionarios-gobiernos-regionales-y-locales-1076409.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=437443",
+    "title": "Puerto de Minera Los Pelambres alcanza 30 millones de toneladas de cobre embarcadas en 26 años de operaciones",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Terminal Punta Chungo del Puerto Minera Los Pelambres (Los Vilos, Chile) completó la cifra de\nLa entrada Puerto de Minera Los Pelambres alcanza 30 millones de toneladas d...",
+    "date": "2026-05-23T23:00:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-minera-los-pelambres-alcanza-30-millones-de-toneladas-de-cobre-embarcadas-en-26-anos-de-operaciones/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-inversion-privada-crecio-132-primer-trimestre-y-acumulo-9-trimestres-expansion-1076408.aspx",
     "title": "Inversión privada creció 13.2% en primer trimestre y acumuló 9 trimestres de expansión",
     "snippet": "La inversión privada creció 13.2% en el primer trimestre de este año y acumuló nueve trimestres consecutivos de expansión, consolidándose como uno de los principales motores del dinamismo de la demanda interna y del crec...",
@@ -1330,23 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/carga-movilizada-por-puertos-chilenos-cae-09-en-abril-de-2026/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/supremo-impide-a-antena-3-seguir-usando-rosco-pasapalabra-que-puede-conducir-a-autentico-terremoto-audiencias",
-    "title": "Antena 3 y Telecinco llevan 26 años emitiendo el Rosco de 'Pasapalabra' como si fuera suyo. Y la justicia acaba de ponerle fin",
-    "snippet": "Es el programa más visto de la televisión española. Y se enfrenta a un problema considerable. Es un tema que afecta no a sus mecánicas, sino a su momento más icónico y reconocible: esos minutos finales en los que dos con...",
-    "date": "2026-05-22T10:57:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/supremo-impide-a-antena-3-seguir-usando-rosco-pasapalabra-que-puede-conducir-a-autentico-terremoto-audiencias",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0l2x5351n4o#0",
-    "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-    "snippet": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\"....",
-    "date": "2026-05-22T10:56:32",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
