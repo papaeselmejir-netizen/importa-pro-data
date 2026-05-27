@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-ministro-rodolfo-acuna-participara-roadshow-inversiones-espana-1076818.aspx",
+    "title": "MEF: ministro Rodolfo Acuña participará en roadshow de inversiones en España",
+    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña Namihas, viajará a España para participar, junto a la Agencia de Promoción de la Inversión Privada (ProInversión, en el \"Roadshow Perú: Oportunidades de Inversión en Infr...",
+    "date": "2026-05-27T04:18:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-ministro-rodolfo-acuna-participara-roadshow-inversiones-espana-1076818.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fuerte-granizada-inusual-se-registro-la-ciudad-puno-y-bloqueo-calles-1076810.aspx",
+    "title": "Fuerte granizada inusual se registró en la ciudad de Puno y bloqueó calles",
+    "snippet": "Una granizada que cayó aproximadamente una hora esta tarde, bloqueó el centro de Puno y dejó las calles cubiertas. El fenómeno afectó el tránsito de vehículos y peatones, generando retrasos y dificultades para circular....",
+    "date": "2026-05-27T03:51:45",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fuerte-granizada-inusual-se-registro-la-ciudad-puno-y-bloqueo-calles-1076810.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=437873",
+    "title": "Skarv Shipping Solutions celebra entrega de su segundo buque",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Skarv Shipping Solutions celebró en China la entrega de su segundo buque, el Peak Skarv 2.\nLa entrada Skarv Shipping Solutions celebra entrega de su segundo buque se publicó...",
+    "date": "2026-05-27T03:30:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/skarv-shipping-solutions-celebra-entrega-de-su-segundo-buque/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-inacal-adoptara-norma-iso-para-higiene-manos-establecimientos-salud-1076799.aspx",
+    "title": "Inacal adoptará la norma ISO para higiene de manos en establecimientos de salud",
+    "snippet": "El lavado de manos es una práctica esencial para prevenir la propagación de bacterias y virus, especialmente en entornos de atención sanitaria, contribuyendo así a reducir el riesgo de adquirir diversas enfermedades....",
+    "date": "2026-05-27T03:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inacal-adoptara-norma-iso-para-higiene-manos-establecimientos-salud-1076799.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=437868",
+    "title": "Servicios Portuarios Reloncaví lidera descarga de 33.000 toneladas de carga en Puerto Montt",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La empresa Servicios Portuarios Reloncaví realizó labores operativas de atención y descarga de la motonave Atacama,\nLa entrada Servicios Portuarios Reloncaví lidera descarga...",
+    "date": "2026-05-27T02:30:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/servicios-portuarios-reloncavi-lidera-descarga-de-33-000-toneladas-de-carga-en-puerto-montt/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-con-las-manos-vacias-u-queda-fuera-de-libertadores-y-no-alcanza-sudamericana-1076792.aspx",
+    "title": "Con las manos vacías: la “U” queda fuera de la Libertadores y no alcanza Sudamericana",
+    "snippet": "El tricampeón del fútbol peruano, Universitario de Deportes, cerró esta noche una magra participación en la Copa Libertadores 2026 con un empate 0-0 ante Deportes Tolima en el estadio Monumental, un resultado que lo elim...",
+    "date": "2026-05-27T02:30:28",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-con-las-manos-vacias-u-queda-fuera-de-libertadores-y-no-alcanza-sudamericana-1076792.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=437779",
+    "title": "Euroseas extiende contrato de fletamento para dos portacontenedores feeder",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Euroseas Ltd. anunció que extendió los contratos de fletamento para sus portacontenedores feeder de 1.800 TEU\nLa entrada Euroseas extiende contrato de fletamento para dos po...",
+    "date": "2026-05-27T01:00:17",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/euroseas-extiende-contrato-de-fletamento-para-dos-portacontenedores-feeder/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=437849",
     "title": "Cancilleres de Panamá y China se reúnen en medio de tensiones por puertos",
     "snippet": "Por Redacción PortalPortuario / Agencia EFE @PortalPortuario Los cancilleres de Panamá, Javier Martínez-Acha, y de China, Wang Yi, se reunieron\nLa entrada Cancilleres de Panamá y China se reúnen en medio de tensiones por...",
@@ -87,6 +150,15 @@
     "date": "2026-05-26T22:55:01",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3126199",
+    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+    "snippet": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory....",
+    "date": "2026-05-26T22:55:01",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
     "category": "MERCADO"
   },
   {
@@ -1276,77 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-suplemento-variedades-rodolfo-quiroz-o-trazo-un-pincel-cosmico-1076538.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-sanchez-resalta-importancia-pueblos-originarios-para-pais-1076534.aspx",
-    "title": "Elecciones 2026: Roberto Sánchez resalta importancia de pueblos originarios para el país",
-    "snippet": "El candidato presidencial por Juntos por el Perú, Roberto Sánchez, afirmó que los pueblos originarios son fundamentales en la construcción de un nuevo país....",
-    "date": "2026-05-25T16:19:14",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-sanchez-resalta-importancia-pueblos-originarios-para-pais-1076534.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/analisis/motorola-edge-70-fusion-analisis-caracteristicas-precio-especificaciones",
-    "title": "Motorola Edge 70 Fusion, análisis: meter 7.000 mAh en un móvil tan fino parecía magia. El truco está bajo el capó",
-    "snippet": "El año pasado, el Motorola Edge 60 Fusion se llevó nuestro halago, pues lo definimos como el heredero espiritual de los míticos Moto G: ofrecía un equilibrio atípico por poco más de 300 euros. Aquel terminal destacaba po...",
-    "date": "2026-05-25T16:15:34",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/analisis/motorola-edge-70-fusion-analisis-caracteristicas-precio-especificaciones",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3125761",
-    "title": "What ClickUp’s mass layoff tells us about the future of work",
-    "snippet": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents....",
-    "date": "2026-05-25T16:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-eeuu-y-peru-firman-acuerdo-para-impulsar-inversion-estrategica-y-crecimiento-1076530.aspx",
-    "title": "EE.UU y Perú firman acuerdo para impulsar inversión estratégica y el crecimiento",
-    "snippet": "El embajador de Estados Unidos en el Perú, Bernie Navarro, y el presidente ejecutivo de Proinversión, Luis Del Carpio, firmaron un memorando de entendimiento para fortalecer la cooperación y promover la inversión estadou...",
-    "date": "2026-05-25T15:41:59",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-eeuu-y-peru-firman-acuerdo-para-impulsar-inversion-estrategica-y-crecimiento-1076530.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mexico-dice-acepta-acoger-a-seleccion-iran-el-mundial-2026-1076533.aspx",
-    "title": "México dice que acepta acoger a la selección de Irán en el Mundial 2026",
-    "snippet": "México demostró que Irán estableció su campamento base en el país ante la negativa de Estados Unidos a que pernocten en su territorio durante el Mundial 2026, informó este lunes la presidenta Claudia Sheinbaum....",
-    "date": "2026-05-25T15:40:56",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mexico-dice-acepta-acoger-a-seleccion-iran-el-mundial-2026-1076533.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/pamplona-va-a-estrenar-cuatro-nuevos-radares-ia-detectan-llevas-cinturon-estas-movil-haces-giros-ilegales",
-    "title": "Pamplona va a estrenar cuatro nuevos radares con IA: detectan si llevas el cinturón, si estás con el móvil o si haces giros ilegales",
-    "snippet": "Pamplona va a reforzar bastante su sistema de vigilancia del tráfico a partir del próximo mes de junio. Si bien hace poco conocíamos la puesta a punto del nuevo radar de tramo de la AP-68, que por cierto es el segundo má...",
-    "date": "2026-05-25T15:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/pamplona-va-a-estrenar-cuatro-nuevos-radares-ia-detectan-llevas-cinturon-estas-movil-haces-giros-ilegales",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/pamplona-va-a-estrenar-cuatro-nuevos-radares-ia-detectan-llevas-cinturon-estas-movil-haces-giros-ilegales",
-    "title": "Pamplona va a estrenar cuatro radares con IA: detectan si llevas el cinturón, si estás con el móvil o si haces giros ilegales",
-    "snippet": "Pamplona va a reforzar bastante su sistema de vigilancia del tráfico a partir del próximo mes de junio. Si bien hace poco conocíamos la puesta a punto del nuevo radar de tramo de la AP-68, que por cierto es el segundo má...",
-    "date": "2026-05-25T15:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/pamplona-va-a-estrenar-cuatro-nuevos-radares-ia-detectan-llevas-cinturon-estas-movil-haces-giros-ilegales",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/juegos-mejorados-querian-demostrar-que-futuro-deporte-dopaje-cosas-no-salieron-como-esperaba",
-    "title": "Los 'Juegos Mejorados' querían demostrar que el futuro del deporte es el dopaje. Las cosas no salieron como esperaba",
-    "snippet": "Es pronto aún para saber si los Enhanced Games, los famosos 'Juegos Mejorados' que se celebraron este fin de semana en Las Vegas con unas reglas sobre dopaje infinitamente más laxas que las de cualquiera competición reco...",
-    "date": "2026-05-25T15:15:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/juegos-mejorados-querian-demostrar-que-futuro-deporte-dopaje-cosas-no-salieron-como-esperaba",
-    "category": "TRIBUTARIO"
   }
 ]
