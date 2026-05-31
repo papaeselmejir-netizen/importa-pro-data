@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.xataka.com/empresas-y-economia/china-no-puede-comprar-mejores-chips-nvidia-asi-que-alibaba-ha-decidido-conectar-suyos-venderlos-como-fueran-uno-solo",
+    "title": "China no puede comprar los mejores chips de Nvidia. Así que Alibaba ha decidido conectar los suyos y venderlos como si fueran uno solo",
+    "snippet": "Alibaba no quiere que su infraestructura de inteligencia artificial (IA) siga dependiendo de las tecnologías de Nvidia. Poco a poco las mayores compañías de tecnología de China están asumiendo la petición que el Gobierno...",
+    "date": "2026-05-31T10:30:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/china-no-puede-comprar-mejores-chips-nvidia-asi-que-alibaba-ha-decidido-conectar-suyos-venderlos-como-fueran-uno-solo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/nos-esta-idiotizando-hablamos-jovenes-espanoles-que-rechazan-utilizar-ia-conscientemente",
+    "title": "\"Nos está idiotizando\": hablamos con los jóvenes españoles que rechazan utilizar la IA conscientemente",
+    "snippet": "Mientras la IA se integra cada vez más en los estudios, el trabajo y la vida cotidiana, un fenómeno paralelo y aún minoritario se gesta en el subsuelo de la opinión pública y de los entornos profesionales: la de una corr...",
+    "date": "2026-05-31T10:16:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/nos-esta-idiotizando-hablamos-jovenes-espanoles-que-rechazan-utilizar-ia-conscientemente",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/zambia-burbujas-gas-aguas-termales-delatan-posible-nacimiento-insolita-nueva-placa-tectonica",
+    "title": "En Zambia, las burbujas de gas en las aguas termales apuntan a un nacimiento insólito: una nueva placa tectónica",
+    "snippet": "Año 2005, el suelo del desierto de Afar, en Etiopía, se abre de repente a lo largo de más de 50 kilómetros en apenas unos días tras una intensa secuencia sísmica y volcánica. Para muchos geólogos aquella imagen era como ...",
+    "date": "2026-05-31T10:00:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/zambia-burbujas-gas-aguas-termales-delatan-posible-nacimiento-insolita-nueva-placa-tectonica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/taiwan-corazon-industrial-asml-negocio-chips-avanzados-crece-rapido-que-no-da-abasto",
+    "title": "Taiwán ya es el corazón industrial de ASML: el negocio de los chips avanzados crece tan rápido que no da abasto",
+    "snippet": "ASML, la compañía de Países Bajos que fabrica las máquinas más avanzadas de producción de circuitos integrados, había previsto contratar a 600 nuevos empleados en Taiwán este año. Finalmente se ha visto obligada a revisa...",
+    "date": "2026-05-31T09:30:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/taiwan-corazon-industrial-asml-negocio-chips-avanzados-crece-rapido-que-no-da-abasto",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/dejarias-que-limpien-tu-casa-gratis-a-cambio-que-graben-arriba-abajo-esta-startup-cree-que-diras-que",
+    "title": "¿Dejarías que limpien tu casa gratis a cambio de que la graben de arriba abajo? Esta startup cree que dirás que sí",
+    "snippet": "Tu piso como los chorros del oro por la cara. En principio, así de bien suena la propuesta de Shift, un servicio lanzado en Nueva York que ofrece servicios de limpieza integral de viviendas. ¿Es acaso una ONG? Pues no, l...",
+    "date": "2026-05-31T09:16:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/dejarias-que-limpien-tu-casa-gratis-a-cambio-que-graben-arriba-abajo-esta-startup-cree-que-diras-que",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/queremos-que-haya-mil-millones-desarrolladores-asi-como-ve-futuro-programacion-mario-rodriguez-cpo-github",
+    "title": "\"Queremos que haya mil millones de desarrolladores\": así es como ve el futuro de la programación Mario Rodríguez, CPO de GitHub",
+    "snippet": "Hace casi cinco años nos preguntábamos para qué programar cuando una máquina podía hacerlo por ti. Corría el mes de julio de 2021 y se lanzaba GitHub Copilot, el primer gran asistente de IA que además presumía de estar p...",
+    "date": "2026-05-31T09:00:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/queremos-que-haya-mil-millones-desarrolladores-asi-como-ve-futuro-programacion-mario-rodriguez-cpo-github",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/seleccion/corte-ingles-esta-liquidando-su-outlet-online-teles-lg-samsung-sony-paneles-oled-miniled",
     "title": "El Corte Inglés está liquidando en su outlet online teles LG, Samsung y Sony con paneles OLED y miniLED",
     "snippet": "El Corte Inglés suele tener un gran surtido de dispositivos en su outlet online, y desde hace unos cuantos días podemos encontrar muchísimos televisores de marcas como LG, Sony y Samsung. Lo interesante es que son teles ...",
@@ -308,6 +362,15 @@
   {
     "id": "https://www.xataka.com/cine-y-tv/produccion-esta-pelicula-disney-fue-caotico-que-hicieron-desaparecer-documental-que-detallaba-como-se-hizo",
     "title": "La producción de esta película de Disney fue tan caótico que hicieron desaparecer un documental que detallaba cómo se hizo",
+    "snippet": "En 1994, el director de 'El Rey León' tenía lista su próxima gran película: una epopeya musical sobre el Imperio inca, con Sting componiendo las canciones y Owen Wilson en el reparto. Seis años después, lo que acabó lleg...",
+    "date": "2026-05-30T16:30:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/produccion-esta-pelicula-disney-fue-caotico-que-hicieron-desaparecer-documental-que-detallaba-como-se-hizo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/produccion-esta-pelicula-disney-fue-caotico-que-hicieron-desaparecer-documental-que-detallaba-como-se-hizo",
+    "title": "'El emperador y sus locuras' iba para sucesora de El Rey León en el imperio inca. McDonald's lo convirtió en una comedia sin guion",
     "snippet": "En 1994, el director de 'El Rey León' tenía lista su próxima gran película: una epopeya musical sobre el Imperio inca, con Sting componiendo las canciones y Owen Wilson en el reparto. Seis años después, lo que acabó lleg...",
     "date": "2026-05-30T16:30:45",
     "source": "XATAKA",
@@ -1285,68 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/tres-almacenamientos-nube-que-incluyen-vpn-gratis-perfectos-buscas-ahorrar-recortar-suscripcion",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/no-tirarse-ningun-al-pedo-al-dia-no-buena-noticia-gases-mejor-signo-para-valorar-microbiota",
-    "title": "No tirarse ningún al pedo al día no es buena noticia: los gases son el mejor signo para valorar la microbiota",
-    "snippet": "El tránsito intestinal casi siempre ha sido un tema tabú, rodeado de mitos, remedios caseros y sobre todo silencios incómodos incluso ante una consulta médica. Sin embargo, lo que ocurre en nuestro intestino es un indica...",
-    "date": "2026-05-29T16:00:42",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/no-tirarse-ningun-al-pedo-al-dia-no-buena-noticia-gases-mejor-signo-para-valorar-microbiota",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438385",
-    "title": "Antaq supervisa Planes de Gestión Ambiental de puertos gestionados por Codeba",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Agencia Nacional de Transporte por Vías Navegables de Brasil (Antaq), a través de su Dirección\nLa entrada Antaq supervisa Planes de Gestión Ambiental de puertos gestionad...",
-    "date": "2026-05-29T16:00:33",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/antaq-supervisa-planes-de-gestion-ambiental-de-puertos-gestionados-por-codeba/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438410",
-    "title": "Roberto Paveck: La ventaja invisible de los puertos es su gobernanza",
-    "snippet": "Roberto Paveck es economista y académico, especialista en innovación y en gestión de puertos, además de columnista de PortalPortuario Cuando\nLa entrada Roberto Paveck: La ventaja invisible de los puertos es su gobernanza...",
-    "date": "2026-05-29T15:55:30",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/roberto-paveck-la-ventaja-invisible-de-los-puertos-es-su-gobernanza/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438404",
-    "title": "Logística aérea: Ceará projeta exportação de frutas e calçados em voos fretados por data centers",
-    "snippet": "Por Redação PortalPortuario @PortalPortuario O Governo do Ceará, por meio da Secretaria do Desenvolvimento Econômico (SDE), está consolidando uma estratégia\nLa entrada Logística aérea: Ceará projeta exportação de frutas ...",
-    "date": "2026-05-29T15:38:10",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/logistica-aerea-ceara-projeta-exportacao-de-frutas-e-calcados-em-voos-fretados-por-data-centers/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438345",
-    "title": "Ucrania acusa ataque ruso a buques mercantes en corredor de exportación en el Mar Negro",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Drones rusos atacaron a última hora del jueves 28 a tres buques mercantes con bandera\nLa entrada Ucrania acusa ataque ruso a buques mercantes en corredor de ...",
-    "date": "2026-05-29T15:30:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ucrania-acusa-ataque-ruso-a-buques-mercantes-en-corredor-de-exportacion-en-el-mar-negro/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-cual-es-multa-si-soy-miembro-mesa-y-no-cumplo-esa-labor-1077186.aspx",
-    "title": "Elecciones 2026: ¿Cuál es la multa si soy miembro de mesa y no cumplo con esa labor?",
-    "snippet": "Los ciudadanos que fueron elegidos como miembros de mesa para las Elecciones Generales 2026 deberán volver a cumplir esta función durante la segunda vuelta presidencial del próximo 7 de junio. De no hacerlo, podrían reci...",
-    "date": "2026-05-29T15:29:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-cual-es-multa-si-soy-miembro-mesa-y-no-cumplo-esa-labor-1077186.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1690667",
-    "title": "“En las esquinas del Perú les necesitan”, el llamado desde la Amazonía a Keiko Fujimori y Roberto Sánchez contra la minería ilegal",
-    "snippet": "La defensora de Derechos Humanos y dirigente amazónica Marcelina Angulo lanzó un duro llamado de atención al Estado por el avance de la minería ilegal en el Perú, especialmente en Iquitos....",
-    "date": "2026-05-29T15:15:45",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/en-las-esquinas-del-peru-les-necesitan-el-llamado-desde-la-amazonia-a-keiko-fujimori-y-roberto-sanchez-contra-la-mineria-ilegal-noticia-1690667",
-    "category": "MERCADO"
   }
 ]
