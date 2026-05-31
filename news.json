@@ -1,8 +1,26 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=438474",
+    "title": "Italia: Puertos del Adriático Central muestran números positivos en manejo de carga durante abril",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos gestionados por la Autoridad del Sistema Portuario del Mar Adriático Central completaron abril de\nLa entrada Italia: Puertos del Adriático Central muestran númer...",
+    "date": "2026-05-30T23:00:58",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/italia-puertos-del-adriatico-central-muestran-numeros-positivos-en-manejo-de-carga-durante-abril/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=438326",
     "title": "Puerto de Tyne recibe primera visita, turnaround y ferry de manera paralela",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Un día de alta exigencia hubo en la Terminal Internacional de Pasajeros del Puerto de Tyne,\nLa entrada Puerto de Tyne recibe primera visita, turnaround y ferry de manera par...",
+    "date": "2026-05-30T22:00:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-tyne-recibe-primera-visita-turnaround-y-ferry-de-manera-paralela/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438326",
+    "title": "Puerto de Tyne recibe atraque inaugural, turnaround y ferry de manera paralela",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un día de alta exigencia hubo en la Terminal Internacional de Pasajeros del Puerto de Tyne,\nLa entrada Puerto de Tyne recibe atraque inaugural, turnaround y ferry de manera ...",
     "date": "2026-05-30T22:00:05",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-de-tyne-recibe-primera-visita-turnaround-y-ferry-de-manera-paralela/",
@@ -34,6 +52,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/eeuu-puerto-de-oakland-observa-volumen-de-carga-estable-en-abril/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "5b089f9f-9233-437d-9e97-4ced12ec8193",
+    "title": "'The Legend of Vox Machina,' 'Every Year After' and More New Prime Video Releases We're Watching in June",
+    "snippet": "Prime Video promises romance, action and much more this June....",
+    "date": "2026-05-30T21:00:41",
+    "source": "CNET",
+    "url": "https://www.cnet.com/culture/entertainment/the-legend-of-vox-machina-new-prime-video-watching-june-2026/",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-sunat-premiara-hasta-s-100000-presentar-comprobantes-pago-como-participar-1077252.aspx",
@@ -1320,33 +1347,6 @@
     "date": "2026-05-29T13:01:37",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/ave-a-extremadura-ha-dado-pasito-clave-su-conexion-madrid-pasito-que-nos-devuelve-decada-atras",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438127",
-    "title": "Puerto de Rotterdam da nuevo paso en suministro eléctrico en tierra al inaugurar conexión en Parkkade",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Rotterdam da un paso más para lograr un entorno más sostenible, ya que\nLa entrada Puerto de Rotterdam da nuevo paso en suministro eléctrico en tierra al inaugur...",
-    "date": "2026-05-29T13:00:33",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-rotterdam-da-nuevo-paso-en-suministro-electrico-en-tierra-al-inaugurar-conexion-en-parkkade/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/1910-cometa-se-acerco-a-tierra-media-espana-entro-panico-al-creer-que-moriria-envenenada",
-    "title": "En 1910, un cometa se acercó a la Tierra. Y media España entró el pánico al creer que moriría envenenada",
-    "snippet": "En 1908, mientras revisaba el análisis espectroscópico de la cola de un cometa, el astrónomo Daniel Walter Morehouse se dio cuenta de que esta estaba llena de gases tóxicos (como el cianógeno). La publicación del descubr...",
-    "date": "2026-05-29T12:45:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/1910-cometa-se-acerco-a-tierra-media-espana-entro-panico-al-creer-que-moriria-envenenada",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/quiza-envejecer-mejor-no-dependa-solo-cuerpo-ciencia-empieza-a-estudiar-tambien-efecto-arte-cultura",
-    "title": "Quizá envejecer mejor no dependa solo del cuerpo: la ciencia empieza a estudiar también el efecto del arte y la cultura",
-    "snippet": "\"Ah, mucho gimnasio. Pero trabaja el cerebro un poquito también\". Cuando Shakira soltó esta frase, convertida de inmediato en meme global gracias a su sesión con Bizarrap, seguro que no pretendía sentar las bases de una ...",
-    "date": "2026-05-29T12:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/quiza-envejecer-mejor-no-dependa-solo-cuerpo-ciencia-empieza-a-estudiar-tambien-efecto-arte-cultura",
     "category": "TRIBUTARIO"
   }
 ]
