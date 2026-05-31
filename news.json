@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-liga-campeones-paris-festeja-los-heroes-del-psg-bajo-fuerte-vigilancia-policial-1077443.aspx",
+    "title": "Liga de Campeones: París festeja con los héroes del PSG bajo fuerte vigilancia policial",
+    "snippet": "Los jugadores del París Saint-Germain, campeones de Europa el sábado por segunda temporada consecutiva, fueron recibidos como héroes este domingo en una capital francesa que seguía festejando bajo fuerte vigilancia polic...",
+    "date": "2026-05-31T19:57:36",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-liga-campeones-paris-festeja-los-heroes-del-psg-bajo-fuerte-vigilancia-policial-1077443.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-exportaciones-papa-peruana-crecieron-19-y-llegaron-a-13-mercados-internacionales-1077429.aspx",
+    "title": "Exportaciones de papa peruana crecieron 19% y llegaron a 13 mercados internacionales",
+    "snippet": "La papa peruana consolida su posicionamiento en el mundo, gracias al trabajo articulado entre el Ministerio de Desarrollo Agrario y Riego (Midagri), a través del Servicio Nacional de Sanidad Agraria (Senasa), y miles de ...",
+    "date": "2026-05-31T19:48:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-exportaciones-papa-peruana-crecieron-19-y-llegaron-a-13-mercados-internacionales-1077429.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.engadget.com/2184452/twitch-creators-will-soon-be-able-to-stream-in-horizontal-and-vertical-formats-simultaneously/",
+    "title": "Twitch creators will soon be able to stream in horizontal and vertical formats simultaneously",
+    "snippet": "The company announced the new Dual Format feature alongside other updates at TwitchCon Europe....",
+    "date": "2026-05-31T19:17:53",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2184452/twitch-creators-will-soon-be-able-to-stream-in-horizontal-and-vertical-formats-simultaneously/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/aliexpress-empieza-unas-horas-su-promo-verano-hay-cupones-110-euros-descuentazos-moviles-consolas",
+    "title": "AliExpress empieza en unas horas su Promo de Verano: hay cupones de hasta 110 euros y descuentazos en móviles, consolas y más",
+    "snippet": "Estamos a tan solo unas horas de que comience junio, pero también la nueva Promo de Verano de AliExpress. Es uno de los mejores eventos de este marketplace, que, como de costumbre, va a tener disponibles muchísimas ofert...",
+    "date": "2026-05-31T19:16:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/aliexpress-empieza-unas-horas-su-promo-verano-hay-cupones-110-euros-descuentazos-moviles-consolas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/china-acaba-poner-marcha-dni-para-robots-humanoides-ambicion-va-mucho-alla-registro",
+    "title": "China acaba de poner en marcha un “DNI” para robots humanoides: la ambición va mucho más allá del registro",
+    "snippet": "Las personas, según el lugar del mundo en el que vivan, tienen un DNI, los vehículos tienen un número de bastidor y muchos dispositivos tecnológicos pueden seguirse a través de identificadores únicos. No es solo burocrac...",
+    "date": "2026-05-31T19:00:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/china-acaba-poner-marcha-dni-para-robots-humanoides-ambicion-va-mucho-alla-registro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438362",
+    "title": "EEUU: Puerto de San Diego estrena sistema en línea de horarios de buques",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de San Diego lanzó un nuevo sistema en línea de horarios de buques, PortControl,\nLa entrada EEUU: Puerto de San Diego estrena sistema en línea de horarios de buque...",
+    "date": "2026-05-31T19:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/eeuu-puerto-de-san-diego-estrena-sistema-en-linea-de-horarios-de-buques/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-elecciones-2026-a-cuanto-asciende-multa-electoral-no-votar-la-segunda-vuelta-1077194.aspx",
+    "title": "Elecciones 2026: ¿A cuánto asciende la multa electoral por no votar en la segunda vuelta?",
+    "snippet": "Los ciudadanos que no participen en la segunda vuelta presidencial del próximo 7 de junio deberán asumir una multa económica, cuyo monto variará según la clasificación socioeconómica del distrito consignado en su Documen...",
+    "date": "2026-05-31T18:05:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-2026-a-cuanto-asciende-multa-electoral-no-votar-la-segunda-vuelta-1077194.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/robot-que-quieren-explorar-tuneles-marte-bicho-bola-relleno-drones-diente-leon",
     "title": "El robot con el que quieren explorar los túneles de Marte es un bicho bola relleno de drones diente de león",
     "snippet": "El ser humano lleva 30 años enviando rovers a Marte. Sabemos bastante sobre su superficie, pero aún hay muchas regiones inexploradas. Un buen ejemplo son sus túneles. El planeta rojo tiene la mayor red de túneles conocid...",
@@ -1284,69 +1347,6 @@
     "date": "2026-05-29T22:34:55",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-sanipes-logra-certificacion-iso-90012015-su-sistema-gestion-de-calidad-1077270.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438427",
-    "title": "Dina Sierra: “En Colombia la carga en los puertos ha crecido en más de un 30% en el último año”",
-    "snippet": "Por Andrés Orrego Siebert @PortalPortuario El Gobierno de Gustavo Petro, en Colombia, está por terminar. El mandato, sin embargo, al\nLa entrada Dina Sierra: &#8220;En Colombia la carga en los puertos ha crecido en más de...",
-    "date": "2026-05-29T22:15:58",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/en-colombia-la-carga-en-los-puertos-ha-crecido-en-mas-de-un-30-en-el-ultimo-ano/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3127904",
-    "title": "Coders are refusing to work without AI — and that could come back to bite them",
-    "snippet": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them....",
-    "date": "2026-05-29T22:14:22",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/fbi-ha-arrestado-a-exmiembro-cia-que-tenia-tesoro-casa-40-millones-dolares-lingotes-oro",
-    "title": "El FBI ha arrestado a un exmiembro de la CIA que tenía un tesoro en casa: 40 millones de dólares en lingotes de oro",
-    "snippet": "A veces una investigación deja una imagen tan potente que amenaza con tapar el detalle más importante. En este caso, la imagen es la de unos agentes del FBI entrando en una casa de Virginia y encontrando más de 300 lingo...",
-    "date": "2026-05-29T22:01:46",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/fbi-ha-arrestado-a-exmiembro-cia-que-tenia-tesoro-casa-40-millones-dolares-lingotes-oro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-produce-suspende-temporalmente-pesca-bonito-tras-alcanzar-90-de-cuota-anual-1077257.aspx",
-    "title": "Produce suspende temporalmente la pesca de bonito tras alcanzar el 90% de la cuota anual",
-    "snippet": "El Ministerio de la Producción (Produce) informó que quedó prohibida, de manera temporal, la extracción y el desembarque del recurso bonito (Sarda chiliensis chiliensis) en todos los puntos del litoral peruano, luego de ...",
-    "date": "2026-05-29T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-produce-suspende-temporalmente-pesca-bonito-tras-alcanzar-90-de-cuota-anual-1077257.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-parque-nacional-cordillera-azul-mantiene-intacto-9996-su-territorio-amazonico-1077244.aspx",
-    "title": "Parque Nacional Cordillera Azul mantiene intacto el 99.96% de su territorio amazónico",
-    "snippet": "En medio de los desafíos ambientales que enfrenta la Amazonía, el Parque Nacional Cordillera Azul (PNCAZ) se consolida, a 25 años de su creación, como uno de los casos de conservación más exitosos del Perú, manteniendo e...",
-    "date": "2026-05-29T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-parque-nacional-cordillera-azul-mantiene-intacto-9996-su-territorio-amazonico-1077244.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidente-del-consejo-ministros-entrega-tablets-y-computadoras-ascope-1077266.aspx",
-    "title": "Presidente del Consejo de Ministros entrega tablets y computadoras en Ascope",
-    "snippet": "Para fortalecer la inclusión digital y mejorar los aprendizajes de estudiantes, el presidente del Consejo de Ministros, Luis Enrique Arroyo Sánchez, entregó 527 tablets y 20 computadoras a la Institución Educativa Ramón ...",
-    "date": "2026-05-29T21:56:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidente-del-consejo-ministros-entrega-tablets-y-computadoras-ascope-1077266.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-parque-nacional-cordillera-azul-uno-los-casos-conservacion-mas-exitosos-del-peru-1077265.aspx",
-    "title": "Parque Nacional Cordillera Azul, uno de los casos de conservación más exitosos del Perú",
-    "snippet": "En medio de los desafíos ambientales que enfrenta la Amazonía, el Parque Nacional Cordillera Azul (PNCAZ) se consolida, a 25 años de su creación, como “uno de los casos de conservación más exitosos del Perú, manteniendo ...",
-    "date": "2026-05-29T21:42:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-parque-nacional-cordillera-azul-uno-los-casos-conservacion-mas-exitosos-del-peru-1077265.aspx",
     "category": "MERCADO"
   }
 ]
