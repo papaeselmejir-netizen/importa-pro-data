@@ -1,11 +1,119 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/crmp9mppvzro#0",
+    "title": "Nvidia announces new AI chip for personal computers",
+    "snippet": "The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\"....",
+    "date": "2026-06-01T05:48:27",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ordenadores/nvidia-acaba-lanzar-su-misil-dominio-intel-amd-pcs-portatiles-hay-problema-misil-poco-obsoleto",
+    "title": "Nvidia acaba de lanzar su misil contra el dominio de Intel AMD en PCs y portátiles. Hay un problema: es un misil un poco obsoleto",
+    "snippet": "En octubre de 2025 Nvidia lanzaba su DGX Spark, una singular estación de trabajo que la empresa calificó como \"la supercomputadora de IA más pequeña del mundo\". Aquella máquina fue anunciada realmente en enero, pero tard...",
+    "date": "2026-06-01T05:30:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ordenadores/nvidia-acaba-lanzar-su-misil-dominio-intel-amd-pcs-portatiles-hay-problema-misil-poco-obsoleto",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
+    "title": "The Surface Laptop Ultra is the most powerful Surface yet, thanks to NVIDIA's RTX Spark",
+    "snippet": "Microsoft's Surface Laptop Ultra is basically a MacBook Pro clone (that's powered by NVIDIA's RTX Spark)....",
+    "date": "2026-06-01T04:43:18",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs/",
+    "title": "NVIDIA's RTX Spark is an AI \"superchip\" that will power Windows laptops and desktops",
+    "snippet": "NVIDIA claims the new RTX Spark chip for PCs will offer 1 petaflop of AI computing power....",
+    "date": "2026-06-01T04:42:52",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=940584",
+    "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+    "snippet": "Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvid...",
+    "date": "2026-06-01T04:36:41",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/940589/this-is-the-microsoft-surface-laptop-ultra-with-nvidia-rtx-spark",
+    "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+    "snippet": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many month...",
+    "date": "2026-06-01T04:28:53",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438541",
+    "title": "Motril inaugurará sistema automatizado de control fronterizo coincidiendo con Operación Paso del Estrecho",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Motril pondrá en funcionamiento su nuevo sistema automatizado de control fronterizo, coincidiendo con\nLa entrada Motril inaugurará sistema automatizado de contr...",
+    "date": "2026-06-01T04:00:13",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/motril-inaugurara-sistema-automatizado-de-control-fronterizo-coincidiendo-con-operacion-paso-del-estrecho/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-sanchez-plantea-una-verdadera-revolucion-educativa-el-pais-1077476.aspx",
+    "title": "Elecciones 2026: Roberto Sánchez plantea una verdadera revolución educativa en el país",
+    "snippet": "El candidato presidencial de Juntos por el Perú, Roberto Sánchez, afirmó que la salud y la educación deben ser servicios fundamentales para los ciudadanos e indicó que, en su eventual gobierno suyo, se hará una verdadera...",
+    "date": "2026-06-01T02:35:29",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-sanchez-plantea-una-verdadera-revolucion-educativa-el-pais-1077476.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-elecciones-2026-keiko-fujimori-propone-aplicar-plan-pacificacion-nacional-1077472.aspx",
+    "title": "Elecciones 2026: Keiko Fujimori propone aplicar el Plan de Pacificación Nacional",
+    "snippet": "La candidata  presidencial de Fuerza Popular, Keiko Fujimori, afirmó que desde el primer día de su eventual gobierno, actuará con mucha fuerza y decisión para derrotar a la criminalidad por lo que planteó la aplicación d...",
+    "date": "2026-06-01T01:47:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-elecciones-2026-keiko-fujimori-propone-aplicar-plan-pacificacion-nacional-1077472.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355319/who-benefits-significant-improvement-hong-kongs-finances?utm_source=rss_feed",
+    "title": "Who benefits from the ‘significant improvement’ in Hong Kong’s finances?",
+    "snippet": "It’s that time of the year again – tax season, so don’t forget to fill out your return. It’s also the time of the year when the Hong Kong government decides on pay rises for its civil service staff of over 170,000.\nThere...",
+    "date": "2026-06-01T01:30:07",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355319/who-benefits-significant-improvement-hong-kongs-finances?utm_source=rss_feed",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438574",
+    "title": "Canal de Panamá enmienda pliego de precalificación de Terminales Portuarias de Transbordo de Contenedores de Corozal y Telfers",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Canal de Panamá publicó la enmienda N°2 al Pliego de Precalificación de la iniciativa de\nLa entrada Canal de Panamá enmienda pliego de precalificación de Terminales Portu...",
+    "date": "2026-06-01T01:00:08",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/canal-de-panama-enmienda-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=438535",
     "title": "Havila Voyages apuesta por seguir avanzando en sostenibilidad",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La sostenibilidad sigue siendo fundamental para las operaciones de Havila Voyages. En 2025, la compañía redujo\nLa entrada Havila Voyages apuesta por seguir avanzando en sost...",
     "date": "2026-06-01T00:00:57",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/havila-voyages-apuesta-por-seguir-avanzando-en-sostenibilidad/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2183855/amds-radeon-rx-9070-gre-graphics-card-is-now-available-to-purchase/",
+    "title": "AMD's Radeon RX 9070 GRE graphics card is now available to purchase",
+    "snippet": "The Radeon RX 9070 GRE is finally available outside of China...",
+    "date": "2026-06-01T00:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2183855/amds-radeon-rx-9070-gre-graphics-card-is-now-available-to-purchase/",
     "category": "MERCADO"
   },
   {
@@ -16,6 +124,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/mas-de-mil-personas-celebraron-el-dia-de-los-patrimonios-en-el-puerto-de-arica-en-el-marco-de-sus-60-anos/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpwpeg57777o#0",
+    "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+    "snippet": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy....",
+    "date": "2026-05-31T23:32:04",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.engadget.com/2184480/nintendo-pictonico-is-a-chaotic-and-unexpectedly-good-time/",
@@ -191,6 +308,15 @@
   {
     "id": "https://www.xataka.com/magnet/cada-vez-hay-perros-guardianes-espana-cuestan-15-000-euros-ley-trata-igual-que-a-caniche",
     "title": "Cada vez hay más perros guardianes en España. Cuestan hasta 15.000 euros y la ley los trata igual que a un caniche",
+    "snippet": "España tiene un nuevo símbolo de seguridad doméstica: el viejo perro guardián, que antaño vivía tristemente atado de forma perenne o perimetrando una finca, ahora ha vuelto reconvertido en perro de paseo vitaminado. Raza...",
+    "date": "2026-05-31T17:30:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/cada-vez-hay-perros-guardianes-espana-cuestan-15-000-euros-ley-trata-igual-que-a-caniche",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/cada-vez-hay-perros-guardianes-espana-cuestan-15-000-euros-ley-trata-igual-que-a-caniche",
+    "title": "La fiebre de los perros guardianes en España: cuestan hasta 15.000 euros y la ley los trata igual que a un caniche",
     "snippet": "España tiene un nuevo símbolo de seguridad doméstica: el viejo perro guardián, que antaño vivía tristemente atado de forma perenne o perimetrando una finca, ahora ha vuelto reconvertido en perro de paseo vitaminado. Raza...",
     "date": "2026-05-31T17:30:45",
     "source": "XATAKA",
@@ -396,6 +522,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/medicina-y-salud/lista-espera-para-transplante-higado-puede-ser-eterna-asi-que-han-creado-solucion-inyectarse-uno-miniatura",
+    "title": "Inyectarse un hígado en miniatura: la revolucionaria solución científica contra las listas de espera",
+    "snippet": "La Organización Nacional de Trasplantes de España lo deja claro: el hígado es uno de los órganos más demandados en la lista de trasplantes, solo por detrás del riñón. Solo en el estado español en 2025 hubo 310 personas a...",
+    "date": "2026-05-31T13:00:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/lista-espera-para-transplante-higado-puede-ser-eterna-asi-que-han-creado-solucion-inyectarse-uno-miniatura",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3124796",
     "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
     "snippet": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace....",
@@ -425,6 +560,15 @@
   {
     "id": "https://www.xataka.com/energia/europa-tiene-plan-mierda-perdon-para-acabar-crisis-fertilizante-estiercol",
     "title": "Europa tiene un plan de mierda (con perdón) para acabar con la crisis del fertilizante: estiércol",
+    "snippet": "El bloqueo del Estrecho de Ormuz tras los ataques de EEUU e Israel sobre Irán ha tenido consecuencias que hemos notado desde el primer día, como la subida de los precios de combustible. Hay otras que amenazan en el horiz...",
+    "date": "2026-05-31T12:16:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/europa-tiene-plan-mierda-perdon-para-acabar-crisis-fertilizante-estiercol",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/europa-tiene-plan-mierda-perdon-para-acabar-crisis-fertilizante-estiercol",
+    "title": "Un 'plan de mierda' para salvar el campo: Europa recurre al  estiércol para hacer frente a la crisis del fertilizante",
     "snippet": "El bloqueo del Estrecho de Ormuz tras los ataques de EEUU e Israel sobre Irán ha tenido consecuencias que hemos notado desde el primer día, como la subida de los precios de combustible. Hay otras que amenazan en el horiz...",
     "date": "2026-05-31T12:16:44",
     "source": "XATAKA",
@@ -1203,150 +1347,6 @@
     "date": "2026-05-30T10:00:00",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-del-ahorro-tradicional-a-inversion-global-nuevo-perfil-financiero-peru-1077316.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/mito-pez-dorado-falso-popcorn-brain-real-asi-destruye-tiktok-nuestra-concentracion-forma-silenciosa",
-    "title": "El mito del pez dorado es falso, pero el 'popcorn brain' es real: así destruye TikTok nuestra concentración de forma silenciosa",
-    "snippet": "Abres Instagram por decimoctava vez en la misma hora. No hay notificación. No hay razón. Solo el gesto automático, el deslizamiento hacia arriba y la pantalla iluminándose de nuevo. En algún momento del día también habrá...",
-    "date": "2026-05-30T09:30:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/mito-pez-dorado-falso-popcorn-brain-real-asi-destruye-tiktok-nuestra-concentracion-forma-silenciosa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/transporte/megayate-este-principe-saudi-escondia-obsesion-inesperada-tres-hospitales-para-tener-atencion-medica-exclusiva",
-    "title": "El megayate de este príncipe saudí escondía una obsesión inesperada: tres hospitales a bordo para tener atención médica exclusiva",
-    "snippet": "Superyates de lujo hay muchos … y luego está el Al Salamah, que más que un yate del tamaño de un edificio de ocho plantas, en realidad hace las veces de palacio real flotante con entrada propia en la Wikipedia.\n\nCuando e...",
-    "date": "2026-05-30T09:00:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/transporte/megayate-este-principe-saudi-escondia-obsesion-inesperada-tres-hospitales-para-tener-atencion-medica-exclusiva",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cinco-mejores-ofertas-carrefour-televisores-hoy-30-mayo-modelos-98-pulgadas",
-    "title": "Las cinco mejores ofertas de Carrefour en televisores hoy, 30 de mayo, con modelos de hasta 98 pulgadas",
-    "snippet": "Carrefour ha lanzado una campaña llamada Stock Fuera donde podemos encontrar un gran surtido de televisores con descuentos muy llamativos. Hay algunos precios que conviene tener en cuenta, sobre todo si estás buscando ah...",
-    "date": "2026-05-30T08:30:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cinco-mejores-ofertas-carrefour-televisores-hoy-30-mayo-modelos-98-pulgadas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seguridad/eeuu-estan-comenzando-a-usar-tecnica-insolita-para-impedir-que-sus-camaras-espien-a-gente-cubrirlas-bolsas-basura",
-    "title": "En EEUU están comenzando a usar una técnica insólita para impedir que sus cámaras espíen a la gente: cubrirlas con bolsas de basura",
-    "snippet": "Varias ciudades estadounidenses han recurrido a una solución que puede parecer rudimentaria, pero que funciona de maravilla para frenar la vigilancia de sus propias cámaras de matrículas: taparlas con bolsas de basura ne...",
-    "date": "2026-05-30T08:30:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seguridad/eeuu-estan-comenzando-a-usar-tecnica-insolita-para-impedir-que-sus-camaras-espien-a-gente-cubrirlas-bolsas-basura",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/tiempo-1940-ha-cambiado-barbaridad-fin-tenemos-maquina-tiempo-para-verlo-mapa-interactivo",
-    "title": "El tiempo desde 1940 ha cambiado una barbaridad. Por fin tenemos una máquina del tiempo para verlo en un mapa interactivo",
-    "snippet": "Naci un lunes de septiembre a mediodía y, obedeciendo a la tradición del veranillo de San Miguel, el tiempo era suave y soleado pese a que octubre estaba a la vuelta de la esquina. Lo sé porque me lo ha contado mi madre ...",
-    "date": "2026-05-30T08:00:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/tiempo-1940-ha-cambiado-barbaridad-fin-tenemos-maquina-tiempo-para-verlo-mapa-interactivo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/europa-prepara-cuatro-medidas-para-independizarse-tecnologia-estados-unidos-problema-que-no-sabe-como",
-    "title": "Europa prepara cuatro medidas para independizarse de la tecnología de Estados Unidos. El problema es que no sabe cómo",
-    "snippet": "La Unión Europea lleva tiempo rumiando que depender de terceros para gestionar sus datos, sus chips y su infraestructura digital es un riesgo que ya no puede permitirse, así que el próximo miércoles 3 de junio va a poner...",
-    "date": "2026-05-30T07:46:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/europa-prepara-cuatro-medidas-para-independizarse-tecnologia-estados-unidos-problema-que-no-sabe-como",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/necesitariamos-detonar-arsenal-nuclear-tierra-130-veces-para-liberar-energia-que-causo-grandes-canones-luna-1",
-    "title": "Necesitaríamos detonar el arsenal nuclear de la Tierra 130 veces para liberar la energía que causó los grandes cañones de la Luna",
-    "snippet": "La Luna tiene su propio “Gran Cañón del Colorado”, y por partida doble. Solo que estos dos cañones no fueron causadas por la lenta erosión de un río como el Colorado: 15 minutos de destrucción sobraron para dejar estas d...",
-    "date": "2026-05-30T07:30:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/necesitariamos-detonar-arsenal-nuclear-tierra-130-veces-para-liberar-energia-que-causo-grandes-canones-luna-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/bolido-tunguska-brutal-explosion-12-megatones-que-1908-nos-puso-frente-a-horrores-espacio",
-    "title": "El bólido de Tunguska: la brutal explosión de 12 megatones que en 1908 nos puso frente a los horrores del espacio",
-    "snippet": "El 30 de junio de 1908, una explosión del tamaño de una bomba H destruyó millones de árboles en decenas de kilómetros a la redonda. Así entró Tunguska, una remota región siberiana, en los libros de historia.\nDimensiones ...",
-    "date": "2026-05-30T07:01:47",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/bolido-tunguska-brutal-explosion-12-megatones-que-1908-nos-puso-frente-a-horrores-espacio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-color-de-arquitectura-limena-y-sus-plazas-nueva-muestra-luis-angulo-alegria-1077310.aspx",
-    "title": "El color de la arquitectura limeña y sus plazas en nueva muestra de Luis Angulo Alegría",
-    "snippet": "El artista peruano Luis Angulo Alegría presenta la exposición El atardecer del color rojo y el amanecer del color amarillo, una serie de 18 pinturas de estilo naif que recorren el Centro Histórico de Lima desde una dimen...",
-    "date": "2026-05-30T06:15:33",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-color-de-arquitectura-limena-y-sus-plazas-nueva-muestra-luis-angulo-alegria-1077310.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tres-factores-del-mundo-laboral-influyen-la-decision-las-mujeres-ser-madres-1077292.aspx",
-    "title": "Tres factores del mundo laboral que influyen en la decisión de las mujeres de ser madres",
-    "snippet": "Una tendencia demográfica viene marcando un cambio profundo en la forma en que las mujeres viven la maternidad en el Perú, ya que dentro de la ultima década, la tasa de natalidad (que mide el número de nacimientos por ca...",
-    "date": "2026-05-30T06:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tres-factores-del-mundo-laboral-influyen-la-decision-las-mujeres-ser-madres-1077292.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-innovadores-peruanos-podran-participar-competencia-internacional-invenciones-1077295.aspx",
-    "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones",
-    "snippet": "El Indecopi invita a inventores, diseñadores, empresas e instituciones de todo el país a integrar la delegación peruana que participará en la décimo primera edición de la Competencia Internacional de Invenciones e Innova...",
-    "date": "2026-05-30T03:03:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-innovadores-peruanos-podran-participar-competencia-internacional-invenciones-1077295.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438433",
-    "title": "Brasil y Surinam impulsan cooperación para fortalecer sector portuario y marítimo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Representantes del Ministerio de Puertos y Aeropuertos de Brasil y del Gobierno de Surinam firmaron una\nLa entrada Brasil y Surinam impulsan cooperación para fortalecer sect...",
-    "date": "2026-05-30T02:00:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-y-surinam-impulsan-cooperacion-para-fortalecer-sector-portuario-y-maritimo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-exportaciones-peru-a-guatemala-sumaron-26-millones-entre-enero-y-marzo-1077286.aspx",
-    "title": "Exportaciones de Perú a Guatemala sumaron US$ 26 millones entre enero y marzo",
-    "snippet": "Entre enero y marzo del 2026, los envíos peruanos hacia Guatemala acumularon un valor de 26 millones de dólares, informó el Ministerio de Comercio Exterior y Turismo (Mincetur)....",
-    "date": "2026-05-30T02:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-exportaciones-peru-a-guatemala-sumaron-26-millones-entre-enero-y-marzo-1077286.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1690771",
-    "title": "Petroperú reportó una utilidad neta de 208,4 millones de dólares en el primer cuatrimestre del año",
-    "snippet": "La compañía estatal señaló que este desempeño refleja el impacto positivo de las medidas implementadas para optimizar la cadena de valor y el sistema de abastecimiento, así como una gestión más eficiente de inventarios y...",
-    "date": "2026-05-30T01:14:48",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/petroperu-reporto-una-utilidad-neta-de-2084-millones-de-dolares-en-el-primer-cuatrimestre-del-ano-noticia-1690771",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-inacal-instala-comite-tecnico-para-impulsar-finanzas-sostenibles-peru-1077280.aspx",
-    "title": "Inacal instala comité técnico para impulsar finanzas sostenibles en Perú",
-    "snippet": "El Instituto Nacional de Calidad (Inacal), organismo adscrito al Ministerio de la Producción (Produce), instaló el Comité Técnico de Normalización (CTN) de Finanzas Sostenibles, con el objetivo de desarrollar Normas Técn...",
-    "date": "2026-05-30T01:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-inacal-instala-comite-tecnico-para-impulsar-finanzas-sostenibles-peru-1077280.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-pj-entrega-ordenes-pago-s210-millones-para-beneficiarios-pension-alimentos-1077285.aspx",
-    "title": "PJ entrega órdenes de pago por S/210 millones para beneficiarios de pensión de alimentos",
-    "snippet": "El Poder Judicial entregó órdenes de pago por más de 210 millones de soles (incluido un monto en dólares) en favor de beneficiarios por pensiones de alimentos, omisión a la asistencia familiar y otros conceptos, tras con...",
-    "date": "2026-05-30T00:51:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-pj-entrega-ordenes-pago-s210-millones-para-beneficiarios-pension-alimentos-1077285.aspx",
     "category": "TRIBUTARIO"
   }
 ]
