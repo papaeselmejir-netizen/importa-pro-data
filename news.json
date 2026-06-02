@@ -1,5 +1,392 @@
 [
   {
+    "id": "https://www.engadget.com/2185697/asus-nvidia-rtx-spark-laptops-could-give-the-macbook-pro-some-competitoin/",
+    "title": "ASUS's NVIDIA RTX Spark laptops could give the MacBook Pro some competition",
+    "snippet": "ASUS was one of the launch customers for NVIDIA's new RTX Spark ARM \"superchip\" and it's laptops look like the most interesting ones for creators....",
+    "date": "2026-06-02T14:51:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2185697/asus-nvidia-rtx-spark-laptops-could-give-the-macbook-pro-some-competitoin/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-martes-2-junio-del-2026-1077657.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy martes 2 de junio del 2026?",
+    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-06-02T14:50:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-martes-2-junio-del-2026-1077657.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/analisis/mova-viax-500-analisis-caracteristicas-precio-especificaciones",
+    "title": "Mova ViAX 500, análisis: sí, existen robots cortacésped para jardines más pequeños y sí, este funciona de miedo",
+    "snippet": "Hace un año tuve ocasión de probar el Dreame A2, un robot cortacésped de 2.800 euros que me encantó, pero que era demasiado para los 100 metros cuadrados que tiene el jardín de casa. En un jardín así habría sido suficien...",
+    "date": "2026-06-02T14:45:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/analisis/mova-viax-500-analisis-caracteristicas-precio-especificaciones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-premios-oscar-del-turismo-2026-por-votar-peru-como-mejor-destino-sudamerica-1074957.aspx",
+    "title": "Premios Óscar del Turismo 2026: ¿Por qué votar por Perú como Mejor Destino de Sudamérica?",
+    "snippet": "El próximo 12 de junio vence el plazo para votar por las 21 candidaturas de Perú en la edición sudamericana de los World Travel Awards 2026, conocidos como los Premios Óscar del Turismo. ¿Por qué votar por Perú como Mejo...",
+    "date": "2026-06-02T14:36:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-premios-oscar-del-turismo-2026-por-votar-peru-como-mejor-destino-sudamerica-1074957.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/2026-sera-ano-historico-para-smartphones-peor-ano-historia-concretamente",
+    "title": "2026 será un año histórico para los smartphones. El peor año de la historia, concretamente",
+    "snippet": "El mercado de los smartphones está tocado. El de la tecnología, en general, con las propias marcas avisando hace meses sobre lo que se venía y animando a que anticipemos lo antes posible las compras tecnológicas de los p...",
+    "date": "2026-06-02T14:31:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/2026-sera-ano-historico-para-smartphones-peor-ano-historia-concretamente",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438965",
+    "title": "MSC defiende su neutralidad comercial tras ataque contra uno de sus buques cerca de puerto iraquí",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Tras confirmar que su portacontenedores MSC Sariska V fue impactado por dos proyectiles al sureste del\nLa entrada MSC defiende su neutralidad comercial tras ataque contra un...",
+    "date": "2026-06-02T14:30:24",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/msc-defiende-su-neutralidad-comercial-tras-ataque-contra-uno-de-sus-buques-cerca-de-puerto-iraqui/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mundial-2026-estas-son-diez-cifras-acompanan-a-proxima-copa-del-mundo-1077656.aspx",
+    "title": "Mundial 2026: Estas son diez cifras que acompañan a la próxima Copa del Mundo",
+    "snippet": "El mundo del fútbol se alista para recibir al Mundial 2026, que se disputará desde el 11 de junio al 19 de julio, y estas son las cifras que acompañan al certamen que asoma como inédito porque será la primera vez que se ...",
+    "date": "2026-06-02T14:25:04",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mundial-2026-estas-son-diez-cifras-acompanan-a-proxima-copa-del-mundo-1077656.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-suplemento-cronica-universitaria-fotografo-se-resiste-al-olvido-1077655.aspx",
+    "title": "Suplemento La Crónica Universitaria: el fotógrafo que se resiste al olvido",
+    "snippet": "...",
+    "date": "2026-06-02T14:19:05",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-suplemento-cronica-universitaria-fotografo-se-resiste-al-olvido-1077655.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/investigacion/mayor-error-que-puedes-cometer-noche-antes-selectividad-no-dejarte-tema-mirar-no-dormir",
+    "title": "El mayor error que puedes cometer la noche antes de la Selectividad no es dejarte un tema sin mirar: es no dormir",
+    "snippet": "Cuando pensamos en un estudiante en época de exámenes o en un opositor que se prepara de manera muy intensa para un examen que le ofrecerá una estabilidad laboral, automáticamente se nos viene la clásica estampa de estar...",
+    "date": "2026-06-02T14:15:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/investigacion/mayor-error-que-puedes-cometer-noche-antes-selectividad-no-dejarte-tema-mirar-no-dormir",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mundial-2026-ingresos-apuestas-superaran-los-50000-millones-dolares-la-copa-1077652.aspx",
+    "title": "Mundial 2026: Ingresos por apuestas superarán los 50.000 millones de dólares en la Copa",
+    "snippet": "Los ingresos por apuestas durante el próximo Mundial 2026 superarán probablemente los 50.000 millones de dólares, aseguró a la AFP el experto en apuestas Darren Small, una mano para las empresas del sector....",
+    "date": "2026-06-02T14:05:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mundial-2026-ingresos-apuestas-superaran-los-50000-millones-dolares-la-copa-1077652.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-onp-mira-aqui-cronograma-oficial-pagos-pensiones-junio-apellido-1076869.aspx",
+    "title": "ONP:  Mira aquí el cronograma oficial de pagos de pensiones de junio por apellido",
+    "snippet": "La Oficina de Normalización Previsional (ONP), organismo adscrito al Ministerio de Economía y Finanzas (MEF), informó que desde el próximo 5 de junio se iniciará el pago de pensiones a un total de 778,958 asegurados a ni...",
+    "date": "2026-06-02T14:03:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-onp-mira-aqui-cronograma-oficial-pagos-pensiones-junio-apellido-1076869.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438954",
+    "title": "Aegean Shipping recibe su segundo tanquero LR2",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Aegean Shipping anunció la recepción de su nuevo tanquero LR2. Se trata de la\nLa entrada Aegean Shipping recibe su segundo tanquero LR2 se publicó primero en Port...",
+    "date": "2026-06-02T14:02:15",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/aegean-shipping-recibe-su-segundo-tanquero-lr2/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/cruce-famoso-tokio-se-ha-convertido-zona-llena-turistas-basura-su-solucion-patrullas-multas",
+    "title": "Japón se ha hartado de que los turistas arrojen basura en la calle. Así que ha empezado a controlarlos con policías y multas",
+    "snippet": "No importa qué guía uses, seguro que si buscas los lugares icónicos de Japón entre ellos figurará Shibuya, uno de los distritos más dinámicos de Tokio. El barrio es conocido por sus neones, su skyline y (sobre todo) su f...",
+    "date": "2026-06-02T14:01:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/cruce-famoso-tokio-se-ha-convertido-zona-llena-turistas-basura-su-solucion-patrullas-multas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1691118",
+    "title": "Gobierno oficializó subsidio temporal para el transporte público en Lima y Callao ante el alza de combustibles",
+    "snippet": "Esta medida busca mitigar el impacto económico por el incremento del precio de los hidrocarburos y garantizar la operatividad del servicio. La ATU será la encargada de administrar los fondos, los cuales serán calculados ...",
+    "date": "2026-06-02T14:00:02",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/gobierno-oficializo-subsidio-temporal-para-el-transporte-publico-en-lima-y-callao-ante-el-alza-de-combustibles-noticia-1691118",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3128569",
+    "title": "Amazon Prime Day 2026 takes place June 23-26",
+    "snippet": "Groceries and household essentials will be a main focus of this year's deals event....",
+    "date": "2026-06-02T13:47:53",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/equipos-para-jugar-para-nomadas-digitales-para-tareas-exigentes-cinco-ordenadores-portatiles-rebajados-asus-weeks",
+    "title": "Equipos para jugar, para nómadas digitales o para las tareas más exigentes: cinco ordenadores portátiles rebajados en las ASUS Weeks",
+    "snippet": "Con lo difícil que es hoy en día montar un PC por piezas (en parte, por culpa del precio de la RAM), los ordenadores portátiles parten con ventaja. Lo difícil quizás es elegir uno que se adapte a nuestro presupuesto y a ...",
+    "date": "2026-06-02T13:45:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/equipos-para-jugar-para-nomadas-digitales-para-tareas-exigentes-cinco-ordenadores-portatiles-rebajados-asus-weeks",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/ia-esta-destruyendo-trabajos-tambien-esta-creando-otros-2-000-dolares-masturbarte",
+    "title": "La IA está destruyendo trabajos, y también está creando otros: 2.000 dólares por masturbarte",
+    "snippet": "La IA no solo está poniendo en riesgo empleos, también está inventando otros tan insólitos como inquietantes. Mientras unos puestos se tambalean y otros ganan valor, una empresa que vende compañeros virtuales ha dado un ...",
+    "date": "2026-06-02T13:31:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/ia-esta-destruyendo-trabajos-tambien-esta-creando-otros-2-000-dolares-masturbarte",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438740",
+    "title": "China: Puerto de Qingdao gestiona su primer buque Cabu",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La zona portuaria de Qianwan, en Qingdao, recibió al megabuque Cabu Ballard, cargado con 61.956 toneladas\nLa entrada China: Puerto de Qingdao gestiona su primer buque Cabu s...",
+    "date": "2026-06-02T13:30:27",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/china-puerto-de-qingdao-gestiona-su-primer-buque-cabu/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=941484",
+    "title": "Lego’s Smart Play Pokémon can train and battle, but don’t do the one thing I wish they could",
+    "snippet": "When Lego announced its tech-packed Smart Bricks at CES, we were impressed by the potential - enough to give it our Best in Show award. But when the first Star Wars sets actually launched in March, we were less enamored....",
+    "date": "2026-06-02T13:28:27",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mundial-2026-poderio-sudamericano-busca-reinar-el-cita-maxima-del-futbol-1077646.aspx",
+    "title": "Mundial 2026: El poderío sudamericano busca reinar en el cita máxima del fútbol",
+    "snippet": "Las selecciones sudamericanas suelen estar entre las principales animadoras de la Copa Mundial y en 2026 estarán representadas por Argentina, Brasil, Colombia, Ecuador, Paraguay y Uruguay, que intentarán proclamarse camp...",
+    "date": "2026-06-02T13:28:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mundial-2026-poderio-sudamericano-busca-reinar-el-cita-maxima-del-futbol-1077646.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3128559",
+    "title": "Blue Origin plans to launch New Glenn again this year after explosion",
+    "snippet": "CEO Dave Limp said damage to the company's launchpad in Florida was not as bad as expected. But Blue Origin still hasn't shared the cause of last week's explosion....",
+    "date": "2026-06-02T13:25:59",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/emilia-clarke-se-despacha-sus-trabajos-marvel-star-wars-terminator-nunca-deberia-haber-pasado",
+    "title": "Emilia Clarke se despacha sobre sus trabajos en Marvel, Star Wars y Terminator: \"Nunca debería haber pasado\"",
+    "snippet": "En una entrevista reciente, Emilia Clarke repasó su trayectoria post-'Juego de Tronos' con una franqueza poco habitual. Sobre 'Invasión secreta' dijo: \"Creo que a nadie le gustó la serie.\" Sobre 'Han Solo: Una historia d...",
+    "date": "2026-06-02T13:15:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/emilia-clarke-se-despacha-sus-trabajos-marvel-star-wars-terminator-nunca-deberia-haber-pasado",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/llevamos-anos-atascados-intentando-enchufar-barcos-a-tierra-alternativa-acaba-validarse-no-necesita-cables-a-ciudad",
+    "title": "Cada vez que un megabarco llega a un puerto colapsa la red eléctrica. La alternativa ya existe y no necesita cables a la ciudad",
+    "snippet": "Los puertos de todo el mundo se enfrentan a un mandato urgente e ineludible: descarbonizarse. La exigencia pasa por apagar los enormes motores diésel de los buques comerciales y de cruceros una vez que atracan, conectánd...",
+    "date": "2026-06-02T13:01:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/llevamos-anos-atascados-intentando-enchufar-barcos-a-tierra-alternativa-acaba-validarse-no-necesita-cables-a-ciudad",
+    "category": "LEGAL"
+  },
+  {
+    "id": "caec1446-6c48-4830-96df-23af7e551e39",
+    "title": "Lego Makes Pokemon Interactive With Smart Bricks. I Got to Play Trainer",
+    "snippet": "These 12 new Smart Play-enabled Lego sets will be essential for Pokemon fans of any age -- but the kids will especially love battle mode....",
+    "date": "2026-06-02T13:01:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/lego-pokemon-smart-play-brick-sets-pricing-release-date/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "3646e133-5d00-4cb1-9d8d-aa18737152a1",
+    "title": "Nintendo's New Switch 2 StarFox Feels Like the Game I Always Wanted to Play",
+    "snippet": "I played the new Switch 2 remake for a little while and it's a pretty fantastic do-over....",
+    "date": "2026-06-02T13:01:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/starfox-remake-nintendo-switch-2-preview/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "5754c4be-b750-43bb-a093-639da863b20a",
+    "title": "Netflix Highlights Book Adaptations With New Dedicated Hub",
+    "snippet": "The streamer now has a go-to spot for book-inspired movies and shows....",
+    "date": "2026-06-02T13:00:54",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/netflix-highlights-book-adaptations-with-new-dedicated-hub/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438918",
+    "title": "Brasil: AD Ports Group adquiere operador de terminales portuarias de carga agrícola a granel CLI",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario AD Ports Group adquirió Corredor Logística e Infraestrutura (CLI), el principal operador independiente de terminales portuarias\nLa entrada Brasil: AD Ports Group adquiere op...",
+    "date": "2026-06-02T13:00:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-ad-ports-group-adquiere-operador-de-terminales-portuarias-de-carga-agricola-a-granel-cli/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2185271/the-star-fox-remake-is-a-test-for-the-franchises-future/",
+    "title": "The Star Fox remake is a test for the franchise's future",
+    "snippet": "Nintendo is trying to bring back Fox's mojo with a beautiful remake of the series' best game....",
+    "date": "2026-06-02T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2185271/the-star-fox-remake-is-a-test-for-the-franchises-future/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438922",
+    "title": "Fiscalización de Aduana en Puerto de Arica evita exportación ilegal de 429 kilos de cobre robado",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Dirección Regional de Aduanas concretó un nuevo procedimiento de fiscalización en el Puerto de Arica\nLa entrada Fiscalización de Aduana en Puerto de Arica evita exportaci...",
+    "date": "2026-06-02T12:48:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/fiscalizacion-de-aduana-en-puerto-de-arica-evita-exportacion-ilegal-de-429-kilos-de-cobre-robado/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/eeuu-abrio-puerta-al-chip-h200-nvidia-china-ejercito-chino-lleva-tiempo-esperando-al-otro-lado",
+    "title": "EEUU abrió la puerta al chip H200 de Nvidia en China. El ejército chino lleva tiempo esperando al otro lado",
+    "snippet": "Jensen Huang, el director general de Nvidia, se ha visto obligado a \"pelear\" con el Departamento de Comercio de EEUU durante meses, pero ha conseguido lo que pretendía: su compañía ya puede entregar a algunos de sus clie...",
+    "date": "2026-06-02T12:45:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/eeuu-abrio-puerta-al-chip-h200-nvidia-china-ejercito-chino-lleva-tiempo-esperando-al-otro-lado",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.theverge.com/?p=940021",
+    "title": "Amazon’s four-day Prime Day begins on June 23rd",
+    "snippet": "Amazon bucked its usual tradition of having Prime Day in July. Prime Day 2026 is happening in June, kicking off in just a few weeks. Prime members will get access to many deals starting June 23rd at 3:01AM ET through Jun...",
+    "date": "2026-06-02T12:38:59",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/940021/amazon-prime-day-2026-june-dates-deals",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/eeuu-ha-tenido-idea-para-tranquilizar-a-europa-vez-soldados-va-a-llevar-sus-armas-nucleares-frente-a-rusia",
+    "title": "EEUU ha tenido una idea para tranquilizar a Europa. En vez de soldados, va a llevar sus armas nucleares muy cerca de Rusia",
+    "snippet": "En 1983, decenas de miles de mujeres llegaron a rodear una base aérea británica para protestar contra el despliegue de misiles nucleares estadounidenses. Aquella movilización, conocida en el tiempo como Greenham Common, ...",
+    "date": "2026-06-02T12:31:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/eeuu-ha-tenido-idea-para-tranquilizar-a-europa-vez-soldados-va-a-llevar-sus-armas-nucleares-frente-a-rusia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/oficial-regresa-espana-prime-day-amazon-fechas-beneficios-confirmados",
+    "title": "Ya es oficial: regresa en España el Prime Day de Amazon con fechas y beneficios confirmados",
+    "snippet": "Amazon anunció semanas atrás que durante este mes de junio que acabamos de comenzar tendría lugar una nueva edición de su Prime Day: varias jornadas repletas de chollos, exclusivos para miembros Prime, con los que ahorra...",
+    "date": "2026-06-02T12:21:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/oficial-regresa-espana-prime-day-amazon-fechas-beneficios-confirmados",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-inventando-todo-para-acabar-mosquitos-ahora-tenemos-arma-prometedora-laser-que-detecta-frie",
+    "title": "Llevamos años inventando de todo para acabar con los mosquitos. Ahora tenemos un arma prometedora: un láser que los detecta y los fríe",
+    "snippet": "Un joven ingeniero chino llamado Steven Cheng ha construido un sistema sorprendente para matar mosquitos. Su proyecto hace uso de un emisor de láser conectado a una cámara y un ordenador. Al combinar algoritmos de visión...",
+    "date": "2026-06-02T12:15:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-inventando-todo-para-acabar-mosquitos-ahora-tenemos-arma-prometedora-laser-que-detecta-frie",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/tener-todo-dinero-cuenta-corriente-puede-parecer-idea-fantastica-hay-expertos-que-advierten-que-contrario",
+    "title": "Los expertos coinciden sobre los ahorros: \"Tener todo el dinero en una cuenta corriente es uno de los principales errores\"",
+    "snippet": "A los españoles nos gusta saber que tenemos nuestros ahorros a mano, disponibles para los gastos del mes, hacer frente a imprevistos o sencillamente darnos un capricho. Hace no mucho Triodos Bank hizo un estudio para ave...",
+    "date": "2026-06-02T12:01:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/tener-todo-dinero-cuenta-corriente-puede-parecer-idea-fantastica-hay-expertos-que-advierten-que-contrario",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=941150",
+    "title": "People are leaving a lot of weird stuff in their robotaxis",
+    "snippet": "A unicorn Beanie Baby. A 15-pound green bowling ball. A pair of dentures. These are just some of the items left behind in robotaxis in the past year, according to Uber's annual Lost and Found Index. For the first time, t...",
+    "date": "2026-06-02T12:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/temperaturas-bajan-manana-nadie-se-fia-temperaturas-5-10-grados-encima-normal-van-a-seguir-dice-rodriguez-marcos-aemet",
+    "title": "Francisco Javier Rodríguez Marcos (AEMET): no nos engañemos, \"las temperaturas entre 5 o 10 grados por encima de lo normal van a seguir\"",
+    "snippet": "Lo sabemos desde hace semanas. AEMET cree que el trimestre junio-julio-agosto de 2026 estará en el tercil cálido en toda España y la verdad es que no es una apuesta muy arriesgada. De las 10 olas de calor que AEMET ha co...",
+    "date": "2026-06-02T11:45:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/temperaturas-bajan-manana-nadie-se-fia-temperaturas-5-10-grados-encima-normal-van-a-seguir-dice-rodriguez-marcos-aemet",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/batalla-alta-velocidad-italia-alguien-le-ha-pasado-derecha-a-renfe-alguien-llamado-francia",
+    "title": "En la batalla por la alta velocidad en Italia, alguien le ha pasado por la derecha a Renfe. Un alguien llamado Francia",
+    "snippet": "SNCF competirá por la alta velocidad italiana desde septiembre de 2027. La compañía francesa tiene, desde hace algunas semanas, el visto bueno para operar en la red italiana y plantar cara a la empresa estatal Trenitalia...",
+    "date": "2026-06-02T11:31:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/batalla-alta-velocidad-italia-alguien-le-ha-pasado-derecha-a-renfe-alguien-llamado-francia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1691116",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 02 de junio del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy martes 02 de junio es de  S/3.41 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-06-02T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-02-de-junio-del-2026-noticia-1691116",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/trabajar-seis-meses-the-witcher-4-desarrollador-enciende-tren-hype-gente-no-esta-lista-para-esto",
+    "title": "Tras trabajar seis meses en 'The Witcher 4', un desarrollador enciende el tren del hype: \"La gente no está lista para esto\"",
+    "snippet": "Hay un término que hemos normalizado en el mundillo de la tecnología y los videojuegos: \"hype\". No me gusta nada este anglicismo y prefiero \"engorile\". Ese enrogile es una parte esencial en el marketing actual porque se ...",
+    "date": "2026-06-02T11:01:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/trabajar-seis-meses-the-witcher-4-desarrollador-enciende-tren-hype-gente-no-esta-lista-para-esto",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=438729",
+    "title": "Ofiniti adquiere Teqplay para aumentar su capacidad de análisis de escalas y movimientos de buques",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La empresa de tecnología Ofiniti adquirió la compañía Teqplay con sede en Rotterdam (Países Bajos). El\nLa entrada Ofiniti adquiere Teqplay para aumentar su capacidad de anál...",
+    "date": "2026-06-02T11:00:17",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ofiniti-adquiere-teqplay-para-aumentar-su-capacidad-de-analisis-de-escalas-y-movimientos-de-buques/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3128349",
+    "title": "Pacific Fusion’s latest prototype packs 440 gigawatts into an 80-nanosecond burst",
+    "snippet": "Pacific Fusion's sub-scale prototype delivered enormous amounts of power in a flash, setting the company up for its demonstration power plant....",
+    "date": "2026-06-02T11:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/union-europea-esta-derrumbando-exito-centenares-presas-todo-continente-nuestro-bien",
+    "title": "La Unión Europea está derrumbando con éxito centenares de presas en todo el continente. Es por nuestro bien",
+    "snippet": "Cuando en diciembre de 2025, Tore Sorebakken y un equipo de trabajadores llegaron al río Vinstra, en el corazón de Noruega, nadie sabía qué estaban buscando. Pero cuando vaciaron el estanque, perforaron decenas de agujer...",
+    "date": "2026-06-02T10:31:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/union-europea-esta-derrumbando-exito-centenares-presas-todo-continente-nuestro-bien",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/china-quiere-satelites-que-piensen-solos-ia-llega-a-vigilancia-orbital-expertos-se-preocupan",
     "title": "China tiene un nuevo \"cerebro de IA\": la tecnología necesaria para espiar y tomar decisiones militares desde el cielo",
     "snippet": "La Inteligencia Artificial (IA) conlleva muchos beneficios, pero también muchos riesgos. Por eso, eliminar la supervisión humana puede ser una malísima idea. Es un tema bastante recurrente que se ha vuelto a poner sobre ...",
@@ -7,6 +394,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/china-quiere-satelites-que-piensen-solos-ia-llega-a-vigilancia-orbital-expertos-se-preocupan",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "cbd1a46a-21c9-4ab9-a857-bfeea3b36c44",
+    "title": "What's New on Peacock in June? 'Love Island USA,' 'Las Culturistas Awards,' 'Strung' and More",
+    "snippet": "Chloe Bailey's new Peacock original thriller Strung is giving us all the creeps....",
+    "date": "2026-06-02T10:01:01",
+    "source": "CNET",
+    "url": "https://www.cnet.com/culture/entertainment/whats-new-on-peacock-june-2026/",
+    "category": "MERCADO"
   },
   {
     "id": "https://portalportuario.cl/?p=438696",
@@ -951,402 +1347,6 @@
     "date": "2026-06-01T11:05:39",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-01-de-junio-del-2026-noticia-1690948",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/japon-ha-revisado-su-censo-cinco-anos-acaba-descubrir-algo-alarmante-se-han-esfumado-tres-millones-personas",
-    "title": "Japón ha revisado su censo tras cinco años y acaba de descubrir algo alarmante: se han esfumado tres millones de personas",
-    "snippet": "Tres millones de personas son (más o menos) la población de Armenia, Puerto Rico o Mongolia. También el agujero que acaban de encontrarse las autoridades japonesas al repasar su censo nacional, una tarea que realizan cad...",
-    "date": "2026-06-01T11:00:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/japon-ha-revisado-su-censo-cinco-anos-acaba-descubrir-algo-alarmante-se-han-esfumado-tres-millones-personas",
-    "category": "LEGAL"
-  },
-  {
-    "id": "6a10a39b53c0522b0e59b42c",
-    "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
-    "snippet": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars....",
-    "date": "2026-06-01T11:00:00",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/llevamos-anos-pensando-que-paneles-solares-arrasaban-campo-resulta-que-aves-e-insectos-viven-mucho-mejor-debajo-ellos",
-    "title": "Llevamos años pensando que los paneles solares arrasaban el campo: resulta que las aves e insectos viven mucho mejor debajo de ellos",
-    "snippet": "Llevamos años oyendo que la expansión de los parques solares amenaza al campo. La imagen mental que solemos tener es la de hectáreas y hectáreas de paneles negros bajo un sol implacable, arrasando el paisaje y sin un sol...",
-    "date": "2026-06-01T10:30:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/llevamos-anos-pensando-que-paneles-solares-arrasaban-campo-resulta-que-aves-e-insectos-viven-mucho-mejor-debajo-ellos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/renovar-consola-no-estaba-mis-planes-dificil-resistirse-a-estas-ofertas-aliexpress-hay-nintendo-switch-2-varias-ps5",
-    "title": "Renovar consola no estaba en mis planes, pero es difícil resistirse a estas ofertas de AliExpress: hay Nintendo Switch 2 y varias PS5",
-    "snippet": "En los últimos meses, hemos visto cómo PlayStation 5 ha subido de precio, algo que ha \"replicado\" también Nintendo Switch 2. Eso hace complicado hacerse con una de estas consolas a buen precio, pero no imposible. Para el...",
-    "date": "2026-06-01T10:16:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/renovar-consola-no-estaba-mis-planes-dificil-resistirse-a-estas-ofertas-aliexpress-hay-nintendo-switch-2-varias-ps5",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "b7601761-0975-47b5-ae75-478210682769",
-    "title": "Gas Is Over $4 a Gallon. Is an Electric Scooter the Summer Upgrade You Need?",
-    "snippet": "Riding an e-scooter for quick errands and everyday trips can save you money on gas, but is it enough to make a difference? We show you how to do the math....",
-    "date": "2026-06-01T10:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/roadshow/news/gas-is-expensive-is-an-electric-scooter-worth-it-to-save-money/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2184658/nvidia-isaac-gr00t-humanoid-robotic-platform/",
-    "title": "NVIDIA's Isaac Gr00t platform gives researchers access to frontier humanoid robotics",
-    "snippet": "NVIDIA announced the new Isaac Gr00t reference design humanoid robot platform that combines humanoid robot, five-fingered hands and NVIDIA Jetson Thor compute....",
-    "date": "2026-06-01T09:45:05",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2184658/nvidia-isaac-gr00t-humanoid-robotic-platform/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/eeuu-intento-borrar-a-huawei-mapa-huawei-tiene-algo-que-decirles-gracias",
-    "title": "EEUU intentó borrar a Huawei del mapa. Huawei tiene algo que decirles: \"gracias”",
-    "snippet": "Estados Unidos lleva un lustro intentando dejar a Huawei en fuera de juego. Bueno, aunque comenzó con Huawei, realmente lleva años de guerra comercial con China, lo que implica un recrudecimiento de aranceles, sanciones ...",
-    "date": "2026-06-01T09:00:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/eeuu-intento-borrar-a-huawei-mapa-huawei-tiene-algo-que-decirles-gracias",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/basics/declaracion-renta-2025-presencial-que-necesitas-como-pedir-cita-previa-para-hacerla-persona-este-2026",
-    "title": "Declaración de la Renta 2025 presencial: qué necesitas y cómo pedir la cita previa para hacerla en persona en este 2026",
-    "snippet": "Vamos a explicarte qué necesitas y cómo hacer tu declaración de la Renta de forma presencial. Después de la posibilidad de hacer la declaración de la Renta 2025 a través de Internet y por teléfono, el calendario de la Re...",
-    "date": "2026-06-01T08:53:18",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/declaracion-renta-2025-presencial-que-necesitas-como-pedir-cita-previa-para-hacerla-persona-este-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/google-pixel-10-500-euros-galaxy-a57-varios-xiaomi-estas-mejores-ofertas-moviles-aliexpress",
-    "title": "Un Google Pixel 10 por menos de 500 euros, Galaxy A57, varios Xiaomi y más: estas son las mejores ofertas en móviles de AliExpress",
-    "snippet": "Sí, la Promo de Verano de AliExpress ya está activa. Este marketplace va lanzando eventos durante todo el año, pero no hay demasiados que sean tan potentes como este. Hay ofertas en tecnología muy jugosas, aunque en esta...",
-    "date": "2026-06-01T08:46:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/google-pixel-10-500-euros-galaxy-a57-varios-xiaomi-estas-mejores-ofertas-moviles-aliexpress",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/que-iran-derribara-f-15-eeuu-era-insolito-problema-que-eeuu-ha-abierto-misil-todo-apunta-a-china",
-    "title": "Que Irán derribara un F-15 de EEUU era algo insólito. El problema es que han abierto el misil... y todo apunta a China",
-    "snippet": "En 1960, cuando un avión espía estadounidense U-2 fue derribado sobre la Unión Soviética, Washington creyó inicialmente que se enfrentaba a un problema militar. Acabó descubriendo que el incidente tenía consecuencias dip...",
-    "date": "2026-06-01T08:30:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/que-iran-derribara-f-15-eeuu-era-insolito-problema-que-eeuu-ha-abierto-misil-todo-apunta-a-china",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/hombre-pago-23-dolares-caja-pc-subasta-descubrio-su-interior-cpu-24-nucleos-rtx-3080-ti",
-    "title": "Un hombre pagó 23 dólares por una caja de PC en una subasta. Descubrió en su interior una CPU de 24 núcleos y una RTX 3080 Ti",
-    "snippet": "Las subastas online están llenas de oportunidades inesperadas, pero pocas historias sorprenden tanto como esta. Imagina entrar a una plataforma local de segunda mano con la idea de conseguir una simple caja de ordenador....",
-    "date": "2026-06-01T08:16:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/hombre-pago-23-dolares-caja-pc-subasta-descubrio-su-interior-cpu-24-nucleos-rtx-3080-ti",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/elon-musk-no-quiere-solo-llegar-a-luna-tambien-quiere-convertirla-fabrica-satelites-lanzados-catapultas",
-    "title": "Elon Musk no quiere solo llegar a la Luna, también quiere convertirla en una fábrica de satélites lanzados con catapultas",
-    "snippet": "¿Qué tienen en común China, SpaceX, Auriga Space y Electromagnetic Launch? Bueno, posiblemente varias cosas, pero una de ellas es que han manifestado su interés en usar cañones de masa para hacer lanzamientos desde la Lu...",
-    "date": "2026-06-01T08:00:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/elon-musk-no-quiere-solo-llegar-a-luna-tambien-quiere-convertirla-fabrica-satelites-lanzados-catapultas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crmp9mppvzro#0",
-    "title": "Nvidia announces new AI chip for personal computers",
-    "snippet": "The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\"....",
-    "date": "2026-06-01T05:48:27",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/nvidia-acaba-lanzar-su-misil-dominio-intel-amd-pcs-portatiles-hay-problema-misil-poco-obsoleto",
-    "title": "Nvidia acaba de lanzar su misil contra el dominio de Intel AMD en PCs y portátiles. Hay un problema: es un misil un poco obsoleto",
-    "snippet": "En octubre de 2025 Nvidia lanzaba su DGX Spark, una singular estación de trabajo que la empresa calificó como \"la supercomputadora de IA más pequeña del mundo\". Aquella máquina fue anunciada realmente en enero, pero tard...",
-    "date": "2026-06-01T05:30:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/nvidia-acaba-lanzar-su-misil-dominio-intel-amd-pcs-portatiles-hay-problema-misil-poco-obsoleto",
-    "category": "LEGAL"
-  },
-  {
-    "id": "599cf67b-68eb-4bb1-b9f6-1a04bdf4fd19",
-    "title": "Nvidia RTX Spark May Light a Fire for Windows on Arm",
-    "snippet": "The new SoC promises class-leading performance for creation and gaming, and, of course, generative AI and agents....",
-    "date": "2026-06-01T05:30:42",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/computing/nvidia-rtx-spark-may-light-a-fire-for-windows-on-arm/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
-    "title": "The Surface Laptop Ultra is the most powerful Surface yet, thanks to NVIDIA's RTX Spark",
-    "snippet": "Microsoft's Surface Laptop Ultra is basically a MacBook Pro clone (that's powered by NVIDIA's RTX Spark)....",
-    "date": "2026-06-01T04:43:18",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs/",
-    "title": "NVIDIA's RTX Spark is an AI \"superchip\" that will power Windows laptops and desktops",
-    "snippet": "NVIDIA claims the new RTX Spark chip for PCs will offer 1 petaflop of AI computing power....",
-    "date": "2026-06-01T04:42:52",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=940584",
-    "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
-    "snippet": "Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvid...",
-    "date": "2026-06-01T04:36:41",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/940589/this-is-the-microsoft-surface-laptop-ultra-with-nvidia-rtx-spark",
-    "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
-    "snippet": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many month...",
-    "date": "2026-06-01T04:28:53",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438541",
-    "title": "Motril inaugurará sistema automatizado de control fronterizo coincidiendo con Operación Paso del Estrecho",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Motril pondrá en funcionamiento su nuevo sistema automatizado de control fronterizo, coincidiendo con\nLa entrada Motril inaugurará sistema automatizado de contr...",
-    "date": "2026-06-01T04:00:13",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/motril-inaugurara-sistema-automatizado-de-control-fronterizo-coincidiendo-con-operacion-paso-del-estrecho/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-sanchez-plantea-una-verdadera-revolucion-educativa-el-pais-1077476.aspx",
-    "title": "Elecciones 2026: Roberto Sánchez plantea una verdadera revolución educativa en el país",
-    "snippet": "El candidato presidencial de Juntos por el Perú, Roberto Sánchez, afirmó que la salud y la educación deben ser servicios fundamentales para los ciudadanos e indicó que, en su eventual gobierno suyo, se hará una verdadera...",
-    "date": "2026-06-01T02:35:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-roberto-sanchez-plantea-una-verdadera-revolucion-educativa-el-pais-1077476.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-keiko-fujimori-propone-aplicar-plan-pacificacion-nacional-1077472.aspx",
-    "title": "Elecciones 2026: Keiko Fujimori propone aplicar el Plan de Pacificación Nacional",
-    "snippet": "La candidata  presidencial de Fuerza Popular, Keiko Fujimori, afirmó que desde el primer día de su eventual gobierno, actuará con mucha fuerza y decisión para derrotar a la criminalidad por lo que planteó la aplicación d...",
-    "date": "2026-06-01T01:47:35",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-keiko-fujimori-propone-aplicar-plan-pacificacion-nacional-1077472.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355319/who-benefits-significant-improvement-hong-kongs-finances?utm_source=rss_feed",
-    "title": "Who benefits from the ‘significant improvement’ in Hong Kong’s finances?",
-    "snippet": "It’s that time of the year again – tax season, so don’t forget to fill out your return. It’s also the time of the year when the Hong Kong government decides on pay rises for its civil service staff of over 170,000.\nThere...",
-    "date": "2026-06-01T01:30:07",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355319/who-benefits-significant-improvement-hong-kongs-finances?utm_source=rss_feed",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438574",
-    "title": "Canal de Panamá enmienda pliego de precalificación de Terminales Portuarias de Transbordo de Contenedores de Corozal y Telfers",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Canal de Panamá publicó la enmienda N°2 al Pliego de Precalificación de la iniciativa de\nLa entrada Canal de Panamá enmienda pliego de precalificación de Terminales Portu...",
-    "date": "2026-06-01T01:00:08",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/canal-de-panama-enmienda-pliego-de-precalificacion-de-terminales-portuarias-de-transbordo-de-contenedores-de-corozal-y-telfers/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438535",
-    "title": "Havila Voyages apuesta por seguir avanzando en sostenibilidad",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La sostenibilidad sigue siendo fundamental para las operaciones de Havila Voyages. En 2025, la compañía redujo\nLa entrada Havila Voyages apuesta por seguir avanzando en sost...",
-    "date": "2026-06-01T00:00:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/havila-voyages-apuesta-por-seguir-avanzando-en-sostenibilidad/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2183855/amds-radeon-rx-9070-gre-graphics-card-is-now-available-to-purchase/",
-    "title": "AMD's Radeon RX 9070 GRE graphics card is now available to purchase",
-    "snippet": "The Radeon RX 9070 GRE is finally available outside of China...",
-    "date": "2026-06-01T00:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2183855/amds-radeon-rx-9070-gre-graphics-card-is-now-available-to-purchase/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438640",
-    "title": "Más de mil personas celebraron el Día de los Patrimonios en el Puerto de Arica en el marco de sus 60 años",
-    "snippet": "Por PortalPortuario Social Con más de mil asistentes, entre ellos familias, niños, jóvenes y vecinos de la región, el Puerto\nLa entrada Más de mil personas celebraron el Día de los Patrimonios en el Puerto de Arica en el...",
-    "date": "2026-05-31T23:47:39",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/mas-de-mil-personas-celebraron-el-dia-de-los-patrimonios-en-el-puerto-de-arica-en-el-marco-de-sus-60-anos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cpwpeg57777o#0",
-    "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
-    "snippet": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy....",
-    "date": "2026-05-31T23:32:04",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2184480/nintendo-pictonico-is-a-chaotic-and-unexpectedly-good-time/",
-    "title": "Nintendo's Pictonico! is a chaotic and unexpectedly good time",
-    "snippet": "It's like WarioWare, but you and all the people you love are the characters....",
-    "date": "2026-05-31T23:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2184480/nintendo-pictonico-is-a-chaotic-and-unexpectedly-good-time/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq8p1jy3vxlo#0",
-    "title": "Caribbean hot sauce producers warn of shortages and higher prices",
-    "snippet": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply....",
-    "date": "2026-05-31T23:19:32",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438623",
-    "title": "Roberto Frigola: “Necesitamos un plan maestro, digitalización, menos burocracia y mantenimiento de fiscalidad atractiva”",
-    "snippet": "Por Pablo Ramírez, corresponsal @PortalPortuario Roberto Frigola es el presidente de la Cámara Paraguaya de Terminales y Puertos Privados (Caterppa),\nLa entrada Roberto Frigola: &#8220;Necesitamos un plan maestro, digita...",
-    "date": "2026-05-31T22:00:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/roberto-frigola-necesitamos-un-plan-maestro-digitalizacion-menos-burocracia-y-mantenimiento-de-fiscalidad-atractiva/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-conoce-las-senales-debes-tener-cuenta-el-desarrollo-bebes-menores-2-anos-1077455.aspx",
-    "title": "Conoce las señales que debes tener en cuenta en el desarrollo de bebés menores de 2 años",
-    "snippet": "¿Sabías que existen señales que nos advierten si algo no marcha bien en el crecimiento de los más pequeños? El Ministerio de Salud (Minsa) recalca que vigilar estas señales permite identificar si la niña o el niño se est...",
-    "date": "2026-05-31T21:25:48",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-conoce-las-senales-debes-tener-cuenta-el-desarrollo-bebes-menores-2-anos-1077455.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-nasa-impulsa-mision-psyche-tras-exitoso-sobrevuelo-marte-rumbo-a-un-asteroide-metalico-1077453.aspx",
-    "title": "NASA impulsa misión Psyche tras exitoso sobrevuelo de Marte rumbo a un asteroide metálico",
-    "snippet": "La nave espacial Psyche de la NASA completó con éxito una maniobra clave en su viaje hacia el asteroide del mismo nombre, tras realizar una aproximación cercana a Marte el pasado 15 de mayo. El sobrevuelo permitió aprove...",
-    "date": "2026-05-31T21:15:39",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-nasa-impulsa-mision-psyche-tras-exitoso-sobrevuelo-marte-rumbo-a-un-asteroide-metalico-1077453.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438422",
-    "title": "DaChan Bay Terminals es la primera terminal de China en lograr la total electrificación de su flota de camiones",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DaChan Bay Terminals anunció la electrificación total de su flota de camiones en la terminal tras\nLa entrada DaChan Bay Terminals es la primera terminal de China en lograr l...",
-    "date": "2026-05-31T21:00:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dachan-bay-terminals-es-la-primera-terminal-de-china-en-lograr-la-total-electrificacion-de-su-flota-de-camiones/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-foro-del-ceplan-identifica-gobernanza-territorial-como-pilar-para-amazonia-al-2050-1077431.aspx",
-    "title": "Foro del Ceplan identifica gobernanza territorial como pilar para la Amazonía al 2050",
-    "snippet": "El Centro Nacional de Planeamiento Estratégico (Ceplan) destacó que la interoperabilidad de datos, la gestión territorial articulada y la seguridad jurídica de los pueblos indígenas constituyen condiciones clave para ava...",
-    "date": "2026-05-31T20:41:38",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-foro-del-ceplan-identifica-gobernanza-territorial-como-pilar-para-amazonia-al-2050-1077431.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=940540",
-    "title": "How to watch Nvidia&#8217;s Computex keynote",
-    "snippet": "NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's pr...",
-    "date": "2026-05-31T20:20:35",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-liga-campeones-paris-festeja-los-heroes-del-psg-bajo-fuerte-vigilancia-policial-1077443.aspx",
-    "title": "Liga de Campeones: París festeja con los héroes del PSG bajo fuerte vigilancia policial",
-    "snippet": "Los jugadores del París Saint-Germain, campeones de Europa el sábado por segunda temporada consecutiva, fueron recibidos como héroes este domingo en una capital francesa que seguía festejando bajo fuerte vigilancia polic...",
-    "date": "2026-05-31T19:57:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-liga-campeones-paris-festeja-los-heroes-del-psg-bajo-fuerte-vigilancia-policial-1077443.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-exportaciones-papa-peruana-crecieron-19-y-llegaron-a-13-mercados-internacionales-1077429.aspx",
-    "title": "Exportaciones de papa peruana crecieron 19% y llegaron a 13 mercados internacionales",
-    "snippet": "La papa peruana consolida su posicionamiento en el mundo, gracias al trabajo articulado entre el Ministerio de Desarrollo Agrario y Riego (Midagri), a través del Servicio Nacional de Sanidad Agraria (Senasa), y miles de ...",
-    "date": "2026-05-31T19:48:58",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-exportaciones-papa-peruana-crecieron-19-y-llegaron-a-13-mercados-internacionales-1077429.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.engadget.com/2184452/twitch-creators-will-soon-be-able-to-stream-in-horizontal-and-vertical-formats-simultaneously/",
-    "title": "Twitch creators will soon be able to stream in horizontal and vertical formats simultaneously",
-    "snippet": "The company announced the new Dual Format feature alongside other updates at TwitchCon Europe....",
-    "date": "2026-05-31T19:17:53",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2184452/twitch-creators-will-soon-be-able-to-stream-in-horizontal-and-vertical-formats-simultaneously/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/aliexpress-empieza-unas-horas-su-promo-verano-hay-cupones-110-euros-descuentazos-moviles-consolas",
-    "title": "AliExpress empieza en unas horas su Promo de Verano: hay cupones de hasta 110 euros y descuentazos en móviles, consolas y más",
-    "snippet": "Estamos a tan solo unas horas de que comience junio, pero también la nueva Promo de Verano de AliExpress. Es uno de los mejores eventos de este marketplace, que, como de costumbre, va a tener disponibles muchísimas ofert...",
-    "date": "2026-05-31T19:16:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/aliexpress-empieza-unas-horas-su-promo-verano-hay-cupones-110-euros-descuentazos-moviles-consolas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/china-acaba-poner-marcha-dni-para-robots-humanoides-ambicion-va-mucho-alla-registro",
-    "title": "China acaba de poner en marcha un “DNI” para robots humanoides: la ambición va mucho más allá del registro",
-    "snippet": "Las personas, según el lugar del mundo en el que vivan, tienen un DNI, los vehículos tienen un número de bastidor y muchos dispositivos tecnológicos pueden seguirse a través de identificadores únicos. No es solo burocrac...",
-    "date": "2026-05-31T19:00:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/china-acaba-poner-marcha-dni-para-robots-humanoides-ambicion-va-mucho-alla-registro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=438362",
-    "title": "EEUU: Puerto de San Diego estrena sistema en línea de horarios de buques",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de San Diego lanzó un nuevo sistema en línea de horarios de buques, PortControl,\nLa entrada EEUU: Puerto de San Diego estrena sistema en línea de horarios de buque...",
-    "date": "2026-05-31T19:00:21",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/eeuu-puerto-de-san-diego-estrena-sistema-en-linea-de-horarios-de-buques/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-a-cuanto-asciende-multa-electoral-no-votar-la-segunda-vuelta-1077194.aspx",
-    "title": "Elecciones 2026: ¿A cuánto asciende la multa electoral por no votar en la segunda vuelta?",
-    "snippet": "Los ciudadanos que no participen en la segunda vuelta presidencial del próximo 7 de junio deberán asumir una multa económica, cuyo monto variará según la clasificación socioeconómica del distrito consignado en su Documen...",
-    "date": "2026-05-31T18:05:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-a-cuanto-asciende-multa-electoral-no-votar-la-segunda-vuelta-1077194.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/robot-que-quieren-explorar-tuneles-marte-bicho-bola-relleno-drones-diente-leon",
-    "title": "El robot con el que quieren explorar los túneles de Marte es un bicho bola relleno de drones diente de león",
-    "snippet": "El ser humano lleva 30 años enviando rovers a Marte. Sabemos bastante sobre su superficie, pero aún hay muchas regiones inexploradas. Un buen ejemplo son sus túneles. El planeta rojo tiene la mayor red de túneles conocid...",
-    "date": "2026-05-31T18:00:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/robot-que-quieren-explorar-tuneles-marte-bicho-bola-relleno-drones-diente-leon",
     "category": "TRIBUTARIO"
   }
 ]
