@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.engadget.com/2188674/looks-like-minecraft-dungeons-ii-is-coming-in-september/",
+    "title": "Looks like Minecraft Dungeons II is coming in September",
+    "snippet": "A new Nintendo eShop page announced the game's release date early....",
+    "date": "2026-06-05T21:29:46",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2188674/looks-like-minecraft-dungeons-ii-is-coming-in-september/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-huanuco-productores-concretan-primera-venta-directa-papa-amarilla-a-agroindustria-1078202.aspx",
+    "title": "Huánuco: productores concretan primera venta directa de papa amarilla a la agroindustria",
+    "snippet": "Por primera vez, la Asociación de Productores Agrarios Churacan, en el distrito de San Rafael, provincia de Ambo (Huánuco), comercializó directamente más de seis toneladas de papa amarilla Tumbay a la empresa agroindustr...",
+    "date": "2026-06-05T21:02:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-huanuco-productores-concretan-primera-venta-directa-papa-amarilla-a-agroindustria-1078202.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439744",
+    "title": "Portacontenedores Laura Maersk alcanza nuevo hito en pruebas con etanol",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El portacontenedores Laura Maersk alcanzó un nuevo hito en las pruebas que se están realizando para\nLa entrada Portacontenedores Laura Maersk alcanza nuevo hito en pruebas c...",
+    "date": "2026-06-05T21:00:06",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/portacontenedores-laura-maersk-alcanza-nuevo-hito-en-pruebas-con-etanol/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-venta-viviendas-lima-moderna-crece-25-y-supera-las-4200-unidades-el-2026-1078199.aspx",
+    "title": "Venta de viviendas en Lima Moderna crece 25% y supera las 4,200 unidades en el 2026",
+    "snippet": "La demanda inmobiliaria en Lima Moderna mantiene un fuerte dinamismo este 2026. Entre enero y abril se vendieron 4,271 viviendas en distritos como Jesús María, San Miguel, Surquillo, Pueblo Libre, Magdalena y Lince, cifr...",
+    "date": "2026-06-05T21:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-venta-viviendas-lima-moderna-crece-25-y-supera-las-4200-unidades-el-2026-1078199.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-samuel-y-su-amor-por-futbol-una-historia-late-con-emocion-del-mundial-2026-1078187.aspx",
+    "title": "Samuel y su amor por el fútbol: una historia que late con la emoción del Mundial 2026",
+    "snippet": "A pocos días del inicio de la Copa Mundial de Fútbol 2026, torneo que reunirá a 48 selecciones de todo el planeta, incluidas seis representantes de Sudamérica, la expectativa y la pasión por el fútbol crecen en diferente...",
+    "date": "2026-06-05T20:30:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-samuel-y-su-amor-por-futbol-una-historia-late-con-emocion-del-mundial-2026-1078187.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/deepseek-acaba-lograr-algo-impensable-hace-unos-meses-ganar-terreno-empresas-estadounidenses",
+    "title": "DeepSeek acaba de lograr algo impensable hace unos meses: ganar terreno entre empresas estadounidenses",
+    "snippet": "Hace no tanto, la idea de que una empresa estadounidense pagara directamente a una compañía china como DeepSeek para usar inteligencia artificial habría sonado, como mínimo, improbable. No porque faltaran modelos alterna...",
+    "date": "2026-06-05T20:01:10",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/deepseek-acaba-lograr-algo-impensable-hace-unos-meses-ganar-terreno-empresas-estadounidenses",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439738",
+    "title": "Ecuador: Ian Taylor coordina descarga de helicóptero militar en Puerto de Manta",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Ian Taylor coordinó la llegada de un helicóptero militar Airbus H225 y sus componentes asociados en\nLa entrada Ecuador: Ian Taylor coordina descarga de helicóptero militar e...",
+    "date": "2026-06-05T20:00:31",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ecuador-ian-taylor-coordina-descarga-de-helicoptero-militar-en-puerto-de-manta/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/seleccion/oficial-asi-primer-monitor-qd-oled-triple-resolucion-mundo-msi-no-ha-llegado-solo",
     "title": "Ya es oficial: así es el primer monitor QD-OLED con triple resolución del mundo de MSI. Y no ha llegado solo",
     "snippet": "La Computex 2026 está siendo el escenario para que muchas marcas presenten una batería de productos. Una de ellas es MSI, que ha puesto sobre el escenario una selección bastante grande de monitores donde destaca especial...",
@@ -24,6 +87,15 @@
     "date": "2026-06-05T19:30:05",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/maersk-despliega-servicio-ac1-entre-asia-y-sudamerica/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "96aec76e-b352-4b4d-9a18-0f8bd8e94393",
+    "title": "Samsung Health App Gets AI Upgrade Before Rumored Galaxy Watch 9 Launch",
+    "snippet": "AI will help you understand your complex biometric data and what to do with it....",
+    "date": "2026-06-05T19:28:27",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/samsung-health-app-ai-upgrade-before-samsung-galaxy-watch-9-launch/",
     "category": "MERCADO"
   },
   {
@@ -1276,77 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/bsm-entra-al-segmento-vlec/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy826zjxdgvo#1",
-    "title": "'Apocalyptic' Tata Steel fire sees 'substantial' damage to production line",
-    "snippet": "Residents are advised to keep windows and doors closed as crews battle the fire in Port Talbot....",
-    "date": "2026-06-04T17:25:16",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/cy826zjxdgvo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/union-europea-presenta-su-plan-soberania-digital-para-competir-eeuu-tecnologicamente-maravillosa-utopia",
-    "title": "La Unión Europea presenta su plan de soberanía digital para competir con EEUU tecnológicamente. Es una maravillosa utopía",
-    "snippet": "La comisión Europea acaba de anunciar el Paquete Europeo de Soberanía Tecnológica. El objetivo es el de reducir a dependencia europea de proveedores extranjeros tanto de soluciones hardware como software, y para ello el ...",
-    "date": "2026-06-04T17:15:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/union-europea-presenta-su-plan-soberania-digital-para-competir-eeuu-tecnologicamente-maravillosa-utopia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "6a1f05b05038cb3aa6f9af7a",
-    "title": "The TikTok Ban Was Never About TikTok",
-    "snippet": "A new documentary chronicles how the app became a stand-in for American anxieties about social media, China, and political power....",
-    "date": "2026-06-04T17:06:21",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/made-in-china-tiktok-never-dies/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/batalla-aena-ryanair-tasas-aeroportuarias-cnmc-ha-hablado-deben-reducirse",
-    "title": "La CNMC tiene claro su veredicto sobre la guerra entre Aena y Ryanair: \"Las tarifas aeroportuarias deberían reducirse\"",
-    "snippet": "\"Deberían reducirse\". \nDos palabras resumen la posición de la CNMC respecto a la estrategia que Aena debe aplicar en relación a las tasas aeroportuarias. La compañía semiestatal quiere aplicar una subida del 3,82% en las...",
-    "date": "2026-06-04T17:01:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/batalla-aena-ryanair-tasas-aeroportuarias-cnmc-ha-hablado-deben-reducirse",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=943147",
-    "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
-    "snippet": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-...",
-    "date": "2026-06-04T17:01:15",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=439500",
-    "title": "Puerto Las Losas obtiene certificación Ssindex",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto Las Losas (PLL), empresa del Grupo CAP, obtuvo la certificación Ssindex en las categorías employees\nLa entrada Puerto Las Losas obtiene certificación Ssindex  se publ...",
-    "date": "2026-06-04T16:59:06",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-las-losas-obtiene-certificacion-ssindex/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-agro-arequipeno-conquista-52-paises-favorecido-crecimiento-exportador-sin-precedentes-1078012.aspx",
-    "title": "Agro arequipeño conquista 52 países favorecido por crecimiento exportador sin precedentes",
-    "snippet": "Con la asistencia técnica del Ministerio de Desarrollo Agrario y Riego (Midagri), a través del Servicio Nacional de Sanidad Agraria (Senasa), más de 46,000 productores de Arequipa lideran una estrategia integral para fre...",
-    "date": "2026-06-04T16:57:44",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-agro-arequipeno-conquista-52-paises-favorecido-crecimiento-exportador-sin-precedentes-1078012.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/selectividad-no-se-vigila-solo-ojos-espana-estrena-detectores-radiofrecuencia-para-cazar-pinganillos-e-ia",
-    "title": "La Selectividad ya no se vigila solo con ojos: España estrena detectores de radiofrecuencia para cazar pinganillos e IA",
-    "snippet": "Junio y julio son dos meses que casi 300.000 estudiantes en España tienen marcados en sus calendarios, ya que afrontan la Prueba de Acceso a la Universidad (PAU). Y en algunas aulas la afrontan además con medidas de vigi...",
-    "date": "2026-06-04T16:31:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/selectividad-no-se-vigila-solo-ojos-espana-estrena-detectores-radiofrecuencia-para-cazar-pinganillos-e-ia",
-    "category": "TRIBUTARIO"
   }
 ]
