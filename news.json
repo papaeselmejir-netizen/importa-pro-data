@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.engadget.com/2188936/hand-drawn-interactive-searching-game-hidden-folks-2-is-coming-next-year/",
+    "title": "Hand-drawn interactive searching game Hidden Folks 2 is coming next year",
+    "snippet": "It'll be available for PC and mobile, and maybe Nintendo Switch down the line....",
+    "date": "2026-06-06T19:12:36",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2188936/hand-drawn-interactive-searching-game-hidden-folks-2-is-coming-next-year/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mas-2000-miembros-contraloria-supervisan-despligue-material-electoral-1078313.aspx",
+    "title": "Más de 2000 miembros de Contraloría supervisan despligue de material electoral",
+    "snippet": "Con el objetivo de garantizar la correcta distribución del material electoral para la segunda vuelta, un equipo de la Contraloría General supervisó la noche de ayer y la madrugada de hoy la salida de dichos insumos desde...",
+    "date": "2026-06-06T19:10:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mas-2000-miembros-contraloria-supervisan-despligue-material-electoral-1078313.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/no-no-tu-imaginacion-verano-espana-2-grados-caluroso-dura-cinco-semanas-que-anos-80",
+    "title": "AEMET ha confirmado lo que llevamos sospechando y sufriendo años: España es 2º C más cálida que en los 80",
+    "snippet": "Cuando llega una nueva época veraniega, casi todos tenemos una conversación que saca una frase por delante: \"Cada año hace más calor; los veranos de antes no eran así\". Y aunque para algunos puede parecer una auténtica e...",
+    "date": "2026-06-06T19:01:09",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/no-no-tu-imaginacion-verano-espana-2-grados-caluroso-dura-cinco-semanas-que-anos-80",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439664",
+    "title": "Portugal: Impulsan Puerto de Sines con proyectos de rehabilitación y mejora de infraestructura",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración del Puerto de Sines (APS) está desarrollando una serie de proyectos de rehabilitación y\nLa entrada Portugal: Impulsan Puerto de Sines con proyectos de reha...",
+    "date": "2026-06-06T19:00:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/portugal-impulsan-puerto-de-sines-con-proyectos-de-rehabilitacion-y-mejora-de-infraestructura/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ryanair-espana-viven-discusion-interminable-al-equipaje-mano-solucion-que-decida-europa",
+    "title": "Han preguntado a un juez gallego si Raynair y Vueling pueden cobrar por el equipaje de mano. La respuesta no puede ser más gallega",
+    "snippet": "Dos años después, será Europa la que aporte su punto de vista. La respuesta será clave para decidir si Ryanair, Vueling o Volotea pueden cobrar por el equipaje de mano. La decisión recae sobre un tribunal de A Coruña, de...",
+    "date": "2026-06-06T18:31:10",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ryanair-espana-viven-discusion-interminable-al-equipaje-mano-solucion-que-decida-europa",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-minsa-emite-alerta-epidemiologica-riesgo-propagacion-del-sarampion-1078303.aspx",
+    "title": "Minsa emite alerta epidemiológica por riesgo de propagación del sarampión",
+    "snippet": "El Ministerio de Salud (Minsa), a través del Centro Nacional de Epidemiología, Prevención y Control de Enfermedades emitió la Alerta Epidemiológica ante la transmisión comunitaria y alto riesgo de diseminación de sarampi...",
+    "date": "2026-06-06T18:09:21",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minsa-emite-alerta-epidemiologica-riesgo-propagacion-del-sarampion-1078303.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439679",
+    "title": "ChemMed exige que planta química de Puerto de Tarragona sea declarada emplazamiento químico crítico por UE",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El cluster químico ChemMed celebró una nueva asamblea general ordinaria, donde se reivindicó la necesidad de\nLa entrada ChemMed exige que planta química de Puerto de Tarrago...",
+    "date": "2026-06-06T18:00:54",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/chemmed-exige-que-planta-quimica-de-puerto-de-tarragona-sea-declarada-emplazamiento-quimico-critico-por-ue/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/listas/mejores-peliculas-series-videojuegos-que-llegan-este-verano-2026",
+    "title": "Las mejores películas, series y videojuegos que llegan este verano 2026",
+    "snippet": "Que el verano no te pille por sorpresa: pese al calor y a la tentación de quedarse debajo del aparato de aire acondicionado más cercano, hay motivos de sobra para entretenerse. Películas, series, videojuegos y libros que...",
+    "date": "2026-06-06T17:31:09",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/listas/mejores-peliculas-series-videojuegos-que-llegan-este-verano-2026",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-incrementa-viajes-la-linea-1-del-metro-lima-y-callao-desde-este-lunes-8-junio-1078294.aspx",
+    "title": "ATU incrementa viajes en la Línea 1 del Metro de Lima y Callao desde este lunes 8 de junio",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) informa a los usuarios sobre las mejoras realizadas en la programación de los viajes de la Línea 1 del Metro de Lima y Callao, con el objetivo de reducir los tie...",
+    "date": "2026-06-06T17:19:54",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-incrementa-viajes-la-linea-1-del-metro-lima-y-callao-desde-este-lunes-8-junio-1078294.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/aire-acondicionado-verano-tiene-doble-rasero-medir-nos-refresca-nos-da-torticolis",
     "title": "El aire acondicionado en verano tiene un doble rasero de medir: nos refresca pero nos da tortícolis",
     "snippet": "Cuando llega el verano, es fácil ver cómo los termómetros rozan los 40 ºC, o incluso antes, como estamos sufriendo ahora mismo. Aquí el aire acondicionado de la oficina, de casa o incluso del coche se convierte en nuestr...",
@@ -15,6 +96,15 @@
     "date": "2026-06-06T17:00:01",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-minam-biodiversidad-urbana-es-clave-para-construir-ciudades-saludables-y-sostenibles-1078288.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "5732a104-f5fb-4e26-adbd-1a86bc498574",
+    "title": "You Could Be Eligible to Claim Part of Apple's $250 Million AI iPhone Settlement. Here's How",
+    "snippet": "Apple must pay iPhone owners to settle a lawsuit over delayed and missing AI features....",
+    "date": "2026-06-06T16:54:40",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/how-to-collect-on-apples-250-million-ai-settlement/",
     "category": "MERCADO"
   },
   {
@@ -1257,96 +1347,6 @@
     "date": "2026-06-05T11:01:09",
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/centros-datos-espaciales-parecen-chaladura-tienen-mucho-sentido-que-parece",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=439441",
-    "title": "Brazos portuarios de navieras solicitan eliminar restricción de integración vertical para operar en Puerto de Valparaíso",
-    "snippet": "Por Luis Alonso @PortalPortuario En una audiencia pública clave, llevada a cabo en las dependencias del Tribunal de Defensa de\nLa entrada Brazos portuarios de navieras solicitan eliminar restricción de integración vertic...",
-    "date": "2026-06-05T11:00:56",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brazos-portuarios-de-navieras-solicitan-eliminar-restriccion-de-integracion-vertical-para-operar-en-puerto-de-valparaiso/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/xataka-xtra/como-desactivo-valoraciones-esfuerzo-entrenos-apple-watch-esto-que-recomendamos",
-    "title": "\"¿Cómo desactivo las valoraciones de esfuerzo tras entrenos del Apple Watch?\" - Esto es lo que recomendamos",
-    "snippet": "Una de las direcciones que están siguiendo los fabricantes de relojes inteligentes para hacer sus productos más útiles para nuestro día a día es orientarnos a ayudarnos con nuestros ejercicios y entrenamientos. ¿Pero qué...",
-    "date": "2026-06-05T10:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/xataka-xtra/como-desactivo-valoraciones-esfuerzo-entrenos-apple-watch-esto-que-recomendamos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "ba7618ad-545c-4de3-827e-44a1bcc6d633",
-    "title": "RCS Messages Between iPhone and Android Get End-to-End Encryption With iOS 26.5",
-    "snippet": "Apple and Google start rolling out end-to-end encrypted RCS chats in beta for iPhone owners and Android phone users....",
-    "date": "2026-06-05T10:30:35",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/ios-26-5-imessage-rcs-end-to-end-encryption-iphone-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/cientificos-occidentales-llevan-anos-debatiendo-origen-kamo-oalewa-china-se-fue-a-buscarlo",
-    "title": "Los científicos occidentales llevan años debatiendo el origen de Kamo’oalewa. China se fue a buscarlo",
-    "snippet": "Si todo va según el calendario, la misión china Tianwen-2 estará a punto de llegar a Kamo’oalewa, el objeto coorbital de la Tierra al que se dirige para discernir de una vez por todas si se trata de un asteroide o un fra...",
-    "date": "2026-06-05T10:01:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/cientificos-occidentales-llevan-anos-debatiendo-origen-kamo-oalewa-china-se-fue-a-buscarlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-por-gestionar-informacion-forma-desordenada-puede-ser-caro-para-una-empresa-1078102.aspx",
-    "title": "¿Por qué gestionar información de forma desordenada puede ser caro para una empresa?",
-    "snippet": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) viene fortaleciendo sus mecanismos de control mediante cruces automatizados de datos y trazabilidad en tiempo real, lo que permite detectar i...",
-    "date": "2026-06-05T10:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-por-gestionar-informacion-forma-desordenada-puede-ser-caro-para-una-empresa-1078102.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czx299wpp56o#0",
-    "title": "Who can buy shares in Elon Musk's SpaceX?",
-    "snippet": "From next week individual investors can take a stake in Musk's rockets-to-AI company....",
-    "date": "2026-06-05T09:51:36",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/como-enviar-ubicacion-falsa-cercana-whatsapp-1",
-    "title": "Cómo enviar una ubicación falsa o cercana en WhatsApp",
-    "snippet": "Vamos a explicarte cómo enviar una ubicación falsa en WhatsApp. Con esto, podrás quedar con alguien sin desvelar dónde vives exactamente, simplemente haciéndolo en un sitio cercano. También vas a poder enviarle algún sit...",
-    "date": "2026-06-05T09:28:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/como-enviar-ubicacion-falsa-cercana-whatsapp-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/este-aston-martin-db9-se-vendio-57-000-dolares-loco-no-su-precio-dos-lanzallamas-que-esconde",
-    "title": "Este Aston Martin DB9 se vendió por 57.000 dólares, pero lo más loco no es su precio: son los dos lanzallamas que esconde",
-    "snippet": "Si te gustan los coches y alguna vez has visto las películas de James Bond, seguramente tengas en la cabeza algún Aston Martin haciendo cosas que no suelen venir en la ficha técnica. Ahí está Pierce Brosnan en ‘Die Anoth...",
-    "date": "2026-06-05T09:01:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/este-aston-martin-db9-se-vendio-57-000-dolares-loco-no-su-precio-dos-lanzallamas-que-esconde",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=439480",
-    "title": "DNV otorga AiP a HHI por diseño de portacontenedores de combustible dual de GLP",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DNV otorgó un Principio de Aprobación (AiP) a HD Hyundai Heavy Industries (HHI) por el diseño\nLa entrada DNV otorga AiP a HHI por diseño de portacontenedores de combustible ...",
-    "date": "2026-06-05T09:00:53",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dnv-otorga-aip-a-hhi-por-diseno-de-portacontenedores-de-combustible-dual-de-glp/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cazando-gangas-primera-semana-junio-ofertas-moviles-xiaomi-google-rebajas-auriculares-sony",
-    "title": "Cazando Gangas en la primera semana de junio con ofertas en móviles Xiaomi y Google, rebajas en auriculares Sony y más",
-    "snippet": "Junio ha dado comienzo con el anuncio oficial de la fecha exacta del Prime Day 2026, y también con el lanzamiento de un enorme surtido de ofertas por parte de esta y otras tiendas. En el primer Cazando Gangas del mes vam...",
-    "date": "2026-06-05T08:45:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cazando-gangas-primera-semana-junio-ofertas-moviles-xiaomi-google-rebajas-auriculares-sony",
     "category": "TRIBUTARIO"
   }
 ]
