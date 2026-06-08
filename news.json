@@ -1,5 +1,257 @@
 [
   {
+    "id": "https://www.theverge.com/?p=945905",
+    "title": "Amazon is launching AI-generated custom merch",
+    "snippet": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are ...",
+    "date": "2026-06-08T17:52:51",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/todas-novedades-ios-27-nueva-siri-al-frente-actualizacion-grande-que-parece",
+    "title": "Todas las novedades de iOS 27: la nueva Siri al frente de una actualización más grande de lo que parece",
+    "snippet": "iOS 27 tiene una protagonista clara: Siri. Después de años de quedarse por detrás de lo que muchos esperaban de un asistente integrado en el iPhone, Apple ha enseñado en la WWDC26 una versión mucho más ambiciosa, pensada...",
+    "date": "2026-06-08T17:46:35",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/todas-novedades-ios-27-nueva-siri-al-frente-actualizacion-grande-que-parece",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/nueva-siri-ai-esta-aqui-dos-anos-despues-ayuda-google-esto-que-hace-asistente-ia-apple",
+    "title": "La nueva Siri AI ya está aquí: dos años después y con la ayuda de Google, esto es lo que hace el asistente con IA de Apple",
+    "snippet": "Apple prometió en 2024 una Siri radicalmente nueva. No llegó. La prometió de nuevo en 2025. Y tampoco llegó. Hoy, en el último keynote de Tim Cook como director general, por fin ha presentado la revisión completa de este...",
+    "date": "2026-06-08T17:45:18",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/nueva-siri-ai-esta-aqui-dos-anos-despues-ayuda-google-esto-que-hace-asistente-ia-apple",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "6a26d0df255fdba4ebd668eb",
+    "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+    "snippet": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups....",
+    "date": "2026-06-08T17:44:28",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-judocas-peruanos-ganaron-73-medallas-panamericanos-y-sudamericanos-videna-1078530.aspx",
+    "title": "Judocas peruanos ganaron 73 medallas en Panamericanos y Sudamericanos en Videna",
+    "snippet": "El Perú obtuvo un total de 73 preseas medallas en los Panamericanos y Sudamericanos Cadetes, Junior y Juveniles de Judo del Tour Lima 2026,  que se desarrollaron  en el Polideportivo 3 de la Videna IPD....",
+    "date": "2026-06-08T17:44:20",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-judocas-peruanos-ganaron-73-medallas-panamericanos-y-sudamericanos-videna-1078530.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-conexion-jorge-chavez-y-puerto-chancay-consolidara-al-peru-como-hub-logistico-1078525.aspx",
+    "title": "Conexión de Jorge Chávez y Puerto de Chancay consolidará al Perú como hub logístico",
+    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC), a través de la Autoridad Portuaria Nacional (APN), informó que el Aeropuerto Internacional Jorge Chávez quedaría conectado con el Terminal Portuario Multipropósito de ...",
+    "date": "2026-06-08T17:40:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conexion-jorge-chavez-y-puerto-chancay-consolidara-al-peru-como-hub-logistico-1078525.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/basics/actualizacion-ios-27-a-que-iphones-llega-como-prepararte-como-actualizar",
+    "title": "Actualización de iOS 27: a qué iPhones llega, cómo prepararte y cómo actualizar",
+    "snippet": "Vamos a decirte todo lo que necesitas saber para actualizar tu móvil a iOS 27. Ahora que Apple ha anunciado oficialmente iOS 27, también tenemos otros datos importantes como los modelos que son compatibles. Y esto es en ...",
+    "date": "2026-06-08T17:35:10",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/actualizacion-ios-27-a-que-iphones-llega-como-prepararte-como-actualizar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439958",
+    "title": "Tráfico de portacontenedores cae a niveles mínimos en el estrecho de Ormuz",
+    "snippet": "Por Redacción PortalPortuario/Agencia Anadolu @PortalPortuario La navegación de portacontenedores a través del estrecho de Ormuz se ha reducido a niveles\nLa entrada Tráfico de portacontenedores cae a niveles mínimos en e...",
+    "date": "2026-06-08T17:30:07",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/trafico-de-portacontenedores-cae-a-niveles-minimos-en-el-estrecho-de-ormuz/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "3d49145e-d840-4198-957a-c2364b896850",
+    "title": "Apple Announces iOS 27 at WWDC 2026",
+    "snippet": "The next major iOS software will be available on devices as old as the iPhone 11, and it will likely land on your device this fall....",
+    "date": "2026-06-08T17:27:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/apple-announces-ios-27-at-wwdc-2026/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/autonomos-pueden-cobrar-dos-pensiones-jubilacion-juntas-letra-pequena-que-tienen-que-haber-cotizado-ambas",
+    "title": "Los autónomos pueden cobrar dos pensiones de jubilación juntas. La letra pequeña es que tienen que haber cotizado por ambas",
+    "snippet": "Hay una cosa que cualquier trabajador que cotice a la Seguridad Social espera: cobrar una pensión de jubilación cuando termine su vida laboral. Lo que no mucha gente sabe es que se pueden cobrar hasta dos pensiones de ju...",
+    "date": "2026-06-08T17:19:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/autonomos-pueden-cobrar-dos-pensiones-jubilacion-juntas-letra-pequena-que-tienen-que-haber-cotizado-ambas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/solo-manana-todavia-quedan-moviles-nintendo-switch-2-a-buen-precio-mejor-promo-veraniega-aliexpress",
+    "title": "Solo hasta mañana: todavía quedan móviles, Nintendo Switch 2 y más a buen precio en la mejor promo veraniega de AliExpress",
+    "snippet": "Todo lo bueno se acaba, algo que podemos aplicar también a los eventos cargados de ofertas que van sucediendo todo el año. Quedan poco más de 24 horas para que acabe la Promo de Verano de AliExpress, una campaña que empe...",
+    "date": "2026-06-08T17:16:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/solo-manana-todavia-quedan-moviles-nintendo-switch-2-a-buen-precio-mejor-promo-veraniega-aliexpress",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=941202",
+    "title": "Apple announces iOS 27",
+    "snippet": "Apple announced its next major iOS update, iOS 27, at WWDC 2026 on Monday. Apple is highlighting performance and design improvements as a major feature, and the update will be supported all the way back to the iPhone 11....",
+    "date": "2026-06-08T17:14:34",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/941202/apple-ios-27-wwdc-2026",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministro-salud-realiza-visita-sorpresa-para-verificar-stock-medicamentos-1078523.aspx",
+    "title": "Ministro de Salud realiza visita sorpresa para verificar stock de medicamentos",
+    "snippet": "El ministro de Salud, Juan Carlos Velasco, visitó de manera sorpresiva el almacén central del ministerio para verificar el stock disponible y las condiciones de almacenamiento de diversos productos médicos que serán dist...",
+    "date": "2026-06-08T17:10:31",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministro-salud-realiza-visita-sorpresa-para-verificar-stock-medicamentos-1078523.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-icpna-presenta-ex-libris-sena-identidad-exposicion-gloria-quispe-tinco-1078522.aspx",
+    "title": "ICPNA presenta Ex libris. Seña de identidad, exposición de Gloria Quispe Tinco",
+    "snippet": "El ICPNA presenta Ex libris. Seña de identidad, cuarta exposición individual de la artista Gloria Quispe Tinco (Lima, 1990), dedicada a una de las tradiciones más singulares vinculadas a la historia del grabado y del lib...",
+    "date": "2026-06-08T17:02:04",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-icpna-presenta-ex-libris-sena-identidad-exposicion-gloria-quispe-tinco-1078522.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-promperu-impulsa-industria-peru-2026-tras-record-exportaciones-manufacturas-diversas-1078512.aspx",
+    "title": "Promperú impulsa Industria Perú 2026 tras récord de exportaciones de manufacturas diversas",
+    "snippet": "La Comisión de Promoción del Perú para la Exportación y el Turismo (Promperú) informó que las exportaciones peruanas de manufacturas diversas sumaron 6,300 millones de dólares en el 2025, el mejor resultado de los último...",
+    "date": "2026-06-08T16:50:47",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-promperu-impulsa-industria-peru-2026-tras-record-exportaciones-manufacturas-diversas-1078512.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-chincha-oleaje-anomalo-paraliza-pesca-artesanal-tambo-mora-y-causa-perdidas-1078515.aspx",
+    "title": "Chincha: oleaje anómalo paraliza la pesca artesanal en Tambo de Mora y causa pérdidas",
+    "snippet": "Debido al cierre parcial del puerto de Tambo de Mora —que pasó de nivel III a nivel V—, quinientos pescadores artesanales de dicho distrito ubicado en la provincia iqueña de Chincha, se encuentran desempleados al verse r...",
+    "date": "2026-06-08T16:26:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-chincha-oleaje-anomalo-paraliza-pesca-artesanal-tambo-mora-y-causa-perdidas-1078515.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-suplemento-variedades-acontecio-la-musica-peruana-estos-ultimos-20-anos-1078507.aspx",
+    "title": "Suplemento “Variedades”: ¿Qué aconteció en la música peruana estos últimos 20 años?",
+    "snippet": "Los oídos de los peruanos se repartieron mayormente entre el pop, la cumbia y la salsa durante los últimos 20 años. Los medios de comunicación masiva privilegiaron la difusión de esos estilos, generando con ello la emerg...",
+    "date": "2026-06-08T16:10:22",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-suplemento-variedades-acontecio-la-musica-peruana-estos-ultimos-20-anos-1078507.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/nuevo/apple-wwdc-2026-seguir-conferencia-directo",
+    "title": "WWDC 2026: sigue la keynote de Apple y las novedades de iOS 27, Siri y más en directo",
+    "snippet": "Llega el 8 de junio y eso significa dos cosas: que ya empieza a hacer calor y que tenemos evento de Apple. Como ya es tradición, la compañía de la manzana nos ha citado hoy en Cupertino para la WWDC 2026, el evento para ...",
+    "date": "2026-06-08T16:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/nuevo/apple-wwdc-2026-seguir-conferencia-directo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439929",
+    "title": "Lanzan nuevo portacontenedores OOCL Chancay que operará entre Perú y Asia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Orient Overseas Container Line (OOCL) sumó a su flota el nuevo portacontenedores OOCL Chancay, nave que\nLa entrada Lanzan nuevo portacontenedores OOCL Chancay que operará en...",
+    "date": "2026-06-08T16:00:07",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/lanzan-nuevo-portacontenedores-oocl-chancay-que-operara-entre-peru-y-asia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3130391",
+    "title": "Amazon now lets you design custom merch using AI",
+    "snippet": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers....",
+    "date": "2026-06-08T15:49:12",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/no-habia-suficiente-gasolina-2026-ataque-dron-ruso-ha-cruzado-linea-roja-chernobil",
+    "title": "Por si no había suficiente “gasolina” en 2026, el ataque de un dron ruso ha cruzado una línea roja: la de Chernóbil",
+    "snippet": "A comienzos de la década de 1980, un satélite soviético detectó lo que parecía ser el lanzamiento de varios misiles nucleares estadounidenses. El oficial de guardia, Stanislav Petrov, sospechó que algo no encajaba y deci...",
+    "date": "2026-06-08T15:46:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/no-habia-suficiente-gasolina-2026-ataque-dron-ruso-ha-cruzado-linea-roja-chernobil",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/ia-ha-hecho-que-jamas-se-hayan-lanzado-tantas-apps-poco-tiempo-problema-que-casi-nadie-esta-usando",
+    "title": "La IA ha hecho que jamás se hayan lanzado tantas apps en tan poco tiempo. El problema es que casi nadie las está usando",
+    "snippet": "Una nueva investigación del MIT monitorizó la actividad de miles de desarrolladores antes y después de adoptar el uso de agentes de IA como Claude Code o Codex. En sus conclusiones han detectado un \"efecto embudo\" singul...",
+    "date": "2026-06-08T15:30:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/ia-ha-hecho-que-jamas-se-hayan-lanzado-tantas-apps-poco-tiempo-problema-que-casi-nadie-esta-usando",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mejores-hdmi-inalambricos-para-enviar-imagen-a-otra-habitacion-calidad-tirar-cable",
+    "title": "Los mejores HDMI inalámbricos para enviar imagen a otra habitación con calidad y sin tirar de cable",
+    "snippet": "A veces queremos ver el contenido del móvil o del ordenador en una pantalla más grande, pero no siempre es sencillo. Los televisores inteligentes suelen contar con todo lo necesario para poder hacerlo de forma inalámbric...",
+    "date": "2026-06-08T15:16:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mejores-hdmi-inalambricos-para-enviar-imagen-a-otra-habitacion-calidad-tirar-cable",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ryanair-amenaza-eliminar-sus-vuelos-zaragoza-respuesta-zaragoza-creceremos",
+    "title": "Ryanair amenaza con eliminar sus vuelos de Zaragoza en 2027. La respuesta de Zaragoza: \"moveremos más de un millón de pasajeros\"",
+    "snippet": "Ryanair reducirá un 45% su actividad en Zaragoza a partir del mes de noviembre. Al menos, esa es la amenaza que tiene sobre la mesa si Aena no rebaja sus tasas aeroportuarias. Pero lejos de caer en tráfico, Zaragoza tien...",
+    "date": "2026-06-08T15:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ryanair-amenaza-eliminar-sus-vuelos-zaragoza-respuesta-zaragoza-creceremos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/aemet-tiene-veredicto-claro-impacto-nino-espana-golpe-viajara-mucho-alla-oceano-pacifico",
+    "title": "AEMET tiene un veredicto claro sobre el impacto de El Niño en España: \"El golpe viajará mucho más allá del Océano Pacífico\"",
+    "snippet": "El 2 de junio Celeste Saulo, la secretaria general de la Organización Meteorológica Mundial, tomó la palabra frente a medios de todo el mundo y confirmó lo que todos nos temíamos: no es solo que, en pocas semanas, la pro...",
+    "date": "2026-06-08T14:46:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/aemet-tiene-veredicto-claro-impacto-nino-espana-golpe-viajara-mucho-alla-oceano-pacifico",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2189455/nintendo-will-pay-a-dollar40-million-fine-for-faulty-joy-cons/",
+    "title": "Nintendo will pay a $40 million fine for faulty Joy-Cons",
+    "snippet": "French authorities have fined Nintendo around $40m over faulty Joy-Cons....",
+    "date": "2026-06-08T14:41:32",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2189455/nintendo-will-pay-a-dollar40-million-fine-for-faulty-joy-cons/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/espana-ha-hecho-su-primer-gran-estudio-numero-mascotas-pais-se-ha-encontrado-cifra-enorme",
+    "title": "España ha hecho su primer gran estudio sobre cuántas mascotas hay en el país. Y se ha llevado una sorpresa",
+    "snippet": "España está sumida en una revolución demográfica silenciosa. Y no la protagoniza ni el flujo migratorio, ni el envejecimiento, ni los movimientos de población entre ciudades ni ninguna otra de las muchas tendencias que l...",
+    "date": "2026-06-08T14:30:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/espana-ha-hecho-su-primer-gran-estudio-numero-mascotas-pais-se-ha-encontrado-cifra-enorme",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2189415/the-next-nintendo-direct-is-scheduled-for-june-9/",
+    "title": "The next Nintendo Direct is scheduled for June 9",
+    "snippet": "Nintendo's next Direct will be on June 9....",
+    "date": "2026-06-08T14:13:40",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2189415/the-next-nintendo-direct-is-scheduled-for-june-9/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-pj-sala-penal-permanente-suprema-programa-calificacion-120-recursos-casacion-1078490.aspx",
     "title": "PJ: Sala Penal Permanente Suprema programa la calificación de 120 recursos de casación",
     "snippet": "La Sala Penal Permanente de la Corte Suprema, que preside el juez decano Víctor Prado Saldarriaga, realizó la programación (agendamiento) para calificar 120 recursos de casación durante la tercera jornada extraordinaria ...",
@@ -201,6 +453,15 @@
     "id": "https://techcrunch.com/?p=3130291",
     "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
     "snippet": "Uber customers in the UK can now join an interest list to increase their chances of being matched with a Wayve robotaxi....",
+    "date": "2026-06-08T11:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3130291",
+    "title": "Uber, Wayve, and Waymo are headed toward a robotaxi showdown in London",
+    "snippet": "Uber customers in the U.K. can now join an interest list to increase their chances of being matched with a Wayve robotaxi....",
     "date": "2026-06-08T11:00:00",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
@@ -711,6 +972,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://techcrunch.com/?p=3129047",
+    "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+    "snippet": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026....",
+    "date": "2026-06-07T14:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/detectan-explosiones-raras-universo-estrella-que-se-destruyo-a-dejar-rastro",
     "title": "En 2023 detectamos una explosión absolutamente anómala en los confines del Universo. Ahora sabemos qué pasó",
     "snippet": "En 2023, la Instalación Transitoria de Zwicky, un consorcio astronómico liderado por Caltech, detectó una curiosa señal a las afueras de una galaxia enana a 1.300 millones de años luz de distancia. En un principio todo p...",
@@ -1077,276 +1347,6 @@
     "date": "2026-06-06T17:01:09",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/aire-acondicionado-verano-tiene-doble-rasero-medir-nos-refresca-nos-da-torticolis",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minam-biodiversidad-urbana-es-clave-para-construir-ciudades-saludables-y-sostenibles-1078288.aspx",
-    "title": "Minam: biodiversidad urbana es clave para construir ciudades saludables y sostenibles",
-    "snippet": "La biodiversidad urbana constituye un elemento fundamental para el desarrollo de ciudades más saludables, resilientes y sostenibles, debido a que contribuye a regular la temperatura, mejorar la calidad del aire, conserva...",
-    "date": "2026-06-06T17:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minam-biodiversidad-urbana-es-clave-para-construir-ciudades-saludables-y-sostenibles-1078288.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "5732a104-f5fb-4e26-adbd-1a86bc498574",
-    "title": "You Could Be Eligible to Claim Part of Apple's $250 Million AI iPhone Settlement. Here's How",
-    "snippet": "Apple must pay iPhone owners to settle a lawsuit over delayed and missing AI features....",
-    "date": "2026-06-06T16:54:40",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/how-to-collect-on-apples-250-million-ai-settlement/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-onpe-miembros-mesa-cumpliran-rol-mas-importante-la-eleccion-presidencial-1078291.aspx",
-    "title": "ONPE: Miembros de mesa cumplirán el rol más importante en la elección presidencial",
-    "snippet": "En la Segunda Elección Presidencial (SEP) que se desarrollará este domingo 7, cumplirán un rol fundamental 278 187 peruanos: los miembros de mesa que tendrán a su cargo las 90 223 mesas de sufragio que funcionarán en el ...",
-    "date": "2026-06-06T16:48:26",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-onpe-miembros-mesa-cumpliran-rol-mas-importante-la-eleccion-presidencial-1078291.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-igp-sismo-magnitud-48-se-registro-hoy-el-callao-1078290.aspx",
-    "title": "IGP: sismo de magnitud 4.8 se registró hoy en el Callao",
-    "snippet": "Un sismo de magnitud 4.8 se registró a las 11:30 horas de hoy sábado 6 de junio en la provincia constitucional del Callao, reportó el Instituto Geofísico del Perú (IGP)....",
-    "date": "2026-06-06T16:39:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-igp-sismo-magnitud-48-se-registro-hoy-el-callao-1078290.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/no-les-dije-que-iba-a-salir-historia-como-ridley-scott-nos-volo-cabeza-escenas-terrorificas-cine",
-    "title": "“No les dije lo que iba a salir”: la historia de cómo Ridley Scott nos voló la cabeza en la escena más terrorífica del cine",
-    "snippet": "Una de las inspiraciones más inquietantes de Alien no nació en un estudio de Hollywood, sino en una consulta médica. Durante años, el guionista Dan O'Bannon sufrió la enfermedad de Crohn y describía algunos episodios com...",
-    "date": "2026-06-06T16:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/no-les-dije-que-iba-a-salir-historia-como-ridley-scott-nos-volo-cabeza-escenas-terrorificas-cine",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/que-ipad-comprar",
-    "title": "Qué iPad comprar (2026). Análisis del catálogo de tablets de Apple con recomendaciones en función del uso y presupuesto",
-    "snippet": "Apple tiene ahora un catálogo de tablets muy bien segmentado según el uso que queramos darle. Los precios han ido bajando con las últimas generaciones para hacerlos más asequibles y el rendimiento general de todo el catá...",
-    "date": "2026-06-06T16:15:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/que-ipad-comprar",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=939206",
-    "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-    "snippet": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley, as well as a bunch of smaller events with hidden gems. PlayStation ki...",
-    "date": "2026-06-06T16:14:23",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/estos-astronomos-vivieron-sus-paladares-que-mejor-tomar-paellas-playa-clave-esta-fisica",
-    "title": "Unos astrónomos hicieron una paella a 2.000 metros de altitud en Almería. Y descubrieron el mejor punto de cocción del arroz",
-    "snippet": "Si quieres cocinar una paella, lo mejor es que lo hagas en la costa. Y no solo por lo agradable que es la estampa de tomar un arroz en el chiringuito mirando al mar. También porque, básicamente, se cocinará mejor. Lo sab...",
-    "date": "2026-06-06T16:01:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/estos-astronomos-vivieron-sus-paladares-que-mejor-tomar-paellas-playa-clave-esta-fisica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=439612",
-    "title": "Valenciaport reúne a empresas y expertos para analizar cómo avanzar hacia puertos energéticamente más autónomos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Cómo producir más energía renovable dentro del propio recinto portuario, cómo almacenarla de forma eficiente y\nLa entrada Valenciaport reúne a empresas y expertos para anali...",
-    "date": "2026-06-06T16:00:48",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/valenciaport-reune-a-empresas-y-expertos-para-analizar-como-avanzar-hacia-puertos-energeticamente-mas-autonomos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-60-anos-iglesia-mil-anos-se-hundio-embalse-barcelona-solo-sequia-ha-devuelto-a-superficie",
-    "title": "Hace 60 años hundieron una iglesia de mil años en un embalse de Barcelona. Solo la sequía la ha devuelto a la superficie",
-    "snippet": "El pantano de Sau, en la comarca de Osona (Barcelona), tiene sorpresa: cuando la sequía golpea bajando el nivel del embalse lo suficiente, deja al descubierto un soberbio campanario de piedra que lleva sumergido desde 19...",
-    "date": "2026-06-06T15:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-60-anos-iglesia-mil-anos-se-hundio-embalse-barcelona-solo-sequia-ha-devuelto-a-superficie",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-2-000-anos-romanos-vendian-perfumes-palomas-cristal-que-solo-podian-abrirse-rompiendoles-cuello",
-    "title": "Hace 2.000 años los romanos vendían perfumes en palomas de cristal que solo podían abrirse rompiéndoles el cuello",
-    "snippet": "Pese a sus grandes esfuerzos, las ciudades del Imperio Romano no olían bien y bueno, tiene sentido: vivían en condiciones de alta contaminación fecal y además usaban las heces como medicina. Eso sí, al César lo que es de...",
-    "date": "2026-06-06T15:15:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-2-000-anos-romanos-vendian-perfumes-palomas-cristal-que-solo-podian-abrirse-rompiendoles-cuello",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-2-000-anos-romanos-vendian-perfumes-palomas-cristal-que-solo-podian-abrirse-rompiendoles-cuello",
-    "title": "Los romanos encontraron una macabra y sofisticada de usar perfume: rompiendo cuellos de paloma",
-    "snippet": "Pese a sus grandes esfuerzos, las ciudades del Imperio Romano no olían bien y bueno, tiene sentido: vivían en condiciones de alta contaminación fecal y además usaban las heces como medicina. Eso sí, al César lo que es de...",
-    "date": "2026-06-06T15:15:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-2-000-anos-romanos-vendian-perfumes-palomas-cristal-que-solo-podian-abrirse-rompiendoles-cuello",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-2-000-anos-romanos-vendian-perfumes-palomas-cristal-que-solo-podian-abrirse-rompiendoles-cuello",
-    "title": "Los romanos encontraron una macabra y sofisticada de usar perfume: rompiendo cuellos de palomas (de vidrio)",
-    "snippet": "Pese a sus grandes esfuerzos, las ciudades del Imperio Romano no olían bien y bueno, tiene sentido: vivían en condiciones de alta contaminación fecal y además usaban las heces como medicina. Eso sí, al César lo que es de...",
-    "date": "2026-06-06T15:15:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-2-000-anos-romanos-vendian-perfumes-palomas-cristal-que-solo-podian-abrirse-rompiendoles-cuello",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/rusia-blindo-sus-rutas-logisticas-drones-ucrania-ha-respondido-atacando-algo-mucho-dificil-proteger-asfalto",
-    "title": "Rusia blindó sus rutas logísticas contra drones. Ucrania ha respondido atacando algo mucho más vulnerable: el asfalto",
-    "snippet": "En la primavera de 1945, Estados Unidos lanzó una campaña llamada Operation Starvation. En lugar de concentrarse en destruir barcos japoneses uno a uno, comenzó a sembrar minas en los estrechos y rutas marítimas por dond...",
-    "date": "2026-06-06T15:01:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/rusia-blindo-sus-rutas-logisticas-drones-ucrania-ha-respondido-atacando-algo-mucho-dificil-proteger-asfalto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=439768",
-    "title": "Global Ports Holding obtiene concesión de 30 años para desarrollar Puerto de Cruceros de Ferrol",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Global Ports Holding Limited (GPH) anunció que la Autoridad Portuaria de Ferrol-San Cibrao le otorgó a\nLa entrada Global Ports Holding obtiene concesión de 30 años para desa...",
-    "date": "2026-06-06T15:00:44",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/global-ports-holding-obtiene-concesion-de-30-anos-para-desarrollar-puerto-de-cruceros-de-ferrol/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/sam-altman-derroche-dinero-openai-creo-que-critica-valida-a-ia-ahora-hay-monton-gasto",
-    "title": "Sam Altman, sobre el derroche OpenAI: \"Creo que es la crítica más válida a la IA ahora mismo, hay un montón de gasto\"",
-    "snippet": "La carrera de la inteligencia artificial está haciendo que las grandes tecnológicas dilapiden enormes sumas de dinero para tener la mejor IA, la que más gente usa y sobre todo, la que más dinero genera (tres conceptos qu...",
-    "date": "2026-06-06T14:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/sam-altman-derroche-dinero-openai-creo-que-critica-valida-a-ia-ahora-hay-monton-gasto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/sam-altman-derroche-dinero-openai-creo-que-critica-valida-a-ia-ahora-hay-monton-gasto",
-    "title": "Sam Altman reconoce un secreto a voces: \"Creo que es la crítica más válida a la IA ahora mismo, hay mucho despilfarro\"",
-    "snippet": "La carrera de la inteligencia artificial está haciendo que las grandes tecnológicas dilapiden enormes sumas de dinero para tener la mejor IA, la que más gente usa y sobre todo, la que más dinero genera (tres conceptos qu...",
-    "date": "2026-06-06T14:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/sam-altman-derroche-dinero-openai-creo-que-critica-valida-a-ia-ahora-hay-monton-gasto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2188889/nasa-nancy-grace-roman-space-telescope-is-set-to-launch-on-august-30/",
-    "title": "NASA's Nancy Grace Roman Space Telescope is set to launch on August 30",
-    "snippet": "NASA is targeting an August 30 launch for the Nancy Grace Roman Space Telescope, which has 100 times Hubble's field of view....",
-    "date": "2026-06-06T14:08:01",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2188889/nasa-nancy-grace-roman-space-telescope-is-set-to-launch-on-august-30/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/newton-vs-einstein-pelea-explicar-gravedad-que-gano-einstein-gracias-a-eclipse-1919",
-    "title": "Newton vs Einstein: la batalla por explicar la gravedad que ganó Einstein gracias a un eclipse en 1919",
-    "snippet": "Este verano, muchas personas han organizado sus vacaciones en torno al eclipse que se verá en España el 12 de agosto. Sin duda, muchos lo ven como un espectáculo que quizás solo puedan ver una o muy pocas veces en la vid...",
-    "date": "2026-06-06T14:01:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/newton-vs-einstein-pelea-explicar-gravedad-que-gano-einstein-gracias-a-eclipse-1919",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=439715",
-    "title": "Rumania: DP World inicia estudio de energía nuclear en Puerto de Constanza",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World firmó un acuerdo con la organización de investigación francesa Commissariat à l&#8217;Energie Atomique et\nLa entrada Rumania: DP World inicia estudio de energía nuc...",
-    "date": "2026-06-06T14:00:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/rumania-dp-world-inicia-estudio-de-energia-nuclear-en-puerto-de-constanza/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-sabado-6-junio-del-2026-1078258.aspx",
-    "title": "Estas son las normas legales más importantes del sábado 6 de junio del 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-06-06T13:33:32",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-sabado-6-junio-del-2026-1078258.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/tele-miniled-85-pulgadas-google-tv-a-precio-outlet-carrefour-te-llevas-iva-cupon",
-    "title": "Una tele MiniLED de 85 pulgadas con Google TV a precio de outlet en Carrefour: además te llevas el IVA en un cupón",
-    "snippet": "Dar el salto a las pantallas de gran diagonal ya no es un lujo exclusivo de los proyectores. Si tienes espacio de sobra en el salón y buscas una experiencia verdaderamente inmersiva, Carrefour tiene ahora disponible en s...",
-    "date": "2026-06-06T13:31:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/tele-miniled-85-pulgadas-google-tv-a-precio-outlet-carrefour-te-llevas-iva-cupon",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seguridad/burlarte-estafador-que-te-manda-sms-parece-inofensivo-muy-mala-idea",
-    "title": "Burlarte del estafador que te manda un SMS parece inofensivo: es una muy mala idea",
-    "snippet": "Es triste, pero hemos normalizado recibir intentos de estafa por todas partes. Un SMS de Correos te dice que no ha podido entregarte un paquete, en Instagram te dicen que has ganado un iPhone, el buzón de spam de tu corr...",
-    "date": "2026-06-06T13:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seguridad/burlarte-estafador-que-te-manda-sms-parece-inofensivo-muy-mala-idea",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2188542/kindle-alternatives-subscription-costs-compared/",
-    "title": "The best Kindle alternatives for those looking to ditch Amazon",
-    "snippet": "Whether you hate subscriptions like Kindle Unlimited or simply want to get away from Amazon for whatever reason, you'll find plenty of solid options available....",
-    "date": "2026-06-06T13:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2188542/kindle-alternatives-subscription-costs-compared/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/aragon-tiene-cura-para-tierras-abandonadas-pirineos-cultivar-hierbas-medicinales",
-    "title": "Aragón tiene la cura para las tierras abandonadas de los Pirineos: cultivar hierbas medicinales",
-    "snippet": "Si el abandono rural en España es una realidad que existe desde hace décadas, en las zonas de alta montaña todavía más: si ya es difícil vivir en un pueblo pequeño, cuando este está en medio de la nada y para llegar hay ...",
-    "date": "2026-06-06T13:15:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/aragon-tiene-cura-para-tierras-abandonadas-pirineos-cultivar-hierbas-medicinales",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/aragon-tiene-cura-para-tierras-abandonadas-pirineos-cultivar-hierbas-medicinales",
-    "title": "La 'cura' de Aragón para el Pirineo abandonado: cultivar hierbas medicinales",
-    "snippet": "Si el abandono rural en España es una realidad que existe desde hace décadas, en las zonas de alta montaña todavía más: si ya es difícil vivir en un pueblo pequeño, cuando este está en medio de la nada y para llegar hay ...",
-    "date": "2026-06-06T13:15:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/aragon-tiene-cura-para-tierras-abandonadas-pirineos-cultivar-hierbas-medicinales",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/llenamos-campo-paneles-solares-para-frenar-cambio-climatico-darnos-cuenta-acabamos-salvar-a-122-especies-abejas",
-    "title": "Llenamos el campo de paneles solares para frenar el cambio climático. Sin querer, hemos salvado a 122 especies de abejas",
-    "snippet": "Hay un zumbido bajo los paneles solares de Minnesota que los ingenieros no pusieron en los planos. Es un zumbido biológico, denso, antiguo. Debajo de las placas fotovoltaicas que convierten la luz del sol en electricidad...",
-    "date": "2026-06-06T13:01:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/llenamos-campo-paneles-solares-para-frenar-cambio-climatico-darnos-cuenta-acabamos-salvar-a-122-especies-abejas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sunat-premiara-hasta-s-100000-presentar-comprobantes-pago-como-participar-1077252.aspx",
-    "title": "Sunat premiará con hasta S/ 100,000 por presentar comprobantes de pago, ¿cómo participar?",
-    "snippet": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) aprobó las bases del nuevo Sorteo Virtual de Comprobantes de Pago, una iniciativa que busca premiar a los ciudadanos que solicitan la emisión...",
-    "date": "2026-06-06T12:45:45",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sunat-premiara-hasta-s-100000-presentar-comprobantes-pago-como-participar-1077252.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/millones-adolescentes-han-convertido-a-ia-su-psicologo-cabecera-reto-precedentes-para-medicina",
-    "title": "Millones de adolescentes han convertido a la IA en su psicólogo de cabecera. Es un reto sin precedentes para la medicina",
-    "snippet": "En la sociedad hay un debate bastante bien asentado en torno a cómo afectan las redes sociales a la salud mental de los más jóvenes e incluso se debate acerca de las posibles consecuencias que tienen, llegando a plantear...",
-    "date": "2026-06-06T12:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/millones-adolescentes-han-convertido-a-ia-su-psicologo-cabecera-reto-precedentes-para-medicina",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/talon-aquiles-internet-europa-esta-mar-rojo-solucion-cable-submarino-polo-norte",
-    "title": "El talón de Aquiles de internet en Europa está en el Mar Rojo. La solución: un cable submarino por el Polo Norte",
-    "snippet": "El 99% del tráfico de datos internacional de internet viaja a través de cables de fibra óptica que discurren por el fondo de mares y océanos. Hay una especie de Google Maps de cables submarinos donde ver su trayectoria p...",
-    "date": "2026-06-06T12:01:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/talon-aquiles-internet-europa-esta-mar-rojo-solucion-cable-submarino-polo-norte",
     "category": "TRIBUTARIO"
   }
 ]
