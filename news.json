@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=440018",
+    "title": "Ampliación de molo de abrigo en Puerto de Antofagasta marca inicio con colocación de “primera piedra”",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El biministro de Obras Públicas, Transportes y Telecomunicaciones, Louis de Grange, encabezó la ceremonia de &#8220;primera\nLa entrada Ampliación de molo de abrigo en Puerto...",
+    "date": "2026-06-08T22:04:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ampliacion-de-molo-de-abrigo-en-puerto-de-antofagasta-marca-inicio-con-colocacion-de-primera-piedra/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2190035/apple-is-dropping-support-for-some-pretty-modern-watch-models/",
+    "title": "Apple is dropping support for some pretty modern Watch models",
+    "snippet": "Three smartwatch models from 2022 and 2023 won't run watchOS 27....",
+    "date": "2026-06-08T21:10:53",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2190035/apple-is-dropping-support-for-some-pretty-modern-watch-models/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/nasa-acaba-superar-hito-x-59-que-viene-despues-apunta-a-cambiar-aviacion-comercial",
+    "title": "La NASA acaba de superar un hito con el X-59. Lo que viene después apunta a cambiar la aviación comercial",
+    "snippet": "La aviación comercial lleva décadas persiguiendo una promesa difícil: volar más rápido que el sonido sin convertir ese avance en un problema para quienes están en tierra. El obstáculo no es solo la velocidad, sino las on...",
+    "date": "2026-06-08T21:01:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/nasa-acaba-superar-hito-x-59-que-viene-despues-apunta-a-cambiar-aviacion-comercial",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439998",
+    "title": "Argentina: Puerto Quequén avanza en plan para modernizar infraestructura portuaria",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El plan de modernización de la infraestructura portuaria que lleva adelante Puerto Quequén logró un nuevo\nLa entrada Argentina: Puerto Quequén avanza en plan para modernizar...",
+    "date": "2026-06-08T21:00:11",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/argentina-puerto-quequen-avanza-en-plan-para-modernizar-infraestructura-portuaria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-apurimac-muralla-china-andina-huayhuacalle-capta-turistas-su-espectacular-vista-1078552.aspx",
+    "title": "Apurímac: ‘Muralla China Andina’ de Huayhuacalle capta turistas por su espectacular vista",
+    "snippet": "Llamado coloquialmente ‘La Muralla China Andina’, el mirador recientemente implementado en Huayhuacalle, en la provincia apurimeña de Abancay, viene atrayendo turistas, atraídos por su llamativa estructura y el vasto y c...",
+    "date": "2026-06-08T20:37:39",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-apurimac-muralla-china-andina-huayhuacalle-capta-turistas-su-espectacular-vista-1078552.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "47490ffe-68c7-4b9d-ae9b-437cf26150c4",
+    "title": "iPadOS 27 Brings More Intelligence to Apple's iPad Line",
+    "snippet": "Apple's tablets will get more AI features when iOS 27 ships later this year....",
+    "date": "2026-06-08T20:16:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/computing/ipados-27-brings-more-intelligence-to-apples-ipad-line/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2189977/ios-27-can-run-on-phones-as-old-as-the-iphone-11/",
+    "title": "iOS 27 can run on phones as old as the iPhone 11",
+    "snippet": "Apple's focus on efficiency and performance improvements is good news for older iPhones....",
+    "date": "2026-06-08T20:15:04",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2189977/ios-27-can-run-on-phones-as-old-as-the-iphone-11/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3130725",
     "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
     "snippet": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack....",
@@ -51,6 +114,15 @@
     "date": "2026-06-08T19:36:54",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "2e456b26-c152-4e3a-9796-32045287e724",
+    "title": "Will Your iPhone Run iOS 27? Here Are All the Compatible Models",
+    "snippet": "Several older iPhones will get at least one more year of major software updates....",
+    "date": "2026-06-08T19:32:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/will-your-iphone-run-ios-27-compatible-models/",
     "category": "MERCADO"
   },
   {
@@ -110,6 +182,15 @@
   {
     "id": "https://techcrunch.com/?p=3130519",
     "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
+    "snippet": "The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why...",
+    "date": "2026-06-08T18:57:49",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3130519",
+    "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
     "snippet": "The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why...",
     "date": "2026-06-08T18:57:49",
     "source": "TECHCRUNCH",
@@ -1266,87 +1347,6 @@
     "date": "2026-06-07T11:31:09",
     "source": "XATAKA",
     "url": "https://www.xataka.com/energia/granja-minnesota-encontro-forma-producir-energia-solar-paso-crear-refugio-perfecto-vacas-sobrevivan-al-verano",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/ropa-futuro-fabrican-bacterias-jeff-bezos-acaba-invertir-34-millones-para-demostrarlo",
-    "title": "La ropa del futuro la fabrican bacterias. Jeff Bezos acaba de invertir 34 millones para demostrarlo",
-    "snippet": "Quien este libre de contradicciones que tire la primera piedra, pero es que Jeff Bezos juega en otra liga. \nPor un lado es el padre y fundador de una empresa que ha hecho de la logística de reparto su santo y seña (Amazo...",
-    "date": "2026-06-07T11:15:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/ropa-futuro-fabrican-bacterias-jeff-bezos-acaba-invertir-34-millones-para-demostrarlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/1852-unos-topografos-concluyeron-que-everest-media-justo-29-000-pies-cifra-les-parecio-poco-creible-que-cambiaron",
-    "title": "En 1852 unos topógrafos concluyeron que el Everest medía justo 29.000 pies. Les pareció tan poco creíble que le añadieron dos pies",
-    "snippet": "Dice el adagio que \"la mujer del César, además de ser honesta, debe parecerlo\". Con la topografía ocurre algo similar. Cuando a mediados del siglo XIX un grupo de investigadores de la Real Sociedad Geográfica Británica s...",
-    "date": "2026-06-07T11:01:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/1852-unos-topografos-concluyeron-que-everest-media-justo-29-000-pies-cifra-les-parecio-poco-creible-que-cambiaron",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-reniec-entregara-dni-hoy-domingo-7-para-votes-la-segunda-vuelta-electoral-video-1077838.aspx",
-    "title": "Reniec entregará DNI hoy domingo 7 para que votes en la segunda vuelta electoral [video]",
-    "snippet": "Las oficinas del Registro Nacional de Identificación y Estado Civil (Reniec) atenderán en hoy domingo 7 de junio, día de la segunda vuelta de las Elecciones Generales 2026 para la entrega de duplicados de DNI, incluso tr...",
-    "date": "2026-06-07T10:38:55",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-reniec-entregara-dni-hoy-domingo-7-para-votes-la-segunda-vuelta-electoral-video-1077838.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/su-busqueda-trenes-a-350-km-h-renfe-ofrece-4-000-millones-euros-empresas-espanolas-no-candidatas",
-    "title": "Renfe tiene entre manos un contrato de 4.000 millones de euros. Y ninguna empresa española le da los trenes que busca",
-    "snippet": "Renfe se prepara para elegir a la empresa afortunada que le suministrará, al menos, 30 trenes de alta velocidad. Es la licitación más cara de la historia de la compañía, con unos 4.000 millones de euros en juego. También...",
-    "date": "2026-06-07T10:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/su-busqueda-trenes-a-350-km-h-renfe-ofrece-4-000-millones-euros-empresas-espanolas-no-candidatas",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-este-horario-operaran-metropolitano-metro-y-corredores-1078145.aspx",
-    "title": "Elecciones 2026: en este horario operarán Metropolitano, Metro y corredores",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) informó a los usuarios cuál será el horario especial de los servicios de transporte público este domingo 7 de junio, día de la segunda vuelta de las Elecciones G...",
-    "date": "2026-06-07T10:27:16",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-este-horario-operaran-metropolitano-metro-y-corredores-1078145.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/china-acaba-lanzar-cohete-avisar-a-nadie-resulta-que-ambicioso-su-historia",
-    "title": "China acaba de lanzar un cohete sin avisar a nadie. Resulta que es el más ambicioso de su historia",
-    "snippet": "China se ha tomado en serio eso de “el que primero llega, se lo queda”. Aunque el Tratado del Espacio Exterior de 1967 establece que ningún Estado puede reclamar soberanía sobre la Luna, Marte o cualquier otro cuerpo cel...",
-    "date": "2026-06-07T10:01:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/china-acaba-lanzar-cohete-avisar-a-nadie-resulta-que-ambicioso-su-historia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/cuando-todos-huyen-se-queda-ex-cto-meta-ex-vicepresidente-tesla-se-alian-para-evitar-que-ia-apague-mundo",
-    "title": "La IA ha provocado el colapso incluso de una industria no relacionada con la IA: las turbinas de gas",
-    "snippet": "Cuando todo el mundo sale corriendo, el ex director de tecnología de Meta se queda. Mientras la mayoría de los inversores de Silicon Valley ha abandonado la tesis del Climate Tech —hastiados de promesas que no se convier...",
-    "date": "2026-06-07T09:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/cuando-todos-huyen-se-queda-ex-cto-meta-ex-vicepresidente-tesla-se-alian-para-evitar-que-ia-apague-mundo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/airbus-acaba-hacer-volar-avion-comercial-alcance-mundo-su-objetivo-22-horas-seguidas-aire-sola-escala",
-    "title": "Airbus acaba de hacer volar el avión comercial con más autonomía del mundo. Su objetivo: 22 horas seguidas sin escala",
-    "snippet": "Airbus ha hecho despegar por primera vez el A350-1000ULR, una variante de ultra largo alcance pensada para que aviones comerciales puedan cruzar el planeta sin una sola escala. El estreno tuvo lugar hace unos días en Tou...",
-    "date": "2026-06-07T09:01:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/airbus-acaba-hacer-volar-avion-comercial-alcance-mundo-su-objetivo-22-horas-seguidas-aire-sola-escala",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-tecnologia-hoy-7-junio",
-    "title": "Las mejores ofertas de MediaMarkt en tecnología, hoy 7 de junio",
-    "snippet": "Terminamos la semana con un buen surtido de ofertas en MediaMarkt, sobre todo en lo relacionado a móviles. Si pensabas renovar el que tienes, mucho ojo porque hay precios muy competitivos. Además, también hay ofertas bas...",
-    "date": "2026-06-07T08:31:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-tecnologia-hoy-7-junio",
     "category": "TRIBUTARIO"
   }
 ]
