@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.theverge.com/?p=946458",
+    "title": "Instagram is finally letting everyone reorganize their profile grid",
+    "snippet": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out wide...",
+    "date": "2026-06-08T23:58:30",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439952",
+    "title": "Portugal: Puerto de Lisboa-Setúbal crece un 7,24% interanual en movimiento de carga durante primeros 4 meses de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Lisboa-Setúbal (Portugal) registró un crecimiento interanual del 7,24% en el movimiento de carga\nLa entrada Portugal: Puerto de Lisboa-Setúbal crece un 7,24% in...",
+    "date": "2026-06-08T23:30:24",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/portugal-puerto-de-lisboa-setubal-crece-un-724-interanual-en-movimiento-de-carga-durante-primeros-4-meses-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=946391",
+    "title": "5 things I already love from the iOS 27 beta",
+    "snippet": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist fo...",
+    "date": "2026-06-08T23:30:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gyel9n02zo#0",
+    "title": "Driving test booking rules tightened after thousands of no shows",
+    "snippet": "Learner drivers can only swap their test to the three centres nearest to their original booking....",
+    "date": "2026-06-08T23:05:32",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439923",
+    "title": "Port de Tarragona: Antiguas grúas de DP World ceden su lugar a las de Cosco",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El moll de Andalusia del Port de Tarragona ha despedido en la última semana las dos\nLa entrada Port de Tarragona: Antiguas grúas de DP World ceden su lugar a las de Cosco se...",
+    "date": "2026-06-08T23:00:31",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/port-de-tarragona-antiguas-gruas-de-dp-world-ceden-su-lugar-a-las-de-cosco/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=439975",
+    "title": "Advierten riesgo de exclusión de carga fraccionada en futura concesión de terminales 1 y 2 del Puerto de Valparaíso",
+    "snippet": "Por Luis Alonso @PortalPortuario En el marco del proceso llevado a cabo ante el Tribunal de Defensa de la Libre\nLa entrada Advierten riesgo de exclusión de carga fraccionada en futura concesión de terminales 1 y 2 del Pu...",
+    "date": "2026-06-08T22:30:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/advierten-riesgo-de-exclusion-de-carga-fraccionada-en-futura-concesion-de-terminales-1-y-2-del-puerto-de-valparaiso/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1692119",
+    "title": "Indecopi multa a inmobiliarias con más de S/3,2 millones en lo que va del 2026 por infringir derechos de los consumidores",
+    "snippet": "Con más de 260 sanciones, el sector construcción e inmobiliario es el segundo más sancionado por Indecopi. Las principales infracciones están relacionadas con incumplimientos en la entrega de inmuebles y falta de informa...",
+    "date": "2026-06-08T22:23:45",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/indecopi-multa-inmobiliarias-mas-32-millones-soles-en-2026-cual-es-la-razon-noticia-1692119",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=440018",
     "title": "Ampliación de molo de abrigo en Puerto de Antofagasta marca inicio con colocación de “primera piedra”",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El biministro de Obras Públicas, Transportes y Telecomunicaciones, Louis de Grange, encabezó la ceremonia de &#8220;primera\nLa entrada Ampliación de molo de abrigo en Puerto...",
@@ -7,6 +70,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/ampliacion-de-molo-de-abrigo-en-puerto-de-antofagasta-marca-inicio-con-colocacion-de-primera-piedra/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "1e352e7f-eecf-4308-849a-0e21c3a049e7",
+    "title": "Apple Has a New Search Interface. Here's What This Means for Your iPhone",
+    "snippet": "Apple says your iPhone's search results could be faster, more reliable and more accurate....",
+    "date": "2026-06-08T21:47:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/apple-announces-new-search-interface-heres-what-this-means-for-your-iphone/",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.engadget.com/2190035/apple-is-dropping-support-for-some-pretty-modern-watch-models/",
@@ -126,6 +198,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://lacamara.pe/?p=94554",
+    "title": "CCL: empresas que usan tecnología son las que más están creciendo",
+    "snippet": "Las empresas que están utilizando tecnología son las que más están creciendo, ganando competitividad y conquistando nuevos mercados, afirmó el presidente de la Cámara de Comercio de Lima (CCL), Raúl Barrios Fernández-Con...",
+    "date": "2026-06-08T19:28:44",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/ccl-empresas-que-usan-tecnologia-son-las-que-mas-estan-creciendo/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/legislacion-y-derechos/nueva-siri-ai-no-llegara-inicialmente-a-ios-27-union-europea-apple-carga-regulacion-duro-mensaje",
     "title": "La nueva Siri AI no llegará inicialmente a iOS 27 en la Unión Europea: Apple carga contra la regulación en un duro mensaje",
     "snippet": "En el WWDC 2026 celebrado hoy, Apple ha presentado Siri AI, la versión más ambiciosa de su asistente hasta la fecha. El asistente es ahora capaz de mantener conversaciones fluidas, buscar en el correo o las fotos del usu...",
@@ -151,6 +232,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/basics/estas-todas-novedades-apple-intelligence-siri-ai-que-llegan-a-tu-iphone-ios-27",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=94553",
+    "title": "Shipping Partners Holding fortalece sus operaciones con certificaciones internacionales de calidad y seguridad",
+    "snippet": "En un entorno donde la seguridad, la eficiencia y el cumplimiento normativo son cada vez más relevantes para las operaciones internacionales, las certificaciones se han convertido en un factor clave para las empresas vin...",
+    "date": "2026-06-08T19:21:05",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/shipping-partners-holding-fortalece-sus-operaciones-con-certificaciones-internacionales-de-calidad-y-seguridad-ccl-asociados/",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.xataka.com/seleccion/oficial-msi-lanza-primer-pc-gaming-sobremesa-mundo-agente-ia-forma-holograma",
@@ -1257,96 +1347,6 @@
     "date": "2026-06-07T14:01:10",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/estas-patatas-solo-se-podian-comprar-carcel-estaban-buenas-que-acabaron-generando-mercado-negro-fuera-prision",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=439731",
-    "title": "Turquía: Portacontenedores que estuvo abandonado 12 años en astillero se incorpora a la flota de fletamento de DP World",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El portacontenedores Behram Box fue incorporado a la flota de fletamento de DP World. Este buque\nLa entrada Turquía: Portacontenedores que estuvo abandonado 12 años en astil...",
-    "date": "2026-06-07T14:00:17",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/turquia-portacontenedores-que-estuvo-abandonado-12-anos-en-astillero-se-incorpora-a-la-flota-de-fletamento-de-dp-world/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3129047",
-    "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
-    "snippet": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026....",
-    "date": "2026-06-07T14:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3129047",
-    "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-    "snippet": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026....",
-    "date": "2026-06-07T14:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/detectan-explosiones-raras-universo-estrella-que-se-destruyo-a-dejar-rastro",
-    "title": "En 2023 detectamos una explosión absolutamente anómala en los confines del Universo. Ahora sabemos qué pasó",
-    "snippet": "En 2023, la Instalación Transitoria de Zwicky, un consorcio astronómico liderado por Caltech, detectó una curiosa señal a las afueras de una galaxia enana a 1.300 millones de años luz de distancia. En un principio todo p...",
-    "date": "2026-06-07T13:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/detectan-explosiones-raras-universo-estrella-que-se-destruyo-a-dejar-rastro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-prorrogan-vigencia-del-grupo-trabajo-multisectorial-mineria-pequena-y-artesanal-1078367.aspx",
-    "title": "Prorrogan vigencia del Grupo de Trabajo Multisectorial en minería pequeña y artesanal",
-    "snippet": "El Ministerio de Energía y Minas, prorrogó la vigencia del Gupo de Trabajo Multisectorial de naturaleza temporal, que elaborará las propuestas técnicas para el desarrollo e implementación del Sistema Interoperable de la ...",
-    "date": "2026-06-07T13:13:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-prorrogan-vigencia-del-grupo-trabajo-multisectorial-mineria-pequena-y-artesanal-1078367.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/barcelona-quiere-decir-adios-al-asfalto-tradicional-sabe-como-aceitunas",
-    "title": "Barcelona quiere decir adiós al asfalto tradicional y cree saber cómo: con aceitunas",
-    "snippet": "Ni el transporte ni la calefacción: hay algo en las ciudades que genera una cantidad enorme de dióxido de carbono y que suele pasar desapercibido. Las ciudades en su conjunto son responsables de entre el 67% y el 72% de ...",
-    "date": "2026-06-07T13:01:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/barcelona-quiere-decir-adios-al-asfalto-tradicional-sabe-como-aceitunas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/han-encontrado-pelicula-vampiros-1968-que-creian-destruida-ser-demasiado-terrorifica-ahora-podemos-comprobarlo",
-    "title": "Han encontrado una película de vampiros de 1968 que creían destruida por ser demasiado terrorífica. Ahora podemos comprobarlo",
-    "snippet": "Un proyeccionista de un cine del condado británico de Dorset abrió una lata de película oxidada en un almacén. Era un episodio de una serie que llevaba años desaparecido y sobre el que se había extendido la leyenda de qu...",
-    "date": "2026-06-07T12:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/han-encontrado-pelicula-vampiros-1968-que-creian-destruida-ser-demasiado-terrorifica-ahora-podemos-comprobarlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/como-configurar-tu-smart-tv-para-ver-mundial-2026-mejor-manera-posible",
-    "title": "Cómo configurar tu Smart TV para ver el Mundial 2026 de la mejor manera posible",
-    "snippet": "Vamos a decirte cómo configurar tu Smart TV para ver mejor el Mundial de Fútbol de 2026. El campeonato empieza el 11 de junio, está casi aquí, y esta edición se diferenciará de las anteriores porque, por primera vez en E...",
-    "date": "2026-06-07T12:01:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/como-configurar-tu-smart-tv-para-ver-mundial-2026-mejor-manera-posible",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "3e5dc679-01bd-49bd-861f-372938e7c88f",
-    "title": "iPhone 18: What We Know About Apple's Next Flagship Lineup",
-    "snippet": "The iPhone 18 rumor mill is pointing toward Apple's foldable debut, a bigger battery, a variable-aperture camera and a split 2026-27 release schedule. Plus, there might be new dark cherry and light blue colors....",
-    "date": "2026-06-07T12:00:44",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-most-ambitious-lineup-yet/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/granja-minnesota-encontro-forma-producir-energia-solar-paso-crear-refugio-perfecto-vacas-sobrevivan-al-verano",
-    "title": "Una granja de Minnesota encontró la forma de producir energía solar y de crear algo más: el refugio perfecto para sus vacas",
-    "snippet": "Tener una instalación solar en un terreno rural es algo que puede beneficiar tanto a humanos como a animales. Ya hemos contado en otras ocasiones cómo la agrivoltaica puede tener efectos positivos en los animales, como e...",
-    "date": "2026-06-07T11:31:09",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/granja-minnesota-encontro-forma-producir-energia-solar-paso-crear-refugio-perfecto-vacas-sobrevivan-al-verano",
     "category": "TRIBUTARIO"
   }
 ]
