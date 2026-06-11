@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-gobierno-suspende-pesca-anchoveta-zona-nortecentro-para-reforzar-su-conservacion-1079076.aspx",
+    "title": "Gobierno suspende pesca de anchoveta en zona Norte-Centro para reforzar su conservación",
+    "snippet": "El Ministerio de la Producción (Produce) dispuso hoy la suspensión de la pesca de anchoveta (Engraulis ringens) y anchoveta blanca (Anchoa nasus) destinadas al consumo humano indirecto en la zona Norte-Centro del país, p...",
+    "date": "2026-06-11T22:58:38",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-suspende-pesca-anchoveta-zona-nortecentro-para-reforzar-su-conservacion-1079076.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2192755/researchers-are-developing-textiles-that-can-produce-drinking-water-from-the-air/",
+    "title": "Researchers are developing textiles that can produce drinking water from the air",
+    "snippet": "How very Dune....",
+    "date": "2026-06-11T22:50:44",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2192755/researchers-are-developing-textiles-that-can-produce-drinking-water-from-the-air/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-chancay-cuenta-nueva-infraestructura-para-disposicion-residuos-solidos-1079069.aspx",
+    "title": "Chancay cuenta con nueva infraestructura para disposición de residuos sólidos",
+    "snippet": "Una moderna infraestructura para la disposición final de residuos sólidos puso en funcionamiento el Ministerio del Ambiente (Minam) en el distrito de Chancay, provincia de Huaral, que beneficiará a más de 74 mil habitant...",
+    "date": "2026-06-11T22:37:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-chancay-cuenta-nueva-infraestructura-para-disposicion-residuos-solidos-1079069.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-exportacion-manufacturera-del-peru-supero-6987-millones-periodo-eneroabril-2026-1079068.aspx",
+    "title": "Exportación manufacturera del Perú superó US$ 6,987 millones en periodo enero-abril 2026",
+    "snippet": "Las exportaciones manufactureras del Perú superaron los 6,987 millones de dólares en el periodo enero-abril del presente año, registrando un crecimiento de 15.4% respecto al similar periodo del 2025, destacó el ministro ...",
+    "date": "2026-06-11T22:36:04",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-exportacion-manufacturera-del-peru-supero-6987-millones-periodo-eneroabril-2026-1079068.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=95396",
+    "title": "Empresas suizas interesadas en invertir en infraestructura del Perú",
+    "snippet": "Empresarios suizos de los sectores infraestructura y construcción colocaron al Perú y a Brasil como sus dos mercados de mayor interés en Sudamérica, informaron representantes del país europeo durante una visita realizada...",
+    "date": "2026-06-11T22:34:44",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/empresas-suizas-interesadas-en-invertir-en-infraestructura-del-peru/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=948814",
+    "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
+    "snippet": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface...",
+    "date": "2026-06-11T22:06:32",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=440604",
     "title": "Expertos plantean mayor coordinación público-privada ante avance del crimen organizado en cadena logística",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Compañía Sud Americana de Vapores (CSAV) y la Liga Marítima de Chile reunieron en Valparaíso\nLa entrada Expertos plantean mayor coordinación público-privada ante avance d...",
@@ -144,6 +198,15 @@
     "category": "LOGÍSTICA"
   },
   {
+    "id": "https://portalportuario.cl/?p=440536",
+    "title": "Buque fluvial autónomo navega de forma independiente entre terminales del Puerto de Rotterdam",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Rotterdam fue escenario de un hito importante en el desarrollo de la navegación\nLa entrada Buque fluvial autónomo navega de forma independiente entre terminales...",
+    "date": "2026-06-11T19:00:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rotterdam-alcanza-hito-en-transporte-maritimo-autonomo-buque-fluvial-navega-de-forma-independiente-entre-terminales/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/movilidad/grecia-quiso-poner-ia-a-vigilar-trafico-problema-llego-cuando-hubo-que-revisar-multas",
     "title": "Grecia quiso poner IA a vigilar el tráfico. El problema llegó cuando hubo que revisar las multas",
     "snippet": "Poner cámaras con inteligencia artificial a vigilar el tráfico suena, sobre el papel, a una solución casi inevitable: menos papeleo, más rapidez y una administración capaz de detectar infracciones sin depender de que un ...",
@@ -228,6 +291,15 @@
     "id": "https://portalportuario.cl/?p=440516",
     "title": "Tráficos de PortCastelló crecen 20,42% en mayo",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Los tráficos en el Puerto de Castellón han crecido 20,42% en el mes de mayo de\nLa entrada Tráficos de PortCastelló crecen 20,42% en mayo se publicó primero en PortalPortuari...",
+    "date": "2026-06-11T17:30:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/traficos-de-portcastello-crecen-2042-en-mayo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440516",
+    "title": "Movimiento de carga de PortCastelló crece 20,42% en mayo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los tráficos en el Puerto de Castellón han crecido 20,42% en el mes de mayo de\nLa entrada Movimiento de carga de PortCastelló crece 20,42% en mayo se publicó primero en Port...",
     "date": "2026-06-11T17:30:57",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/traficos-de-portcastello-crecen-2042-en-mayo/",
@@ -1275,78 +1347,6 @@
     "date": "2026-06-10T17:10:23",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/services-and-software/ios-27-feels-like-an-empty-update-on-older-iphones/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=947898",
-    "title": "You can just tell the Instagram algorithm what you want now",
-    "snippet": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts ...",
-    "date": "2026-06-10T17:06:10",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/hemos-convertido-probioticos-pastilla-milagrosa-siglo-xxi-ciencia-avisa-que-tomarlos-a-diario-error",
-    "title": "Hemos convertido los probióticos en la pastilla milagrosa del siglo XXI. La ciencia tiene algo que decir al respecto",
-    "snippet": "Están en las farmacias, junto a las vitaminas C y los complejos multivitamínicos. Están en los lineales de los supermercados ecológicos, entre los adaptógenos y los shots de cúrcuma. Ocupan los reels de TikTok con el mis...",
-    "date": "2026-06-10T17:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/hemos-convertido-probioticos-pastilla-milagrosa-siglo-xxi-ciencia-avisa-que-tomarlos-a-diario-error",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=947871",
-    "title": "Amazon’s Echo speakers can now help kids wind down and fall asleep",
-    "snippet": "Amazon has launched a new feature for its Echo and Echo Kids smart speakers called Sleep Studio that's designed to make the daily transition to bedtime more enticing for kids and less stressful for parents and caregivers...",
-    "date": "2026-06-10T16:54:17",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=947575",
-    "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-    "snippet": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because o...",
-    "date": "2026-06-10T16:50:23",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tumbes-un-ataque-armado-presuntos-piratas-deja-un-pescador-fallecido-puerto-pizarro-1078819.aspx",
-    "title": "Tumbes: un ataque armado de presuntos piratas deja un pescador fallecido en Puerto Pizarro",
-    "snippet": "La tranquilidad en la villa de Puerto Pizarro, en la región Tumbes, se vio interrumpida la noche de este martes 9 de junio cuando presuntos piratas desataron una ráfaga de disparos que acabó con la vida de un pescador. E...",
-    "date": "2026-06-10T16:47:13",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tumbes-un-ataque-armado-presuntos-piratas-deja-un-pescador-fallecido-puerto-pizarro-1078819.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-entrega-a-carmen-de-legua-moderna-base-serenazgo-1078814.aspx",
-    "title": "ATU entrega a Carmen de la Legua moderna base de serenazgo",
-    "snippet": "Con una simbólica entrega de llaves, la Autoridad de Transporte Urbano para Lima y Callao (ATU) entregó a la municipalidad de Carmen de la Legua-Reynoso una moderna base de serenazgo, como parte de las obras de compensac...",
-    "date": "2026-06-10T16:38:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-entrega-a-carmen-de-legua-moderna-base-serenazgo-1078814.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/sera-dificil-imaginar-que-publico-gaste-miles-dolares-consola-xbox-anticipa-cambios-alla-project-helix",
-    "title": "\"Es difícil imaginar que el público gastará miles de dólares en una consola\": Xbox anticipa cambios más allá de Project Helix",
-    "snippet": "Ayer Nintendo cerró el no-E3. La feria de videojuegos tal y como la conocíamos murió hace unos años, pero su espíritu sigue vivo en forma de conferencias que se aglutinan en la primera mitad de junio y en las que las com...",
-    "date": "2026-06-10T16:30:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/sera-dificil-imaginar-que-publico-gaste-miles-dolares-consola-xbox-anticipa-cambios-alla-project-helix",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=95276",
-    "title": "Estudiantes peruanos alcanzan podio en la final mundial tecnológica de Huawei",
-    "snippet": "Los estudiantes de la Universidad Nacional de Ingeniería (UNI) y la Pontificia Universidad Católica del Perú (PUCP) obtuvieron destacados resultados en la novena edición de la final global del Huawei ICT Competition, des...",
-    "date": "2026-06-10T16:17:03",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/estudiantes-peruanos-alcanzan-podio-en-la-final-mundial-tecnologica-de-huawei-ccl-asociados/",
     "category": "MERCADO"
   }
 ]
