@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.xataka.com/seleccion/cazando-gangas-mejores-ofertas-toda-semana-tecnologia-entretenimiento-hoy-12-junio",
+    "title": "Cazando Gangas con las mejores ofertas de toda la semana en tecnología y entretenimiento, hoy 12 de junio",
+    "snippet": "Queda muy poco para que Amazon celebre su próximo Prime Day 2026 y se nota en las ofertas que están lanzando muchas otras tiendas. Televisores, consolas e incluso dispositivos de Apple han ido recibiendo muchos descuento...",
+    "date": "2026-06-12T08:30:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/cazando-gangas-mejores-ofertas-toda-semana-tecnologia-entretenimiento-hoy-12-junio",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/ia-esta-aligerando-trabajo-diario-tiene-efecto-secundario-se-trabaja-para-rehacer-que-hace-ia",
+    "title": "La IA está aligerando el trabajo diario, pero tiene un efecto secundario: se trabaja más para rehacer lo que hace la IA",
+    "snippet": "Cuando la IA empezó a demostrar que podía ser competente a la hora de escribir código, todo un sector se echó a temblar. El de los ingenieros de software parecía uno de esos trabajos que iba a ser rápidamente eclipsado p...",
+    "date": "2026-06-12T08:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/ia-esta-aligerando-trabajo-diario-tiene-efecto-secundario-se-trabaja-para-rehacer-que-hace-ia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/empresa-probo-semana-laboral-cuatro-dias-ahora-sus-trabajadores-piensan-que-mejor-trabajar-siete-dias-1",
+    "title": "Una empresa probó la semana laboral de cuatro días. Ahora sus trabajadores piensan que lo mejor es trabajar siete días",
+    "snippet": "Aunque en España el Congreso tumbó la propuesta para la reducción de la jornada laboral, el debate en Europa está más vivo que nunca y muchos países están reconsiderando su modelo de jornada laboral con alternativas como...",
+    "date": "2026-06-12T07:30:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/empresa-probo-semana-laboral-cuatro-dias-ahora-sus-trabajadores-piensan-que-mejor-trabajar-siete-dias-1",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440114",
+    "title": "Reino Unido: ABP llega a un acuerdo con el Puerto de Cardiff para el abastecimiento de energía",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Associated British Ports (ABP) firmó un contrato con la empresa de energía Valero para asegurar\nLa entrada Reino Unido: ABP llega a un acuerdo con el Puerto de Cardiff pa...",
+    "date": "2026-06-12T07:00:29",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-abp-llega-a-un-acuerdo-con-el-puerto-de-cardiff-para-el-abastecimiento-de-energia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440531",
+    "title": "Fundación Nao Victoria anuncia arribo a Puerto de Sevilla de recreación sostenible del Real Fernando",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Fundación Nao Victoria anunció la llegada al Puerto de Sevilla del Real Fernando, la recreación\nLa entrada Fundación Nao Victoria anuncia arribo a Puerto de Sevilla de re...",
+    "date": "2026-06-12T06:00:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/fundacion-nao-victoria-anuncia-arribo-a-puerto-de-sevilla-de-recreacion-sostenible-del-real-fernando/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440672",
+    "title": "Wan Hai 513 hace primera llamada a Puerto de Oakland como parte de nuevo servicio PS8",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Oakland dio la bienvenida al arribo del buque Wan Hai 513, debido a\nLa entrada Wan Hai 513 hace primera llamada a Puerto de Oakland como parte de nuevo servicio...",
+    "date": "2026-06-12T05:00:08",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/wan-hai-513-hace-primera-llamada-a-puerto-de-oakland-como-parte-de-nuevo-servicio-ps8/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=440380",
     "title": "España: Puerto de Almería busca alcanzar operaciones con cero emisiones",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Almería (España) se mantiene trabajando para alcanzar las “cero emisiones”. La iniciativa busca\nLa entrada España: Puerto de Almería busca alcanzar operaciones ...",
@@ -150,6 +204,15 @@
     "date": "2026-06-11T22:50:44",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2192755/researchers-are-developing-textiles-that-can-produce-drinking-water-from-the-air/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "CBMi1wFBVV95cUxOVzJicmpDS09jZ2dISWNheFU2UEtuTndySW1WMHF6OWxXQnhIQ0w0V1VvRnlZTUo2YlVrUGNXUmE4Y2pfY0Eya3BxVzJEajNoN1p1WmlCSG9UQk1pdjhwWUZvbnlaVjR2bFhZM2VITUtCcWl1aU44c2hONV9ZeEpSWkJIMVM2V18wNmFxZVJYWGlYaWhTTEIydERfRHlkUkhTMmwyWGtsdmNLb1E2YjNIREJ6Ni1fQ3dpZ3B4RXJxQWpYQmI5Z1l5a25VQ2hFWHA0SkI0ZmthWQ",
+    "title": "Establecen marco normativo para el desarrollo del turismo náutico en el territorio nacional - Congreso",
+    "snippet": "Establecen marco normativo para el desarrollo del turismo náutico en el territorio nacional  Congreso...",
+    "date": "2026-06-11T22:42:54",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVzJicmpDS09jZ2dISWNheFU2UEtuTndySW1WMHF6OWxXQnhIQ0w0V1VvRnlZTUo2YlVrUGNXUmE4Y2pfY0Eya3BxVzJEajNoN1p1WmlCSG9UQk1pdjhwWUZvbnlaVjR2bFhZM2VITUtCcWl1aU44c2hONV9ZeEpSWkJIMVM2V18wNmFxZVJYWGlYaWhTTEIydERfRHlkUkhTMmwyWGtsdmNLb1E2YjNIREJ6Ni1fQ3dpZ3B4RXJxQWpYQmI5Z1l5a25VQ2hFWHA0SkI0ZmthWQ?oc=5",
     "category": "MERCADO"
   },
   {
@@ -484,6 +547,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/nespresso-vertuo-up-frente-a-pop-next-que-cambia-que-no-nueva-generacion-cafeteras-capsulas-grandes",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "CBMizwFBVV95cUxOUUY2c09VbWNDTUdMY1hKdlFDaktpbXRIeEd5WklpSThnalNUZEEwXzhsZlB5S0xnWVVXMWJvak9CWXhBdGxHemJIRkpZNDNXbklPRlRxMzlNRWh2Y2RYZkVZX3VRakxOUVEzVzZIRTJYNFpXUHktcFlDSnVkeEdJZGxCNEZzQ0N3SkdfbDRuNnRXTGxMYjRCeFJsOXJuVVNFb3I4angtaFFsR1VwRzl5bTVkb1ZxT2dWcjhNS01GSWE5WF9GQTN2MnZYNlpoR1k",
+    "title": "Aprueban dictamen para impulsar al Inti Raymi como patrimonio cultural ante la Unesco - Congreso",
+    "snippet": "Aprueban dictamen para impulsar al Inti Raymi como patrimonio cultural ante la Unesco  Congreso...",
+    "date": "2026-06-11T17:11:18",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUY2c09VbWNDTUdMY1hKdlFDaktpbXRIeEd5WklpSThnalNUZEEwXzhsZlB5S0xnWVVXMWJvak9CWXhBdGxHemJIRkpZNDNXbklPRlRxMzlNRWh2Y2RYZkVZX3VRakxOUVEzVzZIRTJYNFpXUHktcFlDSnVkeEdJZGxCNEZzQ0N3SkdfbDRuNnRXTGxMYjRCeFJsOXJuVVNFb3I4angtaFFsR1VwRzl5bTVkb1ZxT2dWcjhNS01GSWE5WF9GQTN2MnZYNlpoR1k?oc=5",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.engadget.com/2192366/dave-the-diver-swims-onto-ios-and-android-this-august/",
@@ -1276,77 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/eeuu-ray-mont-logistics-construye-nueva-instalacion-de-exportacion-en-puerto-de-mobile/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/energia/centros-datos-tienen-problema-fondo-compania-china-acaba-convertir-su-energia-piezas-prefabricadas",
-    "title": "Los centros de datos tienen un problema de fondo: una compañía china acaba de convertir su energía en piezas prefabricadas",
-    "snippet": "La última novedad china en inteligencia artificial no tiene forma de chatbot ni de chip. Tiene forma de una enorme base eléctrica prefabricada para alimentar centros de datos orientados a cargas intensivas de cálculo. Pu...",
-    "date": "2026-06-10T20:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/centros-datos-tienen-problema-fondo-compania-china-acaba-convertir-su-energia-piezas-prefabricadas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-busca-ingresos-extra-conoe-cuatro-opciones-para-emprender-baja-inversion-1078849.aspx",
-    "title": "¿Busca ingresos extra? Conoe cuatro opciones para emprender con baja inversión",
-    "snippet": "Ante la búsqueda de alternativas para complementar los ingresos familiares, cada vez más peruanos optan por emprender pequeños negocios o desarrollar actividades independientes. En el país existen más de 3.4 millones de ...",
-    "date": "2026-06-10T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-busca-ingresos-extra-conoe-cuatro-opciones-para-emprender-baja-inversion-1078849.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3131915",
-    "title": "Wing drone delivery might not be a novelty anymore",
-    "snippet": "Wing is expanding into seven more U.S. cities through its partnership with Walmart....",
-    "date": "2026-06-10T19:52:09",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-madera-ucayali-conquista-mercados-china-estados-unidos-y-otros-paises-del-mundo-1078865.aspx",
-    "title": "Madera de Ucayali conquista mercados de China, Estados Unidos y otros países del mundo",
-    "snippet": "Cada vez que un cargamento de madera sale desde Pucallpa rumbo a diversos países del mundo, el sueño de los productores madereros viajan también hacia esos países imaginando el destino que tendrá su producto que tanto es...",
-    "date": "2026-06-10T19:44:39",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-madera-ucayali-conquista-mercados-china-estados-unidos-y-otros-paises-del-mundo-1078865.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1692437",
-    "title": "El financiamiento a startups se queda corto y 900 emprendimientos ven truncado su despegue: ¿qué se espera del nuevo gobierno?",
-    "snippet": "El ecosistema emprendedor peruano enfrenta un déficit de financiamiento de US$516 millones entre 2026 y 2030. Esta brecha podría dejar sin acceso a capital a 881 emprendimientos, según estudio de Cofide....",
-    "date": "2026-06-10T19:37:27",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/el-financiamiento-a-startups-se-queda-corto-y-900-emprendimientos-ven-truncado-su-despegue-que-se-espera-del-nuevo-gobierno-noticia-1692437",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1692437",
-    "title": "Cerca de 900 startups podrían quedarse sin financiamiento los próximos cinco años: ¿qué se espera del nuevo gobierno?",
-    "snippet": "El ecosistema emprendedor peruano enfrenta un déficit de financiamiento de US$516 millones entre 2026 y 2030. Esta brecha podría dejar sin acceso a capital a 881 emprendimientos, según estudio de Cofide....",
-    "date": "2026-06-10T19:37:27",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/el-financiamiento-a-startups-se-queda-corto-y-900-emprendimientos-ven-truncado-su-despegue-que-se-espera-del-nuevo-gobierno-noticia-1692437",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=440371",
-    "title": "Exmar recibe primer buque transoceánico de combustible dual propulsado por amoníaco",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Exmar anunció la entrega del MGC Antwerpen, el primer buque de alta mar propulsado por un\nLa entrada Exmar recibe primer buque transoceánico de combustible dual propulsado p...",
-    "date": "2026-06-10T19:30:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/exmar-recibe-el-primer-buque-transoceanico-de-combustible-dual-propulsado-por-amoniaco/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-la-libertad-feria-paijan-tierra-fertil-espera-recibir-mas-45-mil-visitantes-1078867.aspx",
-    "title": "La Libertad: Feria \"Paiján tierra fértil\" espera recibir más de 45 mil visitantes",
-    "snippet": "Más de 45 mil visitantes se estima que lleguen este fin de semana al valle Chicama, en la provincia de Ascope, región La Libertad, para participar del programa de actividades de la Feria Agropecuaria, Agroindustrial, Tur...",
-    "date": "2026-06-10T19:29:05",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-libertad-feria-paijan-tierra-fertil-espera-recibir-mas-45-mil-visitantes-1078867.aspx",
-    "category": "MERCADO"
   }
 ]
