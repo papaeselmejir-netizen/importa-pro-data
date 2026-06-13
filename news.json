@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3132688",
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "snippet": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday....",
+    "date": "2026-06-13T19:11:41",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440956",
+    "title": "Puerto de Iquique inicia operaciones de buques factoría",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Iquique comenzó las operaciones de buques factoría. El hito se marca con el\nLa entrada Puerto de Iquique inicia operaciones de buques factoría se publicó primer...",
+    "date": "2026-06-13T19:00:35",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-iquique-inicia-operaciones-de-buques-factoria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/campanas-para-no-quedarte-ciego-tradicional-solucion-pueblo-navarra-al-problema-peligroso-ver-eclipse",
+    "title": "Campanas para no quedarte ciego: la tradicional solución de un pueblo de Navarra al problema más peligroso de ver un eclipse",
+    "snippet": "¿Quién no se ha guiado por los cuartos en Nochevieja para no meter la pata con el inicio de las 12 uvas? Sin duda, esos toques que anteceden a las campanadas de las 12 de la noche son un recurso ideal para disfrutar a to...",
+    "date": "2026-06-13T19:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/campanas-para-no-quedarte-ciego-tradicional-solucion-pueblo-navarra-al-problema-peligroso-ver-eclipse",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/pensabamos-que-respirar-hondo-era-solo-tecnica-relajacion-ciencia-ha-demostrado-que-altera-fisicamente-nuestra-memoria",
+    "title": "Los investigadores coinciden: \"La meditación está relacionada con un aumento del rendimiento en tareas cognitivas\"",
+    "snippet": "Respirar es un acto tan instintivo que rara vez le prestamos atención, puesto que, aunque lo hacemos unas 20.000 veces al día, estamos metidos en un estricto \"piloto automático\" fisiológico del que casi no somos conscien...",
+    "date": "2026-06-13T18:30:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/pensabamos-que-respirar-hondo-era-solo-tecnica-relajacion-ciencia-ha-demostrado-que-altera-fisicamente-nuestra-memoria",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440953",
+    "title": "Servicio Nacional de Aduanas realiza un positivo balance de jornadas de trabajo en la Región de Arica y Parinacota",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Servicio Nacional de Aduanas realizó un balance positivo de su visita a la Región de\nLa entrada Servicio Nacional de Aduanas realiza un positivo balance de jornadas de tr...",
+    "date": "2026-06-13T18:00:34",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/servicio-nacional-de-aduanas-realiza-un-positivo-balance-de-jornadas-de-trabajo-en-la-region-de-arica-y-parinacota/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hace-1-900-anos-romanos-sabian-que-ir-descalzo-a-bano-publico-mala-idea-asi-que-usaban-chanclas-bano",
+    "title": "Hace 1.900 años los romanos sabían que ir descalzo a un baño público es mala idea, así que usaban chanclas de baño",
+    "snippet": "La imagen que hay sobre estas líneas ilustrando el artículo pertenece a la reconstrucción de los baños públicos romanos en Bath, a unos 550 kilómetros de uno de los yacimientos romanos más prolíficos: Vindolanda, también...",
+    "date": "2026-06-13T18:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hace-1-900-anos-romanos-sabian-que-ir-descalzo-a-bano-publico-mala-idea-asi-que-usaban-chanclas-bano",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-estudio-revela-atencion-poco-personalizada-dificulta-decidir-compra-vivienda-1079292.aspx",
+    "title": "Estudio revela que atención poco personalizada dificulta decidir la compra de vivienda",
+    "snippet": "Comprar una vivienda es una de las decisiones económicas más importantes para una familia o inversionista. Sin embargo, la experiencia que reciben las personas interesadas en proyectos inmobiliarios aún presenta brechas ...",
+    "date": "2026-06-13T18:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-estudio-revela-atencion-poco-personalizada-dificulta-decidir-compra-vivienda-1079292.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/haiti-queria-camiseta-epica-para-su-regreso-al-mundial-ha-conseguido-cabrear-a-fifa-que-todos-hablen-polonia",
+    "title": "Haití quería una camiseta épica para su regreso al Mundial. Ha conseguido cabrear a la FIFA y que todos hablen de Polonia",
+    "snippet": "Hacía más de medio siglo que Haití no participaba en la Copa del Mundo y sin embargo, ironías de la historia, en el país (y la prensa deportiva del resto del planeta) no se está hablando de sus jugadores o sus posibilida...",
+    "date": "2026-06-13T17:30:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/haiti-queria-camiseta-epica-para-su-regreso-al-mundial-ha-conseguido-cabrear-a-fifa-que-todos-hablen-polonia",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=440950",
     "title": "Bolivia: ASP-B  suspende solicitudes de desconsolidación de contenedores por congestión en Terminal Portuario de Arica",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración de Servicios Portuarios-Bolivia (ASP-B) informó a la comunidad la suspensión temporal de la tramitación\nLa entrada Bolivia: ASP-B  suspende solicitudes de ...",
@@ -65,6 +137,15 @@
   {
     "id": "https://www.xataka.com/espacio/cuando-persona-91-anos-sigue-acordandose-que-vio-hace-67-anos-sabes-que-algo-especial-astronoma-aficionada-que-lleva-meses-preparando-viaje-su-vida-para-12-agosto",
     "title": "La astrónoma española que ha organizado sus vacaciones en torno al eclipse: \"Cuando alguien de 91 años sigue acordándose, sabes que es algo especial\"",
+    "snippet": "El 12 de agosto tendrá lugar el primero de los eclipses solares que compondrán el llamado Trío Ibérico. En 2026, 2027 y 2028 tendremos eclipses solares que podrán verse en España. El tercero será anular, pero los otros d...",
+    "date": "2026-06-13T16:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/cuando-persona-91-anos-sigue-acordandose-que-vio-hace-67-anos-sabes-que-algo-especial-astronoma-aficionada-que-lleva-meses-preparando-viaje-su-vida-para-12-agosto",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/cuando-persona-91-anos-sigue-acordandose-que-vio-hace-67-anos-sabes-que-algo-especial-astronoma-aficionada-que-lleva-meses-preparando-viaje-su-vida-para-12-agosto",
+    "title": "La astroaficionada española que ha organizado sus vacaciones en torno al eclipse: \"Cuando alguien de 91 años sigue acordándose, sabes que es algo especial\"",
     "snippet": "El 12 de agosto tendrá lugar el primero de los eclipses solares que compondrán el llamado Trío Ibérico. En 2026, 2027 y 2028 tendremos eclipses solares que podrán verse en España. El tercero será anular, pero los otros d...",
     "date": "2026-06-13T16:00:17",
     "source": "XATAKA",
@@ -1267,86 +1348,5 @@
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2192866/engadget-newsletter-apple-wwdc-2026/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.scmp.com/news/hong-kong/politics/article/3356943/district-councillor-linked-tai-po-fire-resigns-adviser-second-estate?utm_source=rss_feed",
-    "title": "District councillor linked to Tai Po fire resigns as adviser to second estate",
-    "snippet": "A Hong Kong district councillor criticised for her links to the former owners’ committee of the fire-ravaged Wang Fuk Court has resigned from her advisory role for another housing estate in Tai Po, following the announce...",
-    "date": "2026-06-12T11:13:49",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3356943/district-councillor-linked-tai-po-fire-resigns-adviser-second-estate?utm_source=rss_feed",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1692715",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 12 de junio del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy viernes 12 de junio es de  S/3.39 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-06-12T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-12-de-junio-del-2026-noticia-1692715",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/anuncios-facebook-marketplace-se-estan-llenando-mujeres-sexys-generadas-ia-hay-razon-muy-concreta-detras",
-    "title": "Los anuncios de Facebook Marketplace se están llenando de mujeres sexys generadas con IA y hay una razón muy concreta detrás",
-    "snippet": "Lo de vender en plataformas de compraventa no siempre es tarea sencilla. Que los anuncios se pasen semanas sin que nadie se interese por ellos es bastante habitual, especialmente si lo que queremos vender es algo caro co...",
-    "date": "2026-06-12T11:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/anuncios-facebook-marketplace-se-estan-llenando-mujeres-sexys-generadas-ia-hay-razon-muy-concreta-detras",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/1980-bill-gates-entrego-8-75-microsoft-para-fichar-a-su-amigo-hoy-steve-ballmer-rico-que-gates-1",
-    "title": "En 1980, Bill Gates entregó el 8,75% de Microsoft para fichar a su amigo: hoy Steve Ballmer es más rico que Gates",
-    "snippet": "Si una cosa ha quedado clara en los 50 años de carrera profesional de Bill Gates, es que tiene buen olfato para los negocios, aunque a veces haya fallado en sus decisiones. Eso le ha llevado a permanecer durante casi cua...",
-    "date": "2026-06-12T10:56:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/1980-bill-gates-entrego-8-75-microsoft-para-fichar-a-su-amigo-hoy-steve-ballmer-rico-que-gates-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/estamos-comprobando-primer-efecto-nino-destructivo-que-se-recuerda-sube-nivel-mar",
-    "title": "Ya estamos comprobando el primer efecto de El Niño más destructivo que se recuerda: sube el nivel del mar",
-    "snippet": "El Niño ya está aquí y los datos oficiales apuntan a un evento potencialmente muy fuerte. La NOAA que hace un mes no veía motivos para preocuparse, ya da un 63% de probabilidad a lo que los meteorólogos llaman SuperNiño....",
-    "date": "2026-06-12T10:30:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/estamos-comprobando-primer-efecto-nino-destructivo-que-se-recuerda-sube-nivel-mar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/startup-barcelona-gigante-asiatico-theker-logra-74-millones-para-batir-a-china-su-propio-juego",
-    "title": "Una startup de Barcelona contra el gigante asiático: Theker logra 74 millones para batir a China en su propio juego",
-    "snippet": "74 millones de euros acaban de levantar los responsables de la startup barcelonesa Theker. La cantidad está muy lejos de las rondas multimillonarias de las empresas de IA de Silicon Valley, pero es todo un voto de confia...",
-    "date": "2026-06-12T10:16:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/startup-barcelona-gigante-asiatico-theker-logra-74-millones-para-batir-a-china-su-propio-juego",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "4ea48c97-9778-48ee-9f21-d09537d1d788",
-    "title": "Before iOS 27 Arrives, Here's How to Customize Your iPhone's Lock Screen",
-    "snippet": "When Apple released iOS 26, it brought all these customization options to your device....",
-    "date": "2026-06-12T10:00:41",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/before-ios-27-heres-how-to-customize-your-iphones-lock-screen/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=440634",
-    "title": "Suministro de crudo saudí a China se mantendría en mínimos históricos",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Se espera que las ventas de petróleo crudo de Arabia Saudita a China se mantengan\nLa entrada Suministro de crudo saudí a China se mantendría en mínimos histó...",
-    "date": "2026-06-12T10:00:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/suministro-de-crudo-saudi-a-china-se-mantendria-en-minimos-historicos/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/james-webb-acaba-encontrar-objeto-que-solo-existia-teoria-estrella-agujero-negro-su-interior",
-    "title": "El James Webb acaba de encontrar un objeto que solo existía en teoría: una estrella con un agujero negro en su interior",
-    "snippet": "Desde 2022, el Telescopio Espacial James Webb ha detectado cientos de puntos rojos, formados posiblemente unos 600 millones de años después del Big Bang. Su origen ha sido un enigma durante todo este tiempo. Sin embargo,...",
-    "date": "2026-06-12T10:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/james-webb-acaba-encontrar-objeto-que-solo-existia-teoria-estrella-agujero-negro-su-interior",
-    "category": "TRIBUTARIO"
   }
 ]
