@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-conida-fortalece-capacidades-uso-imagenes-satelitales-para-desarrollo-del-pais-1079339.aspx",
+    "title": "Conida fortalece capacidades en uso de imágenes satelitales para desarrollo del país",
+    "snippet": "La Agencia Espacial del Perú (Conida), participó en la Semana de la Innovación organizada por el Consejo Nacional de Ciencia, Tecnología e Innovación (Concytec), mediante el desarrollo del Taller de Fundamentos de Telede...",
+    "date": "2026-06-13T22:18:05",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conida-fortalece-capacidades-uso-imagenes-satelitales-para-desarrollo-del-pais-1079339.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440959",
+    "title": "Rusia: Una persona perdió la vida tras un incendio en el Puerto Temryuk provocado por drones ucranianos",
+    "snippet": "Por Redacción PortalPortuario / Agencia Reuters @PortalPortuario Una persona fallecida dejó un incendio ocurrido en el Puerto de Temryuk (Rusia).\nLa entrada Rusia: Una persona perdió la vida tras un incendio en el Puerto...",
+    "date": "2026-06-13T22:00:43",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rusia-una-persona-perdio-la-vida-tras-un-incendio-en-el-puerto-temryuk-provocado-por-drones-ucranianos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949601",
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "snippet": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CE...",
+    "date": "2026-06-13T21:39:26",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-arequipa-pnp-interviene-banda-criminal-dedicada-a-comercializacion-celulares-robados-1079321.aspx",
     "title": "Arequipa: PNP interviene banda criminal dedicada a comercialización de celulares robados",
     "snippet": "La policía incautó 61 celulares robados, así como sofisticados equipos de cómputo utilizados para el desbloqueo de dispositivos móviles de dudosa procedencia y desarticuló la banda denominada \"Los huacos\", en el Cercado ...",
@@ -1320,33 +1347,6 @@
     "date": "2026-06-12T12:30:16",
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/tsmc-esta-cuerdas-su-mayor-problema-no-competencia-agua",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=942678",
-    "title": "The Nintendo DS is still the best gaming handheld for travel",
-    "snippet": "Even with the looming specter of rising prices, there's never been a better time for portable gaming. The Steam Deck has ushered in a new era of handheld PCs, the Analogue Pocket and other Game Boy-style remakes are maki...",
-    "date": "2026-06-12T12:30:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-vota-aqui-machu-picchu-como-mejor-atraccion-sudamerica-los-oscar-del-turismo-1075077.aspx",
-    "title": "Vota aquí por Machu Picchu como la Mejor Atracción de Sudamérica en los Óscar del Turismo",
-    "snippet": "A menos dos semanas para que concluya la votación para elegir a los nominados en los World Travel Awards 2026, Machu Picchu espera el apoyo de todos para coronarse nuevamente como Mejor Atracción Turística de Sudamérica....",
-    "date": "2026-06-12T12:23:48",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-vota-aqui-machu-picchu-como-mejor-atraccion-sudamerica-los-oscar-del-turismo-1075077.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/trump-mobile-t1-queria-ser-movil-americano-excelencia-ha-resultado-ser-movil-absolutamente-chino",
-    "title": "El Trump Mobile T1 quería ser el móvil americano por excelencia. Ha resultado ser un móvil absolutamente chino",
-    "snippet": "Donald Trump estaba empeñado en que Apple construyera el iPhone en Estados Unidos y logró que dieran pasos en esa dirección, pero pronto quedó claro que el iPhone 100% estadounidense era una utopía. La cosa no salió como...",
-    "date": "2026-06-12T12:16:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/trump-mobile-t1-queria-ser-movil-americano-excelencia-ha-resultado-ser-movil-absolutamente-chino",
     "category": "TRIBUTARIO"
   }
 ]
