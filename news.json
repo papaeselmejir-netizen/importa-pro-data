@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-la-participacion-los-vecinos-resulta-fundamental-para-prevenir-delito-1079260.aspx",
+    "title": "“La participación de los vecinos resulta fundamental para prevenir el delito”",
+    "snippet": "Como parte de las acciones contempladas en el Plan Nacional de Seguridad Ciudadana, el ministro del Interior, José Zapata Morante, encabezó una ronda mixta junto a efectivos de la Policía Nacional del Perú (PNP) y más de...",
+    "date": "2026-06-13T04:42:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-la-participacion-los-vecinos-resulta-fundamental-para-prevenir-delito-1079260.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-insn-recibe-donacion-tres-equipos-monitoreo-para-trasladar-a-pacientes-criticos-1079258.aspx",
+    "title": "INSN recibe donación de tres equipos de monitoreo para trasladar a pacientes críticos",
+    "snippet": "El Instituto Nacional de Salud del Niño (INSN) recibió la donación de tres monitores multiparamétricos, valorizados aproximadamente en S/ 8 mil, que contribuirán a un monitoreo más seguro de los pacientes críticos durant...",
+    "date": "2026-06-13T04:34:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-insn-recibe-donacion-tres-equipos-monitoreo-para-trasladar-a-pacientes-criticos-1079258.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440938",
+    "title": "Brasil: Subsidiaria de Ictsi adquiere empresa de logística y transporte Cragea",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario IRB Holding, una empresa que forma parte del Grupo Ictsi, anunció la adquisición del control total\nLa entrada Brasil: Subsidiaria de Ictsi adquiere empresa de logística y tr...",
+    "date": "2026-06-13T04:00:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-subsidiaria-de-ictsi-adquiere-empresa-de-logistica-y-transporte-cragea/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-ministro-justicia-hemos-recorrido-pais-campanas-apoyo-a-poblacion-1079247.aspx",
     "title": "Ministro de Justicia: hemos recorrido el país con campañas de apoyo a la población",
     "snippet": "En el marco de su viaje de trabajo a Áncash, el ministro de Justicia y Derechos Humanos, Luis Jiménez Borra, lideró dos campañas de Defensa Pública en la provincia ancashina de Santa, que forma parte de las estrategias q...",
@@ -1320,33 +1347,6 @@
     "date": "2026-06-11T20:00:01",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/eeuu-renovacion-de-ocean-terminal-en-puerto-de-savannah-alcanza-55-de-avance/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=948204",
-    "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
-    "snippet": "The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year. While it may look like a somewhat ordinary mouse, it has a uniq...",
-    "date": "2026-06-11T20:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132124",
-    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-    "snippet": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud....",
-    "date": "2026-06-11T19:58:01",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=440589",
-    "title": "Puerto ecuatoriano de Posorja se posiciona como el más eficiente de América Latina y el Caribe en 2025",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario De los más de 400 puertos evaluados en el Container Port Performance Index (CPPI) 2025, solo\nLa entrada Puerto ecuatoriano de Posorja se posiciona como el más eficiente de A...",
-    "date": "2026-06-11T19:30:10",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-ecuatoriano-de-posorja-se-posiciona-como-el-mas-eficiente-de-america-latina-y-el-caribe-en-2025/",
     "category": "LOGÍSTICA"
   }
 ]
