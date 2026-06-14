@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.xataka.com/medicina-y-salud/cafe-no-te-da-energia-solo-te-presta-esto-que-le-hace-realmente-cafeina-a-tu-cerebro",
+    "title": "El café no te da energía, solo te la presta: esto es lo que le hace realmente la cafeína a tu cerebro",
+    "snippet": "Para muchos, la vida antes del primer café del día es un mero trámite. Nos aferramos a esa taza caliente buscando un \"chute\" de energía que nos permita afrontar la jornada que tenemos por delante, pero en realidad la cie...",
+    "date": "2026-06-14T03:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/cafe-no-te-da-energia-solo-te-presta-esto-que-le-hace-realmente-cafeina-a-tu-cerebro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-13-junio",
+    "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 13 de junio",
+    "snippet": "Este fin de semana vuelve el Hoy No Circula sabatino, la estrategia mediante la cual la Secretaría del Medio Ambiente de la Ciudad de México (SEDEMA) restringe el tránsito de ciertos vehículos para mitigar la polución en...",
+    "date": "2026-06-14T03:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-13-junio",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440717",
+    "title": "Autoridad Portuaria de Rotterdam acuerda el desarrollo del Rotterdam Food Hub",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Rotterdam, Necron Group y PTP Group están desarrollando 38 hectáreas de infraestructura\nLa entrada Autoridad Portuaria de Rotterdam acuerda el desa...",
+    "date": "2026-06-14T02:00:14",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/autoridad-portuaria-de-rotterdam-acuerda-el-desarrollo-del-rotterdam-food-hub/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.scmp.com/news/hong-kong/politics/article/3357022/not-giving-any-market-john-lee-his-strategy-push-hong-kongs-interests?utm_source=rss_feed",
+    "title": "‘Not giving up on any market’: John Lee on his strategy to push Hong Kong’s interests",
+    "snippet": "Hong Kong is determined to expand into new markets while consolidating ties with traditional partners and “will not give up any markets” despite geopolitical pressures, the city leader has said.\nIn an interview with the ...",
+    "date": "2026-06-14T01:00:14",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3357022/not-giving-any-market-john-lee-his-strategy-push-hong-kongs-interests?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=440709",
+    "title": "Port de Barcelona invierte en nuevos camiones pesados con grúa articulada y contenedor cisterna para Bomberos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Port de Barcelona realizó una inversión en la compra de dos nuevos vehículos y un\nLa entrada Port de Barcelona invierte en nuevos camiones pesados con grúa articulada y c...",
+    "date": "2026-06-14T01:00:13",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/port-de-barcelona-invierte-en-nuevos-camiones-pesados-con-grua-articulada-y-contenedor-cisterna-para-bomberos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministerio-economia-descarta-incremento-del-impuesto-selectivo-al-consumo-isc-1079343.aspx",
+    "title": "Ministerio de Economía descarta incremento del Impuesto Selectivo al Consumo (ISC)",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) descartó un supuesto incremento del Impuesto Selectivo al Consumo (ISC), y precisó que no promueve ni impulsa un aumento de este tributo....",
+    "date": "2026-06-14T00:43:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministerio-economia-descarta-incremento-del-impuesto-selectivo-al-consumo-isc-1079343.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1692949",
+    "title": "MEF descarta aumento del ISC a cerveza y gaseosas, así como nuevas medidas tributarias",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) afirmó que actualmente no existe ninguna condición económica o fiscal que determine el incremento del ISC u otra medida tributaria....",
+    "date": "2026-06-14T00:17:13",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/mef-descarta-aumento-del-isc-a-cerveza-y-gaseosas-asi-como-nuevas-medidas-tributarias-noticia-1692949",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-conida-fortalece-capacidades-uso-imagenes-satelitales-para-desarrollo-del-pais-1079339.aspx",
     "title": "Conida fortalece capacidades en uso de imágenes satelitales para desarrollo del país",
     "snippet": "La Agencia Espacial del Perú (Conida), participó en la Semana de la Innovación organizada por el Consejo Nacional de Ciencia, Tecnología e Innovación (Concytec), mediante el desarrollo del Taller de Fundamentos de Telede...",
@@ -837,6 +900,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "CBMi1wFBVV95cUxOTFBLVXphMFRDZTg2REJzczRGdEZFbno5MXFsVnhMS1ByM0NSX2MwSElkbWtCZGNwVl80R1BmTk1xY0llZk5TQnpiOVBrcGpFVVJuRmN4dVdaWGpBQ2hHS3p1S3ItZDJSWG9sTWE4VVc5ZmEzSF9hdHcwOEJiTmNCbUF0SE84ZDJJdHlqS3JWc1cyRnZfSTBjVFZEbXBwd09JUi04TGdsZktqQndqTkZtUTVLNjUxSTUxZkNWdFpHSXlMeEdNOGRLWnpBZk5UWTBSczdGV0o5dw",
+    "title": "Roberto Sánchez propone a Keiko Fujimori solicitar revisión exhaustiva de resultados electorales - TVPerú",
+    "snippet": "Roberto Sánchez propone a Keiko Fujimori solicitar revisión exhaustiva de resultados electorales  TVPerú...",
+    "date": "2026-06-12T18:58:00",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTFBLVXphMFRDZTg2REJzczRGdEZFbno5MXFsVnhMS1ByM0NSX2MwSElkbWtCZGNwVl80R1BmTk1xY0llZk5TQnpiOVBrcGpFVVJuRmN4dVdaWGpBQ2hHS3p1S3ItZDJSWG9sTWE4VVc5ZmEzSF9hdHcwOEJiTmNCbUF0SE84ZDJJdHlqS3JWc1cyRnZfSTBjVFZEbXBwd09JUi04TGdsZktqQndqTkZtUTVLNjUxSTUxZkNWdFpHSXlMeEdNOGRLWnpBZk5UWTBSczdGV0o5dw?oc=5",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=949259",
     "title": "The world’s first trillionaire is a killer",
     "snippet": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk...",
@@ -1275,78 +1347,6 @@
     "date": "2026-06-12T13:30:17",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/fiebre-entrenamiento-hibrido-que-dice-ciencia-mezclar-crossfit-hyrox-running-para-ponerte-mazas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=440696",
-    "title": "Inauguran nueva terminal de contenedores en Complexo Industrial Portuário de Suape",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Una nueva terminal de contenedores de APM Terminals y A.P. Moller-Maersk con inversiones de alrededor de\nLa entrada Inauguran nueva terminal de contenedores en Complexo Indu...",
-    "date": "2026-06-12T13:30:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/inauguran-nueva-terminal-de-contenedores-en-complexo-industrial-portuario-de-suape/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=440699",
-    "title": "APM Terminals inaugura novo terminal de contêineres no Porto de Suape com investimento de R$ 1,6 bilhão",
-    "snippet": "Por Redação PortalPortuario @PortalPortuario O Porto de Suape amplia sua capacidade operacional nesta sexta-feira com a inauguração do novo terminal\nLa entrada APM Terminals inaugura novo terminal de contêineres no Porto...",
-    "date": "2026-06-12T13:25:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/apm-terminals-inaugura-novo-terminal-de-conteineres-no-porto-de-suape-com-investimento-de-r-16-bilhao/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/tcl-tiene-promo-perfecta-para-ver-mundial-a-grande-reembolso-5-000-euros-sus-mejores-televisores-miniled",
-    "title": "TCL tiene la promo perfecta para ver el Mundial a lo grande: un reembolso de hasta 5.000 euros en sus mejores televisores MiniLED",
-    "snippet": "Ayer se produjo el pistoletazo de salida del Mundial de fútbol. Si eres de los que te gusta reunirte con amigos o familiares para ver los partidos y este año te has propuesto hacerlo en un televisor grande, la firma TCL ...",
-    "date": "2026-06-12T13:16:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/tcl-tiene-promo-perfecta-para-ver-mundial-a-grande-reembolso-5-000-euros-sus-mejores-televisores-miniled",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/gracias-a-spacex-elon-musk-convertira-a-4-400-empleados-millonarios-paso-se-convertira-primer-billonario",
-    "title": "Elon Musk va a convertir a 4.000 trabajadores en millonarios y él mismo en billonario gracias a una cosa: SpaceX",
-    "snippet": "Trevor Hise tenía 22 años cuando terminó la carrera y, como acostumbra a suceder, sus padres le rogaban que aceptara un puesto estable y bien remunerado en General Electric. Sin embargo, llevado por la pasión de la juven...",
-    "date": "2026-06-12T13:16:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/gracias-a-spacex-elon-musk-convertira-a-4-400-empleados-millonarios-paso-se-convertira-primer-billonario",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=440693",
-    "title": "Puerto de Paracas recibe nave Box Endurance del servicio Colibrí Express de ZIM",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto de Paracas recibió a la nave Box Endurance, perteneciente a la ruta Colibrí Express Service\nLa entrada Puerto de Paracas recibe nave Box Endurance del servicio Colibr...",
-    "date": "2026-06-12T13:00:46",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-paracas-recibe-nave-box-endurance-del-servicio-colibri-express-de-zim/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/estados-unidos-esta-persiguiendo-que-parecia-imposible-que-mundial-qatar-no-nos-parezca-malo",
-    "title": "Parecía imposible superar a Qatar como peor organizador de la historia de los Mundiales. EEUU lo está consiguiendo",
-    "snippet": "¿Puede un país democrático ofrecer una imagen más descarnada que uno autoritario a la hora de organizar un evento deportivo? \nEstados Unidos parece estar buscando los límites. Con la connivencia de la FIFA, claro, que en...",
-    "date": "2026-06-12T13:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/estados-unidos-esta-persiguiendo-que-parecia-imposible-que-mundial-qatar-no-nos-parezca-malo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/trampa-80-china-construira-mayor-red-ia-mundo-chips-propios-no-suficientes",
-    "title": "La trampa del 80%: China construirá la mayor red de IA del mundo con chips propios, aunque no son suficientes",
-    "snippet": "El Gobierno chino está poniendo en marcha un proyecto que persigue invertir 295.000 millones de dólares en cinco años en el despliegue de una red nacional de centros de datos de inteligencia artificial (IA). En el escena...",
-    "date": "2026-06-12T12:45:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/trampa-80-china-construira-mayor-red-ia-mundo-chips-propios-no-suficientes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/tsmc-esta-cuerdas-su-mayor-problema-no-competencia-agua",
-    "title": "TSMC está contra las cuerdas y su mayor problema no es la competencia: lo es el agua",
-    "snippet": "C. C. Wei, el presidente y director general de TSMC, acaba de participar en la inauguración del parque tecnológico de Pingtung, al sur de Taiwán. La ceremonia se ha celebrado bajo una lluvia muy intensa, y el máximo resp...",
-    "date": "2026-06-12T12:30:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/tsmc-esta-cuerdas-su-mayor-problema-no-competencia-agua",
     "category": "TRIBUTARIO"
   }
 ]
