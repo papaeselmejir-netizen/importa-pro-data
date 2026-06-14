@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mincetur-destina-mas-s1-millon-al-cite-utcubamba-a-favor-artesanos-locales-1079396.aspx",
+    "title": "Mincetur destina más de S/1 millón al CITE Utcubamba a favor de artesanos locales",
+    "snippet": "El Ministerio de Comercio Exterior y Turismo (Mincetur) y el Centro de Innovación Tecnológica (CITE) en Artesanía y Turismo Utcubamba, Amazonas, suscribieron el convenio de desempeño 2026, mediante el cual se transferirá...",
+    "date": "2026-06-14T19:40:27",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mincetur-destina-mas-s1-millon-al-cite-utcubamba-a-favor-artesanos-locales-1079396.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/plena-era-ia-hay-quien-defiende-idea-radical-que-software-siga-cabiendo-disquete",
+    "title": "En plena era de la IA hay quien defiende una idea radical: que el software siga cabiendo en un disquete",
+    "snippet": "Nos hemos acostumbrado a que el software pese cada vez más. Lo vemos en aplicaciones que tardan en descargarse, en herramientas simples que llegan acompañadas de demasiadas capas y en servicios que prometen comodidad a c...",
+    "date": "2026-06-14T19:00:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/plena-era-ia-hay-quien-defiende-idea-radical-que-software-siga-cabiendo-disquete",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/gen-z-corea-no-puede-pagar-delivery-ha-encontrado-forma-que-su-cerebro-no-note-apps-que-no-venden-nada",
+    "title": "La Gen Z de Corea no puede pagar el delivery. Ha encontrado la forma de que su cerebro no lo note: apps que no venden nada",
+    "snippet": "Hay pocos placeres culpables tan satisfactorios como la compra online: ese emocionante momento de búsqueda hasta encontrar lo que más te encaja para meterlo después en el carrito. Ya lo disfrutarás luego, cuando llegue a...",
+    "date": "2026-06-14T18:30:17",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/gen-z-corea-no-puede-pagar-delivery-ha-encontrado-forma-que-su-cerebro-no-note-apps-que-no-venden-nada",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949644",
+    "title": "China may have accessed Mythos",
+    "snippet": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese gove...",
+    "date": "2026-06-14T18:27:55",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-callao-este-lunes-se-inicia-plan-desvio-cierre-via-auxiliar-de-av-colonial-1079390.aspx",
+    "title": "Callao: este lunes se inicia plan de desvío por cierre de vía auxiliar de la av Colonial",
+    "snippet": "Desde el lunes 15 de junio, el transporte público y privado modificará temporalmente sus recorridos debido al cierre de la vía auxiliar de la avenida Óscar R. Benavides (Colonial), entre la calle Loa y la avenida Insurge...",
+    "date": "2026-06-14T18:25:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-callao-este-lunes-se-inicia-plan-desvio-cierre-via-auxiliar-de-av-colonial-1079390.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sunat-prorroga-plazo-para-presentar-declaracion-jurada-informativa-formulario-n%C2%B0-3560-1079391.aspx",
+    "title": "Sunat prorroga plazo para presentar declaración jurada informativa formulario N° 3560",
+    "snippet": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) prorrogó, excepcionalmente, el plazo de presentación de la declaración jurada informativa Reporte Local  Formulario Virtual N° 3560, correspo...",
+    "date": "2026-06-14T18:19:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sunat-prorroga-plazo-para-presentar-declaracion-jurada-informativa-formulario-n%C2%B0-3560-1079391.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-cucurella-a-un-paso-dejar-chelsea-para-firmar-por-real-madrid-1079389.aspx",
     "title": "Cucurella a un paso de dejar el Chelsea para firmar por el Real Madrid",
     "snippet": "El Real Madrid habría alcanzado un acuerdo para hacerse con los servicios del internacional español y lateral del Chelsea Marc Cucurella, al término del Mundial 2026 por 63 millones de dólares, según anuncian varios medi...",
@@ -1294,59 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/exportaciones-rusas-de-productos-petroliferos-por-via-maritima-disminuyen-en-mayo-de-2026/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/pregunta-sirven-viajes-espaciales-respuesta-para-curar-ceguera-al-vamos-a-intentar",
-    "title": "Aún no sabemos cómo curar la ceguera. Así que nos vamos a ir al espacio para intentar solucionarlo de una vez por todas",
-    "snippet": "A menudo nos preguntamos para qué sirve la investigación espacial. ¿Vale la pena invertir ingentes cantidades de dinero en explorar más allá de nuestro planeta? Según con quién hablemos, puede que nos dé una respuesta di...",
-    "date": "2026-06-12T18:30:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/pregunta-sirven-viajes-espaciales-respuesta-para-curar-ceguera-al-vamos-a-intentar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-wta-2026-conoce-iniciativa-peruana-nominada-a-premio-turismo-responsable-sudamerica-1078037.aspx",
-    "title": "WTA 2026: Conoce la iniciativa peruana nominada a Premio Turismo Responsable de Sudamérica",
-    "snippet": "Si bien el Perú es favorito para alzarse con el galardón en varias nominaciones en la edición Sudamérica de los World Travel Awards 2026, existe una categoría en la que también resultó vencedor en tres oportunidades: el ...",
-    "date": "2026-06-12T18:21:16",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-wta-2026-conoce-iniciativa-peruana-nominada-a-premio-turismo-responsable-sudamerica-1078037.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=95476",
-    "title": "CCL rechaza intento del Ejecutivo de incrementar el ISC a pocas semanas del cambio de gobierno",
-    "snippet": "La Cámara de Comercio de Lima (CCL) expresa su firme rechazo a cualquier intento del Poder Ejecutivo de incrementar las tasas del Impuesto Selectivo al Consumo (ISC) mediante decreto supremo en las últimas semanas de la ...",
-    "date": "2026-06-12T18:17:09",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/ccl-rechaza-intento-del-ejecutivo-de-incrementar-el-isc-a-pocas-semanas-del-cambio-de-gobierno/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=95476",
-    "title": "CCL rechaza intento del Ejecutivo de incrementar el ISC a pocas semanas del cambio de Gobierno",
-    "snippet": "La Cámara de Comercio de Lima (CCL) expresa su firme rechazo a cualquier intento del Poder Ejecutivo de incrementar las tasas del Impuesto Selectivo al Consumo (ISC) mediante decreto supremo en las últimas semanas de la ...",
-    "date": "2026-06-12T18:17:09",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/ccl-rechaza-intento-del-ejecutivo-de-incrementar-el-isc-a-pocas-semanas-del-cambio-de-gobierno/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/dos-pelis-nominadas-a-oscar-llegan-a-movistar-plus-plan-libre-4-99-euros-tiene-cada-vez-mejor-pinta-se-puede-compartir",
-    "title": "Dos pelis nominadas a los Oscar llegan a Movistar Plus: el Plan Libre por 4,99 euros tiene cada vez mejor pinta (y se puede compartir)",
-    "snippet": "Durante todo el año, os hemos hablado de Movistar Plus cuando, por ejemplo, ha emitido en directo algún partido de fútbol importante, como el último Clásico. Es cierto que LaLiga y la Champions ya han terminado, pero sig...",
-    "date": "2026-06-12T18:16:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/dos-pelis-nominadas-a-oscar-llegan-a-movistar-plus-plan-libre-4-99-euros-tiene-cada-vez-mejor-pinta-se-puede-compartir",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/leon-quiere-encender-macroplanta-biomasa-para-calentar-28-000-hogares-vecinos-tienen-advertencia-cuando-cambie-viento",
-    "title": "León quiere encender una macroplanta de biomasa para calentar 28.000 hogares. Los vecinos le temen a algo: el viento",
-    "snippet": "\"¡Alcalde! ¿Dónde estás?\". El grito retumbó este miércoles en la céntrica plaza de San Marcelo. Según las crónicas locales, cientos de personas acudieron a la llamada de la Asociación de Vecinos Barrio de la Lastra para ...",
-    "date": "2026-06-12T18:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/leon-quiere-encender-macroplanta-biomasa-para-calentar-28-000-hogares-vecinos-tienen-advertencia-cuando-cambie-viento",
-    "category": "TRIBUTARIO"
   }
 ]
