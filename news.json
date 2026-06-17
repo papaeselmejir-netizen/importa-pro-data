@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-sustenta-incorporacion-mas-s-9500-millones-al-presupuesto-1079726.aspx",
+    "title": "MEF sustenta incorporación de más de S/ 9,500 millones al presupuesto",
+    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña Namihas, sustentó hoy ante la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República el proyecto de ley que permitirá incorporar 9,596 mill...",
+    "date": "2026-06-16T23:52:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-sustenta-incorporacion-mas-s-9500-millones-al-presupuesto-1079726.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441400",
+    "title": "Agunsa Argentina inicia operaciones de agenciamiento marítimo en Puerto de San Pedro",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Agunsa Argentina inició nuevas operaciones de agenciamiento marítimo en el Puerto de San Pedro, Buenos Aires,\nLa entrada Agunsa Argentina inicia operaciones de agenciamiento...",
+    "date": "2026-06-16T23:30:29",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/agunsa-argentina-inicia-operaciones-de-agenciamiento-maritimo-en-puerto-de-san-pedro/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-indecopi-monitoreo-cerca-150-grifos-para-verificar-derechos-del-consumidor-1079720.aspx",
+    "title": "Indecopi monitoreó cerca de 150 grifos para verificar derechos del consumidor",
+    "snippet": "El Indecopi ha monitoreado, entre mayo y junio, cerca de 150 grifos de Lima y regiones para verificar que los proveedores cumplan las normas de protección al consumidor....",
+    "date": "2026-06-16T23:29:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-indecopi-monitoreo-cerca-150-grifos-para-verificar-derechos-del-consumidor-1079720.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-destaca-mayor-nivel-inversion-privada-y-confianza-el-pais-1079718.aspx",
+    "title": "MEF destaca mayor nivel de inversión privada y confianza en el país",
+    "snippet": "El ministro de Economía y Finanzas, Rodolfo Acuña, señaló hoy que el mayor nivel de ejecución de la inversión pública, la mayor inversión privada y confianza en el país, son elementos que deberían destacarse....",
+    "date": "2026-06-16T23:15:29",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-destaca-mayor-nivel-inversion-privada-y-confianza-el-pais-1079718.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1693363",
+    "title": "Oleoducto Norperuano está paralizado y necesita US$ 800 millones para volver a operar, advierte la SPH",
+    "snippet": "Patricia Figueroa, directora ejecutiva de la Sociedad Peruana de Hidrocarburos (SPH), señaló que el próximo gobierno deberá priorizar la recuperación del ducto, agilizar permisos para exploración y destrabar lotes petrol...",
+    "date": "2026-06-16T23:05:59",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/oleoducto-norperuano-paralizado-necesita-800-millones-de-dolares-reiniciar-operaciones-advierte-sph-noticia-1693363",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-minjusdh-y-defensoria-coordinan-acciones-para-garantizar-derechos-durante-posibles-marchas-1079707.aspx",
+    "title": "Minjusdh y Defensoría coordinan acciones para garantizar derechos durante posibles marchas",
+    "snippet": "Con el propósito de fortalecer la protección de los derechos fundamentales y garantizar el acceso oportuno a la justicia, el Ministerio de Justicia y Derechos Humanos (Minjusdh) trabaja con la Defensoría del Pueblo la id...",
+    "date": "2026-06-16T23:04:34",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minjusdh-y-defensoria-coordinan-acciones-para-garantizar-derechos-durante-posibles-marchas-1079707.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441271",
+    "title": "APM Terminals Los Ángeles amplía su flota de vehículos eléctricos con 40 terminal tractors de Orange EV",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Los Ángeles (Pier 400) y Orange EV anunciaron un contrato para la adquisición de\nLa entrada APM Terminals Los Ángeles amplía su flota de vehículos eléctricos c...",
+    "date": "2026-06-16T23:00:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/apm-terminals-los-angeles-amplia-su-flota-de-vehiculos-electricos-con-40-terminal-tractors-de-orange-ev/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=441387",
     "title": "Paraguay: Annp anuncia incorporación de draga DRM-5 donada por el Gobierno de Japón",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración Nacional de Navegación y Puertos de Paraguay (ANNP) anunció la incorporación de una nueva\nLa entrada Paraguay: Annp anuncia incorporación de draga DRM-5 do...",
@@ -25,6 +88,33 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/argentina-despechan-carga-destinada-a-proyecto-vmos-desde-el-puerto-de-dock-sud/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441346",
+    "title": "Argentina: Despachan carga destinada a proyecto VMOS desde el Puerto de Dock Sud",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el Puerto de Dock Sud (Argentina) se realizó el despacho final de infraestructura destinada al\nLa entrada Argentina: Despachan carga destinada a proyecto VMOS desde el Pu...",
+    "date": "2026-06-16T22:00:14",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/argentina-despachan-carga-destinada-a-proyecto-vmos-desde-el-puerto-de-dock-sud/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1693330",
+    "title": "Ante riesgo de un Niño fuerte, MEF asegura contar con US$2.000 millones en financiamiento para emergencia",
+    "snippet": "Respaldo. Luego de que se advirtiera una mayor probabilidad de un Niño Costero fuerte para el verano 2027, el ministro de Economía, Rodolfo Acuña, afirmó que el Estado dispone de créditos contingentes para financiar acci...",
+    "date": "2026-06-16T21:45:43",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/ante-riesgo-de-un-nino-fuerte-mef-asegura-contar-con-us2000-millones-en-financiamiento-para-emergencias-noticia-1693330",
+    "category": "MERCADO"
+  },
+  {
+    "id": "5ec94072-9832-40a2-9872-0cf33fee46e0",
+    "title": "Commodore's New Flip Phone Focuses on 'Digital Detox' and Blocks Social Media Apps",
+    "snippet": "The retro phone has a physical T9 texting button layout, the ability to run most Android-based apps and a social media blacklist....",
+    "date": "2026-06-16T21:45:24",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/commodores-new-flip-phone-focuses-on-digital-detox-blocks-social-media-apps/",
+    "category": "MERCADO"
   },
   {
     "id": "https://portalportuario.cl/?p=441369",
@@ -1257,96 +1347,6 @@
     "date": "2026-06-15T22:05:38",
     "source": "INDECOPI",
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN2M5WmExalJ0NWp2dk9LOGcxcWpuMHZVTWhfNDl6bDdnMm1VQjdEYW55dDducEZQU0pWU1JQX3ZxNkV6SmZ6Y2E5b0lQZ3BEenVUeTNDR1BOZHdOOS1EUW45VGtNSmtmbTBtdmZIZkRQOFYza0xkNGdmZ05WYnRGYkJwU3hVeXE3eVlSY2xNYUpaN0p4VVUwRkphTi1fT1NxZkdXSmRDcTRtemhVczBpRzkwbkV6U2VKa0NpNHJkWnhFbmxVVko3VGRZRjJ6VWd3NThTcHg5Vy1leVRNU295SGprVmN1bzc0SXFLNFhFejM?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441176",
-    "title": "Portacontenedores es atacado frente a costas de Yemen",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La agencia de Operaciones de Comercio Marítimo del Reino Unido (UKMTO) emitió una alerta tras registrarse\nLa entrada Portacontenedores es atacado frente a costas de Yemen se...",
-    "date": "2026-06-15T22:00:47",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/portacontenedores-es-atacado-frente-a-costas-de-yemen/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "35f3b8bc-b7ae-41e9-937c-685a83d2c0b8",
-    "title": "Anthropic Sued Over Alleged False Advertising on Claude Max Subscription Usage Limits",
-    "snippet": "The lawsuit claims that the AI company is misleading customers about its $200-per-month Claude plan....",
-    "date": "2026-06-15T21:20:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=950264",
-    "title": "Facebook’s new AI Mode search gets its info from public posts",
-    "snippet": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It'...",
-    "date": "2026-06-15T21:15:08",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dt-argentina-asegura-messi-sera-mas-fundamental-este-mundial-2026-1079525.aspx",
-    "title": "DT de Argentina asegura que Messi \"será más fundamental\" en este Mundial 2026",
-    "snippet": "En la víspera del debut mundialista de Argentina ante Argelia, el seleccionador Lionel Scaloni confirmó este lunes que su líder Lionel Messi se encuentra en buenas condiciones y tendrá un peso fundamental en la pugna por...",
-    "date": "2026-06-15T21:09:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dt-argentina-asegura-messi-sera-mas-fundamental-este-mundial-2026-1079525.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2194830/samsung-expands-its-galaxy-book-6-lineup-with-a-snapdragon-x2-elite-powered-model/",
-    "title": "Samsung expands its Galaxy Book 6 lineup with a Snapdragon X2 Elite-powered model",
-    "snippet": "The Galaxy Book 6 Edge comes with 1TB of storage and 16GB of RAM, and it costs $2,100....",
-    "date": "2026-06-15T20:51:38",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2194830/samsung-expands-its-galaxy-book-6-lineup-with-a-snapdragon-x2-elite-powered-model/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-por-junio-es-un-mes-turistico-clave-para-amazonia-peruana-y-se-celebra-1078879.aspx",
-    "title": "¿Por qué junio es un mes turístico clave para la Amazonía peruana y qué se celebra?",
-    "snippet": "La población de la Amazonía peruana tiene en junio al mes más festivo de su calendario jubilar y turístico. ¿Por qué el sexto mes del año es clave para las regiones de la selva peruana?, ¿Qué festividades se celebran y q...",
-    "date": "2026-06-15T20:33:33",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-por-junio-es-un-mes-turistico-clave-para-amazonia-peruana-y-se-celebra-1078879.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441061",
-    "title": "Brasil: APS adjudica contrato para aumentar calado del Puerto de Santos hasta 16 metros",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Santos (APS) firmó un contrato para el dragado que permitirá profundizar el\nLa entrada Brasil: APS adjudica contrato para aumentar calado del Puert...",
-    "date": "2026-06-15T20:30:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-aps-adjudica-contrato-para-aumentar-calado-del-puerto-de-santos-hasta-16-metros/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/meta-gasto-al-14-000-millones-dolares-para-ganar-carrera-ia-ha-pasado-ano-sigue-exactamente-donde-estaba",
-    "title": "Meta gastó al menos 14.000 millones de dólares para ganar la carrera de la IA. Ha pasado un año y sigue exactamente donde estaba",
-    "snippet": "En Silicon Valley, y en la tecnología en general, ser enorme no garantiza estar preparado para ganar todas las carreras. Puedes tener dinero, talento, centros de datos, miles de millones de usuarios y una maquinaria capa...",
-    "date": "2026-06-15T20:16:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/meta-gasto-al-14-000-millones-dolares-para-ganar-carrera-ia-ha-pasado-ano-sigue-exactamente-donde-estaba",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "b424f289-b555-4ecc-a78e-b13fe2f0177c",
-    "title": "Google's Wear OS 7 Hints at a Future of Glasses and Wearables Working In Harmony",
-    "snippet": "Google's smartwatch software got buried under a heap of AI health news at I/O 2026....",
-    "date": "2026-06-15T20:14:25",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/wheres-wear-os-7/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-asi-se-vivio-amazonas-desborde-festivo-por-xxiv-raymi-llaqta-los-chachapoya-1079513.aspx",
-    "title": "Así se vivió en Amazonas el desborde festivo por el XXIV Raymi Llaqta de los Chachapoya",
-    "snippet": "Una fiesta interminable se vivió el fin de semana en la ciudad de Chachapoyas, capital de la región Amazonas, por la celebración del XXIX Raymi Llaqta de los Chachapoya 2026, una de las celebraciones más importantes de l...",
-    "date": "2026-06-15T20:09:26",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-asi-se-vivio-amazonas-desborde-festivo-por-xxiv-raymi-llaqta-los-chachapoya-1079513.aspx",
     "category": "MERCADO"
   }
 ]
