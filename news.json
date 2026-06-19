@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-peru-se-perfila-como-nuevo-hub-regional-del-trafico-ketamina-advierte-cedro-1080191.aspx",
+    "title": "Perú se perfila como ‘nuevo hub regional’ del tráfico de ketamina, advierte Cedro",
+    "snippet": "El Perú comienza a convertirse en “actor cada vez más visible” en el tráfico regional de ketamina, anestésico de uso médico que es desviado a circuitos ilegales, alertó Cedro, a poco de conmemorarse el Día Internacional ...",
+    "date": "2026-06-19T21:15:38",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-se-perfila-como-nuevo-hub-regional-del-trafico-ketamina-advierte-cedro-1080191.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=95954",
+    "title": "PBI podría haber crecido 4 % en 2026 sin El Niño ni la crisis en Medio Oriente",
+    "snippet": "La economía peruana podría haber registrado un crecimiento de 4 % en 2026 si no hubiera enfrentado los efectos del fenómeno de El Niño y el conflicto en Medio Oriente, según el Reporte Trimestral Macroeconómico del BCP. ...",
+    "date": "2026-06-19T21:04:10",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/pbi-peruano-podria-haber-crecido-4-en-2026-sin-el-nino-ni-la-crisis-en-medio-oriente/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442045",
+    "title": "Porto do Itaqui registra recorde histórico de soja e granéis sólidos em maio",
+    "snippet": "Por Redação PortalPortuario @PortalPortuario O Porto do Itaqui alcançou, em maio de 2026, um novo marco em sua trajetória logística\nLa entrada Porto do Itaqui registra recorde histórico de soja e granéis sólidos em maio ...",
+    "date": "2026-06-19T21:01:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/porto-do-itaqui-registra-recorde-historico-de-soja-e-graneis-solidos-em-maio/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442044",
+    "title": "Brasil: Puerto de Itaqui registra récord histórico en manejo de soja y carga sólida a granel durante mayo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Itaqui alcanzó un nuevo hito en su historia logística, al registrar volúmenes récord\nLa entrada Brasil: Puerto de Itaqui registra récord histórico en manejo de ...",
+    "date": "2026-06-19T21:00:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-puerto-de-itaqui-registra-record-historico-en-manejo-de-soja-y-carga-solida-a-granel-durante-mayo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-riesgo-pais-peru-nivel-mas-bajo-19-anos-y-esta-entre-mas-bajos-de-region-1080189.aspx",
+    "title": "MEF: riesgo país de Perú con nivel más bajo en 19 años y está entre más bajos de la región",
+    "snippet": "El riesgo país del Perú se ubicó en 108 puntos básicos entre el 1 y 17 de junio de 2026, su nivel más bajo en 19 años, y se mantiene entre los más bajos de la región. Este resultado refleja la solidez de la economía peru...",
+    "date": "2026-06-19T20:39:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-riesgo-pais-peru-nivel-mas-bajo-19-anos-y-esta-entre-mas-bajos-de-region-1080189.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/componentes/mercado-minorista-ssd-practicamente-ha-desaparecido-no-porque-usuarios-hayan-dejado-comprarlos",
+    "title": "El mercado minorista de SSD prácticamente ha desaparecido. Y no es porque los usuarios hayan dejado de comprarlos",
+    "snippet": "Comprar un SSD parecía, hasta hace no tanto, una de esas decisiones bastante sencillas dentro del mundo del PC: elegir capacidad, mirar velocidades, comparar precios y poco más. Pero el mercado que había detrás de ese ge...",
+    "date": "2026-06-19T20:30:59",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/componentes/mercado-minorista-ssd-practicamente-ha-desaparecido-no-porque-usuarios-hayan-dejado-comprarlos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-lambayeque-optimizan-templos-y-museos-conforman-ruta-del-papa-leon-xiv-1080174.aspx",
+    "title": "Lambayeque: optimizan templos y museos que conforman ‘Ruta del Papa León XIV’",
+    "snippet": "El gobernador regional de Lambayeque, Jorge Pérez Flores, señaló que en la jurisdicción que encabeza, se vienen optimizando, con proyectos de restauración e inversiones significativas, los puntos que conforman la Ruta de...",
+    "date": "2026-06-19T20:10:42",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-lambayeque-optimizan-templos-y-museos-conforman-ruta-del-papa-leon-xiv-1080174.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-eres-usuario-steam-hackers-usan-wallpaper-engine-para-robar-cuentas-1080163.aspx",
     "title": "¿Eres usuario de Steam? Hackers usan Wallpaper Engine para robar cuentas",
     "snippet": "¿Descargaste un fondo animado para tu escritorio? Una investigación de Kaspersky descubrió que hackers utilizaron Wallpaper Engine, una popular aplicación disponible en Steam, para distribuir fondos infectados capaces de...",
@@ -84,6 +147,15 @@
     "id": "https://portalportuario.cl/?p=442017",
     "title": "Puerto de New York / New Jersey muestra flujo de carga a la baja durante abril",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Tras un aumento de volumen que llevó al Puerto de Nueva York y Nueva Jersey a\nLa entrada Puerto de New York / New Jersey muestra flujo de carga a la baja durante abril se pu...",
+    "date": "2026-06-19T17:49:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-new-york-new-jersey-muestra-flujo-de-carga-a-la-baja-durante-abril/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442017",
+    "title": "Puerto de New York y New Jersey muestra flujo de carga a la baja durante abril",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Tras un aumento de volumen que llevó al Puerto de Nueva York y Nueva Jersey a\nLa entrada Puerto de New York y New Jersey muestra flujo de carga a la baja durante abril se pu...",
     "date": "2026-06-19T17:49:50",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-de-new-york-new-jersey-muestra-flujo-de-carga-a-la-baja-durante-abril/",
@@ -1276,77 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/argentina-puerto-de-formosa-recibe-primer-cargamento-de-mineral-de-hierro/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/precios-ssd-absurdos-que-unidad-2-tb-para-ps5-cuesta-que-propia-ps5",
-    "title": "Los precios de los SSD son ya tan absurdos que una unidad de 2 TB para la PS5 cuesta más que la propia PS5",
-    "snippet": "La PS5 cuesta en estos momentos 649,90 euros en grandes comercios en España. La versión digital sin unidad Blu-ray, 599,90 euros. Ambas disponen de una unidad SSD de 825 GB que para algunos usuarios puede quedarse corta,...",
-    "date": "2026-06-18T16:30:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/precios-ssd-absurdos-que-unidad-2-tb-para-ps5-cuesta-que-propia-ps5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indecopi-evaluo-107-solicitudes-concentracion-empresarial-ultimos-cinco-anos-1079962.aspx",
-    "title": "Indecopi evaluó 107 solicitudes de concentración empresarial en últimos cinco años",
-    "snippet": "A cinco años de la entrada en vigencia de la Ley 31112 —norma que establece el control previo de operaciones de concentración empresarial—, el Indecopi cuenta con una herramienta para evaluar determinadas operaciones ant...",
-    "date": "2026-06-18T16:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indecopi-evaluo-107-solicitudes-concentracion-empresarial-ultimos-cinco-anos-1079962.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/philips-estrena-nueva-freidora-aire-para-cocinas-pequenas-doble-cesta-ventanas-para-ver-alimentos",
-    "title": "Philips estrena nueva freidora de aire para cocinas pequeñas con doble cesta y ventanas para ver los alimentos",
-    "snippet": "Philips tiene nueva freidora de aire. Este electrodoméstico se ha vuelto un esencial en muchas cocinas, da igual si es para familias grandes o pequeñas. Las hay de diferentes capacidades para cocinar grandes cantidades d...",
-    "date": "2026-06-18T16:16:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/philips-estrena-nueva-freidora-aire-para-cocinas-pequenas-doble-cesta-ventanas-para-ver-alimentos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "6a3344544bdc5a1451abc6b8",
-    "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
-    "snippet": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs....",
-    "date": "2026-06-18T16:03:27",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "d133c576-8d6a-4459-a656-788f443c1105",
-    "title": "Android 17's Bubbles Is the Best Thing to Happen to Phone Multitasking",
-    "snippet": "Bubbles is a smoother, more intuitive way to multitask on Pixel phones, and I'm loving it already....",
-    "date": "2026-06-18T16:00:42",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/android-17-bubbles-best-thing-to-happen-to-phone-multitasking/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/ia-va-a-generar-riqueza-precedentes-pregunta-que-empieza-a-hacerse-todo-mundo-quien-va-a-quedarse-ella",
-    "title": "La IA va a generar una riqueza sin precedentes. La pregunta que empieza a hacerse todo el mundo es quién va a quedarse con ella",
-    "snippet": "Hay un debate candente en torno a la rentabilidad de la IA. De momento, la salvaje inversión en centros de datos no está contribuyendo en absoluto al crecimiento de la economía de EEUU, pero hay quienes creen que la IA y...",
-    "date": "2026-06-18T16:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/ia-va-a-generar-riqueza-precedentes-pregunta-que-empieza-a-hacerse-todo-mundo-quien-va-a-quedarse-ella",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=952180",
-    "title": "Amazon employees say they’re facing termination for backing data center limits",
-    "snippet": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political sp...",
-    "date": "2026-06-18T16:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-balanza-comercial-acumula-superavit-anual-43049-millones-hasta-abril-1079972.aspx",
-    "title": "Balanza comercial acumula superávit anual de US$ 43,049 millones hasta abril",
-    "snippet": "El superávit de la balanza comercial acumulado en los últimos 12 meses alcanzó los 43,049 millones de dólares a abril de 2026, informó hoy el Banco Central de Reserva (BCR)....",
-    "date": "2026-06-18T15:49:24",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-balanza-comercial-acumula-superavit-anual-43049-millones-hasta-abril-1079972.aspx",
-    "category": "TRIBUTARIO"
   }
 ]
