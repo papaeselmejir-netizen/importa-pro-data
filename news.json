@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://rpp.pe/1693689",
+    "title": "Embajador de China en Perú afirma que el puerto de Chancay supero las expectativas a un año de inicio de operaciones",
+    "snippet": "El embajador de la República Popular China, Song Yang, destacó que el megapuerto movilizó más de 3,500 millones de dólares en exportaciones y genera importantes ingresos tributarios para el Perú....",
+    "date": "2026-06-19T00:03:18",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/peru/actualidad/megapuerto-de-chancay-china-resalta-exito-comercial-a-un-ano-de-operacion-noticia-1693689",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-es-oficial-fenomeno-viral-del-mundial-2026-tim-payne-es-nuevo-jugador-del-olimpia-1080051.aspx",
+    "title": "¡Es oficial! El fenómeno viral del Mundial 2026, Tim Payne, es nuevo jugador del Olimpia",
+    "snippet": "El futbolista más viral del Mundial 2026, Tim Payne, se convirtió en nuevo jugador del Olimpia de Paraguay, equipo histórico del fútbol sudamericano. Este fichaje representa el gran impacto de las redes sociales en el mu...",
+    "date": "2026-06-18T23:57:21",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-es-oficial-fenomeno-viral-del-mundial-2026-tim-payne-es-nuevo-jugador-del-olimpia-1080051.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441876",
+    "title": "Brasil: Antaq fomenta soluciones consensuales en reclamos sobre cargos indebidos en logística de contenedores",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Agencia Nacional de Transportes Acuáticos (Antaq) publicó un decreto que establece una etapa obligatoria de\nLa entrada Brasil: Antaq fomenta soluciones consensuales en re...",
+    "date": "2026-06-18T22:48:34",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-antaq-fomenta-soluciones-consensuales-en-reclamos-sobre-cargos-indebidos-en-logistica-de-contenedores/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441871",
+    "title": "Sany Renewable Energy envía de Tianjin a Puerto Montt equipo principal para primer proyecto de energía eólica en Chile",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Sany Renewable Energy envió desde el Puerto de Tianjin, China, el equipo principal para su primera\nLa entrada Sany Renewable Energy envía de Tianjin a Puerto Montt equipo pr...",
+    "date": "2026-06-18T22:47:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/sany-renewable-energy-envia-de-tianjin-a-puerto-montt-equipo-principal-para-primer-proyecto-de-energia-eolica-en-chile/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441875",
+    "title": "Antaq cria etapa obrigatória de tentativa de acordo para denúncias sobre cobranças indevidas na logística de contêineres",
+    "snippet": "Por Redação PortalPortuario @PortalPortuario A Agência Nacional de Transportes Aquaviários (Antaq) publicou Portaria que institui uma etapa obrigatória de tentativa\nLa entrada Antaq cria etapa obrigatória de tentativa de...",
+    "date": "2026-06-18T22:44:48",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/antaq-cria-etapa-obrigatoria-de-tentativa-de-acordo-para-denuncias-sobre-cobrancas-indevidas-na-logistica-de-conteineres/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441869",
+    "title": "Brasil: Concesión de Puerto de Itajaí allana camino para aumentar su competitividad",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La concesión del canal de acceso al Puerto de Itajaí marcará una nueva etapa en la\nLa entrada Brasil: Concesión de Puerto de Itajaí allana camino para aumentar su competitiv...",
+    "date": "2026-06-18T22:24:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-concesion-de-puerto-de-itajai-allana-camino-para-aumentar-su-competitividad/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-con-camaras-y-mayor-seguridad-asi-son-los-nuevos-buses-circulan-lima-video-1080040.aspx",
+    "title": "Con cámaras y mayor seguridad: así son los nuevos buses que circulan en Lima [video]",
+    "snippet": "Lima inició un importante proceso de renovación de su flota de transporte público con la incorporación de buses completamente nuevos cero kilómetros, informó la Autoridad de Transporte Urbano de Lima y Callao (ATU). Más ...",
+    "date": "2026-06-18T22:20:33",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-con-camaras-y-mayor-seguridad-asi-son-los-nuevos-buses-circulan-lima-video-1080040.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-piura-vivienda-implementa-tecnologia-ecologica-purifica-aguas-residuales-catacaos-1080041.aspx",
     "title": "Piura: Vivienda implementa tecnología ecológica que purifica aguas residuales en Catacaos",
     "snippet": "El Ministerio de Vivienda, Construcción y Saneamiento (MVCS), en convenio con la empresa Green Engineering, está implementando filtros verdes flotantes en la planta de tratamiento de aguas residuales (PTAR) Narihualá, co...",
@@ -25,6 +88,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/brasil-inician-obras-de-terminal-logistica-que-conectara-puerto-de-pecem-con-ferrocarril-transnordestina/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "3e3f3d97-7968-4b4b-ac36-8d22ec015134",
+    "title": "Waymo Issues Another Recall, This Time Over Highway Construction Zones",
+    "snippet": "The robotaxi company issues a recall on 3,871 vehicles that could make incorrect decisions while driving in highway construction zones....",
+    "date": "2026-06-18T22:00:51",
+    "source": "CNET",
+    "url": "https://www.cnet.com/roadshow/news/waymo-recall-highway-construction-zones/",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-ministro-berthin-gomez-peru-cuenta-condiciones-para-convertirse-hub-logistico-1080033.aspx",
@@ -192,6 +264,15 @@
     "id": "https://techcrunch.com/?p=3134243",
     "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
     "snippet": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters....",
+    "date": "2026-06-18T18:51:46",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134243",
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "snippet": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters....",
     "date": "2026-06-18T18:51:46",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
@@ -1267,86 +1348,5 @@
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441546",
-    "title": "Puerto Coronel apunta a resolver desafíos en infraestructura habilitante para asumir rol relevante en comercio exterior chileno",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto Coronel se posicionó como el más eficiente de Chile en 2025, según la última edición del Container\nLa entrada Puerto Coronel apunta a resolver desafíos en infraestruc...",
-    "date": "2026-06-17T20:00:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-coronel-apunta-a-resolver-desafios-en-infraestructura-habilitante-para-asumir-rol-relevante-en-comercio-exterior-chileno/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-puno-destacan-mejoras-el-tramo-lampa-azangaro-de-carretera-interoceanica-sur-1079853.aspx",
-    "title": "Puno: destacan mejoras en el tramo Lampa - Azángaro de la carretera Interoceánica Sur",
-    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC) resaltó que los trabajos de mantenimiento que se ejecutan en el tramo Lampa - Azángaro de la carretera Interoceánica Sur, mejorarán las condiciones de tránsito vehicula...",
-    "date": "2026-06-17T19:45:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-puno-destacan-mejoras-el-tramo-lampa-azangaro-de-carretera-interoceanica-sur-1079853.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minsa-explica-cual-es-diferencia-entre-hipertiroidismo-e-hipotiroidismo-1079854.aspx",
-    "title": "Minsa explica cuál es la diferencia entre hipertiroidismo e hipotiroidismo",
-    "snippet": "¿Siente cansancio frecuente, somnolencia, nerviosismo o cambios de peso sin una causa aparente? Estos síntomas estarían asociados a problemas en la glándula tiroides, un órgano fundamental para regular el metabolismo. Po...",
-    "date": "2026-06-17T19:36:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minsa-explica-cual-es-diferencia-entre-hipertiroidismo-e-hipotiroidismo-1079854.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-consumo-agua-potable-revela-crecimiento-sectores-turismo-y-retail-1079843.aspx",
-    "title": "Consumo de agua potable revela crecimiento de sectores turismo y retail",
-    "snippet": "El consumo de agua potable continúa mostrando señales sobre el comportamiento de importantes actividades económicas del país. Así lo revela el más reciente Reporte Trimestral del Índice Económico de Comercio y Servicios ...",
-    "date": "2026-06-17T19:22:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-consumo-agua-potable-revela-crecimiento-sectores-turismo-y-retail-1079843.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ucayali-autoridades-rescatan-105-aves-silvestres-victimas-del-trafico-ilegal-pucallpa-1079850.aspx",
-    "title": "Ucayali: autoridades rescatan 105 aves silvestres víctimas del tráfico ilegal en Pucallpa",
-    "snippet": "Un total de 105 aves silvestres amazónicas fueron rescatadas durante un operativo conjunto realizado en las inmediaciones del puerto de Pucallpa, en la provincia de Coronel Portillo, región Ucayali, como parte de las acc...",
-    "date": "2026-06-17T19:21:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ucayali-autoridades-rescatan-105-aves-silvestres-victimas-del-trafico-ilegal-pucallpa-1079850.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mas-80-comerciantes-fueron-afectados-incendio-galeria-gamarra-1079848.aspx",
-    "title": "Más de 80 comerciantes fueron afectados por incendio en galería de Gamarra",
-    "snippet": "Más de 80 micro y pequeños empresarios perdieron el trabajo de toda una vida tras el incendio registrado esta mañana en la galería Antonios, ubicada en el cruce de los jirones Humboldt y América, en el emporio comercial ...",
-    "date": "2026-06-17T19:04:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mas-80-comerciantes-fueron-afectados-incendio-galeria-gamarra-1079848.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441556",
-    "title": "Empresa Portuaria Antofagasta recibe Sello de Excelencia HuellaChile",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el marco del Mes del Medio Ambiente, la Empresa Portuaria Antofagasta (Puerto Antofagasta) recibió un\nLa entrada Empresa Portuaria Antofagasta recibe Sello de Excelencia ...",
-    "date": "2026-06-17T19:01:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/empresa-portuaria-antofagasta-recibe-sello-de-excelencia-huellachile/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441516",
-    "title": "Ventas de combustible marítimo en Fujairah caen a un mínimo histórico",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Las ventas de combustible para buques (búnker) en el Puerto de Fujairah, en los Emiratos\nLa entrada Ventas de combustible marítimo en Fujairah caen a un míni...",
-    "date": "2026-06-17T19:00:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ventas-de-combustible-maritimo-en-fujairah-caen-a-un-minimo-historico/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/perifericos/creiamos-que-rueda-raton-era-insustituible-airra-labs-ha-pensado-justo-contrario",
-    "title": "Creíamos que la rueda del ratón era insustituible: Airra Labs ha pensado justo lo contrario",
-    "snippet": "Nos hemos acostumbrado a que el ratón sea una herramienta madura, casi cerrada, como si ya quedara poco margen para cambiar lo que hacemos con él cada día. Su diseño ha mejorado mucho: ha ganado precisión, mejores materi...",
-    "date": "2026-06-17T19:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/perifericos/creiamos-que-rueda-raton-era-insustituible-airra-labs-ha-pensado-justo-contrario",
-    "category": "TRIBUTARIO"
   }
 ]
