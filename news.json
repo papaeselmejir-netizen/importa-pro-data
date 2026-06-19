@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-trump-desvela-nuevo-air-force-one-un-boeing-lujo-los-colores-de-bandera-1080202.aspx",
+    "title": "Trump desvela el nuevo Air Force One, un Boeing de lujo con los colores de la bandera",
+    "snippet": "El presidente de Estados Unidos, Donald Trump, presentó este viernes el nuevo Air Force One en su primera exhibición pública, un Boeing 747-8 cuya remodelación fue valorada en 400 millones de dólares y donado por Catar....",
+    "date": "2026-06-19T22:36:22",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-trump-desvela-nuevo-air-force-one-un-boeing-lujo-los-colores-de-bandera-1080202.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/eeuu-acaba-incorporar-nuevo-boeing-747-a-su-flota-presidencial-detras-hay-polemico-regalo-qatar",
+    "title": "EEUU acaba de incorporar un nuevo Boeing 747 a su flota presidencial. Detrás hay un polémico regalo de Qatar",
+    "snippet": "Un avión presidencial nunca es solo un avión. Es una oficina, un símbolo de poder y, en el caso de Estados Unidos, una extensión volante de la Casa Blanca. Este viernes, en un enorme hangar de la Base Conjunta Andrews, E...",
+    "date": "2026-06-19T22:21:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/eeuu-acaba-incorporar-nuevo-boeing-747-a-su-flota-presidencial-detras-hay-polemico-regalo-qatar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442097",
+    "title": "Car Carrier más grande del mundo es atendido por APM Terminals Callao",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Callao atendió al Glovis Leader, el car carrier más grande del mundo. La nave\nLa entrada Car Carrier más grande del mundo es atendido por APM Terminals Callao ...",
+    "date": "2026-06-19T21:56:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/car-carrier-mas-grande-del-mundo-es-atendido-por-apm-terminals-callao/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133212",
+    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+    "snippet": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital requi...",
+    "date": "2026-06-19T21:45:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1693846",
+    "title": "Julio Velarde sobre el dólar tras la segunda vuelta electoral: “No me atrevería a hablar de una tendencia (a la baja)”",
+    "snippet": "Aunque el sol ha mostrado una fortalecimiento en las últimas semanas, el presidente del BCR, Julio Velarde, indicó que no es posible anticipar el rumbo del dólar debido a que depende de factores tanto internos como exter...",
+    "date": "2026-06-19T21:42:21",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/julio-velarde-sobre-precio-del-dolar-tras-segunda-vuelta-2026-no-atreveria-hablar-tendencia-a-baja-noticia-1693846",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1693771",
+    "title": "Gobierno busca que aumentos salariales negociados por trabajadores públicos tengan \"fecha de vencimiento\": ¿Qué cambia?",
+    "snippet": "La propuesta del MEF, incluida en el proyecto de crédito suplementario para el 2026, establece que las negociaciones colectivas descentralizadas del sector público solo podrán pactar beneficios económicos temporales. Sin...",
+    "date": "2026-06-19T21:30:44",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/aumentos-salariales-2026-mef-busca-que-incrementos-sector-publico-tengan-fecha-de-vencimiento-que-cambios-habra-noticia-1693771",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-trujillo-llora-a-percy-zumaran-dio-su-vida-salvar-a-sus-hijas-dantesco-incendio-1080190.aspx",
+    "title": "Trujillo llora a Percy Zumarán que dio su vida por salvar a sus hijas de dantesco incendio",
+    "snippet": "El fuego tiene una ferocidad que no da tiempo a los cálculos ni a la prudencia. Cuando las primeras lenguas de fuego empezaron a devorar los primeros ambientes de aquella casa en el sector Liberación Social, en el distri...",
+    "date": "2026-06-19T21:21:24",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-trujillo-llora-a-percy-zumaran-dio-su-vida-salvar-a-sus-hijas-dantesco-incendio-1080190.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-peru-se-perfila-como-nuevo-hub-regional-del-trafico-ketamina-advierte-cedro-1080191.aspx",
     "title": "Perú se perfila como ‘nuevo hub regional’ del tráfico de ketamina, advierte Cedro",
     "snippet": "El Perú comienza a convertirse en “actor cada vez más visible” en el tráfico regional de ketamina, anestésico de uso médico que es desviado a circuitos ilegales, alertó Cedro, a poco de conmemorarse el Día Internacional ...",
@@ -945,6 +1008,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://rpp.pe/1693689",
+    "title": "Exportaciones a través del megapuerto de Chancay superaron los 3,500 millones de dólares a un año de su inauguración",
+    "snippet": "El embajador de la República Popular China, Song Yang, destacó que la recaudación por ingresos tributarios para el Estado peruano sobrepasa los 1,000 millones de soles....",
+    "date": "2026-06-19T00:03:18",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/peru/actualidad/megapuerto-de-chancay-china-resalta-exito-comercial-a-un-ano-de-operacion-noticia-1693689",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-es-oficial-fenomeno-viral-del-mundial-2026-tim-payne-es-nuevo-jugador-del-olimpia-1080051.aspx",
     "title": "¡Es oficial! El fenómeno viral del Mundial 2026, Tim Payne, es nuevo jugador del Olimpia",
     "snippet": "El futbolista más viral del Mundial 2026, Tim Payne, se convirtió en nuevo jugador del Olimpia de Paraguay, equipo histórico del fútbol sudamericano. Este fichaje representa el gran impacto de las redes sociales en el mu...",
@@ -1276,77 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/streaming/dos-dias-netflix-pelicula-que-ano-pasado-puso-a-gente-a-ocasionar-disturbios-cines-todo-mundo",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/mercado-telecos-espanolas-estaba-tranquilo-que-llego-bertin-osborne",
-    "title": "El mercado de las telecos españolas estaba tranquilo. Hasta que llegó Bertín Osborne",
-    "snippet": "España ya tiene su operador de telefonía más patriótico. Se llama Española de Telefonía, su logo fusiona el símbolo del WiFi con los cuernos de un toro y los colores de la bandera, su eslogan es \"Las cosas bien hechas, l...",
-    "date": "2026-06-18T17:46:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/mercado-telecos-espanolas-estaba-tranquilo-que-llego-bertin-osborne",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=952283",
-    "title": "A year of Walmart Plus is half off ahead of Prime Day",
-    "snippet": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically...",
-    "date": "2026-06-18T17:33:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/mercedes-ha-puesto-marcha-plan-definitivo-para-sus-superdeportivos-electricos-fabricar-masa-motor-que-promete-redefinir-industria",
-    "title": "Mercedes creía que el nuevo motor eléctrico de su AMG GT era \"apenas factible\". Ahora apunta a ser el futuro de todos los eléctricos",
-    "snippet": "Hace unos días, Mercedes anunciaba por fin el inicio de la producción en serie de su motor de flujo axial en la planta histórica de Berlín-Marienfelde. Esto tiene serias implicaciones para el futuro de los coches eléctri...",
-    "date": "2026-06-18T17:30:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/mercedes-ha-puesto-marcha-plan-definitivo-para-sus-superdeportivos-electricos-fabricar-masa-motor-que-promete-redefinir-industria",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441795",
-    "title": "Perú insiste en que cuenta con condiciones para convertirse en hub regional",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El ministro de Comercio Exterior y Turismo peruano, Berthin Gómez, insistió con la idea de que\nLa entrada Perú insiste en que cuenta con condiciones para convertirse en hub ...",
-    "date": "2026-06-18T17:26:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/peru-insiste-en-que-cuenta-con-condiciones-para-convertirse-en-hub-regional/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/mayor-problema-olivos-espanoles-no-costes-cambio-climatico-aceite-fantasma",
-    "title": "El mayor problema de los olivos españoles no es ni los costes, ni el cambio climático: es el 'aceite fantasma'",
-    "snippet": "Algo huele mal en el mercado del aceite de oliva. Lo sabíamos desde hace tiempo, pero es ahora con el desplome de los precios en origen (casi un 46%) cuando todo el mundo se ha puesto nervioso. Las cifras no cuadran y la...",
-    "date": "2026-06-18T17:16:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/mayor-problema-olivos-espanoles-no-costes-cambio-climatico-aceite-fantasma",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/investigadora-ha-creado-formula-para-saber-tienes-demasiada-ropa-armario-esto-que-dice-tuya",
-    "title": "Una investigadora ha creado una fórmula para saber si tienes demasiada ropa en el armario. Esto es lo que dice de la tuya",
-    "snippet": "¿Quién no ha mirado alguna vez su armario y ha pensado que quizás tenga demasiada ropa? Cuando estamos eligiendo outfit para un evento no lo pensamos, pero cuando toca hacer el cambio de armario al pasar de una temporada...",
-    "date": "2026-06-18T17:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/investigadora-ha-creado-formula-para-saber-tienes-demasiada-ropa-armario-esto-que-dice-tuya",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441766",
-    "title": "Armadores Europeos publican estudio sobre brechas entre Reglamento de la UE de reciclaje de buques y  el Convenio de Hong Kong",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los Armadores Europeos agrupados en la European Community Shipowners&#8217; Associations (ECSA) y la Cámara Naviera Internacional\nLa entrada Armadores Europeos publican estu...",
-    "date": "2026-06-18T16:38:09",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/armadores-europeos-publican-estudio-sobre-brechas-entre-reglamento-de-la-ue-sobre-reciclaje-de-buques-y-convenio-de-hong-kong/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441731",
-    "title": "Argentina: Puerto de Formosa recibe primer cargamento de mineral de hierro",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Formosa recibió el primer cargamento de mineral de hierro con un envío de\nLa entrada Argentina: Puerto de Formosa recibe primer cargamento de mineral de hierro ...",
-    "date": "2026-06-18T16:30:52",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-puerto-de-formosa-recibe-primer-cargamento-de-mineral-de-hierro/",
-    "category": "LOGÍSTICA"
   }
 ]
