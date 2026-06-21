@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-marcelo-bielsa-critica-las-pausas-hidratacion-le-quitan-mucho-al-futbol-1080354.aspx",
+    "title": "Marcelo Bielsa critica las pausas de hidratación: \"Le quitan mucho al fútbol\"",
+    "snippet": "El seleccionador de Uruguay, Marcelo Bielsa, criticó este sábado que los partidos del Mundial se dividan en cuatro tiempos, debido a pausas de hidratación que en ocasiones no están justificadas por las altas temperaturas...",
+    "date": "2026-06-21T03:06:28",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-marcelo-bielsa-critica-las-pausas-hidratacion-le-quitan-mucho-al-futbol-1080354.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442141",
+    "title": "Valletta Cruise Port recibe cuatro buques turísticos de manera simultánea",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Una fila de embarcaciones turísticas se vio en el corazón de la capital de Malta, La\nLa entrada Valletta Cruise Port recibe cuatro buques turísticos de manera simultánea se ...",
+    "date": "2026-06-21T03:00:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/valletta-cruise-port-recibe-cuatro-buques-turisticos-de-manera-simultanea/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-plataforma-permite-visualizar-condiciones-del-mar-desde-celular-y-tiempo-real-1080350.aspx",
+    "title": "Plataforma permite visualizar condiciones del mar desde el celular y en tiempo real",
+    "snippet": "En el marco del Día Mundial del Surf, que se celebra cada tercer sábado de junio, PRODUCE destaca la startup peruana Mis Olas que ha desarrollado una plataforma móvil que permite a los usuarios monitorear en tiempo real ...",
+    "date": "2026-06-21T02:22:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-plataforma-permite-visualizar-condiciones-del-mar-desde-celular-y-tiempo-real-1080350.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441958",
+    "title": "Canadá: Americold inaugura planta integrada de cadena de frío en Puerto de Saint John",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Americold Realty Trust anunció la inauguración de su centro de importación y exportación en Port Saint\nLa entrada Canadá: Americold inaugura planta integrada de cadena de fr...",
+    "date": "2026-06-21T02:00:48",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/canada-americold-inaugura-planta-integrada-de-cadena-de-frio-en-puerto-de-saint-john/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.scmp.com/news/hong-kong/politics/article/3357759/concerns-raised-hong-kong-stops-compiling-voter-turnout-data-age-and-sex?utm_source=rss_feed",
+    "title": "Concerns raised as Hong Kong stops compiling voter turnout data by age and sex",
+    "snippet": "Hong Kong election authorities have stopped compiling voter turnout data by age and sex, citing a lack of operational need, in a move that has raised concerns about undermining the transparency of polls.\nAnalysts and pol...",
+    "date": "2026-06-21T01:00:10",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3357759/concerns-raised-hong-kong-stops-compiling-voter-turnout-data-age-and-sex?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-financiamiento-y-politicas-publicas-siguen-siendo-las-mayores-barreras-para-emprender-1080299.aspx",
     "title": "Financiamiento y políticas públicas siguen siendo las mayores barreras para emprender",
     "snippet": "El Perú mantiene una de las culturas emprendedoras más fuertes de la región, pero todavía enfrenta dificultades para convertir esa intención en negocios sostenibles. El nuevo Reporte Nacional del Global Entrepreneurship ...",
@@ -24,6 +69,15 @@
     "date": "2026-06-20T23:00:07",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/reino-unido-gruas-de-muelle-de-europa-llegan-a-dp-world-southampton/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=441940",
+    "title": "Reino Unido: Grúas de muelle más grandes de Europa llegan a DP World Southampton",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World recibió dos de las grúas portuarias más grandes de Europa a Southampton. Se trata\nLa entrada Reino Unido: Grúas de muelle más grandes de Europa llegan a DP World So...",
+    "date": "2026-06-20T23:00:07",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-gruas-de-muelle-mas-grandes-de-europa-llegan-a-dp-world-southampton/",
     "category": "MERCADO"
   },
   {
@@ -69,6 +123,15 @@
     "date": "2026-06-20T20:16:37",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-cusco-nuevo-hospital-antonio-lorena-es-realidad-tras-mas-13-anos-espera-1080318.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1693968",
+    "title": "MEF: Perú alcanza US$ 100 214 millones en reservas internacionales y afianza su solidez financiera regional",
+    "snippet": "Según el Ministerio de Economía y Finanzas (MEF), la cifra representa el 28 % del producto bruto interno (PBI), consolidando al país como una de las economías con mayor respaldo externo en la región....",
+    "date": "2026-06-20T20:00:54",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/mef-peru-alcanza-us-100-214-millones-en-reservas-internacionales-y-afianza-su-solidez-financiera-regional-noticia-1693968",
     "category": "MERCADO"
   },
   {
@@ -234,6 +297,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/al-enclave-turistico-italia-le-quedan-dos-telediarios-todo-aviso-para-media-costa-espanola",
+    "title": "Que al enclave más turístico de Italia le queden dos telediarios es el canario en la mina para media costa española",
+    "snippet": "El avance del cambio climático está dejando señales más o menos evidentes que van desde la maduración de árboles frutales antes a olas de calor intensas incluso antes de que llegue el verano como la que estamos viviendo,...",
+    "date": "2026-06-20T15:31:07",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/al-enclave-turistico-italia-le-quedan-dos-telediarios-todo-aviso-para-media-costa-espanola",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.theverge.com/?p=953116",
     "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
     "snippet": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as ...",
@@ -290,6 +362,15 @@
   {
     "id": "https://www.xataka.com/ecologia-y-naturaleza/doctora-sajana-maharjan-advierte-ejercicio-no-puede-ser-opcional-para-quienes-toman-ozempic",
     "title": "La doctora Sajana Maharjan advierte: \"El ejercicio no puede ser opcional para quienes toman Ozempic\"",
+    "snippet": "La receta clásica y generalmente efectiva para perder peso se resume en dos medidas combinadas: cuidar la alimentación y aumentar el ejercicio físico para lograr inclinar la balanza calórica hasta ponerla en negativo. Es...",
+    "date": "2026-06-20T14:01:08",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/doctora-sajana-maharjan-advierte-ejercicio-no-puede-ser-opcional-para-quienes-toman-ozempic",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/doctora-sajana-maharjan-advierte-ejercicio-no-puede-ser-opcional-para-quienes-toman-ozempic",
+    "title": "La cara oculta del Ozempic: \"El ejercicio no puede ser opcional\", advierte la doctora Sajana Maharjan",
     "snippet": "La receta clásica y generalmente efectiva para perder peso se resume en dos medidas combinadas: cuidar la alimentación y aumentar el ejercicio físico para lograr inclinar la balanza calórica hasta ponerla en negativo. Es...",
     "date": "2026-06-20T14:01:08",
     "source": "XATAKA",
@@ -378,8 +459,26 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/creiamos-que-ciudades-eran-desierto-para-abejas-este-cementerio-nueva-york-viven-5-5-millones",
+    "title": "Hemos encontrado la mayor población de abejas silvestres del mundo en el lugar más inesperado: en un cementerio de Nueva York",
+    "snippet": "Aunque las ciudades tienen su propia fauna, la realidad es que podría pensarse con todo el sentido del mundo que para los animales de toda índole el entorno urbano queda muy por detrás del campo en diversidad y calidad d...",
+    "date": "2026-06-20T11:30:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/creiamos-que-ciudades-eran-desierto-para-abejas-este-cementerio-nueva-york-viven-5-5-millones",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/empresas-y-economia/fallece-claude-guillemot-cofundador-ubisoft-que-convirtio-tienda-bretana-imperio-videojuego",
     "title": "Fallece Claude Guillemot, el cofundador de Ubisoft que convirtió una tienda de Bretaña en un imperio del videojuego",
+    "snippet": "Claude Guillemot, uno de los cinco hermanos que fundaron Ubisoft en 1986 y hasta ahora actual vicepresidente ejecutivo de operaciones de la compañía, falleció ayer 19 de junio de 2026 a los 69 años de edad al estrellarse...",
+    "date": "2026-06-20T11:19:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/fallece-claude-guillemot-cofundador-ubisoft-que-convirtio-tienda-bretana-imperio-videojuego",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/fallece-claude-guillemot-cofundador-ubisoft-que-convirtio-tienda-bretana-imperio-videojuego",
+    "title": "Muere Claude Guillemot, el cofundador de Ubisoft que convirtió una tienda de Bretaña en un imperio del videojuego",
     "snippet": "Claude Guillemot, uno de los cinco hermanos que fundaron Ubisoft en 1986 y hasta ahora actual vicepresidente ejecutivo de operaciones de la compañía, falleció ayer 19 de junio de 2026 a los 69 años de edad al estrellarse...",
     "date": "2026-06-20T11:19:22",
     "source": "XATAKA",
@@ -1248,105 +1347,6 @@
     "date": "2026-06-19T12:00:17",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/paula-vanasco-terapeuta-felina-gato-necesita-explorar-territorio-a-su-ritmo-no-que-lleves-donde-quieras-correa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=951718",
-    "title": "Kaleidescape’s movie player blows streaming, and your wallet, away",
-    "snippet": "We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to ...",
-    "date": "2026-06-19T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/universidad-navarra-ha-descubierto-algo-extrano-tendemos-a-girar-izquierda-no-tenemos-idea-que",
-    "title": "La Universidad de Navarra ha descubierto algo extraño: tendemos a girar hacia la izquierda y no tenemos ni idea de por qué",
-    "snippet": "Es cuestión de un instante. Vas por la acera, pensando tus cosas, quizás miras el móvil y, de repente, hay algo frente a ti. Da igual si es un bolardo, una persona, un kiosko o un carrito de bebé. Tienes que esquivarlo, ...",
-    "date": "2026-06-19T11:46:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/universidad-navarra-ha-descubierto-algo-extrano-tendemos-a-girar-izquierda-no-tenemos-idea-que",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ketchup-pan-llevamos-anos-usando-mal-nevera-expertos-aclaran-que-deberia-entrar-verdad-podemos-acabar-moho",
-    "title": "Hemos convertido la nevera en un cajón donde cabe todo “por si acaso”. Los expertos dicen que ese es justo el error: \"pueden acabar con moho\"",
-    "snippet": "Hace más de un siglo apareció el primer frigorífico doméstico eléctrico, el Domelre, y costaba unos 900 dólares: más que muchos coches de la época. Durante años fue un lujo reservado a pocos, pero acabó cambiando para si...",
-    "date": "2026-06-19T11:30:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ketchup-pan-llevamos-anos-usando-mal-nevera-expertos-aclaran-que-deberia-entrar-verdad-podemos-acabar-moho",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1693744",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 19 de junio del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy viernes 19 de junio es de  S/3.38 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-06-19T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-19-de-junio-del-2026-noticia-1693744",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=441770",
-    "title": "EEUU: Comisión del Puerto de Tacoma aprueba construcción de instalación de almacenamiento en frío",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Comisión del Puerto de Tacoma aprobó un contrato de arrendamiento de terrenos con Saxum Investment\nLa entrada EEUU: Comisión del Puerto de Tacoma aprueba construcción de ...",
-    "date": "2026-06-19T11:00:53",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/eeuu-comision-del-puerto-de-tacoma-aprueba-construccion-de-instalacion-de-almacenamiento-en-frio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/viviendas-segunda-mano-eran-uno-ultimos-refugios-mercado-ahora-se-estan-convirtiendo-lujo",
-    "title": "Las viviendas de segunda mano eran uno de los últimos refugios del mercado. Ahora se están convirtiendo en un lujo",
-    "snippet": "Cuando el mercado inmobiliario se tensa, se disparan los precios y se agrava el desequilibrio entre oferta y demanda, ocurre una cosa: los compradores pierden los pocos refugios que les quedaban. En Madrid por ejemplo el...",
-    "date": "2026-06-19T11:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/viviendas-segunda-mano-eran-uno-ultimos-refugios-mercado-ahora-se-estan-convirtiendo-lujo",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/big-tech-te-ofrecen-15-gb-gratis-almacenamiento-nube-o2-cloud-deja-ridiculo-regala-10-tb-a-sus-clientes",
-    "title": "Las Big Tech te ofrecen hasta 15 GB gratis de almacenamiento en la nube. O2 Cloud las deja en ridículo y regala 10 TB a sus clientes",
-    "snippet": "Los clientes de O2 están de enhorabuena. La operadora comunicaba ayer un cambio fantástico en su oferta: hasta ahora O2 Cloud ofrecía 1 TB de almacenamiento en la nube incluido en ese plan. Ahora esa capacidad se amplía ...",
-    "date": "2026-06-19T10:30:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/big-tech-te-ofrecen-15-gb-gratis-almacenamiento-nube-o2-cloud-deja-ridiculo-regala-10-tb-a-sus-clientes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/oficial-philips-hue-renueva-su-ecosistema-nuevas-lamparas-inmersivas-para-televisor-bombillas-compatibles-matter",
-    "title": "Ya es oficial: Philips Hue renueva su ecosistema con nuevas lámparas inmersivas para el televisor y bombillas compatibles con Matter",
-    "snippet": "Si tienes luces inteligentes en casa, seguro que has vivido este drama doméstico: configuras la escena de iluminación perfecta para ver una película, alguien entra en la habitación, pulsa el interruptor físico de la pare...",
-    "date": "2026-06-19T10:16:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/oficial-philips-hue-renueva-su-ecosistema-nuevas-lamparas-inmersivas-para-televisor-bombillas-compatibles-matter",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/creiamos-que-ningun-modelo-chino-ia-se-acercaria-pronto-a-fable-5-gpt-5-5-entonces-llego-glm-5-2",
-    "title": "Creíamos que ningún modelo chino de IA se acercaría pronto a Fable 5 o GPT-5.5. Entonces llegó GLM-5.2",
-    "snippet": "Hace unos días la startup china Zhipu AI (Z.ai) anunció el lanzamiento de su nuevo modelo abierto de IA, GLM-5.2. Lo hizo presumiendo de unas prestaciones asombrosas que lo acercaban mucho a los mejores modelos cerrados ...",
-    "date": "2026-06-19T10:16:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-ningun-modelo-chino-ia-se-acercaria-pronto-a-fable-5-gpt-5-5-entonces-llego-glm-5-2",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/solo-hay-persona-historia-star-trek-que-se-ha-interpretado-a-escena-sigue-siendo-legendaria",
-    "title": "Solo hay una persona en la historia de Star Trek que se ha interpretado a sí misma, y la escena sigue siendo legendaria",
-    "snippet": "El androide Data necesitaba a los tres científicos más brillantes de la historia para una partida de póquer en el holodeck, y los elegidos fueron Isaac Newton, Albert Einstein y Stephen Hawking. Los dos primeros llevaban...",
-    "date": "2026-06-19T10:00:17",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/solo-hay-persona-historia-star-trek-que-se-ha-interpretado-a-escena-sigue-siendo-legendaria",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/humanos-llevamos-miles-anos-discutiendo-que-infierno-aemet-tiene-respuesta-francia-espana-este-fin-semana",
-    "title": "Los humanos llevamos miles de años discutiendo qué es el infierno y AEMET ya tiene la respuesta: Francia y España este fin de semana",
-    "snippet": "Europa Occidental está a punto de convertirse en una olla a presión. Con el pico previsto el domingo 21 y lunes 22, el primer gran episodio de calor extremo del verano no solo va a ser \"una de las peores olas de calor de...",
-    "date": "2026-06-19T09:46:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/humanos-llevamos-miles-anos-discutiendo-que-infierno-aemet-tiene-respuesta-francia-espana-este-fin-semana",
     "category": "TRIBUTARIO"
   }
 ]
