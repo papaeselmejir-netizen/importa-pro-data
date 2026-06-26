@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-grandes-economias-reconocen-al-peru-como-productor-clave-para-transicion-energetica-1081151.aspx",
+    "title": "Grandes economías reconocen al Perú como productor clave para la transición energética",
+    "snippet": "Representantes de la Unión Europea y de países de Europa, América y Asia destacaron el rol clave que tiene el Perú en el mercado minero mundial para la transición energética global, destacó el Ministerio de Energía y Min...",
+    "date": "2026-06-26T03:11:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-grandes-economias-reconocen-al-peru-como-productor-clave-para-transicion-energetica-1081151.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iglesia-peruana-expresa-solidaridad-con-pueblo-venezolana-luego-terremotos-1081140.aspx",
+    "title": "Iglesia peruana expresa solidaridad con el pueblo venezolana luego de terremotos",
+    "snippet": "La Conferencia Episcopal Peruana expresó su profunda cercanía y solidaridad con el pueblo venezolano y el Iglesia Católica, tras los terremotos que afectaron diversas regiones de dicho país causando pérdidas de vidas hum...",
+    "date": "2026-06-26T03:08:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iglesia-peruana-expresa-solidaridad-con-pueblo-venezolana-luego-terremotos-1081140.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-callao-buscara-obtener-record-guinness-con-clase-salsa-mas-grande-del-mundo-1081137.aspx",
+    "title": "Callao buscará obtener Récord Guinness con la clase de salsa más grande del mundo",
+    "snippet": "La Municipalidad Provincial del Callao anunció oficialmente el intento de obtener un Guinness World Records en la categoría de “Clase de Salsa Más Grande del Mundo”, un reconocimiento que hasta el momento no registra una...",
+    "date": "2026-06-26T02:30:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-callao-buscara-obtener-record-guinness-con-clase-salsa-mas-grande-del-mundo-1081137.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442954",
+    "title": "Maersk modifica dos servicios entre Europa y Norteamérica",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Maersk anunció que modificará dos de sus servicios que operan entre Europa y Norteamérica. Los recorridos\nLa entrada Maersk modifica dos servicios entre Europa y Norteaméric...",
+    "date": "2026-06-26T02:30:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/maersk-modifica-dos-servicios-entre-europa-y-norteamerica/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-reunion-comite-integracion-y-desarrollo-fronterizo-peruchile-fortalece-cooperacion-1081123.aspx",
+    "title": "Reunión de Comité de Integración y Desarrollo Fronterizo Perú-Chile fortalece cooperación",
+    "snippet": "Con el objetivo de promover la integración, el desarrollo económico y la cooperación fronteriza sostenible entre las regiones peruanas de Tacna y Moquegua, así como las regiones chilenas de Arica, Parinacota y Tarapacá, ...",
+    "date": "2026-06-26T02:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-reunion-comite-integracion-y-desarrollo-fronterizo-peruchile-fortalece-cooperacion-1081123.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442914",
+    "title": "España: Puertos del Estado y AP A Coruña ultiman acuerdo para reordenación de crédito de obras de puerto exterior",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puertos del Estado y la Autoridad Portuaria de A Coruña están ultimando los detalles del acuerdo\nLa entrada España: Puertos del Estado y AP A Coruña ultiman acuerdo para reo...",
+    "date": "2026-06-26T02:00:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/espana-puertos-del-estado-y-ap-a-coruna-ultiman-acuerdo-para-reordenacion-de-credito-de-obras-de-puerto-exterior/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443013",
+    "title": "Puerto de Lázaro Cárdenas supera 13 millones de toneladas movilizadas al cierre de mayo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Lázaro Cárdenas registró un movimiento total de 13 millones 14 mil 936 toneladas\nLa entrada Puerto de Lázaro Cárdenas supera 13 millones de toneladas movilizada...",
+    "date": "2026-06-26T01:32:39",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-lazaro-cardenas-supera-13-millones-de-toneladas-movilizadas-al-cierre-de-mayo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442951",
+    "title": "Maersk nombra a Scott Elliott como presidente regional para Asia Pacífico",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario AP Moller – Maersk (Maersk) anunció el nombramiento de Scott Elliott como presidente regional para Asia\nLa entrada Maersk nombra a Scott Elliott como presidente regional par...",
+    "date": "2026-06-26T01:00:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/maersk-nombra-a-scott-elliott-como-presidente-regional-para-asia-pacifico/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442855",
+    "title": "Global Ship Lease extiende su programa de construcción con pedido de cinco nuevos portacontenedores",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Global Ship Lease acordó una serie de contratos de construcción para cinco portacontenedores de tamaño mediano,\nLa entrada Global Ship Lease extiende su programa de construc...",
+    "date": "2026-06-26T00:30:15",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/global-ship-lease-extiende-su-programa-de-construccion-con-pedido-de-cinco-nuevos-portacontenedores/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443004",
+    "title": "Alianza del Pacífico suma a Pymes y cadenas de valor a protocolo comercial",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario De forma virtual se realizó la IX Reunión de la Comisión de Libre Comercio (CLC) de\nLa entrada Alianza del Pacífico suma a Pymes y cadenas de valor a protocolo comercial se ...",
+    "date": "2026-06-26T00:00:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/alianza-del-pacifico-suma-a-pymes-y-cadenas-de-valor-a-protocolo-comercial/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442851",
+    "title": "DP World supera las 16.000 toneladas de ahorro de CO2e en todas las cadenas de suministro de Reino Unido",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World ayudó a sus clientes a reducir más de 160.000 toneladas de CO2e en sus\nLa entrada DP World supera las 16.000 toneladas de ahorro de CO2e en todas las cadenas de sum...",
+    "date": "2026-06-25T23:30:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-supera-las-16-000-toneladas-de-ahorro-de-co2e-en-todas-las-cadenas-de-suministro-de-reino-unido/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=442998",
     "title": "Brasil: Invierten USD 15,6 millones para ampliar y modernizar sistema eléctrico en Puerto de Paranaguá",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Portos do Paraná invirtió R$ 81,3 millones (USD 15,6 millones) en la construcción de una subestación\nLa entrada Brasil: Invierten USD 15,6 millones para ampliar y modernizar...",
@@ -1249,104 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-elecciones-2026-transparencia-pide-a-actores-politicos-respetar-las-reglas-democraticas-1080877.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-capacita-a-cerca-3000-funcionarios-para-una-transferencia-gestion-ordenada-1080905.aspx",
-    "title": "MEF capacita a cerca de 3,000 funcionarios para una transferencia de gestión ordenada",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) capacitó a cerca de 3,000 funcionarios de gobiernos regionales y locales en las dos primeras ediciones del taller MEF Contigo: “Contribuyendo a un cierre de gestión efectivo y t...",
-    "date": "2026-06-24T19:44:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-capacita-a-cerca-3000-funcionarios-para-una-transferencia-gestion-ordenada-1080905.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=442725",
-    "title": "Consejo Ciudad Puerto inicia gobernanza para avanzar en materialización del PEZC en Valparaíso",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consejo de Coordinación Ciudad Puerto de Valparaíso desarrolló su primera sesión de 2026 con el\nLa entrada Consejo Ciudad Puerto inicia gobernanza para avanzar en materia...",
-    "date": "2026-06-24T19:34:10",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/consejo-ciudad-puerto-inicia-gobernanza-para-avanzar-en-materializacion-del-pezc-en-valparaiso/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seguridad/cuando-ciberataque-dejo-out-a-hospitales-rumanos-medicos-recuperaron-clasico-lapiz-papel",
-    "title": "Cuando un ciberataque dejó \"out\" a los hospitales rumanos, los médicos recuperaron un clásico: lápiz y papel",
-    "snippet": "La tecnología informática ha llegado para facilitarnos la vida. En el ámbito de la salud, por ejemplo, los hospitales están cada vez más interconectados. Los médicos de muchos países del mundo tienen acceso a historias c...",
-    "date": "2026-06-24T19:30:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seguridad/cuando-ciberataque-dejo-out-a-hospitales-rumanos-medicos-recuperaron-clasico-lapiz-papel",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-fiesta-san-juan-pobladores-moyobamba-madrugaron-para-bailar-y-celebrar-1080900.aspx",
-    "title": "Fiesta de San Juan: pobladores de Moyobamba madrugaron para bailar y celebrar",
-    "snippet": "Desde tempranas horas de hoy, cuando el sol aun dormía, los moyobambinos iniciaron las celebraciones por la fiesta de San Juan, con una comparsa de aproximadamente 5 kilómetros, caracterizada por el baile y el colorido p...",
-    "date": "2026-06-24T19:22:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-fiesta-san-juan-pobladores-moyobamba-madrugaron-para-bailar-y-celebrar-1080900.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-buque-portavehiculos-mas-grande-del-mundo-incluye-al-callao-su-viaje-inaugural-1080899.aspx",
-    "title": "El buque portavehículos más grande del mundo incluye al Callao en su viaje inaugural",
-    "snippet": "La llegada del MN Glovis Leader al Terminal Norte Multipropósito, operado por APM Terminals Callao, representa un nuevo avance para la actividad portuaria peruana ya que es el buque porta vehículos de mayor capacidad en ...",
-    "date": "2026-06-24T19:22:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-buque-portavehiculos-mas-grande-del-mundo-incluye-al-callao-su-viaje-inaugural-1080899.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "CBMi0wFBVV95cUxQaHk2ZXM2T1JSNFRYS1FKMUozb19IVUNpUC1NTmhJMjFPMTBIN2J3WjZlYnprbUZCbWt0djhFa1djMTBMTWxid0M5RXJ6VDhXMFZNeDFucnVqTHFPY1h1amM1b2x2VkVHMUFKVGNpdlhpdXUzX0ZjRU5GS1V4dWdHakRLQU5jLVJuQ3I0NkVPSFZOQmVsT1oyZFlfM0xUZU9lRHBOSkw4Uno4dEdranQyek9HS1RKZVRyWmFFVVluanZTOVF4elE1bkdYUDdHbk9tZlZr",
-    "title": "MTC: movimiento de carga en terminales portuarios supera las 5.8 millones de toneladas en abril - TVPerú",
-    "snippet": "MTC: movimiento de carga en terminales portuarios supera las 5.8 millones de toneladas en abril  TVPerú...",
-    "date": "2026-06-24T19:10:48",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaHk2ZXM2T1JSNFRYS1FKMUozb19IVUNpUC1NTmhJMjFPMTBIN2J3WjZlYnprbUZCbWt0djhFa1djMTBMTWxid0M5RXJ6VDhXMFZNeDFucnVqTHFPY1h1amM1b2x2VkVHMUFKVGNpdlhpdXUzX0ZjRU5GS1V4dWdHakRLQU5jLVJuQ3I0NkVPSFZOQmVsT1oyZFlfM0xUZU9lRHBOSkw4Uno4dEdranQyek9HS1RKZVRyWmFFVVluanZTOVF4elE1bkdYUDdHbk9tZlZr?oc=5",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=442708",
-    "title": "Puerto colombiano de Antioquia atiende por primera vez a un buque cámara",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El puerto colombiano de Antioquia, ubicado en el Golfo de Urabá, recibió y atendió por primera vez\nLa entrada Puerto colombiano de Antioquia atiende por primera vez a un buq...",
-    "date": "2026-06-24T19:00:23",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-colombiano-de-antioquia-atiende-por-primera-vez-a-un-buque-camara/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1694495",
-    "title": "Fenómeno El Niño: MEF anticipa afectación más fuerte desde noviembre, ¿cuáles son los sectores más impactados?",
-    "snippet": "El Ministerio de Economía y Finanzas aseguró que el Perú cuenta con más de US$ 2.000 millones en fondos contingentes para enfrentar los efectos del Fenómeno El Niño....",
-    "date": "2026-06-24T18:55:56",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/fenomeno-el-nino-mef-anticipa-afectacion-fuerte-desde-noviembre-que-sectores-seran-impactados-noticia-1694495",
-    "category": "MERCADO"
-  },
-  {
-    "id": "6a394366fe938d9767d23e06",
-    "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-    "snippet": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”...",
-    "date": "2026-06-24T18:45:00",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/hoy-disney-pelicula-que-pese-a-superar-mil-millones-taquilla-ha-dejado-aire-continuidad-su-franquicia",
-    "title": "Hoy en Disney+, la película que pese a superar los mil millones en taquilla ha dejado en el aire la continuidad de su franquicia",
-    "snippet": "'Avatar: Fuego y ceniza', la tercera entrega de la milmillonaria saga de James Cameron, aterriza en Disney+. Una película que se abre con una declaración contra la IA, introduce al primer gran villano Na'vi de la franqui...",
-    "date": "2026-06-24T18:30:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/hoy-disney-pelicula-que-pese-a-superar-mil-millones-taquilla-ha-dejado-aire-continuidad-su-franquicia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-lamenta-muerte-colaboradora-atropellada-bus-del-corredor-azul-1080888.aspx",
-    "title": "ATU lamenta muerte de colaboradora atropellada por bus del Corredor Azul",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) expresó su profundo pesar por el fallecimiento de Ana Patricia Castro Garay, colaboradora de la entidad que se desempeñaba como controladora de vía y perdió la v...",
-    "date": "2026-06-24T18:29:51",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-lamenta-muerte-colaboradora-atropellada-bus-del-corredor-azul-1080888.aspx",
-    "category": "LOGÍSTICA"
   }
 ]
