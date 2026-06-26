@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.xataka.com/espacio/sabemos-exactamente-donde-cuando-ocurrira-eclipse-solar-largo-historia-veran-nuestros-tataranietos",
+    "title": "Sabemos exactamente dónde y cuándo ocurrirá el eclipse solar más largo de la historia: lo verán nuestros tataranietos",
+    "snippet": "El 16 de julio de 2186, la Luna se alineará perfectamente entre la Tierra y el Sol, creando un eclipse sin precedentes históricos. A menos que el excéntrico millonario empeñado en rejuvenecer tenga éxito, ninguno de noso...",
+    "date": "2026-06-26T07:31:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/sabemos-exactamente-donde-cuando-ocurrira-eclipse-solar-largo-historia-veran-nuestros-tataranietos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/spacex-ha-lanzado-satelites-que-toda-humanidad-junta-va-a-seguir-siendo-asi-durante-mucho-tiempo",
+    "title": "SpaceX ya ha lanzado más satélites que toda la humanidad junta. Y va a seguir siendo así durante mucho tiempo",
+    "snippet": "SpaceX ha salido a Bolsa hace apenas unos días, por lo que ese es el principal tema de conversación en torno a la compañía espacial de Elon Musk. Sin embargo, mientras tanto, ha batido un récord que ha pasado mucho más d...",
+    "date": "2026-06-26T07:01:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/spacex-ha-lanzado-satelites-que-toda-humanidad-junta-va-a-seguir-siendo-asi-durante-mucho-tiempo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442838",
+    "title": "MPCC adquirirá cuatro buques de 7.000 TEU con contrato de fletamento y modernizará su flota",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario MPC Container Ships (MPCC) acordó adquirir cuatro buques portacontenedores ecoconvencionales de 7 mil TEU, construidos entre\nLa entrada MPCC adquirirá cuatro buques de 7.000...",
+    "date": "2026-06-26T07:00:37",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mpcc-adquirira-cuatro-buques-de-7-000-teu-con-contrato-de-fletamento-y-modernizara-su-flota/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/cada-ano-se-reunen-veterinario-jurista-psicoanalista-jardinero-duenos-secretos-rearme-europa",
+    "title": "Cada año se reúnen un veterinario, un jurista, un psicoanalista y un jardinero. Son los dueños secretos del rearme en Europa",
+    "snippet": "En 1916, en plena Primera Guerra Mundial, el Imperio alemán creó la Kriegsrohstoffabteilung, una oficina dedicada a coordinar empresas privadas para alimentar el esfuerzo bélico. Fue uno de los primeros grandes experimen...",
+    "date": "2026-06-26T06:01:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/cada-ano-se-reunen-veterinario-jurista-psicoanalista-jardinero-duenos-secretos-rearme-europa",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442867",
+    "title": "ABP destaca creciente demanda de escalas de cruceros regionales y de expedición en Reino Unido",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los cruceros Douglas Mawson, Star Legend y Le Champlain hicieron visitas a puertos operados por Associated British\nLa entrada ABP destaca creciente demanda de escalas de cru...",
+    "date": "2026-06-26T06:00:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/abp-destaca-creciente-demanda-de-escalas-de-cruceros-regionales-y-de-expedicion-en-reino-unido/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442840",
+    "title": "Opentop devela las nueve startups internacionales seleccionadas para 6º Valenciaport Hackathon",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Opentop, el Hub de Innovación Abierta de Valenciaport, develó las nueve startups seleccionadas para participar en\nLa entrada Opentop devela las nueve startups internacionale...",
+    "date": "2026-06-26T05:00:31",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/opentop-devela-las-nueve-startups-internacionales-seleccionadas-para-6o-valenciaport-hackathon/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=442897",
+    "title": "Reino Unido: Avanza proyecto para instalar parque eólico en Puerto de Hull",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El proyecto para instalar un parque eólico terrestre al interior del Puerto de Hull está avanzando,\nLa entrada Reino Unido: Avanza proyecto para instalar parque eólico en Pu...",
+    "date": "2026-06-26T04:00:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-avanza-proyecto-para-instalar-parque-eolico-en-puerto-de-hull/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-grandes-economias-reconocen-al-peru-como-productor-clave-para-transicion-energetica-1081151.aspx",
     "title": "Grandes economías reconocen al Perú como productor clave para la transición energética",
     "snippet": "Representantes de la Unión Europea y de países de Europa, América y Asia destacaron el rol clave que tiene el Perú en el mercado minero mundial para la transición energética global, destacó el Ministerio de Energía y Min...",
@@ -279,6 +342,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "CBMitgFBVV95cUxNVGxBZEdNaG83Wmh2VDZZX3JlZGFVQXV2TklId0s2Qm53ZnNhVUVzWUw0bkpGekhfbTF1a1Q5UkdUYjZIMWs3YUFYM2ttcVdfNEZiT1NkeGJiUDM2OGxnZEZwTkdxUVA2dmIyYnJnZlp6R29tcmlIQ2ZiSDFVOFpBS1BwcTN2djZyaExNZUpHUXBvU2hZdmR2Rm82bHU3MkQ2M2g4bW10Sl96eXdKblBwWGVDRE8tUQ",
+    "title": "Essalud: médicos usan innovadora técnica y devuelven visión a paciente - TVPerú",
+    "snippet": "Essalud: médicos usan innovadora técnica y devuelven visión a paciente  TVPerú...",
+    "date": "2026-06-25T20:16:46",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGxBZEdNaG83Wmh2VDZZX3JlZGFVQXV2TklId0s2Qm53ZnNhVUVzWUw0bkpGekhfbTF1a1Q5UkdUYjZIMWs3YUFYM2ttcVdfNEZiT1NkeGJiUDM2OGxnZEZwTkdxUVA2dmIyYnJnZlp6R29tcmlIQ2ZiSDFVOFpBS1BwcTN2djZyaExNZUpHUXBvU2hZdmR2Rm82bHU3MkQ2M2g4bW10Sl96eXdKblBwWGVDRE8tUQ?oc=5",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=956456",
     "title": "Instagram wants to monopolize your attention",
     "snippet": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels...",
@@ -497,6 +569,15 @@
   {
     "id": "https://www.xataka.com/magnet/blindaje-legal-lobo-lleva-anos-resquebrajandose-ahora-mayoria-comunidades-espana-han-abierto-puerta-a-su-caza",
     "title": "El blindaje legal del lobo lleva años resquebrajándose. Ahora la mayoría de comunidades de España han abierto la puerta a su caza",
+    "snippet": "Quizás no al nivel de la vivienda o la corrupción, pero en la crónica política de los últimos años ha habido un tema de debate que ha exacerbado los ánimos: el lobo. Desde 2022 las instituciones europeas y españolas está...",
+    "date": "2026-06-25T17:01:32",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/blindaje-legal-lobo-lleva-anos-resquebrajandose-ahora-mayoria-comunidades-espana-han-abierto-puerta-a-su-caza",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/blindaje-legal-lobo-lleva-anos-resquebrajandose-ahora-mayoria-comunidades-espana-han-abierto-puerta-a-su-caza",
+    "title": "Las comunidades de España creen que el lobo se está recuperado de maravilla. Y eso es una pésima noticia para la especie",
     "snippet": "Quizás no al nivel de la vivienda o la corrupción, pero en la crónica política de los últimos años ha habido un tema de debate que ha exacerbado los ánimos: el lobo. Desde 2022 las instituciones europeas y españolas está...",
     "date": "2026-06-25T17:01:32",
     "source": "XATAKA",
@@ -1267,86 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-congreso-aprueban-ley-para-fortalecer-capacidad-operativa-y-administrativa-de-sunat-1080913.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=949350",
-    "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-    "snippet": "Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already ...",
-    "date": "2026-06-24T21:58:59",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=442760",
-    "title": "Complejo Portuario Mejillones presentan a Industriales de Antofagasta avances de su Plataforma Logística",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario En una presentación realizada ante el Consejo de Logística de la Asociación de Industriales de Antofagasta\nLa entrada Complejo Portuario Mejillones presentan a Industriales ...",
-    "date": "2026-06-24T21:44:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/complejo-portuario-mejillones-presentan-a-industriales-de-antofagasta-avances-de-su-plataforma-logistica/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135911",
-    "title": "AI researchers continue to leave Google for its rivals",
-    "snippet": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper....",
-    "date": "2026-06-24T21:42:07",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minem-inversiones-mineras-peru-bordearan-los-6300-millones-al-cierre-2026-1080923.aspx",
-    "title": "Minem: inversiones mineras en Perú bordearán los US$ 6,300 millones al cierre de 2026",
-    "snippet": "Las inversiones mineras en Perú bordearán los 6,300 millones de dólares al cierre del 2026, reflejando la confianza de los inversionistas en el país, destacó hoy el ministro de Energía y Minas, Waldir Ayasta Mechán....",
-    "date": "2026-06-24T21:35:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minem-inversiones-mineras-peru-bordearan-los-6300-millones-al-cierre-2026-1080923.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "CBMi-gFBVV95cUxPamwzem10WHpmTmRHTXVWZnZqYUJURnhaZUR2d2c5N1BvYmdxNTVCeHdiY084azlXNTBDZGhLbDNrZGxpYWFZUXdRckE4NG04d3hRc0lZM2labXJCal9aQ3diZjI2THZqamNGRFQ1YlVVMUY3ZTZxSUhHM092dk5YRXdpMTNPN2hDTUthWFc5b1U4Y2JuT1I5OWFUZWJzNXFmdmZGUy1ibmFVTXJhRmt5R3lRMXFyTHdURVhlQVY4RldpOU1aRUxudy1saEpHQXlCcUg1N3ZHZTBnRFpBM3BTbmsyOEFQZ3FUeDlfNkxLeG1lbWVfNTJsX1ZB",
-    "title": "Aprueban fortalecer capacidad operativa y administrativa de la Sunat a través de la optimización de su capital humano - Congreso",
-    "snippet": "Aprueban fortalecer capacidad operativa y administrativa de la Sunat a través de la optimización de su capital humano  Congreso...",
-    "date": "2026-06-24T21:23:30",
-    "source": "SUNAT",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPamwzem10WHpmTmRHTXVWZnZqYUJURnhaZUR2d2c5N1BvYmdxNTVCeHdiY084azlXNTBDZGhLbDNrZGxpYWFZUXdRckE4NG04d3hRc0lZM2labXJCal9aQ3diZjI2THZqamNGRFQ1YlVVMUY3ZTZxSUhHM092dk5YRXdpMTNPN2hDTUthWFc5b1U4Y2JuT1I5OWFUZWJzNXFmdmZGUy1ibmFVTXJhRmt5R3lRMXFyTHdURVhlQVY4RldpOU1aRUxudy1saEpHQXlCcUg1N3ZHZTBnRFpBM3BTbmsyOEFQZ3FUeDlfNkxLeG1lbWVfNTJsX1ZB?oc=5",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/robots-humanoides-chinos-despiertan-cada-vez-interes-morgan-stanley-casi-ha-duplicado-sus-previsiones-envios-para-2026",
-    "title": "Los robots humanoides chinos despiertan cada vez más interés: Morgan Stanley casi ha duplicado sus previsiones de envíos para 2026",
-    "snippet": "Cuando pensamos en robots humanoides, es fácil que el primer nombre que aparezca sea Optimus. Tesla ha conseguido instalar su robot en el imaginario tecnológico antes incluso de convertirlo en un producto que cualquiera ...",
-    "date": "2026-06-24T20:30:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/robots-humanoides-chinos-despiertan-cada-vez-interes-morgan-stanley-casi-ha-duplicado-sus-previsiones-envios-para-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-jorge-chavez-se-normalizan-vuelos-tras-restablecimiento-sistema-satelital-1080908.aspx",
-    "title": "Jorge Chavez: se normalizan vuelos tras restablecimiento de sistema satelital",
-    "snippet": "Las operaciones aéreas en el Aeropuerto Internacional Jorge Chávez comenzaron a normalizarse tras el restablecimiento del Sistema Global de Navegación por Satélite (GNSS), cuya afectación había generado demoras y cancela...",
-    "date": "2026-06-24T20:17:07",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-jorge-chavez-se-normalizan-vuelos-tras-restablecimiento-sistema-satelital-1080908.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/nos-estan-inyectando-propaganda-pura-dura-app-casa-blanca-se-autodescarga-moviles-oficiales-no-se-puede-borrar",
-    "title": "\"Nos están inyectando propaganda pura y dura\": la app de la Casa Blanca se autodescarga en móviles oficiales y no se puede borrar",
-    "snippet": "La Administración de Donald Trump estrenó recientemente una nueva aplicación oficial de la Casa Blanca para iPhone y Android. En principio, nada demasiado raro: muchos gobiernos tienen apps públicas para difundir comunic...",
-    "date": "2026-06-24T20:00:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/nos-estan-inyectando-propaganda-pura-dura-app-casa-blanca-se-autodescarga-moviles-oficiales-no-se-puede-borrar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-transparencia-pide-a-actores-politicos-respetar-las-reglas-democraticas-1080877.aspx",
-    "title": "Elecciones 2026: Transparencia pide a actores políticos respetar las reglas democráticas",
-    "snippet": "La subsecretaria general de la Asociación Civil Transparencia, Pilar Biggio, sostuvo que se requiere que todos los actores políticos respeten las reglas de la democracia y a los organismos electorales, tras ratificar que...",
-    "date": "2026-06-24T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-transparencia-pide-a-actores-politicos-respetar-las-reglas-democraticas-1080877.aspx",
-    "category": "MERCADO"
   }
 ]
