@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-estudiantes-de-unalm-llevaran-investigaciones-a-congresos-america-europa-y-asia-1081476.aspx",
+    "title": "Estudiantes de la UNALM llevarán investigaciones a congresos en América, Europa y Asia",
+    "snippet": "La investigación universitaria peruana volverá a tener presencia internacional, cuando diez estudiantes de la Universidad Nacional Agraria La Molina (UNALM) presenten sus estudios en congresos científicos y de innovación...",
+    "date": "2026-06-28T22:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-estudiantes-de-unalm-llevaran-investigaciones-a-congresos-america-europa-y-asia-1081476.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443317",
+    "title": "Petroperú busca fortalecer su respuesta operativa ante eventuales restricciones en puertos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con el objetivo de fortalecer su respuesta operativa ante posibles restricciones portuarias, Petroperú participó en la\nLa entrada Petroperú busca fortalecer su respuesta ope...",
+    "date": "2026-06-28T22:00:35",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/petroperu-busca-fortalecer-su-respuesta-operativa-ante-eventuales-restricciones-en-puertos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=958804",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenA...",
+    "date": "2026-06-28T21:42:51",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-presidente-balcazar-estamos-avanzando-el-cierre-brechas-educacion-y-salud-1081471.aspx",
+    "title": "Presidente Balcázar: estamos avanzando en el cierre de brechas en educación y salud",
+    "snippet": "El presidente de la república, José María Balcázar, reafirmó hoy el compromiso de su Gobierno con la educación, la salud y la atención de las principales necesidades de la población, durante la entrega de 266 tabletas el...",
+    "date": "2026-06-28T21:11:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidente-balcazar-estamos-avanzando-el-cierre-brechas-educacion-y-salud-1081471.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-linea-2-desde-8-julio-sera-obligatorio-uso-tarjeta-interoperable-para-viajar-1081473.aspx",
+    "title": "Línea 2: desde el 8 de julio será obligatorio uso de tarjeta interoperable para viajar",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) informa a los usuarios de la Línea 2 del Metro que desde el miércoles 8 de julio será de uso obligatorio las Tarjetas Interoperables de Transportes (TIT) para ac...",
+    "date": "2026-06-28T21:06:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-linea-2-desde-8-julio-sera-obligatorio-uso-tarjeta-interoperable-para-viajar-1081473.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=443308",
     "title": "Fletes marítimos en Asia caen 4% tras reapertura del estrecho de Ormuz",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Índice de Contenedores Intra-Asia de Drewry (IACI) registró una baja del 4% en la semana\nLa entrada Fletes marítimos en Asia caen 4% tras reapertura del estrecho de Ormuz...",
@@ -525,6 +570,15 @@
     "id": "https://portalportuario.cl/?p=443283",
     "title": "Policía de Sydney inacauta 110 kilos de cocaína ocultas en contenedor reefer procedente de Chile",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La policía en Sydney incautó 110 kg de cocaína escondidos dentro de un contenedor refrigerado que transportaba\nLa entrada Policía de Sydney inacauta 110 kilos de cocaína ocu...",
+    "date": "2026-06-28T03:30:42",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/policia-de-sydney-inacauta-110-kilos-de-cocaina-ocultas-en-contenedor-reefer-procedente-de-chile/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443283",
+    "title": "Policía de Sydney incauta 110 kilos de cocaína ocultas en contenedor reefer procedente de Chile",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La policía en Sydney incautó 110 kg de cocaína escondidos dentro de un contenedor refrigerado que transportaba\nLa entrada Policía de Sydney incauta 110 kilos de cocaína ocul...",
     "date": "2026-06-28T03:30:42",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/policia-de-sydney-inacauta-110-kilos-de-cocaina-ocultas-en-contenedor-reefer-procedente-de-chile/",
@@ -1294,59 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/argentina-avanza-licitacion-para-renovar-sistema-de-seguridad-en-puerto-de-ushuaia/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136556",
-    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-    "snippet": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding....",
-    "date": "2026-06-26T22:00:37",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minsa-tamizajes-gratis-detectaron-a-tiempo-463-casos-hipotiroidismo-bebes-video-1081232.aspx",
-    "title": "Minsa: tamizajes gratis detectaron a tiempo 463 casos de hipotiroidismo en bebés [video]",
-    "snippet": "El Ministerio de Salud (Minsa) alcanzó hoy un hito en la salud pública nacional al completar un millón de tamizajes neonatales, una prueba esencial que permite detectar de forma oportuna enfermedades congénitas graves qu...",
-    "date": "2026-06-26T21:45:24",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minsa-tamizajes-gratis-detectaron-a-tiempo-463-casos-hipotiroidismo-bebes-video-1081232.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMi2wFBVV95cUxNaGJzQ0ttdmFhbU5oLWZKLUwzcWo3YzZKRTY1QS1vcC1LR2FyekZkZXpXeHRIekVrN0tuLWJIdkV2S3FOQW5UZ3RiUndXTF9NMUlnNDJ2SERIWkl2eExHRWl3X2ZtNWJVV1B4dDVQNElXXzdjclNCZWhfQ252VVZkUjUtcnRva1pMRkxic2g0aFNxc2ZSQTZVNE9mOENYdVd2VjJ1U0RPRGNBWDRxOUdyT0NpZGl5dWZqUlpIMkpRQ21iT2lpLVc3dEZ0X3VZeS1YRi1GcFBsRGYxeFE",
-    "title": "MTC concreta inicio de operaciones de Turkish Airlines desde Estambul hacia Lima a partir de 2027 - TVPerú",
-    "snippet": "MTC concreta inicio de operaciones de Turkish Airlines desde Estambul hacia Lima a partir de 2027  TVPerú...",
-    "date": "2026-06-26T21:29:40",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGJzQ0ttdmFhbU5oLWZKLUwzcWo3YzZKRTY1QS1vcC1LR2FyekZkZXpXeHRIekVrN0tuLWJIdkV2S3FOQW5UZ3RiUndXTF9NMUlnNDJ2SERIWkl2eExHRWl3X2ZtNWJVV1B4dDVQNElXXzdjclNCZWhfQ252VVZkUjUtcnRva1pMRkxic2g0aFNxc2ZSQTZVNE9mOENYdVd2VjJ1U0RPRGNBWDRxOUdyT0NpZGl5dWZqUlpIMkpRQ21iT2lpLVc3dEZ0X3VZeS1YRi1GcFBsRGYxeFE?oc=5",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn4rd71411ko#0",
-    "title": "Trump threatens 100% tariff on European nations over tech tax",
-    "snippet": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy....",
-    "date": "2026-06-26T21:29:38",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-aqui-podras-acceder-a-cursos-gratis-inteligencia-artificial-y-nube-1081251.aspx",
-    "title": "Aquí podrás acceder a cursos gratis de inteligencia artificial y nube",
-    "snippet": "Amazon Web Services (AWS) y Fundación Romero lanzaron AWS Entrena Perú, una plataforma de cursos gratuitos en español sobre inteligencia artificial y computación en la nube, dirigida a estudiantes, emprendedores, profesi...",
-    "date": "2026-06-26T21:19:14",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-aqui-podras-acceder-a-cursos-gratis-inteligencia-artificial-y-nube-1081251.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-xiaomi-presenta-peru-serie-17t-camaras-leica-ia-y-baterias-alta-duracion-1081247.aspx",
-    "title": "Xiaomi presenta en Perú la Serie 17T con cámaras Leica, IA y baterías de alta duración",
-    "snippet": "Xiaomi amplía su portafolio de smartphones premium en el mercado peruano con la presentación oficial de la Serie Xiaomi 17T, integrada por los nuevos Xiaomi 17T y Xiaomi 17T Pro....",
-    "date": "2026-06-26T21:13:39",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-xiaomi-presenta-peru-serie-17t-camaras-leica-ia-y-baterias-alta-duracion-1081247.aspx",
-    "category": "MERCADO"
   }
 ]
