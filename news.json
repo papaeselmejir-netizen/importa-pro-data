@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3137021",
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "snippet": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
+    "date": "2026-06-28T19:05:39",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/uno-yates-avanzados-mundo-guarda-su-mayor-secreto-cubierta-depositos-criogenicos-a-253-oc",
+    "title": "Uno de los yates más avanzados del mundo guarda su mayor secreto bajo cubierta: depósitos criogénicos a -253 ºC",
+    "snippet": "A simple vista, Breakthrough podría parecer otro superyate destinado a llamar la atención por sus dimensiones. Mide 118,80 metros, fue construido por Feadship y forma parte de esa categoría de barcos en la que cada metro...",
+    "date": "2026-06-28T19:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/uno-yates-avanzados-mundo-guarda-su-mayor-secreto-cubierta-depositos-criogenicos-a-253-oc",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/calentamiento-global-ha-pisado-acelerador-a-ritmo-precedentes-cada-vez-estamos-cerca-punto-no-retorno",
+    "title": "El calentamiento global ha pisado el acelerador a un ritmo sin precedentes y cada vez estamos más cerca del punto de no retorno",
+    "snippet": "En los últimos años estamos viendo cómo el clima está cambiando de manera radical, y la realidad es que sabemos bien que el sistema climático de la Tierra está acumulando calor a un ritmo sin precedentes. Y no es una est...",
+    "date": "2026-06-28T18:30:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/calentamiento-global-ha-pisado-acelerador-a-ritmo-precedentes-cada-vez-estamos-cerca-punto-no-retorno",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-presidente-balcazar-entrega-tablets-a-estudiantes-institucion-educativa-chota-1081449.aspx",
+    "title": "Presidente Balcázar entrega tablets a estudiantes de institución educativa en Chota",
+    "snippet": "El presidente de la república, José María Balcázar, lidera una actividad oficial en la provincia de Chota, en Cajamarca, en el marco del segundo día de actividades del mandatario en dicha región....",
+    "date": "2026-06-28T18:21:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidente-balcazar-entrega-tablets-a-estudiantes-institucion-educativa-chota-1081449.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443146",
+    "title": "GTT recibie pedido de Samsung Heavy Industries para tanques de tres metaneros",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario GTT recibió un pedido del astillero Samsung Heavy Industries para el diseño de los tanques de\nLa entrada GTT recibie pedido de Samsung Heavy Industries para tanques de tres ...",
+    "date": "2026-06-28T18:00:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/gtt-recibie-pedido-de-samsung-heavy-industries-para-tanques-de-tres-metaneros/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hace-80-anos-destructor-estadounidense-ataco-que-creia-submarino-enemigo-acabamos-descubrir-que-era-barco-hundido",
+    "title": "Hace 80 años un destructor estadounidense atacó lo que creía un submarino enemigo. Acabamos de descubrir que era un barco hundido",
+    "snippet": "En junio de 1942 ocurrió algo sin precedentes en la historia moderna de Estados Unidos: alguien les invadió. En plena Segunda Guerra Mundial, las tropas japonesas desembarcaron en la isla de Attu, en el extremo oeste de ...",
+    "date": "2026-06-28T18:00:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hace-80-anos-destructor-estadounidense-ataco-que-creia-submarino-enemigo-acabamos-descubrir-que-era-barco-hundido",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=958768",
+    "title": "China claims the world&#8217;s fastest supercomputer",
+    "snippet": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict...",
+    "date": "2026-06-28T17:20:59",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sunat-no-sancionara-infracciones-referidas-al-sistema-integrado-registros-electronicos-1081443.aspx",
+    "title": "Sunat no sancionará infracciones referidas al sistema integrado de registros electrónicos",
+    "snippet": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (SUNAT) indicó hoy que amplió la aplicación de la facultad discrecional para no sancionar, administrativamente, las infracciones relacionadas con el ...",
+    "date": "2026-06-28T17:19:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sunat-no-sancionara-infracciones-referidas-al-sistema-integrado-registros-electronicos-1081443.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=443300",
     "title": "Portacontenedores de CMA CGM abandona el estrecho de Ormuz",
     "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un portacontenedores de CMA CGM, construido en 2022, logró abandonar el estrecho de Ormuz durante\nLa entrada Portacontenedores de CMA CGM abandona el estrech...",
@@ -1276,77 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/windows-10-parecia-condenado-microsoft-acaba-retrasar-su-final-prorroga-silenciosa",
-    "title": "Windows 10 parecía condenado: Microsoft acaba de retrasar su final con una prórroga silenciosa",
-    "snippet": "Windows 10 llevaba tiempo señalado en el calendario como un sistema con fecha de salida. Microsoft terminó su soporte oficial el 14 de octubre de 2025 y el mensaje parecía claro: había llegado el momento de pasar página ...",
-    "date": "2026-06-26T19:31:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/windows-10-parecia-condenado-microsoft-acaba-retrasar-su-final-prorroga-silenciosa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=443117",
-    "title": "Brasil: Puerto de Itajaí recibe visita técnica de Antaq para monitorear operación del recinto",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Superintendencia del Puerto de Itajaí recibió a representantes de la Agencia Nacional de Transportes Acuáticos\nLa entrada Brasil: Puerto de Itajaí recibe visita técnica d...",
-    "date": "2026-06-26T19:30:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-puerto-de-itajai-recibe-visita-tecnica-de-antaq-para-monitorear-operacion-del-recinto/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "CBMiygFBVV95cUxPR1o0Wml2Z3BMaVRkTFlnNTZZT3FqYWlobTZQRkhCUUd2RG1mUXJjcGI2NnhJNHJJZUpEWTdKQkt4eHEwRWtPbHhmTE1LcmtYWElxTFhhVWgzX21TNTlENHlhdGdoSTczWmxVdGtNZzJhYUhabkx5bThsT0w0bER4Uk5LWWdBNUpwUnpyaE9COFVBcWZhVDlFdk1DblcybHI3RzBMbkVJU0lfYmptNFhVVEMzenp3YjMzTDVTcmxoREQ3NmxQX0xqYmFn",
-    "title": "Indecopi: publicidad discriminatoria contra la comunidad LGBTQ+ es sancionada en Junín - TVPerú",
-    "snippet": "Indecopi: publicidad discriminatoria contra la comunidad LGBTQ+ es sancionada en Junín  TVPerú...",
-    "date": "2026-06-26T19:20:07",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1o0Wml2Z3BMaVRkTFlnNTZZT3FqYWlobTZQRkhCUUd2RG1mUXJjcGI2NnhJNHJJZUpEWTdKQkt4eHEwRWtPbHhmTE1LcmtYWElxTFhhVWgzX21TNTlENHlhdGdoSTczWmxVdGtNZzJhYUhabkx5bThsT0w0bER4Uk5LWWdBNUpwUnpyaE9COFVBcWZhVDlFdk1DblcybHI3RzBMbkVJU0lfYmptNFhVVEMzenp3YjMzTDVTcmxoREQ3NmxQX0xqYmFn?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/precio-minimo-para-nueva-sihoo-doro-c300-v2-silla-ergonomica-ideal-no-te-gustan-que-rigidas-como-markus-ikea",
-    "title": "Precio mínimo para la nueva Sihoo Doro C300 V2: una silla ergonómica ideal si no te gustan las que son rígidas como la Markus de Ikea",
-    "snippet": "Este Prime Day estamos viendo muy buenas ofertas en todo tipo de dispositivos, como teléfonos móviles o ventiladores y aires acondicionados. Pero, ¿y si necesitas una nueva silla? Si estás buscando una silla de oficina, ...",
-    "date": "2026-06-26T19:15:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/precio-minimo-para-nueva-sihoo-doro-c300-v2-silla-ergonomica-ideal-no-te-gustan-que-rigidas-como-markus-ikea",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=443149",
-    "title": "Petrolero ligado a flota fantasma rusa arriba escoltado por Armada francesa al golfo de Fos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El petrolero Deliver, ligado a la flota fantasma de Rusia, arribó durante la jornada del viernes\nLa entrada Petrolero ligado a flota fantasma rusa arriba escoltado por Armad...",
-    "date": "2026-06-26T19:00:33",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/petrolero-ligado-a-flota-fantasma-rusa-arriba-escoltado-por-armada-francesa-al-golfo-de-fos/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=951901",
-    "title": "Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
-    "snippet": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but ever...",
-    "date": "2026-06-26T18:43:39",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=443167",
-    "title": "Culminan retiro de precursores químicos que estuvieron cinco años en Puerto de Arica",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Autoridades del Gobierno de Chile dieron a conocer la finalización de un trabajo para retirar precursores\nLa entrada Culminan retiro de precursores químicos que estuvieron c...",
-    "date": "2026-06-26T18:43:01",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/culminan-retiro-de-precursores-quimicos-que-estuvieron-cinco-anos-en-puerto-de-arica/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://lacamara.pe/?p=96280",
-    "title": "Obras por Impuestos: destrabe de S/3080 millones benefició a 6,5 millones de peruanos",
-    "snippet": "La estrategia “Equipo de Seguimiento y Ejecución Contractual” contribuyó con el destrabe de 192 proyectos e inversiones vinculadas al mecanismo de Obras por Impuestos (OxI), por más de S/3080 millones, en beneficio de má...",
-    "date": "2026-06-26T18:33:37",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/obras-por-impuestos-destrabe-de-s-3080-millones-beneficio-a-65-millones-de-peruanos/",
-    "category": "TRIBUTARIO"
   }
 ]
