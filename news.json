@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=443267",
+    "title": "Puerto de Hamburgo y Estonia profundizan cooperación estratégica en materia portuaria",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La senadora de Asuntos Económicos de Hamburgo, Melanie Leonhard, recibió en el Ayuntamiento al ministro de\nLa entrada Puerto de Hamburgo y Estonia profundizan cooperación es...",
+    "date": "2026-06-28T00:00:11",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-hamburgo-y-estonia-profundizan-cooperacion-estrategica-en-materia-portuaria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-el-61-consumidores-descubre-marcas-o-productos-redes-sociales-1081385.aspx",
+    "title": "El 61% de consumidores descubre marcas o productos en redes sociales",
+    "snippet": "En los últimos años, las redes sociales dejaron de ser solo un espacio para mirar contenido o seguir tendencias. Cada vez más, cumplen una función previa a la compra: permiten descubrir marcas, comparar opciones, revisar...",
+    "date": "2026-06-28T00:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-el-61-consumidores-descubre-marcas-o-productos-redes-sociales-1081385.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-compras-oriento-a-emprendedores-sobre-ventas-mediante-los-catalogos-electronicos-1081398.aspx",
+    "title": "Perú Compras orientó a emprendedores sobre ventas mediante los catálogos electrónicos",
+    "snippet": "La Central de Compras Públicas (Perú Compras), organismo adscrito al Ministerio de Economía y Finanzas (MEF), participó en la 27 edición de la feria ExpoPyme, con el objetivo de dar a conocer a los emprendedores y micro ...",
+    "date": "2026-06-27T23:12:10",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-compras-oriento-a-emprendedores-sobre-ventas-mediante-los-catalogos-electronicos-1081398.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443281",
+    "title": "Navieras solo tendrán 24 salidas en blanco durante las próximas cinco semanas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En las principales rutas Este–Oeste se esperan solo veinticuatro recaladas en blanco durante las próximas cinco\nLa entrada Navieras solo tendrán 24 salidas en blanco durante...",
+    "date": "2026-06-27T23:05:15",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/navieras-solo-tendran-24-salidas-en-blanco-durante-las-proximas-cinco-semanas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443099",
+    "title": "Puertos bajo operación de GPH comienzan a recibir a estudiantes de nuevo programa Next-Gen",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Tras el reciente lanzamiento del programa Next-Gen, las terminales de GPH en toda la red ya\nLa entrada Puertos bajo operación de GPH comienzan a recibir a estudiantes de nue...",
+    "date": "2026-06-27T23:00:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puertos-bajo-operacion-de-gph-comienzan-a-recibir-a-estudiantes-de-nuevo-programa-next-gen/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-junin-capacitan-a-emprendedores-del-sector-cuero-y-calzado-de-region-1081396.aspx",
+    "title": "Junín: Capacitan a emprendedores del sector cuero y calzado de la región",
+    "snippet": "Con el objetivo de fortalecer la capacidad productiva de los emprendedores del sector cuero y calzado, en la ciudad de Huancayo se realizó un seminario de capacitación donde participaron micro y pequeñas empresas de la r...",
+    "date": "2026-06-27T23:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-junin-capacitan-a-emprendedores-del-sector-cuero-y-calzado-de-region-1081396.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-arequipa-escolares-viven-zonas-altoandinas-recibieron-ayuda-de-pnp-1081395.aspx",
+    "title": "Arequipa: escolares que viven en zonas altoandinas recibieron ayuda de la PNP",
+    "snippet": "Escolares que soportan temperaturas que alcanzan hasta los 15 grados bajo cero, en el distrito de San Juan de Tarucani, en la zona altoandina de la región Arequipa recibieron ropa de abrigo de parte del personal de la co...",
+    "date": "2026-06-27T22:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-arequipa-escolares-viven-zonas-altoandinas-recibieron-ayuda-de-pnp-1081395.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-feriado-largo-conoce-canales-oficiales-sutran-para-reportar-incidencias-carreteras-1081361.aspx",
     "title": "Feriado largo: conoce canales oficiales de Sutran para reportar incidencias en carreteras",
     "snippet": "La Superintendencia Nacional de Transporte Terrestre de Personas, Carga y Mercancías (Sutran), organismo adscrito al Ministerio de Transportes y Comunicaciones (MTC), mantiene habilitados dos canales oficiales de comunic...",
@@ -1284,69 +1347,6 @@
     "date": "2026-06-26T13:00:19",
     "source": "LA CÁMARA (CCL)",
     "url": "https://lacamara.pe/resumen-normas-legales-junio-2026/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136508",
-    "title": "Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that",
-    "snippet": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others....",
-    "date": "2026-06-26T13:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136508",
-    "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
-    "snippet": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others....",
-    "date": "2026-06-26T13:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/volkswagen-evito-cierre-tres-fabricas-precio-que-pagara-sera-despido-100-000-empleados-cierre-fabricas",
-    "title": "Volkswagen evitó el cierre de tres fábricas: el precio que pagará será el despido de 100.000 empleados y el cierre de más fábricas",
-    "snippet": "Hace apenas un año y medio, Volkswagen llegó a un acuerdo con los sindicatos para despedir \"solo\" a 35.000 empleados para asegurar la continuidad de algunas fábricas, asegurando su funcionamiento hasta 2030. Un mal trago...",
-    "date": "2026-06-26T12:52:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/volkswagen-evito-cierre-tres-fabricas-precio-que-pagara-sera-despido-100-000-empleados-cierre-fabricas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/tres-dias-hemos-visto-precios-locos-hardware-apple-xbox-valve-obviamente-no-hechos-aislados",
-    "title": "En tres días hemos visto precios locos en hardware de Apple, Xbox y Valve. Obviamente, no son hechos aislados",
-    "snippet": "Tres noticias sobre subidas o anuncios de precio de hardware en tres días, y las tres se han topado con el abierto rechazo del público. Valve confirma que su nueva consola cuesta más de 1.000 euros (o bastante más, según...",
-    "date": "2026-06-26T12:31:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/tres-dias-hemos-visto-precios-locos-hardware-apple-xbox-valve-obviamente-no-hechos-aislados",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/tres-dias-hemos-visto-precios-locos-hardware-apple-xbox-valve-obviamente-no-hechos-aislados",
-    "title": "\"Nunca habíamos visto que el precio de un componente subiera tanto y tan rápido\": Lo de Apple, Microsoft y Valve solo es la punta del iceberg",
-    "snippet": "Tres noticias sobre subidas o anuncios de precio de hardware en tres días, y las tres se han topado con el abierto rechazo del público. Valve confirma que su nueva consola cuesta más de 1.000 euros (o bastante más, según...",
-    "date": "2026-06-26T12:31:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/tres-dias-hemos-visto-precios-locos-hardware-apple-xbox-valve-obviamente-no-hechos-aislados",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/que-eustella-precios-que-puedes-hacer-nueva-alternativa-europea-a-claude-gemini-chatgpt-agentes",
-    "title": "Qué es Eustella, precios y qué puedes hacer con la nueva alternativa europea a Claude, Gemini o ChatGPT pero con agentes",
-    "snippet": "Vamos a decirte qué es Eustella y cómo funciona esta alternativa europea a OpenClaw. Se trata de un asistente de inteligencia artificial para Android e iOS, que se promociona con la privacidad como bandera al tener todos...",
-    "date": "2026-06-26T12:18:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/que-eustella-precios-que-puedes-hacer-nueva-alternativa-europea-a-claude-gemini-chatgpt-agentes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/oficial-galaxy-a27-se-estrena-espana-seis-anos-actualizaciones-necesario-para-ser-uno-moviles-vendidos",
-    "title": "Ya es oficial: el Galaxy A27 se estrena en España con seis años de actualizaciones y muchas papeletas para ser uno de los móviles más vendidos",
-    "snippet": "Se estaba haciendo de rogar, pero el Galaxy A27 se ha hecho oficial justo antes de que comience julio. Se trata del sucesor directo del Galaxy A26, uno de los móviles más vendidos de Samsung. ¿Hay mucha evolución entre u...",
-    "date": "2026-06-26T12:15:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/oficial-galaxy-a27-se-estrena-espana-seis-anos-actualizaciones-necesario-para-ser-uno-moviles-vendidos",
     "category": "TRIBUTARIO"
   }
 ]
