@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-indecopi-rematara-este-martes-mas-30-inmuebles-cuatro-regiones-1081279.aspx",
+    "title": "Indecopi rematará este martes más de 30 inmuebles en cuatro regiones",
+    "snippet": "El Indecopi realizará su quinto remate público del 2026, en el que subastará 33 inmuebles. Estos bienes fueron embargados a personas naturales y empresas que incumplieron el pago de multas impuestas por vulnerar los dere...",
+    "date": "2026-06-29T19:29:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-indecopi-rematara-este-martes-mas-30-inmuebles-cuatro-regiones-1081279.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959191",
+    "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
+    "snippet": "Sony hinted in a recent Q&#38;A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript...",
+    "date": "2026-06-29T19:12:15",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137285",
+    "title": "Watch out, Amazon: the Kobo eReader now has a Goodreads rival",
+    "snippet": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads....",
+    "date": "2026-06-29T19:06:21",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sube-a-1719-cifra-muertos-y-a-5034-los-heridos-por-doble-terremoto-venezuela-1081543.aspx",
+    "title": "Sube a 1.719 la cifra de muertos y a 5.034 los heridos por el doble terremoto en Venezuela",
+    "snippet": "La cifra de fallecidos por el doble terremoto ocurrido el pasado miércoles en la zona norte de Venezuela ascendió a 1.719 y la de heridos a 5.034, informó este lunes el presidente del Parlamento, Jorge Rodríguez....",
+    "date": "2026-06-29T19:05:22",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sube-a-1719-cifra-muertos-y-a-5034-los-heridos-por-doble-terremoto-venezuela-1081543.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/tomas-estos-farmacos-calor-puede-ser-peligroso-que-crees",
+    "title": "Si tomas estos fármacos, el calor puede ser más peligroso de lo que crees",
+    "snippet": "Todos sabemos que, cuando hace mucho calor, debemos beber mucha agua, evitar salir a la calle en las horas de más sol y refrescar las estancias adecuadamente. También sabemos que las comidas copiosas no son buena idea y ...",
+    "date": "2026-06-29T19:00:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/tomas-estos-farmacos-calor-puede-ser-peligroso-que-crees",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443361",
+    "title": "DP World San Antonio atiende escala inaugural de nuevo buque de CMA CGM de propulsión dual a metanol",
+    "snippet": "Por Luis Alonso @PortalPortuario DP World San Antonio atendió la escala inaugural de un portacontenedores de nueva construcción de CMA CGM. La unidad,\nLa entrada DP World San Antonio atiende escala inaugural de nuevo buq...",
+    "date": "2026-06-29T19:00:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-san-antonio-atiende-escala-inaugural-de-nuevo-buque-de-cma-cgm-de-propulsion-dual-a-metanol/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/vivo-x-fold6-caracteristicas-precio-ficha-tecnica",
+    "title": "El plegable más ambicioso de vivo ya tiene rumbo a España: la carta de presentación del X Fold6 apunta muy alto",
+    "snippet": "Desde hace años hemos visto cómo vivo construía, generación tras generación, una familia de plegables cada vez más ambiciosa. Primero llegaron los X Fold, después nuevas iteraciones, mejoras en cámaras, pantallas más ref...",
+    "date": "2026-06-29T18:30:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/vivo-x-fold6-caracteristicas-precio-ficha-tecnica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443314",
+    "title": "CMA CGM actualiza sus tarifas para envíos desde puertos del Mediterráneo con destinos en el golfo Pérsico y mar Rojo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario CMA CGM implementará una actualización integral en sus tarifas de transporte de carga general (FAK) y\nLa entrada CMA CGM actualiza sus tarifas para envíos desde puertos del ...",
+    "date": "2026-06-29T18:00:51",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cma-cgm-actualiza-sus-tarifas-para-envios-desde-puertos-del-mediterraneo-con-destinos-en-el-golfo-persico-y-mar-rojo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/millones-hombres-se-despiertan-cada-manana-ereccion-excelente-noticia-para-ellos",
+    "title": "Millones de hombres se despiertan cada mañana con una erección. Es una excelente noticia para ellos",
+    "snippet": "Existe una creencia popular muy arraigada que asocia la presencia de erecciones matutinas de forma exclusiva a los niveles de testosterona y la \"virilidad\" que tiene el hombre. Pero recientemente se está viendo que esto ...",
+    "date": "2026-06-29T18:00:51",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/millones-hombres-se-despiertan-cada-manana-ereccion-excelente-noticia-para-ellos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-callao-buscara-obtener-record-guinness-con-clase-salsa-mas-grande-del-mundo-1081137.aspx",
     "title": "Callao buscará obtener Récord Guinness con la clase de salsa más grande del mundo",
     "snippet": "Más de 1,830 participantes buscarán que el Perú ingrese al Guinness World Records con la “Clase de Salsa Más Grande del Mundo”, un desafío promovido por la Municipalidad Provincial del Callao que aspira a establecer la p...",
@@ -1267,86 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-feriado-largo-conoce-canales-oficiales-sutran-para-reportar-incidencias-carreteras-1081361.aspx",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://www.engadget.com/2203232/heres-your-daily-reminder-that-you-dont-own-digital-content/",
-    "title": "Here's your daily reminder that you don't own digital content",
-    "snippet": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store....",
-    "date": "2026-06-27T19:45:46",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2203232/heres-your-daily-reminder-that-you-dont-own-digital-content/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-expo-peru-los-andes-rueda-negocios-conectara-50-productores-grandes-mercados-1081372.aspx",
-    "title": "Expo Perú Los Andes: Rueda de Negocios conectará 50 productores con grandes mercados",
-    "snippet": "Con el firme objetivo de abrir nuevas fronteras comerciales para las micro y pequeñas empresas (Mype), se inauguró oficialmente la Rueda de Negocios Produce, un evento clave dentro de las actividades de la Expo Perú Los ...",
-    "date": "2026-06-27T19:00:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-expo-peru-los-andes-rueda-negocios-conectara-50-productores-grandes-mercados-1081372.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/china-esta-desviando-sus-rios-caudalosos-a-miles-kilometros-precio-a-pagar-enorme-misterio-medioambiental",
-    "title": "China está desviando sus ríos más caudalosos a miles de kilómetros. El precio a pagar es un enorme misterio medioambiental",
-    "snippet": "El agua en China tiene un problema geográfico de base, puesto que el sur del país se inunda con mucha frecuencia mientras que el norte está en una situación de sequía. Para solucionarlo, el gigante asiático lleva décadas...",
-    "date": "2026-06-27T19:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/china-esta-desviando-sus-rios-caudalosos-a-miles-kilometros-precio-a-pagar-enorme-misterio-medioambiental",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
-    "title": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
-    "snippet": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inte...",
-    "date": "2026-06-27T18:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-temblor-hoy-peru-sabado-27-junio-sismo-magnitud-40-sacude-region-amazonas-1081364.aspx",
-    "title": "Temblor hoy en Perú, sábado 27 de junio: sismo de magnitud 4.0 sacude la región Amazonas",
-    "snippet": "Un sismo de magnitud 4.0 se registró hoy en el departamento de Amazonas, informó el Centro Sismológico Nacional del Instituto Geofísico del Perú (IGP)....",
-    "date": "2026-06-27T17:55:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-temblor-hoy-peru-sabado-27-junio-sismo-magnitud-40-sacude-region-amazonas-1081364.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/yacimiento-fosil-controvertido-evolucion-humana-se-ha-vuelto-desconcertante-que-solo-contiene-mujeres",
-    "title": "El yacimiento fósil más controvertido de la evolución humana se ha vuelto aún más desconcertante: ¿Por qué solo hay mujeres?",
-    "snippet": "Hace poco más de una década en una cueva de Sudáfrica descubrimos a un pariente lejano del homo sapiens: el Homo naledi, uno de los homínidos más enigmáticos de la evolución. Su cuerpo tenía una forma curiosa desde el pu...",
-    "date": "2026-06-27T17:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/yacimiento-fosil-controvertido-evolucion-humana-se-ha-vuelto-desconcertante-que-solo-contiene-mujeres",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/que-desayunar-antes-entrenamiento-intenso-ciencia-tiene-claro-que-funciona-que-debes-evitar",
-    "title": "Hemos buscado la fórmula del desayuno preentreno definitivo. La respuesta de la ciencia es mucho más sencilla",
-    "snippet": "Todo el que madruga para ir al gimnasio se ha planteado en alguna ocasión si es mejor acudir al gimnasio sin desayunar nada, tomar solo un café para conseguir energía o preparar un gran desayuno muy saciante. En este cas...",
-    "date": "2026-06-27T17:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/que-desayunar-antes-entrenamiento-intenso-ciencia-tiene-claro-que-funciona-que-debes-evitar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-con-gran-exito-se-inauguro-iv-festival-amazonico-sabor-a-selva-juanjui-2026-1081351.aspx",
-    "title": "Con gran éxito se inauguró el IV Festival Amazónico \"Sabor a Selva\" Juanjuí 2026",
-    "snippet": "Con una multitudinaria asistencia y en un ambiente de fiesta, quedó inaugurado el IV Festival Amazónico \"Sabor a Selva\" Juanjuí 2026, uno de los eventos más representativos de la región San Martín, que busca revalorar la...",
-    "date": "2026-06-27T16:49:15",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-con-gran-exito-se-inauguro-iv-festival-amazonico-sabor-a-selva-juanjui-2026-1081351.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/creiamos-que-soledad-era-solo-problema-emocional-ciencia-apunta-que-factor-riesgo-para-decenas-enfermedades",
-    "title": "Creíamos que la soledad era solo un problema emocional. La ciencia apunta que es un factor de riesgo para decenas de enfermedades",
-    "snippet": "La soledad es sin duda una lacra que está integrada en nuestra sociedad y que en muchas ocasiones pasa desapercibida, afectando sobre todo a las personas más mayores que se ven prácticamente recluidas a estar en casa y c...",
-    "date": "2026-06-27T16:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/creiamos-que-soledad-era-solo-problema-emocional-ciencia-apunta-que-factor-riesgo-para-decenas-enfermedades",
-    "category": "TRIBUTARIO"
   }
 ]
