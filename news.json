@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-peru-clasifica-a-esports-nations-cup-2026-valorant-tras-superar-las-clasificatorias-1081488.aspx",
+    "title": "Perú clasifica a la Esports Nations Cup 2026 en VALORANT tras superar las clasificatorias",
+    "snippet": "La selección peruana de VALORANT clasificó a la Esports Nations Cup (ENC) 2026 tras una destacada actuación en las clasificatorias regionales de Sudamérica disputadas este domingo. El equipo nacional aseguró uno de los d...",
+    "date": "2026-06-29T03:12:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-clasifica-a-esports-nations-cup-2026-valorant-tras-superar-las-clasificatorias-1081488.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gobierno-consolida-despliegue-humanitario-venezuela-apoyo-a-damnificados-1081493.aspx",
+    "title": "Gobierno consolida despliegue humanitario en Venezuela en apoyo a damnificados",
+    "snippet": "Con el firme propósito de brindar asistencia a la República Bolivariana de Venezuela frente al impacto de los recientes sismos, el Gobierno nacional, a través de la Presidencia del Consejo de Ministros (PCM), impulsó la ...",
+    "date": "2026-06-29T02:13:36",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-consolida-despliegue-humanitario-venezuela-apoyo-a-damnificados-1081493.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3358439/boost-birth-rate-hong-kong-needs-deliver-quality-housing?utm_source=rss_feed",
+    "title": "To boost birth rate, Hong Kong needs to deliver quality housing",
+    "snippet": "The public consultation for Chief Executive John Lee Ka-chiu’s last policy address of his current term is under way. Will he, for example, listen to the people about whether the baby bonus, one of the initiatives aimed a...",
+    "date": "2026-06-29T01:30:05",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3358439/boost-birth-rate-hong-kong-needs-deliver-quality-housing?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministerio-educacion-entrega-266-tabletas-a-estudiantes-primaria-chota-1081486.aspx",
+    "title": "Ministerio de Educación entrega 266 tabletas a estudiantes de primaria en Chota",
+    "snippet": "Un nuevo paso para equipar con tecnología a las escuelas dio el Ministerio de Educación (Minedu) al entregar hoy 266 tabletas electrónicas a estudiantes de la Institución Educativa Abel Carbajal Pérez, de Chota, Cajamarc...",
+    "date": "2026-06-29T01:02:45",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministerio-educacion-entrega-266-tabletas-a-estudiantes-primaria-chota-1081486.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443217",
+    "title": "Indonesia: Terminal de Kijing inicia servicio de contenedores",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario PT Pelindo Regional 2 Pontianak Group realizó oficialmente la primera operación de carga y descarga de\nLa entrada Indonesia: Terminal de Kijing inicia servicio de contenedor...",
+    "date": "2026-06-29T01:00:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/indonesia-terminal-de-kijing-inicia-servicio-de-contenedores/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1695119",
+    "title": "Proinversión impulsa 25 proyectos APP y adendas por US$ 6690 millones en Mancomunidad Regional de Los Andes",
+    "snippet": "Esta importante cartera de proyectos fue presentada durante el Foro Los Andes Invierte, celebrado en la ciudad de Huancavelica como parte de la Expo Perú Los Andes 2026....",
+    "date": "2026-06-29T00:37:06",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/proinversion-impulsa-25-proyectos-app-y-adendas-por-us-6690-millones-en-mancomunidad-regional-de-los-andes-noticia-1695119",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iiap-descubre-nueva-rana-y-un-pez-del-genero-ancistrus-la-amazonia-1081484.aspx",
+    "title": "IIAP descubre nueva rana y un pez del género Ancistrus en la Amazonía",
+    "snippet": "Una expedición científica liderada por el Instituto de Investigaciones de la Amazonía Peruana (IIAP), organismo adscrito al Ministerio del Ambiente (Minam), identificó dos nuevas especies para la ciencia en la Reserva Co...",
+    "date": "2026-06-28T23:56:24",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iiap-descubre-nueva-rana-y-un-pez-del-genero-ancistrus-la-amazonia-1081484.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-estudiantes-de-unalm-llevaran-investigaciones-a-congresos-america-europa-y-asia-1081476.aspx",
     "title": "Estudiantes de la UNALM llevarán investigaciones a congresos en América, Europa y Asia",
     "snippet": "La investigación universitaria peruana volverá a tener presencia internacional, cuando diez estudiantes de la Universidad Nacional Agraria La Molina (UNALM) presenten sus estudios en congresos científicos y de innovación...",
@@ -1206,6 +1269,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cn4rd71411ko#0",
+    "title": "Trump threatens 100% tariff on European nations over tech tax",
+    "snippet": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy....",
+    "date": "2026-06-27T01:37:18",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.theverge.com/?p=951081",
     "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
     "snippet": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on the final day of Prime Day, and Amazon, along...",
@@ -1275,78 +1347,6 @@
     "date": "2026-06-26T22:59:18",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/royalty-portuario-sera-eje-prioritario-para-nuevo-directorio-de-asociacion-nacional-de-ciudades-puerto/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://lacamara.pe/?p=96312",
-    "title": "Xiaomi presenta en Perú la nueva Serie Xiaomi 17T: características, cámara y novedades de los nuevos smartphones",
-    "snippet": "La evolución del mercado de smartphones continúa impulsando el desarrollo de equipos que integran mejores capacidades fotográficas, mayor autonomía y funciones basadas en inteligencia artificial. En este contexto, Xiaomi...",
-    "date": "2026-06-26T22:35:46",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/xiaomi-presenta-en-peru-la-nueva-serie-xiaomi-17t-caracteristicas-camara-y-novedades-de-los-nuevos-smartphones-ccl-asociados/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/nuevo-capitulo-nunca-compras-nada-digital-solo-alquilas-playstation-store-eliminara-otra-tanda-contenido",
-    "title": "En un nuevo capítulo de “nunca compras nada digital, solo lo alquilas”, PlayStation Store eliminará otra tanda de contenido",
-    "snippet": "Cuando compramos algo en una tienda digital, la palabra “comprar” tiene más truco del que parece. Pagamos, recibimos una confirmación, vemos el contenido en nuestra biblioteca y nos acostumbramos a pensar que ya forma pa...",
-    "date": "2026-06-26T22:30:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/nuevo-capitulo-nunca-compras-nada-digital-solo-alquilas-playstation-store-eliminara-otra-tanda-contenido",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-2026-onpe-rechaza-acusaciones-exfuncionario-y-anuncia-investigaciones-1081255.aspx",
-    "title": "Elecciones 2026: ONPE rechaza acusaciones de exfuncionario y anuncia investigaciones",
-    "snippet": "La Oficina Nacional de Procesos Electorales (ONPE) rechazó las acusaciones del exsecretario general de dicho organismo electoral, Elar Juan Bolaños Llanos, debido a que no cuenta con \"sustento alguno\" e indicó que contin...",
-    "date": "2026-06-26T22:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-2026-onpe-rechaza-acusaciones-exfuncionario-y-anuncia-investigaciones-1081255.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=443169",
-    "title": "Industria marítima manifiesta preocupación por nula participación en redacción de reglamento de la Ley de Cabotaje",
-    "snippet": "Por Gabriel Campos Roullet  @PortalPortuario En medio del proceso de redacción del reglamento de la nueva Ley de Cabotaje, diferentes\nLa entrada Industria marítima manifiesta preocupación por nula participación en redacc...",
-    "date": "2026-06-26T22:19:44",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/industria-maritima-manifiesta-preocupacion-por-nula-participacion-en-redaccion-de-reglamento-de-la-ley-de-cabotaje/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958179",
-    "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-    "snippet": "We&#8217;ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I&#8217;m most hyped for is a simple tool for fixing my m...",
-    "date": "2026-06-26T22:09:46",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1694908",
-    "title": "Gratificación y CTS a trabajadores CAS en pausa: Congreso y MEF en lucha por definir gradualidad del pago",
-    "snippet": "La Comisión de Presupuesto retiró del predictamen del crédito suplementario la disposición planteada por el Ejecutivo para que el pago de gratificación y CTS a los trabajadores CAS sea progresivo. El Ministerio de Econom...",
-    "date": "2026-06-26T22:04:45",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/gratificacion-2026-y-cts-a-trabajadores-cas-en-pausa-congreso-y-mef-lucha-por-definir-gradualidad-del-pago-noticia-1694908",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-canon-minero-mef-aprueba-indices-distribucion-para-gobiernos-regionales-y-locales-1081257.aspx",
-    "title": "Canon minero: MEF aprueba índices de distribución para gobiernos regionales y locales",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó los índices de distribución del canon minero proveniente del Impuesto a la Renta correspondiente al ejercicio fiscal 2025, que serán aplicados para la transferencia de es...",
-    "date": "2026-06-26T22:03:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-canon-minero-mef-aprueba-indices-distribucion-para-gobiernos-regionales-y-locales-1081257.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=443174",
-    "title": "Argentina: Avanza licitación para renovar sistema de seguridad en Puerto de Ushuaia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Agencia Nacional de Puertos y Navegación (Anpyn) de Argentina avanzó en el proceso licitatorio para\nLa entrada Argentina: Avanza licitación para renovar sistema de seguri...",
-    "date": "2026-06-26T22:00:47",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-avanza-licitacion-para-renovar-sistema-de-seguridad-en-puerto-de-ushuaia/",
     "category": "LOGÍSTICA"
   }
 ]
