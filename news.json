@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3137678",
+    "title": "Acti puts AI agents directly into your smartphone keyboard",
+    "snippet": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language....",
+    "date": "2026-06-30T17:52:46",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ford-ha-comprobado-que-ia-tiene-problema-calidad-su-solucion-volver-a-contratar-a-viejos-empleados",
+    "title": "Ford ha comprobado que la IA tiene un problema de calidad. Su solución: volver a contratar a viejos empleados",
+    "snippet": "Hace unos años, Ford se lanzó de cabeza a la automatización de su cadena de producción. Quería que sus sistemas de inteligencia artificial revisaran cada pieza y detectaran fallos antes de que el vehículo abandonara la f...",
+    "date": "2026-06-30T17:46:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ford-ha-comprobado-que-ia-tiene-problema-calidad-su-solucion-volver-a-contratar-a-viejos-empleados",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959657",
+    "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
+    "snippet": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola&#8217...",
+    "date": "2026-06-30T17:38:23",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/plena-ola-calor-extremo-franceses-se-han-puesto-a-pintar-sus-ventanas-tiza-blanca-tiene-todo-sentido",
+    "title": "En plena ola de calor extremo, los franceses se han puesto a pintar sus ventanas con tiza blanca. Tiene todo el sentido",
+    "snippet": "Sí, estamos en 2026. Sí, hay aires acondicionados, ventiladores efectivísimos, climatizadores e incluso pinturas ultra-blancas (literalmente) con tal capacidad de reflexión que ayudan a refrescar las superficies sobre la...",
+    "date": "2026-06-30T17:36:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/plena-ola-calor-extremo-franceses-se-han-puesto-a-pintar-sus-ventanas-tiza-blanca-tiene-todo-sentido",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=96403",
+    "title": "Solo tres distritos de Lima superan el 50 % de ejecución de obras",
+    "snippet": "A pocos días de culminar el primer semestre del año, el avance de la inversión pública en los municipios de Lima refleja un ritmo menor al esperado. De acuerdo con cifras del Ministerio de Economía y Finanzas (MEF), las ...",
+    "date": "2026-06-30T17:24:09",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/solo-tres-distritos-de-lima-superan-el-50-de-ejecucion-de-obras/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/15-anos-tubo-pvc-10-euros-construyo-generador-oceanico-decada-despues-sigue-despertando-interes-sector",
+    "title": "Con 15 años, un tubo de PVC y 10 euros construyó un generador oceánico. Una década después, sigue despertando el interés en el sector",
+    "snippet": "Corría el año 2015 cuando una estudiante de instituto de Boca Ratón, en Florida, presentó ante un jurado de científicos un prototipo construido con piezas que cualquiera podría encontrar en una ferretería. Su proyecto in...",
+    "date": "2026-06-30T17:16:59",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/15-anos-tubo-pvc-10-euros-construyo-generador-oceanico-decada-despues-sigue-despertando-interes-sector",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/creiamos-que-cansancio-diario-era-dormir-poco-ciencia-apunta-a-que-estamos-ignorando-ritmos-ultradianos",
+    "title": "Creíamos que el cansancio diario era por dormir poco: la ciencia apunta a que estamos ignorando los ritmos ultradianos",
+    "snippet": "Llevamos años escuchando hablar de los ritmos circadianos, y sabemos bien que la luz azul de las pantallas antes de dormir es mala o que la melatonina manda en la noche para poder inducir el sueño. Sin embargo, hay un se...",
+    "date": "2026-06-30T17:00:59",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/creiamos-que-cansancio-diario-era-dormir-poco-ciencia-apunta-a-que-estamos-ignorando-ritmos-ultradianos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-hasta-cuando-es-posible-hallar-sobrevivientes-tras-un-terremoto-bomberos-responden-1081653.aspx",
+    "title": "¿Hasta cuándo es posible hallar sobrevivientes tras un terremoto? Bomberos responden",
+    "snippet": "Las labores de búsqueda y rescate continúan en Venezuela tras los dos fuertes sismos registrados el pasado 24 de junio, y que han dejado más de 1,700 fallecidos, miles de damnificados y graves daños en infraestructura. E...",
+    "date": "2026-06-30T16:53:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-hasta-cuando-es-posible-hallar-sobrevivientes-tras-un-terremoto-bomberos-responden-1081653.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "CBMi9gFBVV95cUxPVk1GZThqeU9zUVJ6Ui11UVdYYy1VdUk3bjJYbVl6eFVZbzhTa19LYTJ3aTBGUHRtR1E2UGJacGJVZjFBUVhSa2NBY2VUQ3NfRGZkR3ktbm56al9TZDkzZzFwTjFsZGpFZjAza1V6VUE3VEUyVXBLVmh5MG9YVjFUSW5yY21GMUxza0tpUWoxbkstZWtWVU5jM1pfODNjTjUydG43QzAzeHNEcWF3YVZrT3lDSjZLRm1IN0hOS3RpdDd3TGtnUjBNbHpjN3RKLWUxdXlBRTlwdU44cFVZTU82WGY2QU4wbWxpaWJoSWQ1eVZVQTRhM2c",
+    "title": "Indecopi inicia consulta pública para mejorar reglas del comercio electrónico y frenar prácticas engañosas - gob.pe",
+    "snippet": "Indecopi inicia consulta pública para mejorar reglas del comercio electrónico y frenar prácticas engañosas  gob.pe...",
+    "date": "2026-06-30T16:32:06",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVk1GZThqeU9zUVJ6Ui11UVdYYy1VdUk3bjJYbVl6eFVZbzhTa19LYTJ3aTBGUHRtR1E2UGJacGJVZjFBUVhSa2NBY2VUQ3NfRGZkR3ktbm56al9TZDkzZzFwTjFsZGpFZjAza1V6VUE3VEUyVXBLVmh5MG9YVjFUSW5yY21GMUxza0tpUWoxbkstZWtWVU5jM1pfODNjTjUydG43QzAzeHNEcWF3YVZrT3lDSjZLRm1IN0hOS3RpdDd3TGtnUjBNbHpjN3RKLWUxdXlBRTlwdU44cFVZTU82WGY2QU4wbWxpaWJoSWQ1eVZVQTRhM2c?oc=5",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sunat-facilita-cambio-virtual-tipo-contribuyente-y-permite-registrar-contactos-1081651.aspx",
+    "title": "Sunat facilita cambio virtual de tipo de contribuyente y permite registrar contactos",
+    "snippet": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), mediante la Resolución de Superintendencia N° 121-2026/ Sunat, estableció importantes cambios en el RUC:...",
+    "date": "2026-06-30T16:31:12",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sunat-facilita-cambio-virtual-tipo-contribuyente-y-permite-registrar-contactos-1081651.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/timo-wangiri-solo-necesita-cosa-para-funcionar-tu-curiosidad",
+    "title": "El timo del Wangiri solo necesita una cosa para funcionar: tu curiosidad",
+    "snippet": "Alguien te llama al móvil de repente y cuelga enseguida, antes de que puedas reaccionar. Miras la pantalla y ves un número desconocido, así que inmediatamente te preguntas quién te llamaba y por qué. El impulso es a menu...",
+    "date": "2026-06-30T16:30:59",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/timo-wangiri-solo-necesita-cosa-para-funcionar-tu-curiosidad",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/frases-famosas-western-esta-pelicula-clint-eastwood-improviso-uno-sus-companeros",
+    "title": "Una de las frases más famosas del western está en una película de Clint Eastwood, pero la improvisó uno de sus compañeros",
+    "snippet": "Un actor que, a priori, no tenía que pronunciar ningún diálogo, pegó cuatro tiros y soltó una frase que sesenta años después se sigue citando en todas las historias del western. Pero esa frase no estaba en ningún guion. ...",
+    "date": "2026-06-30T16:16:59",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/frases-famosas-western-esta-pelicula-clint-eastwood-improviso-uno-sus-companeros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959264",
+    "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
+    "snippet": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sound, with a wide soundstage that impresse...",
+    "date": "2026-06-30T16:05:22",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/arabia-saudi-vuelve-a-carga-nuevo-edificio-futurista-observatorio-aspecto-alienigena-medio-desierto",
+    "title": "Arabia Saudí vuelve a la carga con un nuevo edificio futurista: un observatorio de aspecto alienígena en medio del desierto",
+    "snippet": "La vida es eso que pasa mientras Arabia Saudí levanta megaconstrucciones. O las planifica, mejor dicho, ya que en esa particular competición contra Emiratos Árabes, en estos momentos hay más sobre el plano de las ideas q...",
+    "date": "2026-06-30T16:00:59",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/arabia-saudi-vuelve-a-carga-nuevo-edificio-futurista-observatorio-aspecto-alienigena-medio-desierto",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gobierno-expresa-condolencias-a-arabia-saudita-fallecidos-accidente-helicoptero-1081643.aspx",
+    "title": "Gobierno expresa condolencias a Arabia Saudita por fallecidos en accidente de helicóptero",
+    "snippet": "El Perú, a través del Ministerio de Relaciones Exteriores, expresó hoy sus condolencias por los fallecidos en Arabia Saudita a causa de un accidente de helicóptero....",
+    "date": "2026-06-30T16:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-expresa-condolencias-a-arabia-saudita-fallecidos-accidente-helicoptero-1081643.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=443486",
+    "title": "Conecta Logística lanza primer informe de caracterización del sector logístico chileno",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Conecta Logística presentó el Radar Logístico de Chile, el primer informe de caracterización del sector logístico\nLa entrada Conecta Logística lanza primer informe de caract...",
+    "date": "2026-06-30T15:38:10",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/conecta-logistica-lanza-primer-informe-de-caracterizacion-del-sector-logistico-chileno/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137548",
+    "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+    "snippet": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own....",
+    "date": "2026-06-30T15:32:50",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/backrooms-va-a-volver-a-cines-version-15-minutos-larga-tiene-exito-puede-crear-peligroso-precedente",
+    "title": "'Backrooms' va a volver a los cines con una versión 15 minutos más larga. Si tiene éxito, tendremos un peligroso precedente",
+    "snippet": "'Backrooms' lleva recaudados 330 sorprendentes millones en cines con su primera versión en cines. Un momento: ¿primera? ¿Hay distintas versiones de 'Backrooms'? Ahora sí: cinco semanas después del estreno, su productora ...",
+    "date": "2026-06-30T15:30:59",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/backrooms-va-a-volver-a-cines-version-15-minutos-larga-tiene-exito-puede-crear-peligroso-precedente",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=443480",
     "title": "Puerto Ventanas enfatiza ventajas operativas para atender carga minera procedente de Argentina",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto Ventanas S.A. (PVSA) puso énfasis en sus ventajas operativas que ofrece como terminal para atender\nLa entrada Puerto Ventanas enfatiza ventajas operativas para atende...",
@@ -1186,167 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/nueva-oferta-flash-cada-48-horas-powerplanet-arranca-sus-power-days-descuentazos-moviles-teles-proyectores",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-2-000-anos-quisieron-levantar-templo-a-diosa-minerva-cuenca-acabaron-haciendolo-lugar-improbable",
-    "title": "Hace 2.000 años quisieron levantar un templo a la diosa Minerva en Cuenca. Acabaron haciéndolo en el lugar más improbable",
-    "snippet": "En una cantera uno espera encontrase básicamente operarios, maquinaria y bloques apilados. Es así hoy y probablemente era así (con las diferencias obvias) en tiempos del Imperio romano, cuando los canteros de Hispania ex...",
-    "date": "2026-06-29T13:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-2-000-anos-quisieron-levantar-templo-a-diosa-minerva-cuenca-acabaron-haciendolo-lugar-improbable",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/soy-totalmente-enemigo-vaso-congelado-ha-tenido-que-venir-gente-cruzcampo-a-explicarnos-como-se-bebe-cerveza",
-    "title": "\"Soy totalmente enemigo del vaso congelado\": ha tenido que venir la gente de Cruzcampo a explicarnos cómo se bebe la cerveza",
-    "snippet": "Hay pocas cosas más íntimamente ligadas al verano que el gesto de sacar del congelador un vaso cubierto de escarcha y llenarlo de cerveza. Y, sinceramente, es fascinante. No solo porque nadie tiene muy claro por qué ese ...",
-    "date": "2026-06-29T12:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/soy-totalmente-enemigo-vaso-congelado-ha-tenido-que-venir-gente-cruzcampo-a-explicarnos-como-se-bebe-cerveza",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-incendio-consume-almacen-plasticos-y-tuberias-avenida-colonial-1081500.aspx",
-    "title": "Incendio consume almacén de plásticos y tuberías en avenida Colonial",
-    "snippet": "Un total de 32 unidades del Cuerpo de Bomberos Voluntarios atiende este viernes un incendio de proporciones que consume un almacén de plásticos y tuberías PVC de unos 800 metros cuadrados ubicado en la cuadra 9 de la ave...",
-    "date": "2026-06-29T12:21:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-incendio-consume-almacen-plasticos-y-tuberias-avenida-colonial-1081500.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "ec061008-626e-49c4-8f5c-c2ea6d6520b8",
-    "title": "Your Home Router Was a Target of Russian Military Intelligence. Here's What to Do Now",
-    "snippet": "The FBI cut off Russian access to thousands of compromised US routers, but that fix is temporary without these five steps from individual device owners....",
-    "date": "2026-06-29T12:01:01",
-    "source": "CNET",
-    "url": "https://www.cnet.com/home/internet/russias-military-hackers-targeted-home-routers-across-23-states-heres-what-to-do/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2203612/rocket-lab-buys-satellite-company-iridium/",
-    "title": "Rocket Lab buys satellite company Iridium to go up against Starlink and Amazon's Leo",
-    "snippet": "Rocket Lab will own satellites connecting the most remote corners of the Earth....",
-    "date": "2026-06-29T12:00:32",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2203612/rocket-lab-buys-satellite-company-iridium/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-problema-no-tomar-cafe-necesitar-cinco-tazas-para-ser-funcional",
-    "title": "Los expertos coinciden: \"El problema no es tomar café, es necesitar cinco tazas para ser funcional\"",
-    "snippet": "Es la primera acción de la mañana para millones de personas, el motor de arranque de las oficinas, el compañero de los turnos de noche y el combustible de las épocas de exámenes. Durante mucho tiempo, el café ha estado e...",
-    "date": "2026-06-29T12:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-problema-no-tomar-cafe-necesitar-cinco-tazas-para-ser-funcional",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1695142",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 29 de junio del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy lunes 29 de junio es de  S/3.41 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-06-29T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-29-de-junio-del-2026-noticia-1695142",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/coca-cola-a-chips-luz-historica-familia-alta-sociedad-valenciana-apuesta-semiconductores-fotonicos",
-    "title": "De la Coca-Cola a los chips de luz: una histórica familia de la alta sociedad valenciana apuesta por los semiconductores fotónicos",
-    "snippet": "La saga valenciana que ha hecho parte de su fortuna embotellando refrescos da ahora un salto tecnológico: una fábrica de chips que usa luz en lugar de electrones, con casi 25 millones de dinero público.\nLa panorámica gen...",
-    "date": "2026-06-29T11:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/coca-cola-a-chips-luz-historica-familia-alta-sociedad-valenciana-apuesta-semiconductores-fotonicos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/todo-que-ha-fallado-europa-durante-esta-ola-calor-continente-acaba-darse-cuenta-que-sus-infraestructuras-viven-mundo-que-no-existe",
-    "title": "Todo lo que ha fallado en Europa durante esta ola de calor: el continente acaba de darse cuenta de que sus infraestructuras viven en un mundo que ya no existe",
-    "snippet": "Un remolcador acercándose a un puente levadizo holandés y regándolo con sus mangueras; tranvías parados en Leipzig, supermercados británicos sin productos refrigerados, carreteras derretidas... Parecen un puñado de anécd...",
-    "date": "2026-06-29T10:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/todo-que-ha-fallado-europa-durante-esta-ola-calor-continente-acaba-darse-cuenta-que-sus-infraestructuras-viven-mundo-que-no-existe",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/eeuu-se-ha-dado-cuenta-que-millones-trabajadores-no-tienen-futuro-ia-se-ha-puesto-manos-a-obra",
-    "title": "EEUU se ha dado cuenta de que millones de trabajadores no tienen futuro por la IA. Y se ha puesto manos a la obra",
-    "snippet": "Una pregunta lleva recorriendo los consejos de ministros y los principales foros económicos del mundo desde hace que ChatGPT mostró sus capacidades en noviembre de 2022. ¿Cuántos puestos de trabajo va a destruir la IA?\nE...",
-    "date": "2026-06-29T10:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/eeuu-se-ha-dado-cuenta-que-millones-trabajadores-no-tienen-futuro-ia-se-ha-puesto-manos-a-obra",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/pensamos-que-cuerpo-nos-pide-comer-ligero-verano-realidad-estamos-comprando-papeletas-para-desnutrirnos",
-    "title": "Pensamos que el cuerpo nos pide \"comer ligero\" en verano. En realidad, estamos comprando papeletas para desnutrirnos",
-    "snippet": "Cuando llega el verano, también llegan cambios de rutina importantes en nuestro día a día, más allá de 'ocultarnos' del sol achicharrante que estamos teniendo estos días. Y es que algo que seguramente ha pasado a mucha g...",
-    "date": "2026-06-29T09:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/pensamos-que-cuerpo-nos-pide-comer-ligero-verano-realidad-estamos-comprando-papeletas-para-desnutrirnos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo#0",
-    "title": "South Korea unveils $880bn chip and AI investment plan",
-    "snippet": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology....",
-    "date": "2026-06-29T08:55:29",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/lidl-vende-este-gadget-9-euros-que-sera-muy-util-durante-vacaciones-verano",
-    "title": "Lidl vende este gadget por menos de 9 euros y que será muy útil durante las vacaciones de verano",
-    "snippet": "Encontrar un dispositivo tecnológico que cumpla las tres 'B' (bueno, bonito y barato) es algo, cada vez, más difícil, pero Lidl parece haber dado en el clavo justo a tiempo para el inicio de las vacaciones. Ahora, puedes...",
-    "date": "2026-06-29T08:16:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/lidl-vende-este-gadget-9-euros-que-sera-muy-util-durante-vacaciones-verano",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/creiamos-que-habiamos-pasado-peor-crisis-memorias-estabamos-totalmente-equivocados",
-    "title": "Creíamos que habíamos pasado lo peor de la crisis de las memorias. Estábamos totalmente equivocados",
-    "snippet": "Un nuevo informe de la consultora Jefferies Equity Research pinta un panorama aún más terrible de lo que esperábamos para el futuro inmediato de la crisis de las memorias. Estos componentes ya han subido de precio de for...",
-    "date": "2026-06-29T08:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/creiamos-que-habiamos-pasado-peor-crisis-memorias-estabamos-totalmente-equivocados",
-    "category": "LEGAL"
-  },
-  {
-    "id": "6a3d49140bf55f5b8a303aa6",
-    "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-    "snippet": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work....",
-    "date": "2026-06-29T08:00:00",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/japon-ha-envejecido-que-jubilarse-no-aspiracion-cada-vez-personas-trabajan-70-anos",
-    "title": "Japón ha envejecido tanto que jubilarse ya no es una aspiración: cada vez más personas trabajan tras los 70 años",
-    "snippet": "La situación demográfica de Japón está obligando a gobierno y empresas a adaptar su normativa para mantener el equilibrio entre una masa laboral muy envejecida y una grave escasez de mano de obra joven que ha provocado d...",
-    "date": "2026-06-29T07:30:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/japon-ha-envejecido-que-jubilarse-no-aspiracion-cada-vez-personas-trabajan-70-anos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-peru-clasifica-a-esports-nations-cup-2026-valorant-tras-superar-las-clasificatorias-1081488.aspx",
-    "title": "Perú clasifica a la Esports Nations Cup 2026 en VALORANT tras superar las clasificatorias",
-    "snippet": "La selección peruana de VALORANT clasificó a la Esports Nations Cup (ENC) 2026 tras una destacada actuación en las clasificatorias regionales de Sudamérica disputadas este domingo. El equipo nacional aseguró uno de los d...",
-    "date": "2026-06-29T03:12:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-peru-clasifica-a-esports-nations-cup-2026-valorant-tras-superar-las-clasificatorias-1081488.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-consolida-despliegue-humanitario-venezuela-apoyo-a-damnificados-1081493.aspx",
-    "title": "Gobierno consolida despliegue humanitario en Venezuela en apoyo a damnificados",
-    "snippet": "Con el firme propósito de brindar asistencia a la República Bolivariana de Venezuela frente al impacto de los recientes sismos, el Gobierno nacional, a través de la Presidencia del Consejo de Ministros (PCM), impulsó la ...",
-    "date": "2026-06-29T02:13:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-consolida-despliegue-humanitario-venezuela-apoyo-a-damnificados-1081493.aspx",
-    "category": "MERCADO"
   }
 ]
