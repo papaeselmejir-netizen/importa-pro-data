@@ -1,5 +1,122 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-dia-del-maestro-convirtio-dolor-sus-padres-analfabetos-una-vocacion-video-1082434.aspx",
+    "title": "Día del Maestro: convirtió el dolor de sus padres analfabetos en una vocación [video]",
+    "snippet": "Acompañar a los hijos en las tareas escolares debería ser parte de la rutina de toda familia, pero esa no siempre es la realidad. Antonia Aguilar creció viendo que sus padres no sabían leer ni escribir y, desde muy peque...",
+    "date": "2026-07-06T19:33:36",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dia-del-maestro-convirtio-dolor-sus-padres-analfabetos-una-vocacion-video-1082434.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/navegadores-ia-llegaron-promesa-cambiarlo-todo-no-solo-no-han-hecho-peligro",
+    "title": "Los navegadores de IA llegaron con la promesa de cambiarlo todo. No solo no lo han hecho: son un peligro",
+    "snippet": "Los navegadores de inteligencia artificial no llegaron prometiendo una pestaña más lista ni un buscador con mejores respuestas. Llegaron con una ambición bastante mayor: OpenAI habla de acercarse a un “verdadero superasi...",
+    "date": "2026-07-06T19:30:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/navegadores-ia-llegaron-promesa-cambiarlo-todo-no-solo-no-han-hecho-peligro",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=444470",
+    "title": "Suecia: Boskalis y Van Oord se adjudican contrato de dragado para ampliación del Puerto de Lulea",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Boskalis y Van Oord se han adjudicado un contrato de dragado en el marco del proyecto\nLa entrada Suecia: Boskalis y Van Oord se adjudican contrato de dragado para ampliación...",
+    "date": "2026-07-06T19:30:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/suecia-boskalis-y-van-oord-se-adjudican-contrato-de-dragado-para-ampliacion-del-puerto-de-lulea/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-petroperu-culmina-fase-offshore-del-terminal-multiboyas-ii-refineria-talara-1082463.aspx",
+    "title": "Petroperú culmina fase offshore del Terminal Multiboyas II de Refinería Talara",
+    "snippet": "Petroperú anunció la culminación de la fase constructiva offshore (infraestructura ubicada en el mar) del proyecto Terminal Multiboyas II – Refinería Talara, correspondiente a una de las etapas más importantes de esta ob...",
+    "date": "2026-07-06T19:26:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-petroperu-culmina-fase-offshore-del-terminal-multiboyas-ii-refineria-talara-1082463.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/suiza-e-italia-acaban-resolver-problema-que-llevaba-decadas-solucion-meter-tren-hidrogeno-via-estrecha",
+    "title": "Suiza e Italia acaban de resolver un problema que llevaba décadas sin solución: meter un tren de hidrógeno en una vía estrecha",
+    "snippet": "Stadler y ARST han presentado en Erlen (Suiza) lo que ambas compañías describen como el primer tren de hidrógeno diseñado específicamente para circular por vías de ancho estrecho. La idea es que el convoy empiece a trans...",
+    "date": "2026-07-06T19:00:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/suiza-e-italia-acaban-resolver-problema-que-llevaba-decadas-solucion-meter-tren-hidrogeno-via-estrecha",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=444452",
+    "title": "Alemania: Scandlines habilita estación de carga eléctrica en Puerto de Puttgarden",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La nueva torre de carga en el Puerto de Puttgarden ya está lista para recibir los ferris\nLa entrada Alemania: Scandlines habilita estación de carga eléctrica en Puerto de Pu...",
+    "date": "2026-07-06T19:00:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/alemania-scandlines-habilita-estacion-de-carga-electrica-en-puerto-de-puttgarden/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-aprueban-56-bonos-s500-para-damnificados-lluvias-san-martin-1082452.aspx",
+    "title": "Aprueban 56 bonos de S/500 para damnificados por lluvias en San Martín",
+    "snippet": "Un total de 56 familias que perdieron sus viviendas a causa de las intensas lluvias en el distrito de San José de Sisa, provincia de El Dorado, región San Martín, recibirán el Bono de Arrendamiento de Vivienda para Emerg...",
+    "date": "2026-07-06T19:00:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-aprueban-56-bonos-s500-para-damnificados-lluvias-san-martin-1082452.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/vas-a-ver-eclipse-este-12-agosto-ciencia-te-necesita",
+    "title": "Si vas a ver el eclipse de este 12 de agosto, la ciencia te necesita",
+    "snippet": "La Generalitat de Cataluña, el Institut d’Estudis Espacials de Catalunya (IEEC) y el Vall d’Hebron Institut de Recerca (VHIR) acaban de anunciar una iniciativa de ciencia ciudadana dirigida a analizar cómo afecta un ecli...",
+    "date": "2026-07-06T18:30:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/vas-a-ver-eclipse-este-12-agosto-ciencia-te-necesita",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139204",
+    "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+    "snippet": "Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms  and is working on integration....",
+    "date": "2026-07-06T18:12:01",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/streaming/hoy-llega-a-netflix-obra-maestra-que-pasara-a-historia-enfoque-original-para-historia-ciencia-ficcion-unica",
+    "title": "Hoy llega a Netflix \"una obra maestra que pasará a la historia\", gracias a un enfoque original para una historia de ciencia ficción única",
+    "snippet": "Netflix acaba de estrenar 'Destellos del mañana', la primera serie que Kyoto Animation produce en exclusiva para la plataforma, y lo hace con un trasfondo ciertamente trágico: han pasado casi ocho años desde que el estud...",
+    "date": "2026-07-06T18:00:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/streaming/hoy-llega-a-netflix-obra-maestra-que-pasara-a-historia-enfoque-original-para-historia-ciencia-ficcion-unica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=444549",
+    "title": "Argentina: Presentan plan para potenciar Puerto de Santa Fe",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Gobierno de la Provincia de Santa Fe presentó el plan de obras para el Puerto\nLa entrada Argentina: Presentan plan para potenciar Puerto de Santa Fe se publicó primero en...",
+    "date": "2026-07-06T18:00:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/argentina-presentan-plan-para-potenciar-puerto-de-santa-fe/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-accidente-la-carretera-central-choque-deja-dos-heridos-y-obliga-a-restringir-transito-1082442.aspx",
+    "title": "Accidente en la Carretera Central: choque deja dos heridos y obliga a restringir tránsito",
+    "snippet": "Un violento accidente de tránsito se registró aproximadamente a las 05:20 horas de este lunes 6 de julio en el kilómetro 174 +900 de la Carretera Central, tramo Pasco–La Oroya, a la altura del distrito y provincia de Yau...",
+    "date": "2026-07-06T17:53:53",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-accidente-la-carretera-central-choque-deja-dos-heridos-y-obliga-a-restringir-transito-1082442.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-bombero-compara-rescate-una-persona-vida-con-milagro-un-parto-1082445.aspx",
+    "title": "Bombero compara el rescate de una persona con vida con el milagro de un parto",
+    "snippet": "Rescatar a una persona con vida bajo toneladas de concreto, después de 14 horas de trabajo ininterrumpido y en medio del riesgo constante de un nuevo colapso, es una experiencia que el brigadier del Cuerpo de Bomberos y ...",
+    "date": "2026-07-06T17:47:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-bombero-compara-rescate-una-persona-vida-con-milagro-un-parto-1082445.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://lacamara.pe/?p=96716",
     "title": "Pagos digitales marcan un récord en Perú",
     "snippet": "El Perú consolidó un fuerte avance en inclusión financiera tras registrar 665 pagos digitales per cápita al cierre de 2025, frente a solo 29 operaciones en 2018. Según cifras del Banco Central de Reserva del Perú (BCRP),...",
@@ -1230,123 +1347,6 @@
     "date": "2026-07-04T18:43:55",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-pesadez-al-comer-menestras-experto-revela-como-mejorar-digestion-1074890.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-francia-sufre-baja-tchouameni-para-enfrentar-a-paraguay-octavos-final-1082275.aspx",
-    "title": "Francia sufre la baja de TchouaménI para enfrentar a Paraguay por octavos de final",
-    "snippet": "El centrocampista de la selección francesa y del Real Madrid, Aurélien Tchouaméni, con molestias en el muslo, causa baja para el partido de octavos de final del Mundial 2026 contra Paraguay del sábado en Filadelfia, segú...",
-    "date": "2026-07-04T18:34:13",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-francia-sufre-baja-tchouameni-para-enfrentar-a-paraguay-octavos-final-1082275.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/estas-saturado-sal-a-dar-paseo-ciencia-confirma-que-movimiento-enciende-literalmente-tu-creatividad",
-    "title": "Si estás saturado, sal a dar un paseo: la ciencia confirma que el movimiento enciende literalmente tu creatividad",
-    "snippet": "Estar frente a una pantalla o ante un papel y necesitar que afloren las ideas es algo que para muchas personas es una necesidad imperiosa, pero el problema aquí es que a veces es algo completamente imposible. Pero la rea...",
-    "date": "2026-07-04T18:30:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/estas-saturado-sal-a-dar-paseo-ciencia-confirma-que-movimiento-enciende-literalmente-tu-creatividad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
-    "title": "How your smartwatch and AI might detect early signs of illness",
-    "snippet": "Wearables are best at noticing breaks from your body's usual patterns. Those outliers can hint that something warrants further investigation with your doctor....",
-    "date": "2026-07-04T18:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indecopi-verifica-informacion-y-precio-combustibles-grifos-a-nivel-nacional-1082273.aspx",
-    "title": "Indecopi verifica información y precio de combustibles en grifos a nivel nacional",
-    "snippet": "El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi), indicó que entre marzo y junio de este año, ejecutó 1,223 acciones de monitoreo en grifos a nivel nacional par...",
-    "date": "2026-07-04T18:24:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indecopi-verifica-informacion-y-precio-combustibles-grifos-a-nivel-nacional-1082273.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/dos-tumbas-5-000-anos-jabal-al-tayr-revelan-como-egipto-aprendio-a-construir-grandes-piramides",
-    "title": "Dos tumbas de 5.000 años en Jabal al-Tayr revelan cómo Egipto aprendió a construir las grandes pirámides",
-    "snippet": "Las pirámides del Antiguo Egipto siguen siendo un misterio miles de años después: ni tenemos claro cómo las hicieron (hay teorías que apuntan a rampas y una logística maestra a sistemas hidráulicos) ni cómo alcanzaron ta...",
-    "date": "2026-07-04T18:00:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/dos-tumbas-5-000-anos-jabal-al-tayr-revelan-como-egipto-aprendio-a-construir-grandes-piramides",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/dos-tumbas-5-000-anos-jabal-al-tayr-revelan-como-egipto-aprendio-a-construir-grandes-piramides",
-    "title": "El eslabón perdido de las grandes pirámides de Egipto está en dos tumbas de 5.000 años en Jabal al-Tayr",
-    "snippet": "Las pirámides del Antiguo Egipto siguen siendo un misterio miles de años después: ni tenemos claro cómo las hicieron (hay teorías que apuntan a rampas y una logística maestra a sistemas hidráulicos) ni cómo alcanzaron ta...",
-    "date": "2026-07-04T18:00:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/dos-tumbas-5-000-anos-jabal-al-tayr-revelan-como-egipto-aprendio-a-construir-grandes-piramides",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138980",
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "snippet": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
-    "date": "2026-07-04T18:00:05",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tumbes-huertos-escolares-fortalecen-servicio-alimentario-del-pae-a-mas-37-mil-alumnos-1082261.aspx",
-    "title": "Tumbes: Huertos escolares fortalecen servicio alimentario del PAE a más de 37 mil alumnos",
-    "snippet": "En el marco del Día del Maestro, el Programa de Alimentación Escolar (PAE) del Ministerio de Desarrollo e Inclusión Social (Midis) reconoció el rol fundamental de los docentes que integran los Comités de Alimentación Esc...",
-    "date": "2026-07-04T18:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tumbes-huertos-escolares-fortalecen-servicio-alimentario-del-pae-a-mas-37-mil-alumnos-1082261.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-callao-busca-hoy-record-guinness-con-clase-salsa-mas-grande-del-mundo-1081137.aspx",
-    "title": "Callao busca hoy el Record Guinness con la clase de salsa más grande del mundo",
-    "snippet": "Más de 1,830 participantes, principiantes o expertos, buscarán que el Perú ingrese al Guinness World Records con la “Clase de Salsa Más Grande del Mundo”, un desafío promovido por la Municipalidad Provincial del Callao q...",
-    "date": "2026-07-04T17:39:17",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-callao-busca-hoy-record-guinness-con-clase-salsa-mas-grande-del-mundo-1081137.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/expertos-apuntan-que-nos-faltan-arboles-olas-calor-cada-vez-frecuentes-podria-darse-importancia-al-arbolado-urbano",
-    "title": "Los expertos apuntan que nos faltan árboles: \"Con olas de calor cada vez más frecuentes, podría darse más importancia al arbolado urbano\"",
-    "snippet": "El asfalto irradia calor, el aire se vuelve denso y los termómetros se disparan, y cualquiera que haya caminado por una gran ciudad en pleno verano conoce la diferencia abismal entre cruzar una plaza de hormigón a pleno ...",
-    "date": "2026-07-04T17:30:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/expertos-apuntan-que-nos-faltan-arboles-olas-calor-cada-vez-frecuentes-podria-darse-importancia-al-arbolado-urbano",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
-    "title": "Tesla expands robotaxi service to small section of Miami",
-    "snippet": "The company's robotaxi roadmap mentions future expansions to Orlando and Tampa....",
-    "date": "2026-07-04T17:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/rin-se-esta-quedando-agua-olas-calor-eso-desastre-logistico-energetico-para-europa",
-    "title": "El Rin se está quedando sin agua por las olas de calor. Y eso es un desastre logístico y energético para Europa",
-    "snippet": "Una nueva ola de calor extremo está golpeando el corazón del continente europeo, y las consecuencias van mucho más allá de los récords en los termómetros o el hecho de ver vías de tranvía levantadas. El río Rin, la autop...",
-    "date": "2026-07-04T17:00:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/rin-se-esta-quedando-agua-olas-calor-eso-desastre-logistico-energetico-para-europa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "e5945e18-39c6-4b30-bf3d-6d564946626a",
-    "title": "I Love This Floating Anker Speaker, and It’s on Sale for Less Than $100 This Fourth of July",
-    "snippet": "The rugged Boom 3I looks and sounds great, and you can snag it for $35 off right now at Amazon, as long as you like the color green....",
-    "date": "2026-07-04T16:57:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/deals/anker-soundcore-boom-3i-deal/",
     "category": "MERCADO"
   }
 ]
