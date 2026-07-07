@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.xataka.com/magnet/todos-sabemos-que-verde-para-avanzar-semaforos-japon-que-defiende-que-verde-realidad-azul-1",
+    "title": "Todos sabemos que el verde es para avanzar en los semáforos. Menos Japón, que defiende que el verde es en realidad azul",
+    "snippet": "Hace tiempo contamos una historia fascinante que tenía a los semáforos y a China como protagonistas. Resulta que Pekín trató de cambiar el color de estos dispositivos claves para el tráfico porque usar el rojo para “para...",
+    "date": "2026-07-07T07:30:39",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/todos-sabemos-que-verde-para-avanzar-semaforos-japon-que-defiende-que-verde-realidad-azul-1",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo#0",
+    "title": "Samsung profits jump 1,800% as AI chip sales soar",
+    "snippet": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance....",
+    "date": "2026-07-07T07:28:10",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-ejercicio-fisico-regular-marca-diferencia-para-dejar-fumar",
+    "title": "Los expertos coinciden: “El ejercicio físico regular marca la diferencia para dejar de fumar”",
+    "snippet": "Intentar dejar de fumar puede ser desesperante. Hay quien prueba todo, desde la medicación hasta la terapia psicológica, pero no consigue dejarlo por completo. Por eso, aunque esas dos suelen ser las soluciones más exito...",
+    "date": "2026-07-07T07:00:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-ejercicio-fisico-regular-marca-diferencia-para-dejar-fumar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia",
+    "title": "“Claude ha desarrollado un mecanismo para el acceso consciente”: Anthropic acaba de abrir una grieta en la caja negra de la IA",
+    "snippet": "Estamos acostumbrados a pensar que quien construye algo sabe explicar cómo funciona por dentro. Un motor, un procesador, una pieza de software: puede haber complejidad, capas y decisiones técnicas difíciles de seguir, pe...",
+    "date": "2026-07-07T06:30:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-empresa-calzado-arequipa-a-traves-procompite-recibio-modernas-maquinas-1082538.aspx",
+    "title": "Empresa de calzado de Arequipa a través de Procompite recibió modernas máquinas",
+    "snippet": "La empresa de calzado de Arequipa recibió 36 modernas máquinas del fondo concursable Procompite Tecnológico de la Gerencia Regional de la Producción, cuyo objetivo es cofinanciar iniciativas que promuevan la productivida...",
+    "date": "2026-07-07T04:37:40",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-empresa-calzado-arequipa-a-traves-procompite-recibio-modernas-maquinas-1082538.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=444521",
+    "title": "España: Puerto de Santander renueva flota vehicular de la Policía Portuaria",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Santander (España) renovó la flota de vehículos del servicio de la Policía Portuaria.\nLa entrada España: Puerto de Santander renueva flota vehicular de la Polic...",
+    "date": "2026-07-07T04:00:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/espana-puerto-de-santander-renueva-flota-vehicular-de-la-policia-portuaria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-amazonas-fortalece-atencion-a-primera-infancia-junto-con-programa-cuna-mas-1082535.aspx",
+    "title": "Amazonas fortalece atención a la primera infancia junto con el Programa Cuna Más",
+    "snippet": "Con el objetivo de fortalecer la atención integral de niñas y niños menores de 36 meses, el Gobierno Regional de Amazonas suscribió un convenio de cooperación interinstitucional con el Programa Nacional Cuna Más, orienta...",
+    "date": "2026-07-07T03:59:41",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-amazonas-fortalece-atencion-a-primera-infancia-junto-con-programa-cuna-mas-1082535.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=444610",
     "title": "Puerto de Itaqui refuerza alianza con IAPorts para impulsar innovación portuaria",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Itaqui recibió la visita de la Asociación Internacional para el Desarrollo Portuario (IAPorts),\nLa entrada Puerto de Itaqui refuerza alianza con IAPorts para im...",
@@ -42,6 +105,15 @@
     "date": "2026-07-07T03:00:00",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-inundaciones-tifon-maysak-dejan-dos-muertos-y-55-000-afectados-el-sur-china-1082519.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-inundaciones-tifon-maysak-y-tormentas-dejan-10-muertos-y-55-000-afectados-china-1082519.aspx",
+    "title": "Inundaciones por tifón Maysak y tormentas dejan 10 muertos y 55 000 afectados en China",
+    "snippet": "Diez fallecidos, una persona desaparecida y alrededor de 55 000 afectados han dejado lluvias torrenciales y tormentas eléctricas en la región china de Guangxi y el este de la provincia central china de Hubei, informó hoy...",
+    "date": "2026-07-07T03:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inundaciones-tifon-maysak-y-tormentas-dejan-10-muertos-y-55-000-afectados-china-1082519.aspx",
     "category": "MERCADO"
   },
   {
@@ -1276,77 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-multitudinario-asi-recibio-cabo-verde-a-vozinha-y-a-sus-heroes-del-mundial-2026-1082324.aspx",
-    "title": "Multitudinario: Así recibió Cabo Verde a Vozinha y a sus héroes del Mundial 2026",
-    "snippet": "Una numerosa expedición de aficionados y medios de comunicación recibió este domingo en el Aeropuerto Nelson Mandela de Praia a la selección de fútbol de Cabo Verde tras su histórica participación en el Mundial 2026, don...",
-    "date": "2026-07-05T15:56:33",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-multitudinario-asi-recibio-cabo-verde-a-vozinha-y-a-sus-heroes-del-mundial-2026-1082324.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://lacamara.pe/?p=96696",
-    "title": "Conoce las nuevas disposiciones sobre el RUC establecidas por Sunat",
-    "snippet": "La reciente Resolución de Superintendencia N.° 000121-2026/SUNAT ha subrayado la relevancia del Registro Único de Contribuyentes (RUC). Esta norma establece la obligatoriedad de registrar y validar un correo electrónico ...",
-    "date": "2026-07-05T15:54:03",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/sunat-conoce-las-nuevas-disposiciones-sobre-el-ruc/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/asientos-avion-te-parecen-incomodos-espera-a-ver-primeros-eran-sillas-mimbre",
-    "title": "Si los asientos de avión te parecen incómodos, espera a ver los primeros: eran sillas de mimbre",
-    "snippet": "Como usuaria eterna de la clase turista cuando viajo en avión, mis pequeños placeres se limitan a intentar librarme el maldito asiento de en medio en favor de poder estirar el pie en el pasillo o ver el cielo en ventana,...",
-    "date": "2026-07-05T15:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/asientos-avion-te-parecen-incomodos-espera-a-ver-primeros-eran-sillas-mimbre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2205909/fastest-charging-speed-ipad-iphone-port/",
-    "title": "What's the fastest charging speed your iPad or iPhone port can handle?",
-    "snippet": "Here's how to find out whether you're charging your Apple mobile devices at top speed....",
-    "date": "2026-07-05T15:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2205909/fastest-charging-speed-ipad-iphone-port/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/buscaban-mosquito-virus-nilo-marismas-donana-encontraron-cuatro-tipos-moscas-que-chupan-sangre",
-    "title": "Buscaban el mosquito del virus del Nilo en las marismas de Doñana. Encontraron cuatro tipos de moscas que chupan sangre",
-    "snippet": "La historia de hoy empieza en una trampa en el corazón de las marismas del Guadalquivir. Una trampa y un sospechoso. Y, a priori, no debería sorprender a nadie que aquí haya una historia: el dispositivo forma parte de la...",
-    "date": "2026-07-05T15:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/buscaban-mosquito-virus-nilo-marismas-donana-encontraron-cuatro-tipos-moscas-que-chupan-sangre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-arroyo-invoca-a-sectores-del-ejecutivo-a-redoblar-esfuerzos-para-desarrollo-chancay-1082320.aspx",
-    "title": "Arroyo invoca a sectores del Ejecutivo a redoblar esfuerzos para el desarrollo de Chancay",
-    "snippet": "El presidente del Consejo de Ministros, Luis Arroyo Sánchez, invocó a los equipos técnicos que integran el Consejo Directivo de la Autoridad Nacional Autónoma para el Desarrollo Estratégico e Integral del Terminal Portua...",
-    "date": "2026-07-05T14:45:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-arroyo-invoca-a-sectores-del-ejecutivo-a-redoblar-esfuerzos-para-desarrollo-chancay-1082320.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/gigantesco-airbag-espacial-400-toneladas-para-salvar-a-tierra-propuesta-ciencia-frente-a-supertormentas-solares",
-    "title": "Un gigantesco \"airbag\" espacial de 400 toneladas para salvar a la Tierra: la propuesta de la ciencia frente a las supertormentas solares",
-    "snippet": "Nuestra civilización es adicta a la electricidad y a los satélites, y esta dependencia nos ha otorgado un progreso tecnológico sin precedentes, pero también nos ha dejado expuestos a un enemigo silencioso y colosal como ...",
-    "date": "2026-07-05T14:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/gigantesco-airbag-espacial-400-toneladas-para-salvar-a-tierra-propuesta-ciencia-frente-a-supertormentas-solares",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/nueva-sensacion-editorial-mundo-puzles-mezcla-sudokus-cluedo-esta-arrasando-va-17-edicion",
-    "title": "La nueva sensación editorial en el mundo de los puzles mezcla sudokus y Cluedo. Y está arrasando: ya va por la 17 edición",
-    "snippet": "El sudoku llegó a la prensa occidental en noviembre de 2004 y desde entonces ningún formato nuevo de papel-y-lápiz ha replicado su alcance global. Manuel Garand, creador de puzzles de Montreal cuyos acertijos han llegado...",
-    "date": "2026-07-05T14:01:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/nueva-sensacion-editorial-mundo-puzles-mezcla-sudokus-cluedo-esta-arrasando-va-17-edicion",
-    "category": "TRIBUTARIO"
   }
 ]
