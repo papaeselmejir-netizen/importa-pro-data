@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-callao-inician-obras-cimentacion-de-estructura-principal-del-puente-santa-rosa-1082679.aspx",
+    "title": "Callao: inician obras de cimentación de la estructura principal del puente Santa Rosa",
+    "snippet": "El Ministerio de Transportes y Comunicaciones, a través de Provías Nacional, dio inicio a los trabajos de cimentación profunda del Puente Santa Rosa, uno de los proyectos de infraestructura vial más importantes del país,...",
+    "date": "2026-07-08T04:06:42",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-callao-inician-obras-cimentacion-de-estructura-principal-del-puente-santa-rosa-1082679.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-indecopi-participa-asamblea-internacional-para-impulsar-propiedad-intelectual-1082659.aspx",
+    "title": "Indecopi participa en asamblea internacional para impulsar la propiedad intelectual",
+    "snippet": "El presidente ejecutivo del Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi), Juan Carlos Del Prado Ponce, participó en la sesión inaugural de la 68ª serie de reun...",
+    "date": "2026-07-08T04:00:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-indecopi-participa-asamblea-internacional-para-impulsar-propiedad-intelectual-1082659.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=444779",
+    "title": "Maersk suprime escala a Port Elizabeth en servicio X4A por problemas operativos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Maersk anunció que, tras evaluar los problemas operativos actuales en la terminal de contenedores de Port\nLa entrada Maersk suprime escala a Port Elizabeth en servicio X4A p...",
+    "date": "2026-07-08T03:00:15",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/maersk-suprime-escala-a-port-elizabeth-en-servicio-x4a-por-problemas-operativos/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-china-deslizamiento-tierra-deja-21-muertos-tras-concluir-busqueda-1082660.aspx",
     "title": "China: deslizamiento de tierra deja 21 muertos tras concluir búsqueda",
     "snippet": "El deslizamiento de tierra que tuvo lugar este martes en la provincia noroccidental china de Gansu ha provocado la muerte de 21 personas, informó la agencia estatal \"Xinhua\" este miércoles tras la finalización de las ope...",
@@ -33,6 +60,15 @@
     "date": "2026-07-08T01:30:00",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-indecopi-participa-asamblea-general-de-ompi-para-impulsar-propiedad-intelectual-1082654.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "0be6148b-db7b-4574-80c8-be0cda019447",
+    "title": "Google and the FBI Target Massive Botnet That Quietly Used Home Devices to Mask Cybercrime",
+    "snippet": "Millions of low-cost, off-brand Android devices were hijacked to help criminals hide online....",
+    "date": "2026-07-08T01:09:31",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/google-fbi-target-netnut-botnet-smart-home-devices-mask-cybercrime-hackers/",
     "category": "MERCADO"
   },
   {
@@ -1312,41 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/hd-hyundai-samho-entrega-penultima-unidad-de-serie-de-buques-propulsados-por-metanol-para-cma-cgm/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=961895",
-    "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
-    "snippet": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven&#8217;t assembled, Hoto&#8217;s PixelDrive cordless screwdriver can help speed up the process. It&#8217;s currently...",
-    "date": "2026-07-06T20:24:28",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ayacucho-declaratoria-como-aeropuerto-internacional-impulsara-turismo-y-economia-regional-1082469.aspx",
-    "title": "Ayacucho: declaratoria como aeropuerto internacional impulsará turismo y economía regional",
-    "snippet": "Ayacucho se prepara para dar un salto clave en su desarrollo económico y turístico tras la oficialización de su principal terminal aéreo como aeropuerto internacional. La medida, dispuesta por el Ministerio de Transporte...",
-    "date": "2026-07-06T20:09:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ayacucho-declaratoria-como-aeropuerto-internacional-impulsara-turismo-y-economia-regional-1082469.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=444551",
-    "title": "Armador no operador Nissen Kaiun recibe al Maersk Tokyo de 8.906 TEU",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El armador no operador (NOO) japonés Nissen Kaiun recibió al nuevo portacontenedores Maersk Tokyo de 8.906\nLa entrada Armador no operador Nissen Kaiun recibe al Maersk Tokyo...",
-    "date": "2026-07-06T20:00:29",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/armador-no-operador-nissen-kaiun-recibe-al-maersk-tokyo-de-8-906-teu/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dia-del-maestro-convirtio-dolor-sus-padres-analfabetos-una-vocacion-video-1082434.aspx",
-    "title": "Día del Maestro: convirtió el dolor de sus padres analfabetos en una vocación [video]",
-    "snippet": "Acompañar a los hijos en las tareas escolares debería ser parte de la rutina de toda familia, pero esa no siempre es la realidad. Antonia Aguilar creció viendo que sus padres no sabían leer ni escribir y, desde muy peque...",
-    "date": "2026-07-06T19:33:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dia-del-maestro-convirtio-dolor-sus-padres-analfabetos-una-vocacion-video-1082434.aspx",
-    "category": "MERCADO"
   }
 ]
