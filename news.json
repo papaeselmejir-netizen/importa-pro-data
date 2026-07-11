@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.xataka.com/espacio/china-ha-llegado-al-asteroide-que-lleva-decada-volviendo-locos-a-astronomos-su-primera-foto-esta-cambiando-respuesta",
+    "title": "China ha llegado al asteroide que lleva una década volviendo locos a los astrónomos. Y su primera foto ya está cambiando la respuesta",
+    "snippet": "Tras 400 días de viaje, la sonda china Tianwen-2 ha llegado a su objetivo: el objeto 469219 Kamo‘oalewa (2016HO3). Toda la comunidad astronómica mundial tiene la vista puesta en este viaje, por las respuestas que puede b...",
+    "date": "2026-07-11T14:31:57",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/china-ha-llegado-al-asteroide-que-lleva-decada-volviendo-locos-a-astronomos-su-primera-foto-esta-cambiando-respuesta",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/reino-unido-tiene-fama-nublado-no-cielo-gris-europa-mapa-nasa-que-reune-25-anos-nubes",
+    "title": "El Reino Unido tiene fama de nublado, pero no es el cielo más gris de Europa: el mapa de la NASA que reúne 25 años de nubes",
+    "snippet": "Si tiramos de tópicos típicos con las ciudades europeas, Sevilla es la ciudad del sol y Londres la de la lluvia y nubes, pero unos se llevan la fama y otros cardan la lana. Si la pregunta es ¿dónde hay más nubes en Europ...",
+    "date": "2026-07-11T14:01:57",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/reino-unido-tiene-fama-nublado-no-cielo-gris-europa-mapa-nasa-que-reune-25-anos-nubes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=445465",
+    "title": "Exportaciones de automóviles de China superan los 5 millones de unidades en primer semestre",
+    "snippet": "Por Redacción PortalPortuario / Agencia ECNS @PortalPortuario Las exportaciones de automóviles de China alcanzaron los 5,1 millones de unidades en\nLa entrada Exportaciones de automóviles de China superan los 5 millones d...",
+    "date": "2026-07-11T14:00:19",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/exportaciones-de-automoviles-de-china-superan-los-5-millones-de-unidades-en-primer-semestre/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2212709/engadget-review-recap-steam-machine-samsung-music-studio-7/",
+    "title": "Engadget review recap: Steam Machine, Samsung Music Studio 7, Oura Ring 5 and more",
+    "snippet": "A roundup of recent reviews published by Engadget....",
+    "date": "2026-07-11T14:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2212709/engadget-review-recap-steam-machine-samsung-music-studio-7/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-scaloni-niega-que-arbitraje-favorezca-a-argentina-el-mundial-2026-1083169.aspx",
+    "title": "Scaloni niega que el arbitraje favorezca a Argentina en el Mundial 2026",
+    "snippet": "El seleccionador Lionel Scaloni rechazó los reclamos de que Argentina ha sido favorecida por los arbitrajes durante el Mundial 2026 y afirmó que sus jugadores usan este tipo de críticas para \"rebelarse\"....",
+    "date": "2026-07-11T13:55:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-scaloni-niega-que-arbitraje-favorezca-a-argentina-el-mundial-2026-1083169.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/costas-andaluzas-se-estan-llenando-alga-invasora-resulta-que-util-para-algo-hacer-pescado-saludable",
+    "title": "Las costas andaluzas se están llenando de un alga invasora. Resulta que es útil para algo: hacer el pescado más saludable",
+    "snippet": "Si en el Mediterráneo es el langostino café el que causa quebraderos de cabeza a pescadores y ecologistas, en los alrededores del Estrecho de Gibraltar hay otra especie invasora que está causando estragos, el alga asiáti...",
+    "date": "2026-07-11T13:31:57",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/costas-andaluzas-se-estan-llenando-alga-invasora-resulta-que-util-para-algo-hacer-pescado-saludable",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2211948/samsung-gallery-no-longer-syncing-microsoft-onedrive-september-2026/",
+    "title": "Your Samsung Gallery won't be able to sync with Microsoft OneDrive soon",
+    "snippet": "Your photos don't have to go home, but they can't stay here....",
+    "date": "2026-07-11T13:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2211948/samsung-gallery-no-longer-syncing-microsoft-onedrive-september-2026/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/regla-dos-dedos-para-crema-solar-no-falla-esta-experta-ha-llevado-al-siguiente-nivel",
     "title": "La regla de los dos dedos para la crema solar no falla, pero esta experta la ha llevado al siguiente nivel",
     "snippet": "A estas alturas de la película, todos tenemos clara la importancia de usar protector solar. Bueno, quizás todos menos Marcos Llorente. La cuestión es que, por mucho que entendamos que debemos protegernos de las radiacion...",
@@ -7,6 +70,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/regla-dos-dedos-para-crema-solar-no-falla-esta-experta-ha-llevado-al-siguiente-nivel",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "f01a3252-8f5d-4911-b566-b1215601be84",
+    "title": "I Tested Baseus' Incredibly Thin New Wireless Portable Charger. Is It the One to Get?",
+    "snippet": "Baseus' new 0.27-inch-thick PicoGo Air AM71 is a wireless magnetic power bank for iOS and Android phones. Here are my thoughts, along with a $30-off CNET-exclusive discount code....",
+    "date": "2026-07-11T13:01:16",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/baseus-picogo-air-am71-power-bank-review/",
+    "category": "MERCADO"
   },
   {
     "id": "https://portalportuario.cl/?p=445378",
@@ -1275,78 +1347,6 @@
     "date": "2026-07-10T07:00:19",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/paises-bajos-consejo-de-ministros-aprueba-financiacion-de-nuevo-muelle-en-eemshaven/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445181",
-    "title": "Italia: Inspeccionan obras de nuevo rompeolas de Puerto de Génova",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El ministro de Asuntos Europeos, el PNRR y las Políticas de Cohesión del Gobierno italiano, Tommaso\nLa entrada Italia: Inspeccionan obras de nuevo rompeolas de Puerto de Gén...",
-    "date": "2026-07-10T04:00:26",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/italia-inspeccionan-obras-de-nuevo-rompeolas-de-puerto-de-genova/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445173",
-    "title": "Puerto de Heraklion recibe por primera vez al Silver Nova",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Heraklion recibió por primera vez al Silver Nova. Por este motivo, se celebró a\nLa entrada Puerto de Heraklion recibe por primera vez al Silver Nova se publicó ...",
-    "date": "2026-07-10T03:30:39",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-heraklion-recibe-por-primera-vez-al-silver-nova/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-arequipa-busca-posicionarse-como-capital-del-turismo-aventura-sudamerica-1082991.aspx",
-    "title": "Arequipa busca posicionarse como la capital del turismo de aventura en Sudamérica",
-    "snippet": "La región Arequipa busca posicionarse como la capital del turismo de aventura en Sudamérica con la carrera de montaña Misti Ultra Summit 2026, competencia internacional de \"trail running\" y \"skyrunning\" que desafiará a d...",
-    "date": "2026-07-10T03:09:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-arequipa-busca-posicionarse-como-capital-del-turismo-aventura-sudamerica-1082991.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445143",
-    "title": "Rusia prevé poner en marcha un centro logístico comercial en puerto sirio de Tartús",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Rusia espera tener en funcionamiento, a mediados de julio de 2026, un centro logístico comercial\nLa entrada Rusia prevé poner en marcha un centro logístico c...",
-    "date": "2026-07-10T03:00:13",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/rusia-preve-poner-en-marcha-un-centro-logistico-comercial-en-puerto-sirio-de-tartus/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445230",
-    "title": "Grecia: Nuevo Neptune Pireas hace escala inaugural a Puerto de El Pireo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El buque Neptune Pireas llegó al Puerto de El Pireo con su escala inaugural, marcando un\nLa entrada Grecia: Nuevo Neptune Pireas hace escala inaugural a Puerto de El Pireo s...",
-    "date": "2026-07-10T02:30:39",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/grecia-nuevo-neptune-pireas-hace-escala-inaugural-a-puerto-de-el-pireo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gratificacion-julio-los-cinco-errores-planillas-mas-les-cuestan-a-las-empresas-1082976.aspx",
-    "title": "Gratificación de julio: los cinco errores en planillas que más les cuestan a las empresas",
-    "snippet": "Con la llegada de julio, miles de empresas en el Perú se preparan para cumplir con el pago de las gratificaciones, uno de los beneficios laborales más importantes del año. Sin embargo, en esta temporada también aumentan ...",
-    "date": "2026-07-10T02:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gratificacion-julio-los-cinco-errores-planillas-mas-les-cuestan-a-las-empresas-1082976.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-y-mincul-se-unen-contra-racismo-paraderos-corredores-azul-rojo-y-morado-1082983.aspx",
-    "title": "ATU y Mincul se unen contra el racismo en paraderos de corredores  Azul, Rojo y Morado",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) y el Ministerio de Cultura iniciaron hoy la campaña #ViajaConRespeto en los corredores complementarios, que busca prevenir el racismo y la discriminación, además...",
-    "date": "2026-07-10T02:12:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-y-mincul-se-unen-contra-racismo-paraderos-corredores-azul-rojo-y-morado-1082983.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445184",
-    "title": "España: Puertos del Estado lanza guía para impulsar integración segura de drones en recintos portuarios",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puertos del Estado presentó la guía para el uso y aplicación de sistemas de aeronaves no\nLa entrada España: Puertos del Estado lanza guía para impulsar integración segura de...",
-    "date": "2026-07-10T02:00:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/espana-puertos-del-estado-lanza-guia-para-impulsar-integracion-segura-de-drones-en-recintos-portuarios/",
     "category": "LOGÍSTICA"
   }
 ]
