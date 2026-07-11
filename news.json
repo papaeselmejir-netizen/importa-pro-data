@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-erm-2026-jne-precisa-recursos-exigidos-solo-son-para-realizar-comicios-subnacionales-1083148.aspx",
+    "title": "ERM 2026: JNE precisa que recursos exigidos solo son para realizar comicios subnacionales",
+    "snippet": "El Jurado Nacional de Elecciones (JNE) informó que los recursos solicitados al Ministerio de Economía y Finanzas (MEF) responden exclusivamente a las necesidades previstas para la organización y el desarrollo de las elec...",
+    "date": "2026-07-11T04:22:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-erm-2026-jne-precisa-recursos-exigidos-solo-son-para-realizar-comicios-subnacionales-1083148.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iiap-capacita-a-especialistas-devida-para-fortalecer-produccion-amazonica-1083151.aspx",
+    "title": "IIAP capacita a especialistas de Devida para fortalecer la producción amazónica",
+    "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad del Ministerio del Ambiente, capacitó a 22 especialistas de la Comisión Nacional para el Desarrollo y Vida sin Drogas (Devida) en el manejo de la mos...",
+    "date": "2026-07-11T03:43:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iiap-capacita-a-especialistas-devida-para-fortalecer-produccion-amazonica-1083151.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=445519",
+    "title": "Canadá: Modificación estructural aumentará capacidad de exportación del Terminal Fraser Surrey",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Una modificación en el acceso fluvial al Terminal Fraser Surrey del Puerto de Vancouver (Canadá) permitirá\nLa entrada Canadá: Modificación estructural aumentará capacidad de...",
+    "date": "2026-07-11T03:32:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/canada-modificacion-estructural-aumentara-capacidad-de-exportacion-del-terminal-fraser-surrey/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-11-julio",
     "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 11 de julio",
     "snippet": "Este fin de semana vuelven las restricciones del Hoy No Circula en su edición de fin de semana, ese proyecto ideado por la Secretaría de Medio Ambiente de la Ciudad de México (SEDEMA) con el objetivo de reducir los nivel...",
@@ -339,6 +366,15 @@
     "date": "2026-07-10T17:31:35",
     "source": "THE VERGE",
     "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1696465",
+    "title": "MEF oficializa aguinaldo de S/300: trabajadores CAS dejan de recibir el beneficio y la gratificación podría acabar en tribunales",
+    "snippet": "El Gobierno oficializó el aguinaldo de S/300 por Fiestas Patrias para diversos regímenes del sector público. Los trabajadores CAS quedaron excluidos porque ahora les corresponde una gratificación, aunque la falta de pres...",
+    "date": "2026-07-10T17:30:44",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/aguinaldo-de-fiestas-patrias-2026-quienes-reciben-cuando-pagan-y-que-pasara-con-trabajadores-cas-noticia-1696465",
     "category": "MERCADO"
   },
   {
@@ -1311,42 +1347,6 @@
     "date": "2026-07-09T21:59:19",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-venezuela-sube-a-3889-cifra-fallecidos-por-doble-sismo-del-24-junio-1082943.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140802",
-    "title": "Can AI answer the $3 trillion question?",
-    "snippet": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences....",
-    "date": "2026-07-09T21:47:50",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-marca-peru-suma-3-nuevos-aliados-estrategicos-cusco-para-fortalecer-promocion-del-pais-1082940.aspx",
-    "title": "Marca Perú suma 3 nuevos aliados estratégicos en Cusco para fortalecer promoción del país",
-    "snippet": "Promperú realizó una jornada de actividades en la ciudad del Cusco en la que entregó la Licencia de Uso de la Marca Perú a la Corporación Peruana de Aeropuertos y Aviación Comercial (Corpac), Apu Kuntur Alpaca e Inversio...",
-    "date": "2026-07-09T21:44:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-marca-peru-suma-3-nuevos-aliados-estrategicos-cusco-para-fortalecer-promocion-del-pais-1082940.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-trabajadores-indecopi-agradecen-a-rospigliosi-apoyo-a-dictamen-nueva-escala-salarial-1082938.aspx",
-    "title": "Trabajadores de Indecopi agradecen a Rospigliosi apoyo a dictamen de nueva escala salarial",
-    "snippet": "El Sindicato de Trabajadores del Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) sujetos al régimen laboral del Decreto Legislativo 728, agradeció el apoyo del pr...",
-    "date": "2026-07-09T21:31:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-trabajadores-indecopi-agradecen-a-rospigliosi-apoyo-a-dictamen-nueva-escala-salarial-1082938.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-credito-suplementario-tuvo-sustento-tecnico-y-preserva-sostenibilidad-fiscal-1082941.aspx",
-    "title": "MEF: crédito suplementario tuvo sustento técnico y preserva sostenibilidad fiscal",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) acreditó que el Proyecto de Ley N.° 14799/2025-PE, que autoriza un crédito suplementario por hasta 9,596 millones de soles, siempre contó con el debido sustento técnico para su ...",
-    "date": "2026-07-09T21:30:28",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-credito-suplementario-tuvo-sustento-tecnico-y-preserva-sostenibilidad-fiscal-1082941.aspx",
     "category": "MERCADO"
   }
 ]
