@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mtc-impulsa-elaboracion-planes-movilidad-urbana-sostenible-varias-ciudades-1083318.aspx",
+    "title": "MTC impulsa elaboración de Planes de Movilidad Urbana Sostenible en varias ciudades",
+    "snippet": "La elaboración de los Planes de Movilidad Urbana Sostenible (PMUS) en diversas ciudades del país, sigue impulsando el Ministerio de Transportes y Comunicaciones (MTC), a través del Programa Nacional de Transporte Urbano ...",
+    "date": "2026-07-12T22:10:05",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mtc-impulsa-elaboracion-planes-movilidad-urbana-sostenible-varias-ciudades-1083318.aspx",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-estudiantes-lima-ancash-y-trujillo-escriben-suplemento-cronica-universitaria-1083315.aspx",
     "title": "Estudiantes de Lima, Áncash y Trujillo escriben en suplemento “La Crónica Universitaria”",
     "snippet": "El número 18 del suplemento La Crónica Universitaria (LCU) ofrece historias escritas por estudiantes universitarios que nos brindan una mirada sobre las artes y la realidad educativa del país....",
@@ -1339,14 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445362",
-    "title": "Puerto de Rotterdam recibe la recalada inaugural del CMA CGM Notre Dame",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El CMA CGM Notre Dame realizó su primera escala en el Puerto de Rotterdam. Este buque\nLa entrada Puerto de Rotterdam recibe la recalada inaugural del CMA CGM Notre Dame se p...",
-    "date": "2026-07-10T19:30:09",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-rotterdam-recibe-la-recalada-inaugural-del-cma-cgm-notre-dame/",
-    "category": "LOGÍSTICA"
   }
 ]
