@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.theverge.com/?p=964539",
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "snippet": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot...",
+    "date": "2026-07-12T20:10:19",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=445086",
+    "title": "ECSA pide que ingresos por ETS de reinviertan en tecnología",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un nuevo estudio de European Shipowners (ECSA) cuantifica por primera vez la contribución del transporte marítimo\nLa entrada ECSA pide que ingresos por ETS de reinviertan en...",
+    "date": "2026-07-12T20:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estudio-de-ecsa-revela-que-ingresos-por-ets-para-europa-suman-usd-10-mil-millones/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-aprueba-lineamientos-para-elaborar-estudios-tecnicos-proyectos-app-1083289.aspx",
+    "title": "MEF aprueba lineamientos para elaborar estudios técnicos de proyectos APP",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó los Lineamientos para la elaboración y registro de los Estudios Técnicos de los proyectos de Asociaciones Público Privadas (APP)....",
+    "date": "2026-07-12T20:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-aprueba-lineamientos-para-elaborar-estudios-tecnicos-proyectos-app-1083289.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2213137/pentagon-releases-ufo-files-china-tianwen-2-asteroid-science-news/",
+    "title": "Pentagon releases new batch of UFO files, China's Tianwen-2 reaches its asteroid target, and more science stories",
+    "snippet": "Catch up on the most interesting science news from the last week....",
+    "date": "2026-07-12T19:58:35",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2213137/pentagon-releases-ufo-files-china-tianwen-2-asteroid-science-news/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/componentes/creiamos-que-para-construir-gpu-hacian-falta-laboratorios-millones-maker-esta-montando-casa",
     "title": "Creíamos que para construir una GPU hacían falta laboratorios y millones. Un maker está montando una en casa",
     "snippet": "Durante años hemos asumido que construir una GPU era un terreno reservado a empresas con fábricas avanzadas, equipos de ingeniería y presupuestos millonarios. No era una idea absurda: basta mirar la complejidad de cualqu...",
@@ -7,6 +43,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/componentes/creiamos-que-para-construir-gpu-hacian-falta-laboratorios-millones-maker-esta-montando-casa",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "4fc08080-4544-41b0-b335-36be143b410b",
+    "title": "'Love Island USA' Season 8 Finale: When to Watch on Peacock",
+    "snippet": "Which couple will win?...",
+    "date": "2026-07-12T19:00:46",
+    "source": "CNET",
+    "url": "https://www.cnet.com/culture/entertainment/love-island-usa-season-8-finale/",
+    "category": "MERCADO"
   },
   {
     "id": "https://portalportuario.cl/?p=445601",
@@ -1303,50 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-invertiran-772-millones-para-impulsar-turismo-sostenible-corredor-arequipa-colca-1083078.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
-    "title": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
-    "snippet": "La IA es bastante impopular entre los ciudadanos estadounidenses. Según una encuesta reciente, la mayoría cree que va a suponer un impacto negativo en la sociedad. Hay algo en concreto que se ha ganado el rechazo de gran...",
-    "date": "2026-07-10T19:01:58",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-y-lima-expresa-renuevan-convenio-para-reforzar-control-al-transporte-informal-1083068.aspx",
-    "title": "ATU y Lima Expresa renuevan convenio para reforzar control al transporte informal",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) y Lima Expresa renovaron el convenio de cooperación que fortalecerá el control contra la informalidad y permitirá implementar acciones para optimizar los tiempos...",
-    "date": "2026-07-10T19:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-y-lima-expresa-renuevan-convenio-para-reforzar-control-al-transporte-informal-1083068.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/peter-thiel-uno-puntales-silicon-valley-su-mudanza-record-a-florida-clavo-ataud-california",
-    "title": "Peter Thiel ha firmado el alquiler de oficinas más caro de Miami. Quedarse en Silicon Valley le puede salir aún más caro",
-    "snippet": "Un contrato de alquiler no suele dar para titulares, excepto si es el de un piso céntrico en Madrid o Barcelona por menos de 600 euros. En ese caso, sería un milagro. Pero cuando el firmante es uno de los nombres que def...",
-    "date": "2026-07-10T18:45:57",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/peter-thiel-uno-puntales-silicon-valley-su-mudanza-record-a-florida-clavo-ataud-california",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/hoy-netflix-pelicula-terror-accion-que-marcan-epoca-cine-vampiros-no-volvera-a-ser",
-    "title": "Hoy en Netflix, una película de terror y acción de las que marcan época: el cine de vampiros no volverá a ser el mismo",
-    "snippet": "Ryan Coogler escribe, dirige y produce 'Sinners', una historia ambientada en el Delta del Mississippi durante la era de las leyes de Jim Crow y que recaudó cerca de 370 millones de dólares en todo el mundo partiendo de u...",
-    "date": "2026-07-10T18:31:58",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/hoy-netflix-pelicula-terror-accion-que-marcan-epoca-cine-vampiros-no-volvera-a-ser",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "f6c984b2-09c1-4450-935c-82f5189f3301",
-    "title": "The Sights and Smells of America: Inside Disneyland's New US-Themed Soarin' Ride",
-    "snippet": "Soarin' has taken flight over California and across the world. Now, to celebrate the USA's 250th, it's visiting landmarks from sea to shining sea....",
-    "date": "2026-07-10T18:26:26",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/sights-and-smells-inside-disneyland-soarin-across-america/",
-    "category": "MERCADO"
   }
 ]
