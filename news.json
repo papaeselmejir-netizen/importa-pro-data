@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-comandante-general-operaciones-del-pacifico-fortalece-presencia-del-peru-rimpac-2026-1083331.aspx",
+    "title": "Comandante General de Operaciones del Pacífico fortalece presencia del Perú en RIMPAC 2026",
+    "snippet": "En el marco del Ejercicio Multinacional RIMPAC 2026, el Comandante General de Operaciones del Pacífico, vicealmirante Gian Marco Chiapperini Faverio, realizó una visita profesional al Puesto de Comando de la Fuerza de Ta...",
+    "date": "2026-07-13T03:41:32",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-comandante-general-operaciones-del-pacifico-fortalece-presencia-del-peru-rimpac-2026-1083331.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=445511",
+    "title": "Delegación de Puerto de Hamburgo visita Gdansk y Gdynia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Una delegación de autoridades del Puerto de Hamburgo visitó a sus socios de los puertos de\nLa entrada Delegación de Puerto de Hamburgo visita Gdansk y Gdynia se publicó prim...",
+    "date": "2026-07-13T03:00:34",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/delegacion-de-puerto-de-hamburgo-visita-gdansk-y-gdynia/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=445614",
     "title": "Francia: Dunkerque inicia construcción de su segundo terminal de contenedores",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La construcción del segundo terminal de contenedores en el Puerto de Dunkerque (GPMD), Francia, ya comenzó,\nLa entrada Francia: Dunkerque inicia construcción de su segundo t...",
@@ -380,6 +398,15 @@
   {
     "id": "https://www.xataka.com/medicina-y-salud/no-eres-tu-termometro-no-tomes-decisiones-importantes-ola-calor",
     "title": "No eres tú, es el termómetro: no tomes decisiones importantes en ola de calor",
+    "snippet": "Decía Ted Mosby de 'How I met your mother' que nada bueno pasa después de las 2 de la mañana y tiene sentido porque el cansancio y el sueño no son buenos consejeros. Y si estás fuera y te has tomado alguna compita, con m...",
+    "date": "2026-07-12T13:01:57",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/no-eres-tu-termometro-no-tomes-decisiones-importantes-ola-calor",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/no-eres-tu-termometro-no-tomes-decisiones-importantes-ola-calor",
+    "title": "No tomes decisiones importantes en ola de calor: las altas temperaturas (y las noches tórridas) sabotean tu cerebro",
     "snippet": "Decía Ted Mosby de 'How I met your mother' que nada bueno pasa después de las 2 de la mañana y tiene sentido porque el cansancio y el sueño no son buenos consejeros. Y si estás fuera y te has tomado alguna compita, con m...",
     "date": "2026-07-12T13:01:57",
     "source": "XATAKA",
@@ -1320,33 +1347,6 @@
     "date": "2026-07-10T20:44:05",
     "source": "WIRED",
     "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1696328",
-    "title": "Sunat sorteará hasta S/100 mil a usuarios que pidan comprobantes electrónicos: ¿Cómo participar con boletas emitidas desde julio?",
-    "snippet": "El primer sorteo se realizará en octubre en el que se entregarán más de 400 premios por diferentes montos entre los S/500 y S/100 mil. El registro de las boletas es virtual....",
-    "date": "2026-07-10T20:30:44",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/sunat-sortea-100-mil-soles-por-pedir-comprobantes-electronicos-como-participar-con-boletas-desde-julio-noticia-1696328",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-onp-conozca-cuando-sera-pago-pensiones-a-domicilio-y-como-solicitar-este-servicio-1083091.aspx",
-    "title": "ONP: conozca cuándo será el pago de pensiones a domicilio y cómo solicitar este servicio",
-    "snippet": "La Oficina de Normalización Previsional (ONP) iniciará este lunes 13 de julio el pago de pensiones a domicilio para 10,060 pensionistas de Lima y el Callao, un servicio gratuito que permite cobrar la pensión de manera se...",
-    "date": "2026-07-10T20:23:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-onp-conozca-cuando-sera-pago-pensiones-a-domicilio-y-como-solicitar-este-servicio-1083091.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "e11b8b40-aa6b-4c18-963f-7d29431f7094",
-    "title": "Samsung's Galaxy Unpacked Event: We Expect Weird Foldables, Funky AI Glasses and More",
-    "snippet": "Samsung's foldable phone launch will take place later this month in London. We'll be there....",
-    "date": "2026-07-10T20:10:06",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/samsungs-galaxy-unpacked-event-what-to-expect-how-to-watch/",
     "category": "MERCADO"
   }
 ]
