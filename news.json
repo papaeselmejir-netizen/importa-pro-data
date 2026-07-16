@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-la-conmebol-celebra-pase-argentina-a-final-y-pide-traer-copa-nuevo-a-casa-1083807.aspx",
+    "title": "La Conmebol celebra pase de Argentina a la final y pide \"traer la Copa de nuevo a casa\"",
+    "snippet": "El presidente de la Confederación Sudamericana de Fútbol (Conmebol), Alejandro Domínguez, celebró este miércoles el pase de Argentina a la final de la Copa del Mundo 2026 del próximo domingo, ante España, al tiempo que p...",
+    "date": "2026-07-16T03:06:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-la-conmebol-celebra-pase-argentina-a-final-y-pide-traer-copa-nuevo-a-casa-1083807.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mtc-presenta-cuatro-rutas-piloto-para-fortalecer-conectividad-aerea-y-desarrollo-regional-1083793.aspx",
+    "title": "MTC presenta cuatro rutas piloto para fortalecer conectividad aérea y desarrollo regional",
+    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC) presentó el potencial comercial, turístico y operativo de cuatro rutas piloto desarrolladas a partir de estudios técnicos elaborados por la Dirección General de Aeronáu...",
+    "date": "2026-07-16T02:33:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mtc-presenta-cuatro-rutas-piloto-para-fortalecer-conectividad-aerea-y-desarrollo-regional-1083793.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446063",
+    "title": "EE.UU.: Maersk invierte 100 millones de dólares en nuevo centro logístico en Boston",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario AP Moller – Maersk (Maersk) anunció la apertura, a finales de agosto, de un nuevo centro\nLa entrada EE.UU.: Maersk invierte 100 millones de dólares en nuevo centro logístico...",
+    "date": "2026-07-16T02:00:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ee-uu-maersk-invierte-100-millones-de-dolares-en-nuevo-centro-logistico-en-boston/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446218",
+    "title": "Mayor crucero del mundo atracará en Puerto de Ponce en dos ocasiones como parte de su itinerario inaugural",
+    "snippet": "Por Redacción PortalPortuario/EFE @PortalPortuario El crucero más grande del mundo, Legend of the Seas, atracará en el Puerto de Ponce\nLa entrada Mayor crucero del mundo atracará en Puerto de Ponce en dos ocasiones como ...",
+    "date": "2026-07-16T01:00:42",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mayor-crucero-del-mundo-atracara-en-puerto-de-ponce-en-dos-ocasiones-como-parte-de-su-itinerario-inaugural/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-piura-pnp-captura-talara-al-presunto-sicario-del-alcalde-veintiseis-octubre-1083779.aspx",
+    "title": "Piura: PNP captura en Talara al presunto sicario del alcalde de Veintiséis de Octubre",
+    "snippet": "La Policía Nacional del Perú (PNP) capturó a Fabricio Fiestas Susanival (19), alias Fabri o F, sindicado como el presunto autor material del asesinato del alcalde del distrito de Veintiséis de Octubre, Víctor Hugo Febre ...",
+    "date": "2026-07-16T00:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-piura-pnp-captura-talara-al-presunto-sicario-del-alcalde-veintiseis-octubre-1083779.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=445940",
+    "title": "DP World refuerza su red logística en el Golfo Pérsico con 700 nuevos camiones",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World ha adquirido 700 camiones para ampliar su red de transporte de mercancías por carretera\nLa entrada DP World refuerza su red logística en el Golfo Pérsico con 700 nu...",
+    "date": "2026-07-16T00:30:00",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-refuerza-su-red-logistica-en-el-golfo-persico-con-700-nuevos-camiones/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "f2a3f57c-c356-454a-8c3b-f998c9cbd724",
+    "title": "Rumored Galaxy Watch Ultra 2 Might Fix Samsung's Biggest Smartwatch Problem",
+    "snippet": "Latest leaked images suggest Samsung is sticking with a familiar look, but the biggest changes could be hiding inside....",
+    "date": "2026-07-16T00:04:53",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446162",
+    "title": "México: Construcción de distribuidor vial de acceso a Puerto de Veracruz alcanza 80% de avance",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Secretaría de Infraestructura, Comunicaciones y Transportes (Sict) de México informó que la construcción del distribuidor\nLa entrada México: Construcción de distribuidor ...",
+    "date": "2026-07-16T00:01:25",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mexico-construccion-de-distribuidor-vial-de-acceso-a-puerto-de-veracruz-alcanza-80-de-avance/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-cientificos-del-iiap-registran-y-analizan-sonidos-de-amazonia-para-medir-impacto-humano-1083772.aspx",
     "title": "Científicos del IIAP registran y analizan sonidos de la Amazonía para medir impacto humano",
     "snippet": "Científicos del Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad adscrita al Ministerio del Ambiente, desarrollan un estudio que utiliza registros acústicos para evaluar cómo las actividades humanas mo...",
@@ -1275,78 +1347,6 @@
     "date": "2026-07-14T22:48:47",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-valparaiso-y-folovap-coordinan-medidas-preventivas-ante-frente-de-mal-tiempo-y-marejadas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445969",
-    "title": "Uruguay: ANP firma contrato de concesión para instalar un dique flotante en Puerto de Montevideo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración Nacional de Puertos de Uruguay (ANP) firmó un contrato con el consorcio adjudicatario de\nLa entrada Uruguay: ANP firma contrato de concesión para instalar ...",
-    "date": "2026-07-14T22:30:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/uruguay-anp-firma-contrato-de-concesion-para-instalar-un-dique-flotante-en-puerto-de-montevideo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965565",
-    "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
-    "snippet": "While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amaz...",
-    "date": "2026-07-14T22:24:26",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mas-60-envios-arandano-uva-citricos-y-palta-salieron-muelle-sur-del-callao-1083586.aspx",
-    "title": "Más de 60% de envíos de arándano, uva, cítricos y palta salieron por Muelle Sur del Callao",
-    "snippet": "El dinamismo de las agroexportaciones peruanas continúa consolidando al Puerto del Callao como la principal plataforma logística para el envío de alimentos frescos a los mercados internacionales. Durante las más reciente...",
-    "date": "2026-07-14T22:02:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mas-60-envios-arandano-uva-citricos-y-palta-salieron-muelle-sur-del-callao-1083586.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minam-conservacion-bosques-impulsa-desarrollo-sostenible-de-amazonia-peruana-1083584.aspx",
-    "title": "Minam: conservación de bosques impulsa el desarrollo sostenible de la Amazonía peruana",
-    "snippet": "El Ministerio del Ambiente (Minam) reafirmó su compromiso de fortalecer la conservación de los bosques amazónicos como una política pública que genera bienestar para las comunidades durante la ceremonia por el 16.° anive...",
-    "date": "2026-07-14T22:00:45",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minam-conservacion-bosques-impulsa-desarrollo-sostenible-de-amazonia-peruana-1083584.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445844",
-    "title": "CMA CGM Notre Dame realiza su primera escala en el Puerto de Hamburgo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El CMA CGM Notre Dame, un buque de 400 metros de eslora y 62 metros de\nLa entrada CMA CGM Notre Dame realiza su primera escala en el Puerto de Hamburgo se publicó primero en...",
-    "date": "2026-07-14T22:00:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/cma-cgm-notre-dame-realiza-su-primera-escala-en-el-puerto-de-hamburgo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/openai-quiere-su-propio-alexa-esteroides-su-primer-dispositivo-busca-cambiar-relacion-ia-bloomberg",
-    "title": "OpenAI quiere su propio Alexa, pero con esteroides. Su primer dispositivo busca cambiar la relación con la IA, según Bloomberg",
-    "snippet": "Los asistentes domésticos llevan años funcionando alrededor de una lógica sencilla: nosotros damos una orden, el dispositivo ejecuta una tarea y la relación suele terminar ahí. La apuesta en la que estaría trabajando Ope...",
-    "date": "2026-07-14T21:57:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/openai-quiere-su-propio-alexa-esteroides-su-primer-dispositivo-busca-cambiar-relacion-ia-bloomberg",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=97234",
-    "title": "2GO Consultoría Estratégica incorpora DISC Flow para optimizar la gestión del talento humano",
-    "snippet": "Conocer cómo piensan, toman decisiones y se comunican los integrantes de un equipo se ha convertido en un factor cada vez más relevante para las organizaciones que buscan fortalecer su liderazgo y mejorar el desempeño la...",
-    "date": "2026-07-14T21:54:26",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/2go-consultoria-estrategica-incorpora-disc-flow-para-optimizar-la-gestion-del-talento-humano-ccl-asociados/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=97230",
-    "title": "Idexcam: alza del petróleo amenaza con disparar fletes y golpear exportaciones peruanas",
-    "snippet": "El Instituto de Investigación y Desarrollo de Comercio Exterior (Idexcam) de la Cámara de Comercio de Lima (CCL) advirtió que el repunte del precio internacional del petróleo, tras la reanudación del conflicto en Medio O...",
-    "date": "2026-07-14T21:52:29",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/idexcam-alza-del-petroleo-amenaza-con-disparar-fletes-y-golpear-exportaciones-peruanas/",
     "category": "LOGÍSTICA"
   }
 ]
