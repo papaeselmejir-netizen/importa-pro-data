@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mml-recupera-predio-santa-anita-donde-funcionara-nueva-sede-para-brevetes-1083967.aspx",
+    "title": "MML recupera predio en Santa Anita donde funcionará nueva sede para brevetes",
+    "snippet": "La Municipalidad Metropolitana de Lima (MML) recuperó un predio de aproximadamente 13,000 metros cuadrados ubicado en el distrito de Santa Anita, que permaneció ocupado de manera ilegal por más de dos décadas. En el terr...",
+    "date": "2026-07-17T03:10:51",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mml-recupera-predio-santa-anita-donde-funcionara-nueva-sede-para-brevetes-1083967.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-trump-pone-duda-integridad-del-sistema-electoral-y-denuncia-interferencias-china-1083969.aspx",
+    "title": "Trump pone en duda la integridad del sistema electoral y denuncia interferencias de China",
+    "snippet": "El presidente de Estados Unidos, Donald Trump, puso este jueves en duda la integridad del sistema electoral de su país, a pocos meses de las elecciones de medio mandato, y acusó a China de interferir en los comicios esta...",
+    "date": "2026-07-17T03:08:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-trump-pone-duda-integridad-del-sistema-electoral-y-denuncia-interferencias-china-1083969.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do#0",
+    "title": "China hits out at British Steel nationalisation",
+    "snippet": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\"....",
+    "date": "2026-07-17T02:50:36",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-chile-fuerte-temporal-y-marejadas-dejan-tres-fallecidos-y-decenas-damnificados-1083965.aspx",
+    "title": "Chile: fuerte temporal y marejadas dejan tres fallecidos y decenas de damnificados",
+    "snippet": "Tres personas fallecieron y 76 resultaron damnificadas el jueves en Chile en medio de un temporal de intensas lluvias, marejadas y vientos que afecta a 10 de las 16 regiones del país, informó el gobierno....",
+    "date": "2026-07-17T02:30:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-chile-fuerte-temporal-y-marejadas-dejan-tres-fallecidos-y-decenas-damnificados-1083965.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446283",
+    "title": "Tarifas caen 2% durante la última semana",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El  World Container Index (WCI) de Drewry cayó 2% hasta USD 4.547 por contenedor de 40\nLa entrada Tarifas caen 2% durante la última semana se publicó primero en PortalPortua...",
+    "date": "2026-07-17T01:19:33",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/tarifas-caen-2-durante-la-ultima-semana/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446127",
+    "title": "Rusia: Volumen de contenedores en Puerto Comercial de Vladivostok aumenta 10 % en primer semestre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto Marítimo comercial de Vladivostok (VCSSP), perteneciente al Grupo de Transporte Fesco, gestionó más de\nLa entrada Rusia: Volumen de contenedores en Puerto Comercia...",
+    "date": "2026-07-17T01:00:02",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rusia-volumen-de-contenedores-en-puerto-comercial-de-vladivostok-aumenta-10-en-primer-semestre/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "6031d967-263d-473b-a020-1e101ee0de3b",
+    "title": "A Diarrhea-Causing Parasite Is Spreading. Should You Stop Eating Salad?",
+    "snippet": "Salad greens could be a source of the growing cyclospora outbreak, but officials haven't identified a specific product, grower or supplier....",
+    "date": "2026-07-17T00:53:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/health/medical/diarrhea-causing-parasite-cyclospora-outbreak-salad-produce/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1697584",
+    "title": "Diego Cavero, CEO del BCP: “la competencia es mucho más compleja con la llegada de bancos totalmente digitales”",
+    "snippet": "De las agencias físicas a la banca móvil. Durante años, la fortaleza del BCP estuvo en su presencia a nivel nacional con agencias y agentes corresponsales; ahora buscan mantener este alcance en un escenario marcado por l...",
+    "date": "2026-07-17T00:00:59",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/negocios/diego-cavero-ceo-del-bcp-la-competencia-es-mucho-mas-compleja-con-la-llegada-de-bancos-totalmente-digitales-noticia-1697584",
+    "category": "MERCADO"
+  },
+  {
+    "id": "b0f705b4-db0b-47af-b385-79e52efc8a31",
+    "title": "When Flock Comes to Your Town: I Asked Experts What to Do About These AI Cameras",
+    "snippet": "Flock is setting up surveillance cams and drones in cities nationwide. Citizens are fighting back. Here's everything you should know....",
+    "date": "2026-07-17T00:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://lacamara.pe/?p=97398",
     "title": "Cabotaje marítimo depende de mejoras institucionales",
     "snippet": "El desarrollo del cabotaje para el transporte comercial marítimo a lo largo de los 3 080 kilómetros de litoral que tiene el Perú enfrenta barreras que elevan la incertidumbre, incrementan los costos de transacción y dete...",
@@ -1267,86 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-mef-economia-peruana-mantiene-26-meses-crecimiento-continuo-1083768.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-habra-finalissima-argentina-y-espana-disputaran-gran-final-del-mundial-2026-1083752.aspx",
-    "title": "Habrá Finalissima: Argentina y España disputarán la gran final del Mundial 2026",
-    "snippet": "Argentina y España disputarán la gran final del Mundial 2026, en una instancia donde se enfrentarán, por primera vez en la historia de la Copa del Mundo, el campeón de América contra el campeón de Europa....",
-    "date": "2026-07-15T22:59:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-habra-finalissima-argentina-y-espana-disputaran-gran-final-del-mundial-2026-1083752.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446208",
-    "title": "Remolcador de alta mar vara al norte de Punta Arenas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Capitanía de Puerto de Punta Arenas está monitoreando la varadura del remolcador de alta mar\nLa entrada Remolcador de alta mar vara al norte de Punta Arenas se publicó pr...",
-    "date": "2026-07-15T22:50:25",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/remolcador-de-alta-mar-vara-al-norte-de-punta-arenas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "c2206e06-f0a9-4bdd-87b9-76833648ce45",
-    "title": "Apple Closes Loophole Letting Buyers Pick Unlocked iPhones Using Carrier Payment Plans",
-    "snippet": "You'll no longer be able to finance unlocked iPhones from these carriers until they complete important steps....",
-    "date": "2026-07-15T22:44:31",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apple-closes-loophole-letting-buyers-pick-unlocked-iphones-using-carrier-payment-plans/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=966219",
-    "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-    "snippet": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Ma...",
-    "date": "2026-07-15T22:39:40",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446190",
-    "title": "Estados Unidos inhabilita navegación de petrolero que intentaba llegar a un puerto iraní",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Comando Central de Estados Unidos (Centcom) informó sobre la inhabilitación de un buque que intentaba\nLa entrada Estados Unidos inhabilita navegación de petrolero que int...",
-    "date": "2026-07-15T22:30:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/estados-unidos-inhabilita-navegacion-de-petrolero-que-intentaba-llegar-a-un-puerto-irani/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cusco-celebra-es-mejor-ciudad-centro-y-sudamerica-cuarto-ano-consecutivo-1083755.aspx",
-    "title": "¡Cusco celebra! Es la mejor ciudad de Centro y Sudamérica por cuarto año consecutivo",
-    "snippet": "Mercados tradicionales, bares de coctelería de autor y rutas de senderismo que conectan con paisajes andinos son algunos de los atributos que los lectores de la reconocida revista estadounidense Travel + Leisure destacan...",
-    "date": "2026-07-15T22:03:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cusco-celebra-es-mejor-ciudad-centro-y-sudamerica-cuarto-ano-consecutivo-1083755.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446192",
-    "title": "Ecuador: Autorizan operaciones de concentración económica entre TiL, Naportec S.A. y Bananapuerto",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Comisión de Resolución de Primera Instancia (CRPI) de la Superintendencia de Competencia Económica (SCE) de\nLa entrada Ecuador: Autorizan operaciones de concentración eco...",
-    "date": "2026-07-15T22:00:41",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ecuador-autorizan-operaciones-de-concentracion-economica-entre-til-naportec-s-a-y-bananapuerto/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1697418",
-    "title": "Julio Velarde a Keiko Fujimori: \"El panorama (económico) está muy bien, pero hay un problema fuerte: El Niño nos va a golpear\"",
-    "snippet": "Frente a la presidenta electa Keiko Fujimori, el presidente del BCR, Julio Velarde, sostuvo que la economía peruana mantiene sólidos fundamentos y que los indicadores de corto plazo siguen siendo positivos. Sin embargo, ...",
-    "date": "2026-07-15T22:00:31",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/julio-velarde-a-keiko-fujimori-el-panorama-economico-esta-muy-bien-pero-hay-un-problema-fuerte-el-nino-nos-va-a-golpear-noticia-1697418",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446183",
-    "title": "Perú: Más de 60% de envíos de arándano, uva, cítricos y palta han salido por Muelle Sur de Puerto del Callao",
-    "snippet": "Por Redacción PortalPortuario/Agencia Andina @PortalPortuario El dinamismo de las agroexportaciones peruanas continúa consolidando al Puerto del Callao como la principal\nLa entrada Perú: Más de 60% de envíos de arándano,...",
-    "date": "2026-07-15T21:30:30",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/peru-mas-de-60-de-envios-de-arandano-uva-citricos-y-palta-han-salido-por-muelle-sur-de-puerto-del-callao/",
-    "category": "LOGÍSTICA"
   }
 ]
