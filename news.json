@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-callao-cerraran-vias-este-lunes-y-martes-desfile-civico-militar-1084089.aspx",
+    "title": "Callao: cerrarán vías este lunes y martes por desfile cívico militar",
+    "snippet": "El Gobierno Regional del Callao informó que este lunes 20 y martes 21 de julio se aplicará un plan de desvíos y cierres temporales de vías con motivo del Gran Desfile Cívico, Militar y Escolar a la Orilla del Mar, que se...",
+    "date": "2026-07-17T23:25:32",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-callao-cerraran-vias-este-lunes-y-martes-desfile-civico-militar-1084089.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143024",
+    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+    "snippet": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into T...",
+    "date": "2026-07-17T23:08:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446483",
+    "title": "Corma advierte impacto en operaciones ferroviarias en DP World Lirquén por daños de marejadas en infraestructura",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Corporación Chilena de la Madera (Corma) advirtió que los daños que sufrió la infraestructura ferroviaria\nLa entrada Corma advierte impacto en operaciones ferroviarias en...",
+    "date": "2026-07-17T23:05:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/corma-advierte-impacto-en-operaciones-ferroviarias-en-dp-world-lirquen-por-danos-de-marejadas-en-infraestructura/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mef-destina-s-1437-millones-para-pago-obligaciones-previsionales-1084080.aspx",
     "title": "MEF destina S/ 143,7 millones para pago de obligaciones previsionales",
     "snippet": "El Ministerio de Economía y Finanzas (MEF) destinó 143 millones 731,989 soles al Ministerio del Interior (Mininter) para financiar el pago de las obligaciones previsionales de la Caja de Pensiones Militar Policial (CPMP)...",
@@ -1320,33 +1347,6 @@
     "date": "2026-07-16T19:09:14",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/emprendimientos-en-peru-dos-de-cada-diez-sobreviven-lanzan-asesoria-gratuita-con-ia-para-mejorar-como-acceder-noticia-1697541",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/ciberatacantes-vinculados-a-rusia-tienen-nuevo-refugio-para-operar-routers-mal-configurados-todo-mundo",
-    "title": "Los ciberatacantes vinculados a Rusia tienen un nuevo refugio para operar: routers mal configurados por todo el mundo",
-    "snippet": "El router suele quedarse fuera de nuestra atención: lo instalamos, comprobamos que hay conexión y dejamos que siga funcionando durante meses o años. Sin embargo, ese pequeño equipo que conecta una casa o una oficina con ...",
-    "date": "2026-07-16T19:01:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/ciberatacantes-vinculados-a-rusia-tienen-nuevo-refugio-para-operar-routers-mal-configurados-todo-mundo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446258",
-    "title": "Carga movilizada por puertos de la Región de Valparaíso crece 3% en mayo de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El sector portuario de la Región de Valparaíso presentó un rendimiento positivo en mayo de 2026.\nLa entrada Carga movilizada por puertos de la Región de Valparaíso crece 3% ...",
-    "date": "2026-07-16T19:00:55",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/carga-movilizada-por-puertos-de-la-region-de-valparaiso-crece-3-en-mayo-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-confirmado-luego-dos-anos-juan-diego-florez-volvera-a-ofrecer-un-recital-lima-1083894.aspx",
-    "title": "Confirmado: luego de dos años, Juan Diego Flórez volverá a ofrecer un recital en Lima",
-    "snippet": "Lima recibirá nuevamente a uno de sus hijos pródigos y una de las figuras más relevantes de la lírica internacional: Juan Diego Flórez, quien volverá a ofrecer una gala exclusiva en la capital luego de dos años de ausenc...",
-    "date": "2026-07-16T18:52:45",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-confirmado-luego-dos-anos-juan-diego-florez-volvera-a-ofrecer-un-recital-lima-1083894.aspx",
     "category": "MERCADO"
   }
 ]
