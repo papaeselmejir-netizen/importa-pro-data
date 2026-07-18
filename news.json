@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=446418",
+    "title": "Italia: Red ferroviaria que conectan a puertos de Liguria arriesga restricciones operativas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La red ferroviaria italiana que conecta a los puertos de Liguria con los principales nudos del\nLa entrada Italia: Red ferroviaria que conectan a puertos de Liguria arriesga ...",
+    "date": "2026-07-18T13:00:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/italia-red-ferroviaria-que-conectan-a-puertos-de-liguria-arriesga-restricciones-operativas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=97433",
+    "title": "Economía circular: Perú fortalece agenda para atraer inversiones sostenibles",
+    "snippet": "La Cámara de Comercio de Lima (CCL) acogió la Mesa Ejecutiva para la Inversión y Desarrollo de la Economía Circular en el País, un espacio de articulación público-privada liderado por el Ministerio del Ambiente (Minam) y...",
+    "date": "2026-07-18T13:00:13",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/economia-circular-peru-fortalece-agenda-para-atraer-inversiones-sostenibles/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/china-esta-investigando-como-tener-bebes-espacio-tienen-malas-noticias",
+    "title": "China está investigando cómo tener bebés en el espacio. Y tiene malas noticias",
+    "snippet": "China lleva años con las pilas puestas en la nueva carrera espacial. Aparte de probar sus cohetes de ida y vuelta como elemento clave para abaratar misiones y para llenar la órbita baja de satélites de todo tipo (tanto m...",
+    "date": "2026-07-18T13:00:08",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/china-esta-investigando-como-tener-bebes-espacio-tienen-malas-noticias",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/pelicula-superheroes-querida-todos-tiempos-vuelve-a-cines-para-repetir-exito-version-larga",
+    "title": "La película de superhéroes más taquillera de la historia vuelve a los cines para repetir el éxito con una versión más larga",
+    "snippet": "En 2019, Marvel reestrenó 'Vengadores: Endgame' con metraje inédito para arrebatarle a 'Avatar' el título de película más taquillera de la historia. La corona le duró año y medio. En 2026 la maniobra vuelve a activarse, ...",
+    "date": "2026-07-18T12:30:06",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/pelicula-superheroes-querida-todos-tiempos-vuelve-a-cines-para-repetir-exito-version-larga",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-agroindustria-peruana-gestion-preventiva-sera-clave-ante-riesgos-climaticos-1084135.aspx",
+    "title": "Agroindustria peruana: gestión preventiva será clave ante riesgos climáticos",
+    "snippet": "La agroindustria peruana enfrenta un escenario marcado por riesgos climáticos y un entorno internacional complejo, por lo que las empresas del sector deberán reforzar la gestión preventiva y la planificación financiera p...",
+    "date": "2026-07-18T12:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-agroindustria-peruana-gestion-preventiva-sera-clave-ante-riesgos-climaticos-1084135.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "c9b24917-2aef-4dcd-809e-4b78110be0c0",
+    "title": "The Same 5G Network Your Phone Uses Can Identify and Track Rogue Drones",
+    "snippet": "In a proof-of-concept demonstration, AT&amp;T and Ericsson showed how existing 5G networks can track aerial objects that might threaten public safety....",
+    "date": "2026-07-18T12:01:10",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/the-same-5g-network-your-phone-uses-can-identify-and-track-rogue-drones/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/llevamos-toda-vida-bebiendo-cerveza-playa-para-refrescarnos-ciencia-avisa-gran-peligro-para-nuestro-cuerpo",
+    "title": "Llevamos toda la vida bebiendo cerveza en la playa para refrescarnos. La ciencia avisa del gran peligro para nuestro cuerpo",
+    "snippet": "Cualquier tarde de verano, las playas y terrazas se llenan de personas buscando refugio contra las altas temperaturas, y el instinto de la gran mayoría es pedir una cerveza fría. Esta bebida tan clásica en España da una ...",
+    "date": "2026-07-18T12:00:07",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/llevamos-toda-vida-bebiendo-cerveza-playa-para-refrescarnos-ciencia-avisa-gran-peligro-para-nuestro-cuerpo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-planta-de-aguas-residuales-cajamarca-mejorara-salud-publica-e-impulsara-desarrollo-1084134.aspx",
+    "title": "Planta de de Aguas Residuales en Cajamarca mejorará salud pública e impulsará desarrollo",
+    "snippet": "La adjudicación de la Planta de Tratamiento de Aguas Residuales (PTAR) de Cajamarca permitirá mejorar la salud pública, proteger el ambiente e impulsar el desarrollo sostenible de la región, destacó el presidente ejecuti...",
+    "date": "2026-07-18T12:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-planta-de-aguas-residuales-cajamarca-mejorara-salud-publica-e-impulsara-desarrollo-1084134.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=961152",
+    "title": "More games should be on rails (literally)",
+    "snippet": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years lat...",
+    "date": "2026-07-18T12:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/961152/denshattack-review",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/a-google-amazon-microsoft-les-ha-salido-rival-inesperado-hombre-rico-alemania",
+    "title": "A Google, Amazon y Microsoft les ha salido un rival inesperado: el hombre más rico de Alemania y dueño de Lidl",
+    "snippet": "Puede que el nombre de \"Dieter Schwarz\" no te suene de buenas a primeras, pero si hablamos de Lidl, la cosa cambia. Pues bien, Dieter Schwarz es la cabeza del emporio familiar de Lidl y Kaufland. Y es normal que no te su...",
+    "date": "2026-07-18T11:30:07",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/a-google-amazon-microsoft-les-ha-salido-rival-inesperado-hombre-rico-alemania",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "3e5dc679-01bd-49bd-861f-372938e7c88f",
+    "title": "iPhone 18: Everything We Know About Apple's Upcoming Handsets",
+    "snippet": "There are now more rumors about Apple's next flagship phones that point to a new foldable, a variable-aperture camera, more RAM, improved battery life and, yes, higher prices....",
+    "date": "2026-07-18T11:01:15",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/movilidad/cesar-franco-ingeniero-nos-vamos-a-gastar-cientos-millones-circulen-tres-ave-al-dia-estamos-cometiendo-error-economico",
     "title": "César Franco, ingeniero: \"Si nos gastamos cientos de millones para que circulen tres AVE al día, estamos cometiendo un error\"",
     "snippet": "Hace unos días, César Franco nos explicaba cuál era el estado de las carreteras españolas y su visión sobre las mismas. Franco es ingeniero industrial y dirige el Máster de Universitario en Ingeniería Industrial en la Un...",
@@ -1248,105 +1347,6 @@
     "date": "2026-07-17T02:50:36",
     "source": "BBC BIZ",
     "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-chile-fuerte-temporal-y-marejadas-dejan-tres-fallecidos-y-decenas-damnificados-1083965.aspx",
-    "title": "Chile: fuerte temporal y marejadas dejan tres fallecidos y decenas de damnificados",
-    "snippet": "Tres personas fallecieron y 76 resultaron damnificadas el jueves en Chile en medio de un temporal de intensas lluvias, marejadas y vientos que afecta a 10 de las 16 regiones del país, informó el gobierno....",
-    "date": "2026-07-17T02:30:52",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-chile-fuerte-temporal-y-marejadas-dejan-tres-fallecidos-y-decenas-damnificados-1083965.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446283",
-    "title": "Tarifas caen 2% durante la última semana",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El  World Container Index (WCI) de Drewry cayó 2% hasta USD 4.547 por contenedor de 40\nLa entrada Tarifas caen 2% durante la última semana se publicó primero en PortalPortua...",
-    "date": "2026-07-17T01:19:33",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/tarifas-caen-2-durante-la-ultima-semana/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "CBMinwFBVV95cUxQdlk2b2dGMEFEeHdFTjIweG9KODNTY3h5c19NMHJwS1l4YjV4VnVIRVZmSE9CT2w4STA1ekxtb3ZiRUxyYjg3Z0dpdHEtazhXMURkd3RkSlVSeTFkTENBaDFSMVAxTjc3STcyVWtCZ21FUEUwUHBsZkVibldDRzJTTWdqTXNMSDU4RmQxVmo5MzZyUmw0V0dhaWwwSHpCSTA",
-    "title": "MTC declara Internacional al Aeropuerto de Cajamarca - TVPerú",
-    "snippet": "MTC declara Internacional al Aeropuerto de Cajamarca  TVPerú...",
-    "date": "2026-07-17T01:14:54",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlk2b2dGMEFEeHdFTjIweG9KODNTY3h5c19NMHJwS1l4YjV4VnVIRVZmSE9CT2w4STA1ekxtb3ZiRUxyYjg3Z0dpdHEtazhXMURkd3RkSlVSeTFkTENBaDFSMVAxTjc3STcyVWtCZ21FUEUwUHBsZkVibldDRzJTTWdqTXNMSDU4RmQxVmo5MzZyUmw0V0dhaWwwSHpCSTA?oc=5",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446127",
-    "title": "Rusia: Volumen de contenedores en Puerto Comercial de Vladivostok aumenta 10 % en primer semestre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto Marítimo comercial de Vladivostok (VCSSP), perteneciente al Grupo de Transporte Fesco, gestionó más de\nLa entrada Rusia: Volumen de contenedores en Puerto Comercia...",
-    "date": "2026-07-17T01:00:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/rusia-volumen-de-contenedores-en-puerto-comercial-de-vladivostok-aumenta-10-en-primer-semestre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "6031d967-263d-473b-a020-1e101ee0de3b",
-    "title": "A Diarrhea-Causing Parasite Is Spreading. Should You Stop Eating Salad?",
-    "snippet": "Salad greens could be a source of the growing cyclospora outbreak, but officials haven't identified a specific product, grower or supplier....",
-    "date": "2026-07-17T00:53:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/health/medical/diarrhea-causing-parasite-cyclospora-outbreak-salad-produce/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1697584",
-    "title": "Diego Cavero, CEO del BCP: “la competencia es mucho más compleja con la llegada de bancos totalmente digitales”",
-    "snippet": "De las agencias físicas a la banca móvil. Durante años, la fortaleza del BCP estuvo en su presencia a nivel nacional con agencias y agentes corresponsales; ahora buscan mantener este alcance en un escenario marcado por l...",
-    "date": "2026-07-17T00:00:59",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/negocios/diego-cavero-ceo-del-bcp-la-competencia-es-mucho-mas-compleja-con-la-llegada-de-bancos-totalmente-digitales-noticia-1697584",
-    "category": "MERCADO"
-  },
-  {
-    "id": "b0f705b4-db0b-47af-b385-79e52efc8a31",
-    "title": "When Flock Comes to Your Town: I Asked Experts What to Do About These AI Cameras",
-    "snippet": "Flock is setting up surveillance cams and drones in cities nationwide. Citizens are fighting back. Here's everything you should know....",
-    "date": "2026-07-17T00:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=97398",
-    "title": "Cabotaje marítimo depende de mejoras institucionales",
-    "snippet": "El desarrollo del cabotaje para el transporte comercial marítimo a lo largo de los 3 080 kilómetros de litoral que tiene el Perú enfrenta barreras que elevan la incertidumbre, incrementan los costos de transacción y dete...",
-    "date": "2026-07-16T23:52:58",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/cabotaje-maritimo-depende-de-mejoras-institucionales/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446275",
-    "title": "Autoridad Marítima monitorea estado del buque Manantial en Bahía de Talcahuano",
-    "snippet": "Por Gabriel Campos Roullet  @PortalPortuario La Capitanía de Puerto de Talcahuano informó que se mantiene monitoreando el estado del buque\nLa entrada Autoridad Marítima monitorea estado del buque Manantial en Bahía de Ta...",
-    "date": "2026-07-16T23:46:58",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/autoridad-maritima-monitorea-estado-del-buque-manantial-en-bahia-de-talcahuano/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143520",
-    "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-    "snippet": "In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo....",
-    "date": "2026-07-16T23:25:22",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-transfiere-s-2297-millones-para-financiar-pensiones-militares-y-policias-1083938.aspx",
-    "title": "MEF transfiere S/ 229.7 millones para financiar pensiones de militares y policías",
-    "snippet": "El Poder Ejecutivo autorizó una transferencia de partidas por 229.7 millones de soles a favor de los ministerios de Defensa (Mindef) e Interior (Mininter) para financiar el pago de las obligaciones previsionales de la Ca...",
-    "date": "2026-07-16T23:01:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-transfiere-s-2297-millones-para-financiar-pensiones-militares-y-policias-1083938.aspx",
     "category": "MERCADO"
   }
 ]
