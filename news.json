@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=446365",
+    "title": "Países Bajos: Maersk cesará sus actividades en depósito interior de contenedores HOV Harlingen",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario AP Moller – Maersk informó a sus clientes que, a partir del 3 de agosto de\nLa entrada Países Bajos: Maersk cesará sus actividades en depósito interior de contenedores HOV Ha...",
+    "date": "2026-07-18T02:00:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/paises-bajos-maersk-cesara-sus-actividades-en-deposito-interior-de-contenedores-hov-harlingen/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-preparese-senamhi-pronostica-vientos-fuertes-la-sierra-y-costa-seis-regiones-1084111.aspx",
+    "title": "¡Prepárese! Senamhi pronostica vientos fuertes en la sierra y la costa en seis regiones",
+    "snippet": "El Servicio Nacional de Meteorología e Hidrología (Senamhi) pronosticó hoy el incremento de la velocidad del viento, de moderada a fuerte intensidad, en la sierra sur y en la costa centro y sur del país, y los departamen...",
+    "date": "2026-07-18T01:45:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-preparese-senamhi-pronostica-vientos-fuertes-la-sierra-y-costa-seis-regiones-1084111.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iran-asegura-dos-petroleros-explotaron-tras-chocar-minas-ormuz-1084113.aspx",
+    "title": "Irán asegura que dos petroleros explotaron tras chocar con minas en Ormuz",
+    "snippet": "Los Guardianes de la Revolución iraníes anunciaron el sábado que dos petroleros \"explotaron y se incendiaron\" al atravesar una zona minada en el sur del estrecho de Ormuz –algo que Estados Unidos desmintió– y que otros c...",
+    "date": "2026-07-18T01:38:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iran-asegura-dos-petroleros-explotaron-tras-chocar-minas-ormuz-1084113.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-santa-anita-mas-150-transportistas-se-capacitaron-para-prevenir-casos-extorsion-1084109.aspx",
+    "title": "Santa Anita: Más de 150 transportistas se capacitaron para prevenir casos de extorsión",
+    "snippet": "Con el objetivo de fortalecer la capacidad de respuesta de los transportistas frente a la extorsión, el Ministerio del Interior (Mininter), a través de la Dirección General contra el Crimen Organizado (DGCO), desarrolló ...",
+    "date": "2026-07-18T01:22:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-santa-anita-mas-150-transportistas-se-capacitaron-para-prevenir-casos-extorsion-1084109.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446486",
+    "title": "Perú: MEF destina USD 1.2 millones para cumplimiento de competencias de Autoridad Marítima",
+    "snippet": "Por Redacción PortalPortuario/Agencia Andina @PortalPortuario El Ministerio de Economía y Finanzas del Perú (MEF) autorizó la incorporación de 1.2 millones\nLa entrada Perú: MEF destina USD 1.2 millones para cumplimiento ...",
+    "date": "2026-07-18T01:00:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-mef-destina-usd-1-2-millones-para-cumplimiento-de-competencias-de-autoridad-maritima/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-proinversion-adjudica-proyecto-planta-tratamiento-mas-123-millones-1084090.aspx",
+    "title": "ProInversión adjudica proyecto de planta de tratamiento por más de US$ 123 millones",
+    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión) adjudicó el proyecto de la Planta de Tratamiento de Aguas Residuales (PTAR) de Cajamarca por un monto superior a los 123 millones de dólares. La iniciativa, ...",
+    "date": "2026-07-18T01:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-proinversion-adjudica-proyecto-planta-tratamiento-mas-123-millones-1084090.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446463",
+    "title": "Revelan cuellos de botella en estudio que proyecta Puerto de Santos a 2035",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Encargado por Sopesp (Sindicato dos Operadores Portuários do Estado de São Paulo), se presentó el estudio\nLa entrada Revelan cuellos de botella en estudio que proyecta Puert...",
+    "date": "2026-07-18T00:30:07",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/revelan-cuellos-de-botella-en-estudio-que-proyecta-puerto-de-santos-a-2035/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-callao-cerraran-vias-este-lunes-y-martes-desfile-civico-militar-1084089.aspx",
     "title": "Callao: cerrarán vías este lunes y martes por desfile cívico militar",
     "snippet": "El Gobierno Regional del Callao informó que este lunes 20 y martes 21 de julio se aplicará un plan de desvíos y cierres temporales de vías con motivo del Gran Desfile Cívico, Militar y Escolar a la Orilla del Mar, que se...",
@@ -1285,68 +1348,5 @@
     "source": "INDECOPI",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc05YbmstQlAybjBvdlNwajJYdjRHVncxNUN1TTVNZmtId0E5WTkwckV4Qm9jaDJOTDUwZ1VuZENac3RHbDhJUGtlLVVlZFBkSjlNLUI3aGNYbC16NG1IZTFSaVJUVzlEazhLQVk1ODVudTltSUZmYS1lcEkwMHhsRzRJSzVPSXBSMm15VEpYSERSc09jYXUyMnJfS3U2b2IyQ3pCbjNWbUZPRHlndlVPRXlhQlF3Uml4OFZ3eg?oc=5",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=445896",
-    "title": "Aduana de Países Bajos monitoreará en tiempo real videovigilancia de North Sea Port",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Aduana de Países Bajos firmó un acuerdo para poder visualizar en directo las imágenes de\nLa entrada Aduana de Países Bajos monitoreará en tiempo real videovigilancia de N...",
-    "date": "2026-07-16T20:00:37",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/aduana-de-paises-bajos-monitoreara-en-tiempo-real-videovigilancia-de-north-sea-port/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/starlink-tiene-problema-su-antena-residencial-grande-gastona-nueva-generacion-llega-para-corregirlo",
-    "title": "Starlink tiene un problema: su antena residencial es grande y gastona. La nueva generación llega para corregirlo",
-    "snippet": "Durante años, conectarse a Internet por satélite ha implicado aceptar un intercambio bastante claro: llegar allí donde la fibra no llega, pero hacerlo con equipos más grandes, pesados y exigentes con la energía. Es algo ...",
-    "date": "2026-07-16T19:31:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/starlink-tiene-problema-su-antena-residencial-grande-gastona-nueva-generacion-llega-para-corregirlo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1697294",
-    "title": "Gratificaciones a trabajadores CAS: Congreso fija piso de S/ 300 y deja en manos del MEF definir su implementación",
-    "snippet": "El crédito suplementario aprobado por el Congreso establece que el MEF definirá cada año las reglas para su implementación y el pago estará sujeto a la disponibilidad presupuestal....",
-    "date": "2026-07-16T19:30:19",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/gratificaciones-a-trabajadores-cas-congreso-fija-piso-de-s-300-y-deja-en-manos-del-mef-definir-su-implementacion-noticia-1697294",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446105",
-    "title": "Grecia: Puerto de El Pireo publica su informe de sostenibilidad 2025",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración del Puerto de El Pireo (PPA SA, Grecia) hizo público su Informe de Sostenibilidad\nLa entrada Grecia: Puerto de El Pireo publica su informe de sostenibilida...",
-    "date": "2026-07-16T19:30:03",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/grecia-puerto-de-el-pireo-publica-su-informe-de-sostenibilidad-2025/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-un-bulto-crece-y-no-duele-podria-tratarse-un-sarcoma-1083895.aspx",
-    "title": "¿Un bulto que crece y no duele? Podría tratarse de un sarcoma",
-    "snippet": "La aparición de un bulto o masa en cualquier parte del cuerpo que aumenta progresivamente de tamaño, incluso si no causa dolor, puede ser una señal de alerta de sarcoma, un tipo de cáncer poco frecuente que requiere un d...",
-    "date": "2026-07-16T19:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-un-bulto-crece-y-no-duele-podria-tratarse-un-sarcoma-1083895.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-descubren-evidencias-banquetes-rituales-y-ceramica-inedita-ciudad-sagrada-pacatnamu-1083882.aspx",
-    "title": "Descubren evidencias de banquetes rituales y cerámica inédita en ciudad sagrada Pacatnamú",
-    "snippet": "En apenas una semana de excavaciones en el complejo arqueológico Pacatnamú, ubicado en el valle de Jequetepeque, el Proyecto Arqueológico Pacatnamú documentó restos de alimentos traídos desde distintos pisos ecológicos, ...",
-    "date": "2026-07-16T19:28:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-descubren-evidencias-banquetes-rituales-y-ceramica-inedita-ciudad-sagrada-pacatnamu-1083882.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1697541",
-    "title": "Solo dos de cada diez emprendimientos sobreviven el primer año: lanzan asesoría gratuita con IA para cambiar esa realidad, ¿cómo acceder?",
-    "snippet": "La plataforma gratuita de la Fundación AJE Eduardo &amp; Mirtha Añaños, desarrollada junto a Amazon Web Service, busca acercar asesoría especializada en ventas, marketing, precios y gestión a emprendedores de todo el paí...",
-    "date": "2026-07-16T19:09:14",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/emprendimientos-en-peru-dos-de-cada-diez-sobreviven-lanzan-asesoria-gratuita-con-ia-para-mejorar-como-acceder-noticia-1697541",
-    "category": "MERCADO"
   }
 ]
