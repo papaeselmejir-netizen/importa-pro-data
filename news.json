@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-nuevo-reglamento-mejorara-planificacion-y-sostenibilidad-inversiones-publicas-1084195.aspx",
+    "title": "MEF: nuevo reglamento mejorará planificación y sostenibilidad de inversiones públicas",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó el nuevo Reglamento del Sistema Nacional de Programación Multianual y Gestión de Inversiones, que moderniza las reglas con las que el Estado planifica, prioriza, ejecuta ...",
+    "date": "2026-07-18T20:28:04",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-nuevo-reglamento-mejorara-planificacion-y-sostenibilidad-inversiones-publicas-1084195.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-moderniza-transporte-publico-con-tarjeta-interoperable-y-recaudo-digital-1084180.aspx",
+    "title": "ATU moderniza el transporte público con la tarjeta interoperable y recaudo digital",
+    "snippet": "La modernización del transporte público ya no solo se mide por la llegada de nuevos buses a la ciudad. Hoy también se refleja en la forma de pagar un pasaje, supervisar la operación de los servicios y agilizar los trámit...",
+    "date": "2026-07-18T19:11:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-moderniza-transporte-publico-con-tarjeta-interoperable-y-recaudo-digital-1084180.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/llevamos-anos-escuchando-que-beber-leche-innecesario-contraproducente-ultimos-estudios-dicen-todo-contrario",
     "title": "Llevamos años escuchando que los adultos no tienen que beber leche. Los últimos estudios dicen todo lo contrario",
     "snippet": "Durante décadas, la leche fue el pilar indiscutible de cualquier desayuno saludable. Sin embargo, en los últimos años hemos asistido a una auténtica demonización de los lácteos y hemos escuchado prácticamente todo, desde...",
@@ -1330,23 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/pregunta-algo-puede-caldear-final-mundial-respuesta-canticos-argentinos-plena-polemica-ley-nietos",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/pregunta-algo-puede-caldear-final-mundial-respuesta-canticos-argentinos-plena-polemica-ley-nietos",
-    "title": "\"El que no salta es español\": en plena polémica por la Ley de Nietos, los cánticos argentinos a las puertas de la final",
-    "snippet": "Que una selección de fútbol se clasifique para jugar la final de una Copa del Mundo es motivo de celebración. De alegría desmadrada, incluso. Lo saben bien España y Argentina, los dos países que este domingo se disputará...",
-    "date": "2026-07-17T13:22:07",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/pregunta-algo-puede-caldear-final-mundial-respuesta-canticos-argentinos-plena-polemica-ley-nietos",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1697630",
-    "title": "Nueva Carretera Central recién tendría presupuesto adicional para iniciar obras el último trimestre del 2026, según el MTC",
-    "snippet": "El ministro de Transportes y Comunicaciones, Aldo Prieto, reconoció que la obra no recibió recursos del crédito suplementario y que el MTC espera reasignar fondos a finales del año....",
-    "date": "2026-07-17T13:20:37",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/nueva-carretera-central-recien-tendria-presupuesto-adicional-para-iniciar-obras-el-ultimo-trimestre-del-2026-segun-el-mtc-noticia-1697630",
-    "category": "LEGAL"
   }
 ]
