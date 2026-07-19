@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko#0",
+    "title": "Are you a parent missing out on £27 a week? Here's how to check",
+    "snippet": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says....",
+    "date": "2026-07-19T23:16:47",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-gratificacion-como-aprovechar-nivel-actual-del-dolar-para-fortalecer-ahorro-1084248.aspx",
     "title": "Gratificación: cómo aprovechar el nivel actual del dólar para fortalecer el ahorro",
     "snippet": "La gratificación de julio coincide con un tipo de cambio cercano a 3.40 soles por dólar, por debajo de varios registros observados en los últimos años. En este contexto, quienes reciben este ingreso adicional pueden eval...",
@@ -1339,14 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/colombia-puerto-antioquia-realiza-primera-exportacion-de-cafe/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "dff33860-fbc4-4c08-bccc-9ada24d5960f",
-    "title": "You've Probably Watched One of the 300 Titles on Netflix Produced With AI",
-    "snippet": "The streaming video company with the world's most subscribers has leaned quickly into AI-assisted production....",
-    "date": "2026-07-17T20:37:16",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/netflix-300-programs-this-year-ai-production-q2-earnings/",
-    "category": "MERCADO"
   }
 ]
