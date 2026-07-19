@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
+    "title": "Andreas Prins, experto en soberanía digital: \"El sentimiento es uniforme: ya no confiamos en los hiperescaladores de EEUU\"",
+    "snippet": "Hace varias semanas, EEUU ordenó a Anthropic suspender el acceso a Fable 5. Poco después el modelo volvió a estar disponible (aunque con cambios), pero este evento sirvió para algo más: hacer tangible una amenaza de la q...",
+    "date": "2026-07-19T17:00:32",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dia-del-pollo-a-brasa-mas-500-pollerias-han-registrado-sus-marcas-ante-indecopi-1084245.aspx",
+    "title": "Día del Pollo a la Brasa: más de 500 pollerías han registrado sus marcas ante Indecopi",
+    "snippet": "El pollo a la brasa no solo conquista el paladar de millones de peruanos, también inspira creatividad. En el marco del Día del Pollo a la Brasa, que se celebra cada tercer domingo de julio, el Instituto Nacional de Defen...",
+    "date": "2026-07-19T17:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dia-del-pollo-a-brasa-mas-500-pollerias-han-registrado-sus-marcas-ante-indecopi-1084245.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sismo-junin-aeropuerto-francisco-carle-jauja-instala-puente-aereo-para-llevar-ayuda-1084261.aspx",
+    "title": "Sismo en Junín: Aeropuerto Francisco Carlé de Jauja instala puente aéreo para llevar ayuda",
+    "snippet": "El Aeropuerto Francisco Carlé de Jauja, administrado por Corpac, se ha convertido en el principal punto de apoyo para el puente aéreo dispuesto por el Gobierno con el fin de trasladar ayuda humanitaria a las víctimas y d...",
+    "date": "2026-07-19T16:54:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sismo-junin-aeropuerto-francisco-carle-jauja-instala-puente-aereo-para-llevar-ayuda-1084261.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/investigacion/pensabamos-que-crecer-definia-al-genero-homo-sus-inicios-analisis-masivo-demuestra-que-nos-equivocabamos",
+    "title": "Pensábamos que crecer definía al género 'Homo' desde sus inicios. Un análisis masivo demuestra que nos equivocábamos",
+    "snippet": "Durante décadas, la paleoantropología ha intentado descifrar en qué momento exacto de nuestro árbol genealógico dimos el gran \"estirón\" en nuestra altura para pasar de ser personas relativamente pequeñas a las alturas qu...",
+    "date": "2026-07-19T16:30:32",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/investigacion/pensabamos-que-crecer-definia-al-genero-homo-sus-inicios-analisis-masivo-demuestra-que-nos-equivocabamos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143973",
+    "title": "TechCrunch Mobility: The battle over robotaxi rules",
+    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+    "date": "2026-07-19T16:05:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/lleva-30-anos-congelado-a-8-500-metros-ahora-mision-quiere-resolver-fin-quien-era-cadaver-famoso-everest",
+    "title": "Lleva 30 años congelado a 8.500 metros. Ahora una misión quiere resolver por fin quién era el cadáver más famoso del Everest",
+    "snippet": "Si te gusta la montaña y alguna vez has ido (o fantaseas con ir) al Everest, seguramente que el nombre de Green Boots te suene: es el recordatorio de que subir la montaña más alta del mundo sigue siendo una actividad de ...",
+    "date": "2026-07-19T16:00:32",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/lleva-30-anos-congelado-a-8-500-metros-ahora-mision-quiere-resolver-fin-quien-era-cadaver-famoso-everest",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-presidente-balcazar-estamos-actuando-rapido-frente-a-los-sismos-junin-1084247.aspx",
     "title": "Presidente Balcázar: Estamos actuando rápido frente a los sismos en Junín",
     "snippet": "El presidente de la república, José María Balcázar, afirmó que el Gobierno viene actuando de manera inmediata frente a los sismos registrados en Junín, mediante el envío de ayuda humanitaria y la coordinación con las aut...",
@@ -1293,60 +1347,6 @@
     "date": "2026-07-17T19:10:22",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1697178",
-    "title": "Del tren Lima-Ica al Chancay-Pucallpa: el plan del MTC de 10 rutas ferroviarias que moverán 74 millones de pasajeros al año, ¿cuándo y dónde?",
-    "snippet": "¿Revolución de trenes? El Plan Maestro de Desarrollo Ferroviario del MTC prioriza 10 corredores ferroviarios con una inversión de más de US$81millones. El plan busca conectar costa, sierra y selva en dos etapas, entre 20...",
-    "date": "2026-07-17T19:00:50",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/trenes-lima-ica-y-chancay-pucallpa-plan-de-mtc-construir-10-rutas-ferroviarias-para-mover-74-millones-de-pasajeros-cada-ano-desde-cuando-noticia-1697178",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
-    "title": "El nuevo modelo chino Kimi K3 ya es número uno en Frontend Code Arena. Y está desatando una locura en Internet",
-    "snippet": "Parece que fue ayer cuando DeepSeek R1 puso en cuestión una idea que muchos daban por sentada: que la carrera por la inteligencia artificial avanzada seguía teniendo un dueño claro en Silicon Valley. La irrupción del mod...",
-    "date": "2026-07-17T18:58:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=97431",
-    "title": "CCL exige soluciones inmediatas ante deficiencias en aeropuerto Jorge Chávez",
-    "snippet": "La Cámara de Comercio de Lima advierte que las condiciones actuales de atención a los pasajeros y turistas en el nuevo Aeropuerto Internacional Jorge Chávez no corresponden a las de una infraestructura moderna ni a las d...",
-    "date": "2026-07-17T18:56:09",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/ccl-exige-soluciones-inmediatas-ante-deficiencias-en-aeropuerto-jorge-chavez/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/unos-cientificos-espanoles-quieren-salvar-al-planeta-plan-alocado-rellenar-agua-mar-aral-para-capturar-co2",
-    "title": "Unos científicos españoles quieren salvar al planeta con un plan alocado: rellenar de agua el mar de Aral para capturar CO2",
-    "snippet": "La desaparición del mar de Aral, situado entre Kazajistán y Uzbekistán, es ampliamente conocida como uno de los mayores desastres ecológicos provocados por la mano humana. A partir de la década de 1960, el desvío de los ...",
-    "date": "2026-07-17T18:30:08",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/unos-cientificos-espanoles-quieren-salvar-al-planeta-plan-alocado-rellenar-agua-mar-aral-para-capturar-co2",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cantaba-discotecas-hoy-gano-concurso-interpenales-historia-zabdiel-lara-1083950.aspx",
-    "title": "Cantaba en discotecas, hoy ganó el concurso interpenales: la historia de Zabdiel Lara",
-    "snippet": "Entre los barrotes, donde las rutinas transcurren entre horarios estrictos y rejas, una voz de salsa logró abrirse paso y conquistar el escenario. Eduar Alejandro Lara Alfaro, conocido como Zabdiel Lara, obtuvo el primer...",
-    "date": "2026-07-17T18:20:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cantaba-discotecas-hoy-gano-concurso-interpenales-historia-zabdiel-lara-1083950.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/series-television-queridas-todos-tiempos-ideal-para-maraton-acaba-llegar-a-netflix",
-    "title": "Es una de las series de televisión más queridas de todos los tiempos, ideal para un maratón, y acaba de llegar a Netflix",
-    "snippet": "Sin previo aviso, 'Friends' ha aparecido en el catálogo de Netflix. Y sin abandonar HBO Max, su casa de siempre. Hace siete años, tener las diez temporadas en exclusiva valía 85 millones de dólares al año. Pero los tiemp...",
-    "date": "2026-07-17T18:16:07",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/series-television-queridas-todos-tiempos-ideal-para-maraton-acaba-llegar-a-netflix",
     "category": "TRIBUTARIO"
   }
 ]
