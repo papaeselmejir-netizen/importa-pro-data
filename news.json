@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-gore-junin-cuenta-almacenes-abastecidos-y-listos-para-atender-emergencias-1084290.aspx",
+    "title": "Gore Junín cuenta con almacenes abastecidos y listos para atender emergencias",
+    "snippet": "El gobernador regional de Junín, Zósimo Cárdenas Muje, informó al presidente del Consejo de Ministros, Luis Enrique Arroyo Sánchez; y al ministro de Defensa, Amadeo Flores Carcagno, el reporte actualizado de la emergenci...",
+    "date": "2026-07-19T21:48:27",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gore-junin-cuenta-almacenes-abastecidos-y-listos-para-atender-emergencias-1084290.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-credito-suplementario-s-9500-millones-garantizara-atender-prioridades-nacionales-1084284.aspx",
+    "title": "MEF: crédito suplementario de S/ 9,500 millones garantizará atender prioridades nacionales",
+    "snippet": "La ley que aprueba el crédito suplementario por 9,565 millones de soles, publicada hoy en el diario oficial El Peruano, permitirá financiar la continuidad de inversiones públicas, fortalecer la seguridad ciudadana, atend...",
+    "date": "2026-07-19T21:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-credito-suplementario-s-9500-millones-garantizara-atender-prioridades-nacionales-1084284.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=446510",
     "title": "Canadá: Puerto de Montreal crece un 2% interanual en transferencia de carga durante primer semestre de 2026",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Montreal (Canadá) anotó un crecimiento interanual del 2% en transferencia de carga durante\nLa entrada Canadá: Puerto de Montreal crece un 2% interanual en trans...",
@@ -1329,24 +1347,6 @@
     "date": "2026-07-17T20:35:22",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-mercado-motocicletas-crecio-461-el-primer-semestre-del-2026-1084066.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446433",
-    "title": "Argentina: Maersk podría evaluar aumento de frecuencias de servicios en Puerto de Mar del Plata",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Las autoridades del Consorcio Portuario Regional Mar del Plata recibieron la visita de representantes comerciales de\nLa entrada Argentina: Maersk podría evaluar aumento de f...",
-    "date": "2026-07-17T20:00:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-maersk-podria-evaluar-aumento-de-frecuencias-de-servicios-en-puerto-de-mar-del-plata/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-san-martin-fumigan-mas-8000-viviendas-para-frenar-avance-del-dengue-moyobamba-1084053.aspx",
-    "title": "San Martín: fumigan más de 8,000 viviendas para frenar el avance del dengue en Moyobamba",
-    "snippet": "Con el firme propósito de frenar en seco la propagación del dengue y cortar de raíz la cadena de transmisión del zancudo Aedes aegypti en su etapa adulta, se llevó a cabo una masiva jornada de fumigación en la ciudad de ...",
-    "date": "2026-07-17T19:45:07",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-san-martin-fumigan-mas-8000-viviendas-para-frenar-avance-del-dengue-moyobamba-1084053.aspx",
     "category": "MERCADO"
   }
 ]
