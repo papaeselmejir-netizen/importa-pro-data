@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.xataka.com/robotica-e-ia/xiaomi-tiene-robot-humanoide-a-tiempo-completo-su-fabrica-coches-esta-listo-para-dejar-ser-becario",
+    "title": "Xiaomi tiene un robot humanoide a tiempo completo en su fábrica de coches. Ya está listo para dejar de ser un becario",
+    "snippet": "Xiaomi ha conseguido que su fábrica de coches cause sensación. Con los SU7 y YU7 en el mercado, la compañía ha logrado que la gente haga cola y pague un dineral para ver cómo se fabrican estos coches, algo que han conseg...",
+    "date": "2026-07-20T06:00:32",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/xiaomi-tiene-robot-humanoide-a-tiempo-completo-su-fabrica-coches-esta-listo-para-dejar-ser-becario",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-transferencias-internacionales-tardan-hasta-cinco-dias-llegar-a-empresas-peruanas-1084266.aspx",
+    "title": "Transferencias internacionales tardan hasta cinco días en llegar a empresas peruanas",
+    "snippet": "Perú ha avanzado rápidamente en la digitalización de los pagos locales. Sin embargo, las empresas que reciben ingresos desde el extranjero todavía deben esperar entre uno y cinco días hábiles para disponer de esos recurs...",
+    "date": "2026-07-20T04:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-transferencias-internacionales-tardan-hasta-cinco-dias-llegar-a-empresas-peruanas-1084266.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-nuevo-ruc-2026-conoce-los-cambios-podrian-evitarte-multas-mas-1-uit-1084262.aspx",
     "title": "Nuevo RUC 2026: conoce los cambios que podrían evitarte multas de más de 1 UIT",
     "snippet": "La transformación digital de los servicios tributarios en el Perú sigue avanzando. Con la entrada en vigencia de la Resolución de Superintendencia N.° 121-2026/SUNAT, millones de contribuyentes deberán realizar cambios e...",
@@ -1330,23 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/terminal-puerto-arica-aumenta-40-su-capacidad-de-despacho-habitual-ante-contingencia-logistica-por-carga-boliviana/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=967563",
-    "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-    "snippet": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, acc...",
-    "date": "2026-07-17T22:09:47",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-pcm-aprueba-proyecto-ley-para-creacion-nuevo-distrito-frontera-ecuador-1084069.aspx",
-    "title": "PCM aprueba proyecto de ley para la creación de nuevo distrito en frontera con Ecuador",
-    "snippet": "La Presidencia del Consejo de Ministros (PCM) aprobó el proyecto de ley que propone la creación del distrito de Winchinkim, ubicado en la provincia de Condorcanqui, región Amazonas, que representa un paso importante para...",
-    "date": "2026-07-17T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-pcm-aprueba-proyecto-ley-para-creacion-nuevo-distrito-frontera-ecuador-1084069.aspx",
-    "category": "MERCADO"
   }
 ]
