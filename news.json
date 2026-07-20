@@ -1,5 +1,131 @@
 [
   {
+    "id": "https://lacamara.pe/?p=97538",
+    "title": "Tottus presenta Croc, una nueva línea de cereales fortificada",
+    "snippet": "En un contexto en el que las familias buscan alternativas prácticas para organizar el desayuno y las loncheras escolares, las marcas propias continúan ampliando su presencia en el mercado peruano. En línea con esta tende...",
+    "date": "2026-07-20T20:19:06",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/tottus-presenta-croc-una-nueva-linea-de-cereales-fortificada-ccl-asociados/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=967989",
+    "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+    "snippet": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You on...",
+    "date": "2026-07-20T20:06:40",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-bcr-exportaciones-peruanas-crecieron-389-mayo-y-superaron-los-9400-millones-1084381.aspx",
+    "title": "BCR: exportaciones peruanas crecieron 38.9% en mayo y superaron los US$ 9,400 millones",
+    "snippet": "Las exportaciones peruanas sumaron 9,415 millones de dólares en mayo de 2026, monto que representó un crecimiento de 38.9% respecto al mismo mes del año anterior, impulsado principalmente por el incremento de los precios...",
+    "date": "2026-07-20T19:56:38",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-bcr-exportaciones-peruanas-crecieron-389-mayo-y-superaron-los-9400-millones-1084381.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-supera-a-espana-y-argentina-mundial-matematica-china-1084374.aspx",
+    "title": "Perú supera a España y Argentina en Mundial de Matemática en China",
+    "snippet": "La delegación peruana volvió a destacar en la élite de la matemática mundial al obtener tres medallas de plata, dos de bronce y una mención honrosa en la 67.ª Olimpiada Internacional de Matemáticas (IMO 2026), disputada ...",
+    "date": "2026-07-20T19:48:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-supera-a-espana-y-argentina-mundial-matematica-china-1084374.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
+    "title": "Cronograma de pagos 2026 de sueldos y pensiones en el Estado peruano",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
+    "date": "2026-07-20T19:39:16",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144370",
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "snippet": "X says the rebuilt version of its Android app is now available globally....",
+    "date": "2026-07-20T19:37:39",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/nvidia-ha-encontrado-forma-contener-consumo-centros-datos-ia-liquido-caliente-que-jacuzzi",
+    "title": "NVIDIA ha encontrado una forma de contener el consumo de los centros de datos de IA: líquido más caliente que un jacuzzi",
+    "snippet": "Durante años, hemos asociado los centros de datos eficientes con salas frías, pasillos de aire helado y máquinas rugiendo para mantener los servidores bajo control. La expansión de la inteligencia artificial está obligan...",
+    "date": "2026-07-20T19:31:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/nvidia-ha-encontrado-forma-contener-consumo-centros-datos-ia-liquido-caliente-que-jacuzzi",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446616",
+    "title": "Taiwán acusa a China de acosar a buques comerciales en el Pacífico",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Taiwán alertó sobre un incremento en la presencia de buques científicos y de la Guardia\nLa entrada Taiwán acusa a China de acosar a buques comerciales en el ...",
+    "date": "2026-07-20T19:30:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/taiwan-acusa-a-china-de-acosar-a-buques-comerciales-en-el-pacifico/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-alertaminedu-aplicativo-garantizara-seguridad-estudiantes-ante-emergencias-por-nino-1084376.aspx",
+    "title": "AlertaMinedu: aplicativo garantizará seguridad de estudiantes ante emergencias por El Niño",
+    "snippet": "El Ministerio de Educación (Minedu) presentó hoy lunes 20 de julio en Piura el aplicativo móvil AlertaMinedu, que será gestionado directamente por los directores de las instituciones educativas con el objetivo de fortale...",
+    "date": "2026-07-20T19:18:39",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-alertaminedu-aplicativo-garantizara-seguridad-estudiantes-ante-emergencias-por-nino-1084376.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/japon-tiene-tres-lineas-rojas-armas-nucleares-ellas-no-parece-intocable",
+    "title": "Japón tiene tres líneas rojas sobre las armas nucleares. Una de ellas ya no parece tan intocable",
+    "snippet": "Japón tiene una relación con las armas nucleares que ningún otro país puede contar en primera persona. Hiroshima y Nagasaki no son solo dos nombres en los libros de historia, sino el origen de una identidad política cons...",
+    "date": "2026-07-20T19:01:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/japon-tiene-tres-lineas-rojas-armas-nucleares-ellas-no-parece-intocable",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446668",
+    "title": "Perú agiliza atención en trámites para transporte internacional terrestre de mercancías",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones del Perú (MTC) culminó la primera fase de modernización del\nLa entrada Perú agiliza atención en trámites para transporte intern...",
+    "date": "2026-07-20T19:00:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-agiliza-atencion-en-tramites-para-transporte-internacional-terrestre-de-mercancias/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/renfe-pierde-viajeros-media-distancia-motivo-simple-ciudadano-quiere-tren-que-pase-a-su-hora-no-se-averie",
+    "title": "Si Renfe pierde viajeros en media distancia es por un motivo simple: \"El ciudadano quiere un tren que pase a su hora y no se averíe\"",
+    "snippet": "Con el Gobierno tratando de impulsar los viajes en tren los servicios de Cercanías, media distancia convencional y larga distancia de alta velocidad perdieron viajeros. Eso es lo que nos dice el informe de la CNMC, que t...",
+    "date": "2026-07-20T18:31:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/renfe-pierde-viajeros-media-distancia-motivo-simple-ciudadano-quiere-tren-que-pase-a-su-hora-no-se-averie",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2217119/how-to-store-car-keys-on-iphone/",
+    "title": "Everything to know before putting a car key on your iPhone",
+    "snippet": "Do you need to be in your car to set up your digital car key?...",
+    "date": "2026-07-20T18:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2217119/how-to-store-car-keys-on-iphone/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mas-2900-internos-del-penal-del-callao-acceden-a-5000-libros-1084368.aspx",
+    "title": "Más de 2900 internos del penal del Callao acceden a 5000 libros",
+    "snippet": "La Biblioteca Central “Padre Hugo de Censi”, ubicada en el Establecimiento Penitenciario del Callao, abrió sus puertas para promover la educación, la cultura y la reinserción social de casi tres mil personas privadas de ...",
+    "date": "2026-07-20T18:13:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mas-2900-internos-del-penal-del-callao-acceden-a-5000-libros-1084368.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/teoria-decia-que-ozempic-iba-a-acabar-ultraprocesados-realidad-que-ha-reinventado",
     "title": "La teoría decía que Ozempic iba a acabar con los ultraprocesados. La realidad es que los ha reinventado",
     "snippet": "Quien creyera que la fiebre del Ozempic iba a suponer un duro golpe para los fabricantes de productos ultraprocesados estaba muy equivocado. Y es que, como bien ha explicado recientemente en la SER la experta en tecnolog...",
@@ -1222,131 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/japon-lleva-medio-siglo-cobrando-arancel-0-a-coches-extranjeros-sera-muy-dificil-que-encuentres-uno-calle",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/10-40-kilos-renfe-cambia-sus-normas-para-viajar-perros-grandes-tren",
-    "title": "De los 10 hasta 40 kilos: Renfe cambia sus normas para viajar con perros grandes en el tren",
-    "snippet": "Cuando hace 13 años me encontré a mi querida Lola, una braca francesa de 18 kg, acabé comprándome un coche de segunda mano porque viajar con ella en tren o autobús era sencillamente una misión imposible. Han pasado mucho...",
-    "date": "2026-07-19T07:16:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/10-40-kilos-renfe-cambia-sus-normas-para-viajar-perros-grandes-tren",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/10-40-kilos-renfe-cambia-sus-normas-para-viajar-perros-grandes-tren",
-    "title": "España tiene 7,5 millones de perros, así que Renfe ha cambiado sus normas para viajar con mascotas grandes en tren",
-    "snippet": "Cuando hace 13 años me encontré a mi querida Lola, una braca francesa de 18 kg, acabé comprándome un coche de segunda mano porque viajar con ella en tren o autobús era sencillamente una misión imposible. Han pasado mucho...",
-    "date": "2026-07-19T07:16:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/10-40-kilos-renfe-cambia-sus-normas-para-viajar-perros-grandes-tren",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/argentina-6-peru-0-historia-supuesto-mayor-amano-mundiales-dictaduras-secuestrados",
-    "title": "Argentina 6 - Perú 0: la historia del supuesto mayor amaño de los Mundiales entre dictaduras y desaparecidos",
-    "snippet": "En el contexto de una dictadura que hacía desaparecer opositores diariamente, se disputó en Argentina el Mundial de 1978, un capítulo bochornoso en el libro de historia del fútbol. \"Sabía lo que pasaba con los que gobern...",
-    "date": "2026-07-19T07:00:07",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/argentina-6-peru-0-historia-supuesto-mayor-amano-mundiales-dictaduras-secuestrados",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tres-companias-bomberos-voluntarios-participaran-desfile-civico-militar-1084223.aspx",
-    "title": "Tres compañías de bomberos voluntarios participarán en Desfile Cívico Militar",
-    "snippet": "El Ministerio de Defensa (Mindef) y el Cuerpo General de Bomberos Voluntarios del Perú (Cgbvp) informaron que en el Desfile Cívico Militar participarán tres compañías de bomberos voluntarios, integradas por efectivos de ...",
-    "date": "2026-07-19T03:41:31",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tres-companias-bomberos-voluntarios-participaran-desfile-civico-militar-1084223.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360772/hong-kongs-5-year-plan-must-focus-what-city-does-best?utm_source=rss_feed",
-    "title": "Hong Kong’s 5-year plan must focus on what the city does best",
-    "snippet": "Hong Kong has embarked on the path of drawing up its first five-year plan – a significant moment in its history. Hong Kong’s first five-year plan should be more than a local economic blueprint. Properly conceived, it sho...",
-    "date": "2026-07-19T01:30:05",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360772/hong-kongs-5-year-plan-must-focus-what-city-does-best?utm_source=rss_feed",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446468",
-    "title": "BW LPG registra una ganancia comercial de USD 127 millones durante segundo trimestre de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera BW LPG hizo publico su informe financiero correspondiente al segundo trimestre del vigente año.\nLa entrada BW LPG registra una ganancia comercial de USD 127 millo...",
-    "date": "2026-07-19T01:00:39",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/bw-lpg-registra-una-ganancia-comercial-de-usd-127-millones-durante-segundo-trimestre-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446334",
-    "title": "Italia: Puerto de Gioia Tauro completa primer suministro de energía eléctrica en frío a portacontenedores",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Gioia Tauro completó su primer suministro de energía eléctrica en frío a un\nLa entrada Italia: Puerto de Gioia Tauro completa primer suministro de energía eléct...",
-    "date": "2026-07-19T00:00:55",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/italia-puerto-de-gioia-tauro-completa-primer-suministro-de-energia-electrica-en-frio-a-portacontenedores/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446364",
-    "title": "Incluyen proyecto de energía undimotriz terrestre en Puerto de Los Angeles en Informe que es parte de Proyecto de Ley",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El desarrollador de tecnología de energía undimotriz terrestre Eco Wave Power Global celebró su inclusión en el\nLa entrada Incluyen proyecto de energía undimotriz terrestre ...",
-    "date": "2026-07-18T22:00:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/incluyen-proyecto-de-energia-undimotriz-terrestre-en-puerto-de-los-angeles-en-informe-que-es-parte-de-proyecto-de-ley/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-unesco-reconoce-como-patrimonio-documental-las-planillas-meteorologicas-puerto-chicama-1084189.aspx",
-    "title": "Unesco reconoce como patrimonio documental las planillas meteorológicas de Puerto Chicama",
-    "snippet": "El Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi), organismo adscrito al Ministerio del Ambiente (Minam), recibió el certificado que acredita la incorporación de las Planillas Meteorológicas de la esta...",
-    "date": "2026-07-18T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-unesco-reconoce-como-patrimonio-documental-las-planillas-meteorologicas-puerto-chicama-1084189.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mp-reporta-mas-12-mil-denuncias-extorsion-durante-primer-semestre-2026-1084198.aspx",
-    "title": "MP reporta más de 12 mil denuncias por extorsión durante el primer semestre de 2026",
-    "snippet": "El Ministerio Público registró 12 634 delitos denunciados por extorsión y chantaje entre enero y junio de 2026. Ello representa un promedio de 1 053 delitos denunciados por mes, 70 por día y aproximadamente tres por hora...",
-    "date": "2026-07-18T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mp-reporta-mas-12-mil-denuncias-extorsion-durante-primer-semestre-2026-1084198.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-nuevo-reglamento-mejorara-planificacion-y-sostenibilidad-inversiones-publicas-1084195.aspx",
-    "title": "MEF: nuevo reglamento mejorará planificación y sostenibilidad de inversiones públicas",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó el nuevo Reglamento del Sistema Nacional de Programación Multianual y Gestión de Inversiones, que moderniza las reglas con las que el Estado planifica, prioriza, ejecuta ...",
-    "date": "2026-07-18T20:28:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-nuevo-reglamento-mejorara-planificacion-y-sostenibilidad-inversiones-publicas-1084195.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-moderniza-transporte-publico-con-tarjeta-interoperable-y-recaudo-digital-1084180.aspx",
-    "title": "ATU moderniza el transporte público con la tarjeta interoperable y recaudo digital",
-    "snippet": "La modernización del transporte público ya no solo se mide por la llegada de nuevos buses a la ciudad. Hoy también se refleja en la forma de pagar un pasaje, supervisar la operación de los servicios y agilizar los trámit...",
-    "date": "2026-07-18T19:11:35",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-moderniza-transporte-publico-con-tarjeta-interoperable-y-recaudo-digital-1084180.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/llevamos-anos-escuchando-que-beber-leche-innecesario-contraproducente-ultimos-estudios-dicen-todo-contrario",
-    "title": "Llevamos años escuchando que los adultos no tienen que beber leche. Los últimos estudios dicen todo lo contrario",
-    "snippet": "Durante décadas, la leche fue el pilar indiscutible de cualquier desayuno saludable. Sin embargo, en los últimos años hemos asistido a una auténtica demonización de los lácteos y hemos escuchado prácticamente todo, desde...",
-    "date": "2026-07-18T19:00:08",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-escuchando-que-beber-leche-innecesario-contraproducente-ultimos-estudios-dicen-todo-contrario",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indecopi-conmemora-30-anos-de-comision-eliminacion-barreras-burocraticas-1084177.aspx",
-    "title": "Indecopi conmemora 30 años de la Comisión de Eliminación de Barreras Burocráticas",
-    "snippet": "El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) conmemora los 30 años de creación de la Comisión de Eliminación de Barreras Burocráticas (CEB) con la presentac...",
-    "date": "2026-07-18T18:38:18",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indecopi-conmemora-30-anos-de-comision-eliminacion-barreras-burocraticas-1084177.aspx",
-    "category": "MERCADO"
   }
 ]
