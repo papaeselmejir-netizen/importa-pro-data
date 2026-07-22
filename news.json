@@ -1,7 +1,448 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-aprueba-reglamento-sobre-procedimiento-control-del-valor-el-regimen-aduanero-1084628.aspx",
+    "title": "MEF aprueba reglamento sobre procedimiento de control del valor en el régimen aduanero",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó el reglamento del procedimiento especial de control del valor en el régimen aduanero de importación para el consumo, establecido por el Decreto Legislativo N° 1721....",
+    "date": "2026-07-22T13:51:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-aprueba-reglamento-sobre-procedimiento-control-del-valor-el-regimen-aduanero-1084628.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ayacucho-investigadores-inician-excavaciones-cientificas-historica-cueva-pikimachay-1084626.aspx",
+    "title": "Ayacucho: investigadores inician excavaciones científicas en histórica Cueva de Pikimachay",
+    "snippet": "La histórica cueva de Pikimachay, ubicada en la región Ayacucho, considerada uno de los yacimientos arqueológicos más importantes del Perú y Sudamérica, vuelve a convertirse en el centro de la investigación científica....",
+    "date": "2026-07-22T13:32:32",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ayacucho-investigadores-inician-excavaciones-cientificas-historica-cueva-pikimachay-1084626.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/entendiendo-trio-plegables-samsung-top-joven-gran-rival-iphone-plegable",
+    "title": "Entendiendo el trío de plegables de Samsung: el top, el joven y el gran rival del iPhone plegable",
+    "snippet": "Samsung ha presentado su nueva serie Galaxy Z: Fold8, Fold8 Ultra y Flip8. No es una jerarquía de gama alta a gama baja, sino tres formas distintas de entender un plegable, cada una dirigida a un tipo de usuario concreto...",
+    "date": "2026-07-22T13:31:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/entendiendo-trio-plegables-samsung-top-joven-gran-rival-iphone-plegable",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1698345",
+    "title": "Más de 350 mil trabajadores CAS recibirán el 10% de su gratificación este año: sin bono de EsSalud y con el 100% recién en 2030",
+    "snippet": "Oficial. El reglamento publicado por el Gobierno confirma que las gratificaciones y la CTS para los trabajadores CAS se implementarán de forma gradual hasta 2030. Además, este régimen no accederá a la bonificación extrao...",
+    "date": "2026-07-22T13:30:03",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/gratificaciones-cas-y-cts-mas-de-350-mil-trabajadores-recibiran-10-por-ciento-en-2026-sin-bono-de-essalud-cuando-recibiran-pago-100-por-ciento-noticia-1698345",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446999",
+    "title": "Movimiento de carga en Puerto de Suape crece 25,6% durante primer semestre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Complejo Industrial Portuario de Suape cerró el primer semestre de 2026 con la movilización de\nLa entrada Movimiento de carga en Puerto de Suape crece 25,6% durante prime...",
+    "date": "2026-07-22T13:28:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/movimiento-de-carga-en-puerto-de-suape-crece-256-durante-primer-semestre/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2220592/samsung-galaxy-watch-9-vs-galaxy-watch-8-comparison/",
+    "title": "Samsung Galaxy Watch 9 vs Galaxy Watch 8: What are the differences?",
+    "snippet": "The Galaxy Watch 9 is a relatively modest update over last year's model....",
+    "date": "2026-07-22T13:17:44",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220592/samsung-galaxy-watch-9-vs-galaxy-watch-8-comparison/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/roborock-renueva-sus-aspiradoras-mopa-espana-desinfeccion-a-vapor-diseno-extrafino-200-euros",
+    "title": "Roborock renueva sus aspiradoras 'mopa' en España: desinfección a vapor y diseño extrafino por menos de 200 euros",
+    "snippet": "Si has intentado limpiar alguna vez debajo de un sofá con una aspiradora en seco y húmedo, sabrás lo frustrante que puede llegar a ser: la mayoría de los depósitos pegados al mango impiden que el aparato se tumbe por com...",
+    "date": "2026-07-22T13:15:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/roborock-renueva-sus-aspiradoras-mopa-espana-desinfeccion-a-vapor-diseno-extrafino-200-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2220360/samsung-galaxy-z-fold-8-ultra-vs-s26-ultra-which-is-better/",
+    "title": "Samsung Galaxy Z Fold 8 Ultra vs Galaxy S26 Ultra: Which is the better Ultra?",
+    "snippet": "Samsung's smartphone lineup pits a jack of all trades against a master of one....",
+    "date": "2026-07-22T13:10:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220360/samsung-galaxy-z-fold-8-ultra-vs-s26-ultra-which-is-better/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/samsung-galaxy-z-fold-8-caracteristicas-precio-ficha-tecnica",
+    "title": "Samsung Galaxy Z Fold8: bienvenido, plegable tipo pasaporte. Ya estabas tardando",
+    "snippet": "Tras infinitas filtraciones y rumores, Samsung ha hecho oficial un nuevo formato de plegable. No \"nuevo\" como tal, sino diferente. Porque el Samsung Galaxy Z Fold8 sigue siendo un Fold, pero ahora es mucho, pero mucho má...",
+    "date": "2026-07-22T13:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/samsung-galaxy-z-fold-8-caracteristicas-precio-ficha-tecnica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/samsung-galaxy-z-flip8-caracteristicas-precio-ficha-tecnica",
+    "title": "Samsung Galaxy Z Flip8: el plegable para los que quieren un móvil compacto baja de peso y es aún más finito",
+    "snippet": "Samsung tiene muy diferenciadas sus gamas de plegables. Está el nuevo Fold8, que es el \"plegable para todos\". Está el Z Fold8 Ultra, el más completo y el de carácter más profesional; y está el Galaxy Z Flip8, el plegable...",
+    "date": "2026-07-22T13:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/samsung-galaxy-z-flip8-caracteristicas-precio-ficha-tecnica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/relojes-inteligentes/samsung-galaxy-watch-ultra2-galaxy-watch9-caracteristicas-precio-ficha-tecnica",
+    "title": "Hay dos cosas en las que un smartwatch siempre puede mejorar: batería y brillo. Samsung ha tomado buena nota",
+    "snippet": "No solo plegables nos ha traído Samsung. La compañía coreana ha aprovechado el Unpacked para renovar su gama de relojes inteligentes que, como manda la tradición, consta de dos dispositivos: el modelo Ultra y el modelo e...",
+    "date": "2026-07-22T13:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/relojes-inteligentes/samsung-galaxy-watch-ultra2-galaxy-watch9-caracteristicas-precio-ficha-tecnica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/samsung-galaxy-z-fold8-ultra-caracteristicas-precio-ficha-tecnica",
+    "title": "Samsung Galaxy Z Fold8 Ultra: el plegable más top de Samsung da, por fin, el salto que necesitaba en batería",
+    "snippet": "¿Ultra? ¿Cómo que Ultra? Sí, este año Samsung no ha lanzado dos, sino tres dispositivos plegables: el Z Fold8 (que adopta el formato pasaporte), el Z Flip8 y el Z Fold8 Ultra, heredero espiritual en términos de formato d...",
+    "date": "2026-07-22T13:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/samsung-galaxy-z-fold8-ultra-caracteristicas-precio-ficha-tecnica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/he-probado-samsung-galaxy-z-fold8-ahora-se-exactamente-para-quien-este-nuevo-formato-plegable",
+    "title": "He probado el Samsung Galaxy Z Fold8: ahora sé exactamente para quién es este nuevo formato de plegable",
+    "snippet": "El Galaxy Z Fold8 fue uno de esos teléfonos que, sin necesidad de hacer demasiado ruido, consiguieron que quisiera seguir teniéndolo en la mano. Volví a él varias veces durante la toma de contacto, atraído por unas propo...",
+    "date": "2026-07-22T13:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/he-probado-samsung-galaxy-z-fold8-ahora-se-exactamente-para-quien-este-nuevo-formato-plegable",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/wearables/samsung-tiene-sus-propias-gafas-inteligentes-dificil-sera-diferenciarlas-sus-competidores",
+    "title": "Samsung ya tiene sus propias gafas inteligentes. Lo difícil será diferenciarlas de las de sus competidores",
+    "snippet": "Durante el evento Galaxy Unpacked celebrado estos días en Londres, Samsung ha presentado sus esperadas gafas inteligentes. Estamos ante dos diseños distintos desarrollados en colaboración con las marcas internacionales d...",
+    "date": "2026-07-22T13:01:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/wearables/samsung-tiene-sus-propias-gafas-inteligentes-dificil-sera-diferenciarlas-sus-competidores",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446863",
+    "title": "Rumania: BERD y la UE apoyan transformación verde del Puerto de Constanza",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Banco Europeo de Reconstrucción y Desarrollo (BERD) concedió un préstamo preferente de hasta 25 millones\nLa entrada Rumania: BERD y la UE apoyan transformación verde del ...",
+    "date": "2026-07-22T13:00:11",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rumania-berd-y-la-ue-apoyan-transformacion-verde-del-puerto-de-constanza/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144582",
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "snippet": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners....",
+    "date": "2026-07-22T13:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144884",
+    "title": "WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more",
+    "snippet": "WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contacts hands-free and right from their car's screen....",
+    "date": "2026-07-22T13:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4787102",
+    "title": "Samsung’s Galaxy Z Fold 8 Is for Everyone Who Can’t Stop Scrolling",
+    "snippet": "Samsung’s book-style foldable could be better suited to the way we actually browse the internet and watch videos....",
+    "date": "2026-07-22T13:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-wide-design-social-media-scolling/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4786659",
+    "title": "Samsung Reveals More About Its Upcoming Google Glasses, Including New Designs",
+    "snippet": "Two new frames from Warby Parker and Gentle Monster, 9 hours of battery life, and privacy questions still in the air: here’s what Samsung shared about what’s coming this fall....",
+    "date": "2026-07-22T13:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/samsung-google-warby-parker-gentle-monster-glasses-preview-new-designs-and-privacy-concerns/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4786165",
+    "title": "Samsung’s Galaxy Z Flip 8 Gets the Cover Screen Right — for a Price",
+    "snippet": "The Galaxy Z Flip 8 starts at $1,200, but it’s now thinner, lighter and easier to use while closed....",
+    "date": "2026-07-22T13:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/uncategorized/samsung-galaxy-z-flip-8-hands-on/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4783477",
+    "title": "Inside Samsung HQ: An Early Look at the Galaxy Z Fold 8 Hints at the Future of Foldables",
+    "snippet": "Samsung’s bold design shift shows how consumer needs are reshaping the foldables category. I was among the first outside Samsung to see its new lineup in Korea....",
+    "date": "2026-07-22T13:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/inside-samsung-hq-early-look-galaxy-z-fold-8-2/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4786083",
+    "title": "I Tested the Galaxy Watch Ultra 2 for a Week and It’s a Rugged Scene-Stealer",
+    "snippet": "Samsung’s sporty smartwatch gets a larger battery, a faster Qualcomm processor, hands-free Gemini and new trail features. The catch? It also costs more....",
+    "date": "2026-07-22T13:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-ultra-2-tested-for-a-week-rugged-scene-stealer/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220316/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/",
+    "title": "Everything announced at Samsung Unpacked 2026: Check out the company's latest Galaxy foldables and watches",
+    "snippet": "Thinner watches, wider foldables, higher prices....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220316/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2219559/samsung-galaxy-z-flip-8-hands-on/",
+    "title": "Samsung Galaxy Z Flip 8 hands-on: Slightly thinner, but more expensive",
+    "snippet": "It's a year of minor upgrades for the Z Flip series....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2219559/samsung-galaxy-z-flip-8-hands-on/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220551/samsung-galaxy-watch-ultra-2-first-week-testing/",
+    "title": "A week with the Samsung Galaxy Watch Ultra 2: Big, bright and sometimes helpful",
+    "snippet": "We've had Samsung's latest Ultra smartwatch for about a week, and here are our first impressions....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220551/samsung-galaxy-watch-ultra-2-first-week-testing/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2219687/samsung-galaxy-z-fold-8-hands-on/",
+    "title": "Samsung Galaxy Z Fold 8 hands-on: Wider is better",
+    "snippet": "The new base version of the Z Fold 8 has reworked aspect ratios for both its interior and exterior displays....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2219687/samsung-galaxy-z-fold-8-hands-on/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220202/samsung-galaxy-z-fold-8-ultra-hands-on/",
+    "title": "Samsung Galaxy Z Fold 8 Ultra hands-on: Upstaged by the base model",
+    "snippet": "The Z Fold 8 Ultra's improved performance, faster charging and a new ultra-wide camera are nice, but what we really want is the regular model's wider screens....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220202/samsung-galaxy-z-fold-8-ultra-hands-on/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220490/samsung-galaxy-z-fold-8-launch-date-price-new-design/",
+    "title": "Samsung's Galaxy Z Fold 8 has a new wider design",
+    "snippet": "Samsung has unveiled a base Galaxy Z Fold 8 model that comes in a different shape than previous Fold devices....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220490/samsung-galaxy-z-fold-8-launch-date-price-new-design/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220523/samsung-galaxy-watch-ultra-2-is-both-slimmer-and-tougher-than-its-predecessor/",
+    "title": "Samsung's Galaxy Watch Ultra 2 is both slimmer and tougher than its predecessor",
+    "snippet": "The Samsung Galaxy Ultra Watch 2 has a slimmer and more rugged design than the first Ultra....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220523/samsung-galaxy-watch-ultra-2-is-both-slimmer-and-tougher-than-its-predecessor/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220546/samsung-new-foldables-come-with-gemini-notebook/",
+    "title": "Samsung's new foldables come with Gemini Notebook pre-installed",
+    "snippet": "Google and Samsung have revealed the Gemini-powered AI tools coming to the new Galaxy foldables and smartwatches....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220546/samsung-new-foldables-come-with-gemini-notebook/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220493/samsung-galaxy-z-fold-8-ultra-release-date-price/",
+    "title": "Samsung's Galaxy Z Fold 8 Ultra has a sharper ultrawide camera and a bigger battery",
+    "snippet": "Samsung has officially announced the Galaxy Z Fold 8 Ultra foldable smartphone, the flagship in the expand Z Fold lineup....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220493/samsung-galaxy-z-fold-8-ultra-release-date-price/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/",
+    "title": "Samsung's slimmer Galaxy Z Flip 8 brings apps and AI to the cover screen",
+    "snippet": "Samsung's Galaxy Z Flip 8 is slimmer and there's now more activity on the cover display....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220500/samsung-galaxy-watch-9/",
+    "title": "Samsung's Galaxy Watch 9 is a gentle evolution of its predecessor",
+    "snippet": "Following on from last year's Galaxy Watch redesign, the Watch 9 doesn't fix what wasn't broken....",
+    "date": "2026-07-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220500/samsung-galaxy-watch-9/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968200",
+    "title": "Samsung’s newest foldable finally feels Ultra",
+    "snippet": "While we wait for Apple's rumored foldable iPhone, Samsung is polishing a design it already has on the market. I just spent three hours with my hands on the new Z Fold 8 Ultra, and all I can think about is how Samsung fi...",
+    "date": "2026-07-22T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968663",
+    "title": "Samsung’s wider Z Fold 8 feels just right",
+    "snippet": "A year after overhauling its Z Fold phone with a radically thinner design, Samsung has changed things up again, this time altering the shape entirely. The Z Fold 8 is wider than any of Samsung's previous foldables, and s...",
+    "date": "2026-07-22T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968728",
+    "title": "Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery",
+    "snippet": "It's a year of refinement for the Galaxy Watch. With the new Galaxy Watch 9 and Galaxy Watch Ultra 2, which are being announced today, Samsung is more or less taking what people like about its watches and tweaking those ...",
+    "date": "2026-07-22T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968883",
+    "title": "I almost forgot Samsung’s Z Flip 8 was a foldable",
+    "snippet": "Samsung's new Galaxy Z Flip 8 feels more like a regular phone than ever. It's thinner, lighter, and has a front screen you can do just about anything on. Whether that's a good or bad thing, I'm not quite sure yet. I spen...",
+    "date": "2026-07-22T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/968883/samsung-galaxy-z-flip-8-announced-hands-on",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=969208",
+    "title": "Samsung Galaxy Unpacked 2026: The 6 biggest announcements",
+    "snippet": "Samsung's annual summer event kicked off on Wednesday morning with the company unveiling a new lineup of watches and foldables. Following weeks of rumors and leaks, Samsung announced the Galaxy Z Fold 8 with a completely...",
+    "date": "2026-07-22T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-mas-350000-trabajadores-cas-recibiran-gratificacion-desde-julio-del-2026-1084625.aspx",
+    "title": "MEF: más de 350,000 trabajadores CAS recibirán gratificación desde julio del 2026",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) informó que más de 350,000 trabajadores contratados bajo el régimen CAS (Contrato Administrativo de Servicios) podrán acceder desde julio del 2026 a la gratificación por Fiestas...",
+    "date": "2026-07-22T12:49:37",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-mas-350000-trabajadores-cas-recibiran-gratificacion-desde-julio-del-2026-1084625.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/expertos-coinciden-olas-calor-estan-afectando-al-turismo-espana-hay-que-reinventarse-cuanto-antes",
+    "title": "Los expertos coinciden: las olas de calor ya están afectando al turismo en España y hay que reinventarse cuanto antes",
+    "snippet": "Que las olas de calor afectan a nuestra salud es algo que estamos empezando a asumir por las malas. Sin embargo, el hecho de que también afectan a la economía nos pasa bastante más desapercibido. Por ejemplo, en España e...",
+    "date": "2026-07-22T12:45:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/expertos-coinciden-olas-calor-estan-afectando-al-turismo-espana-hay-que-reinventarse-cuanto-antes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/clint-eastwood-reflexiona-creatividad-no-entiendo-a-stallone-tengo-impresion-que-solo-hace-dinero",
+    "title": "Clint Eastwood reflexiona sobre la creatividad: \"No entiendo a Stallone, tengo la impresión de que solo lo hace por dinero\"",
+    "snippet": "Esa frase de Clint Eastwood no es actual, sino que pertenece a 2003, a un perfil  que Lillian Ross escribió sobre Eastwood para 'The New Yorker'. Curiosamente después de aquello Stallone volvió a Rocky, pero lo hizo con ...",
+    "date": "2026-07-22T12:31:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/clint-eastwood-reflexiona-creatividad-no-entiendo-a-stallone-tengo-impresion-que-solo-hace-dinero",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-el-estadio-nacional-renovado-abre-sus-puertas-hoy-al-futbol-profesional-1084616.aspx",
+    "title": "El Estadio Nacional renovado abre sus puertas hoy al fútbol profesional",
+    "snippet": "Después de mucho tiempo el  Estadio Nacional volverá a recibir este miércoles (19:30 horas) un partido oficial de fútbol profesional con el encuentro de ida de los playoffs de la Copa Sudamericana entre Sporting Cristal ...",
+    "date": "2026-07-22T12:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-el-estadio-nacional-renovado-abre-sus-puertas-hoy-al-futbol-profesional-1084616.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?post_type=vm_stream&p=967942",
+    "title": "Samsung Unpacked 2026: all the news from the July foldable launch",
+    "snippet": "Samsung revealed its newest slate of foldables at this summer&#8217;s Galaxy Unpacked, which took place in London. In addition to a Galaxy Z Fold 8 that adopts a wider, passport-like form factor, Samsung showed off its n...",
+    "date": "2026-07-22T12:30:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/basics/punto-verde-contactos-whatsapp-que-como-evitar-que-aparezca-tu-perfil",
+    "title": "Punto verde de contactos de WhatsApp: qué es y cómo evitar que aparezca en tu perfil",
+    "snippet": "Vamos a explicarte qué es ese punto verde que empieza a aparecer en contactos de WhatsApp, y cómo puedes evitarlo. Se trata de un indicador que poco a poco empieza a llegar a algunos usuarios, y que la idea es que se vay...",
+    "date": "2026-07-22T12:01:42",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/punto-verde-contactos-whatsapp-que-como-evitar-que-aparezca-tu-perfil",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/nuevo/samsung-galaxy-unpacked-julio-2026-seguir-conferencia-directo",
+    "title": "Samsung Galaxy Unpacked (julio 2026): sigue la presentación de los nuevos plegables de Samsung en directo con nosotros",
+    "snippet": "Si hay una cita que marca el ecuador del verano esa es, sin duda, el Unpacked de Samsung. La compañía coreana nos reúne todos los veranos para presentar sus nuevos dispositivos (plegables, no es ningún secreto por dónde ...",
+    "date": "2026-07-22T12:01:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/nuevo/samsung-galaxy-unpacked-julio-2026-seguir-conferencia-directo",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/estos-aditivos-peligrosos-alimentos-cosmeticos-desfase-ciencia-regulacion-problema",
+    "title": "Los expertos coinciden: muchos alimentos y cosméticos tienen aditivos que nos interesa evitar a cualquier precio",
+    "snippet": "Cada vez que metemos en el carrito de la compra una tortilla de patatas envasada, un hummus o una crema hidratante, incorporamos a nuestro organismo decenas de sustancias que a menudo pasan desapercibidas a pesar de apar...",
+    "date": "2026-07-22T12:01:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/estos-aditivos-peligrosos-alimentos-cosmeticos-desfase-ciencia-regulacion-problema",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=446924",
+    "title": "Polonia: Comienzan obras de nuevo puerto en Przyladek Pomerania",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Se dio inicio oficialmente al proyecto Przyladek Pomerania (Cabo Pomerania), un nuevo puerto en el mar\nLa entrada Polonia: Comienzan obras de nuevo puerto en Przyladek Pomer...",
+    "date": "2026-07-22T12:00:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/polonia-comienzan-obras-de-nuevo-puerto-en-przyladek-pomerania/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-vs-chile-sepa-donde-ver-inicio-de-copa-sudamericana-del-voley-femenino-1084614.aspx",
+    "title": "Perú vs. Chile: Sepa dónde ver el inicio de la Copa Sudamericana del Vóley Femenino",
+    "snippet": "La selección peruana inicia este miércoles (18:15 horas) su camino en la Copa Sudamericana de Vóley Femenino Lima 2026, que se jugará en el Coliseo Eduardo Dibós, frente a Chile, partido que cierra la jornada inaugural d...",
+    "date": "2026-07-22T12:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-vs-chile-sepa-donde-ver-inicio-de-copa-sudamericana-del-voley-femenino-1084614.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/transporte/almeria-creyeron-haber-visto-narcolancha-resulto-ser-yate-solar-finlandes-que-ha-recorrido-6-000-km-repostar",
     "title": "En Almería creyeron haber visto una narcolancha. Resultó ser el yate solar de un finlandés que ha recorrido 6.000 km sin repostar",
+    "snippet": "Los bañistas que trataban de sofocar las altas temperaturas de las últimas olas de calor nadando en los alrededores del Cabo de Gata el domingo pasado, contemplaron atónitos el paso de una embarcación muy poco habitual.\n...",
+    "date": "2026-07-22T11:31:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/transporte/almeria-creyeron-haber-visto-narcolancha-resulto-ser-yate-solar-finlandes-que-ha-recorrido-6-000-km-repostar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/transporte/almeria-creyeron-haber-visto-narcolancha-resulto-ser-yate-solar-finlandes-que-ha-recorrido-6-000-km-repostar",
+    "title": "Parece una narcolancha, es un extraño barco solar: el yate interceptado en Almería tras 6.000 kilómetros sin gastar combustible",
     "snippet": "Los bañistas que trataban de sofocar las altas temperaturas de las últimas olas de calor nadando en los alrededores del Cabo de Gata el domingo pasado, contemplaron atónitos el paso de una embarcación muy poco habitual.\n...",
     "date": "2026-07-22T11:31:14",
     "source": "XATAKA",
@@ -340,6 +781,15 @@
     "source": "LA CÁMARA (CCL)",
     "url": "https://lacamara.pe/dia-nacional-del-cultivo-del-copoazu-natura-destaca-el-valor-de-este-bioactivo-amazonico-para-el-cuidado-de-la-piel-ccl-asociados/",
     "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=97554",
+    "title": "¿Viajas en auto por Fiestas Patrias? Cinco puntos clave para revisar antes de salir, según Mapfre",
+    "snippet": "El incremento de viajes por carretera durante las celebraciones de Fiestas Patrias vuelve a poner el foco en la seguridad vial. De acuerdo con el Observatorio Nacional de Seguridad Vial del Ministerio de Transportes y Co...",
+    "date": "2026-07-21T22:00:32",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/viajas-en-auto-por-fiestas-patrias-cinco-puntos-clave-para-revisar-antes-de-salir-segun-mapfre-ccl-conectados/",
+    "category": "LEGAL"
   },
   {
     "id": "https://andina.pe/agencia/noticia-atu-licenciados-del-ejercito-accederan-a-empleos-el-transporte-publico-1084473.aspx",
@@ -720,6 +1170,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://rpp.pe/1698093",
+    "title": "MEF alista decreto de las gratificaciones CAS: esta semana es clave o quedará en manos de Keiko Fujimori, ¿qué se habló con sindicatos?",
+    "snippet": "A contrareloj. Confederaciones sindicales se reunieron con el MEF para conocer los detalles del decreto que implementará las gratificaciones y la CTS para los trabajadores CAS. La norma aún espera la aprobación del Ejecu...",
+    "date": "2026-07-21T16:30:04",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/gratificaciones-cas-y-cts-mef-prepara-decreto-semana-clave-o-se-definiria-en-gobierno-de-keiko-fujimori-noticia-1698093",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/empresas-y-economia/hacienda-ha-confirmado-que-era-realidad-vivir-gratis-casa-tus-padres-no-implica-donacion-vivienda",
     "title": "Hacienda ha confirmado lo que ya era una realidad: vivir gratis en casa de tus padres no implica una donación de vivienda",
     "snippet": "El precio de la vivienda es uno de los principales obstáculos para la emancipación de los jóvenes en España. Según datos del Consejo de la Juventud de España, solo el 15,2% de los jóvenes pueden permitirse vivir fuera de...",
@@ -889,464 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-martes-21-julio-del-2026-1084468.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144673",
-    "title": "UK government scraps plans for digital ID cards after millions of Brits opposed",
-    "snippet": "The new U.K. government scrapped a digital ID program that millions of British people opposed, in place of a tax cut to tackle the cost of living....",
-    "date": "2026-07-21T14:13:21",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/21/uk-government-scraps-plans-for-digital-id-cards-after-millions-of-brits-opposed/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ejecutivo-aprueba-orientaciones-para-optimizar-registro-danos-ante-emergencias-1084464.aspx",
-    "title": "Ejecutivo aprueba orientaciones para optimizar registro de daños ante emergencias",
-    "snippet": "La Presidencia del Consejo de Ministros (PCM) aprobó un documento normativo cuyo propósito es articular los esfuerzos de los tres niveles de gobierno para agilizar la identificación de los daños a la vida, salud y medios...",
-    "date": "2026-07-21T14:11:52",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ejecutivo-aprueba-orientaciones-para-optimizar-registro-danos-ante-emergencias-1084464.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mundial-2026-records-whatsapp-instagram-y-facebook-1084465.aspx",
-    "title": "Mundial 2026 récords en WhatsApp, Instagram y Facebook",
-    "snippet": "El Mundial 2026 alcanzó cifras históricas en las plataformas de Meta. WhatsApp registró un nuevo récord de mensajes por segundo, mientras Instagram, Facebook y Threads concentraron millones de interacciones durante el to...",
-    "date": "2026-07-21T14:09:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mundial-2026-records-whatsapp-instagram-y-facebook-1084465.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/hay-companias-aereas-planificando-vuelos-para-ver-eclipse-solar-aire-merece-pena",
-    "title": "Ya hay compañías aéreas planificando vuelos para ver el eclipse solar desde el aire: ¿merece la pena?",
-    "snippet": "En Bélgica no se va a ver el eclipse solar de este 12 de agosto de 2026 en plena totalidad, pero van a exprimir la parcialidad de una forma muy curiosa: planificando un vuelo para verlo desde el aire. Lo llevará a cabo l...",
-    "date": "2026-07-21T14:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/hay-companias-aereas-planificando-vuelos-para-ver-eclipse-solar-aire-merece-pena",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446646",
-    "title": "Puerto Lázaro Cárdenas consolida su crecimiento en primer semestre de 2026 con incremento de carga de 16%",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto Lázaro Cárdenas continúa consolidándose como uno de los principales motores del comercio exterior y\nLa entrada Puerto Lázaro Cárdenas consolida su crecimiento en p...",
-    "date": "2026-07-21T14:00:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-lazaro-cardenas-consolida-su-crecimiento-en-primer-semestre-de-2026-con-incremento-de-carga-de-16/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-es-oficial-gobierno-declara-dia-no-laborable-cada-10-julio-tambopata-madre-dios-1084462.aspx",
-    "title": "Es oficial: Gobierno declara día no laborable cada 10 de julio en Tambopata, Madre de Dios",
-    "snippet": "La provincia de Tambopata, en la región Madre de Dios, contará desde ahora con un día no laborable oficial cada 10 de julio, fecha en la que se conmemora el aniversario de la fundación histórica de la ciudad de Puerto Ma...",
-    "date": "2026-07-21T13:35:24",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-es-oficial-gobierno-declara-dia-no-laborable-cada-10-julio-tambopata-madre-dios-1084462.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/1-297-partidos-24-horas-hay-gente-jugando-durante-horas-para-alimentar-casas-apuestas-online",
-    "title": "1.297 partidos en 24 horas: hay gente jugando durante horas para alimentar las casas de apuestas online",
-    "snippet": "A las 4:30 de la madrugada, un portero del \"Ámsterdam\" sale del campo para recuperar un balón perdido en la cancha de al lado. En la sala contigua, separada de la anterior simplemente por una cortina, se juega otro parti...",
-    "date": "2026-07-21T13:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/1-297-partidos-24-horas-hay-gente-jugando-durante-horas-para-alimentar-casas-apuestas-online",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-emiliano-dibu-martinez-abre-puerta-a-una-retirada-de-seleccion-argentina-1084460.aspx",
-    "title": "Emiliano \"Dibu\" Martínez abre la puerta a una retirada de la selección argentina",
-    "snippet": "Tras la derrota en la final del Mundial 2026 contra España, el guardameta argentino Emiliano \"Dibu\" Martínez abrió este martes la puerta a una posible retirada de la selección en una publicación en Instagram en la que se...",
-    "date": "2026-07-21T13:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-emiliano-dibu-martinez-abre-puerta-a-una-retirada-de-seleccion-argentina-1084460.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968325",
-    "title": "The Switch 2 is $50 off at Woot for new customers",
-    "snippet": "Woot is celebrating its 22nd anniversary by rolling out a full week of sales, and one of them stands out for gamers looking to get a deal on Nintendo’s latest console. Normally $449.99, the Nintendo Switch 2 is $22 off f...",
-    "date": "2026-07-21T13:27:32",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/968325/woot-switch-2-coupon-discount-code-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/vigilancia-360-alta-resolucion-pagar-suscripciones-reolink-omvi-3i-wifi-llega-a-espana",
-    "title": "Vigilancia 360° de alta resolución y sin pagar suscripciones: la Reolink OMVI 3i WiFi llega a España",
-    "snippet": "A la hora de proteger la vivienda o el negocio con sistemas de videovigilancia, uno de los dilemas habituales es elegir entre una cámara de gran angular que cubra mucho espacio o una con movimiento pan-tilt que permita h...",
-    "date": "2026-07-21T13:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/vigilancia-360-alta-resolucion-pagar-suscripciones-reolink-omvi-3i-wifi-llega-a-espana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/pantallas-oled-se-fabricaban-igual-hace-anos-lenovo-tcl-acaban-romper-esa-norma",
-    "title": "Las pantallas OLED se fabricaban igual desde hace años. Lenovo y TCL acaban de romper esa norma",
-    "snippet": "Lenovo ha presentado el Legion R9000P, un portátil gaming de 16 pulgadas que se convierte en el primer equipo del mercado en incorporar una pantalla OLED fabricada mediante impresión por inyección de tinta (Inkjet Printi...",
-    "date": "2026-07-21T13:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/pantallas-oled-se-fabricaban-igual-hace-anos-lenovo-tcl-acaban-romper-esa-norma",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968220",
-    "title": "Nintendo keeps making shooters more friendly and approachable",
-    "snippet": "Nintendo does a lot of weird things, but Splatoon might just be one of the strangest - or at least the boldest. The series started as an attempt to muscle into the ultra-competitive online shooter space, but in a way tha...",
-    "date": "2026-07-21T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/entertainment/968220/splatoon-raiders-review-nintendo-switch-2",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/se-acabo-fumar-terrazas-nueva-ley-pone-fin-a-uno-ultimos-subterfugios-tabaco-espana",
-    "title": "Se acabó fumar en las terrazas: la nueva ley pone fin a uno de los últimos subterfugios del tabaco en España",
-    "snippet": "Algunas costumbres sobreviven por pura inercia. En España, una de ellas consiste en salir a una terraza, pedir una caña y asumir que alguien, tarde o temprano, encenderá un cigarrillo a medio metro de tu mesa. Da igual q...",
-    "date": "2026-07-21T12:21:59",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/se-acabo-fumar-terrazas-nueva-ley-pone-fin-a-uno-ultimos-subterfugios-tabaco-espana",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-alianza-lima-y-las-razones-llevaron-salida-guillermo-viscarra-1084454.aspx",
-    "title": "Alianza Lima y las razones que llevaron la salida de Guillermo Viscarra",
-    "snippet": "Alianza Lima anunció la salida del portero boliviano Guillermo 'Billy' Viscarra, que se había unido al equipo en 2024 y destacó en la temporada de 2025 cuando el conjunto blanquiazul eliminó a Boca Juniors en la Copa Lib...",
-    "date": "2026-07-21T12:13:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-alianza-lima-y-las-razones-llevaron-salida-guillermo-viscarra-1084454.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/gobierno-aprueba-nueva-ley-antitabaco-prohibido-fumar-vapear-coches-empresa-multas-200-euros",
-    "title": "El Gobierno aprueba la nueva Ley Antitabaco: prohibido fumar y vapear en los coches de empresa y multas de 200 euros",
-    "snippet": "16 años después, la Ley Antitabaco se actualiza después de años de rumores. Lo hace con cambios sustanciales como la equiparación de los vapeadores con el cigarrillo tradicional. Y también con cambios que afectan a la mo...",
-    "date": "2026-07-21T12:10:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/gobierno-aprueba-nueva-ley-antitabaco-prohibido-fumar-vapear-coches-empresa-multas-200-euros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2219517/samsung-establishes-its-own-robotics-division/",
-    "title": "Samsung establishes a robotics division",
-    "snippet": "Samsung created a robotics division called RX, and its first product could be a humanoid robot....",
-    "date": "2026-07-21T12:03:06",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2219517/samsung-establishes-its-own-robotics-division/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/china-ha-alcanzado-a-eeuu-ia-frontera-kimi-k3-dispara-alarma-silicon-valley",
-    "title": "\"China ha alcanzado a EEUU en IA de frontera\": Kimi K3 dispara la alarma en Silicon Valley",
-    "snippet": "Kimi K3 acaba de desmontar una idea que llevaba muchos meses instalada entre los analistas: los laboratorios chinos de inteligencia artificial (IA) iban, como mínimo, entre seis y ocho meses por detrás de sus rivales est...",
-    "date": "2026-07-21T12:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/china-ha-alcanzado-a-eeuu-ia-frontera-kimi-k3-dispara-alarma-silicon-valley",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/china-coger-taxi-sale-barato-que-utilizar-tu-propio-vehiculo-motivo-coches-electricos",
-    "title": "En China coger un taxi ya sale más barato que utilizar tu propio vehículo por un motivo: coches eléctricos",
-    "snippet": "China está viviendo una situación peculiar: por sus calles, ya es más barato moverse en taxi que en coche particular. Según los últimos datos del Ministerio de Transportes recogidos por la agencia Reuters, los viajes en ...",
-    "date": "2026-07-21T11:45:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/china-coger-taxi-sale-barato-que-utilizar-tu-propio-vehiculo-motivo-coches-electricos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/ue-ha-golpeado-a-aliexpress-multa-record-deja-claro-que-proxima-puede-ser-mayor",
-    "title": "La UE ha golpeado a AliExpress con una multa récord. Y deja claro que la próxima puede ser aún mayor",
-    "snippet": "La Comisión Europea ha multado a AliExpress con 550 millones de euros por permitir la venta de productos ilegales, inseguros y falsificados en su plataforma. Es la sanción más alta jamás impuesta bajo la Ley de Servicios...",
-    "date": "2026-07-21T11:31:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/ue-ha-golpeado-a-aliexpress-multa-record-deja-claro-que-proxima-puede-ser-mayor",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1698170",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 21 de julio del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy martes 21 de julio es de  S/3.40 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-07-21T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-21-de-julio-del-2026-noticia-1698170",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/marruecos-tiene-plan-para-ganar-1-000-hectareas-sahara-objetivo-convertirlas-cultivos-regadio",
-    "title": "Marruecos tiene un plan para ganar más de 1.000 hectáreas en el Sáhara con un objetivo: convertirlas en cultivos de regadío",
-    "snippet": "El Gobierno marroquí quiere reforzar su peso en el Sáhara apostando por su músculo agrícola, un doble objetivo para el que está buscando aliados. Su Agencia para el Desarrollo Agrícola (ADA) acaba de lanzar una convocato...",
-    "date": "2026-07-21T11:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/marruecos-tiene-plan-para-ganar-1-000-hectareas-sahara-objetivo-convertirlas-cultivos-regadio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/podria-debilitar-competitividad-eeuu-kimi-k3-obliga-a-trump-a-retomar-su-plan-para-frenar-ia-china",
-    "title": "\"Podría debilitar la competitividad de EEUU\": Kimi K3 obliga a Trump a retomar su plan para frenar la IA china",
-    "snippet": "Al Gobierno de Trump le gusta vetar cosas. Ahora parecen querer hacerlo con los modelos de IA de empresas chinas, que se están volviendo cada vez más competitivos. El lanzamiento de Kimi K3 parece haber sido el detonante...",
-    "date": "2026-07-21T10:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/podria-debilitar-competitividad-eeuu-kimi-k3-obliga-a-trump-a-retomar-su-plan-para-frenar-ia-china",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "6a59184877c50ea15f75ee45",
-    "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
-    "snippet": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why....",
-    "date": "2026-07-21T10:30:00",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/tres-meses-a-mitad-precio-vuelve-promo-estrella-movistar-plus-para-ver-inicio-laliga-champions",
-    "title": "Tres meses a mitad de precio: vuelve la promo estrella de Movistar Plus para ver el inicio de LaLiga, de la Champions y más",
-    "snippet": "Cuando una plataforma de streaming lanza nueva promo, siempre merece la pena echarle un vistazo. Movistar Plus ha arrancado desde hace unos minutos una que, si bien es cierto que no es nueva, sí que es su promo estrella:...",
-    "date": "2026-07-21T10:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/tres-meses-a-mitad-precio-vuelve-promo-estrella-movistar-plus-para-ver-inicio-laliga-champions",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/priscillia-choy-sze-mun-experta-celulas-madre-ejercicio-le-indica-a-musculos-que-se-limpien-se-reinicien",
-    "title": "Priscillia Choy Sze Mun, experta en células madre: \"El ejercicio le indica a los músculos que se limpien y se reinicien\"",
-    "snippet": "Los efectos del ejercicio físico para las personas mayores están más que demostrados. Les ayuda a mejorar su salud cardiovascular, mejora la movilidad, reduce las fracturas y, en general, aporta un largo etcétera de bene...",
-    "date": "2026-07-21T10:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/priscillia-choy-sze-mun-experta-celulas-madre-ejercicio-le-indica-a-musculos-que-se-limpien-se-reinicien",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446612",
-    "title": "Reino Unido: Puerto de Hartlepool recibe nueva grúa portuaria móvil Konecranes Gottwald ESP.6",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario PD Ports anunció la llegada de una nueva grúa portuaria móvil Konecranes Gottwald ESP.6 al Puerto\nLa entrada Reino Unido: Puerto de Hartlepool recibe nueva grúa portuaria mó...",
-    "date": "2026-07-21T10:00:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/reino-unido-puerto-de-hartlepool-recibe-nueva-grua-portuaria-movil-konecranes-gottwald-esp-6/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?post_type=vm_custom_story&p=937356",
-    "title": "Who’s afraid of the big, bad GPU?",
-    "snippet": "How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and you’ll start to question ...",
-    "date": "2026-07-21T10:00:01",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#0",
-    "title": "What does an Andy Burnham-led government mean for your money?",
-    "snippet": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult....",
-    "date": "2026-07-21T09:45:21",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/legislacion-y-derechos/manuel-hernandez-abogado-herencias-error-no-pedir-certificados-seguros-vida-causante",
-    "title": "Manuel Hernández, abogado: \"En las herencias es un error no pedir los certificados de seguros de vida del causante\"",
-    "snippet": "Cuando muere un familiar, al dolor de la pérdida se une una avalancha de trámites legales y administrativos que deben cumplirse en un determinado orden. Por eso, entre el duelo y el papeleo, hay un documento que corre un...",
-    "date": "2026-07-21T09:31:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/legislacion-y-derechos/manuel-hernandez-abogado-herencias-error-no-pedir-certificados-seguros-vida-causante",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/buscas-algo-nuevo-emocionante-aqui-tienes-christopher-nolan-explica-que-rodo-odisea-imax",
-    "title": "\"Si buscas algo nuevo y emocionante, aquí lo tienes\": Christopher Nolan explica por qué rodó ‘La Odisea’ en IMAX",
-    "snippet": "Christopher Nolan no ha elegido el formato IMAX de 65 mm para ‘La Odisea’ como un simple alarde técnico. En realidad para este director es una herramienta narrativa al servicio de una historia de escala mitológica. El po...",
-    "date": "2026-07-21T09:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/buscas-algo-nuevo-emocionante-aqui-tienes-christopher-nolan-explica-que-rodo-odisea-imax",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/alicante-colonia-nordica-celebra-su-propia-constitucion-l-alfas-pi-tiene-20-000-habitantes-30-noruegos",
-    "title": "La colonia noruega que ha tomado un pueblo de Alicante y tiene hasta su propia constitución: L'Alfas del Pi",
-    "snippet": "La Avenida del Albir huele a salitre y a arenque marinado. Hay brunost en el supermercado, ese curioso queso marrón de noruegos. También hay bolsas de salmiakki, el regaliz salado finlandés. Un hombre rubio camina con un...",
-    "date": "2026-07-21T09:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/alicante-colonia-nordica-celebra-su-propia-constitucion-l-alfas-pi-tiene-20-000-habitantes-30-noruegos",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446733",
-    "title": "Estados Unidos: Puerto de Houston un crece un 17% en comercio total durante el mes de junio de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Houston (Estados Unidos)  hizo público el informe de mercado mensual de su canal\nLa entrada Estados Unidos: Puerto de Houston un crece un 17% en comercio total ...",
-    "date": "2026-07-21T09:00:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/estados-unidos-puerto-de-houston-un-crece-un-17-en-comercio-total-durante-el-mes-de-junio-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446733",
-    "title": "Estados Unidos: Puerto de Houston crece 17% en comercio total en junio de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Houston (Estados Unidos)  hizo público el informe de mercado mensual de su canal\nLa entrada Estados Unidos: Puerto de Houston crece 17% en comercio total en jun...",
-    "date": "2026-07-21T09:00:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/estados-unidos-puerto-de-houston-un-crece-un-17-en-comercio-total-durante-el-mes-de-junio-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/internet-y-television/espana-ha-ganado-mundial-buena-suerte-buscando-video-exacto-ese-momentazo-que-quieres-volver-a-ver",
-    "title": "España ha ganado el Mundial. Buena suerte buscando el vídeo exacto de ese momentazo que quieres volver a ver",
-    "snippet": "España vuelve a ser campeona del mundo. Y una de las cuestiones que me ha asaltado esta mañana ha sido lo complicado que resulta, paradójicamente, encontrar momentos concretos de este Mundial 2026 en contraposición a lo ...",
-    "date": "2026-07-21T08:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/internet-y-television/espana-ha-ganado-mundial-buena-suerte-buscando-video-exacto-ese-momentazo-que-quieres-volver-a-ver",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/leroy-merlin-rebaja-este-aire-portatil-obras-que-aliviar-olas-calor-este-verano-tambien-frio-invierno",
-    "title": "Leroy Merlin rebaja este aire portátil sin obras con el que aliviar las olas de calor este verano (y también el frío del invierno)",
-    "snippet": "Si estás buscando una forma rápida de climatizar tu casa sin meterte en líos de obras ni tener que llamar a instaladores, Leroy Merlin acaba de rebajar uno de esos dispositivos de climatización que no solo te salva el ve...",
-    "date": "2026-07-21T08:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/leroy-merlin-rebaja-este-aire-portatil-obras-que-aliviar-olas-calor-este-verano-tambien-frio-invierno",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/antigua-necropolis-inglaterra-ha-revelado-cual-fue-gran-arma-roma-britania-tiene-poco-que-ver-su-ejercito",
-    "title": "Una antigua necrópolis de Inglaterra ha revelado cuál fue el gran arma de Roma en Britania. Y tiene poco que ver con su ejército",
-    "snippet": "El Imperio romano se fraguó con espadas, estrategia y hordas de legionarios, pero la ciudad eterna disponía de un recurso aún más efectivo que su poderío militar: su magnetismo. En ocasiones, antes que los soldados, lo q...",
-    "date": "2026-07-21T08:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/antigua-necropolis-inglaterra-ha-revelado-cual-fue-gran-arma-roma-britania-tiene-poco-que-ver-su-ejercito",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/siempre-te-lavas-dientes-despues-comer-ciencia-tiene-algo-que-decirte-estas-haciendo-mal",
-    "title": "Si siempre te lavas los dientes después de comer, la ciencia tiene algo que decirte: lo estás haciendo mal",
-    "snippet": "\"Casi todo el mundo se cepilla los dientes\", concluyó un grupo de investigadores de la Universidad de Gottemburgo en 2012. El problema es que \"solo uno de cada diez lo hace bien\". Los resultados se circunscribían a Sueci...",
-    "date": "2026-07-21T07:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/siempre-te-lavas-dientes-despues-comer-ciencia-tiene-algo-que-decirte-estas-haciendo-mal",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
-    "title": "Cuando la IA se equivoca, nosotros seguimos confiando: un estudio revela que ya no sabemos decir \"no lo sé\"",
-    "snippet": "Noto que cada vez nos cuesta más decir “no lo sé”. Igual se trata de uno de los actos más honestos que puede hacer una persona y, en cambio, con la llegada de la IA y con toda la información a nuestro alcance, da la sens...",
-    "date": "2026-07-21T06:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446603",
-    "title": "Marruecos: Marsa Maroc y TIL acuerdan inversión en Terminal de Contenedores de Nador West Med",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Marsa Maroc y Terminal Investment Limited (TIL) han firmado un acuerdo de colaboración para la entrada\nLa entrada Marruecos: Marsa Maroc y TIL acuerdan inversión en Terminal...",
-    "date": "2026-07-21T06:00:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/marruecos-marsa-maroc-y-til-acuerdan-inversion-en-terminal-de-contenedores-de-nador-west-med/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446559",
-    "title": "Importaciones impulsan movimiento de contenedores de Valenciaport",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los tránsitos de importación continúan ganando peso en la actividad de Valenciaport durante la primera mitad\nLa entrada Importaciones impulsan movimiento de contenedores de ...",
-    "date": "2026-07-21T04:00:30",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/importaciones-impulsan-movimiento-de-contenedores-de-valenciaport/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ejecutivo-mantiene-monitoreo-permanente-y-despliega-atencion-a-damnificados-sismo-1084437.aspx",
-    "title": "Ejecutivo mantiene monitoreo permanente y despliega atención a damnificados por sismo",
-    "snippet": "El Gobierno mantiene un monitoreo permanente de la situación generada por el sismo de magnitud 5.1 registrado en el distrito de Chongos Bajo, provincia de Chupaca (Junín), y viene realizando un seguimiento constante a la...",
-    "date": "2026-07-21T04:00:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ejecutivo-mantiene-monitoreo-permanente-y-despliega-atencion-a-damnificados-sismo-1084437.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-proinversion-presenta-al-nuevo-congreso-hoja-ruta-inversiones-1084435.aspx",
-    "title": "ProInversión presenta al nuevo Congreso la hoja de ruta de inversiones",
-    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión) reunió a los integrantes del nuevo Congreso de la República para presentarles la cartera de proyectos estratégicos que impulsa en todo el país y las herramie...",
-    "date": "2026-07-21T04:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-proinversion-presenta-al-nuevo-congreso-hoja-ruta-inversiones-1084435.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446782",
-    "title": "HMM advierte posibles demoras logísticas a causa de temporales en Chile",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El reciente temporal, que afectó a gran parte de la zona centro sur de Chile, así\nLa entrada HMM advierte posibles demoras logísticas a causa de temporales en Chile se publi...",
-    "date": "2026-07-21T03:48:55",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/hmm-advierte-posibles-demoras-logisticas-a-causa-de-temporales-en-chile/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446779",
-    "title": "PIL abre nueva agencia en Perú",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Pacific International Lines (PIL) continúa con su expansión en América Latina con la apertura de una\nLa entrada PIL abre nueva agencia en Perú se publicó primero en PortalPo...",
-    "date": "2026-07-21T03:36:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/pil-abre-nueva-agencia-en-peru/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446756",
-    "title": "Países Bajos: DEME se adjudica instalación de cimientos en parque eólico marino de Zeevonk",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DEME se adjudicó un importante contrato (USD 175 a 330 millones) para el transporte e instalación\nLa entrada Países Bajos: DEME se adjudica instalación de cimientos en parqu...",
-    "date": "2026-07-21T03:30:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/paises-bajos-deme-se-adjudica-instalacion-de-cimientos-en-parque-eolico-marino-de-zeevonk/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-midagri-feria-fongal-es-una-las-principales-vitrinas-del-desarrollo-ganadero-1084429.aspx",
-    "title": "Midagri: \"La feria Fongal es una de las principales vitrinas del desarrollo ganadero\"",
-    "snippet": "El ministro de Desarrollo Agrario y Riego, Felipe Meza Millán, inauguró hoy la 64.ª edición de la tradicional Feria Agropecuaria, Agroindustrial, Artesanal y Turística (Fongal) de Cajamarca, y durante su discurso destacó...",
-    "date": "2026-07-21T02:42:40",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-midagri-feria-fongal-es-una-las-principales-vitrinas-del-desarrollo-ganadero-1084429.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-banco-de-nacion-para-adultos-mayores-realizo-14000-operaciones-su-primer-mes-1084416.aspx",
-    "title": "Banco de la Nación para adultos mayores realizó 14,000 operaciones en su primer mes",
-    "snippet": "El Banco de la Nación, adscrito al Ministerio de Economía y Finanzas (MEF), realizó 14,000 operaciones durante el primer mes de funcionamiento de su nueva agencia especializada para adultos mayores, ubicada en el distrit...",
-    "date": "2026-07-21T02:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-banco-de-nacion-para-adultos-mayores-realizo-14000-operaciones-su-primer-mes-1084416.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446661",
-    "title": "Multimillonario ruso vende naviera con operaciones en el mar de Azov a grupo logístico agrícola",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El multimillonario ruso del sector siderúrgico, Vladimir Lisin, vendió una naviera que opera en el\nLa entrada Multimillonario ruso vende naviera con operacio...",
-    "date": "2026-07-21T01:30:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/multimillonario-ruso-vende-naviera-con-operaciones-en-el-mar-de-azov-a-grupo-logistico-agricola/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidenta-electa-keiko-fujimori-recibe-a-madres-del-vaso-leche-lima-y-callao-1084422.aspx",
-    "title": "Presidenta electa, Keiko Fujimori, recibe a madres del Vaso de Leche de Lima y Callao",
-    "snippet": "Como parte de su agenda, la presidenta electa del Perú, Keiko Fujimori, se reunió esta tarde con madres dirigentes del Comité Ejecutivo Nacional del Programa Vaso de Leche de Lima y Callao, quienes le expresaron su salud...",
-    "date": "2026-07-21T01:24:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidenta-electa-keiko-fujimori-recibe-a-madres-del-vaso-leche-lima-y-callao-1084422.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-rico-kankacho-ayavireno-es-reconocido-como-especialidad-tradicional-garantizada-1084424.aspx",
-    "title": "El rico kankacho ayavireño es reconocido como Especialidad Tradicional Garantizada",
-    "snippet": "El emblemático kankacho ayavireño, plato típico de la provincia de Melgar, en la región Puno, recibió el reconocimiento de Especialidad Tradicional Garantizada (ETG) por parte del Instituto Nacional de Defensa de la Comp...",
-    "date": "2026-07-21T01:04:07",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-rico-kankacho-ayavireno-es-reconocido-como-especialidad-tradicional-garantizada-1084424.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.scmp.com/news/hong-kong/politics/article/3361252/hong-kongs-first-time-lawmakers-ask-fewer-questions-attend-legco-more-often?utm_source=rss_feed",
-    "title": "Hong Kong’s first-time lawmakers ask fewer questions but attend Legco more often",
-    "snippet": "Hong Kong’s first-time lawmakers have raised fewer questions than their veteran counterparts but recorded a higher attendance rate, a South China Morning Post check has found.\nAlan Chan Chung-yee, who is also the chief o...",
-    "date": "2026-07-21T00:30:07",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3361252/hong-kongs-first-time-lawmakers-ask-fewer-questions-attend-legco-more-often?utm_source=rss_feed",
-    "category": "MERCADO"
   }
 ]
