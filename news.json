@@ -1,5 +1,176 @@
 [
   {
+    "id": "https://www.theverge.com/?p=969003",
+    "title": "Price-hiked iPads are a little cheaper right now",
+    "snippet": "A number of Apple products got more expensive last month, so we’re happy to find deals wherever and whenever we can. If you’re searching for a high-end iPad, one of the more notable deals currently happening is on the 13...",
+    "date": "2026-07-22T19:14:31",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=969596",
+    "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+    "snippet": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple...",
+    "date": "2026-07-22T19:13:21",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fondo-garantizaria-conservacion-del-paisaje-bahuaja-sonenetambopata-a-largo-plazo-1084687.aspx",
+    "title": "Fondo garantizaría la conservación del Paisaje Bahuaja Sonene-Tambopata a largo plazo",
+    "snippet": "El Servicio Nacional de Áreas Naturales Protegidas por el Estado (Sernanp) anunció la creación del Fondo Mixto para la Conservación del Paisaje Bahuaja Sonene-Tambopata, una iniciativa orientada a fortalecer la protecció...",
+    "date": "2026-07-22T19:10:53",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fondo-garantizaria-conservacion-del-paisaje-bahuaja-sonenetambopata-a-largo-plazo-1084687.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "6a5fbd11262e397baf375f67",
+    "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+    "snippet": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable....",
+    "date": "2026-07-22T19:01:38",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/eeuu-construyo-destructor-futurista-que-no-salio-como-esperaba-rescate-llega-a-velocidad-hipersonica",
+    "title": "EEUU construyó un destructor futurista que no salió como esperaba. El rescate llega a velocidad hipersónica",
+    "snippet": "El USS Zumwalt fue diseñado para representar cómo sería la guerra naval del futuro, pero su historia terminó contando algo bastante distinto. La Armada estadounidense redujo la clase de 32 unidades previstas a solo tres,...",
+    "date": "2026-07-22T19:01:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/eeuu-construyo-destructor-futurista-que-no-salio-como-esperaba-rescate-llega-a-velocidad-hipersonica",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-se-podrian-reorientar-s-3000-millones-para-atender-efectos-fenomeno-nino-1084686.aspx",
+    "title": "MEF: se podrían reorientar S/ 3,000 millones para atender efectos de Fenómeno El Niño",
+    "snippet": "El Gobierno podrá reorientar alrededor de 3,000 millones de soles para financiar acciones de preparación y respuesta frente al Fenómeno El Niño (FEN), mediante los mecanismos incorporados en la Ley N.° 32732, que aprobó ...",
+    "date": "2026-07-22T18:48:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-se-podrian-reorientar-s-3000-millones-para-atender-efectos-fenomeno-nino-1084686.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2218725/turn-off-google-play-protect/",
+    "title": "Before you disable Google Play Protect, here's what you need to know",
+    "snippet": "Some Android users find the security feature to be too restrictive. Here's how to disable it and what you risk by doing so....",
+    "date": "2026-07-22T18:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2218725/turn-off-google-play-protect/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mejores-moviles-500-euros",
+    "title": "Los mejores móviles por menos de 500 euros en 2026. Cuál comprar y 6 modelos recomendados",
+    "snippet": "Cuando buscamos los mejores móviles en relación calidad-precio, por regla general solemos pensar en dispositivos que no superen los 500 euros. En este rango de precio no podemos hablar de otra cosa que de móviles de gama...",
+    "date": "2026-07-22T18:15:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mejores-moviles-500-euros",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145364",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "snippet": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of soci...",
+    "date": "2026-07-22T18:13:58",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2220985/samsung-galaxy-z-fold-8-vs-fold-8-ultra-comparison/",
+    "title": "Samsung Galaxy Z Fold 8 vs Fold 8 Ultra: Which new foldable is better for you?",
+    "snippet": "Let's compare the differences between Samsung's latest large foldables....",
+    "date": "2026-07-22T18:05:22",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220985/samsung-galaxy-z-fold-8-vs-fold-8-ultra-comparison/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/streaming/hace-3-meses-esta-mezcla-drama-erotismo-paso-cines-pena-gloria-ahora-numero-1-netflix",
+    "title": "Hace 3 meses esta mezcla de drama y erotismo pasó por cines sin pena sin gloria y ahora es número 1 en Netflix",
+    "snippet": "En mayo, 'Deseo' recaudó poco más de 9.800 euros en las salas españolas: no llegó a 1.500 espectadores. Sin embargo, cuando aterrizó en Netflix en julio, sumó 12,9 millones de visualizaciones en sus primeros tres días y ...",
+    "date": "2026-07-22T18:01:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/streaming/hace-3-meses-esta-mezcla-drama-erotismo-paso-cines-pena-gloria-ahora-numero-1-netflix",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-galaxy-unpacked-samsung-presenta-hoy-su-linea-mas-completa-dispositivos-plegables-1084672.aspx",
+    "title": "Galaxy Unpacked: Samsung presenta hoy su línea más completa de dispositivos plegables",
+    "snippet": "Samsung Electronics presentó hoy en el Galaxy Unpacked en Londres, la nueva serie Galaxy Z, su línea más completa hasta la fecha, diseñada para ampliar el acceso a los dispositivos plegables a un público más amplio. Sams...",
+    "date": "2026-07-22T17:56:40",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-galaxy-unpacked-samsung-presenta-hoy-su-linea-mas-completa-dispositivos-plegables-1084672.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-argentinos-juntan-firmas-una-peticion-para-repetir-final-del-mundial-contra-espana-1084678.aspx",
+    "title": "Argentinos juntan firmas en una petición para repetir la final del Mundial contra España",
+    "snippet": "Una campaña argentina ha sido lanzada en una plataforma digital para solicitar la repetición de la final del Mundial 2026 entre Argentina y España, tras la derrota del seleccionado sudamericano y ya supera las 61.500 fir...",
+    "date": "2026-07-22T17:53:42",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-argentinos-juntan-firmas-una-peticion-para-repetir-final-del-mundial-contra-espana-1084678.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447096",
+    "title": "Concluída obra de ampliação da ferrovia no Terminal de Contêineres de Paranaguá",
+    "snippet": "Por Redação PortalPortuario @PortalPortuario A TCP, empresa que administra o Terminal de Contêineres de Paranaguá, e a Brado Logística, referência\nLa entrada Concluída obra de ampliação da ferrovia no Terminal de Contêin...",
+    "date": "2026-07-22T17:47:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/concluida-obra-de-ampliacao-da-ferrovia-no-terminal-de-conteineres-de-paranagua/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2220938/poinpy-a-perfect-video-game-is-back-and-completely-free-on-mobile/",
+    "title": "Poinpy, a perfect video game, is back and it's completely free on mobile",
+    "snippet": "Poinpy disappeared from Netflix games last year but is now free for Android and iPhone....",
+    "date": "2026-07-22T17:32:01",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220938/poinpy-a-perfect-video-game-is-back-and-completely-free-on-mobile/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-corte-superior-cusco-condena-a-cuatro-anos-prision-efectiva-a-exalcalde-echarati-1084669.aspx",
+    "title": "Corte Superior de Cusco condena a cuatro años de prisión efectiva a exalcalde de Echarati",
+    "snippet": "La Corte Superior de Justicia de Cusco sentenció a cuatro años de cárcel al ex alcalde del distrito de Echarati, provincia cusqueña de La Convención Hebert Peña Arroyo y a el ex jefe del área de logística Edgar Antonio M...",
+    "date": "2026-07-22T17:31:56",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-corte-superior-cusco-condena-a-cuatro-anos-prision-efectiva-a-exalcalde-echarati-1084669.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/hace-25-anos-metro-madrid-se-enfrento-a-gigantesco-reto-remover-300-000-m3-tierra-construir-tunel-debajo-m-40",
+    "title": "Hace 25 años, Metro de Madrid se enfrentó a un gigantesco reto: remover 300.000 m3 de tierra y construir un túnel por debajo de la M-40",
+    "snippet": "La línea 10 del Metro de Madrid es una de las más importantes de toda la red. Según datos de 2024, los últimos disponibles, en esta línea se rozaron los 84 millones de usuarios. Sólo la Línea 1 y la 6 superaron a la cone...",
+    "date": "2026-07-22T17:31:14",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/hace-25-anos-metro-madrid-se-enfrento-a-gigantesco-reto-remover-300-000-m3-tierra-construir-tunel-debajo-m-40",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2220934/samsung-just-revealed-more-details-about-its-upcoming-smart-glasses-including-battery-life/",
+    "title": "Samsung just revealed more details about its upcoming smart glasses, including battery life",
+    "snippet": "Samsung's upcoming smart glasses will last nine hours per charge, but they come with a case for more juice....",
+    "date": "2026-07-22T17:28:46",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2220934/samsung-just-revealed-more-details-about-its-upcoming-smart-glasses-including-battery-life/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=97647",
+    "title": "Trabajadores CAS recibirán gratificación del 10 % de su remuneración",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) informó que más de 350 000 trabajadores contratados bajo el régimen CAS (Contrato Administrativo de Servicios) podrán acceder desde julio del 2026 a la gratificación por Fiestas...",
+    "date": "2026-07-22T17:20:04",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/trabajadores-cas-recibiran-gratificacion-del-10-de-su-remuneracion/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
     "title": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
     "snippet": "Z.AI ha sido protagonista de grandes titulares estas últimas semanas, sobre todo tras el lanzamiento de su potentísimo modelo de lenguaje GLM 5.2. Conocida antes como Zhipu, ahora la empresa acaba de terminar de construi...",
@@ -1177,176 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-de-iquique-suma-dos-nuevas-recaladas-de-buques-factoria/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-trujillo-soportara-temperaturas-4-%C2%B0c-encima-de-normal-hasta-verano-del-2027-1084519.aspx",
-    "title": "Trujillo soportará temperaturas de 4 °C por encima de lo normal hasta el verano del 2027",
-    "snippet": "Ropa ligera, lentes de sol, sombrillas y bloqueador solar son algunas de los utensilios que los trujillanos, en la región La Libertad, llevan consigo a diario para protegerse de las temperaturas catalogadas como extremad...",
-    "date": "2026-07-21T19:50:08",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-trujillo-soportara-temperaturas-4-%C2%B0c-encima-de-normal-hasta-verano-del-2027-1084519.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144827",
-    "title": "AI and the rise of the universal entertainment app",
-    "snippet": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions ar...",
-    "date": "2026-07-21T19:39:30",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-espectaculo-marino-ancash-avistan-paso-ballenas-frente-a-las-costas-huarmey-1084514.aspx",
-    "title": "Espectáculo marino en Áncash: avistan el paso de ballenas frente a las costas de Huarmey",
-    "snippet": "Los pescadores de la provincia de Huarmey, en la región Áncash, registraron el paso de grandes ballenas frente al litoral ancashino, un espectáculo natural que marca el desarrollo de la migración estacional de estos cetá...",
-    "date": "2026-07-21T19:31:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-espectaculo-marino-ancash-avistan-paso-ballenas-frente-a-las-costas-huarmey-1084514.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446833",
-    "title": "Venezuela: Puerto de Guanta descarga equipos especializados para perforación petrolera",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Guanta recibió el atraque de la nave BBC Rio, procedente de Brasil, para\nLa entrada Venezuela: Puerto de Guanta descarga equipos especializados para perforación...",
-    "date": "2026-07-21T19:30:48",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/venezuela-puerto-de-guanta-descarga-equipos-especializados-para-perforacion-petrolera/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "6a5e8125c1c4607c1bb76707",
-    "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak",
-    "snippet": "The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC....",
-    "date": "2026-07-21T19:10:35",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/submarino-nuclear-komsomolets-se-hundio-aguas-europeas-hace-casi-40-anos-asunto-esta-que-libera-al-mar",
-    "title": "El submarino nuclear Komsomolets se hundió en aguas europeas hace casi 40 años. El asunto está en lo que aún libera al mar",
-    "snippet": "A casi 1.700 metros bajo el mar de Noruega descansa algo más que un submarino hundido. Dentro del Komsomolets siguen el reactor nuclear que impulsó la nave y dos torpedos armados con ojivas nucleares, encerrados en un pe...",
-    "date": "2026-07-21T19:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/submarino-nuclear-komsomolets-se-hundio-aguas-europeas-hace-casi-40-anos-asunto-esta-que-libera-al-mar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446794",
-    "title": "PortCastelló exhibe ante tejido empresarial de El Cairo ahorro de costos logísticos de 23%",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario PortCastelló presentó a la comunidad logística y empresarial egipcia las ventajas competitivas del Puerto de Castellón,\nLa entrada PortCastelló exhibe ante tejido empresaria...",
-    "date": "2026-07-21T19:00:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/portcastello-exhibe-ante-tejido-empresarial-de-el-cairo-ahorro-de-costos-logisticos-de-23/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-record-nacional-102-escolares-carabayllo-ingresan-a-universidad-del-callao-1084512.aspx",
-    "title": "¡Récord nacional! 102 escolares de Carabayllo ingresan a la Universidad del Callao",
-    "snippet": "Un total de 102 estudiantes del colegio Juan Pablo Peregrino, ubicado en el distrito de Carabayllo, logró ingresar a la Universidad Nacional del Callao (UNAC) en el examen de admisión realizado el último domingo, alcanza...",
-    "date": "2026-07-21T18:55:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-record-nacional-102-escolares-carabayllo-ingresan-a-universidad-del-callao-1084512.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/",
-    "title": "Playstation Plus is saying goodbye to these games in August 2026",
-    "snippet": "Dead Island 2, Harold Halibut and seven others will be gone soon....",
-    "date": "2026-07-21T18:37:50",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144873",
-    "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-    "snippet": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products....",
-    "date": "2026-07-21T18:18:43",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144883",
-    "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-    "snippet": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised....",
-    "date": "2026-07-21T18:05:10",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/tiempo-record-su-estreno-cines-uno-fracasos-taquilla-estrepitosos-ano-llega-manana-a-prime-video",
-    "title": "En tiempo record desde su estreno en cines, uno de los fracasos de taquilla más estrepitosos del año llega mañana a Prime Video",
-    "snippet": "'He-Man y los Masters del Universo' llega a Prime Video este miércoles, 22 de julio, solo cuarenta y siete días después de su estreno en cines. El motivo de la llegada a streaming con tan poco margen de tiempo es su pinc...",
-    "date": "2026-07-21T18:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/tiempo-record-su-estreno-cines-uno-fracasos-taquilla-estrepitosos-ano-llega-manana-a-prime-video",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/tiempo-record-su-estreno-cines-uno-fracasos-taquilla-estrepitosos-ano-llega-manana-a-prime-video",
-    "title": "En tiempo record desde su estreno en cines, uno de los fracasos de taquilla más estrepitosos del año llega a Prime Video",
-    "snippet": "'He-Man y los Masters del Universo' llega a Prime Video este miércoles, 22 de julio, solo cuarenta y siete días después de su estreno en cines. El motivo de la llegada a streaming con tan poco margen de tiempo es su pinc...",
-    "date": "2026-07-21T18:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/tiempo-record-su-estreno-cines-uno-fracasos-taquilla-estrepitosos-ano-llega-manana-a-prime-video",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2219930/amazon-is-making-a-robocop-tv-show-with-the-showrunner-from-lodge-49/",
-    "title": "Amazon is making a Robocop TV show with the showrunner from Lodge 49",
-    "snippet": "Amazon greenlit a Robocop pilot. Now it has committed to a full TV show....",
-    "date": "2026-07-21T17:34:22",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2219930/amazon-is-making-a-robocop-tv-show-with-the-showrunner-from-lodge-49/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
-    "title": "\"Está diezmando el tráfico de búsqueda\": así es como la IA de Google está absorbiendo al resto de internet",
-    "snippet": "ChatGPT llevaba menos de un mes en marcha y en Google ya se hablaba de un \"código rojo\". La tecnología que muchos daban por hecho que acabaría con el negocio central de Google —sustituir el buscador por un chatbot cualqu...",
-    "date": "2026-07-21T17:31:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=446843",
-    "title": "Petroleros con crudo saudí cambian de rumbo en el mar Rojo tras advertencia de hutíes",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Dos petroleros que habían cargado crudo saudí con destino a China e India cambiaron bruscamente\nLa entrada Petroleros con crudo saudí cambian de rumbo en el ...",
-    "date": "2026-07-21T17:30:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/petroleros-con-crudo-saudi-cambian-de-rumbo-en-el-mar-rojo-tras-advertencia-de-huties/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2219805/what-trash-can-with-x-marking-means-on-electronics/",
-    "title": "Here's what that trash can with an X icon means on your electronics",
-    "snippet": "It's the official marking of the EU's Waste Electrical and Electronic Equipment Directive....",
-    "date": "2026-07-21T17:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2219805/what-trash-can-with-x-marking-means-on-electronics/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4785455",
-    "title": "Samsung’s New AI Health Assistant Aims to Make Health Metrics Actually Useful",
-    "snippet": "The latest AI Health Assistant aims to use AI to turn sleep, nutrition and vitals into actionable guidance....",
-    "date": "2026-07-21T17:22:08",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/samsungs-new-ai-health-assistant/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/diferencias-qualcomm-mediatek-2026-cada-vez-pequenas-muy-buenas-noticias-para-moviles-android",
-    "title": "Las diferencias entre Qualcomm y MediaTek en 2026 son cada vez más pequeñas. Son muy buenas noticias para los móviles Android",
-    "snippet": "Hace un tiempo, comprarse un móvil con procesador MediaTek era sinónimo de conformarse. Si querías potencia bruta, actualizaciones rápidas y buena eficiencia, había que buscar el sello de Qualcomm Snapdragon en la caja d...",
-    "date": "2026-07-21T17:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/diferencias-qualcomm-mediatek-2026-cada-vez-pequenas-muy-buenas-noticias-para-moviles-android",
-    "category": "TRIBUTARIO"
   }
 ]
