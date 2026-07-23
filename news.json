@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-arequipa-empieza-construccion-colegio-valle-tambo-mediante-obras-impuestos-1084823.aspx",
+    "title": "Arequipa: empieza construcción de colegio en Valle de Tambo mediante Obras por Impuestos",
+    "snippet": "Más de 450 estudiantes de la emblemática institución educativa Mariano Eduardo de Rivero y Ustariz del distrito de Cocachacra, en Arequipa, se beneficiarán con la nueva infraestructura del colegio que se ejecutará bajo l...",
+    "date": "2026-07-23T22:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-arequipa-empieza-construccion-colegio-valle-tambo-mediante-obras-impuestos-1084823.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-samsung-galaxy-watch-ultra2-y-watch9-asi-mejoran-monitoreo-de-salud-y-signos-vitales-1084829.aspx",
+    "title": "Samsung Galaxy Watch Ultra2 y Watch9: así mejoran monitoreo de la salud y signos vitales",
+    "snippet": "Samsung Electronics presentó los nuevos Galaxy Watch Ultra2 y Galaxy Watch9, una generación de relojes inteligentes diseñada para ofrecer un seguimiento más preciso de la salud, un mejor rendimiento y una experiencia de ...",
+    "date": "2026-07-23T21:25:20",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-samsung-galaxy-watch-ultra2-y-watch9-asi-mejoran-monitoreo-de-salud-y-signos-vitales-1084829.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=970399",
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delt...",
+    "date": "2026-07-23T21:15:06",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447270",
+    "title": "Cámara Aduanera y transportistas solicitan cambios a resolución que modifica guía de despacho electrónica",
+    "snippet": "Por Gabriel Campos Roullet @PortalPortuario Representantes de la Cámara Aduanera de Chile y la Federación de Dueños de Camiones de\nLa entrada Cámara Aduanera y transportistas solicitan cambios a resolución que modifica g...",
+    "date": "2026-07-23T21:00:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/camara-aduanera-y-transportistas-solicitan-cambios-a-resolucion-que-modifica-guia-de-despacho-electronica/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-rospigliosi-reafirma-compromiso-del-congreso-fortalecimiento-las-fuerzas-armadas-1084835.aspx",
+    "title": "Rospigliosi reafirma compromiso del Congreso con fortalecimiento de las Fuerzas Armadas",
+    "snippet": "El presidente (e) del Congreso de la República, Fernando Rospigliosi, reafirmó el compromiso de ese poder del Estado con el fortalecimiento de las Fuerzas Armadas, cuyo rol es fundamental para garantizar la estabilidad, ...",
+    "date": "2026-07-23T20:49:51",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-rospigliosi-reafirma-compromiso-del-congreso-fortalecimiento-las-fuerzas-armadas-1084835.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=970254",
+    "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+    "snippet": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, gl...",
+    "date": "2026-07-23T20:36:40",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145851",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year....",
+    "date": "2026-07-23T20:33:02",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447267",
+    "title": "Superpetroleros ligados a China y cargados con combustible saudí abandonan el mar Rojo",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Dos superpetroleros (VLCC) ligados a China que transportaban un total combinado de 4 millones de\nLa entrada Superpetroleros ligados a China y cargados con co...",
+    "date": "2026-07-23T20:30:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/superpetroleros-ligados-a-china-y-cargados-con-combustible-saudi-abandonan-el-mar-rojo/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-precio-internacional-del-petroleo-vuelve-a-superar-barrera-los-100-dolares-1084833.aspx",
+    "title": "Precio internacional del petróleo vuelve a superar la barrera de los 100 dólares",
+    "snippet": "Los precios del petróleo volvieron a subir con fuerza este jueves, impulsados por nuevos ataques a buques en el mar Rojo que hacen temer una nueva perturbación del transporte marítimo, sacudido en los últimos meses por l...",
+    "date": "2026-07-23T20:16:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-precio-internacional-del-petroleo-vuelve-a-superar-barrera-los-100-dolares-1084833.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145880",
+    "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+    "snippet": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out....",
+    "date": "2026-07-23T20:13:24",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/investigacion/china-acaba-poner-marcha-su-nuevo-acelerador-iones-pesados-no-ha-construido-solo-para-estudiar-atomos",
     "title": "China acaba de poner en marcha su nuevo acelerador de iones pesados. No lo ha construido solo para estudiar átomos",
     "snippet": "Hay máquinas que se construyen para observar lo que ya conocemos y otras para empujar la materia hasta lugares en los que apenas sabemos qué vamos a encontrar. En Huizhou, China ha levantado un complejo cuya línea de haz...",
@@ -1258,95 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/eeuu-construyo-destructor-futurista-que-no-salio-como-esperaba-rescate-llega-a-velocidad-hipersonica",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-se-podrian-reorientar-s-3000-millones-para-atender-efectos-fenomeno-nino-1084686.aspx",
-    "title": "MEF: se podrían reorientar S/ 3,000 millones para atender efectos de Fenómeno El Niño",
-    "snippet": "El Gobierno podrá reorientar alrededor de 3,000 millones de soles para financiar acciones de preparación y respuesta frente al Fenómeno El Niño (FEN), mediante los mecanismos incorporados en la Ley N.° 32732, que aprobó ...",
-    "date": "2026-07-22T18:48:49",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-se-podrian-reorientar-s-3000-millones-para-atender-efectos-fenomeno-nino-1084686.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2218725/turn-off-google-play-protect/",
-    "title": "Before you disable Google Play Protect, here's what you need to know",
-    "snippet": "Some Android users find the security feature to be too restrictive. Here's how to disable it and what you risk by doing so....",
-    "date": "2026-07-22T18:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2218725/turn-off-google-play-protect/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-moviles-500-euros",
-    "title": "Los mejores móviles por menos de 500 euros en 2026. Cuál comprar y 6 modelos recomendados",
-    "snippet": "Cuando buscamos los mejores móviles en relación calidad-precio, por regla general solemos pensar en dispositivos que no superen los 500 euros. En este rango de precio no podemos hablar de otra cosa que de móviles de gama...",
-    "date": "2026-07-22T18:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-moviles-500-euros",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145364",
-    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-    "snippet": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of soci...",
-    "date": "2026-07-22T18:13:58",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2220985/samsung-galaxy-z-fold-8-vs-fold-8-ultra-comparison/",
-    "title": "Samsung Galaxy Z Fold 8 vs Fold 8 Ultra: Which new foldable is better for you?",
-    "snippet": "Let's compare the differences between Samsung's latest large foldables....",
-    "date": "2026-07-22T18:05:22",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2220985/samsung-galaxy-z-fold-8-vs-fold-8-ultra-comparison/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/hace-3-meses-esta-mezcla-drama-erotismo-paso-cines-pena-gloria-ahora-numero-1-netflix",
-    "title": "Hace 3 meses esta mezcla de drama y erotismo pasó por cines sin pena sin gloria y ahora es número 1 en Netflix",
-    "snippet": "En mayo, 'Deseo' recaudó poco más de 9.800 euros en las salas españolas: no llegó a 1.500 espectadores. Sin embargo, cuando aterrizó en Netflix en julio, sumó 12,9 millones de visualizaciones en sus primeros tres días y ...",
-    "date": "2026-07-22T18:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/hace-3-meses-esta-mezcla-drama-erotismo-paso-cines-pena-gloria-ahora-numero-1-netflix",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-galaxy-unpacked-samsung-presenta-hoy-su-linea-mas-completa-dispositivos-plegables-1084672.aspx",
-    "title": "Galaxy Unpacked: Samsung presenta hoy su línea más completa de dispositivos plegables",
-    "snippet": "Samsung Electronics presentó hoy en el Galaxy Unpacked en Londres, la nueva serie Galaxy Z, su línea más completa hasta la fecha, diseñada para ampliar el acceso a los dispositivos plegables a un público más amplio. Sams...",
-    "date": "2026-07-22T17:56:40",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-galaxy-unpacked-samsung-presenta-hoy-su-linea-mas-completa-dispositivos-plegables-1084672.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-argentinos-juntan-firmas-una-peticion-para-repetir-final-del-mundial-contra-espana-1084678.aspx",
-    "title": "Argentinos juntan firmas en una petición para repetir la final del Mundial contra España",
-    "snippet": "Una campaña argentina ha sido lanzada en una plataforma digital para solicitar la repetición de la final del Mundial 2026 entre Argentina y España, tras la derrota del seleccionado sudamericano y ya supera las 61.500 fir...",
-    "date": "2026-07-22T17:53:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-argentinos-juntan-firmas-una-peticion-para-repetir-final-del-mundial-contra-espana-1084678.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447096",
-    "title": "Concluída obra de ampliação da ferrovia no Terminal de Contêineres de Paranaguá",
-    "snippet": "Por Redação PortalPortuario @PortalPortuario A TCP, empresa que administra o Terminal de Contêineres de Paranaguá, e a Brado Logística, referência\nLa entrada Concluída obra de ampliação da ferrovia no Terminal de Contêin...",
-    "date": "2026-07-22T17:47:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/concluida-obra-de-ampliacao-da-ferrovia-no-terminal-de-conteineres-de-paranagua/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2220938/poinpy-a-perfect-video-game-is-back-and-completely-free-on-mobile/",
-    "title": "Poinpy, a perfect video game, is back and it's completely free on mobile",
-    "snippet": "Poinpy disappeared from Netflix games last year but is now free for Android and iPhone....",
-    "date": "2026-07-22T17:32:01",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2220938/poinpy-a-perfect-video-game-is-back-and-completely-free-on-mobile/",
-    "category": "MERCADO"
   }
 ]
