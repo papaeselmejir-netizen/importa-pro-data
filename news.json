@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.cnet.com/rss/news/4791709",
+    "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price",
+    "snippet": "The Galaxy Z Fold 8 Ultra improves where it matters, but the new price might sting....",
+    "date": "2026-07-23T23:50:17",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7-improved-battery-screen-and-a-higher-price/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447333",
+    "title": "CMA CGM anuncia incrementos en sus tarifas de fletes hacia Medio Oriente y mar Rojo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario CMA CGM ha hecho pública una actualización de sus tarifas Freight All Kinds (FAK) aplicables a\nLa entrada CMA CGM anuncia incrementos en sus tarifas de fletes hacia Medio Or...",
+    "date": "2026-07-23T23:00:29",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cma-cgm-anuncia-incrementos-en-sus-tarifas-de-fletes-hacia-medio-oriente-y-mar-rojo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-migraciones-verifica-atencion-a-usuarios-el-aeropuerto-internacional-jorge-chavez-1084845.aspx",
+    "title": "Migraciones verifica atención a usuarios en el Aeropuerto Internacional Jorge Chávez",
+    "snippet": "La Superintendencia Nacional de Migraciones supervisó la operatividad de los servicios de control migratorio en el Aeropuerto Internacional Jorge Chávez, ante el incremento del flujo de pasajeros por el feriado largo y l...",
+    "date": "2026-07-23T22:55:53",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-migraciones-verifica-atencion-a-usuarios-el-aeropuerto-internacional-jorge-chavez-1084845.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146068",
+    "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+    "snippet": "Shashua has been invited to take the chairman of the board seat....",
+    "date": "2026-07-23T22:40:08",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447289",
+    "title": "Transportistas aseguran no haber alterado precio de fletes en medio de emergencia climática",
+    "snippet": "Por Gabriel Campos Roullet  @PortalPortuario En medio del frente del mal tiempo por el que atraviesa Chile, se han presentado\nLa entrada Transportistas aseguran no haber alterado precio de fletes en medio de emergencia c...",
+    "date": "2026-07-23T22:30:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/transportistas-aseguran-no-haber-alterado-precio-de-fletes-en-medio-de-emergencia-climatica/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fap-celebra-su-aniversario-mostrando-su-capacidad-operativa-para-atender-emergencias-1084544.aspx",
+    "title": "FAP celebra su aniversario mostrando su capacidad operativa para atender emergencias",
+    "snippet": "Con una exhibición de aeronaves y helicópteros surcando el cielo de Lima, así como drones de alta tecnología listos para reforzar la vigilancia del territorio nacional, la Fuerza Aérea del Perú (FAP) celebró hoy el 85.° ...",
+    "date": "2026-07-23T22:27:38",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fap-celebra-su-aniversario-mostrando-su-capacidad-operativa-para-atender-emergencias-1084544.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4791029",
+    "title": "My FanCam Is My Favorite New AI Feature – Because It Doesn’t Generate Anything",
+    "snippet": "Samsung’s new Galaxy AI feature is fun because it’s not rewriting reality....",
+    "date": "2026-07-23T22:21:37",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/my-fancam-is-my-favorite-new-ai-feature-because-it-doesnt-generate-anything/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447324",
+    "title": "Estados Unidos oficializa implementación de tasa arancelaria de 12,5% a Chile y a otros 59 países",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Oficina del Representante Comercial de los Estados Unidos (USTR) oficializó la implementación de un arancel\nLa entrada Estados Unidos oficializa implementación de tasa ar...",
+    "date": "2026-07-23T22:18:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estados-unidos-oficializa-implementacion-de-tasa-arancelaria-de-125-a-chile/",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-arequipa-empieza-construccion-colegio-valle-tambo-mediante-obras-impuestos-1084823.aspx",
     "title": "Arequipa: empieza construcción de colegio en Valle de Tambo mediante Obras por Impuestos",
     "snippet": "Más de 450 estudiantes de la emblemática institución educativa Mariano Eduardo de Rivero y Ustariz del distrito de Cocachacra, en Arequipa, se beneficiarán con la nueva infraestructura del colegio que se ejecutará bajo l...",
@@ -25,6 +97,15 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
     "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447351",
+    "title": "Estados Unidos impone aranceles a 60 economías por importar bienes producidos con trabajo forzoso",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Embajador Jamieson Greer, representante comercial de Estados Unidos, está tomando medidas finales, bajo la dirección\nLa entrada Estados Unidos impone aranceles a 60 econo...",
+    "date": "2026-07-23T21:07:22",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estados-unidos-impone-aranceles-a-60-economias-por-importar-bienes-producidos-con-trabajo-forzoso/",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://portalportuario.cl/?p=447270",
@@ -1267,86 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/dp-world-refuerza-su-red-portuaria-y-logistica-en-emiratos-arabes-con-nuevas-terminales-en-fujairah/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mindef-instala-grupo-implementara-sistema-vigilancia-y-proteccion-areas-criticas-1084674.aspx",
-    "title": "Mindef instala grupo que implementará sistema de vigilancia y protección de áreas críticas",
-    "snippet": "Con el propósito de fortalecer la seguridad y la soberanía nacional, el Ministerio de Defensa instaló oficialmente el Grupo de Trabajo Sectorial encargado de elaborar el estudio técnico para la implementación de un Siste...",
-    "date": "2026-07-22T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mindef-instala-grupo-implementara-sistema-vigilancia-y-proteccion-areas-criticas-1084674.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=97655",
-    "title": "Inca Kola y turrón conquistan el mundo con emblemas nostálgicos del Perú",
-    "snippet": "El sabor del Perú sigue cruzando fronteras. Entre enero y mayo de este año, Inca Kola y el tradicional turrón peruano se consolidaron como los grandes embajadores de los llamados productos nostálgicos, conquistando palad...",
-    "date": "2026-07-22T19:55:56",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/inca-kola-y-turron-conquistan-el-mundo-con-emblemas-nostalgicos-del-peru/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447076",
-    "title": "Rusia prohíbe movimiento nocturno de buques en Puerto de Novorossiysk",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Rusia ha impuesto una prohibición temporal al movimiento de buques hacia y desde el Puerto\nLa entrada Rusia prohíbe movimiento nocturno de buques en Puerto d...",
-    "date": "2026-07-22T19:30:04",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/rusia-prohibe-movimiento-nocturno-de-buques-en-puerto-de-novorossiysk/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-duelo-del-corazon-herido-es-mas-letal-comentario-a-%C2%ABtres-maneras-morir%C2%BB-1084690.aspx",
-    "title": "El duelo del corazón herido es el más letal: comentario a «Tres maneras de morir»",
-    "snippet": "Luis Eduardo García es un autor piurano que, desde los años ochenta, trabaja en una sostenida carrera literaria, entre ficción y no ficción, logrando premios importantes en poesía y narrativa, entre ellos el premio Poeta...",
-    "date": "2026-07-22T19:25:50",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-duelo-del-corazon-herido-es-mas-letal-comentario-a-%C2%ABtres-maneras-morir%C2%BB-1084690.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=969003",
-    "title": "Price-hiked iPads are a little cheaper right now",
-    "snippet": "A number of Apple products got more expensive last month, so we’re happy to find deals wherever and whenever we can. If you’re searching for a high-end iPad, one of the more notable deals currently happening is on the 13...",
-    "date": "2026-07-22T19:14:31",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=969596",
-    "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
-    "snippet": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple...",
-    "date": "2026-07-22T19:13:21",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-fondo-garantizaria-conservacion-del-paisaje-bahuaja-sonenetambopata-a-largo-plazo-1084687.aspx",
-    "title": "Fondo garantizaría la conservación del Paisaje Bahuaja Sonene-Tambopata a largo plazo",
-    "snippet": "El Servicio Nacional de Áreas Naturales Protegidas por el Estado (Sernanp) anunció la creación del Fondo Mixto para la Conservación del Paisaje Bahuaja Sonene-Tambopata, una iniciativa orientada a fortalecer la protecció...",
-    "date": "2026-07-22T19:10:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-fondo-garantizaria-conservacion-del-paisaje-bahuaja-sonenetambopata-a-largo-plazo-1084687.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "6a5fbd11262e397baf375f67",
-    "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-    "snippet": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable....",
-    "date": "2026-07-22T19:01:38",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/eeuu-construyo-destructor-futurista-que-no-salio-como-esperaba-rescate-llega-a-velocidad-hipersonica",
-    "title": "EEUU construyó un destructor futurista que no salió como esperaba. El rescate llega a velocidad hipersónica",
-    "snippet": "El USS Zumwalt fue diseñado para representar cómo sería la guerra naval del futuro, pero su historia terminó contando algo bastante distinto. La Armada estadounidense redujo la clase de 32 unidades previstas a solo tres,...",
-    "date": "2026-07-22T19:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/eeuu-construyo-destructor-futurista-que-no-salio-como-esperaba-rescate-llega-a-velocidad-hipersonica",
-    "category": "TRIBUTARIO"
   }
 ]
