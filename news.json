@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://www.cnet.com/rss/news/4794076",
+    "title": "Anne Rice’s Vampire Series Is Renewed as ‘Queen of the Damned’ for Season 4",
+    "snippet": "During a Comic-Con panel on Friday, AMC dropped a teaser trailer for Queen of the Damned....",
+    "date": "2026-07-24T22:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/anne-rice-queen-of-the-damned-season-4/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/proximo-gran-avion-combate-britanico-quiza-no-tendra-piloto-bae-systems-tiene-listo-prototipo",
+    "title": "El próximo gran avión de combate británico quizá no tendrá piloto: BAE Systems ya tiene listo un prototipo",
+    "snippet": "Durante décadas, cada gran salto de la aviación militar británica ha tenido un piloto en el centro. Ocurrió con el Harrier, con el Tornado y con el Typhoon, y todo apunta a que seguirá siendo así con el futuro Tempest. P...",
+    "date": "2026-07-24T21:57:48",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/proximo-gran-avion-combate-britanico-quiza-no-tendra-piloto-bae-systems-tiene-listo-prototipo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1698735",
+    "title": "SBS multará a bancos que calculen mal el cobro de tasas de interés: ¿qué otras infracciones serán sancionadas?",
+    "snippet": "La Superintendencia de Banca, Seguros y AFP incorporó nuevas infracciones para castigar a las entidades financieras que apliquen incorrectamente las tasas de interés o calculen la liquidación de intereses en perjuicio ec...",
+    "date": "2026-07-24T21:39:41",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/sbs-multara-a-bancos-incumplan-normas-cobro-de-tasas-de-interes-las-infracciones-que-seran-sancionadas-noticia-1698735",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447611",
+    "title": "Yangzijiang Shipbuilding entraga un nuevo buque de 24.212 TEU a CMA CGM",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Yangzijiang Shipbuilding (YZJ) entregó a CMA CGM un nuevo portacontenedores de categoría megamax propulsado por gas\nLa entrada Yangzijiang Shipbuilding entraga un nuevo buqu...",
+    "date": "2026-07-24T21:30:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/yangzijiang-shipbuilding-entraga-un-nuevo-buque-de-24-212-teu-a-cma-cgm/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-agentes-contaminantes-del-aire-excedieron-los-limites-permitidos-ate-y-san-borja-1084935.aspx",
+    "title": "Agentes contaminantes del aire excedieron los límites permitidos en Ate y San Borja",
+    "snippet": "Los distritos limeños de Ate y San Borja registraron en el mes de junio sde 2026 altos niveles de concentración de partículas inhalables, como polvo, hollín, polen y otras partículas sólidas o líquidas dispersas en la at...",
+    "date": "2026-07-24T21:24:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-agentes-contaminantes-del-aire-excedieron-los-limites-permitidos-ate-y-san-borja-1084935.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-selecciona-primera-promocion-mujeres-para-incorporarse-al-transporte-publico-1084932.aspx",
+    "title": "ATU selecciona primera promoción de mujeres para incorporarse al transporte público",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) culminó el proceso de selección de la primera edición del programa Impulso Mujer, una iniciativa orientada a promover una mayor participación femenina en el tran...",
+    "date": "2026-07-24T21:18:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-selecciona-primera-promocion-mujeres-para-incorporarse-al-transporte-publico-1084932.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-piura-soportara-lluvias-ligeras-hasta-lunes-27-ingreso-humedad-desde-amazonia-1084934.aspx",
+    "title": "Piura soportará lluvias ligeras hasta el lunes 27 por ingreso de humedad desde la Amazonía",
+    "snippet": "El Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi) informó que Piura registró ligeras precipitaciones durante este viernes 24 de julio debido al ingreso de humedad desde la Amazonía hacia la costa norte...",
+    "date": "2026-07-24T21:10:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-piura-soportara-lluvias-ligeras-hasta-lunes-27-ingreso-humedad-desde-amazonia-1084934.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447550",
+    "title": "Drones ucranianos han impactado más de 180 buques y objetivos navales rusos en tres semanas",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Desde las estepas del sur de Ucrania, unidades militares preparan drones para cazar naves rusas\nLa entrada Drones ucranianos han impactado más de 180 buques ...",
+    "date": "2026-07-24T21:00:06",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/drones-ucranianos-han-impactado-mas-de-180-buques-y-objetivos-navales-rusos-en-tres-semanas/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-river-plate-anuncia-llegada-del-atacante-angel-correa-desde-tigres-mexico-1084928.aspx",
+    "title": "River Plate anuncia la llegada del atacante Ángel Correa desde Tigres de México",
+    "snippet": "River Plate anunció este viernes la llegada del atacante Ángel Correa, proveniente desde Tigres de México, para reforzar al equipo argentino para el Torneo Clausura local y la Copa Sudamericana 2026....",
+    "date": "2026-07-24T20:51:39",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-river-plate-anuncia-llegada-del-atacante-angel-correa-desde-tigres-mexico-1084928.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-publica-guia-practica-para-agilizar-modificaciones-presupuestarias-1084927.aspx",
+    "title": "MEF publica guía práctica para agilizar modificaciones presupuestarias",
+    "snippet": "Las entidades del Gobierno nacional, los gobiernos regionales y las municipalidades cuentan desde hoy con una herramienta práctica que reúne y sistematiza las principales reglas para modificar sus presupuestos durante el...",
+    "date": "2026-07-24T20:45:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-publica-guia-practica-para-agilizar-modificaciones-presupuestarias-1084927.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-inician-excavaciones-pikimachay-cueva-donde-habitaron-los-primeros-humanos-peru-1084626.aspx",
+    "title": "Inician excavaciones en Pikimachay, la cueva donde habitaron los primeros humanos en Perú",
+    "snippet": "La histórica cueva de Pikimachay, ubicada en la región Ayacucho, considerada uno de los yacimientos arqueológicos más importantes del Perú y Sudamérica, vuelve a convertirse en el centro de la investigación científica....",
+    "date": "2026-07-24T20:43:44",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inician-excavaciones-pikimachay-cueva-donde-habitaron-los-primeros-humanos-peru-1084626.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=447571",
+    "title": "Servicio Tango de Maersk cambia escalas a puertos en Brasil",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Maersk informó que será modificada la rotación de puertos del servicio UHC Tango, modificando las escalas\nLa entrada Servicio Tango de Maersk cambia escalas a puertos en Bra...",
+    "date": "2026-07-24T20:30:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/servicio-tango-de-maersk-cambia-escalas-a-puertos-de-brasil/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=447560",
     "title": "Colombia: Puerto Bahía recibe vagón de tren destinado a la ampliación del Metro de Medellín",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto Bahía realizó la operación de descarga de un vagón de tren destinado a la\nLa entrada Colombia: Puerto Bahía recibe vagón de tren destinado a la ampliación del Metr...",
@@ -524,6 +632,15 @@
   {
     "id": "https://www.xataka.com/videojuegos/play-station-network-esta-caido-servicio-esta-dando-error-no-deja-iniciar-sesion",
     "title": "PSN está caído: problemas con los servidores y mensajes de error como WS-116521-6, WS-116414-7 y WS-116486-6",
+    "snippet": "Viernes en pleno verano, con un calor insoportable, parece buen momento para echar unas partidas en tu PlayStation. No tan deprisa... Si planeabas jugar a un juego online, vete olvidando porque el servicio PlayStation Ne...",
+    "date": "2026-07-24T13:41:05",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/play-station-network-esta-caido-servicio-esta-dando-error-no-deja-iniciar-sesion",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/play-station-network-esta-caido-servicio-esta-dando-error-no-deja-iniciar-sesion",
+    "title": "PSN está caído: problemas con los servidores y mensajes de error como WS-116521-6, WS-116414-7 y WS-116486-6 [Actualizado]",
     "snippet": "Viernes en pleno verano, con un calor insoportable, parece buen momento para echar unas partidas en tu PlayStation. No tan deprisa... Si planeabas jugar a un juego online, vete olvidando porque el servicio PlayStation Ne...",
     "date": "2026-07-24T13:41:05",
     "source": "XATAKA",
@@ -1230,123 +1347,6 @@
     "date": "2026-07-23T19:29:55",
     "source": "INDECOPI",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMUlsM3oyeFptOFpLVGo3YWt2N0xmUW1BVEUzUTJUUGhSaFAyMlRoZVN3Ri1NbGpXZGRWN1V6bUVHbjBlcUlMWGtORTRwUDNDSUlPR09tcGYtbGJneHhsWDltY1AxNGpTN0lXSEZlcTVCU01mbWZid0xwTHBnOUw2M3BLWFJnR3FiUlFvWUxMQmpQM1RRbjg5VWRoNlA2SjhubHhfNWxjM3V4VjcyNy02TkdzWS1RTC1sN0ZGNk9SRGpVWXZBaWxjRWo4V2pHblhWNlBDY1Raa0k2UQ?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMixAFBVV95cUxQYkNYX2EteHVBY3dFT0xXTVZpX0RhN3htY3hqMmdoUkZfLWMyUDVIb2RkSGx6U2xrczZFNldQaTR4Ul8yWVdKR0dmS192ZDRWLWVYRG1XQ01pQi1lTUxnV1pxR2UxS252T0xtZEp2MzdROW9MV2F1TU5CdEFLRHRQY2dOVFVXVW9BQ3oyUVBOUkVoY1loU3NPWUtMUXJUSF9BM0NrdkZuSFBqaVZ2YlpIRHFxOVROaVpiYzN5VHZlMDA5WnhC",
-    "title": "Indecopi multa a empresa de delivery por aplicar cobro predeterminado de propina - TVPerú",
-    "snippet": "Indecopi multa a empresa de delivery por aplicar cobro predeterminado de propina  TVPerú...",
-    "date": "2026-07-23T19:10:03",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYkNYX2EteHVBY3dFT0xXTVZpX0RhN3htY3hqMmdoUkZfLWMyUDVIb2RkSGx6U2xrczZFNldQaTR4Ul8yWVdKR0dmS192ZDRWLWVYRG1XQ01pQi1lTUxnV1pxR2UxS252T0xtZEp2MzdROW9MV2F1TU5CdEFLRHRQY2dOVFVXVW9BQ3oyUVBOUkVoY1loU3NPWUtMUXJUSF9BM0NrdkZuSFBqaVZ2YlpIRHFxOVROaVpiYzN5VHZlMDA5WnhC?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/china-llevaba-anos-persiguiendo-oro-negro-ahora-ha-comenzado-a-convertirlo-algo-mucho-grande",
-    "title": "China llevaba años persiguiendo el “oro negro”. Ahora ha comenzado a convertirlo en algo mucho más grande",
-    "snippet": "Una fibra casi invisible puede acabar soportando parte de una pala eólica gigantesca, formando parte de las estructuras principales de carga de un tren de metro o protegiendo varios satélites durante el ascenso de un coh...",
-    "date": "2026-07-23T19:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/china-llevaba-anos-persiguiendo-oro-negro-ahora-ha-comenzado-a-convertirlo-algo-mucho-grande",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-autoriza-transferencia-s-384-al-ministerio-defensa-para-pago-igv-1084798.aspx",
-    "title": "MEF autoriza transferencia de S/ 38.4 al Ministerio de Defensa para el pago de IGV",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó la transferencia de 38.4 millones de soles al Ministerio de Defensa para financiar el pago del Impuesto General a las Ventas (IGV) que le fuera trasladado a dicho porta...",
-    "date": "2026-07-23T19:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-autoriza-transferencia-s-384-al-ministerio-defensa-para-pago-igv-1084798.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/nube-europea-cifrado-postcuantico-para-evitar-problemas-seguridad-futuros-internxt-sigue-su-promo-estrella-activa",
-    "title": "Una nube europea con cifrado postcuántico para evitar problemas de seguridad futuros: Internxt sigue con su promo estrella activa",
-    "snippet": "Aunque suene un poco a ciencia ficción, la computación cuántica está cerca de ser una realidad a gran escala. Pero, ¿y eso en qué nos afecta a nosotros? Este tipo de ordenadores, entre otras muchas cosas, son capaces de ...",
-    "date": "2026-07-23T18:45:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/nube-europea-cifrado-postcuantico-para-evitar-problemas-seguridad-futuros-internxt-sigue-su-promo-estrella-activa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/accesorios/este-controlador-te-permite-usar-cualquier-dispositivo-lengua-se-conecta-bluetooth-trackpad-tu-paladar",
-    "title": "Este controlador te permite usar cualquier dispositivo con la lengua: se conecta por bluetooth y es un trackpad en tu paladar",
-    "snippet": "Manejar el ratón de un ordenador con la lengua puede parecerte algo excéntrico. Pero más de 100 millones de personas con movilidad reducida no tienen tan fácil usar un ratón con sus manos, y es aquí donde entra, disposit...",
-    "date": "2026-07-23T18:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/accesorios/este-controlador-te-permite-usar-cualquier-dispositivo-lengua-se-conecta-bluetooth-trackpad-tu-paladar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2219750/chinese-smart-watches-oppo-watch-x3-rarely-sold-in-united-states/",
-    "title": "Here's why Chinese smartwatches like the Oppo Watch X3 are rarely sold in the US",
-    "snippet": "The device is ready; the business isn't....",
-    "date": "2026-07-23T18:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2219750/chinese-smart-watches-oppo-watch-x3-rarely-sold-in-united-states/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=970211",
-    "title": "Patreon is laying off 20 percent of workers",
-    "snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we bel...",
-    "date": "2026-07-23T18:20:30",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/vi-cine-apenas-llegue-a-creditos-a-tarantino-se-le-atraganto-esta-pelicula-que-puedes-recuperar-streaming",
-    "title": "\"La vi en el cine y apenas llegué a los créditos\": a Tarantino se le atragantó esta película que puedes recuperar en streaming",
-    "snippet": "Quentin Tarantino lo admite sin monsergas: \"la vi en el cine y apenas llegué a los créditos\". Habla de 'Las amargas lágrimas de Petra von Kant', una de las películas de Rainer Werner Fassbinder que no logró ver entera (j...",
-    "date": "2026-07-23T18:15:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/vi-cine-apenas-llegue-a-creditos-a-tarantino-se-le-atraganto-esta-pelicula-que-puedes-recuperar-streaming",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/no-compran-nada-no-reciben-nada-felices-app-coreana-que-promete-comida-a-domicilio-nunca-trae",
-    "title": "Un experto en consumo avisa: las apps que simulan compras a cambio de dopamina abren la puerta a algo peor",
-    "snippet": "¿Quién no ha terminado un día de trabajo estresado y ha decidido pedir comida a domicilio? Sin duda, es una buena opción cuando no tenemos ganas de cocinar. Pero no es la única razón por la que solemos tener el impulso. ...",
-    "date": "2026-07-23T18:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/no-compran-nada-no-reciben-nada-felices-app-coreana-que-promete-comida-a-domicilio-nunca-trae",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/1581-felipe-ii-tuvo-ideas-locas-historia-espana-conectar-madrid-atlantico-canal",
-    "title": "En 1581, Felipe II tuvo una de las ideas más locas de la historia de España: conectar Madrid y el Atlántico con un canal",
-    "snippet": "Si todos los caminos llevan a Roma... ¿Por qué no podía tener Madrid al menos uno que lo conectase de forma directa y sobre todo navegable con el Atlántico? La idea suena macarrónica, pero durante un tiempo pareció cobra...",
-    "date": "2026-07-23T17:45:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/1581-felipe-ii-tuvo-ideas-locas-historia-espana-conectar-madrid-atlantico-canal",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-peru-existe-creciente-participacion-las-regiones-el-desempeno-exportador-del-pais-1084809.aspx",
-    "title": "Perú: existe creciente participación de las regiones en el desempeño exportador del país",
-    "snippet": "Las exportaciones peruanas se envían principalmente a través del puerto del Callao, el Aeropuerto Internacional Jorge Chávez y el puerto de Matarani, señaló el Ministerio de Comercio Exterior y Turismo (Mincetur)....",
-    "date": "2026-07-23T17:36:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-peru-existe-creciente-participacion-las-regiones-el-desempeno-exportador-del-pais-1084809.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-la-uni-cumple-150-aniversario-como-referente-de-ingenieria-y-ciencias-el-pais-1084810.aspx",
-    "title": "La UNI cumple 150 aniversario como referente de la ingeniería y ciencias en el país",
-    "snippet": "La Universidad Nacional de Ingeniería (UNI) conmemora 150 años de vida institucional desde su fundación en 1876 como la entonces Escuela Especial de Construcciones Civiles y de Minas, creada por el ingeniero polaco Eduar...",
-    "date": "2026-07-23T17:24:15",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-uni-cumple-150-aniversario-como-referente-de-ingenieria-y-ciencias-el-pais-1084810.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=960331",
-    "title": "Corsair’s PC case with a panoramic glass design is $70 off",
-    "snippet": "On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The versatile case suppo...",
-    "date": "2026-07-23T17:20:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
     "category": "MERCADO"
   }
 ]
