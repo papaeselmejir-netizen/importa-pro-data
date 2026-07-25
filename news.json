@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-reniec-gobierno-autoriza-transferencia-para-financiar-actividades-las-erm-2026-1085022.aspx",
+    "title": "Reniec: Gobierno autoriza transferencia para financiar actividades de las ERM 2026",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia de S/ 30 790 000,00 a favor del Registro Nacional de Identificación y Estado Civil (RENIEC) para financiar los gastos asociados a las Elecciones Regio...",
+    "date": "2026-07-25T17:40:37",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-reniec-gobierno-autoriza-transferencia-para-financiar-actividades-las-erm-2026-1085022.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/llevamos-anos-echandonos-deet-para-repeler-a-mosquitos-unico-problema-que-mal-hecho-su-comida-favorita",
+    "title": "Llevamos años echándonos DEET para repeler a los mosquitos. El único problema es que, mal hecho, es su comida favorita",
+    "snippet": "El DEET es uno de los ingredientes más usados en los repelentes para mosquitos. Eso nos hace pensar que, como su propio nombre indica, repele a estos insectos. No le gusta. Sin embargo, según un nuevo estudio publicado p...",
+    "date": "2026-07-25T17:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-echandonos-deet-para-repeler-a-mosquitos-unico-problema-que-mal-hecho-su-comida-favorita",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-fiestas-patrias-atu-refuerza-control-al-transporte-turistico-durante-los-feriados-1085014.aspx",
     "title": "Fiestas Patrias: ATU refuerza el control al transporte turístico durante los feriados",
     "snippet": "Con el objetivo de garantizar la seguridad de los turistas nacionales y extranjeros que aprovecharán los feriados por Fiestas Patrias para viajar o realizar recorridos en la ciudad, la Autoridad de Transporte Urbano para...",
@@ -1330,23 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/mistral-esta-muy-lejos-carrera-ia-a-samsung-eso-le-importa-bien-poco-planea-invertir-fortuna-ella",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-xi-jinping-enviara-a-ministro-ciencia-y-tecnologia-a-investidura-keiko-fujimori-1084864.aspx",
-    "title": "Xi Jinping enviará a ministro de Ciencia y Tecnología a investidura de Keiko Fujimori",
-    "snippet": "El presidente chino, Xi Jinping, enviará a su ministro de Ciencia y Tecnología, Yin Hejun, a la investidura de la presidenta electa de Perú, Keiko Fujimori, que se celebrará la próxima semana en Lima, informó este vierne...",
-    "date": "2026-07-24T12:15:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-xi-jinping-enviara-a-ministro-ciencia-y-tecnologia-a-investidura-keiko-fujimori-1084864.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-espectaculo-marino-ancash-avistan-paso-ballenas-frente-a-las-costas-huarmey-1084514.aspx",
-    "title": "Espectáculo marino en Áncash: avistan el paso de ballenas frente a las costas de Huarmey",
-    "snippet": "Los pescadores de la provincia de Huarmey, en la región Áncash, registraron el paso de grandes ballenas frente al litoral ancashino, un espectáculo natural que marca el desarrollo de la migración estacional de estos cetá...",
-    "date": "2026-07-24T12:15:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-espectaculo-marino-ancash-avistan-paso-ballenas-frente-a-las-costas-huarmey-1084514.aspx",
-    "category": "MERCADO"
   }
 ]
