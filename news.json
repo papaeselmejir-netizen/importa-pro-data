@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mvcs-entrega-20-modulos-temporales-vivienda-para-damnificados-sismo-junin-1085134.aspx",
+    "title": "MVCS entrega 20 módulos temporales de vivienda para damnificados por sismo en Junín",
+    "snippet": "El Ministerio de Vivienda, Construcción y Saneamiento (MVCS) entregó 20 Módulos Temporales de Vivienda (MTV) a familias damnificadas por el fuerte sismo ocurrido el último 18 de julio en la región Junín. De esta manera, ...",
+    "date": "2026-07-26T23:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mvcs-entrega-20-modulos-temporales-vivienda-para-damnificados-sismo-junin-1085134.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-pnp-captura-a-cuatro-presuntos-integrantes-banda-criminal-los-r7-canta-callao-1085131.aspx",
+    "title": "PNP captura a cuatro presuntos integrantes de banda criminal \"Los R7 de Canta Callao\"",
+    "snippet": "Tras un riguroso trabajo de inteligencia e investigación, efectivos policiales intervinieron a cuatro presuntos integrantes de la banda criminal \"Los R7 de Canta Callao\". Este operativo se realizó al promediar las 6:00 a...",
+    "date": "2026-07-26T22:19:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-pnp-captura-a-cuatro-presuntos-integrantes-banda-criminal-los-r7-canta-callao-1085131.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-gobierno-instala-modulos-temporales-vivienda-para-afectados-sismo-junin-1085114.aspx",
     "title": "Gobierno instala módulos temporales de vivienda para afectados por sismo en Junín",
     "snippet": "El Gobierno puso en marcha la instalación de los primeros 20 de más de 200 módulos temporales de vivienda para las familias en situación de vulnerabilidad que perdieron sus casas a causa del sismo ocurrido el pasado fin ...",
@@ -1260,6 +1278,15 @@
     "category": "LOGÍSTICA"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cvgjenp4680o#0",
+    "title": "Trump vows to investigate EU over fining of US tech companies",
+    "snippet": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"...",
+    "date": "2026-07-24T20:23:58",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=447560",
     "title": "Colombia: Puerto Bahía recibe vagón de tren destinado a la ampliación del Metro de Medellín",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto Bahía realizó la operación de descarga de un vagón de tren destinado a la\nLa entrada Colombia: Puerto Bahía recibe vagón de tren destinado a la ampliación del Metr...",
@@ -1321,32 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-desde-hora-se-restringe-transito-camiones-carretera-central-hoy-24-julio-1083734.aspx",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/se-encuentra-situacion-critica-incendio-madrid-obliga-a-evacuar-instalacion-indispensable-para-nasa",
-    "title": "“Se encuentra en una situación crítica”: el incendio en Madrid obliga a evacuar una instalación indispensable para la NASA",
-    "snippet": "El avance del incendio por el suroeste de Madrid ha situado el foco sobre Robledo de Chavela, uno de los municipios afectados por la emergencia. Allí se encuentra también un complejo de comunicaciones que forma parte de ...",
-    "date": "2026-07-24T19:21:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/se-encuentra-situacion-critica-incendio-madrid-obliga-a-evacuar-instalacion-indispensable-para-nasa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-y-editora-peru-firman-convenio-para-difundir-informacion-relevante-para-desarrollo-1084912.aspx",
-    "title": "MEF y Editora Perú firman convenio para difundir información relevante para el desarrollo",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) y Editora Perú, empresa estatal que publica el Diario Oficial El Peruano y la Agencia de Noticias Andina, firmaron hoy un convenio de cooperación interinstitucional para la difu...",
-    "date": "2026-07-24T19:01:13",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-y-editora-peru-firman-convenio-para-difundir-informacion-relevante-para-desarrollo-1084912.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-esta-levantando-gigantesco-aeropuerto-isla-artificial-ingenieria-no-unico-reto",
-    "title": "China está levantando un gigantesco aeropuerto sobre una isla artificial: la ingeniería no es el único reto",
-    "snippet": "China ha levantado la presa de las Tres Gargantas, ha unido Hong Kong, Zhuhai y Macao mediante puentes, un túnel submarino e islas artificiales, y ha llevado el ferrocarril Qinghai-Tíbet hasta más de 5.000 metros de alti...",
-    "date": "2026-07-24T19:00:39",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-esta-levantando-gigantesco-aeropuerto-isla-artificial-ingenieria-no-unico-reto",
-    "category": "TRIBUTARIO"
   }
 ]
