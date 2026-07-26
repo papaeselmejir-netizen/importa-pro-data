@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-gobierno-instala-modulos-temporales-vivienda-para-afectados-sismo-junin-1085114.aspx",
+    "title": "Gobierno instala módulos temporales de vivienda para afectados por sismo en Junín",
+    "snippet": "El Gobierno puso en marcha la instalación de los primeros 20 de más de 200 módulos temporales de vivienda para las familias en situación de vulnerabilidad que perdieron sus casas a causa del sismo ocurrido el pasado fin ...",
+    "date": "2026-07-26T21:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-instala-modulos-temporales-vivienda-para-afectados-sismo-junin-1085114.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-milei-acusa-a-brasil-y-mexico-financiar-campana-antiargentina-el-mundial-2026-1085124.aspx",
+    "title": "Milei acusa a Brasil y México de financiar \"campaña antiargentina\" en el Mundial 2026",
+    "snippet": "El presidente argentino Javier Milei acusó el domingo al gobierno brasileño, pero también a México y al Partido Demócrata estadounidense, de financiar una \"campaña antiargentina\", en aparente referencia a las críticas di...",
+    "date": "2026-07-26T20:28:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-milei-acusa-a-brasil-y-mexico-financiar-campana-antiargentina-el-mundial-2026-1085124.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-atu-transporte-publico-modificara-recorridos-durante-parada-civico-militar-av-brasil-1085101.aspx",
     "title": "ATU: transporte público modificará recorridos durante Parada Cívico Militar en av Brasil",
     "snippet": "El Perú cumple 205 años de independencia y como ya es tradición el 29 de julio se realizará la Gran Parada y Desfile Cívico Militar en la avenida Brasil. Es por ello que los servicios de transporte público autorizado que...",
@@ -1330,23 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-esta-levantando-gigantesco-aeropuerto-isla-artificial-ingenieria-no-unico-reto",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-capacita-a-conductores-para-implementacion-del-sistema-recaudo-unico-1084909.aspx",
-    "title": "ATU capacita a conductores para implementación del Sistema de Recaudo Único",
-    "snippet": "La implementación del Sistema de Recaudo Único avanza de la mano con la preparación de quienes estarán en contacto directo con los usuarios. Por ese motivo, la Autoridad de Transporte Urbano para Lima y Callao (ATU) refo...",
-    "date": "2026-07-24T19:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-capacita-a-conductores-para-implementacion-del-sistema-recaudo-unico-1084909.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgjenp4680o#0",
-    "title": "Trump vows to investigate EU over fining of US tech companies",
-    "snippet": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"...",
-    "date": "2026-07-24T18:57:39",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
