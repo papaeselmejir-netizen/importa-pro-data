@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o#0",
+    "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+    "snippet": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong....",
+    "date": "2026-07-27T02:08:36",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-copa-sudamericana-voleibol-brasil-se-corono-campeon-y-peru-acabo-el-quinto-puesto-1085146.aspx",
+    "title": "Copa Sudamericana de Voleibol : Brasil se coronó campeón y Perú acabó en el quinto puesto",
+    "snippet": "En la gran final disputada este domingo en un abarrotado Coliseo Eduardo Dibós, la selección de Brasil demostró toda su jerarquía para vencer 3 set a 0 a Colombia y coronarse campeón de la II Copa Sudamericana de Voleibo...",
+    "date": "2026-07-27T01:21:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-copa-sudamericana-voleibol-brasil-se-corono-campeon-y-peru-acabo-el-quinto-puesto-1085146.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mvcs-entrega-20-modulos-temporales-vivienda-para-damnificados-sismo-junin-1085134.aspx",
     "title": "MVCS entrega 20 módulos temporales de vivienda para damnificados por sismo en Junín",
     "snippet": "El Ministerio de Vivienda, Construcción y Saneamiento (MVCS) entregó 20 Módulos Temporales de Vivienda (MTV) a familias damnificadas por el fuerte sismo ocurrido el último 18 de julio en la región Junín. De esta manera, ...",
@@ -1330,23 +1348,5 @@
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/aranceles-de-trump-afectaran-a-las-estrellas-del-agro-peruano-uvas-arandanos-y-esparragos-pagaran-el-impuesto-del-125-noticia-1698708",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447517",
-    "title": "Gabinete logístico de Panamá define camino hacia modernización y optimización de puertos del país",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Gabinete Logístico del Gobierno de Panamá realizó su sexta sesión ordinaria, bajo la dirección presidente\nLa entrada Gabinete logístico de Panamá define camino hacia mode...",
-    "date": "2026-07-24T19:30:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/gabinete-logistico-de-panama-define-camino-hacia-modernizacion-y-optimizacion-de-puertos-del-pais/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-desde-hora-se-restringe-transito-camiones-carretera-central-hoy-24-julio-1083734.aspx",
-    "title": "¿Desde qué hora se restringe el tránsito de camiones en Carretera Central hoy 24 de julio?",
-    "snippet": "Hoy, viernes 24 julio, empieza la restricción del tránsito de camiones de más de 3.5 toneladas en la Carretera Central. Conoce desde qué hora se aplicará esta medida y el motivo que tiene el Ministerio de Transportes y C...",
-    "date": "2026-07-24T19:25:44",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-desde-hora-se-restringe-transito-camiones-carretera-central-hoy-24-julio-1083734.aspx",
-    "category": "LEGAL"
   }
 ]
