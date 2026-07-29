@@ -1,7 +1,160 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-ministro-de-produccion-comprometido-con-fortalecimiento-micro-y-pequenas-empresas-1085544.aspx",
+    "title": "Ministro de la Producción comprometido con el fortalecimiento de micro y pequeñas empresas",
+    "snippet": "El titular del Ministerio de la Producción (Produce), Juan Carlos Requejo, está comprometido con el fortalecimiento de las micro y pequeñas empresas, el impulso a la industria, la pesca y la acuicultura....",
+    "date": "2026-07-29T19:13:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministro-de-produccion-comprometido-con-fortalecimiento-micro-y-pequenas-empresas-1085544.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/servicios/proxima-gran-batalla-cobertura-movil-sera-espacio-amazon-tiene-plan-para-plantar-cara-a-starlink",
+    "title": "La próxima gran batalla por la cobertura móvil será en el espacio: Amazon tiene un plan para plantar cara a Starlink",
+    "snippet": "Hasta hace poco, perder la cobertura significaba quedar fuera de la red hasta encontrar otra antena terrestre. Esa lógica empieza a romperse: los satélites de órbita baja ya pueden comunicarse directamente con determinad...",
+    "date": "2026-07-29T19:01:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/servicios/proxima-gran-batalla-cobertura-movil-sera-espacio-amazon-tiene-plan-para-plantar-cara-a-starlink",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972583",
+    "title": "What’s the catch with the Apple Upgrade program?",
+    "snippet": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the devi...",
+    "date": "2026-07-29T18:40:06",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fil-lima-2026-agustina-bazterrica-eduardo-sacheri-su-pluma-argentina-1085404.aspx",
+    "title": "FIL Lima 2026: Agustina Bazterrica, Eduardo Sacheri con su pluma argentina",
+    "snippet": "La literatura argentina tiene un lugar protagónico en la Feria Internacional del Libro de Lima. Escritores de distintos géneros y generaciones participarán en presentaciones de libros, conversatorios y actividades especi...",
+    "date": "2026-07-29T18:39:21",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fil-lima-2026-agustina-bazterrica-eduardo-sacheri-su-pluma-argentina-1085404.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/conductor-chino-se-compro-espectacular-suv-electrico-para-viajar-a-europa-todo-era-perfecto-que-llego-a-frontera",
+    "title": "Un conductor chino se compró un espectacular SUV eléctrico para viajar a Europa. Todo era perfecto hasta que llegó a la frontera",
+    "snippet": "Fabio Belmone es Volata di Peluca. A principios del año pasado se hizo viral cuando publicó que iría a Tokyo. Hasta aquí, todo normal. Otro millennial que marcha a Japón. Lo que hacía especial el viaje de Fabio Belmone e...",
+    "date": "2026-07-29T18:31:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/conductor-chino-se-compro-espectacular-suv-electrico-para-viajar-a-europa-todo-era-perfecto-que-llego-a-frontera",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448220",
+    "title": "Bélgica: Puerto de Amberes recibe un módulo gigante destinada a planta de craqueo de etano",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Amberes (Bélgica) recibió un módulo gigante destinado a la planta de craqueo de\nLa entrada Bélgica: Puerto de Amberes recibe un módulo gigante destinada a plant...",
+    "date": "2026-07-29T18:30:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/belgica-puerto-de-amberes-recibe-un-modulo-gigante-destinada-a-planta-de-craqueo-de-etano/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-japon-vuelve-a-temblar-sismo-58-1085524.aspx",
+    "title": "Japón vuelve a temblar con sismo de 5,8",
+    "snippet": "Un nuevo sismo de magnitud 5,8 volvió a sacudir este miércoles la prefectura de Kumamoto, en el sudoeste de Japón, un día después de que un sismo de 7,1 causase la muerte de 18 personas y varios atrapados bajo los escomb...",
+    "date": "2026-07-29T18:22:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-japon-vuelve-a-temblar-sismo-58-1085524.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/gps-nos-deja-tirados-dentro-edificios-alternativa-esta-orbita-ha-demostrado-que-puede-llegar-techo",
+    "title": "El GPS nos deja tirados dentro de los edificios. Una alternativa ya está en órbita y ha demostrado que puede llegar bajo techo",
+    "snippet": "Entramos en un centro comercial, bajamos a un aparcamiento o cruzamos la puerta de una estación y el punto azul empieza a dudar. A veces tarda en reaccionar, otras nos coloca en la calle de al lado y, en los peores casos...",
+    "date": "2026-07-29T18:01:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/gps-nos-deja-tirados-dentro-edificios-alternativa-esta-orbita-ha-demostrado-que-puede-llegar-techo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-familias-afectadas-por-sismo-chupaca-accederan-a-campana-gratuita-tramite-dni-1085532.aspx",
+    "title": "Familias afectadas por el sismo en Chupaca accederán a campaña gratuita de trámite de DNI",
+    "snippet": "Las familias que resultaron damnificadas y afectadas por el fuerte sismo de magnitud 5.4 registrado el sábado 18 de julio en la provincia de Chupaca, región Junín, accederán a una campaña gratuita de trámite del document...",
+    "date": "2026-07-29T17:59:12",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-familias-afectadas-por-sismo-chupaca-accederan-a-campana-gratuita-tramite-dni-1085532.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147854",
+    "title": "Waymo robotaxis are starting to return to freeways",
+    "snippet": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days....",
+    "date": "2026-07-29T17:50:57",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147872",
+    "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+    "snippet": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters....",
+    "date": "2026-07-29T17:41:09",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/gibraltar-galicia-estan-separados-700-kilometros-comparten-algo-respuesta-como-pasamos-idioma-a-otro",
+    "title": "Gibraltar y Galicia están separados por 700 kilómetros, pero comparten algo: la respuesta a cómo pasamos de un idioma a otro",
+    "snippet": "Aquí un servidor vive en Vigo y, a lo largo del día, pasa con frecuencia del castellano al gallego. Los saltos de un idioma a otro ocurren de forma natural, espontánea, en función de con quién hable, dónde estemos o incl...",
+    "date": "2026-07-29T17:31:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/gibraltar-galicia-estan-separados-700-kilometros-comparten-algo-respuesta-como-pasamos-idioma-a-otro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448247",
+    "title": "Agentes de aduanas advierten impactos logísticos por prolongado cierre del Paso Los Libertadores",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Asociación Nacional de Agentes de Aduanas (Anagena) manifestó su preocupación por el prolongado cierre del\nLa entrada Agentes de aduanas advierten impactos logísticos por...",
+    "date": "2026-07-29T17:30:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/agentes-de-aduanas-advierten-impactos-logisticos-por-prolongado-cierre-del-paso-los-libertadores/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fiestas-patrias-algunos-actos-protocolares-republicanos-tienen-origen-el-virreinato-1085529.aspx",
+    "title": "Fiestas Patrias: algunos actos protocolares republicanos tienen origen en el virreinato",
+    "snippet": "Un grupo de los actos protocolares que se desarrollan durante las Fiestas Patrias son costumbres que tienen sus orígenes en la época del virreinato, explica el historiador Eduardo Torres Arancivia....",
+    "date": "2026-07-29T17:17:44",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fiestas-patrias-algunos-actos-protocolares-republicanos-tienen-origen-el-virreinato-1085529.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mova-presenta-su-primer-localizador-gps-para-mascotas-habla-tu-perro-a-distancia-rastrealo-tiempo-real",
+    "title": "Mova presenta su primer localizador GPS para mascotas: habla con tu perro a distancia y rastréalo en tiempo real",
+    "snippet": "Los dispositivos de localización de objetos tipo AirTag han ganado mucha popularidad en los últimos años para seguirle la pista a todo tipo de pertenencias. Sin embargo, cuando se trata de animales, los sistemas pasivos ...",
+    "date": "2026-07-29T17:15:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mova-presenta-su-primer-localizador-gps-para-mascotas-habla-tu-perro-a-distancia-rastrealo-tiempo-real",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/legislacion-y-derechos/alejandro-llano-abogado-hay-tipo-despido-que-no-aparece-ley-popular-despido-julio",
+    "title": "Alejandro Llano, abogado: \"Hay un tipo de despido que no aparece en la ley pero es el más popular: el despido en julio\"",
+    "snippet": "Todos los años sucede lo mismo. Julio avanza inexorable hacia unas merecidas vacaciones de verano, las oficinas y centros de trabajo se van vaciando poco a poco y, justo entonces, comienzan a llegar las cartas que ningún...",
+    "date": "2026-07-29T17:15:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/legislacion-y-derechos/alejandro-llano-abogado-hay-tipo-despido-que-no-aparece-ley-popular-despido-julio",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/llevamos-decadas-dando-hecho-que-universo-se-acelera-energia-oscura-estudio-dice-que-todo-fue-espejismo-estadistico",
     "title": "Llevamos décadas dando por hecho que el universo se acelera por la energía oscura. Un estudio dice que todo fue un espejismo estadístico",
+    "snippet": "Los astrónomos llevan décadas intentando desentrañar los misterios de la materia y la energía oscura. Sin embargo, ahora un equipo de científicos de la Universidad de Oxford ha lanzado la más controvertida de las solucio...",
+    "date": "2026-07-29T17:01:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/llevamos-decadas-dando-hecho-que-universo-se-acelera-energia-oscura-estudio-dice-que-todo-fue-espejismo-estadistico",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/llevamos-decadas-dando-hecho-que-universo-se-acelera-energia-oscura-estudio-dice-que-todo-fue-espejismo-estadistico",
+    "title": "Llevamos décadas dando por hecho que la expansión del universo se acelera por la energía oscura. Un estudio dice que todo fue un espejismo estadístico",
     "snippet": "Los astrónomos llevan décadas intentando desentrañar los misterios de la materia y la energía oscura. Sin embargo, ahora un equipo de científicos de la Universidad de Oxford ha lanzado la más controvertida de las solucio...",
     "date": "2026-07-29T17:01:36",
     "source": "XATAKA",
@@ -1195,158 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/videojuegos/esto-no-deberia-ser-posible-este-indie-ha-sido-devuelto-55-000-veces-politicas-restrictivas-steam",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-chosica-cierra-accesos-a-canal-huaycoloro-para-evitar-accidentes-1085322.aspx",
-    "title": "Chosica cierra accesos a canal de Huaycoloro para evitar accidentes",
-    "snippet": "La Municipalidad de Lurigancho-Chosica cerró los accesos de la Canalización de la Quebrada Huaycoloro tras conocerse que irresponsables conductores usaban esta obra como vía rápida, con el apoyo de la Subgerencia de Sere...",
-    "date": "2026-07-28T15:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-chosica-cierra-accesos-a-canal-huaycoloro-para-evitar-accidentes-1085322.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4798246",
-    "title": "Galaxy Watch Ultra 2 Trail Running Test: Can It Outrun Your Garmin?",
-    "snippet": "After a 5-mile run through the California hills, this is what Samsung’s toughest watch gets right, and where it still trails behind....",
-    "date": "2026-07-28T15:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/galaxy-watch-ultra-2-trail-running-test-can-it-outrun-your-garmin/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-roberto-mancini-confirmado-nuevo-seleccionador-italiano-tras-crisis-del-caso-pirlo-1085328.aspx",
-    "title": "Roberto Mancini, confirmado nuevo seleccionador italiano tras la crisis del 'caso Pirlo'",
-    "snippet": "Roberto Mancini será el nuevo seleccionador italiano, según ha anunciado este martes el presidente de la Federación Italiana de Fútbol (FIGC), Giovanni Malagò, después de la crisis que suscitó el rechazo para el cargo de...",
-    "date": "2026-07-28T14:57:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-roberto-mancini-confirmado-nuevo-seleccionador-italiano-tras-crisis-del-caso-pirlo-1085328.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=971790",
-    "title": "Apple’s reported ‘HomePad’ may launch as early as October",
-    "snippet": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a screen,\" details have been sparse. But ...",
-    "date": "2026-07-28T14:39:42",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447997",
-    "title": "Puerto de Bilbao implanta sistema automatizado de entrada y salida para pasajeros de fuera de la UE",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los controles de frontera en el Puerto de Bilbao son -ahora- más ágiles, eficientes y seguros,\nLa entrada Puerto de Bilbao implanta sistema automatizado de entrada y salida ...",
-    "date": "2026-07-28T14:35:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-bilbao-implanta-sistema-automatizado-de-entrada-y-salida-para-pasajeros-de-fuera-de-la-ue/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/legislacion-y-derechos/nueva-victoria-union-europea-que-te-reparen-dispositivo-incluso-fuera-garantia-entra-vigor-31-julio",
-    "title": "La nueva victoria de la Unión Europea: que te reparen un dispositivo incluso fuera de garantía entra en vigor el 31 de julio",
-    "snippet": "Se dice mucho eso de que Europa inventa poco y regula mucho. Lo primero no es cierto y tenemos algunas de las empresas que dan vida a sectores como el de la IA y los semiconductores. Lo segundo sí, traduciéndose en la ll...",
-    "date": "2026-07-28T14:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/legislacion-y-derechos/nueva-victoria-union-europea-que-te-reparen-dispositivo-incluso-fuera-garantia-entra-vigor-31-julio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447988",
-    "title": "Juan Carlos Galdámez: Puerto Exterior y la obligación de llegar a tiempo",
-    "snippet": "Juan Carlos Galdámez  LLM (Marine Law &#38; Policy, Wales, UK) El directorio de la Empresa Portuaria San Antonio (EPSA) acordó\nLa entrada Juan Carlos Galdámez: Puerto Exterior y la obligación de llegar a tiempo se public...",
-    "date": "2026-07-28T14:30:45",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/juan-carlos-galdamez-puerto-exterior-y-la-obligacion-de-llegar-a-tiempo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447904",
-    "title": "Maersk anuncia desvío de contenedores de importación hacia Serbia por congestión del Puerto de Rijeka",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Maersk informó que producto de la alta congestión en el Puerto de Rijeka (Croacia)\nLa entrada Maersk anuncia desvío de contenedores de importación hacia Serbia po...",
-    "date": "2026-07-28T14:30:38",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/maersk-anuncia-desvio-de-contenedores-de-importacion-hacia-serbia-por-congestion-del-puerto-de-rijeka/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2222509/echo-dot-max-vs-echo-dot-differences-between-amazon-devices/",
-    "title": "What's the difference between Amazon's Echo Dot and Echo Dot Max?",
-    "snippet": "Better bass and a much newer processor are the main differences between the old Echo Dot and the newer Echo Dot Max....",
-    "date": "2026-07-28T14:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2222509/echo-dot-max-vs-echo-dot-differences-between-amazon-devices/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-jovenes-espanoles-descubren-legado-kuelap-durante-expedicion-educativa-amazonas-1085313.aspx",
-    "title": "Jóvenes españoles descubren el legado de Kuélap durante expedición educativa en Amazonas",
-    "snippet": "Un total de 180 jóvenes integrantes del programa España Rumbo al Sur visitaron el Complejo Arqueológico Monumental Kuélap como parte de una expedición educativa que recorre diversas regiones del Perú, con el objetivo de ...",
-    "date": "2026-07-28T14:26:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-jovenes-espanoles-descubren-legado-kuelap-durante-expedicion-educativa-amazonas-1085313.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/idioma-aleman-rompio-nuestro-juego-como-simple-coma-basto-para-poner-cuerdas-a-juego-steam",
-    "title": "\"El idioma alemán rompió nuestro juego\": cómo una simple coma bastó para poner contra las cuerdas a un juego de Steam",
-    "snippet": "La corrección de errores es una de las tareas más frustrantes en el desarrollo de videojuegos, especialmente cuando un fallo parece ocurrir de forma totalmente aleatoria y sin seguir ningún patrón. El mundo de los bugs e...",
-    "date": "2026-07-28T14:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/idioma-aleman-rompio-nuestro-juego-como-simple-coma-basto-para-poner-cuerdas-a-juego-steam",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c62v8exggjeo#0",
-    "title": "Horror maestro Mike Flanagan joins Henry Cavill on Warhammer adaptations",
-    "snippet": "The director is due to work on scripts based on the popular tabletop hobby, Games Workshop says....",
-    "date": "2026-07-28T13:59:24",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c62v8exggjeo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147286",
-    "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-    "snippet": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad....",
-    "date": "2026-07-28T13:50:27",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-frutos-del-peru-frambuesas-y-zarzamoras-tienen-gran-potencial-tras-exito-arandanos-1085305.aspx",
-    "title": "Frutos del Perú: frambuesas y zarzamoras tienen gran potencial, tras éxito de arándanos",
-    "snippet": "El Perú ha demostrado que la innovación agrícola puede abrir nuevos mercados, pues solo en el 2025, nuestro país se consolidó como el primer exportador mundial de arándanos frescos, alcanzando ventas por 2,457 millones d...",
-    "date": "2026-07-28T13:37:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-frutos-del-peru-frambuesas-y-zarzamoras-tienen-gran-potencial-tras-exito-arandanos-1085305.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/xataka-xtra/que-tablet-android-200-eur-me-recomendais-esto-que-recomendamos",
-    "title": "¿Qué tablet Android de menos de 200 € me recomendáis? - Esto es lo que recomendamos",
-    "snippet": "Aunque no se llevan tantos titulares como los smartphones, los tablets siguen siendo dispositivos demandados por ofrecernos una pantalla mejor para ver contenido y usar apps, sobre todo para quien quiere algo bueno, boni...",
-    "date": "2026-07-28T13:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/xataka-xtra/que-tablet-android-200-eur-me-recomendais-esto-que-recomendamos",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2224690/motorola-launches-indigenous-collections-app-for-language-and-cultural-preservation/",
-    "title": "Motorola launches Indigenous Collections app for language and cultural preservation",
-    "snippet": "The free Android app shares knowledge from members of the Rainy Lake Ojibwe community....",
-    "date": "2026-07-28T13:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2224690/motorola-launches-indigenous-collections-app-for-language-and-cultural-preservation/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147263",
-    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-    "snippet": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date....",
-    "date": "2026-07-28T13:19:17",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "category": "MERCADO"
   }
 ]
