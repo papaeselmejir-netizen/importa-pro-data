@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-defensoria-rechaza-asesinato-alcalde-distrital-cajamarca-y-pide-investigacion-rapida-1085576.aspx",
+    "title": "Defensoría rechaza asesinato de alcalde distrital en Cajamarca y pide investigación rápida",
+    "snippet": "La Defensoría del Pueblo expresó su más enérgico rechazo por el asesinato del alcalde Omar Díaz Rabanal, del distrito de Jorge Chávez, en la provincia de Celendín, región Cajamarca, y extendió sus más sentidas condolenci...",
+    "date": "2026-07-30T03:06:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-defensoria-rechaza-asesinato-alcalde-distrital-cajamarca-y-pide-investigacion-rapida-1085576.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-super-mario-bros-wonder-llega-a-nintendo-switch-2-nuevos-desafios-1085545.aspx",
+    "title": "Super Mario Bros. Wonder llega a Nintendo Switch 2 con nuevos desafíos",
+    "snippet": "Super Mario Bros. Wonder para Nintendo Switch 2 amplía la aventura original con nuevos niveles, personajes, poderes y experiencias multijugador en el denominado Parque Belabel, una zona recientemente descubierta en el Re...",
+    "date": "2026-07-30T03:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-super-mario-bros-wonder-llega-a-nintendo-switch-2-nuevos-desafios-1085545.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-volvio-papa-cienciano-golea-40-a-lanus-y-avanza-a-octavos-de-sudamericana-1085578.aspx",
+    "title": "¡Volvió ‘El Papá’! Cienciano golea 4-0 a Lanús y avanza a octavos de la Sudamericana",
+    "snippet": "Con autoridad, el Cienciano del Cusco goleó este miércoles por 4-0 a Lanús de Argentina y clasificó a octavos de final de la Copa Sudamericana, torneo continental del que ya fue campeón en el 2003....",
+    "date": "2026-07-30T02:49:11",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-volvio-papa-cienciano-golea-40-a-lanus-y-avanza-a-octavos-de-sudamericana-1085578.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ffaa-y-pnp-neutralizan-millonaria-capacidad-logistica-mineria-ilegal-madre-dios-1085572.aspx",
+    "title": "FF.AA. y PNP neutralizan millonaria capacidad logística de minería ilegal en Madre de Dios",
+    "snippet": "Un duro golpe a las economías ilícitas en la Amazonía peruana asestó las Fuerzas Armadas, la Policía Nacional del Perú (PNP) y la Fiscalía Especializada en Materia Ambiental (FEMA). Mediante una operación conjunta helitr...",
+    "date": "2026-07-30T02:05:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ffaa-y-pnp-neutralizan-millonaria-capacidad-logistica-mineria-ilegal-madre-dios-1085572.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ee-uu-lanza-ataques-contra-iran-respuesta-a-intentos-ofensiva-contra-sus-tropas-1085573.aspx",
+    "title": "EE. UU. lanza ataques contra Irán en respuesta a intentos de ofensiva contra sus tropas",
+    "snippet": "Estados Unidos comenzó este miércoles una nueva ronda de ataques contra Irán en respuesta a los intentos de Teherán de atacar a fuerzas estadounidenses desplegadas en Oriente Medio, informó el Comando Central de EE. UU. ...",
+    "date": "2026-07-30T01:50:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ee-uu-lanza-ataques-contra-iran-respuesta-a-intentos-ofensiva-contra-sus-tropas-1085573.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
+    "title": "Cronograma de pagos 2026 de sueldos y pensiones en el Estado peruano",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
+    "date": "2026-07-30T00:01:20",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4800241",
+    "title": "Instagram and Facebook Ads for AI ‘Nudify’ Apps Tied to Meta Ad Partner in China",
+    "snippet": "GatherOne is one of Meta’s 11 advertising partners in China....",
+    "date": "2026-07-29T23:38:43",
+    "source": "CNET",
+    "url": "https://www.cnet.com/news/social-media/meta-chinese-ad-partner-tied-nudify-ads/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=448347",
     "title": "Organización Mundial de Ciudades y Plataformas Logísticas remueve a Zofri como miembro pleno",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consejo Directivo de la Organización Mundial de Ciudades y Plataformas Logísticas (OMCPL) dispuso el término\nLa entrada Organización Mundial de Ciudades y Plataformas Log...",
@@ -1285,68 +1348,5 @@
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/a350-1000ulr-acaba-completar-vuelo-24-horas-escalas-boeing-queria-proyecto-qantas-eligio-a-airbus",
-    "title": "Un A350-1000ULR acaba de completar un vuelo de más de 24 horas sin escalas. Boeing quería el proyecto, pero Qantas eligió a Airbus",
-    "snippet": "Después de 24 horas y 24 minutos sin tocar tierra, un Airbus A350-1000ULR aterrizó este martes en Toulouse. No llevaba pasajeros comerciales, sino pilotos, ingenieros, cinco toneladas de instrumentación y más de mil sens...",
-    "date": "2026-07-28T18:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/a350-1000ulr-acaba-completar-vuelo-24-horas-escalas-boeing-queria-proyecto-qantas-eligio-a-airbus",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=971976",
-    "title": "Tile&#8217;s best Bluetooth tracker is down to its lowest price of the year",
-    "snippet": "Apple&#8217;s latest AirTag may seem like the obvious choice if you own an iPhone and are shopping for a Bluetooth tracker, but it&#8217;s not the most affordable option. For families that contain both Android and Apple ...",
-    "date": "2026-07-28T17:53:51",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=971634",
-    "title": "Save $150 on this smart indoor bike trainer that can keep you riding during the off months",
-    "snippet": "While the summer months are great for putting in the miles on your favorite bike, it can be frustrating to have to hang it up when the weather turns. This smart bike trainer turns your road bike into an indoor exercise b...",
-    "date": "2026-07-28T17:48:03",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
-    "title": "Satya Nadella sobre el futuro del empleo:\"La falacia de la cantidad fija de trabajo y la falta de imaginación nos impiden avanzar\"",
-    "snippet": "Además del coste y los efectos derivados de su desarrollo, la mayor inquietud que presenta el futuro de la IA es conocer el impacto que esta tecnología tendrá en el mercado laboral de todo el mundo. De hecho, ya comenzam...",
-    "date": "2026-07-28T17:45:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
-    "title": "Llevamos años preguntándonos cuántos empleos destruirá la IA. Satya Nadella tiene otra teoría: estamos haciendo mal la pregunta",
-    "snippet": "Además del coste y los efectos derivados de su desarrollo, la mayor inquietud que presenta el futuro de la IA es conocer el impacto que esta tecnología tendrá en el mercado laboral de todo el mundo. De hecho, ya comenzam...",
-    "date": "2026-07-28T17:45:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448040",
-    "title": "Hapag-Lloyd reporta fluidez operacional en puertos del Pacífico a pesar de saturación en patios",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de la costa del Pacífico en América Latina registran niveles de eficiencia operativa con\nLa entrada Hapag-Lloyd reporta fluidez operacional en puertos del Pacífi...",
-    "date": "2026-07-28T17:45:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/hapag-lloyd-reporta-fluidez-operaciones-en-puertos-del-pacifico-a-pesar-de-saturacion-en-patios/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/para-recalificar-terrenos-para-poner-placas-solares-grandes-bulos-incendios-que-vuelven-cada-verano",
-    "title": "Ni para recalificar terrenos ni para poner placas solares: los grandes bulos sobre los incendios que vuelven cada verano",
-    "snippet": "Los recientes incendios que han arrasado miles de hectáreas en diferentes puntos de nuestro país han dejado una cicatriz ecológica y social innegable, pero también han dejado una gran retahíla de bulos que han calado en ...",
-    "date": "2026-07-28T17:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/para-recalificar-terrenos-para-poner-placas-solares-grandes-bulos-incendios-que-vuelven-cada-verano",
-    "category": "LEGAL"
   }
 ]
