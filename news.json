@@ -1,5 +1,194 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-copa-sudamericana-sporting-cristal-lamento-arbitraje-partido-ante-red-bull-bragantino-1085623.aspx",
+    "title": "Copa Sudamericana: Sporting Cristal lamentó arbitraje de partido ante Red Bull Bragantino",
+    "snippet": "Sporting Cristal emitió un comunicado donde mostraba un total rechazo hacia el arbitraje del partido contra Red Bull Bragantino por la Copa Sudamericana, el cual estuvo a cargo del uruguayo Esteban Ostojich como juez pri...",
+    "date": "2026-07-30T16:19:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-copa-sudamericana-sporting-cristal-lamento-arbitraje-partido-ante-red-bull-bragantino-1085623.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148308",
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "snippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments....",
+    "date": "2026-07-30T16:09:42",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/conseguir-electricista-carpintero-eeuu-casi-imposible-estan-todos-construyendo-centros-datos-ia",
+    "title": "Conseguir un electricista o un carpintero en EEUU es casi imposible. Están todos construyendo centros de datos de IA",
+    "snippet": "Estados Unidos concentra un tercio de todos los centros de datos del mundo y la construcción de nueva infraestructura avanza a un ritmo vertiginoso. Además de inversiones millonarias y mucha electricidad, estos centros d...",
+    "date": "2026-07-30T16:01:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/conseguir-electricista-carpintero-eeuu-casi-imposible-estan-todos-construyendo-centros-datos-ia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/drones-armados-gas-pimienta-que-hacen-placajes-nuevos-angeles-guardia-para-combatir-tiroteos-escolares-eeuu",
+    "title": "Drones armados con gas pimienta y que hacen placajes: los nuevos 'ángeles de la guardia' para combatir los tiroteos escolares en EEUU",
+    "snippet": "Aunque muchos los seguimos viendo como un dispositivo de entretenimiento, los drones han pegado un impulso importante estos últimos meses. El que usa la Fórmula 1 para grabar carreras es imponente, pero en China tenemos ...",
+    "date": "2026-07-30T15:45:42",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/drones-armados-gas-pimienta-que-hacen-placajes-nuevos-angeles-guardia-para-combatir-tiroteos-escolares-eeuu",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148216",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "snippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases fo...",
+    "date": "2026-07-30T15:41:16",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448403",
+    "title": "Expresidente Frei releva importancia de inversión privada ante nuevas concesiones portuarias",
+    "snippet": "Por Sebastián Betancourt @PortalPortuario El expresidente de Chile y presidente del Consejo de Políticas de Infraestructura (CPI), Eduardo Frei Ruiz-Tagle,\nLa entrada Expresidente Frei releva importancia de inversión pri...",
+    "date": "2026-07-30T15:38:06",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/expresidente-frei-releva-importancia-de-inversion-privada-ante-nuevas-concesiones-portuarias/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hay-plan-muy-especifico-espacio-ha-revelado-replicas-exactas-barcos-aviones-bases-navales-eeuu-japon-taiwan-estan-china",
+    "title": "\"Hay un plan muy específico”: el espacio ha revelado réplicas exactas de barcos, aviones y bases navales de EEUU, Japón y Taiwán. Están en China",
+    "snippet": "Durante la Segunda Guerra Mundial, los Aliados y las potencias del Eje construyeron réplicas de ciudades, puentes y fábricas para entrenar bombardeos antes de atacar objetivos reales. Ocho décadas después, los satélites ...",
+    "date": "2026-07-30T15:31:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hay-plan-muy-especifico-espacio-ha-revelado-replicas-exactas-barcos-aviones-bases-navales-eeuu-japon-taiwan-estan-china",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448414",
+    "title": "Pedidos y entregas de portacontenedores se desaceleran en julio de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los pedidos y las entregas de portacontenedores han registrado una lentitud inusual en las últimas semanas,\nLa entrada Pedidos y entregas de portacontenedores se desaceleran...",
+    "date": "2026-07-30T15:30:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/pedidos-y-entregas-de-portacontenedores-se-desaceleran-en-julio-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/no-quieres-pagar-unas-gafas-para-eclipse-te-interesa-conocer-estos-repartos-gratuitos-toda-espana",
+    "title": "Si no quieres pagar por unas gafas para el eclipse, te interesa conocer estos repartos gratuitos por toda España",
+    "snippet": "Las gafas para eclipses son bastante baratas. De hecho, a veces incluso nos sorprende su precio. Sin embargo, ahorrarse unos pocos euros también viene bien. Por eso, no está mal conocer los sitios en los que podremos con...",
+    "date": "2026-07-30T15:15:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/no-quieres-pagar-unas-gafas-para-eclipse-te-interesa-conocer-estos-repartos-gratuitos-toda-espana",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973053",
+    "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+    "snippet": "The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as...",
+    "date": "2026-07-30T15:05:09",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/teclados/mi-teclado-30-euros-puede-hacer-tu-teclado-para-ia-openai-230-dolares",
+    "title": "Mi teclado de 30 euros puede hacer lo mismo que el nuevo teclado IA de OpenAI de 230 dólares",
+    "snippet": "OpenAI anunció hace unos días su primer producto físico (con perdón de su ropa y merchandising). Se llama Codex Micro, cuesta unos 230 dólares y se vende como el mando a distancia perfecto para gestionar agentes de IA mi...",
+    "date": "2026-07-30T15:01:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/teclados/mi-teclado-30-euros-puede-hacer-tu-teclado-para-ia-openai-230-dolares",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147978",
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "snippet": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale....",
+    "date": "2026-07-30T15:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dt-cienciano-realza-actitud-sus-jugadores-para-eliminar-al-lanus-argentina-1085614.aspx",
+    "title": "DT de Cienciano realza la actitud de sus jugadores para eliminar al Lanús de Argentina",
+    "snippet": "El técnico del Cienciano, Horacio Melgarejo, felicitó a sus jugadores por el empuje y actitud que expusieron para vencer 4-0 a Lanús en el Cusco y así dar vuelta el marcador de la ida (2-0), que le permite acceder a octa...",
+    "date": "2026-07-30T14:54:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dt-cienciano-realza-actitud-sus-jugadores-para-eliminar-al-lanus-argentina-1085614.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/siemens-lanza-cajon-vapor-encastrable-ingeniosa-solucion-para-cocinar-al-vapor-llenar-encimera-aparatos",
+    "title": "Siemens lanza un cajón de vapor encastrable: una ingeniosa solución para cocinar al vapor sin llenar la encimera de aparatos",
+    "snippet": "La cocción al vapor ha ido ganando peso en la cocina moderna por su capacidad de mantener nutrientes y texturas sin añadir grasas. Sin embargo, en el ámbito doméstico se suele presentar en dos formatos inconvenientes: la...",
+    "date": "2026-07-30T14:45:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/siemens-lanza-cajon-vapor-encastrable-ingeniosa-solucion-para-cocinar-al-vapor-llenar-encimera-aparatos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973099",
+    "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+    "snippet": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary ...",
+    "date": "2026-07-30T14:35:43",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/china-da-golpe-mesa-farmaceutica-aprueba-eeuu-europa-tratamiento-que-revoluciona-narcolepsia",
+    "title": "China da un golpe en la mesa farmacéutica: aprueba antes que EEUU y Europa el tratamiento que revoluciona la narcolepsia",
+    "snippet": "La industria farmacéutica y las agencias reguladoras globales están presenciando un cambio de ciclo muy importante, puesto que siempre la FDA estadounidense y la EMA europea marcaban el ritmo en el lanzamiento de medicam...",
+    "date": "2026-07-30T14:31:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/china-da-golpe-mesa-farmaceutica-aprueba-eeuu-europa-tratamiento-que-revoluciona-narcolepsia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4803179",
+    "title": "CNET Readers Are Convinced Apple Has a Foldable iPhone Coming. But What About Smart Glasses?",
+    "snippet": "Here’s what CNET readers predict Apple will do this fall....",
+    "date": "2026-07-30T14:30:38",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/cnet-readers-are-convinced-apple-has-a-foldable-iphone-coming-but-what-about-smart-glasses/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-30-julio-del-2026-1085609.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy jueves 30 de julio del 2026?",
+    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-07-30T14:30:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-30-julio-del-2026-1085609.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-milei-prohibe-ingreso-inmigrantes-expresan-mensajes-odio-hacia-argentina-1085605.aspx",
+    "title": "Milei prohíbe el ingreso de inmigrantes que expresan mensajes de odio hacia Argentina",
+    "snippet": "El presidente argentino, Javier Milei, modificó por decreto la Ley de Migraciones para prohibir el ingreso de extranjeros que expresen mensajes de odio hacia el país sudamericano, según el texto publicado el miércoles po...",
+    "date": "2026-07-30T14:19:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-milei-prohibe-ingreso-inmigrantes-expresan-mensajes-odio-hacia-argentina-1085605.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/skynomad-mucho-que-segunda-marca-xiaomi-confirmacion-que-nos-estamos-perdiendo-revolucion",
+    "title": "Skynomad es mucho más que la segunda marca de Xiaomi. Es la confirmación de que nos estamos perdiendo una revolución",
+    "snippet": "En 1996 Francis Ford Coppola estrenaba Jack. Robbie Williams daba vida a un niño que crece cuatro veces más rápido de lo normal. Cuando se presenta en la escuela con diez años, Jack Powell tiene el aspecto de un adulto d...",
+    "date": "2026-07-30T14:15:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/skynomad-mucho-que-segunda-marca-xiaomi-confirmacion-que-nos-estamos-perdiendo-revolucion",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/nave-que-iba-a-salvar-telescopio-nasa-ahora-necesita-que-salven-a-ella",
+    "title": "La nave que iba a salvar un telescopio de la NASA ahora necesita que la salven a ella",
+    "snippet": "El pasado 3 de julio se lanzó LINK, la heroica nave con la que la NASA y la compañía Katalyst Space Technologies quieren rescatar al telescopio espacial Neil Gehrels Swift de una caída casi segura. La nave se fabricó en ...",
+    "date": "2026-07-30T14:01:52",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/nave-que-iba-a-salvar-telescopio-nasa-ahora-necesita-que-salven-a-ella",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3147661",
     "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
     "snippet": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade....",
@@ -1159,194 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/canada-envio-submarino-a-400-metros-frente-a-groenlandia-ha-encontrado-naufragio-legendario-barco-shackleton",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1699219",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 29 de julio del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy miércoles 29 de julio es de  S/3.40 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-07-29T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-29-de-julio-del-2026-noticia-1699219",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/ciencia-ha-confirmado-cerebro-padres-tambien-cambia-al-tener-hijos",
-    "title": "La ciencia ya lo ha confirmado: el cerebro de los padres también cambia al tener hijos",
-    "snippet": "Se habla mucho del cerebro de las mujeres cuando tienen hijos. Nada más comenzar el embarazo, el cerebro empieza a experimentar esos cambios que, con el tiempo, las convierten en supermamis capaces de distinguir el llant...",
-    "date": "2026-07-29T11:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/ciencia-ha-confirmado-cerebro-padres-tambien-cambia-al-tener-hijos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448142",
-    "title": "Exministros validan reestructuración de licitación para construir proyecto Puerto Exterior de San Antonio",
-    "snippet": "Por Gabriel Campos Roullet  @PortalPortuario Exautoridades avalaron la determinación de la Empresa Portuaria de San Antonio (EPSA) de parcelar el\nLa entrada Exministros validan reestructuración de licitación para constru...",
-    "date": "2026-07-29T11:00:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/exministros-validan-reestructuracion-de-licitacion-para-construir-proyecto-puerto-exterior-de-san-antonio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972380",
-    "title": "We’re running out of reasons to ignore AI safety",
-    "snippet": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set ...",
-    "date": "2026-07-29T11:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/alina-dragos-experta-fiscal-herencia-no-se-haya-repartido-todavia-hacienda-te-considera-propietario",
-    "title": "Alina Dragos, experta fiscal: \"Aunque la herencia no se haya repartido todavía. Hacienda ya te considera propietario\"",
-    "snippet": "Tres hermanos heredan los dos pisos de sus padres. Uno de ellos está alquilado a unos inquilinos que pagan sin falta su cuota mensual. Los tres hermanos no consiguen llegar a un acuerdo en el reparto de la herencia. Nadi...",
-    "date": "2026-07-29T10:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/alina-dragos-experta-fiscal-herencia-no-se-haya-repartido-todavia-hacienda-te-considera-propietario",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/donde-comprar-gafas-homologadas-para-ver-eclipse-que-lleguen-a-tiempo-a-casa",
-    "title": "Dónde comprar ya las gafas homologadas para ver el eclipse y que lleguen a tiempo a casa",
-    "snippet": "Faltan justo 14 días para poder ver el eclipse total de Sol. Es el primero con estas características que vamos a tener desde hace más de un siglo, por lo que es un evento que merece la pena no perderse. Ya os trajimos un...",
-    "date": "2026-07-29T10:15:37",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/donde-comprar-gafas-homologadas-para-ver-eclipse-que-lleguen-a-tiempo-a-casa",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/furgonetas-camper-cosa-pasado-nueva-moda-convertir-autobuses-chalets-ruedas",
-    "title": "Las furgonetas camper son cosa del pasado. La nueva moda es convertir autobuses en chalets con ruedas",
-    "snippet": "¿Quién no ha soñado alguna vez en ir al colegio en el autobús de Otto? Sí, aquel autobús escolar amarillo que recogía a Bart y a Lisa Simpson a la puerta de casa y lo llevaba un descerebrado simpático y plenamente capaci...",
-    "date": "2026-07-29T10:01:37",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/furgonetas-camper-cosa-pasado-nueva-moda-convertir-autobuses-chalets-ruedas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448172",
-    "title": "Puerto de La Coruña espera quíntuple recalada de cruceros por eclipse solar",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Cinco cruceros están previstos para el 12 de agosto en el Puerto de La Coruña, que\nLa entrada Puerto de La Coruña espera quíntuple recalada de cruceros por eclipse solar se ...",
-    "date": "2026-07-29T10:00:21",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-la-coruna-espera-quintuple-recalada-de-cruceros-por-eclipse-solar/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tipo-cambio-impulso-a-nuevos-proyectos-mineros-podria-incidir-un-dolar-mas-bajo-1085368.aspx",
-    "title": "Tipo de cambio: impulso a nuevos proyectos mineros podría incidir en un dólar más bajo",
-    "snippet": "Tras la proclamación oficial de Keiko Fujimori como presidente de la República, el mercado cambiario peruano comenzó a mostrar una mayor estabilidad, afirmó el analista de Mercado en VT Markets, Alfredo Marentes....",
-    "date": "2026-07-29T10:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tipo-cambio-impulso-a-nuevos-proyectos-mineros-podria-incidir-un-dolar-mas-bajo-1085368.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/maria-matos-fotocasa-mercado-alquiler-precio-ha-alcanzado-limite-capacidad-pago-inquilinos",
-    "title": "María Matos, de Fotocasa: \"En el mercado del alquiler el precio ha alcanzado el límite de la capacidad de pago de los inquilinos\"",
-    "snippet": "No importa el mes, casi ni el año. Si echas un ojo a los últimos estudios del CIS sobre las principales preocupaciones de los españoles hay un tema que se repite una y otra vez en los principales puestos: la vivienda. O ...",
-    "date": "2026-07-29T09:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/maria-matos-fotocasa-mercado-alquiler-precio-ha-alcanzado-limite-capacidad-pago-inquilinos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/samsung-va-a-poner-sus-fabricas-dram-a-toda-potencia-claro-objetivo-que-apple-no-se-vaya-chinos",
-    "title": "Samsung va a poner sus fábricas de DRAM a toda potencia con un claro objetivo: que Apple no se vaya con los chinos",
-    "snippet": "A la industria de los chips se le ha ido de las manos completamente la situación de la memoria DRAM. La situación y necesidades de los hiperescaladores y los centros de datos ha provocado que la mayoría de la producción ...",
-    "date": "2026-07-29T08:31:37",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/samsung-va-a-poner-sus-fabricas-dram-a-toda-potencia-claro-objetivo-que-apple-no-se-vaya-chinos",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko#0",
-    "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
-    "snippet": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers....",
-    "date": "2026-07-29T08:22:53",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/carrefour-vende-este-aire-acondicionado-portatil-diferente-al-resto-diseno-e-ideal-para-aliviar-nueva-ola-calor-casa",
-    "title": "Carrefour vende este aire acondicionado portátil diferente al resto en diseño e ideal para aliviar la nueva ola de calor en casa",
-    "snippet": "Las temperaturas aprietan de nuevo y hoy comienza una nueva ola de calor. Si te ha pillado el toro para instalar un split en casa y estás buscando una solución para estar fresquito sin tener que hacer obras ni llevar a c...",
-    "date": "2026-07-29T08:15:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/carrefour-vende-este-aire-acondicionado-portatil-diferente-al-resto-diseno-e-ideal-para-aliviar-nueva-ola-calor-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/rusia-acaba-encender-su-mayor-parque-eolico-ha-hecho-piezas-fabricadas-casi-enteramente-casa",
-    "title": "Rusia acaba de encender su mayor parque eólico. Y lo ha hecho con piezas fabricadas casi enteramente en casa",
-    "snippet": "Rusia ha estrenado su parque eólico más potente hasta la fecha. Y es que la planta de Novolakskaya, situada en la república de Daguestán, ha alcanzado su capacidad máxima de 300 MW tras la puesta en marcha de su segunda ...",
-    "date": "2026-07-29T08:01:37",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/rusia-acaba-encender-su-mayor-parque-eolico-ha-hecho-piezas-fabricadas-casi-enteramente-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/paradoja-apple-empresa-valiosa-mundo-no-tiene-interes-invertir-fiebre-centros-datos",
-    "title": "La paradoja de Apple: la empresa más valiosa del mundo no tiene interés en invertir en la fiebre de los centros de datos",
-    "snippet": "Las Big Tech están invirtiendo absolutas fortunas en centros de datos. Casi todas parecen querer estar preparadas para suplir la demanda colosal de capacidad de cómputo para tareas de IA. Y sin embargo, hay una curiosa y...",
-    "date": "2026-07-29T07:31:38",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/paradoja-apple-empresa-valiosa-mundo-no-tiene-interes-invertir-fiebre-centros-datos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko#0",
-    "title": "Ticket prices set to rise as Heathrow able to recover runway project money",
-    "snippet": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers....",
-    "date": "2026-07-29T07:29:31",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia",
-    "title": "\"A menos que veamos ese amplio crecimiento económico, esta película no va a terminar bien\": Satya Nadella, sobre la burbuja de la IA",
-    "snippet": "¿Estamos en una burbuja de IA? La pregunta lleva meses sobrevolando toda la industria, y hay argumentos de peso para pensar que la respuesta es sí. Sin embargo, también hay quien defiende lo contrario y hay argumentos po...",
-    "date": "2026-07-29T07:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448048",
-    "title": "Puertos de Madeira contribuye a obtener excepción de la UE que beneficia tránsito de cruceros",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los cruceros que operan en rutas entre Madeira y otras regiones ultraperiféricas de la Unión Europea\nLa entrada Puertos de Madeira contribuye a obtener excepción de la UE qu...",
-    "date": "2026-07-29T06:00:39",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puertos-de-madeira-contribuyen-a-obtener-excepcion-de-la-ue-que-beneficia-transito-de-cruceros/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o#1",
-    "title": "Unauthorised airport car park grows  despite stop notice",
-    "snippet": "Customers says they returned from their holidays to find their cars damaged and dirty....",
-    "date": "2026-07-29T05:12:15",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o#1",
-    "title": "Unauthorised airport car park grows despite stop notice",
-    "snippet": "Customers says they returned from their holidays to find their cars damaged and dirty....",
-    "date": "2026-07-29T05:12:15",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447964",
-    "title": "Puerto de Gandía y Fundación Valenciaport testean tecnología de biorremediación basada en macroalgas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Fundación Valenciaport puso en marcha un proyecto piloto en el Puerto de Gandía para mejorar\nLa entrada Puerto de Gandía y Fundación Valenciaport testean tecnología de bi...",
-    "date": "2026-07-29T05:00:29",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-gandia-y-fundacion-valenciaport-testean-tecnologia-de-biorremediacion-basada-en-macroalgas/",
-    "category": "LOGÍSTICA"
   }
 ]
