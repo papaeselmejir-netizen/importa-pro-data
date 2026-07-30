@@ -1,5 +1,122 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3148465",
+    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+    "snippet": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores....",
+    "date": "2026-07-30T20:13:12",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448431",
+    "title": "Puerto de Singapur amplía centro de combustibles múltiples con nueva ronda de licencias de GNL",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Marítima y Portuaria de Singapur (MPA) expedirá ocho nuevas licencias para el suministro de\nLa entrada Puerto de Singapur amplía centro de combustibles múltiple...",
+    "date": "2026-07-30T20:00:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-singapur-amplia-centro-de-combustibles-multiples-con-nueva-ronda-de-licencias-de-gnl/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448490",
+    "title": "Ministerio del Interior acusa agresiones contra funcionarios por parte de integrantes de Conatraport",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio del Interior -por medio de su subsecretario Máximo Pavez&#8211; acusó agresiones contra funcionarios de gobierno\nLa entrada Ministerio del Interior acusa agres...",
+    "date": "2026-07-30T19:12:19",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ministerio-del-interior-acusa-agresiones-contra-funcionarios-por-parte-de-integrantes-de-conatraport/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/nuevo-monstruo-naval-china-tiene-mision-extrana-hundirse-a-medias-antes-ponerse-a-trabajar",
+    "title": "El nuevo monstruo naval de China tiene una misión extraña: hundirse a medias antes de ponerse a trabajar",
+    "snippet": "Cuando pensamos en un buque grúa, lo lógico es imaginar una mole de acero levantando piezas imposibles desde la superficie. El Sihang Yongsheng obliga a cambiar un poco esa imagen: cuando la operación lo requiere, puede ...",
+    "date": "2026-07-30T19:01:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/nuevo-monstruo-naval-china-tiene-mision-extrana-hundirse-a-medias-antes-ponerse-a-trabajar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1699409",
+    "title": "Refinería Talara paraliza operaciones por oleaje anómalo y falta de petróleo por problemas financieros de Petroperú",
+    "snippet": "Mientras Petroperú espera el financiamiento anunciado, la Refinería Talara ha paralizado sus operaciones por el cierre de los puertos de la bahía de Talara y por las dificultades financieras para abastecerse de petróleo ...",
+    "date": "2026-07-30T19:00:32",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/refineria-talara-paraliza-operaciones-por-oleaje-anomalo-y-falta-de-petroleo-crudo-por-problemas-financieros-de-petroperu-noticia-1699409",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973211",
+    "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+    "snippet": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless...",
+    "date": "2026-07-30T19:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4804110",
+    "title": "Samsung Expects the Chip Shortage to Get Worse Before It Gets Better",
+    "snippet": "AI is supercharging demand for memory and other components, making devices more expensive....",
+    "date": "2026-07-30T18:58:10",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/samsung-expects-the-chip-shortage-to-get-worse-before-it-gets-better/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-confirmado-mexico-sera-segundo-rival-peru-los-partidos-amistosos-preparacion-1085649.aspx",
+    "title": "Confirmado: México será el segundo rival de Perú en los partidos amistosos de preparación",
+    "snippet": "México será el segundo rival de Perú en los partidos amistosos de septiembre-octubre, que servirán como preparación para el equipo de Mano Menezes de cara a las Eliminatorias Sudamericanas. El otro rival confirmado es Ca...",
+    "date": "2026-07-30T18:53:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-confirmado-mexico-sera-segundo-rival-peru-los-partidos-amistosos-preparacion-1085649.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-rimpac-2026-peru-concluye-participacion-el-mayor-ejercicio-maritimo-del-mundo-1085647.aspx",
+    "title": "Rimpac 2026: Perú concluye participación en el mayor ejercicio marítimo del mundo",
+    "snippet": "Perú concluyó, junto a otros 29 países, su participación en el ejercicio multinacional Rim of the Pacific (Rimpac) 2026, considerado el entrenamiento naval combinado más importante del mundo....",
+    "date": "2026-07-30T18:46:51",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-rimpac-2026-peru-concluye-participacion-el-mayor-ejercicio-maritimo-del-mundo-1085647.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148418",
+    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+    "snippet": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports....",
+    "date": "2026-07-30T18:38:12",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/alguien-ha-tenido-genial-idea-ordenar-catalogo-ikea-dificultad-montaje-era-justo-que-necesitabamos",
+    "title": "Alguien ha tenido la genial idea de ordenar el catálogo de IKEA por dificultad de montaje: era justo lo que necesitábamos",
+    "snippet": "A todos nos ha pasado alguna vez: vemos un mueble, una lámpara o cualquier pequeño accesorio para casa y durante unos segundos imaginamos el resultado final, ya colocado, como si hubiera aparecido ahí por arte de magia. ...",
+    "date": "2026-07-30T18:31:42",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/alguien-ha-tenido-genial-idea-ordenar-catalogo-ikea-dificultad-montaje-era-justo-que-necesitabamos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448464",
+    "title": "Buque de BYD arribará por primera vez a un puerto de Chile",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un Pure Car and Truck Carrier (PCTC) del fabricante chino de automóviles BYD recalará por primera vez\nLa entrada Buque de BYD arribará por primera vez a un puerto de Chile s...",
+    "date": "2026-07-30T18:30:24",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/buque-de-byd-arribara-por-primera-vez-a-un-puerto-de-chile/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2227288/psp-classic-lumines-hits-ios-and-android/",
+    "title": "PSP classic Lumines hits iOS and Android",
+    "snippet": "The mobile and tablet ports of the remastered puzzle game include a free trial....",
+    "date": "2026-07-30T18:20:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2227288/psp-classic-lumines-hits-ios-and-android/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-la-dupla-goleadora-garceshohberg-ilusiona-a-cienciano-la-copa-sudamericana-1085631.aspx",
     "title": "La dupla goleadora Garcés-Hohberg que ilusiona a Cienciano en la Copa Sudamericana",
     "snippet": "Carlos Garcés y Alejandro Hohberg, futbolistas de Cienciano, fueron importantes en la goleada del 'Papá' ante Lanús (4-0), ya que ambos anotaron dos goles y le dieron la clasificación a su equipo a la siguiente ronda de ...",
@@ -47,6 +164,15 @@
   {
     "id": "6a6a5566bc83c55887300785",
     "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
+    "snippet": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results....",
+    "date": "2026-07-30T17:51:10",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "6a6a5566bc83c55887300785",
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
     "snippet": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results....",
     "date": "2026-07-30T17:51:10",
     "source": "WIRED",
@@ -198,6 +324,15 @@
     "category": "LEGAL"
   },
   {
+    "id": "https://techcrunch.com/?p=3148308",
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "snippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments....",
+    "date": "2026-07-30T16:09:42",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/conseguir-electricista-carpintero-eeuu-casi-imposible-estan-todos-construyendo-centros-datos-ia",
     "title": "Conseguir un electricista o un carpintero en EEUU es casi imposible. Están todos construyendo centros de datos de IA",
     "snippet": "Estados Unidos concentra un tercio de todos los centros de datos del mundo y la construcción de nueva infraestructura avanza a un ritmo vertiginoso. Además de inversiones millonarias y mucha electricidad, estos centros d...",
@@ -236,6 +371,15 @@
   {
     "id": "https://www.xataka.com/magnet/hay-plan-muy-especifico-espacio-ha-revelado-replicas-exactas-barcos-aviones-bases-navales-eeuu-japon-taiwan-estan-china",
     "title": "\"Hay un plan muy específico”: el espacio ha revelado réplicas exactas de barcos, aviones y bases navales de EEUU, Japón y Taiwán. Están en China",
+    "snippet": "Durante la Segunda Guerra Mundial, los Aliados y las potencias del Eje construyeron réplicas de ciudades, puentes y fábricas para entrenar bombardeos antes de atacar objetivos reales. Ocho décadas después, los satélites ...",
+    "date": "2026-07-30T15:31:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hay-plan-muy-especifico-espacio-ha-revelado-replicas-exactas-barcos-aviones-bases-navales-eeuu-japon-taiwan-estan-china",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hay-plan-muy-especifico-espacio-ha-revelado-replicas-exactas-barcos-aviones-bases-navales-eeuu-japon-taiwan-estan-china",
+    "title": "China lleva años construyendo barcos, cazas y bases de EEUU en mitad del desierto. Los satélites han revelado para qué eran realmente",
     "snippet": "Durante la Segunda Guerra Mundial, los Aliados y las potencias del Eje construyeron réplicas de ciudades, puentes y fábricas para entrenar bombardeos antes de atacar objetivos reales. Ocho décadas después, los satélites ...",
     "date": "2026-07-30T15:31:43",
     "source": "XATAKA",
@@ -434,6 +578,15 @@
   {
     "id": "https://www.xataka.com/magnet/hace-90-anos-nazis-levantaron-megahotel-4-5-km-para-20-000-huespedes-acabo-convertido-ruina-solo-turista",
     "title": "Hace 90 años los nazis levantaron un \"megahotel\" de 4,5 km para 20.000 huéspedes. Acabó convertido en una ruina sin un solo turista",
+    "snippet": "No importa cómo de ambiciosos sean, lo mucho que se trabaje en ellos o la cantidad de dinero que se les dedique, hay planes que nacen condenados al fracaso. Uno de los ejemplos más claros lo encontramos en Rügen, una isl...",
+    "date": "2026-07-30T13:01:53",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hace-90-anos-nazis-levantaron-megahotel-4-5-km-para-20-000-huespedes-acabo-convertido-ruina-solo-turista",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hace-90-anos-nazis-levantaron-megahotel-4-5-km-para-20-000-huespedes-acabo-convertido-ruina-solo-turista",
+    "title": "Hitler quiso construir el hotel más grande del mundo en una isla. Acabo convertido en una ruina de 10.000 habitaciones y ni un turista",
     "snippet": "No importa cómo de ambiciosos sean, lo mucho que se trabaje en ellos o la cantidad de dinero que se les dedique, hay planes que nacen condenados al fracaso. Uno de los ejemplos más claros lo encontramos en Rügen, una isl...",
     "date": "2026-07-30T13:01:53",
     "source": "XATAKA",
@@ -1194,159 +1347,6 @@
     "date": "2026-07-29T16:31:36",
     "source": "XATAKA",
     "url": "https://www.xataka.com/ecologia-y-naturaleza/nuestro-mediterraneo-cada-vez-se-parece-al-mar-caribe-agua-supera-32-oc-previsiones-no-buenas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448238",
-    "title": "Servicio Nacional de Aduanas de Chile realiza su Cuenta Pública 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Servicio Nacional de Aduanas de Chile realizó su Cuenta Pública Participativa 2026. El organismo entregó\nLa entrada Servicio Nacional de Aduanas de Chile realiza su Cuent...",
-    "date": "2026-07-29T16:30:45",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/el-servicio-nacional-de-aduanas-de-chile-realiza-su-cuenta-publica-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448255",
-    "title": "Terminal Puerto Arica inaugura la primera versión de la Copa TPA 2026 de volley",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con una participación de clubes locales, un gran marco de público y la presencia de autoridades\nLa entrada Terminal Puerto Arica inaugura la primera versión de la Copa TPA 2...",
-    "date": "2026-07-29T16:17:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/terminal-puerto-arica-inaugura-la-primera-version-de-la-copa-tpa-2026-de-volley/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/nasa-muestra-apariencia-real-tierra-gravedad-deforme",
-    "title": "La NASA muestra la apariencia real de la Tierra según la gravedad… y es deforme",
-    "snippet": "Este mes de julio la NASA ha hecho pública en su web una imagen interactiva y actualizada de la forma que le daría la gravedad a nuestro planeta y el resultado no ha dejado indiferente a nadie. \n\nLa simulación no solo se...",
-    "date": "2026-07-29T16:15:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/nasa-muestra-apariencia-real-tierra-gravedad-deforme",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/gpu-8-gb-se-quedaba-corta-para-jugar-crisis-nos-ha-traido-fantasmas-pasado-tarjetas-4-gb",
-    "title": "Si una GPU con 8 GB ya se quedaba corta para jugar, la crisis nos ha traído fantasmas del pasado: tarjetas con 4 GB",
-    "snippet": "Este es el peor año que recuerdo para montar un PC. Ya no es que los precios de componentes como los HDD y, sobre todo, SSD y memoria RAM estén totalmente fuera de control, sino que no hay nuevas tarjetas gráficas. Las d...",
-    "date": "2026-07-29T15:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/gpu-8-gb-se-quedaba-corta-para-jugar-crisis-nos-ha-traido-fantasmas-pasado-tarjetas-4-gb",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-fiestas-patrias-danzas-regionales-identifican-y-llenan-orgullo-a-los-peruanos-1085306.aspx",
-    "title": "Fiestas Patrias: ¿Qué danzas regionales identifican y llenan de orgullo a los peruanos?",
-    "snippet": "La celebración del 205.° aniversario de nuestra independencia nos invita a expresar nuestro amor a la patria a través de la danza, una de las expresiones más emblemáticas de nuestro vasto y variado acervo cultural. El Pe...",
-    "date": "2026-07-29T15:27:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-fiestas-patrias-danzas-regionales-identifican-y-llenan-orgullo-a-los-peruanos-1085306.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-ventiladores-mano",
-    "title": "Los mejores ventiladores de mano ideales para decirle adiós al abanico",
-    "snippet": "Salir a la calle este verano podría ser considerado un deporte de riesgo. Las temperaturas que estamos alcanzando en toda la península no solo hacen insoportable salir cuando el sol se sitúa en lo más alto, sino que tamb...",
-    "date": "2026-07-29T15:15:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-ventiladores-mano",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-viajas-metropolitano-o-corredores-descubre-como-llegar-al-aeropuerto-jorge-chavez-1085514.aspx",
-    "title": "¿Viajas en Metropolitano o corredores? Descubre cómo llegar al aeropuerto Jorge Chávez",
-    "snippet": "Cada vez más usuarios buscan alternativas rápidas y económicas para llegar al Aeropuerto Internacional Jorge Chávez sin necesidad de tomar un taxi o realizar varios transbordos. Conoce en esta nota cómo facilitar tu desp...",
-    "date": "2026-07-29T15:11:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-viajas-metropolitano-o-corredores-descubre-como-llegar-al-aeropuerto-jorge-chavez-1085514.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2226069/doordash-drone-delivery-service-faa-approval/",
-    "title": "DoorDash unveils its own drone delivery service after FAA approval",
-    "snippet": "The company developed the DoorDash Air drones in-house....",
-    "date": "2026-07-29T15:10:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2226069/doordash-drone-delivery-service-faa-approval/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972219",
-    "title": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
-    "snippet": "A lot of us here at The Verge are fans of Remarkable’s digital note-taking tablets, and right now one of its higher-end options is much cheaper than usual. The Remarkable Paper Pro normally sells for $629 on its own, but...",
-    "date": "2026-07-29T15:09:24",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/estudio-decia-que-arboles-sienten-eclipses-14-horas-antelacion-explicacion-real-mucho-aburrida",
-    "title": "Un estudio decía que los árboles \"sienten\" los eclipses con 14 horas de antelación. La explicación real es mucho más aburrida",
-    "snippet": "En 2025, un equipo de científicos italianos descubrió algo sorprendente en relación con los eclipses. Según un estudio realizado en un bosque de coníferas de los Dolomitas, los árboles pueden predecir eclipses solares a ...",
-    "date": "2026-07-29T15:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/estudio-decia-que-arboles-sienten-eclipses-14-horas-antelacion-explicacion-real-mucho-aburrida",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=447989",
-    "title": "Daehan Shipbuilding alcanza volumen récord de pedidos con dos nuevos buques Suezmax",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Daehan Shipbuilding consiguió un pedido de dos buques Suezmax de una nueva naviera europea, con lo\nLa entrada Daehan Shipbuilding alcanza volumen récord de pedidos con dos n...",
-    "date": "2026-07-29T15:00:22",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/daehan-shipbuilding-alcanza-volumen-record-de-pedidos-con-dos-nuevos-buques-suezmax/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/whatsapp-acaba-quitarle-a-zoom-meet-su-mejor-argumento-sus-videollamadas-navegador-no-tienen-limite-tiempo",
-    "title": "WhatsApp acaba de quitarle a Zoom y Meet su mejor argumento: sus videollamadas por navegador no tienen límite de tiempo",
-    "snippet": "De ser un espacio reservado a los entornos de trabajo a convertirse en una herramienta que nos acercaba de forma virtual cuando la pandemia lo impedía físicamente: las videollamadas se convirtieron en un auténtico salvav...",
-    "date": "2026-07-29T14:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/whatsapp-acaba-quitarle-a-zoom-meet-su-mejor-argumento-sus-videollamadas-navegador-no-tienen-limite-tiempo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-manuel-neuer-es-muy-probable-me-retire-al-final-temporada-1085501.aspx",
-    "title": "Manuel Neuer: \"Es muy probable que me retire\" al final de temporada",
-    "snippet": "\"Es muy probable que me retire\" a final de temporada, explicó el guardameta y capitán del Bayern Munich Manuel Neuer desde Rottach-Egern, al sur de Múnich, donde el club bávaro prepara su próxima temporada....",
-    "date": "2026-07-29T14:23:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-manuel-neuer-es-muy-probable-me-retire-al-final-temporada-1085501.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-empresas-buscan-oficinas-menor-tamano-y-adaptadas-a-nuevos-modelos-negocio-lima-1085503.aspx",
-    "title": "Empresas buscan oficinas de menor tamaño y adaptadas a nuevos modelos de negocio en Lima",
-    "snippet": "La transformación de los modelos de trabajo y el crecimiento del comercio electrónico están redefiniendo el mercado inmobiliario corporativo en Lima, pues las empresas ya no buscan únicamente oficinas tradicionales, sino...",
-    "date": "2026-07-29T14:03:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-empresas-buscan-oficinas-menor-tamano-y-adaptadas-a-nuevos-modelos-negocio-lima-1085503.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/audi-q9-mucho-que-ultimo-supercoche-marca-busqueda-estados-unidos-pasado-glorioso",
-    "title": "El Audi Q9 es mucho más que el último supercoche de la marca. Es la búsqueda en Estados Unidos de un pasado glorioso",
-    "snippet": "Ha pasado un lustro pero el mercado ha cambiado a una velocidad endiablada. Como la goma de un tirachinas, la industria del automóvil se ha tensado hasta el punto de salir disparada en todas direcciones con un descontrol...",
-    "date": "2026-07-29T14:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/audi-q9-mucho-que-ultimo-supercoche-marca-busqueda-estados-unidos-pasado-glorioso",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448122",
-    "title": "Definen nuevas medidas tras ampliación en 40 metros de muelle de Puerto de Eidfjord",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Desde que en mayo se completó con éxito la ampliación de 40 metros del muelle en\nLa entrada Definen nuevas medidas tras ampliación en 40 metros de muelle de Puerto de Eidfjo...",
-    "date": "2026-07-29T14:00:33",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/definen-nuevas-medidas-tras-ampliacion-en-40-metros-de-muelle-de-puerto-de-eidfjord/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/uno-mayores-fracasos-taquilla-historia-cine-tendra-segunda-oportunidad-totalmente-diferente",
-    "title": "Uno de los mayores fracasos en taquilla de la historia del cine tendrá una segunda oportunidad. Una totalmente diferente",
-    "snippet": "Corría el año 2012. Facebook compraba Instagram, Apple lanzaba el iPhone 5, todos cantábamos el 'Gangnam Style', nos temíamos que el mundo acabase por culpa de una profecía maya y Disney lanzaba su próxima gran franquici...",
-    "date": "2026-07-29T13:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/uno-mayores-fracasos-taquilla-historia-cine-tendra-segunda-oportunidad-totalmente-diferente",
     "category": "TRIBUTARIO"
   }
 ]
