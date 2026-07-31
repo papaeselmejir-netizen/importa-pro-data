@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-ositran-inversion-infraestructura-transporte-crecio-256-primer-semestre-1085659.aspx",
+    "title": "Ositran: Inversión en infraestructura de transporte creció 25.6% en primer semestre",
+    "snippet": "Entre enero y junio de este año, las concesionarias bajo la supervisión del Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público (Ositran) valorizaron inversiones por 670 millones de dólar...",
+    "date": "2026-07-31T00:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ositran-inversion-infraestructura-transporte-crecio-256-primer-semestre-1085659.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4804868",
+    "title": "Tim Cook’s Final Earnings Call: Record iPhone Sales and Future Pricing Woes",
+    "snippet": "In his last earnings call as Apple’s CEO, Cook signals potential pricing headwinds due to the ongoing RAM shortage....",
+    "date": "2026-07-30T23:39:44",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/tim-cook-final-apple-earnings-call-iphone-sales-pricing-woes/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c204nw64xwno#0",
+    "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
+    "snippet": "Shares of Apple plunged on a warning of slower sales in the coming months....",
+    "date": "2026-07-30T23:25:42",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448453",
+    "title": "Uruguay: ANP presenta proyecto para fortalecer gestión de activos de Área Dragado",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Administración Nacional de Puertos (ANP) de Uruguay presentó un proyecto para modernizar la gestión de\nLa entrada Uruguay: ANP presenta proyecto para fortalecer gestión d...",
+    "date": "2026-07-30T23:00:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/uruguay-anp-presenta-proyecto-para-fortalecer-gestion-de-activos-de-area-dragado/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-real-madrid-anuncia-a-carlos-espi-como-su-nuevo-refuerzo-para-proxima-temporada-1085693.aspx",
+    "title": "Real Madrid anuncia a Carlos Espí como su nuevo refuerzo para la próxima temporada",
+    "snippet": "El Real Madrid fichó al delantero del Levante Carlos Espí para las próximas cinco temporadas, anunció este jueves el club merengue....",
+    "date": "2026-07-30T22:46:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-real-madrid-anuncia-a-carlos-espi-como-su-nuevo-refuerzo-para-proxima-temporada-1085693.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148562",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "snippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind....",
+    "date": "2026-07-30T22:41:41",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448538",
+    "title": "Perú: Ositran aprueba reducción de tarifas en terminal DP World Callao",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público (Ositran) del Perú\nLa entrada Perú: Ositran aprueba reducción de tarifas en terminal ...",
+    "date": "2026-07-30T22:30:33",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-ositran-aprueba-reduccion-de-tarifas-en-terminal-dp-world-callao/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973552",
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "snippet": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" a...",
+    "date": "2026-07-30T22:29:45",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448558",
+    "title": "CMA CGM aplicará recargo a exportaciones de contenedores refrigerados desde puertos de Amberes y Rotterdam",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario CMA CGM anunció la implementación de un nuevo cobro adicional denominado Recargo por Equipo (ERS), el\nLa entrada CMA CGM aplicará recargo a exportaciones de contenedores ref...",
+    "date": "2026-07-30T22:26:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cma-cgm-aplicara-recargo-a-exportaciones-de-contenedores-refrigerados-desde-puertos-de-amberes-y-rotterdam/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973520",
+    "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+    "snippet": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal ...",
+    "date": "2026-07-30T22:10:13",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-sporting-cristal-martin-tavara-dice-su-expulsion-ante-bragantino-se-pudo-evitar-1085680.aspx",
     "title": "Sporting Cristal: Martín Távara dice que su expulsión ante Bragantino \"se pudo evitar\"",
     "snippet": "A su llegada a la capital, Martín Távara lamentó la expulsión sufrida con Sporting Cristal ante Red Bull Bragantino por Copa Sudamericana. Lejos de hablar de las decisiones arbitrales, el volante peruano indicó que \"pudo...",
@@ -25,6 +115,15 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-indecopi-rematara-cerca-40-inmuebles-junin-ucayali-y-lima-este-31-julio-1085683.aspx",
     "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1699447",
+    "title": "Nuevo arancel de Trump afecta a la mitad de las exportaciones peruanas a Estados Unidos, según ADEX",
+    "snippet": "Un análisis de ADEX señala que productos como arándanos, uvas, espárragos y prendas de algodón deberán pagar un arancel adicional de 12,5%. La medida alcanza a envíos que representan más de US$5.300 millones....",
+    "date": "2026-07-30T22:00:33",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/nuevo-arancel-de-trump-afecta-a-la-mitad-de-las-exportaciones-peruanas-a-estados-unidos-segun-adex-noticia-1699447",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o#0",
@@ -1249,104 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-galeria-mas-arte-presenta-interfaz-primera-exposicion-individual-andre-daza-1085543.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ministro-de-produccion-comprometido-con-fortalecimiento-micro-y-pequenas-empresas-1085544.aspx",
-    "title": "Ministro de la Producción comprometido con el fortalecimiento de micro y pequeñas empresas",
-    "snippet": "El titular del Ministerio de la Producción (Produce), Juan Carlos Requejo, está comprometido con el fortalecimiento de las micro y pequeñas empresas, el impulso a la industria, la pesca y la acuicultura....",
-    "date": "2026-07-29T19:13:25",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ministro-de-produccion-comprometido-con-fortalecimiento-micro-y-pequenas-empresas-1085544.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-resaltan-compromiso-nuevo-ministro-de-produccion-fortalecimiento-mypes-1085544.aspx",
-    "title": "Resaltan compromiso de nuevo ministro de la Producción con fortalecimiento de mypes",
-    "snippet": "El titular del Ministerio de la Producción (Produce), Juan Carlos Requejo, está comprometido con el fortalecimiento de las micro y pequeñas empresas, el impulso a la industria, la pesca y la acuicultura, señaló el Instit...",
-    "date": "2026-07-29T19:13:25",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-resaltan-compromiso-nuevo-ministro-de-produccion-fortalecimiento-mypes-1085544.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/proxima-gran-batalla-cobertura-movil-sera-espacio-amazon-tiene-plan-para-plantar-cara-a-starlink",
-    "title": "La próxima gran batalla por la cobertura móvil será en el espacio: Amazon tiene un plan para plantar cara a Starlink",
-    "snippet": "Hasta hace poco, perder la cobertura significaba quedar fuera de la red hasta encontrar otra antena terrestre. Esa lógica empieza a romperse: los satélites de órbita baja ya pueden comunicarse directamente con determinad...",
-    "date": "2026-07-29T19:01:37",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/proxima-gran-batalla-cobertura-movil-sera-espacio-amazon-tiene-plan-para-plantar-cara-a-starlink",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972583",
-    "title": "What’s the catch with the Apple Upgrade program?",
-    "snippet": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the devi...",
-    "date": "2026-07-29T18:40:06",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-fil-lima-2026-agustina-bazterrica-eduardo-sacheri-su-pluma-argentina-1085404.aspx",
-    "title": "FIL Lima 2026: Agustina Bazterrica, Eduardo Sacheri con su pluma argentina",
-    "snippet": "La literatura argentina tiene un lugar protagónico en la Feria Internacional del Libro de Lima. Escritores de distintos géneros y generaciones participarán en presentaciones de libros, conversatorios y actividades especi...",
-    "date": "2026-07-29T18:39:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-fil-lima-2026-agustina-bazterrica-eduardo-sacheri-su-pluma-argentina-1085404.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/conductor-chino-se-compro-espectacular-suv-electrico-para-viajar-a-europa-todo-era-perfecto-que-llego-a-frontera",
-    "title": "Un conductor chino se compró un espectacular SUV eléctrico para viajar a Europa. Todo era perfecto hasta que llegó a la frontera",
-    "snippet": "Fabio Belmone es Volata di Peluca. A principios del año pasado se hizo viral cuando publicó que iría a Tokyo. Hasta aquí, todo normal. Otro millennial que marcha a Japón. Lo que hacía especial el viaje de Fabio Belmone e...",
-    "date": "2026-07-29T18:31:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/conductor-chino-se-compro-espectacular-suv-electrico-para-viajar-a-europa-todo-era-perfecto-que-llego-a-frontera",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448220",
-    "title": "Bélgica: Puerto de Amberes recibe un módulo gigante destinada a planta de craqueo de etano",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Amberes (Bélgica) recibió un módulo gigante destinado a la planta de craqueo de\nLa entrada Bélgica: Puerto de Amberes recibe un módulo gigante destinada a plant...",
-    "date": "2026-07-29T18:30:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/belgica-puerto-de-amberes-recibe-un-modulo-gigante-destinada-a-planta-de-craqueo-de-etano/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-japon-vuelve-a-temblar-sismo-58-1085524.aspx",
-    "title": "Japón vuelve a temblar con sismo de 5,8",
-    "snippet": "Un nuevo sismo de magnitud 5,8 volvió a sacudir este miércoles la prefectura de Kumamoto, en el sudoeste de Japón, un día después de que un sismo de 7,1 causase la muerte de 18 personas y varios atrapados bajo los escomb...",
-    "date": "2026-07-29T18:22:57",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-japon-vuelve-a-temblar-sismo-58-1085524.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/gps-nos-deja-tirados-dentro-edificios-alternativa-esta-orbita-ha-demostrado-que-puede-llegar-techo",
-    "title": "El GPS nos deja tirados dentro de los edificios. Una alternativa ya está en órbita y ha demostrado que puede llegar bajo techo",
-    "snippet": "Entramos en un centro comercial, bajamos a un aparcamiento o cruzamos la puerta de una estación y el punto azul empieza a dudar. A veces tarda en reaccionar, otras nos coloca en la calle de al lado y, en los peores casos...",
-    "date": "2026-07-29T18:01:37",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/gps-nos-deja-tirados-dentro-edificios-alternativa-esta-orbita-ha-demostrado-que-puede-llegar-techo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-familias-afectadas-por-sismo-chupaca-accederan-a-campana-gratuita-tramite-dni-1085532.aspx",
-    "title": "Familias afectadas por el sismo en Chupaca accederán a campaña gratuita de trámite de DNI",
-    "snippet": "Las familias que resultaron damnificadas y afectadas por el fuerte sismo de magnitud 5.4 registrado el sábado 18 de julio en la provincia de Chupaca, región Junín, accederán a una campaña gratuita de trámite del document...",
-    "date": "2026-07-29T17:59:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-familias-afectadas-por-sismo-chupaca-accederan-a-campana-gratuita-tramite-dni-1085532.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147854",
-    "title": "Waymo robotaxis are starting to return to freeways",
-    "snippet": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days....",
-    "date": "2026-07-29T17:50:57",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-    "category": "TRIBUTARIO"
   }
 ]
