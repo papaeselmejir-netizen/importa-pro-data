@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-encargan-viceministerio-mype-e-industria-a-jesus-barrientos-ruiz-1085727.aspx",
+    "title": "Encargan viceministerio de Mype e Industria a Jesus Barrientos Ruiz",
+    "snippet": "El Poder Ejecutivo encargó el viceministerio de Mype e Industria a Jesus Eloy Barrientos Ruiz, quien actualmente se desempeña como viceministro de Pesca y Acuicultura en el Ministerio de la Producción (Produce)....",
+    "date": "2026-07-31T04:04:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-encargan-viceministerio-mype-e-industria-a-jesus-barrientos-ruiz-1085727.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448481",
+    "title": "Puertos de Algeciras y Tarifa esperan arribo de 35 mil vehículos en próximas 96 horas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de Algeciras y Tarifa esperan hasta 35.000 vehículos entre el viernes 31 de julio\nLa entrada Puertos de Algeciras y Tarifa esperan arribo de 35 mil vehículos en ...",
+    "date": "2026-07-31T03:59:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puertos-de-algeciras-y-tarifa-esperan-arribo-de-35-mil-vehiculos-en-proximas-96-horas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448534",
+    "title": "España: Plan de Inversión del Puerto de Santander contempla 245 millones de euros para el periodo 2026-2028",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Plan de Inversiones del Puerto de Santander (España) contempla 245 millones de euros durante el\nLa entrada España: Plan de Inversión del Puerto de Santander contempla 245...",
+    "date": "2026-07-31T03:30:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/espana-plan-de-inversion-del-puerto-de-santander-contempla-245-millones-de-euros-para-el-periodo-2026-2028/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-que-paso-erick-noriega-peruano-fue-expulsado-derrota-y-eliminacion-gremio-1085715.aspx",
+    "title": "¿Qué pasó con Erick Noriega? Peruano fue expulsado en derrota y eliminación de Gremio",
+    "snippet": "Noche oscura para el futbolista peruano Erick Noriega: el ‘Samurái’ salió expulsado tras una gresca en los descuentos y su equipo, el Gremio de Porto Alegre, quedó eliminado de la Copa Sudamericana tras caer de local por...",
+    "date": "2026-07-31T03:03:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-que-paso-erick-noriega-peruano-fue-expulsado-derrota-y-eliminacion-gremio-1085715.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448552",
+    "title": "Rusia afirma haber atacado más buques que transportaban armas a Ucrania",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Las fuerzas rusas atacaron dos buques que transportaban armas y equipo militar hacia puertos ucranianos\nLa entrada Rusia afirma haber atacado más buques que ...",
+    "date": "2026-07-31T03:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rusia-afirma-haber-atacado-mas-buques-que-transportaban-armas-a-ucrania/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-reafirma-su-liderazgo-reunion-del-comite-del-patrimonio-mundial-de-unesco-1085698.aspx",
+    "title": "Perú reafirma su liderazgo en Reunión del Comité del Patrimonio Mundial de la Unesco",
+    "snippet": "El Perú tuvo una destacada participación en la 48.ª Reunión del Comité del Patrimonio Mundial de la Unesco, que se llevó a cabo del 16 al 29 de julio en la ciudad de Busan (República de Corea), siendo el único país de Am...",
+    "date": "2026-07-31T02:24:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-reafirma-su-liderazgo-reunion-del-comite-del-patrimonio-mundial-de-unesco-1085698.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448452",
+    "title": "Embarcan en Puerto de Los Ángeles grúas STS para Kapalama Container Terminal",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un total de tres grúas ship-to-shore (STS) fueron embarcadas en una barcaza en el Puerto de\nLa entrada Embarcan en Puerto de Los Ángeles grúas STS para Kapalama Container Te...",
+    "date": "2026-07-31T00:30:43",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/embarcan-en-puerto-de-los-angeles-gruas-sts-para-kapalama-container-terminal/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-ositran-inversion-infraestructura-transporte-crecio-256-primer-semestre-1085659.aspx",
     "title": "Ositran: Inversión en infraestructura de transporte creció 25.6% en primer semestre",
     "snippet": "Entre enero y junio de este año, las concesionarias bajo la supervisión del Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público (Ositran) valorizaron inversiones por 670 millones de dólar...",
@@ -1284,69 +1347,6 @@
     "date": "2026-07-29T21:16:39",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ministro-del-interior-cesar-astudillo-desfilo-junto-al-comando-chavin-huantar-1085553.aspx",
-    "title": "Ministro del Interior, César Astudillo, desfiló junto al Comando Chavín de Huántar",
-    "snippet": "En el marco del 205.° aniversario de la Independencia del Perú, el ministro del Interior, César Astudillo, participó en la Gran Parada y Desfile Cívico Militar 2026, donde desfiló junto al histórico Comando Chavín de Huá...",
-    "date": "2026-07-29T21:13:23",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ministro-del-interior-cesar-astudillo-desfilo-junto-al-comando-chavin-huantar-1085553.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448314",
-    "title": "Daniel Fernández: “Esperar a 2038 sin ampliar la capacidad en San Antonio es una apuesta de alto riesgo”",
-    "snippet": "Por Sebastián Betancourt @PortalPortuario Declaraciones cruzadas emergieron con el estudio de Port Consultants Rotterdam (PCR) que analizó el sistema logístico\nLa entrada Daniel Fernández: &#8220;Esperar a 2038 sin ampli...",
-    "date": "2026-07-29T21:08:30",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/daniel-fernandez-esperar-a-2038-sin-ampliar-la-capacidad-en-san-antonio-es-una-apuesta-de-alto-riesgo/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448307",
-    "title": "Autoridad sanitaria de Chile levanta cuarentena del NV Athena tras confirmar causa de muerte de tripulante",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Secretaría Regional Ministerial de Salud del Bio Bio (Seremi) levantó la cuarentena para el del\nLa entrada Autoridad sanitaria de Chile levanta cuarentena del NV Athena t...",
-    "date": "2026-07-29T21:00:03",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/autoridad-sanitaria-de-chile-levanta-cuarentena-del-nv-athena-tras-confirmar-causa-de-muerte-de-tripulante/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448004",
-    "title": "EE.UU.: Puertos de Carolina del Norte movilizan 4,4 toneladas de carga en el año fiscal 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los Puertos de Carolina del Norte (NC Ports), Wilmington y Morehead City, movilizaron un total de\nLa entrada EE.UU.: Puertos de Carolina del Norte movilizan 4,4 toneladas de...",
-    "date": "2026-07-29T20:30:06",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-puertos-de-carolina-del-norte-movilizan-44-toneladas-de-carga-en-el-ano-fiscal-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2226530/waymos-are-starting-to-run-on-the-freeways-again/",
-    "title": "Waymos are starting to run on freeways again",
-    "snippet": "Waymo paused highway operations in May after several robotaxis drove into sections that were closed for construction....",
-    "date": "2026-07-29T19:45:05",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2226530/waymos-are-starting-to-run-on-the-freeways-again/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448301",
-    "title": "Chile y Bangladesh acuerdan iniciar negociaciones para concretar un Tratado de Libre Comercio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Chile y Bangladesh acordaron iniciar las negociaciones para alcanzar un Tratado de Libre Comercio (TLC) entre\nLa entrada Chile y Bangladesh acuerdan iniciar negociaciones pa...",
-    "date": "2026-07-29T19:30:24",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/chile-y-bangladesh-acuerdan-iniciar-negociaciones-para-concretar-un-tratado-de-libre-comercio/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-galeria-mas-arte-presenta-interfaz-primera-exposicion-individual-andre-daza-1085543.aspx",
-    "title": "Galería Más Arte presenta InterFaz, la primera exposición individual de André Daza",
-    "snippet": "El artista peruano André Daza presenta InterFaz, su primera exposición individual con la curaduría a cargo de Mariana Linares Olivera; proponiendo una reflexión sobre la relación entre cuerpo, identidad y tecnología en l...",
-    "date": "2026-07-29T19:22:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-galeria-mas-arte-presenta-interfaz-primera-exposicion-individual-andre-daza-1085543.aspx",
     "category": "MERCADO"
   }
 ]
