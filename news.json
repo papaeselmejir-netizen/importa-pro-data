@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.theverge.com/?p=974238",
+    "title": "Pixel 11 specs and price leak with no surprises",
+    "snippet": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is ...",
+    "date": "2026-08-01T21:31:24",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-diputado-denunciado-presunta-agresion-salio-libertad-y-nego-acusaciones-1085941.aspx",
+    "title": "Diputado denunciado por presunta agresión salió en libertad y negó acusaciones",
+    "snippet": "El diputado Julián Pérez Mallqui (Juntos por el Perú), quien fue detenido por una supuesta agresión física y psicológica contra su expareja en el distrito de San Miguel, fue liberado esta tarde luego de permanecer 48 hor...",
+    "date": "2026-08-01T21:27:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-diputado-denunciado-presunta-agresion-salio-libertad-y-nego-acusaciones-1085941.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-iiap-desarrolla-tecnologia-para-aprovechar-excedentes-y-subproductos-frutas-amazonicas-1085910.aspx",
     "title": "IIAP desarrolla tecnología para aprovechar excedentes y subproductos de frutas amazónicas",
     "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad adscrita al Ministerio del Ambiente, desarrolla tecnologías para transformar excedentes y subproductos de frutas amazónicas en productos de mayor val...",
@@ -1330,23 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-puno-265-artesanas-participan-feria-fiestas-patrias-y-dia-nacional-de-alpaca-1085739.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-designa-a-luis-arias-minaya-como-jefe-gabinete-asesores-del-despacho-ministerial-1085516.aspx",
-    "title": "MEF designa a Luis Arias Minaya como jefe de Gabinete de Asesores del despacho ministerial",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) designó hoy a Luis Alberto Arias Minaya como jefe de Gabinete de Asesores del despacho ministerial, cargo considerado de confianza....",
-    "date": "2026-07-31T12:38:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-designa-a-luis-arias-minaya-como-jefe-gabinete-asesores-del-despacho-ministerial-1085516.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/bryan-johnson-hombre-que-queria-vivir-100-anos-admite-que-fue-demasiado-lejos-su-busqueda-longevidad",
-    "title": "Bryan Johnson, el hombre que quería vivir hasta los 100 años, admite que \"fue demasiado lejos en su búsqueda de la longevidad\"",
-    "snippet": "Durante años, Bryan Johnson convirtió su cuerpo en el experimento de longevidad más famoso del planeta. El multimillonario estadounidense llegó a gastar dos millones de dólares al año, ingería más de un centenar de pasti...",
-    "date": "2026-07-31T12:31:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/bryan-johnson-hombre-que-queria-vivir-100-anos-admite-que-fue-demasiado-lejos-su-busqueda-longevidad",
-    "category": "TRIBUTARIO"
   }
 ]
