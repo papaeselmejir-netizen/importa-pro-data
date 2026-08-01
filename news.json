@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-iiap-desarrolla-tecnologia-para-aprovechar-excedentes-y-subproductos-frutas-amazonicas-1085910.aspx",
+    "title": "IIAP desarrolla tecnología para aprovechar excedentes y subproductos de frutas amazónicas",
+    "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad adscrita al Ministerio del Ambiente, desarrolla tecnologías para transformar excedentes y subproductos de frutas amazónicas en productos de mayor val...",
+    "date": "2026-08-01T20:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iiap-desarrolla-tecnologia-para-aprovechar-excedentes-y-subproductos-frutas-amazonicas-1085910.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149017",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "snippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"...",
+    "date": "2026-08-01T19:45:45",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=448761",
+    "title": "Volumen de carga en puertos de Corea del Sur cae 4,8% en segundo trimestre",
+    "snippet": "Por Redacción PortalPortuario / Agencia Yonhap @PortalPortuario El volumen de carga manejada en los puertos marítimos de Corea del Sur\nLa entrada Volumen de carga en puertos de Corea del Sur cae 4,8% en segundo trimestre...",
+    "date": "2026-08-01T19:00:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/volumen-de-carga-en-puertos-de-corea-del-sur-cae-48-en-segundo-trimestre/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-policias-se-especializan-equinoterapia-para-ayudar-a-ninos-habilidades-diferentes-1085927.aspx",
+    "title": "Policias se especializan en equinoterapia para ayudar a niños con habilidades diferentes",
+    "snippet": "Un total de 18 efectivos de la Policía Nacional del Perú (PNP) se graduaron del I Curso de Capacitación de Equinoterapia 2026, organizado por la Unidad Histórica de la Policía Montada, tras fortalecer sus conocimientos y...",
+    "date": "2026-08-01T19:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-policias-se-especializan-equinoterapia-para-ayudar-a-ninos-habilidades-diferentes-1085927.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ayacucho-festival-gastronomico-2026-registra-57-mil-visitantes-y-mas-s-3-millones-1085909.aspx",
+    "title": "Ayacucho: Festival gastronómico 2026 registra 57 mil visitantes y más de S/ 3 millones",
+    "snippet": "El Festival Gastronómico Ayacucho 2026 culminó con cifras contundentes: más de 57 mil visitantes y un movimiento económico que superó los tres millones de soles, consolidándose como uno de los eventos más importantes par...",
+    "date": "2026-08-01T19:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ayacucho-festival-gastronomico-2026-registra-57-mil-visitantes-y-mas-s-3-millones-1085909.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-tragedia-nasca-avioneta-partio-pisco-se-estrella-sin-dejar-sobrevivientes-1085930.aspx",
+    "title": "Tragedia en Nasca: avioneta que partió de Pisco se estrella sin dejar sobrevivientes",
+    "snippet": "Una avioneta se estrelló e incendió esta tarde en un predio agrícola en la provincia de Nasca de la región Ica. Al parecer, no hubo sobrevivientes....",
+    "date": "2026-08-01T18:58:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-tragedia-nasca-avioneta-partio-pisco-se-estrella-sin-dejar-sobrevivientes-1085930.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-supervisa-capacidad-operativa-el-vraem-1085922.aspx",
+    "title": "Presidenta Keiko Fujimori supervisa capacidad operativa en el Vraem",
+    "snippet": "La presidenta de la república, Keiko Fujimori Higuchi, llegó al Valle de los Ríos Apurímac, Ene y Mantaro (Vraem), donde supervisó el trabajo y la capacidad operativa de las fuerzas del orden frente al narcotráfico y los...",
+    "date": "2026-08-01T18:05:17",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-supervisa-capacidad-operativa-el-vraem-1085922.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/arboles-arma-calor-espana-va-perdiendo-6-cada-10-personas-no-tienen-parque-cerca",
+    "title": "Si los árboles son el arma contra el calor, España va perdiendo: 6 de cada 10 personas no tienen un parque cerca",
+    "snippet": "No hace falta tener un máster en arquitectura bioclimática para saber que el asfalto absorbe el calor y que debajo de un árbol se está más fresco. Sin embargo y pese a que el termómetro no engaña y nos enfrentamos a vera...",
+    "date": "2026-08-01T18:01:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/arboles-arma-calor-espana-va-perdiendo-6-cada-10-personas-no-tienen-parque-cerca",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-anima-a-jovenes-peruanos-a-salir-de-comodidad-del-individualismo-1085914.aspx",
     "title": "Papa León XIV anima a jóvenes peruanos a salir de la comodidad del individualismo",
     "snippet": "El papa León XIV envió un mensaje de fe, esperanza y compromiso a los participantes de la Jornada Nacional de la Juventud (JNJ) Perú 2026, a quienes exhortó a vivir con valentía el Evangelio, salir de la comodidad del in...",
@@ -1276,77 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/bryan-johnson-hombre-que-queria-vivir-100-anos-admite-que-fue-demasiado-lejos-su-busqueda-longevidad",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973652",
-    "title": "D&#038;D is getting World of Warcraft and Star Wars crossovers",
-    "snippet": "Dungeons &#38; Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast (WotC) has announced th...",
-    "date": "2026-07-31T12:31:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/buscar-trabajo-cobrar-ello-parecia-imposible-tu-exjefe-debe-pagarte-seis-horas-a-semana-encontrar-nuevo-empleo",
-    "title": "Buscar trabajo y cobrar por ello parecía imposible: tu exjefe debe pagarte seis horas a la semana por encontrar un nuevo empleo",
-    "snippet": "Si la empresa en la que trabajas te comunica que te va a despedir, tiene la obligación de pagarte seis horas a la semana para buscar un nuevo empleo. Este es uno de esos permisos retribuidos bastante desconocidos que rec...",
-    "date": "2026-07-31T12:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/buscar-trabajo-cobrar-ello-parecia-imposible-tu-exjefe-debe-pagarte-seis-horas-a-semana-encontrar-nuevo-empleo",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973530",
-    "title": "Apple TV’s Cape Fear remake turns it into a paranoid tech thriller",
-    "snippet": "Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology. Apple TV's recent remake of Cape Fear is \"inspired\" by the 1991 film of the same name (Martin Scorse...",
-    "date": "2026-07-31T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/nueva-siri-se-vende-como-gratis-tim-cook-ha-dejado-caer-que-usarla-mucho-costara-dinero",
-    "title": "La nueva Siri se vende como gratis. Tim Cook ha dejado caer que usarla mucho costará dinero",
-    "snippet": "Apple supo cómo ponerse a la cabeza en la carrera de los smartphones, pero aún no ha logrado subirse al podio del sprint por la IA. Fue uno de los primeros en incluir la asistencia inteligente en el móvil, con una Siri q...",
-    "date": "2026-07-31T11:31:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/nueva-siri-se-vende-como-gratis-tim-cook-ha-dejado-caer-que-usarla-mucho-costara-dinero",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1699516",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 31 de julio del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy viernes 31 de julio es de  S/3.40 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-07-31T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-31-de-julio-del-2026-noticia-1699516",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/marruecos-esta-construyendo-enorme-autopista-al-sahara-occidental-tiene-nombre-para-ella-presidente-donald-trump",
-    "title": "Marruecos está construyendo una enorme autopista al Sáhara Occidental y ya tiene nombre para ella: \"Presidente Donald Trump\"",
-    "snippet": "En lo que lleva de (segundo) mandato Donald Trump ha mostrado una peculiar inclinación a bautizar grandes infraestructuras con su nombre, en ocasiones para cabreo de los jueces. El apellido del republicano puede leerse y...",
-    "date": "2026-07-31T11:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/marruecos-esta-construyendo-enorme-autopista-al-sahara-occidental-tiene-nombre-para-ella-presidente-donald-trump",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/marruecos-esta-construyendo-enorme-autopista-al-sahara-occidental-tiene-nombre-para-ella-presidente-donald-trump",
-    "title": "Marruecos está construyendo una autopista de 1.000 km al Sáhara Occidental y ya tiene nombre para ella: \"Presidente Donald Trump\"",
-    "snippet": "En lo que lleva de (segundo) mandato Donald Trump ha mostrado una peculiar inclinación a bautizar grandes infraestructuras con su nombre, en ocasiones para cabreo de los jueces. El apellido del republicano puede leerse y...",
-    "date": "2026-07-31T11:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/marruecos-esta-construyendo-enorme-autopista-al-sahara-occidental-tiene-nombre-para-ella-presidente-donald-trump",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973621",
-    "title": "Sony pushes forward with ditching discs, despite backlash",
-    "snippet": "Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, chief financial officer...",
-    "date": "2026-07-31T10:40:54",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
-    "category": "MERCADO"
   }
 ]
