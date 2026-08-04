@@ -1,5 +1,140 @@
 [
   {
+    "id": "https://www.xataka.com/robotica-e-ia/dario-amodei-construyo-anthropic-alrededor-mision-ahora-teme-que-sus-empleados-lleguen-dinero",
+    "title": "Dario Amodei construyó Anthropic alrededor de una misión. Ahora teme que sus empleados lleguen por el dinero",
+    "snippet": "Anthropic nació con la idea de desarrollar modelos de IA avanzados y alineados, sin sacrificar la seguridad. Esa misión ayudó a diferenciarla de OpenAI y también sirvió para atraer a investigadores con talento. Ahora su ...",
+    "date": "2026-08-04T11:15:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/dario-amodei-construyo-anthropic-alrededor-mision-ahora-teme-que-sus-empleados-lleguen-dinero",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-designa-a-nuevos-viceministros-economia-y-hacienda-1086175.aspx",
+    "title": "MEF designa a nuevos viceministros de Economía y de Hacienda",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) designó hoy a Fabrizio Orrego Peche en el cargo de Viceministro de Economía y a Erick Wilfredo Lahura Serrano como Viceministro de Hacienda del citado portafolio....",
+    "date": "2026-08-04T11:14:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-designa-a-nuevos-viceministros-economia-y-hacienda-1086175.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1700012",
+    "title": "Gobierno designó nuevos viceministros en las carteras de Economía, Justicia y Educación: ¿quiénes son?",
+    "snippet": "A través resoluciones supremas publicadas en diario oficial El Peruano, el Poder Ejecutivo oficializó el nombramiento de cinco altos funcionarios para integrar los equipos del MEF, Minedu y Minjusdh....",
+    "date": "2026-08-04T11:06:50",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/politica/gobierno/gobierno-designo-nuevos-viceministros-en-las-carteras-de-economia-justicia-y-educacion-quienes-son-noticia-1700012",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1700016",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 04 de agosto del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy martes 04 de agosto es de  S/3.40 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-08-04T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-04-de-agosto-del-2026-noticia-1700016",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/espana-sonaba-tener-primera-granja-pulpos-mundo-para-alegria-ecologistas-se-ha-quedado-ganas",
+    "title": "España soñaba con tener la primera granja de pulpos del mundo. Para alegría de los ecologistas, se ha quedado con las ganas",
+    "snippet": "Adiós a la granja de pulpos de Canarias, la que aspiraba a ser la primera instalación de su tipo en el mundo. Al menos de momento. La empresa detrás del proyecto, Nueva Pescanova, ha decidido echar el freno y comunicar a...",
+    "date": "2026-08-04T11:01:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/espana-sonaba-tener-primera-granja-pulpos-mundo-para-alegria-ecologistas-se-ha-quedado-ganas",
+    "category": "LEGAL"
+  },
+  {
+    "id": "6a6a58489bb0216083756ec1",
+    "title": "How One Startup Built a (Mostly) China-Free Robot",
+    "snippet": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids....",
+    "date": "2026-08-04T10:45:00",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/legislacion-y-derechos/aepd-recomendo-grabar-llamadas-spam-para-denunciar-primer-caso-real-ha-acabado-multa-10-000-euros",
+    "title": "La AEPD recomendó grabar las llamadas de spam para denunciar: el primer caso real ha acabado en una multa de 10.000 euros",
+    "snippet": "Estamos hartos de recibir llamadas comerciales y, a pesar de que ha habido infinidad de intentos para acabar con ellas (con leyes incluidas), ninguno termina de funcionar. Ante este panorama, en 2023 la Agencia Española ...",
+    "date": "2026-08-04T10:31:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/legislacion-y-derechos/aepd-recomendo-grabar-llamadas-spam-para-denunciar-primer-caso-real-ha-acabado-multa-10-000-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o#0",
+    "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+    "snippet": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering....",
+    "date": "2026-08-04T10:07:05",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/durante-400-anos-que-van-edad-hierro-a-epoca-romana-mineros-riotinto-compartieron-algo-sandalias",
+    "title": "Durante 400 años que van de la Edad del Hierro a la época romana los mineros de Riotinto compartieron algo: las sandalias",
+    "snippet": "Si algo funciona… ¿Para qué cambiarlo? Esa máxima la aplicamos hoy y la respetaban hace ya más veinte siglos, cuando los artesanos que elaboraban calzado para los mineros de Urium, en Riotinto, depuraron su técnica hasta...",
+    "date": "2026-08-04T10:01:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/durante-400-anos-que-van-edad-hierro-a-epoca-romana-mineros-riotinto-compartieron-algo-sandalias",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-costo-para-lima-no-tener-mas-lineas-del-metro-ascenderia-a-20000-millones-al-ano-1086168.aspx",
+    "title": "Costo para Lima por no tener más líneas del metro ascendería a US$ 20,000 millones al año",
+    "snippet": "El costo por no contar con más infraestructura de líneas de metro para la ciudad de Lima podría ascender a los 20,000 millones  de dólares al año, refirió David Hernández, presidente del Consejo de Directivo de la Autori...",
+    "date": "2026-08-04T10:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-costo-para-lima-no-tener-mas-lineas-del-metro-ascenderia-a-20000-millones-al-ano-1086168.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4805982",
+    "title": "How to Bring the Old Siri Back to Your iPhone in iOS 27",
+    "snippet": "You can enable, disable or revert Siri through a few quick steps in the Settings menu....",
+    "date": "2026-08-04T10:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/how-to-bring-the-old-siri-back-to-your-iphone-in-ios-27/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973098",
+    "title": "Can Reddit fend off a new wave of AI SEO spam?",
+    "snippet": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user na...",
+    "date": "2026-08-04T10:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/1974-espana-importo-dos-toneladas-cangrejo-rojo-americano-para-acuicultura-50-anos-despues-especie-imposible-erradicar",
+    "title": "En 1974, España importó dos toneladas de cangrejo rojo americano para acuicultura: 50 años después, la especie es imposible de erradicar",
+    "snippet": "Durante décadas, España convivió con uno de los mayores éxitos de la acuicultura nacional sin imaginar que también estaba alimentando una de las invasiones biológicas más importantes de Europa. Lo que comenzó en los años...",
+    "date": "2026-08-04T09:31:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/1974-espana-importo-dos-toneladas-cangrejo-rojo-americano-para-acuicultura-50-anos-despues-especie-imposible-erradicar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2229725/apple-developing-seamless-copy-paste-experience-iphones-windows-pcs/",
+    "title": "Apple is working on a seamless copy-paste experience between iPhones and Windows PCs",
+    "snippet": "Apple is developing seamless copy-paste between iPhones and Windows PCs, but it's unclear if it will be available outside the EU....",
+    "date": "2026-08-04T09:22:06",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2229725/apple-developing-seamless-copy-paste-experience-iphones-windows-pcs/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/mundo-creo-2-680-millonarios-al-dia-espana-tiene-millon-asi-se-reparte-mapa-riqueza-nuestro-pais",
+    "title": "El mundo creó 2.680 millonarios al día y España ya tiene más de un millón: así se reparte el mapa de la riqueza en nuestro país",
+    "snippet": "Cada año, miles de personas en España cruzan una frontera invisible sin darse cuenta: la de convertirse en millonarios. Bien sea por una nómina elevada, una herencia o la revalorización de una vivienda, su patrimonio sup...",
+    "date": "2026-08-04T09:01:43",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/mundo-creo-2-680-millonarios-al-dia-espana-tiene-millon-asi-se-reparte-mapa-riqueza-nuestro-pais",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/empresas-y-economia/pension-jubilacion-falsa-autonoma-sufrio-recorte-inesperado-tsj-tuvo-claro-quien-pagaria-diferencia",
     "title": "La pensión de jubilación de una falsa autónoma sufrió un recorte inesperado. El TSJ tuvo claro quién pagaría la diferencia",
     "snippet": "Imagínate ir a jubilarte después de toda una vida trabajando y que la Seguridad Social te diga que no has cotizado lo suficiente. Esto es lo que le pasó a una mujer en noviembre del 2022, después de que tras calcular hab...",
@@ -263,6 +398,15 @@
   {
     "id": "https://www.xataka.com/videojuegos/analisis-pone-cifras-al-deterioro-formato-fisico-tercio-juegos-ps5-no-se-puede-jugar-solo-disco",
     "title": "Un análisis pone cifras al deterioro del formato físico: en un tercio de juegos de PS5 no se puede jugar solo con el disco",
+    "snippet": "Hay una escena que cualquier jugador de consola reconoce: compras un juego físico, llegas a casa, abres la caja, metes el disco y esperas jugar. Puede que haya una actualización disponible, claro, pero la intuición sigue...",
+    "date": "2026-08-03T21:52:54",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/analisis-pone-cifras-al-deterioro-formato-fisico-tercio-juegos-ps5-no-se-puede-jugar-solo-disco",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/analisis-pone-cifras-al-deterioro-formato-fisico-tercio-juegos-ps5-no-se-puede-jugar-solo-disco",
+    "title": "Sony \"matará\" a los videojuegos físicos en 2028. La realidad es que llevan años muriendo en silencio",
     "snippet": "Hay una escena que cualquier jugador de consola reconoce: compras un juego físico, llegas a casa, abres la caja, metes el disco y esperas jugar. Puede que haya una actualización disponible, claro, pero la intuición sigue...",
     "date": "2026-08-03T21:52:54",
     "source": "XATAKA",
@@ -1204,149 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-bolsa-valores-lima-logra-rendimiento-superior-a-de-nueva-york-al-cierre-julio-1085989.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hay-guerra-padres-millennials-abuelos-boomers-motivo-libros-infantiles-personalizados-hechos-ia",
-    "title": "Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA",
-    "snippet": "Los libros infantiles son uno de los regalos más habituales para los pequeños de la casa, pero últimamente hay un tipo de libro que se está volviendo más popular: los libros personalizados. Haciendo una búsqueda nos enco...",
-    "date": "2026-08-02T17:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hay-guerra-padres-millennials-abuelos-boomers-motivo-libros-infantiles-personalizados-hechos-ia",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448837",
-    "title": "Colombia: Puerto de Santa Marta refuerza acciones contra tráfico de armas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Santa Marta reforzó las acciones de contra el tráfico de armas, luego de\nLa entrada Colombia: Puerto de Santa Marta refuerza acciones contra tráfico de armas se...",
-    "date": "2026-08-02T17:00:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/colombia-puerto-de-santa-marta-refuerza-acciones-contra-trafico-de-armas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/cuando-fuego-crea-sus-propias-tormentas-aterrador-auge-pirocumulonimbos-su-impacto-volcanico",
-    "title": "Cuando el fuego crea sus propias tormentas: el aterrador auge de los pirocumulonimbos y su impacto \"volcánico\"",
-    "snippet": "Este verano estamos viviendo una cadena de incendios forestales que sin duda va a pasar a la historia por su gran magnitud y por las imágenes extremas y sin precedentes que nos han dejado. Francia ha sido uno de los país...",
-    "date": "2026-08-02T16:31:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/cuando-fuego-crea-sus-propias-tormentas-aterrador-auge-pirocumulonimbos-su-impacto-volcanico",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2226177/how-to-sideload-android-apks-chromebook/",
-    "title": "How to sideload Android APKs on your Chromebook",
-    "snippet": "Chromebooks aren't limited to only apps you can get on the Play Store....",
-    "date": "2026-08-02T16:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2226177/how-to-sideload-android-apks-chromebook/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148962",
-    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
-    "date": "2026-08-02T16:05:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/colocare-railes-alli-donde-andan-llamas-tren-que-atraviesa-68-tuneles-55-puentes-casi-5-000-metros-andes",
-    "title": "\"Colocaré raíles allí donde andan las llamas\": el tren que atraviesa 68 túneles y 55 puentes hasta casi 5.000 metros en los Andes",
-    "snippet": "Para llegar del punto A al B el camino más corto es la línea recta, pero cuando tienes un terreno salpicado de montañas, la cosa cambia y las comunicaciones se convierten en un auténtico desafío. Un buen ejemplo lo tenem...",
-    "date": "2026-08-02T16:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/colocare-railes-alli-donde-andan-llamas-tren-que-atraviesa-68-tuneles-55-puentes-casi-5-000-metros-andes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4806104",
-    "title": "Amazon Will Give Tariff Refunds to Some Customers",
-    "snippet": "The online retail giant didn’t disclose who qualifies for the refunds or how much each recipient will receive....",
-    "date": "2026-08-02T16:00:38",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448831",
-    "title": "China reafirma respaldo a soberanía panameña sobre canal interoceánico",
-    "snippet": "Por Redacción PortalPortuario / Agencia Prensa Latina @PortalPortuario El embajador de China en Panamá, Zhang Xiangyan, reafirmó el respaldo de\nLa entrada China reafirma respaldo a soberanía panameña sobre canal interoce...",
-    "date": "2026-08-02T16:00:35",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/china-reafirma-respaldo-a-soberania-panamena-sobre-canal-interoceanico/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=448830",
-    "title": "Argentina: Temporal provoca derrumbe parcial en muelle de Exolgan en Puerto Dock Sud",
-    "snippet": "Por Redacción PortalPortuario / Agencia Noticias Argentinas @PortalPortuario Un derrumbe parcial afectó al muelle 1 de la terminal de Exolgan,\nLa entrada Argentina: Temporal provoca derrumbe parcial en muelle de Exolgan ...",
-    "date": "2026-08-02T15:41:05",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-temporal-provoca-derrumbe-parcial-en-muelle-de-exolgan-en-puerto-dock-sud/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/descubrimos-primer-asteroide-tres-cabezas-que-se-ha-visto-jamas-tambien-tiene-su-propia-luna",
-    "title": "Descubrimos el primer asteroide de tres cabezas que se ha visto jamás. Y también tiene su propia luna",
-    "snippet": "Las herramientas de observación del cielo han evolucionado muchísimo en los últimos dos siglos. Como muestra, el asteroide 44Nysa. Fue descubierto en 1857 por el astrónomo Hermann Mayer Salomon Goldschmidt; quien, en rea...",
-    "date": "2026-08-02T15:31:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/descubrimos-primer-asteroide-tres-cabezas-que-se-ha-visto-jamas-tambien-tiene-su-propia-luna",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146922",
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "snippet": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature ...",
-    "date": "2026-08-02T15:23:19",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/agricultor-enterro-sus-calzoncillos-campo-para-medir-fertilidad-suelo-ciencia-le-da-razon",
-    "title": "Un agricultor enterró sus calzoncillos en el campo para medir la fertilidad del suelo. Y la ciencia le da la razón",
-    "snippet": "A la hora de determinar si un trozo de tierra es óptimo para sembrar cualquier cosa, son muchos los métodos sofisticados que existen en el campo de la agricultura, como por ejemplo medir el pH o alguno de los minerales q...",
-    "date": "2026-08-02T15:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/agricultor-enterro-sus-calzoncillos-campo-para-medir-fertilidad-suelo-ciencia-le-da-razon",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4806349",
-    "title": "Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing",
-    "snippet": "The Lucid Gravity robotaxi is slated to launch later this year. I got an early ride in an engineering prototype....",
-    "date": "2026-08-02T14:46:34",
-    "source": "CNET",
-    "url": "https://www.cnet.com/roadshow/automobiles/inside-luxury-robotaxi-uber-lucid-nuro-are-testing/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-decadas-alargando-dias-tierra-darnos-cuenta-eso-no-algo-bueno",
-    "title": "Llevamos décadas alargando los días en la Tierra sin darnos cuenta y eso no es algo bueno",
-    "snippet": "Hace tiempo que sabemos que el cambio climático está alargando nuestros días. Cuando los casquetes polares se derriten, hay más agua líquida en los océanos, por lo que el peso total de la misma se redistribuye, complican...",
-    "date": "2026-08-02T14:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-decadas-alargando-dias-tierra-darnos-cuenta-eso-no-algo-bueno",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/casi-todos-se-fueron-al-bar-asi-que-partieron-eje-jumbocruise-como-titanic-autobuses-murio-victima",
-    "title": "\"Casi todos se fueron al bar, así que partieron el eje\": Jumbocruise o como el Titanic de los autobuses murió víctima de sí mismo",
-    "snippet": "Si buscas Jumbocruiser en Google encontrarás un autobús que se alquila para grandes viajes. Grandes, grandes. Y lujosos. Del rollo llevar a los de artistas en una gira europea de conciertos. Sofás, camas, pequeños espaci...",
-    "date": "2026-08-02T13:31:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/casi-todos-se-fueron-al-bar-asi-que-partieron-eje-jumbocruise-como-titanic-autobuses-murio-victima",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2225319/how-using-phone-while-charging-affects-battery-life/",
-    "title": "Can using your phone while charging affect its battery life?",
-    "snippet": "Using your phone while it's plugged in changes the way it charge. Here are some common myths (and truths) about charging smartphones and tablets....",
-    "date": "2026-08-02T13:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2225319/how-using-phone-while-charging-affects-battery-life/",
-    "category": "MERCADO"
   }
 ]
