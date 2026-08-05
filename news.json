@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo#0",
+    "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+    "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume....",
+    "date": "2026-08-05T03:44:30",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministro-luis-dyer-anuncia-modernizacion-de-digemid-y-agilizacion-tramites-1086312.aspx",
+    "title": "Ministro Luis Dyer anuncia modernización de la Digemid y agilización de trámites",
+    "snippet": "El ministro de Salud, Luis Dyer Fernández, anunció un plan para potenciar las capacidades técnicas y tecnológicas de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), garantizar el acceso inmediato a medi...",
+    "date": "2026-08-05T03:43:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministro-luis-dyer-anuncia-modernizacion-de-digemid-y-agilizacion-tramites-1086312.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-delegaciones-guyana-y-surinam-conocieron-innovacion-tecnologica-del-cite-maynas-1086306.aspx",
+    "title": "Delegaciones de Guyana y Surinam conocieron innovación tecnológica del CITE Maynas",
+    "snippet": "Representantes de las Repúblicas de Guyana y Surinam, acompañados por especialistas del Banco Interamericano de Desarrollo (BID), realizaron una visita técnica al CITEproductivo Maynas, en Loreto, entidad del Instituto T...",
+    "date": "2026-08-05T03:29:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-delegaciones-guyana-y-surinam-conocieron-innovacion-tecnologica-del-cite-maynas-1086306.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449264",
+    "title": "Puerto de Brisbane invierte en paneles y baterías de almacenamiento de energía solar",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Port of Brisbane (PBPL) sigue invirtiendo en Brisbane International Cruise Terminal (BICT), ampliando su capacidad solar\nLa entrada Puerto de Brisbane invierte en paneles y ...",
+    "date": "2026-08-05T03:00:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-brisbane-invierte-en-paneles-y-baterias-de-almacenamiento-de-energia-solar/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449177",
+    "title": "Aumentan tarifas de flete para envíos de crudo Urals desde puertos rusos hacia India",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Las tarifas de flete para los envíos de crudo Urals -insignia de Rusia&#8211; desde sus\nLa entrada Aumentan tarifas de flete para envíos de crudo Urals desde...",
+    "date": "2026-08-05T01:30:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/aumentan-tarifas-de-flete-para-envios-de-crudo-urals-desde-puertos-rusos-hacia-india/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-minsa-destaca-beneficios-las-menestras-para-una-mejor-alimentacion-1086297.aspx",
+    "title": "Minsa destaca beneficios de las menestras para una mejor alimentación",
+    "snippet": "Las menestras forman parte de la alimentación tradicional de los peruanos y constituyen una excelente fuente de nutrientes para el organismo. Alimentos como los frejoles, lentejas, garbanzos y pallares aportan proteínas ...",
+    "date": "2026-08-05T01:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minsa-destaca-beneficios-las-menestras-para-una-mejor-alimentacion-1086297.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449188",
+    "title": "Aseguran que investigación sobre explosión en Puerto de Beirut se encuentra en sus “etapas finales”",
+    "snippet": "Por Redacción PortalPortuario/Agencia Anadolu @PortalPortuario El ministro de Información de Líbano, Paul Morcos, declaró que en los próximos meses se\nLa entrada Aseguran que investigación sobre explosión en Puerto de Be...",
+    "date": "2026-08-05T00:30:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/aseguran-que-investigacion-sobre-explosion-en-puerto-de-beirut-se-encuentra-en-sus-etapas-finales/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-minsa-supervisa-almacenes-cenares-para-optimizar-abastecimiento-medicamentos-1086285.aspx",
     "title": "Minsa supervisa almacenes de Cenares para optimizar abastecimiento de medicamentos",
     "snippet": "El ministro de Salud, Luis Dyer Fernández, supervisó el almacén especializado del Centro Nacional de Abastecimiento de Recursos Estratégicos en Salud (Cenares), en Punta Hermosa, con el objetivo de fortalecer la gestión ...",
@@ -1285,68 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-una-noche-salsa-15-gran-combo-niche-sonora-poncena-y-mas-cartelera-1086119.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/rusia-tenia-problema-llamado-boeing-airbus-su-avion-nacional-acaba-dar-paso-que-llevaba-anos-esperando",
-    "title": "Rusia tenía un problema llamado Boeing y Airbus. Su avión nacional acaba de dar el paso que llevaba años esperando",
-    "snippet": "Durante años, hablar de aviación comercial en Rusia también fue hablar de Boeing y Airbus. Sus aviones han sostenido buena parte de la flota comercial del país, pero esa normalidad empezó a romperse cuando las sanciones ...",
-    "date": "2026-08-03T20:31:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/rusia-tenia-problema-llamado-boeing-airbus-su-avion-nacional-acaba-dar-paso-que-llevaba-anos-esperando",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449026",
-    "title": "Aduanas incauta 113.500 juguetes falsificados desde interior de contenedor en Puerto de San Antonio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario A pocos días de la celebración del Día del Niño, el Servicio Nacional de Aduanas incautó\nLa entrada Aduanas incauta 113.500 juguetes falsificados desde interior de contenedo...",
-    "date": "2026-08-03T20:30:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/aduanas-incauta-113-500-juguetes-falsificados-desde-interior-de-contenedor-en-puerto-de-san-antonio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
-    "title": "Cronograma de pagos 2026 de sueldos y pensiones en el Estado peruano",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
-    "date": "2026-08-03T20:30:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-contraloria-interviene-tres-hospitales-emblematicos-del-callao-1086091.aspx",
-    "title": "Contraloría interviene tres hospitales emblemáticos del Callao",
-    "snippet": "La Contraloría General de la República (CGR) desplegó un equipo de auditores para intervenir de manera sorpresiva las instalaciones de tres hospitales emblemáticos de la región Callao, como son el Hospital Nacional Danie...",
-    "date": "2026-08-03T20:25:56",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-contraloria-interviene-tres-hospitales-emblematicos-del-callao-1086091.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-feria-del-taxista-llega-a-santa-anita-descuentos-para-taxistas-formales-1086117.aspx",
-    "title": "ATU: Feria del Taxista llega a Santa Anita con descuentos para taxistas formales",
-    "snippet": "Los taxistas formales podrán volver a acceder a promociones en mantenimiento vehicular, neumáticos, baterías, repuestos y otros servicios durante la segunda edición de Feria del Taxista 2026, que se realizará este 5 de a...",
-    "date": "2026-08-03T20:21:22",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-feria-del-taxista-llega-a-santa-anita-descuentos-para-taxistas-formales-1086117.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449022",
-    "title": "Brasil: Puerto de Santos intensifica preparativos para responder a enfermedad del virus del Ébola",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Santos (APS), responsable de la infraestructura pública del Puerto de Santos, intensificó\nLa entrada Brasil: Puerto de Santos intensifica preparati...",
-    "date": "2026-08-03T20:00:29",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-puerto-de-santos-intensifica-preparativos-para-responder-a-enfermedad-del-virus-del-ebola/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1699937",
-    "title": "MTC no publicó norma de adecuación para motos eléctricas: los requisitos para evitar multas y por qué no deben ir por ciclovías",
-    "snippet": "Aunque el MTC anunció un plazo para que los propietarios regularicen la documentación de estos vehículos, la norma sigue pendiente. Mientras tanto, las motos eléctricas continúan sujetas a las reglas aplicables a cualqui...",
-    "date": "2026-08-03T19:30:18",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/mtc-multas-a-motos-electricas-requisitos-para-evitar-sanciones-y-por-que-no-deben-ir-por-ciclovias-noticia-1699937",
-    "category": "LEGAL"
   }
 ]
