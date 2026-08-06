@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-presentan-libro-digital-gratuito-protege-gastronomia-tradicional-peruana-1086453.aspx",
+    "title": "Presentan libro digital gratuito que protege la gastronomía tradicional peruana",
+    "snippet": "El  Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi), presentó el libro “El origen que nos distingue: sellos distintivos que protegen la gastronomía tradicional pe...",
+    "date": "2026-08-05T23:52:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presentan-libro-digital-gratuito-protege-gastronomia-tradicional-peruana-1086453.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-uni-desarrolla-sistema-estima-danos-sismos-y-tsunamis-tiempo-real-1086440.aspx",
+    "title": "UNI desarrolla sistema que estima daños por sismos y tsunamis en tiempo real",
+    "snippet": "Después de un terremoto de gran magnitud, pueden pasar varias horas antes de conocer dónde se concentran los daños más graves. Las comunicaciones interrumpidas, las vías bloqueadas y la falta de reportes directos dificul...",
+    "date": "2026-08-05T23:40:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-uni-desarrolla-sistema-estima-danos-sismos-y-tsunamis-tiempo-real-1086440.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449368",
+    "title": "Zodiac Maritime encarga ocho portacontenedores de 6 mil TEU a Hengli Shipbuilding",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Zodiac Maritime, vinculado al multimillonario, filántropo y coleccionista de arte israelí Eyal Ofer, encargó ocho portacontenedores\nLa entrada Zodiac Maritime encarga ocho p...",
+    "date": "2026-08-05T23:30:43",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/zodiac-maritime-encarga-ocho-portacontenedores-de-6-mil-teu-a-hengli-shipbuilding/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-produccion-petroleo-peru-supero-los-36900-barriles-diarios-julio-1086441.aspx",
+    "title": "Producción de petróleo en Perú superó los 36,900 barriles diarios en julio",
+    "snippet": "La producción de petróleo en el Perú alcanzó los 36,930 barriles por día (BPD) en julio del 2026, lo que representó un ligero incremento respecto a junio, aunque todavía se ubicó 23% por debajo del nivel registrado en el...",
+    "date": "2026-08-05T23:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-produccion-petroleo-peru-supero-los-36900-barriles-diarios-julio-1086441.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4815028",
+    "title": "Hidden Backdoor Found in Chinese-Made Zbtlink Routers",
+    "snippet": "Researchers found a backdoor implant that gives servers in China full control over the routers....",
+    "date": "2026-08-05T23:18:32",
+    "source": "CNET",
+    "url": "https://www.cnet.com/home/internet/hidden-backdoor-found-in-chinese-made-zbtlink-routers/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449483",
+    "title": "Holding de origen peruano entra en carrera para operar terminal multipropósito en Puerto de Barcelona",
+    "snippet": "Andino Inversiones Global (AIG), un holding de origen peruano, pero constituido como sociedad en España, entró en la carrera por\nLa entrada Holding de origen peruano entra en carrera para operar terminal multipropósito e...",
+    "date": "2026-08-05T23:18:19",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/holding-de-origen-peruano-entra-en-carrera-para-operar-terminal-multiproposito-en-puerto-de-barcelona/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449371",
+    "title": "Del grano al contenedor: Puertos brasileños gestionan carga estratégica en la primera mitad del año",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el primer semestre de 2026, los puertos de Brasil registraron un crecimiento en el manejo\nLa entrada Del grano al contenedor: Puertos brasileños gestionan carga estratégi...",
+    "date": "2026-08-05T23:00:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/del-grano-al-contenedor-puertos-brasilenos-gestionan-carga-estrategica-en-la-primera-mitad-del-ano/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-presidenta-anuncia-colocacion-geomallas-y-diques-para-prevenir-huaicos-por-nino-1086442.aspx",
     "title": "Presidenta anuncia colocación de geomallas y diques para prevenir huaicos por El Niño",
     "snippet": "La presidenta de la república, Keiko Fujimori, anunció la colocación de 12 geomallas y 35 diques en diferentes quebradas de Santa Eulalia y Chosica, con la finalidad de garantizar la salvaguarda de los ciudadanos que viv...",
@@ -1285,68 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/argentina-puerto-quequen-completa-montaje-de-segundo-tramo-de-nueva-baliza-en-enfilamiento/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indecopi-ratifica-responsabilidad-medifarma-suero-defectuoso-y-dispone-reparacion-1086253.aspx",
-    "title": "Indecopi ratifica responsabilidad de Medifarma por suero defectuoso y dispone reparación",
-    "snippet": "La Sala Especializada en Protección al Consumidor de Indecopi confirmó, en última instancia, la sanción económica de 450 Unidades Impositivas Tributarias (UIT), equivalente a 2 millones 475,000 soles, impuesta a la empre...",
-    "date": "2026-08-04T20:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indecopi-ratifica-responsabilidad-medifarma-suero-defectuoso-y-dispone-reparacion-1086253.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149282",
-    "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-    "snippet": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app....",
-    "date": "2026-08-04T20:26:53",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=98085",
-    "title": "SynerPOS incorpora canje de cupones promocionales en kioscos de autoatención",
-    "snippet": "SynerPOS incorporó un módulo de gestión y validación de cupones promocionales para kioscos de autoatención, una funcionalidad que permite integrar descuentos y campañas comerciales directamente en el proceso de compra. C...",
-    "date": "2026-08-04T20:05:43",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/synerpos-incorpora-canje-de-cupones-promocionales-en-kioscos-de-autoatencion-ccl-asociados/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/eeuu-lleva-anos-vetando-acceso-a-chips-avanzados-a-china-gigante-asiatico-ha-movido-fichas-sus-propios-disenos",
-    "title": "EEUU lleva años vetando el acceso a chips avanzados a China. El gigante asiático ha movido fichas con sus propios diseños",
-    "snippet": "La guerra de los semiconductores no se libra únicamente en las fábricas, ni siquiera en las máquinas que permiten fabricar los chips más avanzados. También se libra en un terreno menos visible, pero igual de decisivo: lo...",
-    "date": "2026-08-04T20:01:43",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/eeuu-lleva-anos-vetando-acceso-a-chips-avanzados-a-china-gigante-asiatico-ha-movido-fichas-sus-propios-disenos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449234",
-    "title": "Miguel Palacios asume como presidente del directorio de Magallanes Puerto Sostenible",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Miguel Palacios fue elegido como el nuevo presidente del directorio de Magallanes Puerto Sostenible (MPS), la\nLa entrada Miguel Palacios asume como presidente del directorio...",
-    "date": "2026-08-04T20:00:14",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/miguel-palacios-asume-como-presidente-del-directorio-de-magallanes-puerto-sostenible/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449235",
-    "title": "México: Puerto Progreso recibe cargas para Proyecto Eólico Tizimín II",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Como parte de las operaciones logísticas para el desarrollo del Proyecto Eólico Tizimín II, el Puerto\nLa entrada México: Puerto Progreso recibe cargas para Proyecto Eólico T...",
-    "date": "2026-08-04T19:50:38",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/mexico-puerto-progreso-recibe-cargas-para-proyecto-eolico-tizimin-ii/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149087",
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "snippet": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories....",
-    "date": "2026-08-04T19:34:34",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "category": "MERCADO"
   }
 ]
