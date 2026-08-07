@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://lacamara.pe/?p=98259",
+    "title": "Cinco becarios peruanos son recibidos por la reina Letizia en España",
+    "snippet": "Cinco jóvenes peruanos fueron recibidos por la reina Letizia en el Palacio de la Zarzuela, en Madrid, durante un encuentro con becarios de programas educativos promovidos por la Fundación Microfinanzas BBVA. Los estudian...",
+    "date": "2026-08-07T22:55:17",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/cinco-becarios-peruanos-son-recibidos-por-la-reina-letizia-en-espana-ccl-asociados/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-experiencia-360%C2%B0-iiap-ofrece-recorrido-inmersivo-la-reserva-allpahuayo-mishana-video-1086687.aspx",
+    "title": "Experiencia 360°: IIAP ofrece recorrido inmersivo en la reserva Allpahuayo Mishana [video]",
+    "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad del Ministerio del Ambiente (Minam), presentó una producción audiovisual inmersiva que permite al público acompañar a sus investigadores durante el t...",
+    "date": "2026-08-07T22:47:41",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-experiencia-360%C2%B0-iiap-ofrece-recorrido-inmersivo-la-reserva-allpahuayo-mishana-video-1086687.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-atu-interviene-32-vehiculos-durante-operativo-contra-transporte-informal-los-olivos-1086684.aspx",
     "title": "ATU interviene 32 vehículos durante operativo contra transporte informal en Los Olivos",
     "snippet": "El paradero conocido como Primera de Pro, en la Panamericana Norte, distrito de Los Olivos, fue escenario de un nuevo operativo contra el transporte público informal, que realizó la Autoridad de Transporte urbano para Li...",
@@ -7,6 +25,15 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-atu-interviene-32-vehiculos-durante-operativo-contra-transporte-informal-los-olivos-1086684.aspx",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1700596",
+    "title": "Precio del dólar en Perú bajó a S/3,378, su menor cotización en cuatro meses: ¿a qué se debe?",
+    "snippet": "El viernes 7 de agosto, el dólar alcanzó su nivel más bajo desde abril, en una jornada marcada principalmente por un factor internacional, ¿qué pasó en Estados Unidos?...",
+    "date": "2026-08-07T22:25:22",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/dolar-en-peru-hoy-cerro-3378-soles-tipo-de-cambio-mas-bajo-en-cuatro-meses-a-que-se-debe-noticia-1700596",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://lacamara.pe/?p=98257",
@@ -1320,33 +1347,6 @@
     "date": "2026-08-06T18:16:52",
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/mejores-telescopios-solares-eclipse",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/eclipse-va-a-ser-gran-fiesta-espana-rural-para-aemet-riesgo-clarisimo-incendios",
-    "title": "El eclipse va a ser una gran fiesta en la España rural. Para AEMET el riesgo es clarísimo: más incendios",
-    "snippet": "Este 12 de agosto, un eclipse solar cruzará casi toda la mitad norte de la península, trazando una diagonal desde A Coruña hasta Palma y oscureciendo capitales como Oviedo, León, Bilbao, Zaragoza y Valencia. Este es un e...",
-    "date": "2026-08-06T18:00:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/eclipse-va-a-ser-gran-fiesta-espana-rural-para-aemet-riesgo-clarisimo-incendios",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150790",
-    "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
-    "snippet": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users....",
-    "date": "2026-08-06T17:39:47",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/australia-solo-sabe-hacer-cosas-a-grande-sus-aerogeneradores-grandes-miden-188-metros-palas-largas-como-dos-737",
-    "title": "Australia solo sabe hacer cosas a lo grande: sus aerogeneradores más grandes miden 188 metros y palas tan largas como dos 737",
-    "snippet": "En Australia, todo parece estar hecho a lo bestia. Desde animales gigantes o la gran barrera de coral (que se ve desde el espacio) hasta, ahora también, sus parques eólicos. La minera Fortescue está construyendo su prime...",
-    "date": "2026-08-06T17:30:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/australia-solo-sabe-hacer-cosas-a-grande-sus-aerogeneradores-grandes-miden-188-metros-palas-largas-como-dos-737",
     "category": "TRIBUTARIO"
   }
 ]
