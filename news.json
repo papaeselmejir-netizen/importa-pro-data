@@ -1,5 +1,86 @@
 [
   {
+    "id": "6a737f692d86c5682fc4860c",
+    "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
+    "snippet": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test....",
+    "date": "2026-08-07T18:54:04",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/solo-tiene-8-episodios-esta-top-10-prime-video-nueva-serie-veraniega-90-rotten-tomatoes",
+    "title": "Ocho episodios y ya está en el top ten de Prime Video: la nueva serie veraniega con más de un 90% en Rotten Tomatoes",
+    "snippet": "El verano está en su apogeo y las plataformas no aflojan el ritmo a la hora de estrenar historias veraniegas, fresquitas, fáciles de ver y maratonear, enfocadas al público joven. Hay quien espera con impaciencia el regre...",
+    "date": "2026-08-07T18:45:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/solo-tiene-8-episodios-esta-top-10-prime-video-nueva-serie-veraniega-90-rotten-tomatoes",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-callao-presenta-equipo-tecnologico-para-serenos-y-brigada-especial-turismo-1086651.aspx",
+    "title": "Callao presenta equipo tecnológico para serenos y brigada especial de turismo",
+    "snippet": "La Municipalidad Provincial del Callao presentó nuevo equipamiento para el Serenazgo y lanzó la Brigada Especial Turismo Callao, que brindará orientación y seguridad a los turistas que visitan el primer puerto. Vea aquí ...",
+    "date": "2026-08-07T18:31:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-callao-presenta-equipo-tecnologico-para-serenos-y-brigada-especial-turismo-1086651.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449877",
+    "title": "Terminal Puerto Coquimbo busca avanzar hacia exportación de productos del mar durante todo el año",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Terminal Puerto Coquimbo (TPC) busca consolidar la exportación de productos del mar durante todo el año.\nLa entrada Terminal Puerto Coquimbo busca avanzar hacia exportación ...",
+    "date": "2026-08-07T18:30:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/terminal-puerto-coquimbo-busca-avanzar-hacia-exportacion-de-productos-del-mar-durante-todo-el-ano/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-feria-agropecuaria-y-agroindustrial-consolida-a-moyobomba-como-epicentro-productivo-1086648.aspx",
+    "title": "Feria Agropecuaria y Agroindustrial consolida a Moyobomba como epicentro productivo",
+    "snippet": "Con un marco multitudinario de visitantes y la participación activa de productores, artesanos y emprendedores de diversos puntos del país, culminó con éxito la quincuagésima edición de la Feria Agropecuaria, Agroindustri...",
+    "date": "2026-08-07T18:26:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-feria-agropecuaria-y-agroindustrial-consolida-a-moyobomba-como-epicentro-productivo-1086648.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/nos-han-dicho-que-comer-mucha-proteina-acorta-vida-ciencia-tiene-mensaje-muy-diferente-para-tus-musculos",
+    "title": "Nos han dicho que comer mucha proteína acorta la vida. La ciencia tiene un mensaje muy diferente para tus músculos",
+    "snippet": "Basta con darse una vuelta por cualquier supermercado para comprobar que hay una gran cantidad de productos que anuncian que contienen una gran cantidad de proteína, llegando incluso hasta el pan, el queso, los batidos o...",
+    "date": "2026-08-07T18:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/nos-han-dicho-que-comer-mucha-proteina-acorta-vida-ciencia-tiene-mensaje-muy-diferente-para-tus-musculos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449763",
+    "title": "CMA CGM implementa recargo por bajo nivel de agua en el Amazonas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Para garantizar una navegación segura y mantener la continuidad del servicio desde y hacia el Puerto\nLa entrada CMA CGM implementa recargo por bajo nivel de agua en el Amazo...",
+    "date": "2026-08-07T18:00:00",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cma-cgm-implementa-recargo-por-bajo-nivel-de-agua-en-el-amazonas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976880",
+    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "snippet": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there ar...",
+    "date": "2026-08-07T17:43:34",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1700540",
+    "title": "Ministro de Economía Elmer Cuba advierte a quienes no pagan impuestos: \"van a enfrentar todo el peso de la ley\"",
+    "snippet": "El titular del MEF, Elmer Cuba, anunció la creación de una comisión presidencial para combatir la evasión del IGV y del Impuesto a la Renta. Aseguró que el objetivo no es subir impuestos, sino hacer que personas y empres...",
+    "date": "2026-08-07T17:43:27",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/mef-ministro-elmer-cuba-advierte-a-quienes-no-cumplen-con-pago-de-impuestos-todo-el-peso-de-ley-noticia-1700540",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://lacamara.pe/?p=98211",
     "title": "TAPP, la nueva plataforma de pagos del BCRP, permitirá ampliar servicios",
     "snippet": "El Banco Central de Reserva del Perú (BCRP) continúa avanzando en el desarrollo de TAPP (Transferencias Automáticas de Pagos Peruanos), la nueva infraestructura nacional de pagos inmediatos, la misma que permitirá amplia...",
@@ -36,6 +117,15 @@
     "category": "LOGÍSTICA"
   },
   {
+    "id": "https://portalportuario.cl/?p=449824",
+    "title": "Brasil: Terminal de Contenedores de Paranaguá moviliza un millón de TEU antes de lo previsto en 2025",
+    "snippet": "Por Redacción PortalPortuario  @PortalPortuario El lunes 3 de agosto, TCP, la empresa que administra la Terminal de Contenedores de Paranaguá,\nLa entrada Brasil: Terminal de Contenedores de Paranaguá moviliza un millón d...",
+    "date": "2026-08-07T17:30:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-terminal-de-contenedores-de-paranagua-movilizara-un-millon-de-teu-antes-de-lo-previsto-en-2025/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-tacna-inician-campana-sanitaria-para-proteger-a-mas-62000-camelidos-sudamericanos-1086640.aspx",
     "title": "Tacna: inician campaña sanitaria para proteger a más de 62,000 camélidos sudamericanos",
     "snippet": "Con el objetivo de prevenir la mortandad de camélidos sudamericanos en Tacna, ante la ocurrencia de heladas y descenso de temperatura, la Dirección Regional de Agricultura del Gobierno Regional (Gore) de Tacna, inició un...",
@@ -65,6 +155,15 @@
   {
     "id": "https://www.theverge.com/?p=976792",
     "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-Ray for $50",
+    "snippet": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see...",
+    "date": "2026-08-07T16:58:18",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976792",
+    "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
     "snippet": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see...",
     "date": "2026-08-07T16:58:18",
     "source": "THE VERGE",
@@ -1249,104 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/hmm-lanza-nuevo-servicio-en-africa-oriental-y-expande-red-en-el-continente/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-zelenski-reivindica-nuevos-ataques-contra-dos-refinerias-rusas-1086495.aspx",
-    "title": "Zelenski reivindica nuevos ataques contra dos refinerías rusas",
-    "snippet": "El presidente ucraniano, Volodímir Zelenski, reivindicó este jueves nuevos ataques contra refinerías situadas en la retaguardia rusa para limitar los ingresos que obtiene Moscú de las exportaciones de petróleo....",
-    "date": "2026-08-06T12:27:10",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-zelenski-reivindica-nuevos-ataques-contra-dos-refinerias-rusas-1086495.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/1939-hitler-queria-tener-coche-rapido-mundo-asi-que-mercedes-creo-t80-motor-caza",
-    "title": "En 1939, Hitler quería tener el coche más rápido del mundo: así que Mercedes creó el T80 con el motor de un caza",
-    "snippet": "El Museo de Mercedes-Benz en Stuttgart guarda algunas de las joyas más interesantes de la historia del motor. Personalmente, me parece visita obligada (te gusten o no los coches) si estamos de viaje en Stuttgart. De hech...",
-    "date": "2026-08-06T12:16:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/1939-hitler-queria-tener-coche-rapido-mundo-asi-que-mercedes-creo-t80-motor-caza",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-normas-legales-designan-a-presidenta-del-tribunal-fiscal-del-mef-1086493.aspx",
-    "title": "Normas Legales: designan a presidenta del Tribunal Fiscal del MEF",
-    "snippet": "El Poder Ejecutivo designó hoy a Clara Rossana Urteaga Goldstein como presidenta del Tribunal Fiscal del\nMinisterio de Economía y Finanzas (MEF)....",
-    "date": "2026-08-06T12:04:07",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-normas-legales-designan-a-presidenta-del-tribunal-fiscal-del-mef-1086493.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/calidad-esta-polemica-pelicula-terror-demuestra-que-no-queremos-producciones-partes-hechas-ia",
-    "title": "La última película de terror de moda lo tenía todo para triunfar. Hasta que se descubrió que había utilizado IA",
-    "snippet": "Se dice que el terror de bajo presupuesto es la mina de oro del cine actual gracias a películas como 'Backrooms' o 'Obsession': poca inversión, rápida amortización, sin necesidad de grandes estrellas a bordo... Sin embar...",
-    "date": "2026-08-06T12:00:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/calidad-esta-polemica-pelicula-terror-demuestra-que-no-queremos-producciones-partes-hechas-ia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2230773/samsung-qs90h-soundbar-review/",
-    "title": "Samsung QS90H soundbar review: An all-in-one promise fulfilled",
-    "snippet": "The QS90H actually delivers on the all-in-one soundbar promise thanks to new woofers and a unique driver layout....",
-    "date": "2026-08-06T12:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2230773/samsung-qs90h-soundbar-review/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/cada-vez-voces-apuntan-a-direccion-espana-portugal-abandonando-mundial-2030-a-marruecos",
-    "title": "Cada vez más voces apuntan a una dirección: España y Portugal abandonando el Mundial 2030 a Marruecos",
-    "snippet": "No importa si hablamos de deporte, música, política, religión o cualquier otra temática, pocas citas hay en el mundo capaces de generar el nivel de expectación de una final de la FIFA. Solo en EEUU siguieron el duelo de ...",
-    "date": "2026-08-06T11:43:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/cada-vez-voces-apuntan-a-direccion-espana-portugal-abandonando-mundial-2030-a-marruecos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/pregunta-ia-te-va-a-quitar-trabajo-muchos-trabajadores-china-conocen-respuesta-peor-forma",
-    "title": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma",
-    "snippet": "Durante años, la amenaza de que la inteligencia artificial sustituyera a los trabajadores sonó como un debate sobre el futuro. Ocurre que, en algunas ciudades de China, ese futuro ya ha llegado o está rozándolo con los d...",
-    "date": "2026-08-06T11:30:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/pregunta-ia-te-va-a-quitar-trabajo-muchos-trabajadores-china-conocen-respuesta-peor-forma",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/ninja-slushi-twist-nueva-maquina-granizados-para-casa-llega-doble-deposito-independiente-potencia-para-cocteles",
-    "title": "Ninja SLUSHi Twist: la nueva máquina de granizados para casa llega con doble depósito independiente y más potencia para cócteles",
-    "snippet": "Las máquinas de bebidas heladas y granizados han pasado de ser un pequeño electrodoméstico de nicho a ganar una gran popularidad en el ámbito doméstico. Tras el lanzamiento de su modelo original el año pasado, Ninja renu...",
-    "date": "2026-08-06T11:16:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/ninja-slushi-twist-nueva-maquina-granizados-para-casa-llega-doble-deposito-independiente-potencia-para-cocteles",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/google-fue-unica-tecnologica-que-aposto-realmente-ia-basada-ciencia-ahora-sabe-que-va-perdiendo",
-    "title": "Google fue la única tecnológica que apostó realmente por una IA basada en la ciencia. Ahora sabe que va perdiendo",
-    "snippet": "En 2014, Google compró DeepMind con la idea de perseguir un camino distinto para la inteligencia artificial. No había que crear productos, sino \"resolver la inteligencia\" para luego usarla en diversos campos científicos....",
-    "date": "2026-08-06T11:16:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/google-fue-unica-tecnologica-que-aposto-realmente-ia-basada-ciencia-ahora-sabe-que-va-perdiendo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-normas-legales-designan-a-tres-miembros-directorio-del-bcr-1086490.aspx",
-    "title": "Normas Legales: designan a tres miembros de directorio del BCR",
-    "snippet": "La Presidencia del Consejo de Ministros (PCM) oficializó hoy la designación de Inés Marylin Choy Chong, Luis Miguel Palomino Bonilla y Gustavo Adolfo Yamada Fukusaki como miembros de directorio del Banco Central de Reser...",
-    "date": "2026-08-06T11:16:15",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-normas-legales-designan-a-tres-miembros-directorio-del-bcr-1086490.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj639rx147eo#1",
-    "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
-    "snippet": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700....",
-    "date": "2026-08-06T11:06:26",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
