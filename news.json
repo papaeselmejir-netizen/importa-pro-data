@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=449628",
+    "title": "Puerto de San Petersburgo gestiona primer tren de nuevo servicio regular desde China",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario First Container Terminal (FCT), en el Great Port de San Petersburgo, perteneciente al grupo de estibadores\nLa entrada Puerto de San Petersburgo gestiona primer tren de nuevo...",
+    "date": "2026-08-08T03:59:58",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-san-petersburgo-gestiona-primer-tren-de-nuevo-servicio-regular-desde-china/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449945",
+    "title": "Rosatom afirma que siete buques chinos navegarán hacia Europa a través de ruta ártica rusa",
+    "snippet": "Por Redacción PortalPortuario / Agencia Reuters @PortalPortuario El gigante nuclear estatal ruso Rosatom, operador de la Ruta Marítima del Norte\nLa entrada Rosatom afirma que siete buques chinos navegarán hacia Europa a ...",
+    "date": "2026-08-08T03:30:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rosatom-afirma-que-siete-buques-chinos-navegaran-hacia-europa-a-traves-de-ruta-artica-rusa/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1700628",
+    "title": "Proinversión realizó primera subasta pública de inmuebles de Petroperú",
+    "snippet": "La adjudicación del \"Chalet Paillardelle\" y el ex Petrocentro Cañete marca el inicio de la monetización de activos no estratégicos de la petrolera estatal....",
+    "date": "2026-08-08T03:30:08",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/proinversion-realizo-con-exito-primera-subasta-publica-de-inmuebles-de-petroperu-noticia-1700628",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-proinversion-realiza-primera-subasta-publica-inmuebles-petroperu-1086715.aspx",
     "title": "ProInversión realiza primera subasta pública de inmuebles de Petroperú",
     "snippet": "Como parte del proceso de reorganización patrimonial y operativa de Petroperú, la Agencia de Promoción de la Inversión Privada (ProInversión) realizó esta tarde la primera subasta pública del primer grupo de activos no e...",
@@ -1321,32 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-minam-destaca-gestion-compartida-los-pueblos-indigenas-para-conservar-amazonia-1086567.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449697",
-    "title": "Uruguay: Prueban nuevas balanzas de proyecto Acceso Norte del Puerto de Montevideo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El proyecto de modernización del Acceso Norte en el Puerto de Montevideo avanzó con la realización\nLa entrada Uruguay: Prueban nuevas balanzas de proyecto Acceso Norte del P...",
-    "date": "2026-08-06T21:14:17",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/uruguay-prueban-nuevas-balanzas-de-proyecto-acceso-norte-del-puerto-de-montevideo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-yemen-ataques-los-rebeldes-huties-dejan-al-menos-58-militares-muertos-1086559.aspx",
-    "title": "Yemen: ataques de los rebeldes hutíes dejan al menos 58 militares muertos",
-    "snippet": "Los ataques con misiles y drones de los rebeldes hutíes en Yemen este jueves dejaron al menos 58 soldados muertos y decenas de heridos, según indicaron a AFP dos fuentes médicas, uno de los balances más mortíferos desde ...",
-    "date": "2026-08-06T20:34:28",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-yemen-ataques-los-rebeldes-huties-dejan-al-menos-58-militares-muertos-1086559.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tumbes-policias-reciben-amenazas-muerte-presunta-organizacion-criminal-1086547.aspx",
-    "title": "Tumbes: policías reciben amenazas de muerte de presunta organización criminal",
-    "snippet": "Los efectivos de la comisaría de Puerto Pizarro, en la región Tumbes, vienen siendo blanco de amenazas de muerte, por parte de presuntos integrantes de la organización criminal \"El Clan de la Nueva Generación\", confirmó ...",
-    "date": "2026-08-06T20:06:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tumbes-policias-reciben-amenazas-muerte-presunta-organizacion-criminal-1086547.aspx",
-    "category": "LOGÍSTICA"
   }
 ]
