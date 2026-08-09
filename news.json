@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/rio-yangtse-estaba-al-borde-colapso-china-esta-salvando-hay-alguien-que-esta-pagando-factura",
+    "title": "El río Yangtsé estaba al borde del colapso: China ha decidido salvarlo, pero hay alguien pagando la factura",
+    "snippet": "El Yangtsé es el río más largo de Asia y la arteria vital de 400 millones de personas, pero durante siete décadas ha sido tratado como una fuente inagotable de recursos y un vertedero: con industrias diseminadas en sus r...",
+    "date": "2026-08-09T10:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/rio-yangtse-estaba-al-borde-colapso-china-esta-salvando-hay-alguien-que-esta-pagando-factura",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/entrevistas/todavia-no-hemos-encontrado-limite-pequeno-estudio-jaen-cree-tener-formula-magica-para-adaptar-experiencias-vr-a-cualquier-sector",
     "title": "\"No hemos encontrado el límite\": un pequeño estudio de Jaén cree tener la fórmula para adaptar experiencias VR a cualquier sector",
     "snippet": "La sensación que tengo cuando hablo con amigos, compañeros de trabajo o expertos de la industria sobre la realidad virtual en videojuegos es que todo está un poco parado. Tuvo un momento de gran esplendor cuando Oculus d...",
@@ -936,6 +945,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://rpp.pe/1700518",
+    "title": "MEF anuncia que aumento del sueldo mínimo a S/1.300 se dará en dos partes: primero S/100 y luego S/70",
+    "snippet": "El ministro de Economía, Elmer Cuba, explicó que el incremento de la Remuneración Mínima Vital (RMV), anunciado por Keiko Fujimori en su mensaje del 28 de julio, se ejecutará de manera gradual para paliar un impacto sobr...",
+    "date": "2026-08-07T21:15:12",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/mef-anuncia-que-aumento-del-sueldo-minimo-a-s-1300-se-dara-en-dos-partes-primero-s-100-y-luego-s-70-desde-cuando-noticia-1700518",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mef-destaca-nombramiento-nuevo-directorio-para-reflotar-petroperu-1086678.aspx",
     "title": "MEF destaca nombramiento de nuevo directorio para reflotar Petroperú",
     "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, destacó hoy el nombramiento del nuevo directorio de la empresa estatal Petroperú, que estará liderado por Oliver Stark Preuss....",
@@ -1330,23 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/moviles/apple-se-ha-encontrado-problema-tiene-10-000-millones-dolares-chips-atascados-dram-culpable-tim-culpan",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sismos-peru-cuantos-han-ocurrido-hasta-hoy-y-cuales-han-causado-mas-danos-1086627.aspx",
-    "title": "Sismos en Perú: ¿Cuántos han ocurrido hasta hoy y cuáles han causado más daños?",
-    "snippet": "Al encontrarse en el llamado “Cinturón de fuego del Pacífico”, el Perú es escenario constante de eventos sísmicos en diversas partes de su territorio.  Por ello. Cabe preguntarse: ¿Cuántos sismos se han reportado en lo q...",
-    "date": "2026-08-07T16:12:04",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sismos-peru-cuantos-han-ocurrido-hasta-hoy-y-cuales-han-causado-mas-danos-1086627.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-sueldo-minimo-se-incrementara-a-s-1300-dos-etapas-aumento-s-100-primero-1086633.aspx",
-    "title": "MEF: sueldo mínimo se incrementará a S/ 1,300 en dos etapas con aumento de S/ 100 primero",
-    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, señaló que el sueldo mínimo se incrementará a 1,300 soles en dos etapas con un aumento de 100 soles en una primera oportunidad....",
-    "date": "2026-08-07T16:11:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-sueldo-minimo-se-incrementara-a-s-1300-dos-etapas-aumento-s-100-primero-1086633.aspx",
-    "category": "MERCADO"
   }
 ]
