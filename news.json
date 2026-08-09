@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-iran-afirma-ormuz-seguira-bloqueado-hasta-eeuu-acepte-todas-sus-condiciones-1086854.aspx",
+    "title": "Irán afirma que Ormuz seguirá bloqueado hasta que EE.UU. acepte todas sus condiciones",
+    "snippet": "Los Guardianes de la Revolución de Irán afirmaron este domingo que mantendrán el bloqueo del estrecho de Ormuz, una vía crucial para la economía mundial, hasta que Estados Unidos acepte todas las exigencias de Teherán, e...",
+    "date": "2026-08-09T18:28:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iran-afirma-ormuz-seguira-bloqueado-hasta-eeuu-acepte-todas-sus-condiciones-1086854.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/1979-hombre-decidio-plantar-arboles-cada-dia-para-frenar-erosion-hoy-tiene-bosque-4-veces-grande-que-retiro",
+    "title": "En 1979, un hombre decidió plantar árboles cada día para frenar la erosión. Hoy tiene un bosque gigantesco",
+    "snippet": "En 2015, el activista ambiental indio Jadav \"Molai\" Payeng recibió el Padma Shri, uno de los galardones civiles más prestigiosos que se pueden recibir en su país. ¿El motivo? Dedicar buena parte de su vida a plantar árbo...",
+    "date": "2026-08-09T18:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/1979-hombre-decidio-plantar-arboles-cada-dia-para-frenar-erosion-hoy-tiene-bosque-4-veces-grande-que-retiro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449527",
+    "title": "Estudio determina que actividad portuaria de Hirtshals ocupa a 10% de trabajadores de Hjørring",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un análisis realizado por EY muestra que las actividades en el Puerto de Hirtshals y sus\nLa entrada Estudio determina que actividad portuaria de Hirtshals ocupa a 10% de tra...",
+    "date": "2026-08-09T18:00:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estudio-determina-que-actividad-portuaria-de-hirtshals-ocupa-a-10-de-trabajadores-de-hjorring/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/no-hay-disponibilidad-100-esta-alquilado-pensabas-alquilar-caravana-para-ver-eclipse-tenemos-malas-noticias",
+    "title": "\"Ya no hay disponibilidad. El 100% está alquilado\": si pensabas alquilar una caravana para ver el eclipse, tenemos malas noticias",
+    "snippet": "¿Hasta dónde estarías dispuesto a llegar por disfrutar de algo durante menos de dos minutos? ¿Cambiarías tus vacaciones? ¿Pagarías un sobreprecio por alquilar una casa en mitad de la nada? Es lo que muchos aficionados a ...",
+    "date": "2026-08-09T17:31:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/no-hay-disponibilidad-100-esta-alquilado-pensabas-alquilar-caravana-para-ver-eclipse-tenemos-malas-noticias",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/rosa-taberner-dermatologa-fotoproteccion-fisica-barata-que-crema-altamente-eficaz-no-tienes-que-reaplicar",
     "title": "Rosa Taberner, dermatóloga: \"La fotoprotección física es más barata que la crema, es eficaz y no tienes que reaplicar\"",
     "snippet": "Este verano hay una imagen que se repite cada vez más en playas y calles: gente cubierta con manga larga, sombreros anchos o directamente con paraguas, bajo un sol de justicia. Hace unos años esto solo se veía en países ...",
@@ -66,6 +102,15 @@
     "id": "https://portalportuario.cl/?p=449786",
     "title": "Seaspan será el primer armador y operador internacional en acceder al mercado de bonos Panda de China",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Seaspan Corporation anunció la emisión de un bono Panda por valor de 1.500 millones de RMB\nLa entrada Seaspan será el primer armador y operador internacional en acceder al m...",
+    "date": "2026-08-09T16:00:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/seaspan-sera-el-primer-armador-y-operador-internacional-en-acceder-al-mercado-de-bonos-panda-de-china/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=449786",
+    "title": "Seaspan será primer armador y operador internacional en acceder al mercado de bonos Panda de China",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La emisión de un bono Panda por 1.500 millones de RMB en China representa un hito\nLa entrada Seaspan será primer armador y operador internacional en acceder al mercado de bo...",
     "date": "2026-08-09T16:00:12",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/seaspan-sera-el-primer-armador-y-operador-internacional-en-acceder-al-mercado-de-bonos-panda-de-china/",
@@ -1302,51 +1347,6 @@
     "date": "2026-08-07T19:44:33",
     "source": "INDECOPI",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2ttU3Z5WGtZdnN6Q3ptS1RLUUlfbi1RUkRfeVVjRl9nakRaY1NMUXh2TWMwWERiYTJHdjZ5WTRmcXgzSHlyYkRUSkpESnp6RE92NWhDTTk1WkYzYjVXSUZLUldGZS1SdkVoaXlsbHhsSEZITjI0QnluOElDTkJRV1JZZENabDVaMlJSVVd6QjVKNUh1cmZCSlFWODRRWXZMT3NoYXprLTRPbnA4QTFDdVg1TUZKWWRvQzdZanAxc3QydlhwZVRsaFV5d0drRlBtNkZJ?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/24-zonas-trabajo-gruas-400-toneladas-casi-116-metros-altura-spacex-esta-levantando-otra-megaestructura-eeuu",
-    "title": "24 zonas de trabajo, grúas de 400 toneladas y casi 116 metros de altura: SpaceX está levantando otra megaestructura en EEUU",
-    "snippet": "Estados Unidos tiene una forma muy particular de construir grande: no siempre para levantar el edificio más alto ni el más llamativo, sino para resolver problemas que se salen de la escala normal. Grand Central Terminal ...",
-    "date": "2026-08-07T19:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/24-zonas-trabajo-gruas-400-toneladas-casi-116-metros-altura-spacex-esta-levantando-otra-megaestructura-eeuu",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=98221",
-    "title": "Gobierno propone mover los feriados a los viernes para impulsar el turismo",
-    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, anunció que el Gobierno plantea trasladar la mayoría de los feriados nacionales a los viernes. La medida busca fortalecer el turismo interno y reducir el impacto que genera...",
-    "date": "2026-08-07T19:07:18",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/gobierno-propone-mover-los-feriados-a-los-viernes-para-impulsar-el-turismo/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1700552",
-    "title": "MEF apunta a profesionales independientes que no tributan: \"cada uno sabe quién es y los vamos a monitorear\"",
-    "snippet": "El ministro de Economía, Elmer Cuba, señaló que la estrategia del Gobierno para reducir la evasión tributaria pondrá especial atención en los profesionales independientes que generan ingresos, pero no los declaran. Indic...",
-    "date": "2026-08-07T19:06:34",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/mef-advierte-a-trabajadores-independiente-que-no-tributan-en-sunat-los-vamos-a-monitorear-noticia-1700552",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/xataka-xtra/que-televisor-1-000-euros-me-recomendais-esto-que-recomendamos",
-    "title": "¿Qué televisor de menos de 1.000 euros me recomendáis? - Esto es lo que recomendamos",
-    "snippet": "El televisor es uno de nuestros dispositivos qué más vamos a utilizar en nuestra casa, y no es algo que cambiemos cada dos años, sino que solemos mantenerlo durante mucho tiempo. Por eso, comprar una nueva tele es un mom...",
-    "date": "2026-08-07T19:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/xataka-xtra/que-televisor-1-000-euros-me-recomendais-esto-que-recomendamos",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449886",
-    "title": "Avanza construcción de nuevas vías del proyecto de extensión Tren Temuco-Gorbea",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un 20% de avance registran las obras de reposición de la infraestructura del proyecto de extensión\nLa entrada Avanza construcción de nuevas vías del proyecto de extensión Tr...",
-    "date": "2026-08-07T19:00:58",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/avanza-construccion-de-nuevas-vias-del-proyecto-de-extension-tren-temuco-gorbea/",
     "category": "MERCADO"
   }
 ]
