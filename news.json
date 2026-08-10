@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-julio-2027-peru-creceria-entre-4-y-5-tendencia-a-baja-de-pobreza-1086942.aspx",
+    "title": "MEF: en julio de 2027 Perú crecería entre 4% y 5% con tendencia a la baja de la pobreza",
+    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, proyectó que para julio del próximo año la economía peruana debería estar creciendo a un ritmo anual de 4% o 5% con una tendencia a la baja en los indicadores de pobreza....",
+    "date": "2026-08-10T18:41:25",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-julio-2027-peru-creceria-entre-4-y-5-tendencia-a-baja-de-pobreza-1086942.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151571",
+    "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+    "snippet": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores....",
+    "date": "2026-08-10T18:31:54",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/oceano-acaba-batir-su-record-historico-absoluto-temperatura-20-96-c-que-nos-asoman-a-territorio-desconocido",
+    "title": "El océano acaba de batir su récord histórico absoluto de temperatura: 20,96 °C que nos asoman a un territorio desconocido",
+    "snippet": "El mar está absorbiendo las consecuencias de un planeta cada vez más caliente, y los datos no dejan lugar a dudas. Según las últimas mediciones, el mes pasado ha pasado a la historia de la climatología, puesto que el océ...",
+    "date": "2026-08-10T18:31:18",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/oceano-acaba-batir-su-record-historico-absoluto-temperatura-20-96-c-que-nos-asoman-a-territorio-desconocido",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151567",
+    "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+    "snippet": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation....",
+    "date": "2026-08-10T18:30:33",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1700665",
+    "title": "Feriados en Perú: MEF corrige propuesta y anuncia que se trasladarán a los lunes para no afectar la actividad productiva de empresas",
+    "snippet": "Ya no viernes. El ministro de Economía, Elmer Cuba, señaló ahora que feriados se trasladarán a los lunes. La medida empezaría a aplicarse en 2027 y busca reducir las interrupciones de la actividad empresarial....",
+    "date": "2026-08-10T18:30:17",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/feriados-en-peru-mef-cambia-propuesta-y-ahora-plantea-trasladarlos-a-lunes-para-no-afectar-la-actividad-productiva-de-las-empresas-noticia-1700665",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/streaming/hoy-netflix-esta-basada-escalofriante-historia-real-entra-continuamente-listas-mejor-siglo-xxi",
+    "title": "Hoy en Netflix: está basada en una escalofriante historia real y entra continuamente en las listas de lo mejor del siglo XXI",
+    "snippet": "Pasan los años y 'Zodiac' sigue figurando como una de las mejores películas de todos los tiempos. Por ejemplo, en 2025 el New York Times publicó la votación de más de 500 cineastas, actores y críticos y acabó en el puest...",
+    "date": "2026-08-10T18:15:18",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/streaming/hoy-netflix-esta-basada-escalofriante-historia-real-entra-continuamente-listas-mejor-siglo-xxi",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/enrique-perez-astrofisico-sonificacion-eclipse-para-personas-ciegas-luminosidad-alta-se-representa-timbre-flauta",
+    "title": "Enrique Pérez, astrofísico, sobre la sonificación del eclipse para personas ciegas: “la luminosidad más alta se representa con timbre de flauta”",
+    "snippet": "El eclipse solar de este miércoles va a ser un espectáculo para los sentidos. Para todos los sentidos. Por eso, no es justo dejar fuera a quienes se encuentran privados de alguno de ellos. Las personas ciegas pueden expe...",
+    "date": "2026-08-10T18:01:19",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/enrique-perez-astrofisico-sonificacion-eclipse-para-personas-ciegas-luminosidad-alta-se-representa-timbre-flauta",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/seleccion/vpn-esas-cosas-que-nunca-sobra-cuando-nos-vamos-vacaciones-esta-mejores-tiene-descuentazo",
     "title": "Una VPN es una de esas cosas que nunca sobra cuando nos vamos de vacaciones: esta es una de las mejores y tiene descuentazo",
     "snippet": "Estás de viaje, no tienes buena cobertura y tienes una red WiFi pública a mano (como la de un aeropuerto o la de una cafetería). Puedes conectarte sin más, pero lo ideal es no hacerlo así, puesto que no sabes la segurida...",
@@ -1284,69 +1347,6 @@
     "date": "2026-08-08T20:00:00",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-curazao-por-esta-isla-se-esta-convirtiendo-el-destino-favorito-los-peruanos-1086767.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-confiep-respalda-propuesta-del-mef-trasladar-feriados-a-los-lunes-1086780.aspx",
-    "title": "Confiep respalda la propuesta del MEF de trasladar feriados a los lunes",
-    "snippet": "La Confederación Nacional de Instituciones Empresariales Privadas (Confiep) anunció su respaldo a la propuesta del Ministerio de Economía y Finanzas (MEF) de trasladar los feriados en Perú a los lunes....",
-    "date": "2026-08-08T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-confiep-respalda-propuesta-del-mef-trasladar-feriados-a-los-lunes-1086780.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/incendio-notre-dame-paris-solo-queria-reconstruirla-darle-sombra-arboles-tierra-le-devolvio-lutecia",
-    "title": "Tras el incendio de Notre-Dame, París solo quería reconstruirla y darle sombra con árboles: la tierra le devolvió Lutecia",
-    "snippet": "Parece que fue ayer y ya ha pasado casi una década desde que Notre-Dame ardió. Las imágenes de las llamas y los desperfectos eran impactantes, y aunque pudo ser peor, los daños fueron cuantiosos. La catedral cerró, fue r...",
-    "date": "2026-08-08T19:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/incendio-notre-dame-paris-solo-queria-reconstruirla-darle-sombra-arboles-tierra-le-devolvio-lutecia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449814",
-    "title": "ZTT Submarine Cable & System lanza el buque tendecables autopropulsado más avanzado de China",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario ZTT Submarine Cable &#38; System anunció el lanzamiento del Lan Hai Ling Hang, un buque tendidor\nLa entrada ZTT Submarine Cable &#038; System lanza el buque tendecables auto...",
-    "date": "2026-08-08T19:00:39",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ztt-submarine-cable-system-lanza-el-buque-tendecables-autopropulsado-mas-avanzado-de-china/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-insn-se-incrementan-casos-respiratorios-ninos-ante-cambios-bruscos-clima-1086762.aspx",
-    "title": "INSN: se incrementan casos respiratorios en niños ante cambios bruscos de clima",
-    "snippet": "Ante los cambios bruscos de clima causado por el Fenómeno de El Niño, los casos de afecciones respiratorias en pacientes pediátricos han ido en aumento en las últimas semanas. El Servicio de Emergencia del Instituto Naci...",
-    "date": "2026-08-08T19:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-insn-se-incrementan-casos-respiratorios-ninos-ante-cambios-bruscos-clima-1086762.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sismo-junin-indeci-envia-mas-111-toneladas-bienes-ayuda-humanitaria-1086771.aspx",
-    "title": "Sismo en Junín: Indeci envía más de 111 toneladas de bienes de ayuda humanitaria",
-    "snippet": "El Instituto Nacional de Defensa Civil (Indeci), en el marco de las acciones de respuesta dispuestas por el Gobierno nacional, realizará en las próximas horas un nuevo envío de 111.04 toneladas de Bienes de Ayuda Humanit...",
-    "date": "2026-08-08T18:37:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sismo-junin-indeci-envia-mas-111-toneladas-bienes-ayuda-humanitaria-1086771.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/hoy-netflix-secuela-esta-miniserie-netflix-que-adapta-uno-100-mejores-libros-todos-tiempos",
-    "title": "Hoy en Netflix, la secuela de esta miniserie de Netflix, que adapta uno de los 100 mejores libros de todos los tiempos",
-    "snippet": "Gabriel García Márquez se pasó toda la vida rechazando cualquier intento de llevar su novela más reconocida, 'Cien años de soledad', a la pantalla. El veto se esfumó después de su muerte, cuando sus hijos, hoy productore...",
-    "date": "2026-08-08T18:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/hoy-netflix-secuela-esta-miniserie-netflix-que-adapta-uno-100-mejores-libros-todos-tiempos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-empresas-cuatro-cambios-a-considerar-para-construir-experiencias-mas-relevantes-ia-1086764.aspx",
-    "title": "Empresas: cuatro cambios a considerar para construir experiencias más relevantes con IA",
-    "snippet": "Durante años las empresas compitieron por abrir más canales de atención, responder más rápido y automatizar más procesos. Sin embargo, la llegada de la inteligencia artificial (IA) generativa y los sistemas agénticos est...",
-    "date": "2026-08-08T18:06:41",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-empresas-cuatro-cambios-a-considerar-para-construir-experiencias-mas-relevantes-ia-1086764.aspx",
     "category": "MERCADO"
   }
 ]
