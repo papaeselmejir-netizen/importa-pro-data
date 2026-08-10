@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
+    "title": "Cronograma de pagos 2026 de sueldos y pensiones en el Estado peruano",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
+    "date": "2026-08-10T19:50:31",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
+    "title": "Meta quiere plantar cara a OpenAI y Google con un arma muy particular: una IA potente que funciona offline en tu ordenador",
+    "snippet": "Nos hemos acostumbrado a utilizar modelos de inteligencia artificial sin pensar demasiado en dónde están funcionando. Escribimos una pregunta desde el móvil o el ordenador, pero buena parte del cálculo ocurre en centros ...",
+    "date": "2026-08-10T19:31:18",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-daniella-rosas-conquista-qs-4000-brasil-y-se-consolida-el-surf-sudamericano-1086956.aspx",
+    "title": "Daniella Rosas conquista el QS 4000 de Brasil y se consolida en el surf sudamericano",
+    "snippet": "La surfista peruana Daniella Rosas, integrante del Programa Lima 2027 del Instituto Peruano del Deporte (IPD), alcanzó un nuevo título internacional al coronarse campeona de la etapa QS 4000 del Circuito Banco do Brasil ...",
+    "date": "2026-08-10T19:29:51",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-daniella-rosas-conquista-qs-4000-brasil-y-se-consolida-el-surf-sudamericano-1086956.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=977581",
+    "title": "Bluesky now lets you hide reposts from that annoying person you follow",
+    "snippet": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of th...",
+    "date": "2026-08-10T19:26:50",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=98347",
+    "title": "Economía peruana crecería hasta 4 % en 2026, según el MEF",
+    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, estimó que la economía peruana podría crecer entre 3.5 % y 4 % al cierre de 2026, pese al impacto del fenómeno El Niño Costero sobre algunas actividades productivas. “Este ...",
+    "date": "2026-08-10T19:25:10",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/economia-peruana-creceria-hasta-4-en-2026-segun-el-mef/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=977489",
+    "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
+    "snippet": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members...",
+    "date": "2026-08-10T19:14:27",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-concursos-proinnovate-10-startups-cusco-reciben-s-624000-fondos-no-reembolsables-1086949.aspx",
+    "title": "Concursos ProInnóvate: 10 startups de Cusco reciben S/ 624,000 de fondos no reembolsables",
+    "snippet": "Diez proyectos de emprendedores y startups de Cusco, con alto potencial, accederán en su conjunto a una inversión de 624,000 soles en fondos no reembolsables que otorgará ProInnóvate a los ganadores de la primera convoca...",
+    "date": "2026-08-10T19:11:05",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-concursos-proinnovate-10-startups-cusco-reciben-s-624000-fondos-no-reembolsables-1086949.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4822511",
+    "title": "Report: Analyst Shatters Expectations of an All-Glass iPhone",
+    "snippet": "Reportedly, not enough defect-free units were produced....",
+    "date": "2026-08-10T19:01:21",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/report-analyst-shatters-expectations-of-an-all-glass-iphone/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/confiar-applecare-para-fotografiar-eclipse-parece-razonable-letra-pequena-seguro-tiene-algo-que-decir",
+    "title": "Confiar en AppleCare+ para fotografiar el eclipse parece razonable. La letra pequeña del seguro tiene algo que decir",
+    "snippet": "El próximo 12 de agosto, cuando el eclipse total de Sol cruce España al atardecer, será difícil resistirse a levantar el móvil y tratar de guardar la escena. Algunos quizá preparen un filtro para la cámara; otros pueden ...",
+    "date": "2026-08-10T19:01:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/confiar-applecare-para-fotografiar-eclipse-parece-razonable-letra-pequena-seguro-tiene-algo-que-decir",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=450135",
+    "title": "Solicitan establecer una hoja de ruta clara ante cambios de plazos de licitaciones del Puerto Exterior de San Antonio",
+    "snippet": "Por Gabriel Campos Roullet  @PortalPortuario Claridad en la hoja de ruta es el principal requerimiento de distintos actores en relación\nLa entrada Solicitan establecer una hoja de ruta clara ante cambios de plazos de lic...",
+    "date": "2026-08-10T19:00:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/solicitan-establecer-una-hoja-de-ruta-clara-ante-cambios-de-plazos-de-licitaciones-del-puerto-exterior-de-san-antonio/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mef-julio-2027-peru-creceria-entre-4-y-5-tendencia-a-baja-de-pobreza-1086942.aspx",
     "title": "MEF: en julio de 2027 Perú crecería entre 4% y 5% con tendencia a la baja de la pobreza",
     "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, proyectó que para julio del próximo año la economía peruana debería estar creciendo a un ritmo anual de 4% o 5% con una tendencia a la baja en los indicadores de pobreza....",
@@ -1258,95 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/tps-atiende-escala-inaugural-de-portacontenedores-msc-senegal/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151379",
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "snippet": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States....",
-    "date": "2026-08-08T21:24:02",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151379",
-    "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-    "snippet": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040....",
-    "date": "2026-08-08T21:24:02",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cusco-avanza-proteccion-bosques-del-araza-fuente-agua-para-sur-peruano-1086775.aspx",
-    "title": "Cusco avanza en protección de Bosques del Araza, fuente de agua para el sur peruano",
-    "snippet": "La región Cusco busca crear su sexta Área de Conservación Regional (ACR) en los Bosques del Araza, un territorio estratégico por su alta biodiversidad y por albergar una de las cuencas más importantes en la Amazonía....",
-    "date": "2026-08-08T21:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cusco-avanza-proteccion-bosques-del-araza-fuente-agua-para-sur-peruano-1086775.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-congreso-presentan-proyecto-ley-para-impedir-alcaldes-postulen-como-regidores-1086769.aspx",
-    "title": "Congreso: presentan proyecto de ley para impedir que alcaldes postulen como regidores",
-    "snippet": "El diputado Víctor Eduardo Piñán Mamani presentó un proyecto de ley que busca modificar el artículo 8 de la Ley de Elecciones Municipales, con la finalidad de impedir que los alcaldes provinciales y distritales, que tien...",
-    "date": "2026-08-08T20:57:08",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-congreso-presentan-proyecto-ley-para-impedir-alcaldes-postulen-como-regidores-1086769.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-congreso-presentan-proyecto-ley-para-impedir-alcaldes-postulen-a-regidores-1086769.aspx",
-    "title": "Congreso: presentan proyecto de ley para impedir que alcaldes postulen a regidores",
-    "snippet": "El diputado Víctor Eduardo Piñán Mamani presentó un proyecto de ley que busca modificar el artículo 8 de la Ley de Elecciones Municipales, con la finalidad de impedir que los alcaldes provinciales y distritales, que tien...",
-    "date": "2026-08-08T20:57:08",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-congreso-presentan-proyecto-ley-para-impedir-alcaldes-postulen-a-regidores-1086769.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=449746",
-    "title": "Puerto de Nanaimo marca impacto económico de USD 1.700 millones en 2025",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un estudio independiente sobre el impacto económico confirma que el Puerto de Nanaimo es un importante\nLa entrada Puerto de Nanaimo marca impacto económico de USD 1.700 mill...",
-    "date": "2026-08-08T20:00:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-nanaimo-marca-impacto-economico-de-usd-1-700-millones-en-2025/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1700700",
-    "title": "“Es una medida positiva”: Confiep a favor de propuesta de trasladar los feriados a los lunes",
-    "snippet": "Para el titular del gremio empresarial, la iniciativa del Ejecutivo permite, entre otras cosas, maximizar los beneficios para el sector turismo....",
-    "date": "2026-08-08T20:00:04",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/confiep-a-favor-de-propuesta-de-trasladar-los-feriados-a-los-lunes-es-una-medida-positiva-noticia-1700700",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-curazao-por-esta-isla-se-esta-convirtiendo-el-destino-favorito-los-peruanos-1086767.aspx",
-    "title": "Curazao: ¿Por qué esta isla se está convirtiendo en el destino favorito de los peruanos?",
-    "snippet": "El turismo hacia Curaçao sigue ganando terreno entre los viajeros sudamericanos y, especialmente, entre los peruanos. De acuerdo con la Oficina de Turismo de Curazao, durante 2025 la isla recibió 6,432 visitantes proveni...",
-    "date": "2026-08-08T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-curazao-por-esta-isla-se-esta-convirtiendo-el-destino-favorito-los-peruanos-1086767.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-confiep-respalda-propuesta-del-mef-trasladar-los-feriados-a-los-lunes-1086780.aspx",
-    "title": "Confiep respalda propuesta del MEF trasladar los feriados a los lunes",
-    "snippet": "La Confederación Nacional de Instituciones Empresariales Privadas (Confiep) anunció su respaldo a la propuesta del Ministerio de Economía y Finanzas (MEF) de trasladar los feriados en Perú a los lunes....",
-    "date": "2026-08-08T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-confiep-respalda-propuesta-del-mef-trasladar-los-feriados-a-los-lunes-1086780.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-curazao-por-esta-isla-se-esta-convirtiendo-el-destino-favorito-los-peruanos-1086767.aspx",
-    "title": "Curazao: ¿por qué esta isla se está convirtiendo en el destino favorito de los peruanos?",
-    "snippet": "El turismo hacia Curaçao sigue ganando terreno entre los viajeros sudamericanos y, especialmente, entre los peruanos. De acuerdo con la Oficina de Turismo de Curazao, durante 2025 la isla recibió 6,432 visitantes proveni...",
-    "date": "2026-08-08T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-curazao-por-esta-isla-se-esta-convirtiendo-el-destino-favorito-los-peruanos-1086767.aspx",
-    "category": "MERCADO"
   }
 ]
