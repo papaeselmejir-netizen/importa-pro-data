@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363522/hong-kong-no-longer-western-playground-and-its-not-looking-back?utm_source=rss_feed",
+    "title": "Hong Kong is no longer a Western playground – and it’s not looking back",
+    "snippet": "When it comes to bad prognostication, no one can beat Fortune, which came up with the mother of all “Hong Kong is doomed” narratives. In June 1995, the magazine ran its infamous “The Death of Hong Kong” cover story, pred...",
+    "date": "2026-08-12T01:30:05",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363522/hong-kong-no-longer-western-playground-and-its-not-looking-back?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1701076",
+    "title": "Senador Jaime Delgado solicita al MEF información sobre reactivación del FEPC ante alza de precio de combustibles",
+    "snippet": "El senador de Ahora Nación, Jaime Delgado Zegarra, solicitó mediante un oficio al titular del MEF, Elmer Cuba, la reactivación del Fondo de Estabilización de Precios de los Combustibles (FEPC), en medio del alza del prec...",
+    "date": "2026-08-12T01:15:43",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/politica/congreso/senador-jaime-delgado-solicita-al-mef-informacion-sobre-reactivacion-del-fepc-ante-alza-de-precio-de-combustibles-noticia-1701076",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=450327",
+    "title": "Puerto de Motril prevé USD 110 millones de inversión pública y privada para impulsar infraestructura, sostenibilidad y competitividad",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto de Motril presentó su Plan de Inversiones, validado por el Consejo Rector de Puertos del\nLa entrada Puerto de Motril prevé USD 110 millones de inversión pública y pri...",
+    "date": "2026-08-12T01:00:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-motril-preve-usd-110-millones-de-inversion-publica-y-privada-para-impulsar-infraestructura-sostenibilidad-y-competitividad/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1701082",
+    "title": "Colegio de Economistas de Lima lleva al TC ley sobre pensiones de policías y militares y prepara demanda contra norma para docentes",
+    "snippet": "El Colegio de Economistas de Lima presentó el 14 de julio su primera demanda de inconstitucionalidad ante el Tribunal Constitucional. Su presidente, José Manuel Mesía Herrera, adelantó que una segunda acción, vinculada a...",
+    "date": "2026-08-12T00:58:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/colegio-de-economistas-de-lima-lleva-al-tc-ley-sobre-pensiones-de-policias-y-militares-y-prepara-segunda-demanda-contra-norma-para-docentes-noticia-1701082",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=450347",
+    "title": "Reino Unido: Puerto de Aberdeen destaca su rol como refugio para dos buques siniestrados",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Aberdeen destacó el rol que cumplió como refugio seguro para dos buques que\nLa entrada Reino Unido: Puerto de Aberdeen destaca su rol como refugio para dos buqu...",
+    "date": "2026-08-12T00:30:54",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-puerto-de-aberdeen-destaca-su-rol-como-refugio-para-dos-buques-siniestrados/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-pcm-instala-grupo-trabajo-ruta-leon-para-impulsar-67-acciones-estrategicas-1087153.aspx",
+    "title": "PCM instala Grupo de Trabajo \"La Ruta de León\" para impulsar 67 acciones estratégicas",
+    "snippet": "La Presidencia del Consejo de Ministros (PCM) instaló el grupo de trabajo multisectorial \"La Ruta de León\", una iniciativa estratégica que ejecutará 67 intervenciones clave para el desarrollo territorial y sostenible de ...",
+    "date": "2026-08-12T00:13:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-pcm-instala-grupo-trabajo-ruta-leon-para-impulsar-67-acciones-estrategicas-1087153.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=450314",
+    "title": "Westwell entrega primeros terminal tractors con sistema de batería intercambiable a Westports Malaysia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Westwell, proveedor de soluciones logísticas inteligentes basadas en IA, entregó 60 terminal tractors eléctricos inteligentes de\nLa entrada Westwell entrega primeros termina...",
+    "date": "2026-08-12T00:00:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/westwell-entrega-los-primeros-terminal-tractors-con-sistema-de-bateria-intercambiable-a-westports-malaysia/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-premier-galarreta-peru-enviara-equipos-usar-a-colombia-para-labores-busqueda-y-rescate-1087146.aspx",
     "title": "Premier Galarreta: Perú enviará equipos USAR a Colombia para labores de búsqueda y rescate",
     "snippet": "El premier Luis Galarreta anunció esta tarde que el Gobierno peruano enviará equipos del Grupo USAR (Búsqueda y Rescate Urbano) a Colombia para colaborar con el hallazgo de heridos y sobrevivientes tras el terremoto de 7...",
@@ -1285,68 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/empresas-y-economia/asml-construyo-uno-monopolios-valiosos-mundo-china-le-ha-recordado-que-nada-dura-para-siempre",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450207",
-    "title": "SAG aumenta inspecciones de productos silvoagropecuarios en puertos de la Región del Bio Bio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Servicio Agrícola y Ganadero (SAG) aumentó en 51% el número de inspecciones de productos silvoagropecuarios\nLa entrada SAG aumenta inspecciones de productos silvoagropecu...",
-    "date": "2026-08-10T21:30:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/sag-aumenta-inspecciones-de-productos-silvoagropecuarios-en-puertos-de-la-region-del-bio-bio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151622",
-    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
-    "snippet": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires....",
-    "date": "2026-08-10T21:20:04",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "CBMi9gFBVV95cUxOaDVscjNLeXEwdTJObjdqUENKU1REMmhVd3RVRlF3Z1pJTENMQ05lczJaWGtDMkdtakRvUEhVVmdvc2NxNHRxeU5SRDBuVWFRSVFzUFl6bHMyN2QxRExpT1ZNVjZXbWxKam1pUTdvUG1VT3pycF9XT2hiZWlmcExnWlZ5ZW9ncDQ2Ry1HWmliMF9nTWFaQmJ2dkNGRUpCMFBCTjFYQ1R0c2lRemZXWWk4em82NzM3LWNEeDA0VmwtSEFzX3NGOVNHZGhxTjVBa2NIOGRLUWhwQTlsMlVocUlBYjVrZTdrS2VKRkRWRzFuSEp4ek9QeWc",
-    "title": "Tumbes: alimentos frescos que complementan el servicio alimentario del PAE cuentan con certificación de Indecopi - gob.pe",
-    "snippet": "Tumbes: alimentos frescos que complementan el servicio alimentario del PAE cuentan con certificación de Indecopi  gob.pe...",
-    "date": "2026-08-10T21:13:42",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaDVscjNLeXEwdTJObjdqUENKU1REMmhVd3RVRlF3Z1pJTENMQ05lczJaWGtDMkdtakRvUEhVVmdvc2NxNHRxeU5SRDBuVWFRSVFzUFl6bHMyN2QxRExpT1ZNVjZXbWxKam1pUTdvUG1VT3pycF9XT2hiZWlmcExnWlZ5ZW9ncDQ2Ry1HWmliMF9nTWFaQmJ2dkNGRUpCMFBCTjFYQ1R0c2lRemZXWWk4em82NzM3LWNEeDA0VmwtSEFzX3NGOVNHZGhxTjVBa2NIOGRLUWhwQTlsMlVocUlBYjVrZTdrS2VKRkRWRzFuSEp4ek9QeWc?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450188",
-    "title": "Colombia: Puerto Antioquía recibe recalada del buque más grande de su historia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto Antioquía (Colombia) recibió la recalada del buque más grande de su historia. Se trata del\nLa entrada Colombia: Puerto Antioquía recibe recalada del buque más grande ...",
-    "date": "2026-08-10T21:00:23",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/colombia-puerto-antioquia-recibe-recalada-del-buque-mas-grande-de-su-historia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-chupaca-soporto-21-sismos-desde-primer-evento-magnitud-54-del-sabado-18-julio-1086964.aspx",
-    "title": "Chupaca soportó 21 sismos desde el primer evento de magnitud 5.4 del sábado 18 de julio",
-    "snippet": "Desde el 18 de julio hasta el domingo 9 de agosto último, la provincia de Chupaca, región Junín, soportó un total de 21 sismos, considerando el terremoto de magnitud 5.4 del 18 de julio que dejó seis personas fallecidas,...",
-    "date": "2026-08-10T20:28:55",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-chupaca-soporto-21-sismos-desde-primer-evento-magnitud-54-del-sabado-18-julio-1086964.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=98354",
-    "title": "Soltrak cumple 30 años y amplía su oferta para sectores industriales en el Perú",
-    "snippet": "Soltrak, empresa de Ferreycorp dedicada a la comercialización de soluciones para seguridad industrial, lubricantes y neumáticos, conmemora 30 años de operaciones en el mercado peruano. Durante este periodo, la compañía h...",
-    "date": "2026-08-10T20:14:31",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/soltrak-cumple-30-anos-y-amplia-su-oferta-para-sectores-industriales-en-el-peru-ccl-asociados/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2234009/nyc-mayor-mamdani-announces-support-for-delivery-protection-act/",
-    "title": "NYC Mayor Mamdani announces support for the Delivery Protection Act",
-    "snippet": "Amazon is unsurprisingly fighting measure to stop use of contractors for last-mile delivery in NYC....",
-    "date": "2026-08-10T20:10:24",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2234009/nyc-mayor-mamdani-announces-support-for-delivery-protection-act/",
-    "category": "MERCADO"
   }
 ]
