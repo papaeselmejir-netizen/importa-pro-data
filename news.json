@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://lacamara.pe/?p=98494",
+    "title": "La Inteligencia Artificial: ¿Fortalece o reemplaza el talento humano en el sector empresarial?",
+    "snippet": "En un entorno empresarial marcado por la rápida adopción de herramientas tecnológicas, KPMG Perú hace un llamado a liderar la transformación digital desde un enfoque humano. La firma enfatiza que la Inteligencia Artifici...",
+    "date": "2026-08-12T20:39:43",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/la-inteligencia-artificial-fortalece-o-reemplaza-el-talento-humano-en-el-sector-empresarial/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-inversion-minera-peru-supero-los-3304-millones-primer-semestre-y-crecio-427-1087225.aspx",
+    "title": "Inversión minera en Perú superó los US$ 3,304 millones en primer semestre y creció 42.7%",
+    "snippet": "Las inversiones mineras alcanzaron los 3,304.5 millones de dólares entre enero y junio del presente año, registrando un crecimiento de 42.7% frente al mismo periodo del 2025, cuando sumaron 2,315.2 millones de dólares, s...",
+    "date": "2026-08-12T20:31:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inversion-minera-peru-supero-los-3304-millones-primer-semestre-y-crecio-427-1087225.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-festival-andino-tropical-estrellas-del-folclore-y-cumbia-un-mismo-escenario-1087295.aspx",
+    "title": "Festival Andino Tropical: estrellas del folclore y la cumbia en un mismo escenario",
+    "snippet": "En el marco del Día Mundial del Folclore, que se celebra cada 22 de agosto, el Festival Andino Tropical confirmó la participación de Max Castro, Mac Salvador, String Karma, Nayda Gutiérrez, Yuber Adams, Dulce Alegría y R...",
+    "date": "2026-08-12T20:20:27",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-festival-andino-tropical-estrellas-del-folclore-y-cumbia-un-mismo-escenario-1087295.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-lambayeque-activa-plan-respuesta-ante-inundaciones-y-pone-a-prueba-a-7-puntos-criticos-1087294.aspx",
+    "title": "Lambayeque activa plan de respuesta ante inundaciones y pone a prueba a 7 puntos críticos",
+    "snippet": "Lambayeque se prepara para poner a prueba su capacidad de respuesta frente a las lluvias intensas y posibles inundaciones. Este viernes 14 de agosto, a las 3:00 de la tarde, se desarrollará un Simulacro Nacional Multipel...",
+    "date": "2026-08-12T20:14:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-lambayeque-activa-plan-respuesta-ante-inundaciones-y-pone-a-prueba-a-7-puntos-criticos-1087294.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152544",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"...",
+    "date": "2026-08-12T20:10:40",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gobierno-quiere-reforzar-confianza-los-inversionistas-para-fomentar-crecimiento-1087293.aspx",
+    "title": "Gobierno quiere reforzar la confianza de los inversionistas para fomentar el crecimiento",
+    "snippet": "El ministro de Transportes y Comunicaciones, Rafael Rey, afirmó que el Gobierno busca reforzar la confianza de los inversionistas para fomentar decididamente el crecimiento y el desarrollo económico del Perú. En ese sent...",
+    "date": "2026-08-12T20:02:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-quiere-reforzar-confianza-los-inversionistas-para-fomentar-crecimiento-1087293.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=450508",
+    "title": "MSC recibe sanción de USD 6 millones por incidente de portacontenedores en Puerto de Charleston en 2024",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Departamento de Justicia de Estados Unidos informó que MSC Shipmanagement Limited deberá pagar una multa\nLa entrada MSC recibe sanción de USD 6 millones por incidente de ...",
+    "date": "2026-08-12T20:00:14",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/msc-recibe-sancion-de-usd-6-millones-por-incidente-de-portacontenedores-en-puerto-de-charleston-en-2024/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/911-esta-disenado-para-funcionar-cuando-todo-demas-cae-malware-acaba-poner-esa-promesa-a-prueba-california",
+    "title": "El 911 está diseñado para funcionar cuando todo lo demás cae. Un malware acaba de poner esa promesa a prueba en California",
+    "snippet": "Hay números de teléfono que no guardamos porque los sepamos de memoria, sino porque confiamos en que estarán ahí cuando todo lo demás falle. En España pensamos en el 112; en Estados Unidos, en el 911. Son la puerta de en...",
+    "date": "2026-08-12T19:31:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/911-esta-disenado-para-funcionar-cuando-todo-demas-cae-malware-acaba-poner-esa-promesa-a-prueba-california",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=979231",
+    "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
+    "snippet": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18...",
+    "date": "2026-08-12T19:27:47",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/sabiamos-que-via-lactea-estaba-doblada-como-vinilo-al-calor-30-000-nubes-han-mostrado-que-esta-arrugada",
     "title": "Sabíamos que la Vía Láctea estaba doblada como un vinilo al calor: 30.000 nubes han mostrado que además está arrugada",
     "snippet": "Cuando pensamos en la Vía Láctea, casi siempre pensamos en una imagen vista desde la Tierra: una franja blanquecina suspendida en el cielo, una nube de luz que cruza la noche y que nos recuerda que el Sistema Solar no fl...",
@@ -1266,87 +1347,6 @@
     "date": "2026-08-11T19:31:15",
     "source": "XATAKA",
     "url": "https://www.xataka.com/componentes/2027-siquiera-ha-comenzado-ia-ha-hecho-suyas-todo-apunta-a-que-dram-hbm-ano-se-han-vendido",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sunat-rematara-terrenos-casas-departamentos-y-tiendas-valorizados-s105-millones-1087070.aspx",
-    "title": "Sunat rematará terrenos, casas, departamentos y tiendas valorizados en S/10.5 millones",
-    "snippet": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) realizará, este martes 25 y jueves 27 de agosto, en Lima, el tercer remate de bienes embargados a contribuyentes que no regularizaron sus deu...",
-    "date": "2026-08-11T19:29:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sunat-rematara-terrenos-casas-departamentos-y-tiendas-valorizados-s105-millones-1087070.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=98399",
-    "title": "Facturas negociables impulsan el financiamiento de las Mype",
-    "snippet": "Las facturas negociables continúan ganando espacio como una alternativa de financiamiento para las empresas peruanas. A junio de 2026, el monto negociado mediante este mecanismo alcanzó los S/27 019 millones, un crecimie...",
-    "date": "2026-08-11T19:09:29",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/facturas-negociables-impulsan-el-financiamiento-de-las-mype/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/voyager-2-se-esta-apagando-poco-a-poco-nasa-lleva-anos-haciendo-ingenieria-para-retrasar-inevitable",
-    "title": "La Voyager 2 se está apagando poco a poco. La NASA lleva años haciendo ingeniería para retrasar lo inevitable",
-    "snippet": "En agosto de 1977, la Voyager 2 abandonó la Tierra para comenzar un viaje que la llevaría primero hasta los gigantes del sistema solar y, décadas después, mucho más allá de ellos. Casi 49 años han pasado desde aquel lanz...",
-    "date": "2026-08-11T19:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/voyager-2-se-esta-apagando-poco-a-poco-nasa-lleva-anos-haciendo-ingenieria-para-retrasar-inevitable",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450351",
-    "title": "CMA CGM fijará recargo a carga movilizada desde Lejano Oriente a EE.UU. a través del Canal de Panamá",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario A contar del 10 de septiembre de 2026, CMA CGM encarecerá la logística interoceánica al aplicar\nLa entrada CMA CGM fijará recargo a carga movilizada desde Lejano Oriente a E...",
-    "date": "2026-08-11T19:00:06",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/cma-cgm-fijara-recargo-a-carga-movilizada-desde-lejano-oriente-a-ee-uu-a-traves-del-canal-de-panama/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-se-haran-los-esfuerzos-necesarios-para-proteger-vida-viviendas-e-infraestructura-1087098.aspx",
-    "title": "MEF: se harán los esfuerzos necesarios para proteger la vida, viviendas e infraestructura",
-    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, afirmó hoy que el Gobierno realizará los esfuerzos necesarios durante lo que resta del año para enfrentar con éxito el Fenómeno El Niño, con prioridad en la protección de l...",
-    "date": "2026-08-11T18:54:22",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-se-haran-los-esfuerzos-necesarios-para-proteger-vida-viviendas-e-infraestructura-1087098.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/multas-15-000-euros-carcel-asi-castiga-francia-a-conductores-noveles-que-se-suban-a-coche-demasiado-potente",
-    "title": "Francia piensa que es un sinsentido que los conductores noveles conduzcan coches muy potentes. Así que ha cambiado la ley para prohibírselo",
-    "snippet": "Francia aprobó hace unas semanas una nueva ley conocida como la “Ley Ripost” y, entre sus numerosos artículos, se incluye una norma que igual pilla desprevenidos a los jóvenes entusiastas del motor. Y es que los conducto...",
-    "date": "2026-08-11T18:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/multas-15-000-euros-carcel-asi-castiga-francia-a-conductores-noveles-que-se-suban-a-coche-demasiado-potente",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450295",
-    "title": "Argentina: Puertos públicos de la Provincia de Buenos Aires tienen mayor movimiento productivo desde 2019",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires difundió el\nLa entrada Argentina: Puertos públicos de la Provincia de Buenos Ai...",
-    "date": "2026-08-11T18:30:06",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-puertos-publicos-de-la-provincia-de-buenos-aires-tienen-mayor-movimiento-productivo-desde-2019/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-programa-erasmus-mundus-22-estudiantes-peruanos-viajan-beca-completa-a-europa-1087074.aspx",
-    "title": "Programa Erasmus Mundus: 22 estudiantes peruanos viajan con beca completa a Europa",
-    "snippet": "Un grupo de 22 jóvenes profesionales peruanos partirá rumbo a Europa tras haber sido seleccionados este año con las prestigiosas becas de maestría Erasmus Mundus, financiadas íntegramente por la Unión Europea (UE)....",
-    "date": "2026-08-11T18:20:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-programa-erasmus-mundus-22-estudiantes-peruanos-viajan-beca-completa-a-europa-1087074.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/streaming/mejor-ahora-manana-prime-video-temporada-4-este-thriller-que-se-ha-convertido-uno-sus-grandes-exitos",
-    "title": "\"La mejor hasta ahora\": mañana en Prime Video, la temporada 4 de este thriller que se ha convertido en uno de sus grandes éxitos",
-    "snippet": "Este 12 de agosto, Prime Video estrena los tres primeros episodios de la cuarta temporada de 'Reacher'. A partir de ahí, uno por semana hasta el 16 de septiembre, fecha que los fans tienen marcada a fuego porque es el es...",
-    "date": "2026-08-11T18:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/streaming/mejor-ahora-manana-prime-video-temporada-4-este-thriller-que-se-ha-convertido-uno-sus-grandes-exitos",
     "category": "TRIBUTARIO"
   }
 ]
