@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.xataka.com/movilidad/waymo-dice-que-sus-coches-autonomos-seguros-que-conductores-humanos-que-aparquen-bien-otra-historia",
+    "title": "Waymo tiene a miles de coches autónomos circulando por Estados Unidos. Y también miles de dólares en multas de aparcamiento",
+    "snippet": "A pesar de que los coches autónomos han venido para solucionar algunos problemas, también están generando otros. Y es que en Austin, los robotaxis de Waymo se están topando precisamente con uno de nuestros mayores temore...",
+    "date": "2026-08-12T06:01:15",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/waymo-dice-que-sus-coches-autonomos-seguros-que-conductores-humanos-que-aparquen-bien-otra-historia",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=450240",
     "title": "Nace Australian Paddock to Port Alliance que une a proveedores de la industria de cruceros",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Agricultores, proveedores de alimentos, operadores turísticos, agencias de viajes, puertos y líderes de la industria de\nLa entrada Nace Australian Paddock to Port Alliance q...",
@@ -756,6 +765,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-se-ha-propuesto-ser-unico-ceo-no-apocaliptico-humanista-ia-otra-cosa-que-le-creamos",
+    "title": "\"La superinteligencia debe estar al alcance de todos”: Zuckerberg dice querer democratizar la IA. Otra cosa es que le creamos",
+    "snippet": "De las 6.578 palabras del manifiesto que ayer publicó Mark Zuckerberg, hay unas cuantas que se repiten de manera sospechosa. \"People\" lo hace 69 veces, \"superintelligence\" lo hace 54, \"power\" lo hace 37, y \"everyone\" lo ...",
+    "date": "2026-08-11T13:45:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-se-ha-propuesto-ser-unico-ceo-no-apocaliptico-humanista-ia-otra-cosa-que-le-creamos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-donald-trump-considera-que-fifa-cometeria-un-terrible-error-si-reemplaza-a-infantino-1087046.aspx",
     "title": "Donald Trump considera que la FIFA cometería un \"terrible error\" si reemplaza a Infantino",
     "snippet": "El presidente de Estados Unidos, Donald Trump, afirmó que la FIFA cometería un \"terrible error\" si sustituyera a su mandamás, Gianni Infantino, duramente criticado tras su proyecto fallido de apertura de la institución a...",
@@ -1053,6 +1071,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#1",
+    "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+    "snippet": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions....",
+    "date": "2026-08-11T08:44:52",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/magnet/ultima-disputa-fronteriza-dentro-espana-que-lleva-130-anos-enfrentando-a-cuenca-teruel-rio",
     "title": "La última disputa fronteriza dentro de España: la que lleva 130 años enfrentando a Cuenca y Teruel por un río",
     "snippet": "Llevan peleando desde 1897 y, en pleno 2026, todavía no se han puesto de acuerdo. Hablamos de la disputa fronteriza que enfrenta a Cuenca y Teruel por 2.000 hectáreas de monte en el Alto Tajo, el llamado Entredicho. El f...",
@@ -1321,32 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-de-canete-a-estados-unidos-senasa-supervisa-primer-envio-bulbos-amaryllis-encerados-1086986.aspx",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450184",
-    "title": "Trump prorroga por 90 días exención a normativa que regula cabotaje",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El presidente de Estados Unidos, Donald Trump, prorrogó por 90 días la exención que permite\nLa entrada Trump prorroga por 90 días exención a normativa que re...",
-    "date": "2026-08-10T23:00:26",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/trump-prorroga-por-90-dias-exencion-a-normativa-que-regula-cabotaje/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-como-usar-linea-119-ante-un-temblor-asi-puedes-dejar-mensajes-voz-1086981.aspx",
-    "title": "¿Cómo usar la Línea 119 ante un temblor? Así puedes dejar mensajes de voz",
-    "snippet": "Ante la posibilidad de un sismo u otra emergencia, una de las principales angustias de las familias es saber si sus seres queridos están bien. Por ello, el Ministerio de Transportes y Comunicaciones (MTC) recuerda a la c...",
-    "date": "2026-08-10T22:35:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-como-usar-linea-119-ante-un-temblor-asi-puedes-dejar-mensajes-voz-1086981.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#0",
-    "title": "Nvidia gets $500bn from major banks for AI build out",
-    "snippet": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions....",
-    "date": "2026-08-10T22:31:42",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
