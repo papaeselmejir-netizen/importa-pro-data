@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-dolar-muestra-tendencia-a-baja-primera-quincena-agosto-y-cierra-s-3367-1087603.aspx",
+    "title": "Dólar muestra tendencia a la baja en primera quincena de agosto y cierra en S/ 3.367",
+    "snippet": "El precio del dólar cerró la primera quincena de agosto en 3.367 soles, con lo que el billete verde ha borrado las ganancias acumuladas que registraba frente al sol durante el año, de acuerdo con datos recogidos del Banc...",
+    "date": "2026-08-14T21:24:37",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dolar-muestra-tendencia-a-baja-primera-quincena-agosto-y-cierra-s-3367-1087603.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ucayali-425-familias-fortalecen-sus-parcelas-agroforestales-apoyo-del-iiap-1087630.aspx",
+    "title": "Ucayali: 425 familias fortalecen sus parcelas agroforestales con apoyo del IIAP",
+    "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad adscrita al Ministerio del Ambiente, atendió 225 hectáreas de sistemas agroforestales y benefició a 425 familias de Ucayali con acciones orientadas a...",
+    "date": "2026-08-14T21:03:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ucayali-425-familias-fortalecen-sus-parcelas-agroforestales-apoyo-del-iiap-1087630.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "6a7e0f9c0f200c034ba14931",
+    "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "snippet": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?...",
+    "date": "2026-08-14T20:59:03",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4831895",
+    "title": "Judge Tells Google to Make It Easier to Install Third-Party App Stores",
+    "snippet": "Android users have had to click a few extra times to add Aptoide Games....",
+    "date": "2026-08-14T20:45:12",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/judge-tells-google-to-make-it-easier-to-install-third-party-app-stores/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451041",
+    "title": "Cuatro civiles fallecen en ataque hutí al puerto yemení de Moca",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El Gobierno de Yemen, reconocido internacionalmente, informó que los hutíes dispararon seis misiles balísticos contra\nLa entrada Cuatro civiles fallecen en a...",
+    "date": "2026-08-14T20:44:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cuatro-civiles-fallecen-en-ataque-huti-al-puerto-yemeni-de-moca/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-simulacro-multipeligro-sismate-alerto-celulares-ocurrencia-tsunami-1087622.aspx",
+    "title": "Simulacro multipeligro: Sismate alertó en celulares ocurrencia de \"tsunami\"",
+    "snippet": "Minutos después de las 3 p.m., los celulares de miles de peruanos recibieron un mensaje del Sistema de Mensajería de Alerta Temprana de Emergencia (Sismate), acompañada de un fuerte sonido, como parte del II Simulacro Na...",
+    "date": "2026-08-14T20:40:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-simulacro-multipeligro-sismate-alerto-celulares-ocurrencia-tsunami-1087622.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-un-mundo-mascaras-obras-de-artista-escocesa-angela-thouless-se-expondran-lima-1087625.aspx",
+    "title": "Un mundo de máscaras: obras de la artista escocesa Angela Thouless se expondrán en Lima",
+    "snippet": "La artista escocesa Angela Thouless presentará este sábado 22 de agosto su muestra ‘A World of Masks’, una exposición individual desarrollada especialmente para el espacio cultural Wachuma –en el centro de Lima–, bajo la...",
+    "date": "2026-08-14T20:34:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-un-mundo-mascaras-obras-de-artista-escocesa-angela-thouless-se-expondran-lima-1087625.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-cristian-romero-se-despide-del-tottenham-y-pondria-rumbo-al-atletico-madrid-1087623.aspx",
     "title": "Cristian Romero se despide del Tottenham y pondría rumbo al Atlético de Madrid",
     "snippet": "El defensa argentino Cristian \"Cuti\" Romero anunció este viernes su salida del Tottenham, en un momento en el que la prensa insiste en que está cerca de unirse al Atlético de Madrid en una operación que ascendería a 40 m...",
@@ -69,6 +132,15 @@
     "date": "2026-08-14T19:34:48",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-bcr-determinara-politica-monetaria-funcion-al-impacto-del-subsidio-a-los-combustibles-1087608.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-bcr-incorporara-impacto-subsidio-a-combustibles-su-analisis-politica-monetaria-1087608.aspx",
+    "title": "BCR incorporará impacto de subsidio a combustibles en su análisis de política monetaria",
+    "snippet": "El Banco Central de Reserva (BCR) evaluará las implicancias económicas del subsidio anunciado por el Ministerio de Economía y Finanzas (MEF) para el transporte de carga, de pasajeros, fluvial y mototaxis de la selva, com...",
+    "date": "2026-08-14T19:34:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-bcr-incorporara-impacto-subsidio-a-combustibles-su-analisis-politica-monetaria-1087608.aspx",
     "category": "TRIBUTARIO"
   },
   {
@@ -1275,78 +1347,6 @@
     "date": "2026-08-13T19:28:01",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-bcr-mantiene-expectativas-favorables-sobre-actividad-economica-peruana-1087444.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152914",
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal....",
-    "date": "2026-08-13T19:19:49",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/nusantara-tiene-palacio-ministerios-hospitales-que-todavia-no-tiene-gran-capital-que-indonesia-imagino",
-    "title": "Nusantara ya tiene palacio, ministerios y hospitales. Lo que todavía no tiene es la nueva gran capital que Indonesia imaginó",
-    "snippet": "Hay algo desconcertante en Nusantara: basta mirar su centro administrativo para pensar que la futura capital de Indonesia ya está tomando forma. El palacio Garuda domina el conjunto, alrededor se levantan ministerios, ho...",
-    "date": "2026-08-13T19:01:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/nusantara-tiene-palacio-ministerios-hospitales-que-todavia-no-tiene-gran-capital-que-indonesia-imagino",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-pago-subsidio-operativo-a-159-empresas-transporte-urbano-lima-y-callao-1087447.aspx",
-    "title": "ATU pagó subsidio operativo a 159 empresas de transporte urbano en Lima y el Callao",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) efectuó el pago del subsidio temporal al combustible otorgado por el Gobierno a través del Decreto de Urgencia n.° 006-2026 para contribuir a la continuidad del ...",
-    "date": "2026-08-13T19:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-pago-subsidio-operativo-a-159-empresas-transporte-urbano-lima-y-callao-1087447.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "CBMizgFBVV95cUxPY3JYVUVkUzhrbjdKXzhUaWZ1OEVrUi1mOXV3MzlWU1IxYzRtcDl3Q2RjaXJ2VzdCMW1EcDBsUGxMdXl3aTZTNG83V3BHODVySU1MSGIzZ0tBekhmV0Vwem1SOVMxbHdKT2p2RTVPR1c5T1FIb09sd1RPRTQ4ZHlrSFBHaUpuZWo3ZWpZeGR0STMwQUw5YjJ4YWJHeWdfWDE3Nll2SFAzSEVEU2h0M2oyWmR6Q0pXVFRURGJKNG5VX3pabVhYMXBuNUVZbWVUQQ",
-    "title": "Poder Judicial: hoy juramentaron el superintendente de la Sunat y tres directivos del BCRP - TVPerú",
-    "snippet": "Poder Judicial: hoy juramentaron el superintendente de la Sunat y tres directivos del BCRP  TVPerú...",
-    "date": "2026-08-13T18:57:18",
-    "source": "SUNAT",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY3JYVUVkUzhrbjdKXzhUaWZ1OEVrUi1mOXV3MzlWU1IxYzRtcDl3Q2RjaXJ2VzdCMW1EcDBsUGxMdXl3aTZTNG83V3BHODVySU1MSGIzZ0tBekhmV0Vwem1SOVMxbHdKT2p2RTVPR1c5T1FIb09sd1RPRTQ4ZHlrSFBHaUpuZWo3ZWpZeGR0STMwQUw5YjJ4YWJHeWdfWDE3Nll2SFAzSEVEU2h0M2oyWmR6Q0pXVFRURGJKNG5VX3pabVhYMXBuNUVZbWVUQQ?oc=5",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-amazonas-piden-medidas-urgentes-para-frenar-violencia-sexual-contra-ninas-awajun-y-wampis-1087442.aspx",
-    "title": "Amazonas: piden medidas urgentes para frenar violencia sexual contra niñas awajún y wampís",
-    "snippet": "Diversas organizaciones, colectivos y ciudadanos solicitaron la adopción de medidas urgentes para enfrentar la violencia sexual, desprotección e impunidad que afectan a niñas, adolescentes y mujeres de comunidades nativa...",
-    "date": "2026-08-13T18:45:35",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-amazonas-piden-medidas-urgentes-para-frenar-violencia-sexual-contra-ninas-awajun-y-wampis-1087442.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/alemania-tenia-a-china-como-su-mayor-mercado-coches-ahora-bmw-audi-mercedes-volkswagen-se-hunden-a-ritmo-preocupante",
-    "title": "Alemania tenía a China como su mayor mercado de coches. Ahora, BMW, Audi, Mercedes y Volkswagen se hunden a un ritmo preocupante",
-    "snippet": "Hubo un tiempo en el que China era el mercado más rentable para muchos de los fabricantes de automóviles europeos. Sin embargo, a lo largo de los últimos años hemos presenciado cómo startups y fabricantes locales se han ...",
-    "date": "2026-08-13T18:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/alemania-tenia-a-china-como-su-mayor-mercado-coches-ahora-bmw-audi-mercedes-volkswagen-se-hunden-a-ritmo-preocupante",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450721",
-    "title": "Panamá espera entrada en vigor de renovación de acuerdo marítimo con China",
-    "snippet": "Por Redacción PortalPortuario / Agencia EFE @PortalPortuario Panamá está a la espera de que entre en vigor la renovación del\nLa entrada Panamá espera entrada en vigor de renovación de acuerdo marítimo con China se public...",
-    "date": "2026-08-13T18:30:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/panama-espera-entrada-en-vigor-de-renovacion-de-acuerdo-maritimo-con-china/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-quien-es-santo-toribio-mogrovejo-como-fue-su-relacion-con-peru-1087427.aspx",
-    "title": "Papa León XIV: ¿Quién es Santo Toribio de Mogrovejo?, ¿cómo fue su relación con el Perú?",
-    "snippet": "Hace 445 años arribó al Perú Toribio de Mogrovejo, un clérigo católico español que marcó un hito fundamental en la evangelización y la organización eclesiástica del entonces extenso virreinato que abarcaba varios países ...",
-    "date": "2026-08-13T18:06:45",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-quien-es-santo-toribio-mogrovejo-como-fue-su-relacion-con-peru-1087427.aspx",
     "category": "MERCADO"
   }
 ]
