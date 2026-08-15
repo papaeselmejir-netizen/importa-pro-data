@@ -99,6 +99,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://rpp.pe/1701394",
+    "title": "Indecopi autoriza compra de Sky Airline por Abra Group, al que pertenece el Grupo de Avianca, pero con condiciones",
+    "snippet": "Indecopi aprobó la transacción de la compra con condiciones de Sky Airline por Abra Group, tras descartar riesgos significativos para la competencia en las rutas Lima-Miami y Cusco-Miami....",
+    "date": "2026-08-14T21:15:08",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/indecopi-autoriza-compra-de-sky-airline-por-abra-group-al-que-pertenece-el-grupo-de-avianca-pero-con-condiciones-noticia-1701394",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-ucayali-425-familias-fortalecen-sus-parcelas-agroforestales-apoyo-del-iiap-1087630.aspx",
     "title": "Ucayali: 425 familias fortalecen sus parcelas agroforestales con apoyo del IIAP",
     "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad adscrita al Ministerio del Ambiente, atendió 225 hectáreas de sistemas agroforestales y benefició a 425 familias de Ucayali con acciones orientadas a...",
@@ -1338,15 +1347,6 @@
     "date": "2026-08-13T20:25:46",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-copa-sudamericana-dura-sancion-recibio-erick-noriega-tras-eliminacion-gremio-1087465.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indecopi-autoriza-condiciones-compra-sky-airline-abra-group-1087467.aspx",
-    "title": "Indecopi autoriza con condiciones compra de Sky Airline por Abra Group",
-    "snippet": "La Comisión de Defensa de la Libre Competencia del Indecopi autorizó, con condiciones, la operación mediante la cual Abra Group Limited (Abra), al que pertenecen las aerolíneas del Grupo Avianca, adquirirá el control de ...",
-    "date": "2026-08-13T20:20:40",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indecopi-autoriza-condiciones-compra-sky-airline-abra-group-1087467.aspx",
     "category": "MERCADO"
   }
 ]
