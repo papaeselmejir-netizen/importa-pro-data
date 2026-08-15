@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-gobierno-prorroga-90-dias-emergencia-sanitaria-brote-sarampion-1087678.aspx",
+    "title": "Gobierno prorroga por 90 días la emergencia sanitaria por brote de sarampión",
+    "snippet": "El Gobierno prorrogó, a partir del 15 de agosto y por un plazo de 90 días calendario, la emergencia sanitaria por el brote de sarampión con transmisión local confirmada en el departamento de Puno y riesgo elevado de dise...",
+    "date": "2026-08-15T02:44:40",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-prorroga-90-dias-emergencia-sanitaria-brote-sarampion-1087678.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mtc-supervisa-seguridad-los-puentes-acceso-al-jorge-chavez-ante-fenomeno-nino-1087677.aspx",
+    "title": "MTC supervisa la seguridad de los puentes de acceso al Jorge Chávez ante fenómeno El Niño",
+    "snippet": "La seguridad de los puentes modulares que permiten el acceso al Aeropuerto Internacional Jorge Chávez está garantizada ante una eventual crecida del río Rímac ante el Fenómeno El Niño. El Ministerio de Transportes y Comu...",
+    "date": "2026-08-15T02:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mtc-supervisa-seguridad-los-puentes-acceso-al-jorge-chavez-ante-fenomeno-nino-1087677.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://rpp.pe/1701680",
+    "title": "Luis Miguel Castilla advierte sobre subsidio al transporte: \"Es muy fácil dar, es muy difícil retirarlo\"",
+    "snippet": "El exministro de Economía y Finanzas Luis Miguel Castilla analizó el anuncio del Gobierno de implementar un subsidio focalizado para el transporte público, fluvial y mototaxis....",
+    "date": "2026-08-15T02:13:25",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/peru/actualidad/luis-miguel-castilla-advierte-sobre-subsidio-al-transporte-es-muy-facil-dar-pero-muy-dificil-retirarlo-noticia-1701680",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451011",
+    "title": "Venezuela: Puerto de Maracaibo atiende tres buques de manera simultánea",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Maracaibo atendió simultáneamente a tres buques de bandera internacional que amarraron a los\nLa entrada Venezuela: Puerto de Maracaibo atiende tres buques de ma...",
+    "date": "2026-08-15T02:00:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/venezuela-puerto-de-maracaibo-atiende-tres-buques-de-manera-simultanea/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451018",
+    "title": "Venezuela: Autoridades portuarias y aduaneras de La Guaira afinan planes de contingencia para agilizar trámites",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Autoridades del sector portuario y aduanero del estado de La Guaira sostuvieron un encuentro institucional para\nLa entrada Venezuela: Autoridades portuarias y aduaneras de L...",
+    "date": "2026-08-15T01:45:20",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/venezuela-autoridades-portuarias-y-aduaneras-de-la-guaira-afinan-planes-de-contingencia-para-agilizar-tramites/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451053",
+    "title": "Seabourn Ovation hace primera visita a Puerto de Fowey",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un hito especial cumplió el crucero Seabourn Ovation esta semana, ya que hizo su primera visita\nLa entrada Seabourn Ovation hace primera visita a Puerto de Fowey se publicó ...",
+    "date": "2026-08-15T01:30:17",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/seabourn-ovation-hace-primera-visita-a-puerto-de-fowey/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=450977",
+    "title": "México: Puerto de Manzanillo aumenta 24% manejo de granel agrícola en primer semestre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Manzanillo registró un incremento de 24 % en la movilización de granel agrícola\nLa entrada México: Puerto de Manzanillo aumenta 24% manejo de granel agrícola en...",
+    "date": "2026-08-15T01:15:49",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mexico-puerto-de-manzanillo-aumenta-24-manejo-de-granel-agricola-en-primer-semestre/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451056",
+    "title": "Hapag-Lloyd anuncia nuevo servicio para conectar China con distintos puertos brasileños",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Hapag-Lloyd anunció un nuevo servicio que conectará de manera directa a China con distintos\nLa entrada Hapag-Lloyd anuncia nuevo servicio para conectar China con ...",
+    "date": "2026-08-15T00:50:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/hapag-lloyd-anuncia-nuevo-servicio-para-conectar-china-con-distintos-puertos-brasilenos/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-hospital-loayza-despliega-personal-medico-y-brigadas-durante-simulacro-nacional-fotos-1087644.aspx",
     "title": "Hospital Loayza despliega personal médico y brigadas durante simulacro nacional [fotos]",
     "snippet": "Brigadas de emergencia, personal médico y equipos especializados del Hospital Nacional Arzobispo Loayza se desplegaron durante el II Simulacro Nacional Multipeligro 2026 para poner a prueba la capacidad de respuesta del ...",
@@ -1275,78 +1347,6 @@
     "date": "2026-08-13T21:45:52",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-dia-del-kpop-crea-un-lightstick-basado-tu-personalidad-google-gemini-1087479.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450767",
-    "title": "DP World destaca movimiento de más de 22 millones de TEU en 20 años de operaciones en Puerto de Callao",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World celebra 20 años de operaciones en el Puerto de Callao, gestionando más de 22\nLa entrada DP World destaca movimiento de más de 22 millones de TEU en 20 años de opera...",
-    "date": "2026-08-13T21:30:14",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dp-world-destaca-movimiento-de-mas-de-22-millones-de-teu-en-20-anos-de-operaciones-en-puerto-de-callao/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://lacamara.pe/?p=98563",
-    "title": "El gobierno de Fujimori recibe una economía estable con 3 % de crecimiento anual que busca mayores oportunidades",
-    "snippet": "El nuevo Gobierno encuentra una economía estable que, pese a los años de incertidumbre política, conserva fundamentos macroeconómicos sólidos. El registro de un crecimiento alrededor del 3,2 %, una inflación bajo control...",
-    "date": "2026-08-13T21:22:08",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/el-gobierno-de-fujimori-recibe-una-economia-estable-con-3-de-crecimiento-anual-que-busca-mayores-oportunidades/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4829271",
-    "title": "Shoppers Outside the US May Have to Wait Longer for the Folding iPhone, Report Suggests",
-    "snippet": "A variety of issues could slow down the rollout of the anticipated new Apple device....",
-    "date": "2026-08-13T21:21:42",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/shoppers-outside-the-us-may-have-to-wait-longer-for-the-folding-iphone-report-suggests/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mejoran-capacidades-artesanas-y-microempresas-textiles-fibra-alpaca-1087464.aspx",
-    "title": "Mejoran capacidades de artesanas y microempresas textiles con fibra de alpaca",
-    "snippet": "Con el objetivo de mejorar las capacidades técnicas de microempresas y artesanas textiles en la producción de artículos decorativos, se desarrolló con éxito la capacitación especializada “Elaboración de alpaquitas decora...",
-    "date": "2026-08-13T21:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mejoran-capacidades-artesanas-y-microempresas-textiles-fibra-alpaca-1087464.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-futbol-estas-son-las-estrellas-sudamericanas-sin-equipo-buscan-su-ultimo-baile-1087471.aspx",
-    "title": "Fútbol: Estas son las estrellas sudamericanas sin equipo que buscan su último baile",
-    "snippet": "Goleadores, capitanes y estandartes de una generación de estrellas sudamericanas que marcaron una época en Europa buscan equipo para -tal vez- despedirse del fútbol....",
-    "date": "2026-08-13T20:40:24",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-futbol-estas-son-las-estrellas-sudamericanas-sin-equipo-buscan-su-ultimo-baile-1087471.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
-    "title": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
-    "snippet": "Europa sigue intentando reducir una distancia muy visible en inteligencia artificial: mientras Estados Unidos concentra alrededor de OpenAI, Google o Microsoft un ecosistema de modelos, productos e infraestructura a enor...",
-    "date": "2026-08-13T20:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450737",
-    "title": "Ecuador: Terminal Portuario de Manta entrega drones para fortalecer vigilancia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Terminal Portuario de Manta (TPM) entregó tres drones a la Armada ecuatoriana para fortalecer la vigilancia\nLa entrada Ecuador: Terminal Portuario de Manta entrega drones pa...",
-    "date": "2026-08-13T20:30:16",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ecuador-terminal-portuario-de-manta-entrega-drones-para-fortalecer-vigilancia/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-copa-sudamericana-dura-sancion-recibio-erick-noriega-tras-eliminacion-gremio-1087465.aspx",
-    "title": "Copa Sudamericana: La dura sanción que recibió Erick Noriega tras eliminación de Gremio",
-    "snippet": "Erick Noriega, futbolista de Gremio, recibió una sanción por parte de la CONMEBOL de 4 fechas de suspensión en la Copa Sudamericana, luego de los incidentes ocurridos en el partido de vuelta entre Gremio y Bolívar, el cu...",
-    "date": "2026-08-13T20:25:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-copa-sudamericana-dura-sancion-recibio-erick-noriega-tras-eliminacion-gremio-1087465.aspx",
     "category": "MERCADO"
   }
 ]
