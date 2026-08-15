@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.xataka.com/analisis/odyssey-g8-g80hf-analisis-caracteristicas-precio-especificaciones",
+    "title": "Samsung Odyssey G8 G80HF, análisis: un monitor dos en uno pensado para jugar (y que brilla para trabajar)",
+    "snippet": "Llevo años con dos monitores: uno 4K y otro con resolución QHD. Estoy tan hecho a este setup que llevo tiempo sintiendo curiosidad por los monitores con resolución dual, algo que estamos empezando a ver en distintos fabr...",
+    "date": "2026-08-15T14:16:47",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/analisis/odyssey-g8-g80hf-analisis-caracteristicas-precio-especificaciones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-implementa-servicios-expresos-conectan-huaycan-metropolitano-y-linea-1-1087707.aspx",
+    "title": "ATU implementa servicios expresos que conectan Huaycán con Metropolitano y Línea 1",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) puso en marcha tres servicios expresos de transporte público que conectan Huaycán, Ñaña y Chaclacayo con puntos estratégicos del Metropolitano, la Línea 1 del Me...",
+    "date": "2026-08-15T14:05:16",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-implementa-servicios-expresos-conectan-huaycan-metropolitano-y-linea-1-1087707.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/urss-quiso-conquistar-oceano-artico-levantando-faros-nucleares-lugares-remotos-para-sorpresa-nadie-acabo-mal",
+    "title": "La URSS quiso conquistar el océano Ártico levantando faros nucleares en lugares remotos. Para sorpresa de nadie, acabó mal",
+    "snippet": "¿Te interesaría trabajar en uno de los lugares más remotos del planeta, solo, aislado, soportando temperaturas gélidas y fortísimas racha de viento, asomado día y noche a un océano inhóspito? No suena demasiado tentador,...",
+    "date": "2026-08-15T14:00:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/urss-quiso-conquistar-oceano-artico-levantando-faros-nucleares-lugares-remotos-para-sorpresa-nadie-acabo-mal",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-por-peru-es-altamente-sismico-placas-tectonicas-y-fallas-geologicas-existen-1087230.aspx",
+    "title": "¿Por qué Perú es altamente sísmico?, ¿Qué placas tectónicas y fallas geológicas existen?",
+    "snippet": "Si bien la ocurrencia de sismos en Perú se vincula, principalmente, a su ubicación en el llamado “Cinturón de fuego del Pacífico”, donde se produce el 85 % de la actividad sísmica mundial, existen otros factores que infl...",
+    "date": "2026-08-15T13:45:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-por-peru-es-altamente-sismico-placas-tectonicas-y-fallas-geologicas-existen-1087230.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-enfen-nino-costero-tendria-magnitud-entre-fuerte-y-extraordinaria-hasta-verano-2027-1087682.aspx",
+    "title": "Enfen: El Niño Costero tendría magnitud entre fuerte y extraordinaria hasta el verano 2027",
+    "snippet": "La Comisión Multisectorial del Estudio Nacional del Fenómeno El Niño (Enfen) advirtió que se prevé la continuación de El Niño Costero \"con una magnitud más probable entre fuerte y extraordinaria hasta el verano\" en la re...",
+    "date": "2026-08-15T13:35:19",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-enfen-nino-costero-tendria-magnitud-entre-fuerte-y-extraordinaria-hasta-verano-2027-1087682.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/acabamos-encontrar-mamifero-lugar-imposible-andes-a-7-000-metros-altura",
+    "title": "Acabamos de encontrar un mamífero en un lugar imposible: en Los Andes, a casi 7.000 metros de altura",
+    "snippet": "Cuando empiezas a subir metros y metros, la flora y la fauna cambian. Ni siquiera hace falta irse muy lejos: los campings en los Pirineos y las escapadas hasta alguna cima que servidora, y seguro que mucha gente que está...",
+    "date": "2026-08-15T13:30:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/acabamos-encontrar-mamifero-lugar-imposible-andes-a-7-000-metros-altura",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://techcrunch.com/?p=2878248",
     "title": "Every fusion startup that has raised over $100M",
     "snippet": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies....",
@@ -25,6 +79,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/hhla-ve-desplome-de-67-en-volumen-de-contenedores-manejados-en-el-primer-semestre/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976390",
+    "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
+    "snippet": "One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, bu...",
+    "date": "2026-08-15T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-sarampiongobierno-amplia-90-dias-emergencia-sanitaria-brote-y-riesgo-contagio-1087678.aspx",
@@ -1260,6 +1323,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o#0",
+    "title": "US says dozens of countries helped China dodge Trump's tariffs",
+    "snippet": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies....",
+    "date": "2026-08-14T08:39:46",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/basics/como-actualizar-tu-router-movistar-dos-mejores-maneras-hacerlo",
     "title": "Cómo actualizar tu router de Movistar: las dos mejores maneras de hacerlo",
     "snippet": "Vamos a decirte cómo actualizar tu router de Movistar, de forma que puedas instalarle nuevas versiones de su firmware. Como todos los dispositivos, los routers también tienen su sistema operativo interno, y con las actua...",
@@ -1276,77 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/moviles-samsung-google-casi-a-precio-minimo-xiaomi-17t-pro-1-tb-barato-ofertas-tablets-cazando-gangas",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/lograr-fusion-nuclear-era-problema-fisico-ahora-gran-reto-convencer-a-que-tienen-dinero",
-    "title": "Lograr la fusión nuclear era un problema físico. Ahora el gran reto es convencer a los que tienen dinero",
-    "snippet": "Ya lo decía el Doctor Ock en la 'Spider-Man 2' de Sam Raimi: la fusión nuclear es tener el poder del Sol en la palma de la mano. Las centrales nucleares que tenemos desde hace décadas funcionan mediante fisión de átomos....",
-    "date": "2026-08-14T08:01:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/lograr-fusion-nuclear-era-problema-fisico-ahora-gran-reto-convencer-a-que-tienen-dinero",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-teletrabajo-pausas-activas-previenen-problemas-musculoesqueleticos-jornada-laboral-1087450.aspx",
-    "title": "Teletrabajo: pausas activas previenen problemas musculoesqueléticos en jornada laboral",
-    "snippet": "El teletrabajo se ha consolidado como una modalidad laboral que implica permanecer varias horas frente a una computadora, por lo que adoptar pausas activas y cambiar de posición durante la jornada resulta clave para prev...",
-    "date": "2026-08-14T08:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-teletrabajo-pausas-activas-previenen-problemas-musculoesqueleticos-jornada-laboral-1087450.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/ferrari-esta-notando-gran-transferencia-riqueza-millennials-generacion-z-sus-principales-clientes-1",
-    "title": "Ferrari ya está notando \"La Gran Transferencia de Riqueza\": millennials y generación Z ya son sus principales clientes",
-    "snippet": "Tener un Ferrari esperándote en el garaje continúa siendo el anhelo de muchos jóvenes, sobre todo cuando el dinero no supone un problema. Los jóvenes están revolucionando el mercado de los coches de lujo, y Ferrari es la...",
-    "date": "2026-08-14T07:31:15",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/ferrari-esta-notando-gran-transferencia-riqueza-millennials-generacion-z-sus-principales-clientes-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/como-jugar-a-todos-resident-evil-orden-cronologico-1",
-    "title": "Cómo jugar a todos los 'Resident Evil' en orden cronológico",
-    "snippet": "Desde 1996, es tradición en la franquicia 'Resident Evil' no dejar claras las claves de su historia a sus jugadores. La narrativa difusa, los detalles parcos y la información lateral son habituales en la franquicia y ni ...",
-    "date": "2026-08-14T07:01:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/como-jugar-a-todos-resident-evil-orden-cronologico-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/japon-se-abarrota-turistas-japoneses-apenas-viajan-a-otros-paises-solo-17-tiene-pasaporte",
-    "title": "Mientras Japón se abarrota de turistas, los japoneses apenas viajan a otros países. Solo el 17% tiene pasaporte",
-    "snippet": "Japón cerró 2025 con 42,7 millones de visitantes extranjeros, un incremento del 15,8% respecto al récord previo de 36,9 millones de 2024, superando por primera vez la barrera de los 40 millones. Además, diciembre de 2025...",
-    "date": "2026-08-14T07:01:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/japon-se-abarrota-turistas-japoneses-apenas-viajan-a-otros-paises-solo-17-tiene-pasaporte",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2236830/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/",
-    "title": "Trump slaps a 100 percent tariff on heavy and 'sensitive' drones",
-    "snippet": "President Trump has imposed tariffs up to 100 percent on drones that are \"particularly sensitive\" for national security....",
-    "date": "2026-08-14T06:12:39",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2236830/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450841",
-    "title": "China e India podrían asociarse con Rusia en construcción de flota mercante de rompehielos",
-    "snippet": "Por Redacción PortalPortuario / Agencia Tass @PortalPortuario China e India están dispuestas a asociarse con Rusia para construir una flota\nLa entrada China e India podrían asociarse con Rusia en construcción de flota me...",
-    "date": "2026-08-14T05:00:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/china-e-india-podrian-asociarse-con-rusia-en-construccion-de-flota-mercante-de-rompehielos/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-escolar-peruano-gana-medalla-plata-olimpiada-sudamericana-matematica-1087536.aspx",
-    "title": "Escolar peruano gana medalla de plata en Olimpiada Sudamericana de Matemática",
-    "snippet": "César Flores Delgado, de 14 años, obtuvo la medalla de plata en la 37.ª Olimpiada Matemática de Países del Cono Sur, realizada del 3 al 8 de agosto en Lima. Su resultado contribuyó a que el Perú alcanzara, por segundo añ...",
-    "date": "2026-08-14T03:44:10",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-escolar-peruano-gana-medalla-plata-olimpiada-sudamericana-matematica-1087536.aspx",
-    "category": "MERCADO"
   }
 ]
