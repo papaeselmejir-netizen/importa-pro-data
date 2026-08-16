@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-essalud-padomi-ninos-brinda-mas-46-mil-atenciones-domiciliarias-lima-y-callao-1087849.aspx",
+    "title": "EsSalud: Padomi Niños brinda más de 46 mil atenciones domiciliarias en Lima y Callao",
+    "snippet": "Con el objetivo de acercar atención médica integral y especializada a menores que, debido a sus condiciones de salud, tienen dificultades para trasladarse a un establecimiento, EsSalud, a través de Padomi Niños, realizó ...",
+    "date": "2026-08-16T22:05:07",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-essalud-padomi-ninos-brinda-mas-46-mil-atenciones-domiciliarias-lima-y-callao-1087849.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/",
+    "title": "Turn on these settings to protect your Android phone from theft",
+    "snippet": "Google has added some smart theft-detection features to Android in recent years....",
+    "date": "2026-08-16T21:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-panama-abre-su-mercado-a-granada-bulbos-cebolla-y-papa-peruana-1087851.aspx",
+    "title": "Panamá abre su mercado a la granada, bulbos de cebolla y papa peruana",
+    "snippet": "El Ministerio de Desarrollo Agrario y Riego (Midagri), indicó hoy que a través del Servicio Nacional de Sanidad Agraria (Senasa), logró la apertura del mercado de Panamá para la exportación de granada fresca, bulbos de c...",
+    "date": "2026-08-16T21:21:12",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-panama-abre-su-mercado-a-granada-bulbos-cebolla-y-papa-peruana-1087851.aspx",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://portalportuario.cl/?p=451131",
     "title": "EE. UU.: Puerto de Los Ángeles ampliará infraestructura vial para Juegos Olímpicos",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Comisión del Puerto de Los Ángeles aprobó contratos de construcción por valor un de USD\nLa entrada EE. UU.: Puerto de Los Ángeles ampliará infraestructura vial para Juego...",
@@ -1321,32 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/autoridad-aduanera-de-ee-uu-aprueba-segunda-prorroga-por-90-dias-a-exencion-normativa-que-regula-cabotaje/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450955",
-    "title": "México: Movimiento de granel mineral crece en Puerto de Manzanillo durante primer semestre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El movimiento de granel mineral a través del Puerto de Manzanillo creció 3,6% en el primer\nLa entrada México: Movimiento de granel mineral crece en Puerto de Manzanillo dura...",
-    "date": "2026-08-14T22:00:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/mexico-movimiento-de-granel-mineral-crece-en-puerto-de-manzanillo-durante-primer-semestre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-produce-cadena-alpaquera-caylloma-conoce-tecnologia-del-citetextil-camelidos-arequipa-1087628.aspx",
-    "title": "Produce: cadena alpaquera de Caylloma conoce tecnología del CITEtextil Camélidos Arequipa",
-    "snippet": "Una comitiva de 22 representantes de la cadena de valor de la alpaca de Caylloma conoció los servicios, laboratorios y capacidades tecnológicas del CITEtextil Camélidos Arequipa, como parte de una pasantía técnica orient...",
-    "date": "2026-08-14T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-produce-cadena-alpaquera-caylloma-conoce-tecnologia-del-citetextil-camelidos-arequipa-1087628.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
-    "title": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
-    "snippet": "Mejorar un modelo de inteligencia artificial para programar ya no significa únicamente conseguir que escriba código con menos errores. Cuando lo entrenamos para desenvolverse durante horas en entornos complejos, utilizar...",
-    "date": "2026-08-14T21:43:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
-    "category": "TRIBUTARIO"
   }
 ]
