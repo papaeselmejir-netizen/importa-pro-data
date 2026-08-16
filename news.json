@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-pagos-digitales-crecen-47-peru-y-aceleran-transformacion-operaciones-empresariales-1087783.aspx",
+    "title": "Pagos digitales crecen 47% en Perú y aceleran transformación de operaciones empresariales",
+    "snippet": "La velocidad con la que se mueve el dinero se ha convertido en un factor cada vez más relevante para las empresas peruanas. Según el Banco Central de Reserva (BCR), durante 2025 el número de operaciones de pagos digitale...",
+    "date": "2026-08-16T06:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-pagos-digitales-crecen-47-peru-y-aceleran-transformacion-operaciones-empresariales-1087783.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-proinversion-petroperu-formaliza-vehiculo-clave-para-captar-financiamiento-internacional-1087800.aspx",
     "title": "Proinversión: Petroperú formaliza vehículo clave para captar financiamiento internacional",
     "snippet": "La reorganización de Petroperú dio un nuevo paso con la aprobación de la creación de Petroperú Invest S.A.C., sociedad que funcionará como el vehículo encargado de recibir y canalizar los recursos provenientes de la banc...",
@@ -1339,14 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/china-conquista-mercado-global-automovil-su-pais-esta-pasando-algo-peculiar-ventas-se-estan-desplomando",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153090",
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog....",
-    "date": "2026-08-14T14:50:11",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "category": "MERCADO"
   }
 ]
