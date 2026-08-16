@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-camara-comercio-lima-presenta-propuestas-para-fortalecer-turismo-y-comercio-exterior-1087847.aspx",
+    "title": "Cámara de Comercio de Lima presenta propuestas para fortalecer turismo y comercio exterior",
+    "snippet": "La Cámara de Comercio de Lima (CCL), indicó hoy que presentó al Ministerio de Comercio Exterior y Turismo (Mincetur) un conjunto de propuestas para fortalecer el comercio exterior, mejorar la competitividad logística y r...",
+    "date": "2026-08-16T20:07:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-camara-comercio-lima-presenta-propuestas-para-fortalecer-turismo-y-comercio-exterior-1087847.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451123",
+    "title": "Panamá: Contenedor con 109 sacos de aletas de tiburón es retenido en Puerto de Manzanillo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un contenedor con 109 sacos de aletas de tiburón, con ruta de Panamá a Malasia, fue\nLa entrada Panamá: Contenedor con 109 sacos de aletas de tiburón es retenido en Puerto de...",
+    "date": "2026-08-16T20:00:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/panama-contenedor-con-109-sacos-de-aletas-de-tiburon-es-retenido-en-puerto-de-manzanillo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
+    "title": "Do you really need an antivirus app on your Android?",
+    "snippet": "You probably don't need antivirus software on your Android phone, but there are some exceptions....",
+    "date": "2026-08-16T20:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-tres-spiderman-bajaron-desde-helipuerto-del-insn-san-borja-y-sorprendieron-a-ninos-1087839.aspx",
     "title": "Tres Spider-Man bajaron desde el helipuerto del INSN San Borja y sorprendieron a niños",
     "snippet": "Tres Spider-Man descendieron en cuerdas desde el helipuerto del INSN San Borja para sorprender a los niños hospitalizados y a aquellos que se reunieron en el frontis tras acudir a su consulta externa. Los pequeños observ...",
@@ -1321,32 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-dolar-muestra-tendencia-a-baja-primera-quincena-agosto-y-cierra-s-3367-1087603.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1701394",
-    "title": "Indecopi autoriza compra de Sky Airline por Abra Group, al que pertenece el Grupo de Avianca, pero con condiciones",
-    "snippet": "Indecopi aprobó la transacción de la compra con condiciones de Sky Airline por Abra Group, tras descartar riesgos significativos para la competencia en las rutas Lima-Miami y Cusco-Miami....",
-    "date": "2026-08-14T21:15:08",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/indecopi-autoriza-compra-de-sky-airline-por-abra-group-al-que-pertenece-el-grupo-de-avianca-pero-con-condiciones-noticia-1701394",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ucayali-425-familias-fortalecen-sus-parcelas-agroforestales-apoyo-del-iiap-1087630.aspx",
-    "title": "Ucayali: 425 familias fortalecen sus parcelas agroforestales con apoyo del IIAP",
-    "snippet": "El Instituto de Investigaciones de la Amazonía Peruana (IIAP), entidad adscrita al Ministerio del Ambiente, atendió 225 hectáreas de sistemas agroforestales y benefició a 425 familias de Ucayali con acciones orientadas a...",
-    "date": "2026-08-14T21:03:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ucayali-425-familias-fortalecen-sus-parcelas-agroforestales-apoyo-del-iiap-1087630.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "6a7e0f9c0f200c034ba14931",
-    "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "snippet": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?...",
-    "date": "2026-08-14T20:59:03",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "category": "MERCADO"
   }
 ]
