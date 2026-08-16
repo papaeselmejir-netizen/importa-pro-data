@@ -549,6 +549,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/canarias-tiene-serio-problema-muy-madrileno-invasion-madronos",
+    "title": "El árbol más simbólico de Madrid es un peligro para Canarias: el cruce letal que preocupa a los biólogos",
+    "snippet": "Cuando acostumbramos a hablar de especies invasoras, suelen salir a la palestra animales \"exóticos\" desde el punto de vista de la procedencia, sirva como ejemplo las avispas asiáticas o el ailanto, un árbol del que quizá...",
+    "date": "2026-08-15T11:16:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/canarias-tiene-serio-problema-muy-madrileno-invasion-madronos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/legislacion-y-derechos/francia-iba-a-ser-pionera-europa-vetando-redes-a-menores-15-anos-se-ha-topado-obstaculo-constitucion",
     "title": "Francia iba a ser pionera en Europa vetando las redes a menores de 15 años. Se ha topado con un obstáculo: la Constitución",
     "snippet": "Aunque hay varios Estados europeos (entre ellos, España) que quieren seguir la estela de Australia y vetar las redes sociales a menores, hay uno que iba por delante del resto: Francia. El Estado francés estaba superando ...",
@@ -1338,15 +1347,6 @@
     "date": "2026-08-14T14:50:11",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ministro-trabajo-supervisa-acciones-generan-empleo-temporal-junin-tras-sismos-1087568.aspx",
-    "title": "Ministro de Trabajo supervisa acciones que generan empleo temporal en Junín tras sismos",
-    "snippet": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, se encuentra este viernes 14 de agosto en el departamento de Junín para conocer de cerca los daños causados por los recientes sismos y supervisar las acciones q...",
-    "date": "2026-08-14T14:38:41",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ministro-trabajo-supervisa-acciones-generan-empleo-temporal-junin-tras-sismos-1087568.aspx",
     "category": "MERCADO"
   }
 ]
