@@ -1,7 +1,106 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3153433",
+    "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+    "snippet": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations....",
+    "date": "2026-08-17T17:10:59",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-caida-huaicos-afectan-via-tacna-ilo-y-auto-cae-a-un-forado-causado-deslizamientos-1087927.aspx",
+    "title": "Caída de huaicos afectan vía Tacna - Ilo y auto cae a un forado causado por deslizamientos",
+    "snippet": "Varios huaicos se registraron esta mañana en la provincia de Tacna a causa de las lluvias intensas que se presentan en esa jurisdicción. Las toneladas de barro y piedras volvieron a bloquear la carretera Costanera que un...",
+    "date": "2026-08-17T17:03:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-caida-huaicos-afectan-via-tacna-ilo-y-auto-cae-a-un-forado-causado-deslizamientos-1087927.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/avion-electrico-grande-mundo-ha-realizado-su-primer-vuelo-solo-ha-gastado-cinco-dolares-electricidad",
+    "title": "El avión eléctrico más grande del mundo ya ha realizado su primer vuelo: solo ha gastado cinco dólares en electricidad",
+    "snippet": "El avión eléctrico de baterías más grande que jamás haya despegado acaba de completar su vuelo inaugural y, según su fabricante, lo ha hecho consumiendo solamente 5 dólares en electricidad. El X1 de Heart Aerospace voló ...",
+    "date": "2026-08-17T17:00:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/avion-electrico-grande-mundo-ha-realizado-su-primer-vuelo-solo-ha-gastado-cinco-dolares-electricidad",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-lluvia-lima-como-debemos-actuar-para-protegernos-del-dengue-y-leptospirosis-1087925.aspx",
+    "title": "Lluvia en Lima: ¿Cómo debemos actuar para protegernos del dengue y la leptospirosis?",
+    "snippet": "Frente a las recientes inundaciones en los distritos del sur de Lima Metropolitana a causa de las lluvias, el Ministerio de Salud (Minsa) brindó una serie de recomendaciones a la ciudadanía a fin de que se protejan ante ...",
+    "date": "2026-08-17T16:58:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-lluvia-lima-como-debemos-actuar-para-protegernos-del-dengue-y-leptospirosis-1087925.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8/",
+    "title": "Samsung might be making a new foldable that's even wider than the Galaxy Z Fold 8",
+    "snippet": "Samsung may have as many as five different foldable phones next year....",
+    "date": "2026-08-17T16:50:47",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3153430",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online....",
+    "date": "2026-08-17T16:38:44",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=981008",
+    "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+    "snippet": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested...",
+    "date": "2026-08-17T16:38:35",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451225",
+    "title": "Uruguay: Cambio normativo obligaría a agencias marítimas a responder por accidentes de buques en puertos",
+    "snippet": "La Cámara de Diputados de Uruguay aprobará en general el proyecto de Rendición de Cuentas remitido por el Poder Ejecutivo\nLa entrada Uruguay: Cambio normativo obligaría a agencias marítimas a responder por accidentes de ...",
+    "date": "2026-08-17T16:30:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/uruguay-cambio-normativo-obligaria-a-agencias-maritimas-a-responder-por-accidentes-de-buques-en-puertos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/cataluna-ha-probado-camaras-ia-para-pillarte-movil-cinturon",
+    "title": "Cataluña ha pillado a miles de conductores usando el móvil en el coche con sus cámaras IA",
+    "snippet": "A lo largo de estas últimas semanas, Cataluña ha estado probando un nuevo sistema de vigilancia impulsado por IA en dos de sus carreteras más transitadas. La idea detrás de esta prueba piloto es conocer si el sistema es ...",
+    "date": "2026-08-17T16:30:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/cataluna-ha-probado-camaras-ia-para-pillarte-movil-cinturon",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2237551/iphone-focus-modes-better-productivity/",
+    "title": "If you're ignoring iPhone focus modes, you're missing out on Apple's best productivity tool",
+    "snippet": "Go beyond Do Not Disturb: control what alerts you get and when instead of being overwhelmed with pings all the time....",
+    "date": "2026-08-17T16:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2237551/iphone-focus-modes-better-productivity/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://lacamara.pe/?p=98703",
     "title": "Machu Picchu Foods obtiene medalla de plata en concurso internacional de chocolates AVPA París 2026",
+    "snippet": "Machu Picchu Foods obtuvo la medalla de plata en el Concurso Internacional AVPA París 2026 por su producto Berna Dark Chocolate 72 % Cocoa with Caramel Bits, en la categoría de chocolate negro con otros ingredientes. El ...",
+    "date": "2026-08-17T16:24:43",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/machu-picchu-foods-obtiene-medalla-de-plata-en-concurso-internacional-de-chocolates-avpa-paris-2026-ccl-asociados/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=98703",
+    "title": "Machu Picchu Foods obtiene medalla de plata en concurso internacional de chocolates AVPA París",
     "snippet": "Machu Picchu Foods obtuvo la medalla de plata en el Concurso Internacional AVPA París 2026 por su producto Berna Dark Chocolate 72 % Cocoa with Caramel Bits, en la categoría de chocolate negro con otros ingredientes. El ...",
     "date": "2026-08-17T16:24:43",
     "source": "LA CÁMARA (CCL)",
@@ -51,6 +150,15 @@
     "date": "2026-08-17T16:03:16",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-ipd-denuncio-fumigacion-albergue-deportistas-atletas-su-interior-1087918.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ipd-denuncia-penalmente-fumigacion-albergue-deportistas-atletas-su-interior-1087918.aspx",
+    "title": "IPD denuncia penalmente fumigación de albergue de deportistas con atletas en su interior",
+    "snippet": "El Instituto Peruano del Deporte (IPD) anunció este lunes el inicio de una investigación sobre la fumigación realizada el último domingo en el interior del albergue, ubicado en la Villa Deportiva Nacional (VIdena), cuand...",
+    "date": "2026-08-17T16:03:16",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ipd-denuncia-penalmente-fumigacion-albergue-deportistas-atletas-su-interior-1087918.aspx",
     "category": "MERCADO"
   },
   {
@@ -1239,114 +1347,6 @@
     "date": "2026-08-16T02:00:51",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/australia-pilbara-ports-maneja-638-millones-de-toneladas-durante-julio-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451010",
-    "title": "Tarifas de flete marítimo intraasiático registra incremento de 6% en última semana",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Índice de Contenedores Intraasiáticos (IACI) de Drewry registró un incremento del 6% esta semana, situándose\nLa entrada Tarifas de flete marítimo intraasiático registra i...",
-    "date": "2026-08-16T01:00:14",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/tarifas-de-flete-maritimo-intraasiatico-registra-incremento-de-6-en-ultima-semana/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-que-debe-aprender-un-disenador-para-seguir-siendo-relevante-el-mercado-laboral-1087775.aspx",
-    "title": "¿Qué debe aprender un diseñador para seguir siendo relevante en el mercado laboral?",
-    "snippet": "La irrupción de la inteligencia artificial (IA) generativa en las aulas ha acelerado una transformación inevitable en la educación superior. En sectores donde antes se valoraba la destreza técnica para ejecutar una ilust...",
-    "date": "2026-08-16T01:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-que-debe-aprender-un-disenador-para-seguir-siendo-relevante-el-mercado-laboral-1087775.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1701819",
-    "title": "El Gobierno oficializó un subsidio de S/105 millones para el transporte terrestre ante el incremento en el costo del combustible",
-    "snippet": "El Gobierno transferirá fondos para financiar por tres meses dos mecanismos llamados META-Nacional y META-Lima y Callao. La medida excepcional busca frenar el impacto de la volatilidad internacional de combustibles en pa...",
-    "date": "2026-08-16T00:25:42",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/el-gobierno-oficializo-un-subsidio-de-s-105-millones-para-el-transporte-terrestre-ante-el-incremento-en-el-costo-del-combustible-noticia-1701819",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451106",
-    "title": "Sindicato N°1 de Trabajadores de DP World San Antonio acusa incumplimiento de compromisos en negociación colectiva",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Sindicato N°1 de Trabajadores de DP World San Antonio acusó inclumplimiento  de compromisos por parte\nLa entrada Sindicato N°1 de Trabajadores de DP World San Antonio acu...",
-    "date": "2026-08-16T00:04:21",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/sindicato-n1-de-trabajadores-de-dp-world-san-antonio-acusa-incumplimiento-de-compromisos-en-negociacion-colectiva/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451002",
-    "title": "Temporada de cruceros en Puerto de Motril cerrará con 68 escalas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La temporada de cruceros el Puerto de Motril, que va de abril a noviembre habrá contabilizado 68\nLa entrada Temporada de cruceros en Puerto de Motril cerrará con 68 escalas ...",
-    "date": "2026-08-16T00:00:56",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/temporada-de-cruceros-en-puerto-de-motril-cerrara-con-68-escalas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indeci-recomienda-medidas-preparacion-ante-continuidad-lloviznas-la-costa-1087792.aspx",
-    "title": "Indeci recomienda medidas de preparación ante continuidad de lloviznas en la costa",
-    "snippet": "El Instituto Nacional de Defensa Civil (Indeci) recomienda adoptar medidas de preparación ante el Aviso Meteorológico N.° 323 del Senamhi, que informa sobre la continuidad de la llovizna, de moderada a extrema intensidad...",
-    "date": "2026-08-15T23:33:57",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indeci-recomienda-medidas-preparacion-ante-continuidad-lloviznas-la-costa-1087792.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-psg-confirma-contratacion-del-extremo-belga-mika-godts-hasta-temporada-2031-1087787.aspx",
-    "title": "El PSG confirma la contratación del extremo belga Mika Godts hasta la temporada 2031",
-    "snippet": "El Paris Saint-Germain contrató al extremo izquierdo belga Mika Godts, procedente del Ajax Ámsterdam neerlandés, con un contrato hasta 2031, anunció este sábado el club francés, vigente doble campeón de Europa....",
-    "date": "2026-08-15T22:58:08",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-psg-confirma-contratacion-del-extremo-belga-mika-godts-hasta-temporada-2031-1087787.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mineria-agroexportacion-puertos-y-fintech-abren-oportunidades-negocio-peru-1087766.aspx",
-    "title": "Minería, agroexportación, puertos y fintech abren oportunidades de negocio en Perú",
-    "snippet": "El Perú presenta señales positivas para la actividad empresarial. Entre enero y mayo, las exportaciones superaron los 45,000 millones de dólares, un crecimiento de 37% respecto al mismo periodo del año anterior, informó ...",
-    "date": "2026-08-15T22:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mineria-agroexportacion-puertos-y-fintech-abren-oportunidades-negocio-peru-1087766.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dia-del-nino-minsa-refuerza-vigilancia-sanitaria-juguetes-el-centro-lima-1087763.aspx",
-    "title": "Día del Niño: Minsa refuerza vigilancia sanitaria de juguetes en el Centro de Lima",
-    "snippet": "El Ministerio de Salud, a través de la Dirección General de Salud Ambiental e Inocuidad Alimentaria (Digesa), realizó una jornada de vigilancia sanitaria en establecimientos dedicados a la comercialización de juguetes, u...",
-    "date": "2026-08-15T22:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dia-del-nino-minsa-refuerza-vigilancia-sanitaria-juguetes-el-centro-lima-1087763.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.engadget.com/2236219/how-samsung-galaxy-watch-series8-measures-antioxidant-levels/",
-    "title": "How Samsung's Galaxy Watch 8 measures your antioxidant levels",
-    "snippet": "Samsung's newest party trick could actually help you improve your diet, and therefore your overall health....",
-    "date": "2026-08-15T22:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2236219/how-samsung-galaxy-watch-series8-measures-antioxidant-levels/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-destina-s-105-millones-para-garantizar-transporte-ante-alza-combustibles-1087777.aspx",
-    "title": "Gobierno destina S/ 105 millones para garantizar transporte ante alza de combustibles",
-    "snippet": "El Gobierno de la presidenta Keiko Fujimori aprobó una nueva medida extraordinaria y temporal para garantizar la continuidad de los servicios públicos de transporte terrestre y mitigar el impacto del incremento del costo...",
-    "date": "2026-08-15T22:27:37",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-destina-s-105-millones-para-garantizar-transporte-ante-alza-combustibles-1087777.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450674",
-    "title": "Memoria anual de sostenibilidad de Puerto de Barcelona incrementa 6% organizaciones participantes",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Barcelona publicó la Memoria &#8220;Positive Impact&#8221; 2025, el informe anual que analiza la\nLa entrada Memoria anual de sostenibilidad de Puerto de Barcelo...",
-    "date": "2026-08-15T22:00:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/memoria-anual-de-sostenibilidad-de-puerto-de-barcelona-incrementa-6-organizaciones-participantes/",
     "category": "LOGÍSTICA"
   }
 ]
