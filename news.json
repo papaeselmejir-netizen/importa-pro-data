@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/",
+    "title": "GitHub has been down for most of the morning",
+    "snippet": "If you hear lots of grumbling in coffee shops this morning, GitHub's outage may be why....",
+    "date": "2026-08-17T15:22:27",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3153419",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center....",
+    "date": "2026-08-17T15:16:24",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/escritorio-elevable-escritorio-tradicional-que-tipo-mesa-elegir-para-teletrabajar-gastar",
+    "title": "Escritorio elevable o escritorio tradicional: qué tipo de mesa elegir para teletrabajar sin gastar de más",
+    "snippet": "Llevo ya más de cinco años teletrabajando en casa. Son ocho horas diarias (a veces, algunas más) que paso delante del ordenador cinco días a la semana y, como es lógico, uno busca estar lo más cómodo posible. En todo est...",
+    "date": "2026-08-17T15:16:21",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/escritorio-elevable-escritorio-tradicional-que-tipo-mesa-elegir-para-teletrabajar-gastar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=980977",
+    "title": "Apple ordered to change app data consent prompts on iPhones and iPads",
+    "snippet": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts repor...",
+    "date": "2026-08-17T15:10:25",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-museo-central-presenta-exposicion-de-artista-maria-laso-1087910.aspx",
+    "title": "Museo Central presenta exposición de la artista María Laso",
+    "snippet": "Hasta el 25 de octubre de 2026, el Museo Central (MUCEN) del Banco Central de Reserva del Perú presenta la exposición individual “Las ruinas de mi cuerpo todavía saben cantar” de la artista María Laso, ganadora del prime...",
+    "date": "2026-08-17T15:05:50",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-museo-central-presenta-exposicion-de-artista-maria-laso-1087910.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/mapa-para-entender-que-punto-este-verano-ha-sido-terrorifico-para-espana-materia-incendios",
+    "title": "El mapa para entender hasta qué punto este verano ha sido terrorífico para España en materia de incendios",
+    "snippet": "2026 nos está dejando un verano insoportable, digno de olvidar. España sufre una catástrofe forestal sin precedentes: Educación Forestal dibuja este escenario dantesco, sumando ya 43 Grandes Incendios Forestales (GIF) se...",
+    "date": "2026-08-17T15:00:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/mapa-para-entender-que-punto-este-verano-ha-sido-terrorifico-para-espana-materia-incendios",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-proinversion-inicia-talleres-informativos-sobre-app-y-obras-impuestos-24-regiones-1087905.aspx",
+    "title": "ProInversión inicia talleres informativos sobre APP y Obras por Impuestos en 24 regiones",
+    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión), adscrita al Ministerio de Economía y Finanzas (MEF), inicia una jornada nacional de talleres informativos sobre Asociaciones Público-Privadas (APP), Proyect...",
+    "date": "2026-08-17T15:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-proinversion-inicia-talleres-informativos-sobre-app-y-obras-impuestos-24-regiones-1087905.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-vuelos-el-aeropuerto-tacna-continuan-suspendidos-lluvias-intensas-1087906.aspx",
+    "title": "Vuelos en el aeropuerto de Tacna continúan suspendidos por lluvias intensas",
+    "snippet": "Debido a las lluvias intensas que se registran en la ciudad de Tacna, el aeropuerto internacional Coronel FAP Carlos Ciriani Santa Rosa canceló los viajes hacia la ciudad Lima por tercer día consecutivo. La suspensión de...",
+    "date": "2026-08-17T14:38:10",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-vuelos-el-aeropuerto-tacna-continuan-suspendidos-lluvias-intensas-1087906.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=98686",
+    "title": "Precio del dólar en Perú hoy, 17 de agosto de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este lunes 17 de agosto a las 9:30 a.m. se sitúa en S/3.358 para la compra y S/3.368 para la ven...",
+    "date": "2026-08-17T14:36:27",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-17-de-agosto-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=980916",
+    "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
+    "snippet": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play...",
+    "date": "2026-08-17T14:35:25",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-lunes-17-agosto-del-2026-1087904.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy lunes 17 de agosto del 2026?",
+    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-08-17T14:30:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-lunes-17-agosto-del-2026-1087904.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.theverge.com/?p=980912",
     "title": "Uber partners with Zipline on Eats drone deliveries",
     "snippet": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching 1 million daily drone deliveries by 2029. Uber also said it was making a strategic investment ...",
@@ -218,6 +317,15 @@
   {
     "id": "https://www.xataka.com/magnet/que-barato-dormir-venecia-que-murcia-viajar-dentro-espana-se-ha-vuelto-insostenible",
     "title": "Por qué es más barato dormir en Venecia que en Murcia: viajar dentro de España se ha vuelto insostenible",
+    "snippet": "\"Se fueron al concierto de Bad Bunny y les salió la noche a 50 euros. Ese mismo finde otro amigo se fue a hacer un examen de oposiciones a Carabanchel y le salió a 93 euros la noche\". El tuit cita a otro que compara una ...",
+    "date": "2026-08-17T11:00:49",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/que-barato-dormir-venecia-que-murcia-viajar-dentro-espana-se-ha-vuelto-insostenible",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/que-barato-dormir-venecia-que-murcia-viajar-dentro-espana-se-ha-vuelto-insostenible",
+    "title": "Dormir y viajar a Venecia es más barato que ir a Murcia. Ahora sabemos por qué",
     "snippet": "\"Se fueron al concierto de Bad Bunny y les salió la noche a 50 euros. Ese mismo finde otro amigo se fue a hacer un examen de oposiciones a Carabanchel y le salió a 93 euros la noche\". El tuit cita a otro que compara una ...",
     "date": "2026-08-17T11:00:49",
     "source": "XATAKA",
@@ -1240,113 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/cine-y-tv/algunos-actores-estan-perdiendo-trabajos-se-estan-quitando-sus-propios-clones-hechos-ia",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-amazonas-kuelap-fue-escenario-segundo-simulacro-nacional-multipeligro-2026-1087724.aspx",
-    "title": "Amazonas: Kuélap fue escenario de segundo Simulacro Nacional Multipeligro 2026",
-    "snippet": "El complejo arqueológico monumental Kuélap fue el escenario elegido por la Dirección Desconcentrada de Cultura de Amazonas para llevar a cabo el segundo Simulacro Nacional Multipeligro, como parte de las acciones de prep...",
-    "date": "2026-08-15T16:16:28",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-amazonas-kuelap-fue-escenario-segundo-simulacro-nacional-multipeligro-2026-1087724.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-subsidio-combustible-mef-afirma-se-viene-construyendo-padron-beneficiarios-1087722.aspx",
-    "title": "Subsidio por combustible: MEF afirma que se viene construyendo padrón de beneficiarios",
-    "snippet": "Tras el anuncio del Gobierno de otorgar un subsidio focalizado a los precios de los combustibles en el país para atenuar el alza que vienen registrando en el mercado internacional, el Ministerio de Economía y Finanzas (M...",
-    "date": "2026-08-15T16:09:45",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-subsidio-combustible-mef-afirma-se-viene-construyendo-padron-beneficiarios-1087722.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/limon-espanol-se-prometia-felices-campana-historica-que-virus-puso-jaque-miles-frutales",
-    "title": "Miles de árboles limoneros en España viven una crisis histórica: el virus que ha puesto en jaque a toda la industria",
-    "snippet": "Su nombre quizás no te diga gran cosa, pero el virus de la clorosis nervial amarilla (CYVCV por sus siglas en inglés) supone desde hace meses un auténtico dolor de muelas para los agricultores que se dedican a cultivar c...",
-    "date": "2026-08-15T16:00:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/limon-espanol-se-prometia-felices-campana-historica-que-virus-puso-jaque-miles-frutales",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450987",
-    "title": "Oficinas de Motis en puertos de Dover y Folkestone asumen operaciones aduaneras tras cese de servicios de Sevington",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de Dover y Folkestone y la empresa Motis asumirán las operaciones aduaneras y de\nLa entrada Oficinas de Motis en puertos de Dover y Folkestone asumen operaciones...",
-    "date": "2026-08-15T16:00:22",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/oficinas-de-motis-en-puertos-de-dover-y-folkestone-asumen-operaciones-aduaneras-tras-cese-de-servicios-de-sevington/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/investigacion/durante-decadas-creimos-que-carne-hizo-grande-nuestro-cerebro-ahora-todo-apunta-a-demonizada-azucar",
-    "title": "Durante décadas, creímos que la carne hizo grande nuestro cerebro. Ahora todo apunta a la demonizada azúcar",
-    "snippet": "Durante décadas, la historia de la evolución se ha narrado como una epopeya carnívora y se imagina como un simio que baja de los árboles, empieza a cazar, consume carne y, gracias a ese chute de proteínas y grasas, desar...",
-    "date": "2026-08-15T15:30:47",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/investigacion/durante-decadas-creimos-que-carne-hizo-grande-nuestro-cerebro-ahora-todo-apunta-a-demonizada-azucar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/2013-eeuu-lanzo-2-000-ratones-cargados-paracetamol-para-aniquilar-criatura-isla-resultados-fueron-sorprendentes",
-    "title": "En 2013 EEUU lanzó 2.000 ratones cargados de paracetamol para aniquilar la criatura de una isla. Los resultados siguen sorprendiendo",
-    "snippet": "Hace poco más de una década se dio una imagen difícil de creer: un helicóptero estadounidense sobrevoló una isla del Pacífico dejando caer miles de pequeños paracaídas de cartón. No transportaban ayuda humanitaria ni mat...",
-    "date": "2026-08-15T15:00:47",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/2013-eeuu-lanzo-2-000-ratones-cargados-paracetamol-para-aniquilar-criatura-isla-resultados-fueron-sorprendentes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/querer-a-animal-otra-especie-no-solo-cosa-humanos-ciencia-acaba-demostrar-primates",
-    "title": "Querer a un animal de otra especie no es solo cosa de humanos: la ciencia lo acaba de demostrar en primates",
-    "snippet": "Si nos preguntamos de dónde nos viene el amor a nuestras mascotas, la pregunta nos puede resultar incluso ridícula. ¿De dónde va a venir? De dentro. ¿Cómo no vamos a querer a esos seres tan adorables? Lo cierto es que es...",
-    "date": "2026-08-15T14:30:47",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/querer-a-animal-otra-especie-no-solo-cosa-humanos-ciencia-acaba-demostrar-primates",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-expresa-su-solidaridad-al-gobierno-y-pueblo-indonesia-tras-terremoto-1087710.aspx",
-    "title": "Gobierno expresa su solidaridad al Gobierno y pueblo de Indonesia tras el terremoto",
-    "snippet": "El Gobierno del Perú expresó su solidaridad con el Gobierno y el pueblo de la República de Indonesia tras el terremoto de magnitud 7,7 que afectó la localidad de Ende, en la provincia de Nusa Tenggara Oriental....",
-    "date": "2026-08-15T14:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-expresa-su-solidaridad-al-gobierno-y-pueblo-indonesia-tras-terremoto-1087710.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1701739",
-    "title": "Elmer Cuba: subsidio de S/4 por galón de diésel para transporte de carga y pasajeros se aplicará en todo el Perú",
-    "snippet": "La medida anunciada por el Gobierno tendrá topes mensuales y será operada por el MTC, que depositará el beneficio directamente a los transportistas en cuentas del Banco de la Nación....",
-    "date": "2026-08-15T14:29:42",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/elmer-cuba-subsidio-de-s-4-por-galon-de-diesel-para-transporte-de-carga-y-pasajeros-se-aplicara-en-todo-el-peru-noticia-1701739",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/analisis/odyssey-g8-g80hf-analisis-caracteristicas-precio-especificaciones",
-    "title": "Samsung Odyssey G8 G80HF, análisis: un monitor dos en uno pensado para jugar (y que brilla para trabajar)",
-    "snippet": "Llevo años con dos monitores: uno 4K y otro con resolución QHD. Estoy tan hecho a este setup que llevo tiempo sintiendo curiosidad por los monitores con resolución dual, algo que estamos empezando a ver en distintos fabr...",
-    "date": "2026-08-15T14:16:47",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/analisis/odyssey-g8-g80hf-analisis-caracteristicas-precio-especificaciones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-implementa-servicios-expresos-conectan-huaycan-metropolitano-y-linea-1-1087707.aspx",
-    "title": "ATU implementa servicios expresos que conectan Huaycán con Metropolitano y Línea 1",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) puso en marcha tres servicios expresos de transporte público que conectan Huaycán, Ñaña y Chaclacayo con puntos estratégicos del Metropolitano, la Línea 1 del Me...",
-    "date": "2026-08-15T14:05:16",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-implementa-servicios-expresos-conectan-huaycan-metropolitano-y-linea-1-1087707.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=980635",
-    "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-    "snippet": "With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the c...",
-    "date": "2026-08-15T14:03:14",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-    "category": "MERCADO"
   }
 ]
