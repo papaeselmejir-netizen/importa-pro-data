@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-villa-salvador-sera-declarado-emergencia-inundaciones-a-causa-lluvias-1087880.aspx",
+    "title": "Villa El Salvador será declarado en emergencia por inundaciones a causa de lluvias",
+    "snippet": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, anunció la declaratoria en emergencia de Villa El Salvador debido a las inundaciones y al colapso del sistema de alcantarillado ocasionados por las ...",
+    "date": "2026-08-17T03:15:11",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-villa-salvador-sera-declarado-emergencia-inundaciones-a-causa-lluvias-1087880.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-mef-aumento-sueldo-minimo-esta-decidido-pero-fecha-aplicacion-aun-no-se-define-1087876.aspx",
     "title": "MEF: aumento de sueldo mínimo está decidido, pero fecha de aplicación aún no se define",
     "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, afirmó que el Gobierno mantiene la decisión de elevar la remuneración mínima vital (RMV), aunque precisó que la fecha de aplicación del primer incremento todavía no está de...",
@@ -1338,15 +1347,6 @@
     "date": "2026-08-14T23:00:57",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/brasil-tcp-descarga-mas-de-800-contenedores-de-carga-fraccionada-entre-enero-y-julio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-la-punta-alcalde-pide-evacuar-a-refugio-ante-eventual-tsunami-1087651.aspx",
-    "title": "La Punta: alcalde pide evacuar a refugio ante eventual tsunami",
-    "snippet": "El alcalde de La Punta, Ramón Garay, lideró hoy el simulacro multipeligro desarrollado en este distrito del Callao y exhortó a los vecinos a identificar las zonas seguras y acudir al refugio habilitado en el último piso ...",
-    "date": "2026-08-14T22:54:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-punta-alcalde-pide-evacuar-a-refugio-ante-eventual-tsunami-1087651.aspx",
     "category": "LOGÍSTICA"
   }
 ]
