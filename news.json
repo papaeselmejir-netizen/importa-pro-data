@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-gobierno-no-cumplira-ley-eleva-a-s3500-pensiones-maestros-jubilados-1087877.aspx",
+    "title": "MEF: Gobierno no cumplirá ley que eleva a S/3,500 pensiones de maestros jubilados",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) no cumplirá la ley que establece una pensión de 3,500 soles para los maestros jubilados y cesantes, debido a que considera que dicha norma pone en riesgo la estabilidad macroeco...",
+    "date": "2026-08-17T04:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-gobierno-no-cumplira-ley-eleva-a-s3500-pensiones-maestros-jubilados-1087877.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-villa-salvador-sera-declarado-emergencia-inundaciones-a-causa-lluvias-1087880.aspx",
     "title": "Villa El Salvador será declarado en emergencia por inundaciones a causa de lluvias",
     "snippet": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, anunció la declaratoria en emergencia de Villa El Salvador debido a las inundaciones y al colapso del sistema de alcantarillado ocasionados por las ...",
@@ -1338,15 +1347,6 @@
     "date": "2026-08-14T23:02:24",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-hospital-loayza-despliega-personal-medico-y-brigadas-durante-simulacro-nacional-fotos-1087644.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450944",
-    "title": "Brasil: TCP descarga más de 800 contenedores de carga fraccionada entre enero y julio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Entre enero y julio de 2026, TCP, la empresa que gestiona la Terminal de Contenedores de\nLa entrada Brasil: TCP descarga más de 800 contenedores de carga fraccionada entre e...",
-    "date": "2026-08-14T23:00:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-tcp-descarga-mas-de-800-contenedores-de-carga-fraccionada-entre-enero-y-julio/",
     "category": "LOGÍSTICA"
   }
 ]
