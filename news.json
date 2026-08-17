@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-aumento-sueldo-minimo-esta-decidido-pero-fecha-aplicacion-aun-no-se-define-1087876.aspx",
+    "title": "MEF: aumento de sueldo mínimo está decidido, pero fecha de aplicación aún no se define",
+    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, afirmó que el Gobierno mantiene la decisión de elevar la remuneración mínima vital (RMV), aunque precisó que la fecha de aplicación del primer incremento todavía no está de...",
+    "date": "2026-08-17T03:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-aumento-sueldo-minimo-esta-decidido-pero-fecha-aplicacion-aun-no-se-define-1087876.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministro-cuba-estado-asumira-casi-mitad-del-incremento-del-combustible-1087874.aspx",
+    "title": "Ministro Cuba: Estado asumirá casi la mitad del incremento del combustible",
+    "snippet": "El Estado asumirá aproximadamente la mitad del incremento del precio del combustible para el transporte masivo de carga y pasajeros, como parte del subsidio anunciado por el Gobierno ante el alza internacional del petról...",
+    "date": "2026-08-17T02:26:36",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministro-cuba-estado-asumira-casi-mitad-del-incremento-del-combustible-1087874.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-produce-fija-118-200-toneladas-limite-captura-del-bonito-para-2026-1087866.aspx",
     "title": "Produce fija en 118 200 toneladas el límite de captura del bonito para 2026",
     "snippet": "El Ministerio de la Producción (Produce) estableció en 118 200 toneladas el límite de captura del bonito (Sarda chiliensis chiliensis) para el 2026, frente a las 93 200 toneladas fijadas inicialmente, considerando las co...",
@@ -1330,23 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-la-punta-alcalde-pide-evacuar-a-refugio-ante-eventual-tsunami-1087651.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450850",
-    "title": "Autoridades regionales de Valparaíso apuestan por tren y Puerto Terrestre Los Andes para potenciar corredor logístico con Mercosur",
-    "snippet": "Por Sebastián Betancourt @PortalPortuario Autoridades de la Región de Valparaíso remarcaron la importancia de ofrecer una conexión ferroviaria que permita\nLa entrada Autoridades regionales de Valparaíso apuestan por tren...",
-    "date": "2026-08-14T22:47:21",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/autoridades-regionales-de-valparaiso-apuestan-por-tren-y-puerto-terrestre-los-andes-para-potenciar-corredor-logistico-con-mercosur/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-visita-del-papa-leon-xiv-a-pucallpa-es-una-oportunidad-para-volver-a-mirar-a-amazonia-1087637.aspx",
-    "title": "\"Visita del papa León XIV a Pucallpa es una oportunidad para volver a mirar a la Amazonía\"",
-    "snippet": "La próxima visita apostólica del papa León XIV al Perú, del 11 al 17 de noviembre e incluirá una parada en Pucallpa (Ucayali), despierta una expectativa especial en la Iglesia de la Amazonía, porque representa una oportu...",
-    "date": "2026-08-14T22:34:38",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-visita-del-papa-leon-xiv-a-pucallpa-es-una-oportunidad-para-volver-a-mirar-a-amazonia-1087637.aspx",
-    "category": "MERCADO"
   }
 ]
