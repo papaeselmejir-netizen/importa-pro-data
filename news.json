@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=451345",
+    "title": "San Antonio Terminal Internacional atiende escala inaugural de nuevo buque de Maersk de propulsión a metanol",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario San Antonio Terminal Internacional (STI) atendió la escala inaugural de un nuevo portacontenedores de Maersk. La\nLa entrada San Antonio Terminal Internacional atiende escala...",
+    "date": "2026-08-18T14:30:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/san-antonio-terminal-internacional-atiende-escala-inaugural-de-nuevo-buque-de-maersk-de-propulsion-a-metanol/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/misterio-olvidos-a-partir-50-anos-ciencia-al-fin-entiende-punto-inflexion-nuestro-cerebro",
+    "title": "El misterio de los olvidos a partir de los 50 años: la ciencia al fin entiende el \"punto de inflexión\" de nuestro cerebro",
+    "snippet": "Llegar a la mediana edad trae consigo muchos cambios, pero hay uno que destaca por encima de otros, que son las pérdidas de memoria para cosas tan cotidianas como saber dónde se han dejado unas llaves. Durante mucho tiem...",
+    "date": "2026-08-18T14:30:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/misterio-olvidos-a-partir-50-anos-ciencia-al-fin-entiende-punto-inflexion-nuestro-cerebro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4839720",
+    "title": "Peacock Price Hike: Streamer Ups Cost on All Subscriptions",
+    "snippet": "The streaming service also rolled out price increases in 2025....",
+    "date": "2026-08-18T14:11:50",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/peacock-price-hike-streamer-ups-cost-on-all-subscriptions/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/investigacion/fisicos-negaron-existencia-agujeros-negros-extremales-durante-decadas-cometieron-gran-error",
+    "title": "Los físicos negaron la existencia de los agujeros negros extremales durante décadas. Cometieron un gran error",
+    "snippet": "Los agujeros negros son los objetos conocidos más enigmáticos del universo. Solo las estrellas de neutrones y las de quarks se atreven a disputarles su protagonismo. Nuestro conocimiento aún no nos permite entender todos...",
+    "date": "2026-08-18T14:00:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/investigacion/fisicos-negaron-existencia-agujeros-negros-extremales-durante-decadas-cometieron-gran-error",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gobierno-crea-grupo-trabajo-para-fortalecimiento-del-programa-compras-a-myperu-1088045.aspx",
+    "title": "Gobierno crea grupo de trabajo para fortalecimiento del programa Compras a MYPErú",
+    "snippet": "El Ministerio de la Producción (Produce) dispuso la creación del Grupo de trabajo sectorial para el fortalecimiento y optimización del Programa Nacional Compras a MYPErú, con el objetivo es realizar un diagnóstico y reco...",
+    "date": "2026-08-18T13:55:04",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-crea-grupo-trabajo-para-fortalecimiento-del-programa-compras-a-myperu-1088045.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-daniel-varas-preside-comision-acusaciones-constitucionales-de-camara-diputados-1088046.aspx",
+    "title": "Daniel Varas preside la Comisión de Acusaciones Constitucionales de la Cámara de Diputados",
+    "snippet": "El diputado Daniel Varas Seguin (Juntos Por el Perú) fue elegido hoy martes por unanimidad como presidente de la Comisión de Acusaciones Constitucionales de la Cámara de Diputados para el periodo anual de sesiones 2026-2...",
+    "date": "2026-08-18T13:53:40",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-daniel-varas-preside-comision-acusaciones-constitucionales-de-camara-diputados-1088046.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/miramos-openai-anthropic-autentica-revolucion-ia-se-esta-cocinando-otro-lugar-ssi",
+    "title": "Mientras miramos hacia OpenAI y Anthropic, la auténtica revolución de la IA se está cocinando en otro lugar: SSI",
+    "snippet": "Ilya Sutskever no es un científico especializado en inteligencia artificial (IA) más. Completó su formación en informática en el equipo que Geoffrey Hinton, premio Nobel de Física en 2024 y una de las figuras que ha hech...",
+    "date": "2026-08-18T13:46:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/miramos-openai-anthropic-autentica-revolucion-ia-se-esta-cocinando-otro-lugar-ssi",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=451315",
     "title": "APM Terminals Elizabeth encarga 34 grúas pórtico eléctricas sobre neumáticos de Konecranes",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Elizabeth firmó un acuerdo con Konecranes para optimizar las operaciones de la terminal con\nLa entrada APM Terminals Elizabeth encarga 34 grúas pórtico eléctri...",
@@ -430,6 +493,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/colombia-sociedad-puerto-industrial-aguadulce-moviliza-42-toneladas-de-ayuda-humanitaria/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=98750",
+    "title": "Perucámaras solicita mantener acciones de prevención y mitigación frente al Fenómeno El Niño",
+    "snippet": "La Libertad, Lambayeque y Piura exhortan al Gobierno a ejecutar intervenciones urgentes en puntos críticos y a no renunciar a las medidas de prevención, pese a la proximidad de la temporada de lluvias. LEA TAMBIÉN: CCL y...",
+    "date": "2026-08-18T00:50:12",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/perucamaras-solicita-mantener-acciones-de-prevencion-y-mitigacion-frente-al-fenomeno-el-nino/",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o#0",
@@ -882,6 +954,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://rpp.pe/1701962",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 17 de agosto del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy lunes 17 de agosto es de  S/3.36 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-08-17T16:45:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-17-de-agosto-del-2026-noticia-1701962",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3153430",
     "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online....",
@@ -1267,86 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/que-ha-pasado-toni-orca-veterana-gibraltar-que-ha-aparecido-diez-agujeros-bala",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=450907",
-    "title": "Italia: Puertos de Génova registra crecimiento interanual del 1,6% en tráfico de mercancías durante primer semestre de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de Génova (Italia) registraron  un crecimiento interanual del 1,6% en tráfico de mercancías durante\nLa entrada Italia: Puertos de Génova registra crecimiento int...",
-    "date": "2026-08-17T13:30:04",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/italia-puertos-de-genova-registra-crecimiento-interanual-del-16-en-trafico-de-mercancias-durante-primer-semestre-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153346",
-    "title": "Uber adds Zipline drones to its Eats delivery network",
-    "snippet": "Uber is also making investing in Zipline as part of the tie-up....",
-    "date": "2026-08-17T13:18:49",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/todos-fire-tv-stick-han-bajado-precio-asi-nuevas-ofertas-individuales-packs-mandos-luna-intercom",
-    "title": "Todos los Fire TV Stick han bajado de precio: así son las nuevas ofertas individuales y con packs de mandos Luna, Intercom y más",
-    "snippet": "Amazon ha comenzado la semana con un gran surtido de ofertas en sus dispositivos. Ya hemos hablado del mejor descuento que hemos visto en el Kindle Scribe, y ahora le toca el turno a los Fire TV Stick, que no son pocas l...",
-    "date": "2026-08-17T13:16:21",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/todos-fire-tv-stick-han-bajado-precio-asi-nuevas-ofertas-individuales-packs-mandos-luna-intercom",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/unos-obreros-perforaban-sotano-antigua-cerveceria-para-convertirla-vivienda-social-han-dado-millones-lingotes-oro",
-    "title": "Unos obreros perforaban el sótano de una antigua cervecería para convertirla en vivienda social. Han dado con millones en lingotes de oro",
-    "snippet": "Kobe tenía 18 años y un trabajo de verano en una obra de Sint-Gillis-Dendermonde, a unos 30 kilómetros al noroeste de Bruselas. El proyecto no parecía esconder grandes emociones: junto a otros trabajadores estaban perfor...",
-    "date": "2026-08-17T13:00:24",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/unos-obreros-perforaban-sotano-antigua-cerveceria-para-convertirla-vivienda-social-han-dado-millones-lingotes-oro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451142",
-    "title": "Luis Fernando Solari: “En OMNI queremos crecer y desafiar el statu quo de la logística en Estados Unidos”",
-    "snippet": "Por Andrés Orrego Siebert  @PortalPortuario Luis Fernando Solari, CEO DE OMNI, abordó -en entrevista con PortalPortuario&#8211; los planes de expansión\nLa entrada Luis Fernando Solari: “En OMNI queremos crecer y desafiar...",
-    "date": "2026-08-17T12:57:06",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/luis-fernando-solari-en-omni-queremos-crecer-y-desafiar-el-statu-quo-de-la-logistica-en-estados-unidos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/stripe-acaba-apostar-7-000-millones-a-idea-nunca-habra-unico-modelo-ia-que-sirva-para-todo",
-    "title": "Stripe acaba de apostar 7.000 millones a una idea: nunca habrá un único modelo de IA que sirva para todo",
-    "snippet": "Stripe ha llegado a un acuerdo para adquirir OpenRouter Inc. por 7.000 millones de dólares, según indican fuentes cercanas a las negociaciones que citan en Bloomberg. La cifra es especialmente llamativa porque la startup...",
-    "date": "2026-08-17T12:46:21",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/stripe-acaba-apostar-7-000-millones-a-idea-nunca-habra-unico-modelo-ia-que-sirva-para-todo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/ley-laboral-clara-cuando-puede-empresa-despedir-a-trabajador-se-va-vacaciones-estando-baja",
-    "title": "La ley laboral es clara: cuándo puede una empresa despedir a un trabajador si se va de vacaciones estando de baja",
-    "snippet": "Existe una creencia muy extendida sobre lo que implica estar de baja médica. Mucha gente cree que estar de baja médica es incompatible con hacer cualquier tipo de actividad física o irse de vacaciones, y que hacerlo pued...",
-    "date": "2026-08-17T12:40:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/ley-laboral-clara-cuando-puede-empresa-despedir-a-trabajador-se-va-vacaciones-estando-baja",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-nino-si-evento-2026-es-muy-fuerte-sequia-la-sierra-peruana-sera-como-198283-1087589.aspx",
-    "title": "El Niño: Si evento 2026 es muy fuerte, la sequía en la sierra peruana será como en 1982-83",
-    "snippet": "Si el fenómeno El Niño global alcanzase una intensidad muy fuerte en el verano 2026-2027 del hemisferio sur, como estima con una probabilidad del 90% el Centro de Predicción Climática (CPC) de la Administración Nacional ...",
-    "date": "2026-08-17T12:31:56",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-nino-si-evento-2026-es-muy-fuerte-sequia-la-sierra-peruana-sera-como-198283-1087589.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/privacidad/camaras-flock-estan-causando-pavor-estados-unidos-pregunta-que-pasara-llegan-a-espana",
-    "title": "Las cámaras flock están causando pavor en Estados Unidos. La pregunta es qué pasará si llegan a España",
-    "snippet": "Fundada en 2017 en Atlanta, Flock Safety se describe como una empresa tecnológica de seguridad pública. Su producto estrella son las cámaras ALPR, una forma abreviada de decir que son cámaras de lectura automática de mat...",
-    "date": "2026-08-17T12:30:21",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/privacidad/camaras-flock-estan-causando-pavor-estados-unidos-pregunta-que-pasara-llegan-a-espana",
-    "category": "LEGAL"
   }
 ]
