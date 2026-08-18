@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=451282",
+    "title": "Colombia: Sociedad Puerto Industrial Aguadulce moviliza 42 toneladas de ayuda humanitaria",
+    "snippet": "P0r Redacción PortalPortuario @PortalPortuario La Sociedad Puerto Industrial Aguadulce movilizó 42 toneladas de ayuda humanitaria destinadas a las comunidades que\nLa entrada Colombia: Sociedad Puerto Industrial Aguadulce...",
+    "date": "2026-08-18T01:00:43",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/colombia-sociedad-puerto-industrial-aguadulce-moviliza-42-toneladas-de-ayuda-humanitaria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-tres-incendios-forestales-activos-se-propagan-peligrosamente-tres-distritos-cusquenos-1087994.aspx",
+    "title": "Tres incendios forestales activos se propagan peligrosamente en tres distritos cusqueños",
+    "snippet": "Tres incendios forestales activos que se propagan peligrosamente, desde esta tarde, por la vegetación de los cerros de los distritos de Coya, Yanatile y Huayopata, de las provincias cusqueñas de Calca y La Convención, pr...",
+    "date": "2026-08-18T00:30:19",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-tres-incendios-forestales-activos-se-propagan-peligrosamente-tres-distritos-cusquenos-1087994.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4838711",
+    "title": "Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide",
+    "snippet": "Researchers find Big Tech’s most ambitious builds and climate pledges are colliding with its AI power demands....",
+    "date": "2026-08-18T00:13:33",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ucayali-investigaciones-del-iiap-impulsan-aprovechamiento-sostenible-del-aguaje-1087988.aspx",
+    "title": "Ucayali: investigaciones del IIAP impulsan el aprovechamiento sostenible del aguaje",
+    "snippet": "La selección de palmeras de aguaje con menor altura, buena productividad y características favorables para la cosecha es parte de las investigaciones que desarrolla el Instituto de Investigaciones de la Amazonía Peruana ...",
+    "date": "2026-08-17T23:40:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ucayali-investigaciones-del-iiap-impulsan-aprovechamiento-sostenible-del-aguaje-1087988.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4838632",
+    "title": "Lock It Up: Android 17’s Latest QPR2 Beta Introduces a Built-In App Lock",
+    "snippet": "Using an app lock on your phone adds a layer of security for sensitive data past your main lock screen....",
+    "date": "2026-08-17T23:38:32",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/lock-it-up-android-17s-latest-qpr2-beta-introduces-a-built-in-app-lock/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451208",
+    "title": "Perú impulsa conectividad aérea de carga con Brasil con ingreso de Azul Linhas Aéreas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones (MTC) de Perú, a través de la Dirección General de\nLa entrada Perú impulsa conectividad aérea de carga con Brasil con ingreso d...",
+    "date": "2026-08-17T23:30:46",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-impulsa-conectividad-aerea-de-carga-con-brasil-con-ingreso-de-azul-linhas-aereas/",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://rpp.pe/1702081",
     "title": "Empresarios del sur elevan optimismo con el inicio del gobierno de Keiko Fujimori y esperan una mejor economía",
     "snippet": "La Encuesta de Percepción Regional del BCRP muestra que el optimismo empresarial se mantiene en las cuatro zonas del país, aunque con mayor fuerza en el sur y norte. En julio, las empresas sureñas mejoraron sus perspecti...",
@@ -259,6 +313,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/1696-rey-inglaterra-puso-impuesto-a-ventanas-que-paso-acto-seguido-no-sorprendio-a-nadie",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o#0",
+    "title": "Film commission backs Amazon MGM expansion of studios",
+    "snippet": "The Berkshire film studio was previously home to iconic horror studio Hammer Films....",
+    "date": "2026-08-17T18:03:39",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-agremiacion-futbolistas-exige-a-sport-boys-pague-a-sus-exjugadores-1087939.aspx",
@@ -1285,68 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/bulto-te-impide-respirar-que-medicina-sabe-hoy-angustioso-nudo-garganta",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153318",
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI....",
-    "date": "2026-08-16T16:53:51",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMixAFBVV95cUxOV285Zi1tamp6ZDFNZEFJenhKbW5LVU5MbWJVel85aUQ3YkU0WnktbDdsR3VHRk9IeVRvV1ZTOTJBZG9SazQ4WkV6TExSQURXNmc3bW01eUxsR183UUpoci03R0h5T0pBQW11Mm1fcDJIY2IyOFpLenp2RnhxX0VtUzJyMVZlcHp5aXNOLUdtbzd4eDRYNUNJaUJfbjlKMWNIZDhENlVIc1dHLS0xT2ZQYlBwNGVVWW9xb1dnRnZzTER6U2J3",
-    "title": "Gobierno aprueba S/105 millones en subsidios al transporte por alza de combustibles - tvperu.gob.pe",
-    "snippet": "Gobierno aprueba S/105 millones en subsidios al transporte por alza de combustibles  tvperu.gob.pe...",
-    "date": "2026-08-16T16:41:22",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV285Zi1tamp6ZDFNZEFJenhKbW5LVU5MbWJVel85aUQ3YkU0WnktbDdsR3VHRk9IeVRvV1ZTOTJBZG9SazQ4WkV6TExSQURXNmc3bW01eUxsR183UUpoci03R0h5T0pBQW11Mm1fcDJIY2IyOFpLenp2RnhxX0VtUzJyMVZlcHp5aXNOLUdtbzd4eDRYNUNJaUJfbjlKMWNIZDhENlVIc1dHLS0xT2ZQYlBwNGVVWW9xb1dnRnZzTER6U2J3?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMixAFBVV95cUxOV285Zi1tamp6ZDFNZEFJenhKbW5LVU5MbWJVel85aUQ3YkU0WnktbDdsR3VHRk9IeVRvV1ZTOTJBZG9SazQ4WkV6TExSQURXNmc3bW01eUxsR183UUpoci03R0h5T0pBQW11Mm1fcDJIY2IyOFpLenp2RnhxX0VtUzJyMVZlcHp5aXNOLUdtbzd4eDRYNUNJaUJfbjlKMWNIZDhENlVIc1dHLS0xT2ZQYlBwNGVVWW9xb1dnRnZzTER6U2J3",
-    "title": "Gobierno aprueba S/105 millones en subsidios al transporte por alza de combustibles - TVPerú",
-    "snippet": "Gobierno aprueba S/105 millones en subsidios al transporte por alza de combustibles  TVPerú...",
-    "date": "2026-08-16T16:34:15",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV285Zi1tamp6ZDFNZEFJenhKbW5LVU5MbWJVel85aUQ3YkU0WnktbDdsR3VHRk9IeVRvV1ZTOTJBZG9SazQ4WkV6TExSQURXNmc3bW01eUxsR183UUpoci03R0h5T0pBQW11Mm1fcDJIY2IyOFpLenp2RnhxX0VtUzJyMVZlcHp5aXNOLUdtbzd4eDRYNUNJaUJfbjlKMWNIZDhENlVIc1dHLS0xT2ZQYlBwNGVVWW9xb1dnRnZzTER6U2J3?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1701869",
-    "title": "Secretario general del SUTEP defiende pensiones a maestros y dice que titular del MEF \"se está creyendo un superministro\"",
-    "snippet": "Lucio Castro, secretario general del SUTEP, fue consultado en RPP sobre el anuncio del ministro de Economía, Elmer Cuba, de enviar al Tribunal Constitucional la Ley 32581 que otorga una pensión de S/3 500 a los maestros ...",
-    "date": "2026-08-16T16:33:06",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/secretario-general-del-sutep-defiende-pensiones-a-maestros-y-dice-que-titular-del-mef-se-esta-creyendo-un-superministro-noticia-1701869",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
-    "title": "How to lease an iPhone instead of buying one",
-    "snippet": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before....",
-    "date": "2026-08-16T16:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153291",
-    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-    "snippet": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
-    "date": "2026-08-16T16:04:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/mayor-amenaza-medieval-para-papa-nacio-remoto-pueblo-aragones-goberno-peniscola-que-envenenaron",
-    "title": "La mayor amenaza medieval para el Papa nació en un remoto pueblo aragonés. Gobernó desde Peñíscola hasta que lo envenenaron",
-    "snippet": "En el año 2000, un cráneo parcialmente momificado apareció en un palacio de Sabiñán, en Zaragoza. Los análisis lo identificaron como los restos de un papa del siglo XV. Alguien lo había robado de la urna donde reposaba. ...",
-    "date": "2026-08-16T16:00:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/mayor-amenaza-medieval-para-papa-nacio-remoto-pueblo-aragones-goberno-peniscola-que-envenenaron",
-    "category": "MERCADO"
   }
 ]
