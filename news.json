@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo#0",
+    "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+    "snippet": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app....",
+    "date": "2026-08-18T23:14:49",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4840252",
+    "title": "Fairphone’s Repairable Smartphones Debut in the US With the 6 Plus",
+    "snippet": "The Fairphone 6 Plus costs $650 and ships with Android 16 as its operating system....",
+    "date": "2026-08-18T22:51:33",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/fairphones-repairable-smartphones-debut-in-the-us-with-the-6-plus/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1702301",
+    "title": "Ejecutivo y sector privado articulan acciones frente a posibles efectos del fenómeno El Niño",
+    "snippet": "El Gobierno y los principales gremios empresariales acordaron coordinar recursos, maquinaria y capacidades logísticas como medida de respuesta ante los posibles impactos del fenómeno El Niño en las zonas de mayor riesgo ...",
+    "date": "2026-08-18T22:48:32",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/peru/actualidad/ejecutivo-y-sector-privado-articulan-acciones-frente-a-posibles-efectos-del-fenomeno-el-nino-noticia-1702301",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451415",
+    "title": "Maersk nombra a Bruno Plantaz como nuevo director de global de Soluciones",
+    "snippet": "Por Redacción PortalPortuario  @PortalPortuario La naviera Maersk anunció a Bruno Plantaz como nuevo director global de Soluciones y miembro del\nLa entrada Maersk nombra a Bruno Plantaz como nuevo director de global de S...",
+    "date": "2026-08-18T22:30:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/maersk-nombra-a-bruno-plantaz-como-nuevo-director-de-global-de-soluciones/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-suspenden-ingreso-turistas-al-camino-inca-machu-picchu-deslizamientos-1088145.aspx",
     "title": "Suspenden ingreso de turistas al Camino Inca de Machu Picchu por deslizamientos",
     "snippet": "La Dirección de Cultura de Cusco dispuso la suspensión temporal del ingreso de turistas al Caminos Inca de Machu Picchu, debido a los deslizamientos y daños registrados en diversos sectores a causa de las intensas lluvia...",
@@ -12,6 +48,15 @@
     "id": "https://techcrunch.com/?p=3154081",
     "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
     "snippet": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github....",
+    "date": "2026-08-18T22:14:25",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3154081",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub....",
     "date": "2026-08-18T22:14:25",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
@@ -1303,50 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/aduanas-fortalece-cooperacion-internacional-e-intercambio-de-experiencias-con-el-salvador/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451290",
-    "title": "Movimiento de carga en puertos peruanos crece 6,5% en primer semestre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los principales terminales portuarios del Perú movilizaron un total de 35,1 millones de toneladas métricas de\nLa entrada Movimiento de carga en puertos peruanos crece 6,5% e...",
-    "date": "2026-08-17T22:30:37",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/movimiento-de-carga-en-puertos-peruanos-crece-65-en-primer-semestre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-venezuela-reajusta-cifra-victimas-6438-fallecidos-doble-terremoto-del-24-junio-1087979.aspx",
-    "title": "Venezuela reajusta cifra de víctimas: 6,438 fallecidos por doble terremoto del 24 de junio",
-    "snippet": "El balance de muertos por el doble terremoto del 24 de junio ascendió este lunes a 6,438, después de que las autoridades sumaran 137 fallecimientos con respecto al informe de la semana pasada, según cifras publicadas hoy...",
-    "date": "2026-08-17T22:27:28",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-venezuela-reajusta-cifra-victimas-6438-fallecidos-doble-terremoto-del-24-junio-1087979.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=98744",
-    "title": "CCL y MEF impulsarán medidas para destrabar inversiones y mejorar el entorno empresarial",
-    "snippet": "La Cámara de Comercio de Lima (CCL) presentó al Ministerio de Economía y Finanzas (MEF) una agenda de medidas concretas para mejorar las condiciones en las que operan las empresas, impulsar la inversión y contribuir a la...",
-    "date": "2026-08-17T22:23:41",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/ccl-y-mef-impulsaran-medidas-para-destrabar-inversiones-y-mejorar-el-entorno-empresarial/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-encargo-a-petroperu-es-dejar-perder-dinero-y-empezar-a-generar-ganancias-1087969.aspx",
-    "title": "MEF: encargo a Petroperú es dejar de perder dinero y empezar a generar ganancias",
-    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, sostuvo hoy que si este directorio falla, y su sindicato de trabajadores no colabora, Petroperú se puede perder y caer en mano de los acreedores....",
-    "date": "2026-08-17T22:14:17",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-encargo-a-petroperu-es-dejar-perder-dinero-y-empezar-a-generar-ganancias-1087969.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mtc-y-gore-tacna-unidos-para-atender-emergencias-huaico-y-activacion-quebradas-1087975.aspx",
-    "title": "MTC y Gore Tacna unidos para atender emergencias por huaico y activación de quebradas",
-    "snippet": "El paso de un huaico en el km 261+032, sector Tacahuay, en la carretera Costanera -que conecta Taca con Ilo- generado por la activación de una quebrada ocasionó la pérdida de plataforma en el sector, informó el Ministeri...",
-    "date": "2026-08-17T22:01:11",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mtc-y-gore-tacna-unidos-para-atender-emergencias-huaico-y-activacion-quebradas-1087975.aspx",
-    "category": "LEGAL"
   }
 ]
