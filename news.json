@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-incautan-25-toneladas-nitrato-amonio-procedencia-rusa-megapuerto-chancay-1088010.aspx",
+    "title": "Incautan 2.5 toneladas de nitrato de amonio de procedencia rusa en megapuerto de Chancay",
+    "snippet": "Un total de 2.5 toneladas de nitrato de amonio incautó la Superintendencia Nacional de Control de Servicios de Seguridad, Armas, Municiones y Explosivos de Uso Civil (Sucamec), organismo adscrito al Ministerio del Interi...",
+    "date": "2026-08-18T04:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-incautan-25-toneladas-nitrato-amonio-procedencia-rusa-megapuerto-chancay-1088010.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-julio-velarde-recibe-honoris-causa-universidad-catolica-santa-maria-arequipa-1088015.aspx",
     "title": "Julio Velarde recibe honoris causa de Universidad Católica de Santa María de Arequipa",
     "snippet": "El presidente del Banco Central de Reserva del Perú, Julio Velarde, fue distinguido como doctor honoris causa por la Universidad Católica de Santa María de Arequipa en mérito a su trayectoria profesional, su aporte a la ...",
@@ -1338,15 +1347,6 @@
     "date": "2026-08-16T18:00:00",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2236808/might-want-to-skip-newegg-gpu-trade-in-program-reasons/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=980752",
-    "title": "Amazon is trying to crush class-action suits before they get started",
-    "snippet": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class...",
-    "date": "2026-08-16T17:35:02",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
     "category": "MERCADO"
   }
 ]
