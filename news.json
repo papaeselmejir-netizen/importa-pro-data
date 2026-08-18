@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-julio-velarde-recibe-honoris-causa-universidad-catolica-santa-maria-arequipa-1088015.aspx",
+    "title": "Julio Velarde recibe honoris causa de Universidad Católica de Santa María de Arequipa",
+    "snippet": "El presidente del Banco Central de Reserva del Perú, Julio Velarde, fue distinguido como doctor honoris causa por la Universidad Católica de Santa María de Arequipa en mérito a su trayectoria profesional, su aporte a la ...",
+    "date": "2026-08-18T03:37:41",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-julio-velarde-recibe-honoris-causa-universidad-catolica-santa-maria-arequipa-1088015.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-dos-sismos-magnitud-42-y-40-se-registran-esta-noche-amazonas-y-puno-1088009.aspx",
+    "title": "Dos sismos de magnitud 4.2 y 4.0 se registran esta noche en Amazonas y en Puno",
+    "snippet": "Dos sismos de magnitud 4.2 y 4.0 se registraron esta noche en las regiones de Amazonas, en el nororiente peruano, y de Puno, en el sur, informó hoy el Instituto Geofísico del Perú (IGP)....",
+    "date": "2026-08-18T03:11:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-dos-sismos-magnitud-42-y-40-se-registran-esta-noche-amazonas-y-puno-1088009.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-ejercito-despliega-brigada-para-apoyar-limpieza-viviendas-villa-salvador-1088006.aspx",
     "title": "Ejército despliega brigada para apoyar en limpieza de viviendas en Villa El Salvador",
     "snippet": "En un recorrido que realizó esta noche en Villa El Salvador, el ministro de Defensa, Rafael Belaúnde, afirmó que hasta el momento se han registrado 62 viviendas afectadas y 298 damnificados tras la intensa lluvia y colap...",
@@ -1330,23 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=980752",
-    "title": "Amazon is trying to crush class action suits before they get started",
-    "snippet": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class...",
-    "date": "2026-08-16T17:35:02",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/tiktok-elimino-funcion-seguridad-a-millones-usuarios-para-hacer-prueba-uno-ellos-acabo-suicidandose",
-    "title": "TikTok eliminó una función de seguridad a millones de usuarios para hacer una prueba. Uno de ellos acabó suicidándose",
-    "snippet": "El A/B testing es una práctica habitual en cualquier producto digital. Consiste en dividir a los usuarios en dos grupos para comparar una versión nueva frente a la anterior y medir su impacto. Es lo que hizo en TikTok cu...",
-    "date": "2026-08-16T17:30:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/tiktok-elimino-funcion-seguridad-a-millones-usuarios-para-hacer-prueba-uno-ellos-acabo-suicidandose",
-    "category": "TRIBUTARIO"
   }
 ]
