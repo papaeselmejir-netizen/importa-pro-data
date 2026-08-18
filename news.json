@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=451140",
+    "title": "Avanzan obras de rehabilitación sustentable de antiguo Comedor de Obreros del Puerto de Castellón",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Las obras de rehabilitación integral del antiguo Comedor de Obreros del Puerto de Castellón avanzan a\nLa entrada Avanzan obras de rehabilitación sustentable de antiguo Comed...",
+    "date": "2026-08-18T05:00:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/avanzan-obras-de-rehabilitacion-sustentable-de-antiguo-comedor-de-obreros-del-puerto-de-castellon/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-chancay-impulsa-nuevas-oportunidades-para-nuestros-emprendedores-procompite-1088022.aspx",
+    "title": "Chancay impulsa nuevas oportunidades para nuestros emprendedores con Procompite",
+    "snippet": "La Municipalidad Distrital de Chancay, a través de la Subgerencia de Desarrollo Económico, Turismo y Empleo, en coordinación con la Gerencia Regional de Desarrollo Económico del Gobierno Regional de Lima, realizó la capa...",
+    "date": "2026-08-18T04:40:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-chancay-impulsa-nuevas-oportunidades-para-nuestros-emprendedores-procompite-1088022.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-incautan-25-toneladas-nitrato-amonio-procedencia-rusa-megapuerto-chancay-1088010.aspx",
     "title": "Incautan 2.5 toneladas de nitrato de amonio de procedencia rusa en megapuerto de Chancay",
     "snippet": "Un total de 2.5 toneladas de nitrato de amonio incautó la Superintendencia Nacional de Control de Servicios de Seguridad, Armas, Municiones y Explosivos de Uso Civil (Sucamec), organismo adscrito al Ministerio del Interi...",
@@ -70,6 +88,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/colombia-sociedad-puerto-industrial-aguadulce-moviliza-42-toneladas-de-ayuda-humanitaria/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o#0",
+    "title": "Disabled people in England to get 24-hour free bus travel",
+    "snippet": "The change, which has been welcomed by campaign groups, will come into effect in England from April....",
+    "date": "2026-08-18T00:32:51",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-tres-incendios-forestales-activos-se-propagan-peligrosamente-tres-distritos-cusquenos-1087994.aspx",
@@ -1321,32 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/1919-alemania-contrajo-deuda-132-mil-millones-marcos-oro-nadie-imagino-que-iba-a-tardar-91-anos-saldarla",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/",
-    "title": "Here's why retro games look better on old CRT TVs",
-    "snippet": "A Super Nintendo or PlayStation looked better on retro TVs than today's ultra-sharp displays, but why is there such a difference?...",
-    "date": "2026-08-16T18:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/noaa-lanza-su-pronostico-contundente-nino-tiene-81-probabilidades-ser-muy-fuerte-a-finales-2026",
-    "title": "La NOAA lanza su pronóstico más duro: El Niño tiene un 81% de probabilidades de ser \"muy fuerte\" a finales de 2026",
-    "snippet": "El Pacífico ecuatorial se está calentando, y los últimos datos indican que lo está haciendo con una rapidez y consistencia que han puesto en alerta a las principales agencias meteorológicas del mundo. Aquí la propia NOAA...",
-    "date": "2026-08-16T18:00:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/noaa-lanza-su-pronostico-contundente-nino-tiene-81-probabilidades-ser-muy-fuerte-a-finales-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2236808/might-want-to-skip-newegg-gpu-trade-in-program-reasons/",
-    "title": "You might want to skip Newegg's GPU trade-in program",
-    "snippet": "The program makes upgrading your hardware incredibly convenient, but weigh your options....",
-    "date": "2026-08-16T18:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2236808/might-want-to-skip-newegg-gpu-trade-in-program-reasons/",
-    "category": "MERCADO"
   }
 ]
