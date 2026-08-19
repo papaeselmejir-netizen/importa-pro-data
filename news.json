@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-lambayeque-realizan-267-dosajes-arsenico-y-plomo-a-menores-12-anos-1088320.aspx",
+    "title": "Lambayeque: realizan 267 dosajes de arsénico y plomo a menores de 12 años",
+    "snippet": "En lo que va del año se han realizado aproximadamente 267 dosajes de arsénico y plomo a menores de 12 años, con el propósito de identificar oportunamente posibles niveles elevados de estos metales y garantizar el seguimi...",
+    "date": "2026-08-19T23:13:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-lambayeque-realizan-267-dosajes-arsenico-y-plomo-a-menores-12-anos-1088320.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-moquegua-concentra-mas-4300-millones-inversion-proyectos-mineros-1088321.aspx",
+    "title": "Moquegua concentra más de US$ 4,300 millones de inversión en proyectos mineros",
+    "snippet": "La región Moquegua concentra más de 4,300 millones de dólares en proyectos mineros, sin embargo enfrenta el reto de cerrar brechas de servicios públicos, señalaron durante el taller “Desarrollo territorial e innovación” ...",
+    "date": "2026-08-19T23:07:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-moquegua-concentra-mas-4300-millones-inversion-proyectos-mineros-1088321.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451701",
+    "title": "Autoridad Portuaria de Santos registra ganancia neta acumulada de USD 95 millones en julio de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Santos (APS), responsable de la infraestructura pública del Puerto de Santos, alcanzó\nLa entrada Autoridad Portuaria de Santos registra ganancia ne...",
+    "date": "2026-08-19T23:00:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/autoridad-portuaria-de-santos-registra-ganancia-neta-acumulada-de-usd-95-millones-en-julio-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1702551",
+    "title": "Trabajadores CAS: Poder Judicial admite a trámite demanda contra pago gradual de gratificaciones y CTS",
+    "snippet": "La segunda Sala Constitucional de Lima admitió a trámite la acción popular presentada contra el decreto del Gobierno que establece un pago gradual de estos beneficios hasta llegar al 100% en 2030. El MEF tiene 10 días pa...",
+    "date": "2026-08-19T23:00:07",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/trabajadores-cas-poder-judicial-admite-a-tramite-demanda-contra-pago-gradual-de-gratificaciones-y-cts-noticia-1702551",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=981834",
+    "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+    "snippet": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it'...",
+    "date": "2026-08-19T22:35:20",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3154552",
+    "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "snippet": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability....",
+    "date": "2026-08-19T22:25:01",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-sport-boys-y-sporting-cristal-jugaran-villa-salvador-y-posible-doble-hinchada-1088301.aspx",
     "title": "Sport Boys y Sporting Cristal jugarán en Villa El Salvador y con posible doble hinchada",
     "snippet": "El partido entre Sport Boys y Sporting Cristal se jugará en el Estadio Hugo Sotil de Villa El Salvador, ante la imposibilidad de jugar en el Miguel Grau del Callao y el Estadio Nacional. Este partido corresponde a la fec...",
@@ -15,6 +69,15 @@
     "date": "2026-08-19T22:06:59",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-precio-del-dolar-cierra-s-3355-y-retrocede-027-lo-va-del-ano-1088313.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-precio-del-dolar-cierra-s-3355-y-retrocede-027-lo-va-del-presente-ano-1088313.aspx",
+    "title": "Precio del dólar cierra en S/ 3.355 y retrocede 0.27% en lo que va del presente año",
+    "snippet": "El precio de venta del dólar interbancario cerró en 3.355 soles, nivel inferior en 0.297% respecto a la víspera (3.365 soles), acumulando un retroceso de 4.96% en los últimos 12 meses y de 0.27% en lo que va del 2026, se...",
+    "date": "2026-08-19T22:06:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-precio-del-dolar-cierra-s-3355-y-retrocede-027-lo-va-del-presente-ano-1088313.aspx",
     "category": "TRIBUTARIO"
   },
   {
@@ -1285,68 +1348,5 @@
     "source": "BBC BIZ",
     "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4840252",
-    "title": "Fairphone’s Repairable Smartphones Debut in the US With the 6 Plus",
-    "snippet": "The Fairphone 6 Plus costs $650 and ships with Android 16 as its operating system....",
-    "date": "2026-08-18T22:51:33",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/fairphones-repairable-smartphones-debut-in-the-us-with-the-6-plus/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1702301",
-    "title": "Ejecutivo y sector privado articulan acciones frente a posibles efectos del fenómeno El Niño",
-    "snippet": "El Gobierno y los principales gremios empresariales acordaron coordinar recursos, maquinaria y capacidades logísticas como medida de respuesta ante los posibles impactos del fenómeno El Niño en las zonas de mayor riesgo ...",
-    "date": "2026-08-18T22:48:32",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/peru/actualidad/ejecutivo-y-sector-privado-articulan-acciones-frente-a-posibles-efectos-del-fenomeno-el-nino-noticia-1702301",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451415",
-    "title": "Maersk nombra a Bruno Plantaz como nuevo director de global de Soluciones",
-    "snippet": "Por Redacción PortalPortuario  @PortalPortuario La naviera Maersk anunció a Bruno Plantaz como nuevo director global de Soluciones y miembro del\nLa entrada Maersk nombra a Bruno Plantaz como nuevo director de global de S...",
-    "date": "2026-08-18T22:30:30",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/maersk-nombra-a-bruno-plantaz-como-nuevo-director-de-global-de-soluciones/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-suspenden-ingreso-turistas-al-camino-inca-machu-picchu-deslizamientos-1088145.aspx",
-    "title": "Suspenden ingreso de turistas al Camino Inca de Machu Picchu por deslizamientos",
-    "snippet": "La Dirección de Cultura de Cusco dispuso la suspensión temporal del ingreso de turistas al Caminos Inca de Machu Picchu, debido a los deslizamientos y daños registrados en diversos sectores a causa de las intensas lluvia...",
-    "date": "2026-08-18T22:14:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-suspenden-ingreso-turistas-al-camino-inca-machu-picchu-deslizamientos-1088145.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3154081",
-    "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
-    "snippet": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github....",
-    "date": "2026-08-18T22:14:25",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3154081",
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub....",
-    "date": "2026-08-18T22:14:25",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidenta-fujimori-bap-chimbote-fortalecera-presencia-del-estado-a-largo-del-litoral-1088143.aspx",
-    "title": "Presidenta Fujimori: BAP Chimbote fortalecerá presencia del Estado a lo largo del litoral",
-    "snippet": "La presidenta de la república, Keiko Fujimori Higuchi, afirmó esta tarde que el bautizo y botadura del Buque Auxiliar de Aprovisionamiento Logístico B. A. P. “Chimbote” de la Marina de Guerra, fortalecerá la capacidad lo...",
-    "date": "2026-08-18T22:13:31",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidenta-fujimori-bap-chimbote-fortalecera-presencia-del-estado-a-largo-del-litoral-1088143.aspx",
-    "category": "LOGÍSTICA"
   }
 ]
