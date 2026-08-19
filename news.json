@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-copa-sudamericana-premio-economico-recibira-cienciano-si-elimina-a-botafogo-1088261.aspx",
+    "title": "Copa Sudamericana: El premio económico que recibirá Cienciano si elimina a Botafogo",
+    "snippet": "Cienciano recibirá 700 mil dólares si logra eliminar a Botafogo en octavos de final de la Copa Sudamericana y avanzar a la siguiente ronda, un monto económico que se sumaría a todo lo recaudado por el 'Papá' en el presen...",
+    "date": "2026-08-19T18:19:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-copa-sudamericana-premio-economico-recibira-cienciano-si-elimina-a-botafogo-1088261.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-trujillo-hallan-entierro-nino-ofrendas-el-complejo-arqueologico-huacas-moche-1088269.aspx",
+    "title": "Trujillo: hallan entierro de niño con ofrendas en el Complejo Arqueológico Huacas de Moche",
+    "snippet": "Investigadores del Complejo Arqueológico Huacas de Moche hallaron la tumba de un infante de aproximadamente un año y medio de edad, que presenta un patrón característico de la cultura Moche, y que fue enterrado con ofren...",
+    "date": "2026-08-19T18:05:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-trujillo-hallan-entierro-nino-ofrendas-el-complejo-arqueologico-huacas-moche-1088269.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/supremo-dgt-confirmaron-hace-tiempo-radares-moviles-no-pueden-sancionarte-circulas-exceder-limite-especifico",
+    "title": "El Supremo y la DGT lo confirmaron hace tiempo: los radares móviles no pueden sancionarte si circulas sin exceder un límite específico",
+    "snippet": "Todo instrumento de medida tiene un margen de error, incluidos los radares de velocidad. Lo de “la regla del 7” es bien conocido, sobre todo por los que suelen apurar el límite máximo permitido de una vía. Pero hay matic...",
+    "date": "2026-08-19T18:01:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/supremo-dgt-confirmaron-hace-tiempo-radares-moviles-no-pueden-sancionarte-circulas-exceder-limite-especifico",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451606",
+    "title": "Rotterdam: Hapag-Lloyd entra a la propiedad de Maasvlakte II tras acuerdo con APM Terminals",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Hapag-Lloyd firmó un acuerdo con APM Terminals para adquirir una participación del 25 % en APM\nLa entrada Rotterdam: Hapag-Lloyd entra a la propiedad de Maasvlakte II tras a...",
+    "date": "2026-08-19T18:00:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rotterdam-hapag-lloyd-entra-a-la-propiedad-de-maasvlakte-ii-tras-acuerdo-con-apm-terminals/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-inversion-minera-crece-427-a-junio-y-fortalece-perspectivas-nuevos-proyectos-1088264.aspx",
+    "title": "Inversión minera crece 42.7% a junio y fortalece perspectivas de nuevos proyectos",
+    "snippet": "La inversión minera acumulada entre enero y junio de 2026 alcanzó los 3,304 millones de dólares, registrando un crecimiento de 42.7% respecto del mismo periodo del año anterior, un desempeño que evidencia el dinamismo de...",
+    "date": "2026-08-19T18:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inversion-minera-crece-427-a-junio-y-fortalece-perspectivas-nuevos-proyectos-1088264.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=982359",
+    "title": "The wearable future is stuck in weird, experimental, existential limbo",
+    "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For ...",
+    "date": "2026-08-19T18:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=982242",
+    "title": "Grab an iPad Air M4 for its lowest price since the June increase",
+    "snippet": "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale f...",
+    "date": "2026-08-19T17:56:15",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-bts-gemini-asi-puedes-usar-las-cuatro-funciones-inteligencia-artificial-1088266.aspx",
+    "title": "BTS en Gemini: así puedes usar las cuatro funciones de inteligencia artificial",
+    "snippet": "BTS y Gemini lanzaron cuatro funciones interactivas inspiradas en la banda surcoreana directamente desde la aplicación de inteligencia artificial de Google....",
+    "date": "2026-08-19T17:33:41",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-bts-gemini-asi-puedes-usar-las-cuatro-funciones-inteligencia-artificial-1088266.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/investigacion/red-cuantica-acaba-superar-test-exigente-pregunta-no-llegara-cuando-estara-lista",
+    "title": "La red cuántica acaba de superar el test más exigente. La pregunta ya no es si llegará: es cuándo estará lista",
+    "snippet": "Los cimientos de las redes cuánticas se están afianzando en este momento. Y es que los ordenadores cuánticos no son los únicos ingenios ideados para sacar partido a las sorprendentes propiedades que exhibe ante nosotros ...",
+    "date": "2026-08-19T17:31:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/investigacion/red-cuantica-acaba-superar-test-exigente-pregunta-no-llegara-cuando-estara-lista",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451465",
+    "title": "Puerto de Ningbo Zhoushan actualiza servicio Express Ártico China-Europa para iniciar operaciones semanales",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Ningbo Zhoushan prepara la versión actualizada del servicio Express Ártico China-Europa para iniciar\nLa entrada Puerto de Ningbo Zhoushan actualiza servicio Exp...",
+    "date": "2026-08-19T17:30:34",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-ningbo-zhoushan-actualiza-servicio-express-artico-china-europa-para-iniciar-operaciones-semanales/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3154465",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "snippet": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI prod...",
+    "date": "2026-08-19T17:26:48",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/seleccion/google-pixel-tag-vs-apple-airtag-google-llega-tarde-anade-funciones-mejoras-a-su-localizador",
     "title": "Google Pixel Tag VS Apple AirTag: Google llega tarde, pero añade funciones y mejoras a su localizador",
     "snippet": "El Google Pixel Tag se ha presentado en un evento en el que quizás haya pasado algo desapercibido (al fin y al cabo, compartía presentación con los nuevos Google Pixel 11). Pero se trata de un paso importante dentro de l...",
@@ -69,6 +168,15 @@
     "date": "2026-08-19T16:15:33",
     "source": "XATAKA",
     "url": "https://www.xataka.com/basics/como-saber-te-han-bloqueado-whatsapp",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0ej09nywdno#0",
+    "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+    "snippet": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024....",
+    "date": "2026-08-19T16:14:46",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
     "category": "TRIBUTARIO"
   },
   {
@@ -1240,113 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/mexico-movimiento-de-carga-en-puerto-de-manzanillo-crece-74-entre-enero-y-julio/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/alpes-planteaban-a-suiza-problema-gigantesco-su-solucion-ha-sido-convertir-subsuelo-pieza-clave-su-infraestructura",
-    "title": "Los Alpes planteaban a Suiza un problema gigantesco. Su solución ha sido convertir el subsuelo en una pieza clave de su infraestructura",
-    "snippet": "Los Alpes no son un accidente menor en el mapa de Suiza. Ocupan cerca del 60% de su territorio y durante generaciones han condicionado cómo se conectan ciudades, valles y regiones situadas a uno y otro lado de las montañ...",
-    "date": "2026-08-18T20:00:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/alpes-planteaban-a-suiza-problema-gigantesco-su-solucion-ha-sido-convertir-subsuelo-pieza-clave-su-infraestructura",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-arequipa-piura-y-huanuco-se-consolidan-como-polos-innovacion-y-desarrollo-productivo-1088100.aspx",
-    "title": "Arequipa, Piura y Huánuco se consolidan como polos de innovación y desarrollo productivo",
-    "snippet": "La innovación y el desarrollo productivo continúan creciendo en el interior del país. Así lo demuestran las regiones Arequipa, Piura y Huánuco, que vienen posicionándose como nuevos polos estratégicos de trasferencia tec...",
-    "date": "2026-08-18T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-arequipa-piura-y-huanuco-se-consolidan-como-polos-innovacion-y-desarrollo-productivo-1088100.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tacna-aeropuerto-carlos-ciriani-reanuda-operaciones-transporte-aereo-hacia-lima-1088114.aspx",
-    "title": "Tacna: aeropuerto Carlos Ciriani reanuda operaciones de transporte aéreo hacia Lima",
-    "snippet": "El servicio de transporte aéreo en el aeropuerto internacional Coronel FAP Carlos Ciriani Santa Rosa de Tacna se reanudó hoy tras la ausencia de lluvias y vientos fuertes durante el día....",
-    "date": "2026-08-18T19:48:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tacna-aeropuerto-carlos-ciriani-reanuda-operaciones-transporte-aereo-hacia-lima-1088114.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4840236",
-    "title": "Gemini in Chrome Is Now Available for Android Users",
-    "snippet": "AI Pro and Ultra subscribers will also have access to Google’s agentic AI auto browsing feature....",
-    "date": "2026-08-18T19:38:33",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/gemini-in-chrome-now-available-for-android-users/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
-    "title": "Spotify's Running Mode is now available on Android",
-    "snippet": "Spotify's Running Mode is now available on Android....",
-    "date": "2026-08-18T19:36:58",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451455",
-    "title": "AGEC vuelve a denunciar demoras en ingresos de camiones al Terminal DP World San Antonio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Asociación Gremial de Empresarios Camioneros (AGEC) volvió a reportar complicaciones para ingresar al Terminal DP\nLa entrada AGEC vuelve a denunciar demoras en ingresos d...",
-    "date": "2026-08-18T19:34:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/agec-vuelve-a-denunciar-demoras-en-ingresos-de-camiones-al-terminal-dp-world-san-antonio/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1702254",
-    "title": "BCR: \"Uso de efectivo para pagos cotidianos cayó de 95% a 64% en cinco años, pero todavía es importante\"",
-    "snippet": "El gerente general del BCR, Paul Castillo, señaló que los pagos digitales han ganado terreno rápidamente, aunque el dinero efectivo todavía representa una parte importante de las operaciones cotidianas, especialmente fue...",
-    "date": "2026-08-18T19:00:37",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/bcr-uso-de-efectivo-para-pagos-cotidianos-cayo-de-95-a-64-en-cinco-anos-pero-todavia-es-importante-noticia-1702254",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
-    "title": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
-    "snippet": "Cuando hablamos de la carrera de la inteligencia artificial solemos mirar hacia los modelos: GPT, Gemini, Claude, DeepSeek y la siguiente generación que promete ser más capaz, más rápida o más eficiente. Sin embargo, det...",
-    "date": "2026-08-18T19:00:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451354",
-    "title": "Puerto de Vancouver USA celebra la llegada del vehículo Subaru número 2 millones",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Vancouver USA y Subaru of America, Inc. (SOA) celebraron la llegada de la\nLa entrada Puerto de Vancouver USA celebra la llegada del vehículo Subaru número 2 mil...",
-    "date": "2026-08-18T19:00:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-vancouver-usa-celebra-la-llegada-del-vehiculo-subaru-numero-2-millones/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "CBMi0wFBVV95cUxQSGtqWHFXMnJDM3BTUVFzZjN1NDdpTEVFZ2F3bDg4RzJQUkRSOWNhVlNFQ2tFSGdjMkZRcjBDWV9QaFo1bUVCUjJIS1hUOHlFM2pKNTVoSlVLbmtMRERXMVJXcGhCZldXUjh6dEI2akh1Mzlia29aR0J0ME5CUGVmSkZnbDc0bDFteXpBenpIWVJ1MDg2YTNSZ2VPcFYxTlZPVGY2ZEM4TmJZeHhvcWFhTG9rZFJpNk5iU1QxTVNSd0w1dGp6bklvdkgwQXFVR0lvUkRN",
-    "title": "Indecopi sanciona a línea aérea por no brindar trato preferente a pasajera con discapacidad - tvperu.gob.pe",
-    "snippet": "Indecopi sanciona a línea aérea por no brindar trato preferente a pasajera con discapacidad  tvperu.gob.pe...",
-    "date": "2026-08-18T18:53:03",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGtqWHFXMnJDM3BTUVFzZjN1NDdpTEVFZ2F3bDg4RzJQUkRSOWNhVlNFQ2tFSGdjMkZRcjBDWV9QaFo1bUVCUjJIS1hUOHlFM2pKNTVoSlVLbmtMRERXMVJXcGhCZldXUjh6dEI2akh1Mzlia29aR0J0ME5CUGVmSkZnbDc0bDFteXpBenpIWVJ1MDg2YTNSZ2VPcFYxTlZPVGY2ZEM4TmJZeHhvcWFhTG9rZFJpNk5iU1QxTVNSd0w1dGp6bklvdkgwQXFVR0lvUkRN?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMi0wFBVV95cUxQSGtqWHFXMnJDM3BTUVFzZjN1NDdpTEVFZ2F3bDg4RzJQUkRSOWNhVlNFQ2tFSGdjMkZRcjBDWV9QaFo1bUVCUjJIS1hUOHlFM2pKNTVoSlVLbmtMRERXMVJXcGhCZldXUjh6dEI2akh1Mzlia29aR0J0ME5CUGVmSkZnbDc0bDFteXpBenpIWVJ1MDg2YTNSZ2VPcFYxTlZPVGY2ZEM4TmJZeHhvcWFhTG9rZFJpNk5iU1QxTVNSd0w1dGp6bklvdkgwQXFVR0lvUkRN",
-    "title": "Indecopi sanciona a línea aérea por no brindar trato preferente a pasajera con discapacidad - TVPerú",
-    "snippet": "Indecopi sanciona a línea aérea por no brindar trato preferente a pasajera con discapacidad  TVPerú...",
-    "date": "2026-08-18T18:47:52",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGtqWHFXMnJDM3BTUVFzZjN1NDdpTEVFZ2F3bDg4RzJQUkRSOWNhVlNFQ2tFSGdjMkZRcjBDWV9QaFo1bUVCUjJIS1hUOHlFM2pKNTVoSlVLbmtMRERXMVJXcGhCZldXUjh6dEI2akh1Mzlia29aR0J0ME5CUGVmSkZnbDc0bDFteXpBenpIWVJ1MDg2YTNSZ2VPcFYxTlZPVGY2ZEM4TmJZeHhvcWFhTG9rZFJpNk5iU1QxTVNSd0w1dGp6bklvdkgwQXFVR0lvUkRN?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estos-son-los-dos-principales-objetivos-del-ministerio-economia-y-finanzas-1087977.aspx",
-    "title": "Estos son los dos principales objetivos del Ministerio de Economía y Finanzas",
-    "snippet": "Lograr que la economía peruana sea más productiva y la protección del capital humano son los dos principales objetivos del Ministerio de Economía y Finanzas (MEF), informó el titular del sector, Elmer Cuba....",
-    "date": "2026-08-18T18:38:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estos-son-los-dos-principales-objetivos-del-ministerio-economia-y-finanzas-1087977.aspx",
-    "category": "MERCADO"
   }
 ]
