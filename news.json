@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-vientos-fuertes-causan-estragos-trujillo-techos-postes-y-arboles-fueron-afectados-1088185.aspx",
+    "title": "Vientos fuertes causan estragos en Trujillo: techos, postes y árboles fueron afectados",
+    "snippet": "Los vientos fuertes registradas por varias horas en la ciudad de Trujillo afectaron la zona de baños de una institución educativa inicial del distrito de Víctor Larco y provocaron estragos en viviendas, postes de alumbra...",
+    "date": "2026-08-19T03:45:39",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-vientos-fuertes-causan-estragos-trujillo-techos-postes-y-arboles-fueron-afectados-1088185.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451327",
+    "title": "Movimiento total en Puerto de Cádiz crece 10,59% hasta julio",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El movimiento total general en el Puerto de la Bahía de Cádiz fue de 3.304.885 toneladas\nLa entrada Movimiento total en Puerto de Cádiz crece 10,59% hasta julio se publicó p...",
+    "date": "2026-08-19T03:30:27",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/movimiento-total-en-puerto-de-cadiz-crece-1059-hasta-julio/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451348",
+    "title": "Puerto de Shanghái completa la mayor operación mundial de suministro de metanol verde para buques",
+    "snippet": "Por Redacción PortalPortuario/Xinhua @PortalPortuario Shanghai Electric Group cargó 8.000 toneladas de metanol verde en un buque portacontenedores en el Puerto\nLa entrada Puerto de Shanghái completa la mayor operación mu...",
+    "date": "2026-08-19T03:00:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-shanghai-completa-la-mayor-operacion-mundial-de-suministro-de-metanol-verde-para-buques/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-atencion-cienciano-botafogo-despide-al-dt-carvalho-a-dos-dias-de-revancha-brasil-1088181.aspx",
     "title": "¡Atención, Cienciano! Botafogo despide al DT Carvalho a dos días de la revancha en Brasil",
     "snippet": "El Botafogo de Brasil anunció este martes el despido del técnico portugués Franclim Carvalho tras cuatro meses en el cargo, y días después de la goleada 6-1 sufrida ante Cienciano en la ida de los octavos de final de la ...",
@@ -1321,32 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/energia/refrigeracion-centralizada-poderosa-alternativa-al-aire-acondicionado-que-estan-probando-muchas-ciudades",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o#1",
-    "title": "Disabled people in England to get 24-hour free bus travel",
-    "snippet": "The change, which has been welcomed by campaign groups, will come into effect in England from April....",
-    "date": "2026-08-18T06:11:30",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/sony-fabrica-mitad-sensores-movil-mundo-ha-firmado-tsmc-para-dejar-hacerlo-sola",
-    "title": "Sony fabrica más de la mitad de los sensores de móvil del mundo. Ha firmado con TSMC para dejar de hacerlo sola",
-    "snippet": "Sony es la empresa líder en la creación de sensores para las cámaras de los móviles. Sin embargo, parece ser que se ha cansado de hacerlo sola, y ha creado junto a la taiwanesa TSMC una empresa conjunta para desarrollar ...",
-    "date": "2026-08-18T06:00:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/sony-fabrica-mitad-sensores-movil-mundo-ha-firmado-tsmc-para-dejar-hacerlo-sola",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451140",
-    "title": "Avanzan obras de rehabilitación sustentable de antiguo Comedor de Obreros del Puerto de Castellón",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Las obras de rehabilitación integral del antiguo Comedor de Obreros del Puerto de Castellón avanzan a\nLa entrada Avanzan obras de rehabilitación sustentable de antiguo Comed...",
-    "date": "2026-08-18T05:00:05",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/avanzan-obras-de-rehabilitacion-sustentable-de-antiguo-comedor-de-obreros-del-puerto-de-castellon/",
-    "category": "LOGÍSTICA"
   }
 ]
