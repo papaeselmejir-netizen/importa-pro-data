@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.xataka.com/energia/eolica-solar-han-adelantado-al-gas-primera-vez-historia-abril-generaron-electricidad-todo-mundo",
+    "title": "Un gráfico explica el hito histórico que ha alcanzado la energía en 2026: la solar y la eólica por encima del gas",
+    "snippet": "Estamos ante la “Era de la Electricidad”. Según la Agencia Internacional de la Energía (IEA, por sus siglas en inglés), la demanda global va a experimentar un crecimiento medio del 3,6% anual hasta 2030, unos 1.100 TWh m...",
+    "date": "2026-08-19T07:30:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/eolica-solar-han-adelantado-al-gas-primera-vez-historia-abril-generaron-electricidad-todo-mundo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/",
+    "title": "China reportedly allows ByteDance and Tencent to import 10,000 H200 chips",
+    "snippet": "ByteDance and Tencent have received 10,000 H200 chips each, the Financial Times says, and other Chinese companies could follow....",
+    "date": "2026-08-19T07:11:10",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451351",
+    "title": "Transporte de carga por ferrocarril entre China y Laos supera los 90 millones de toneladas",
+    "snippet": "Por Redacción PortalPortuario/Xinhua @PortalPortuario El ferrocarril China-Laos ha gestionado más de 90 millones de toneladas de carga desde que comenzó\nLa entrada Transporte de carga por ferrocarril entre China y Laos s...",
+    "date": "2026-08-19T07:00:22",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/transporte-de-carga-por-ferrocarril-entre-china-y-laos-supera-los-90-millones-de-toneladas/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/gran-aliado-gimnasio-quiere-convertirse-mejor-suplemento-para-cerebro-creatina",
+    "title": "El gran aliado del gimnasio quiere convertirse en el mejor suplemento para el cerebro: la creatina",
+    "snippet": "La creatina es el suplemento deportivo estrella y uno de los más estudiados (aunque la ashwagandha quiso robarle protagonismo durante un tiempo). Al igual que ocurre con el café y la cafeína, está rodeada de mitos y llev...",
+    "date": "2026-08-19T07:00:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/gran-aliado-gimnasio-quiere-convertirse-mejor-suplemento-para-cerebro-creatina",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/seguridad/mac-actualizar-tienen-problema-serio-fallo-macos-permite-entrar-contrasena-esta-siendo-explotado",
     "title": "Los Mac sin actualizar tienen un problema serio: un fallo de macOS permite entrar sin contraseña y ya está siendo explotado",
     "snippet": "Siempre solemos decirte que es importante tener tu sistema operativo actualizado, porque suelen incluir parches de seguridad que solucionan los errores y vulnerabilidades que se van descubriendo. Otro ejemplo lo tenemos ...",
@@ -52,6 +88,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/sri-lanza-aal-shipping-hace-primera-entrega-de-carga-en-puerto-de-trincomalee/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o#0",
+    "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+    "snippet": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods....",
+    "date": "2026-08-19T03:56:35",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-vientos-fuertes-causan-estragos-trujillo-techos-postes-y-arboles-fueron-afectados-1088185.aspx",
@@ -990,6 +1035,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://www.xataka.com/medicina-y-salud/muchas-personas-no-capaces-disfrutar-como-resto-ciencia-ha-encontrado-respuesta-escondida-donde-guardamos-recuerdos",
+    "title": "Muchas personas no son capaces de disfrutar como el resto. La ciencia dice que la respuesta estaba escondida donde guardamos los recuerdos",
+    "snippet": "Toda comenzó cuando un pequeño experimento de Harvard dejó una pista inquietante: jóvenes que habían sufrido maltrato infantil reaccionaban menos ante la expectativa de una recompensa, incluso cuando la mayoría no tenía ...",
+    "date": "2026-08-18T15:00:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/muchas-personas-no-capaces-disfrutar-como-resto-ciencia-ha-encontrado-respuesta-escondida-donde-guardamos-recuerdos",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-lluvias-intensas-cuales-son-hoy-las-carreteras-transito-interrumpido-o-restringido-1088044.aspx",
     "title": "Lluvias intensas: ¿Cuáles son hoy las carreteras con tránsito interrumpido o restringido?",
     "snippet": "Debido a las lluvias intensas que provocan huaicos, deslizamientos, desbordes de ríos, entre otras emergencias, el tránsito se encuentra interrumpido en siete puntos de dos carreteas en el sur peruano, mientras que en ot...",
@@ -1293,60 +1347,6 @@
     "date": "2026-08-18T10:30:00",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/varios-google-pixel-nothing-phone-3a-pro-mejores-ofertas-moviles-aliexpress",
-    "title": "Varios Google Pixel, un Nothing Phone (3a) Pro y más: las mejores ofertas en móviles de AliExpress",
-    "snippet": "Con el verano a punto de entrar en su último mes, AliExpress ha querido que todos aquellos que tengan que renovar su móvil puedan hacerlo ahorrándose un buen dinero. Gracias a la campaña \"Ahorros en Aranceles\", podemos e...",
-    "date": "2026-08-18T10:16:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/varios-google-pixel-nothing-phone-3a-pro-mejores-ofertas-moviles-aliexpress",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-20-anos-costa-galicia-se-lleno-fenomeno-nunca-visto-impresoras",
-    "title": "Hace 20 años, la costa de Galicia se llenó de un fenómeno nunca visto: impresoras",
-    "snippet": "Febrero de 2006. Un temporal azota la Costa da Morte, ese tramo de litoral gallego bautizado así por acumular siglos de naufragios. Cuatro portacontenedores navegan cerca de Bergantiños. El mar les arranca parte de la ca...",
-    "date": "2026-08-18T10:00:24",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-20-anos-costa-galicia-se-lleno-fenomeno-nunca-visto-impresoras",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451242",
-    "title": "Filipinas: NCWM incauta cargamento de cigarrillos avaluado en USD 2.760.861 en aguas cercanas al Puerto de Zamboanga",
-    "snippet": "Por Redacción PortalPortuario / Agencia Philippine News @PortalPortuario El Comando Naval del Oeste de Mindanao (NCWM) logró el decomiso de\nLa entrada Filipinas: NCWM incauta cargamento de cigarrillos avaluado en USD 2.7...",
-    "date": "2026-08-18T10:00:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/filipinas-ncwm-incauta-cargamento-de-cigarrillos-avaluado-en-usd-2-760-861-en-aguas-cercanas-al-puerto-de-zamboanga/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153625",
-    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-    "snippet": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically....",
-    "date": "2026-08-18T10:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/1969-piloto-alquilo-isla-coral-devastada-transporto-bidones-agua-para-primeras-plantaciones-50-anos-despues-irreconocible",
-    "title": "En 1969, un piloto alquiló una isla de coral devastada y transportó bidones de agua para las primeras plantaciones: 50 años después es irreconocible",
-    "snippet": "Cuando Don Adams llegó a Lady Elliot Island a finales de los años 60 encontró algo muy distinto de lo que hoy emerge en el extremo sur de la Gran Barrera de Coral. La extracción de guano había arrancado buena parte del s...",
-    "date": "2026-08-18T09:30:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/1969-piloto-alquilo-isla-coral-devastada-transporto-bidones-agua-para-primeras-plantaciones-50-anos-despues-irreconocible",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/pueblo-72-habitantes-que-ha-montado-mundial-chapas-supero-500-inscritos-ficho-a-concursante-106-anos",
-    "title": "En un pueblo de Valladolid de 72 habitantes, dos niños montaron un torneo de chapas: ha sido un éxito de 500 inscritos",
-    "snippet": "Villaco tiene menos vecinos que un instituto de secundaria. Pues bien, el pasado sábado 15 de agosto multiplicó su población por siete en una sola mañana. El motivo: dos niños decidieron resucitar el juego de las chapas ...",
-    "date": "2026-08-18T09:00:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/pueblo-72-habitantes-que-ha-montado-mundial-chapas-supero-500-inscritos-ficho-a-concursante-106-anos",
     "category": "MERCADO"
   }
 ]
