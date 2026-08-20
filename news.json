@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.xataka.com/transporte/odisea-emprendedor-que-compro-viejo-crucero-gasto-millon-dolares-su-restauracion-no-pudo-disfrutarlo-1",
+    "title": "La odisea del emprendedor que compró un viejo crucero, gastó un millón de dólares en su restauración y no pudo disfrutarlo",
+    "snippet": "No todos los proyectos de los que sueñan con tener su propio barco llegan a buen puerto. Ya conocíamos la historia de Clyde Stires, que construyó un enorme yate en su casa. El relato de Chris Willson es igual de interesa...",
+    "date": "2026-08-20T07:31:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/transporte/odisea-emprendedor-que-compro-viejo-crucero-gasto-millon-dolares-su-restauracion-no-pudo-disfrutarlo-1",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo#0",
+    "title": "Travelodge boss steps down after security issues in rooms",
+    "snippet": "Jo Boydell had been criticised for the company's handling of issues with its safety and security....",
+    "date": "2026-08-20T07:27:21",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451702",
+    "title": "Bélgica: Puerto de Amberes-Brujas anuncia obtención de financiamiento adicional para proyectos de infraestructuras",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Amberes-Brujas (Bélgica) anunció la obtención de financiamiento adicional para concretar distintos proyectos de\nLa entrada Bélgica: Puerto de Amberes-Brujas anu...",
+    "date": "2026-08-20T07:00:31",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/belgica-puerto-de-amberes-brujas-anuncia-obtencion-de-financiamiento-adicional-para-proyectos-de-infraestructuras/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-tendra-radiotelescopio-110-metros-precision-extrema-podra-apuntar-al-equivalente-pelota-a-3-3-km",
     "title": "China tendrá un radiotelescopio de 110 metros con precisión extrema: podrá apuntar al equivalente de una pelota a 3,3 km",
     "snippet": "Construir un radiotelescopio de 110 metros ya supone levantar una estructura descomunal. Conseguir además que pueda moverse y apuntar al cielo con una precisión del orden de segundos de arco lleva el problema a otra esca...",
@@ -1320,33 +1347,6 @@
     "date": "2026-08-19T03:59:31",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/sri-lanza-aal-shipping-hace-primera-entrega-de-carga-en-puerto-de-trincomalee/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o#0",
-    "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-    "snippet": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods....",
-    "date": "2026-08-19T03:56:35",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-vientos-fuertes-causan-estragos-trujillo-techos-postes-y-arboles-fueron-afectados-1088185.aspx",
-    "title": "Vientos fuertes causan estragos en Trujillo: techos, postes y árboles fueron afectados",
-    "snippet": "Los vientos fuertes registradas por varias horas en la ciudad de Trujillo afectaron la zona de baños de una institución educativa inicial del distrito de Víctor Larco y provocaron estragos en viviendas, postes de alumbra...",
-    "date": "2026-08-19T03:45:39",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-vientos-fuertes-causan-estragos-trujillo-techos-postes-y-arboles-fueron-afectados-1088185.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451327",
-    "title": "Movimiento total en Puerto de Cádiz crece 10,59% hasta julio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El movimiento total general en el Puerto de la Bahía de Cádiz fue de 3.304.885 toneladas\nLa entrada Movimiento total en Puerto de Cádiz crece 10,59% hasta julio se publicó p...",
-    "date": "2026-08-19T03:30:27",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/movimiento-total-en-puerto-de-cadiz-crece-1059-hasta-julio/",
     "category": "LOGÍSTICA"
   }
 ]
