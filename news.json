@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=451807",
+    "title": "Condiciones meteorológicas obligan a cambiar sitio de atraque de crucero en Puerto de Castellón",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario PortCastelló recibió la escala del Crystal Serenity, buque que inicialmente tenía previsto atracar en el Muelle\nLa entrada Condiciones meteorológicas obligan a cambiar sitio...",
+    "date": "2026-08-20T19:30:44",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/condiciones-meteorologicas-obligan-a-cambiar-sitio-de-atraque-de-crucero-en-puerto-de-castellon/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3155106",
+    "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
+    "snippet": "The $1 billion Series C was co-led by Andreessen Horowitz, Carlyle, and JP Morgan Chase....",
+    "date": "2026-08-20T19:01:41",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451865",
+    "title": "Puerto San Antonio y PUCV firman convenio de colaboración en marco del Congreso LogiRed 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el marco del Congreso Internacional LogiRed 2026, Puerto San Antonio y la Pontificia Universidad Católica\nLa entrada Puerto San Antonio y PUCV firman convenio de colabora...",
+    "date": "2026-08-20T19:00:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-san-antonio-y-pucv-firman-convenio-de-colaboracion-en-marco-del-congreso-logired-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/primera-ciudad-aeropuerto-latinoamerica-comienza-a-tomar-forma-asi-proyecto-que-quiere-cambiar-transporte",
     "title": "La “primera ciudad aeropuerto” de Latinoamérica comienza a tomar forma: así es el proyecto que quiere cambiar el transporte",
     "snippet": "Durante mucho tiempo hemos entendido los aeropuertos como lugares de paso: llegamos con una maleta, atravesamos controles, esperamos una llamada de embarque y desaparecemos por una puerta que nos conecta con otro punto d...",
@@ -1321,32 +1348,5 @@
     "source": "BBC BIZ",
     "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/desproposito-madrid-no-tiene-playa-se-ha-empenado-tener-olas-grandes-toda-europa",
-    "title": "\"Es un despropósito\": Madrid no tiene playa pero se ha empeñado en tener las olas más grandes de toda Europa",
-    "snippet": "Madrid quiere tener la piscina más grande con las olas más grandes de Europa: 23.000 m² con 30.000 metros cúbicos de agua potable. Las quejas no se han hecho esperar. Pero quiero empezar tirando de hemeroteca: antes de s...",
-    "date": "2026-08-19T17:01:34",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/desproposito-madrid-no-tiene-playa-se-ha-empenado-tener-olas-grandes-toda-europa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451551",
-    "title": "K Line inicia operaciones en terminales de contenedores PC14-17 del Puerto de Kobe",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Kawasaki Kisen Kaisha Ltd. (K Line) anunció que comenzará a operar en las terminales de contenedores\nLa entrada K Line inicia operaciones en terminales de contenedores PC14-...",
-    "date": "2026-08-19T17:00:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/k-line-inicia-operaciones-en-terminales-de-contenedores-pc14-17-del-puerto-de-kobe/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dibu-martinez-se-marcha-aston-villa-ficho-al-arquero-japones-zion-suzuki-1088257.aspx",
-    "title": "¿'Dibu' Martínez se marcha? El Aston Villa fichó al arquero japonés Zion Suzuki",
-    "snippet": "El Aston Villa anunció el miércoles los fichajes del guardameta internacional japonés Zion Suzuki y del defensa italiano Matteo Ruggeri, dos refuerzos para la defensa del club inglés, que disputará la Liga de Campeones....",
-    "date": "2026-08-19T16:48:55",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dibu-martinez-se-marcha-aston-villa-ficho-al-arquero-japones-zion-suzuki-1088257.aspx",
-    "category": "MERCADO"
   }
 ]
