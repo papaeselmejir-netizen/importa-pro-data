@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.xataka.com/investigacion/nadie-sabe-que-materia-oscura-resulta-que-tenemos-mejor-detector-que-existe-delante-nuestras-narices",
+    "title": "Nadie sabe qué es la materia oscura. Y resulta que tenemos el mejor detector que existe delante de nuestras narices",
+    "snippet": "La materia oscura encarna uno de los mayores enigmas de la física. Los científicos no saben qué es, pero sospechan que la supersimetría, si se demuestra su validez, podría resultar útil para entender cuál es su naturalez...",
+    "date": "2026-08-20T17:01:34",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/investigacion/nadie-sabe-que-materia-oscura-resulta-que-tenemos-mejor-detector-que-existe-delante-nuestras-narices",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451775",
+    "title": "Sallaum Lines lanza empresa europea especializada en logística para el sector automovilístico",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Sallaum Lines anunció el lanzamiento de Sallaum Logistics Ltd., una empresa europea especializada en logística automotriz\nLa entrada Sallaum Lines lanza empresa europea espe...",
+    "date": "2026-08-20T17:00:43",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/sallaum-lines-lanza-empresa-europea-especializada-en-logistica-para-el-sector-automovilistico/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atencion-transportista-atu-administrara-subsidio-al-transporte-publico-lima-y-callao-1088409.aspx",
+    "title": "¡Atención, transportista! ATU administrará subsidio al transporte público en Lima y Callao",
+    "snippet": "La Autoridad de Transporte Urbano de Lima y Callao (ATU) administrará, de manera excepcional y temporal, dos nuevos subsidios económicos aprobados por el Gobierno para contribuir con la continuidad de los servicios de tr...",
+    "date": "2026-08-20T17:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atencion-transportista-atu-administrara-subsidio-al-transporte-publico-lima-y-callao-1088409.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-designan-directores-desarrollo-empresarial-y-formalizacion-pesquera-artesanal-1088417.aspx",
     "title": "Designan directores de desarrollo empresarial y de formalización pesquera artesanal",
     "snippet": "El Ministerio de la Producción (Produce) a los directores de desarrollo empresarial, de formalización pesquera artesanal y de instrumentos financieros....",
@@ -1320,33 +1347,6 @@
     "date": "2026-08-19T15:34:01",
     "source": "LA CÁMARA (CCL)",
     "url": "https://lacamara.pe/upn-presenta-innovation-hub-para-impulsar-soluciones-tecnologicas-en-la-libertad-ccl-asociados/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/claude-diseno-proteinas-15-objetivos-cuando-fabricaron-laboratorio-funcionaron-14",
-    "title": "Claude diseñó proteínas contra 15 objetivos. Cuando las fabricaron en un laboratorio, funcionaron contra 14",
-    "snippet": "La IA ya nos ha asombrado en el ámbito de las matemáticas, y ahora quiere hacerlo en el de la química. Es desde luego lo que ha logrado Anthropic, que puso a trabajar a Claude de forma autónoma durante unas 48 horas para...",
-    "date": "2026-08-19T15:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/claude-diseno-proteinas-15-objetivos-cuando-fabricaron-laboratorio-funcionaron-14",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451501",
-    "title": "Continúan en alza los costos de transporte marítimo de contenedores desde Corea del Sur hacia Medio Oriente",
-    "snippet": "Por Redacción PortalPortuario / Agencia Yonhap News @PortalPortuario Continúan subiendo los costos de transporte marítimo de contenedores desde Corea del\nLa entrada Continúan en alza los costos de transporte marítimo de ...",
-    "date": "2026-08-19T15:30:38",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/continuan-en-alza-los-costos-de-transporte-maritimo-de-contenedores-desde-corea-del-sur-hacia-medio-oriente/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-impulsan-plataforma-gratuita-para-resolver-infracciones-sobre-patentes-y-disenos-industria-1088229.aspx",
-    "title": "Impulsan plataforma gratuita para resolver infracciones sobre patentes y diseños industria",
-    "snippet": "Indecopi, a través de su Dirección de Invenciones y Nuevas Tecnologías (DIN), con apoyo del Centro de Arbitraje y Mediación de la Organización Mundial de la Propiedad Intelectual (OMPI), lanzó “Concilia DIN”, una platafo...",
-    "date": "2026-08-19T15:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-impulsan-plataforma-gratuita-para-resolver-infracciones-sobre-patentes-y-disenos-industria-1088229.aspx",
     "category": "MERCADO"
   }
 ]
