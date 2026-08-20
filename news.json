@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo#0",
+    "title": "How landscape gardening is being electrified",
+    "snippet": "The switch to quieter electric equipment is not going as fast as some would like....",
+    "date": "2026-08-20T23:12:38",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2241281/amazons-god-of-war-show-brings-in-dave-bautista-as-its-new-kratos/",
+    "title": "Amazon's God of War show brings in Dave Bautista as its new Kratos",
+    "snippet": "The casting swap follows Ryan Hurst's injury on set earlier this year....",
+    "date": "2026-08-20T22:51:23",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2241281/amazons-god-of-war-show-brings-in-dave-bautista-as-its-new-kratos/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4844731",
+    "title": "Some New Samsung Device Owners Are Running Into RCS Messaging Issues",
+    "snippet": "Some have shared creative workarounds for connecting to RCS messaging on newer Samsung phone models....",
+    "date": "2026-08-20T22:28:50",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/samsung-device-rcs-messaging-issues/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2241272/github-says-commits-have-doubled-in-the-last-four-months/",
+    "title": "GitHub says commits have doubled in the last four months",
+    "snippet": "The new traffic peak caused \"capacity failures\" that led to the developer platform's recent outage....",
+    "date": "2026-08-20T22:26:02",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2241272/github-says-commits-have-doubled-in-the-last-four-months/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-cienciano-vs-botafogo-hora-y-canal-del-crucial-partido-hoy-copa-sudamericana-1088353.aspx",
     "title": "Cienciano vs. Botafogo: Hora y canal del crucial partido de hoy por Copa Sudamericana",
     "snippet": "Cienciano buscará ratificar este jueves (19:30 horas de Perú) su buen momento en el ámbito internacional, cuando visite a Botafogo, en el Estadio Olímpico Nilton Santos, donde espera alcanzar su pase a cuartos de final d...",
@@ -1311,42 +1347,6 @@
     "date": "2026-08-19T19:55:35",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-sergio-ibarra-y-los-consejos-le-brinda-a-cienciano-para-eliminar-al-botafogo-1088286.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "CBMivAFBVV95cUxQdUxtMDlubFFTTmVoS21rRXpyYVJObmpnQV9JNllkY05lYmI5cHNzVTV3bHcyUlZjcmg3dTZPNmNuT3pOcWtGTk9UXzdrTkxWcG96VXpsZXhIbDdDNzBERWZPcWt6b3BVREJTeXNLTGtWVWdCXzBqc0o0RVBSalNnMVVyNkIwTDdoU3Y3OFFhTnBzTFA3ZzM3V2lqQWNUOUxBU1Nvai15eVJLcFBfUnVJNVJfN3JsUEJPbnh5VQ",
-    "title": "Indecopi sanciona a entidad bancaria con más de S/400 000 por llamadas spam - TVPerú",
-    "snippet": "Indecopi sanciona a entidad bancaria con más de S/400 000 por llamadas spam  TVPerú...",
-    "date": "2026-08-19T19:47:52",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUxtMDlubFFTTmVoS21rRXpyYVJObmpnQV9JNllkY05lYmI5cHNzVTV3bHcyUlZjcmg3dTZPNmNuT3pOcWtGTk9UXzdrTkxWcG96VXpsZXhIbDdDNzBERWZPcWt6b3BVREJTeXNLTGtWVWdCXzBqc0o0RVBSalNnMVVyNkIwTDdoU3Y3OFFhTnBzTFA3ZzM3V2lqQWNUOUxBU1Nvai15eVJLcFBfUnVJNVJfN3JsUEJPbnh5VQ?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=98882",
-    "title": "ATP Cargo lanza oficialmente su podcast “Aduanas Sin Filtro”",
-    "snippet": "Las operaciones de comercio exterior involucran una serie de procesos que van más allá del traslado de una carga entre países. Documentación, costos, requisitos aduaneros, términos de negociación y decisiones logísticas ...",
-    "date": "2026-08-19T19:34:09",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/atp-cargo-lanza-oficialmente-su-podcast-aduanas-sin-filtro-ccl-asociados/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451652",
-    "title": "Autoridad Marítima descarta emergencia tras activarse sirena de buque atracado al Puerto de San Antonio",
-    "snippet": "Por Sebastián Betancourt @PortalPortuario La Autoridad Marítima descartó cualquier situación de emergencia tras la activación de la señal sonora de\nLa entrada Autoridad Marítima descarta emergencia tras activarse sirena ...",
-    "date": "2026-08-19T19:21:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/autoridad-maritima-descarta-emergencia-tras-activacion-de-sirena-de-buque-atracado-al-puerto-de-san-antonio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-piura-productores-banano-producen-microorganismos-para-enfrentar-riesgo-fusarium-1088280.aspx",
-    "title": "Piura: productores de banano producen microorganismos para enfrentar el riesgo de Fusarium",
-    "snippet": "Los productores de banano orgánico del valle del Chira desarrollan sus propios insumos biológicos para fortalecer la sanidad de sus plantaciones ante el riesgo que representa el Fusarium Raza 4 Tropical (Foc R4T), una en...",
-    "date": "2026-08-19T19:16:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-piura-productores-banano-producen-microorganismos-para-enfrentar-riesgo-fusarium-1088280.aspx",
     "category": "MERCADO"
   }
 ]
