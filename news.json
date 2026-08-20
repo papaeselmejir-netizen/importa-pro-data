@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-el-nino-mtc-inspecciona-aeropuerto-jorge-chavez-para-garantizar-seguridad-pasajeros-1088338.aspx",
+    "title": "El Niño: MTC inspecciona aeropuerto Jorge Chávez para garantizar seguridad de pasajeros",
+    "snippet": "Ante posibles lluvias intensas por el fenómeno El Niño en Lima y Callao, un equipo técnico del Ministerio de Transportes y Comunicaciones (MTC) inspeccionó las acciones que la empresa concesionaria Lima Airport Partners ...",
+    "date": "2026-08-20T01:05:54",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-el-nino-mtc-inspecciona-aeropuerto-jorge-chavez-para-garantizar-seguridad-pasajeros-1088338.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451615",
+    "title": "Reino Unido: Agencia Nacional contra el Crimen incauta tres toneladas de cocaína en Puerto de London Gateway",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Agencia Nacional contra el Crimen (NCA) del Reino Unido informó la incautación de tres toneladas\nLa entrada Reino Unido: Agencia Nacional contra el Crimen incauta tres to...",
+    "date": "2026-08-20T01:00:29",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-agencia-nacional-contra-el-crimen-incauta-tres-toneladas-de-cocaina-en-puerto-de-london-gateway/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4842840",
+    "title": "Google Goes Back to School With New AI Study Tools",
+    "snippet": "A new dedicated study hub includes a study notebook, customized flash cards and practice quizzes....",
+    "date": "2026-08-20T00:06:49",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/google-gemini-search-ai-study-tools/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451717",
+    "title": "Perú: Activan plan para asegurar continuidad de operaciones portuarias ante Fenómeno de El Niño",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones del Perú (MTC), a través de la Autoridad Portuaria Nacional\nLa entrada Perú: Activan plan para asegurar continuidad de operacio...",
+    "date": "2026-08-20T00:00:19",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-activan-plan-para-asegurar-continuidad-de-operaciones-portuarias-ante-fenomeno-de-el-nino/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-puno-pnp-rescata-a-12-personas-secuestradas-organizacion-criminal-mina-1088327.aspx",
+    "title": "Puno: PNP rescata a 12 personas secuestradas por organización criminal en mina",
+    "snippet": "Tras recibir información sobre la retención de los trabajadores, la Policía Nacional del Perú (PNP) activó de inmediato un plan operativo y desplegó un contingente de efectivos hacia la zona para recuperar el control de ...",
+    "date": "2026-08-19T23:54:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-puno-pnp-rescata-a-12-personas-secuestradas-organizacion-criminal-mina-1088327.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o#0",
+    "title": "India's Gen Z are driving up a mega boom in its beauty market",
+    "snippet": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom....",
+    "date": "2026-08-19T23:31:24",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451695",
+    "title": "Puente de la Bioceánica avanza hacia su culminación con descenso de carros de avance inferior",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puente de la Bioceánica, que conectará Carmelo Peralta (Paraguay) con Puerto Murtinho (Brasil), avanza hacia\nLa entrada Puente de la Bioceánica avanza hacia su culminació...",
+    "date": "2026-08-19T23:30:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puente-de-la-bioceanica-avanza-hacia-su-culminacion-con-descenso-de-carros-de-avance-inferior/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1702553",
+    "title": "Perú tiene lo que el mundo necesita para la transición energética: produce más del 50% de los minerales críticos",
+    "snippet": "Tamiko Hasegawa, presidenta del GESS 2026, destacó el potencial del país en minerales como el cobre y el litio, pero enfatizó que la transformación del sector también debe generar oportunidades para jóvenes y mujeres....",
+    "date": "2026-08-19T23:23:00",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/peru-produce-mas-del-50-de-los-minerales-criticos-que-el-mundo-necesita-para-la-transicion-energetica-noticia-1702553",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-lambayeque-realizan-267-dosajes-arsenico-y-plomo-a-menores-12-anos-1088320.aspx",
     "title": "Lambayeque: realizan 267 dosajes de arsénico y plomo a menores de 12 años",
     "snippet": "En lo que va del año se han realizado aproximadamente 267 dosajes de arsénico y plomo a menores de 12 años, con el propósito de identificar oportunamente posibles niveles elevados de estos metales y garantizar el seguimi...",
@@ -1276,77 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/abp-recibe-barco-mas-nuevo-de-explora-journeys-en-primera-visita-a-reino-unido/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indecopi-sanciona-a-banco-mas-s-400000-llamadas-spam-1088137.aspx",
-    "title": "Indecopi sanciona a banco con más de S/ 400,000 por llamadas spam",
-    "snippet": "La Comisión de Protección al Consumidor N.° 3 del Indecopi sancionó en primera instancia administrativa al Banco Internacional del Perú (Interbank) con una multa de 74.88 UIT, equivalente a 411,840 soles, por realizar co...",
-    "date": "2026-08-19T00:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indecopi-sanciona-a-banco-mas-s-400000-llamadas-spam-1088137.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-bautizo-y-botadura-del-bap-chimbote-fortalece-las-capacidades-navales-del-peru-1088154.aspx",
-    "title": "Bautizo y botadura del B.A.P. “Chimbote” fortalece las capacidades navales del Perú",
-    "snippet": "En el Centro de Operaciones Callao del SIMA Perú se realizó la ceremonia de bautizo y botadura del Buque Auxiliar de Aprovisionamiento Logístico B.A.P. “Chimbote” (AAL-159), un importante hito que marca un nuevo avance e...",
-    "date": "2026-08-18T23:56:40",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-bautizo-y-botadura-del-bap-chimbote-fortalece-las-capacidades-navales-del-peru-1088154.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "CBMi0AFBVV95cUxNUU5aOUh2MU5pTmRLUC1fWEFoTGtXaVY4UFpQWTRKMzI0M25XMUxsT1NVZVRKUC1tVUJIek9ZMURDQmNEMUd1NEtIN0tnbHUzeEt1TE5aZ19UUTNkNElvNEtvTFFWNjJ1VWRXcFFocEdjZXFCN1BndEduZEV1THphaDZQNENwbXBvbUhIelFYWmNEbkMyRTR3Zlh0UjNmVktGcEVISm05T1lOaldsMDBqaGVsVHZlYUZTcDVxNUU1ZWg5R3lGQXY2QmlUMDRndmp0",
-    "title": "ANA: Perú contará con hoja de ruta para proteger y restaurar ecosistemas asociados al agua - TVPerú",
-    "snippet": "ANA: Perú contará con hoja de ruta para proteger y restaurar ecosistemas asociados al agua  TVPerú...",
-    "date": "2026-08-18T23:49:09",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUU5aOUh2MU5pTmRLUC1fWEFoTGtXaVY4UFpQWTRKMzI0M25XMUxsT1NVZVRKUC1tVUJIek9ZMURDQmNEMUd1NEtIN0tnbHUzeEt1TE5aZ19UUTNkNElvNEtvTFFWNjJ1VWRXcFFocEdjZXFCN1BndEduZEV1THphaDZQNENwbXBvbUhIelFYWmNEbkMyRTR3Zlh0UjNmVktGcEVISm05T1lOaldsMDBqaGVsVHZlYUZTcDVxNUU1ZWg5R3lGQXY2QmlUMDRndmp0?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4840917",
-    "title": "Polaroid Put Pikachu on a $100 Camera Because Nostalgia Works",
-    "snippet": "Polaroid turned Pikachu, Sylveon and the Poke Ball into instant cameras because slapping Pokemon on things remains an excellent business model....",
-    "date": "2026-08-18T23:45:15",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/polaroid-put-pikachu-on-a-100-camera-because-nostalgia-works/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dolar-se-recupera-ligeramente-y-cierra-s-3365-a-niveles-marzo-2026-1088156.aspx",
-    "title": "Dólar se recupera ligeramente y cierra en S/ 3.365, a niveles de marzo 2026",
-    "snippet": "El precio del dólar interbancario cerró hoy en 3.365 soles; un avance de 0.17% respecto al cierre de la jornada previa (3.359 soles), en un contexto de leve apreciación de la divisa estadounidense a nivel global....",
-    "date": "2026-08-18T23:40:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dolar-se-recupera-ligeramente-y-cierra-s-3365-a-niveles-marzo-2026-1088156.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1702315",
-    "title": "Indecopi sanciona a Interbank con más de S/400 mil por llamadas spam: utilizó “métodos comerciales agresivos”",
-    "snippet": "Según la resolución del Indecopi, Interbank no acreditó el consentimiento previo de los usuarios para realizar llamadas con fines comerciales....",
-    "date": "2026-08-18T23:30:59",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/indecopi-sanciona-a-banco-por-llamadas-spam-con-mas-de-400-mil-soles-que-paso-noticia-1702315",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451427",
-    "title": "Maersk cancela viaje de la semana 37 en servicio AE15 con salida desde Puerto de Qingdao",
-    "snippet": "Por Redacción PortalPortuario  @PortalPortuario La naviera Maersk informó la cancelación del viaje correspondiente a la semana 37 del servicio AE15\nLa entrada Maersk cancela viaje de la semana 37 en servicio AE15 con sal...",
-    "date": "2026-08-18T23:30:14",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/maersk-cancela-viaje-de-la-semana-37-en-servicio-ae15-con-salida-desde-puerto-de-qingdao/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo#0",
-    "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-    "snippet": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app....",
-    "date": "2026-08-18T23:14:49",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
