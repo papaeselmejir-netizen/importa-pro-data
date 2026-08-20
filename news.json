@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-confirman-buen-crecimiento-anchoveta-pese-a-condiciones-asociadas-a-fenomeno-nino-1088352.aspx",
+    "title": "Confirman buen crecimiento de anchoveta pese a condiciones asociadas a Fenómeno El Niño",
+    "snippet": "El Ministerio de la Producción (Produce) a través del Instituto del Mar del Perú (Imarpe), indicó hoy que tras la evaluación científica de la Operación Eureka LXXVIII, realizada entre el 15 y 18 de agosto, se comprobó el...",
+    "date": "2026-08-20T03:28:53",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-confirman-buen-crecimiento-anchoveta-pese-a-condiciones-asociadas-a-fenomeno-nino-1088352.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451628",
+    "title": "Puerto de Southampton recibe recalada inaugural del crucero Explora III en Reino Unido",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Associated British Ports (ABP) dio la bienvenida al crucero Explora III en el Puerto de Southampton,\nLa entrada Puerto de Southampton recibe recalada inaugural del crucero E...",
+    "date": "2026-08-20T03:10:41",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-southampton-recibe-recalada-inaugural-del-crucero-explora-iii-en-reino-unido/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=451744",
     "title": "Andrés Gómez es designado gerente general de Empormontt",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario La Empresa Portuaria Puerto Montt (Empormontt) informó la designación de Andrés Gómez Errázuriz como su nuevo\nLa entrada Andrés Gómez es designado gerente general de Empormo...",
@@ -1330,23 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-fuertes-vientos-lluvias-y-nevadas-afectaron-a-41-distritos-puno-sin-danos-personales-1088175.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451408",
-    "title": "Sindicato no alcanza acuerdo salarial con BHP para trabajadores de Port Hedland",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El sindicato unificado de puertos de BHP informó que no alcanzó un acuerdo salarial con\nLa entrada Sindicato no alcanza acuerdo salarial con BHP para trabaja...",
-    "date": "2026-08-19T01:30:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/sindicato-no-alcanza-acuerdo-salarial-con-bhp-para-trabajadores-de-port-hedland/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cerca-60-mil-contribuyentes-deberan-presentar-declaracion-del-beneficiario-final-1088173.aspx",
-    "title": "Cerca de 60 mil contribuyentes deberán presentar declaración del beneficiario final",
-    "snippet": "Alrededor de 60,000 contribuyentes deberán presentar la Declaración del Beneficiario Final ante la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) durante 2026, como parte de las obligaciones ...",
-    "date": "2026-08-19T01:29:32",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cerca-60-mil-contribuyentes-deberan-presentar-declaracion-del-beneficiario-final-1088173.aspx",
-    "category": "TRIBUTARIO"
   }
 ]
