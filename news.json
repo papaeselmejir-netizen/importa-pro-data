@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.xataka.com/empresas-y-economia/uber-quiere-que-pedir-comida-sea-casi-rapido-como-enviar-mensaje-para-lograrlo-esta-metiendo-millon-vuelos-diarios-ecuacion",
+    "title": "Uber quiere que pedir comida sea casi tan rápido como enviar un mensaje. Para lograrlo, está metiendo un millón de vuelos diarios en la ecuación",
+    "snippet": "Uber quiere que pedir comida a domicilio sea una experiencia todavía más rápida, y está dispuesta a cambiar a sus repartidores humanos por drones para conseguirlo. La empresa ha anunciado una alianza estratégica con Zipl...",
+    "date": "2026-08-20T13:31:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/uber-quiere-que-pedir-comida-sea-casi-rapido-como-enviar-mensaje-para-lograrlo-esta-metiendo-millon-vuelos-diarios-ecuacion",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451747",
+    "title": "Servicio CLX regresa a Puerto de Paita en septiembre",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El servicio CLX volverá al Puerto de Paita, Perú, con su primera recalada programada para la\nLa entrada Servicio CLX regresa a Puerto de Paita en septiembre se publicó prime...",
+    "date": "2026-08-20T13:30:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/servicio-clx-regresa-a-puerto-de-paita-en-septiembre/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=981852",
+    "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+    "snippet": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your...",
+    "date": "2026-08-20T13:30:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/estos-mejores-chollos-dia-que-hemos-encontrado-amazon-hoy-20-agosto",
+    "title": "Estos son los mejores chollos del día que hemos encontrado en Amazon hoy, 20 de agosto",
+    "snippet": "A diario, Amazon nos ofrece una gran selección de ofertas y rebajas en todo tipo de dispositivos. Las cuales podemos aprovechar, por ejemplo, para estrenar un equipo gaming a buen precio en plena crisis del hardware. O p...",
+    "date": "2026-08-20T13:15:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/estos-mejores-chollos-dia-que-hemos-encontrado-amazon-hoy-20-agosto",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-por-tarapoto-es-considerado-principal-destino-turistico-de-amazonia-peruana-1087292.aspx",
+    "title": "¿Por qué Tarapoto es considerado el principal destino turístico de la Amazonía peruana?",
+    "snippet": "La ciudad de Tarapoto celebra el 20 de agosto su 244 aniversario de fundación española y esta celebración es una magnífica ocasión para visitar este ineludible destino del nororiente peruano. ¿Por qué este destino es con...",
+    "date": "2026-08-20T13:08:31",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-por-tarapoto-es-considerado-principal-destino-turistico-de-amazonia-peruana-1087292.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/trabajas-nvidia-te-equivocas-todos-tus-companeros-conoceran-tu-error-palabra-jensen-huang",
+    "title": "Si trabajas en Nvidia y te equivocas, todos tus compañeros conocerán tu error. Palabra de Jensen Huang",
+    "snippet": "Jensen Huang ha construido Nvidia a su imagen y semejanza. El cofundador y director general de esta compañía ha hablado en algunas de sus intervenciones públicas y entrevistas acerca de las obsesiones que ha trasladado a...",
+    "date": "2026-08-20T13:01:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/trabajas-nvidia-te-equivocas-todos-tus-companeros-conoceran-tu-error-palabra-jensen-huang",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451761",
+    "title": "Cosco Shipping Jixiang se convierte en buque de mayor tonelaje en arribar al Puerto de Ushuaia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Cosco Shipping Jixiang estableció el récord como el buque de mayor tonelaje en arribar al\nLa entrada Cosco Shipping Jixiang se convierte en buque de mayor tonelaje en arr...",
+    "date": "2026-08-20T13:00:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cosco-shipping-jixiang-se-convierte-en-barco-de-mayor-tonelaje-en-arribar-a-puerto-de-ushuaia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=981669",
+    "title": "I bought DJI’s banned camera — it was cheap and easy",
+    "snippet": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just ...",
+    "date": "2026-08-20T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-callao-maquinaria-pesada-recuperan-mas-600-metros-de-av-venezuela-1088372.aspx",
     "title": "Callao: con maquinaria pesada recuperan más de 600 metros de la av Venezuela",
     "snippet": "La Municipalidad Provincial del Callao inició la recuperación de más de 650 metros de la avenida República de Venezuela, tramo que permaneció ocupado durante más de 30 años por construcciones y estructuras que reducían e...",
@@ -126,6 +198,15 @@
     "category": "TRIBUTARIO"
   },
   {
+    "id": "https://lacamara.pe/?p=97973",
+    "title": "Repositorio Normas Legales – Agosto 2026",
+    "snippet": "Actualización 20 de agosto de 2026 Municipalidad de La Victoria- Descuentos en multas administrativas ORDENANZA 480/MLV (20/08/2026) Otorga descuentos entre 20% y 90% en multas administrativas, además de la condonación d...",
+    "date": "2026-08-20T11:00:59",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/repositorio-normas-legales-agosto-2026/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=451731",
     "title": "Carga movilizada por puertos de la Región de Tarapacá cae 8,2% en junio de 2026",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario En junio de 2026, los puertos de la Región de Tarapacá movilizaron 891.805 toneladas, cifra que\nLa entrada Carga movilizada por puertos de la Región de Tarapacá cae 8,2% en ...",
@@ -133,6 +214,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/carga-movilizada-por-puertos-de-la-region-de-tarapaca-cae-82-en-junio-de-2026/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=97967",
+    "title": "Resumen Normas Legales – Agosto 2026",
+    "snippet": "Actualización 20 de agosto de 2026 Municipalidad de La Victoria- Descuentos en multas administrativas ORDENANZA 480/MLV (20/08/2026) Otorga descuentos entre 20% y 90% en multas administrativas, además de la condonación d...",
+    "date": "2026-08-20T11:00:13",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/resumen-normas-legales-agosto-2026-2/",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.xataka.com/legislacion-y-derechos/a-facebook-cada-vez-se-le-esta-poniendo-cara-marlboro-anos-70",
@@ -1258,95 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/ecologia-y-naturaleza/espana-lleva-junio-pidiendo-que-llueva-lluvia-que-llega-esta-semana-justo-que-no-necesitamos",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-maria-belen-bazo-se-proclamo-campeona-el-sudamericano-vela-paracas-1088204.aspx",
-    "title": "María Belén Bazo se proclamó campeona en el Sudamericano de Vela en Paracas",
-    "snippet": "La vela nacional volvió al primer plano internacional gracias a María Belén Bazo, integrante del Programa Ciclo Olímpico 2025-2028 del Instituto Peruano del Deporte (IPD), quien ganó el Campeonato Sudamericano de IQFOIL ...",
-    "date": "2026-08-19T12:10:07",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-maria-belen-bazo-se-proclamo-campeona-el-sudamericano-vela-paracas-1088204.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/1982-reino-unido-movilizo-sus-barcos-civiles-guerra-malvinas-china-ha-tenido-idea-su-descomunal-flota-mercante",
-    "title": "En 1982, Reino Unido movilizó sus barcos civiles en la guerra de las Malvinas. China ha tenido la misma idea con su descomunal flota mercante",
-    "snippet": "En 1982, Reino Unido necesitaba llevar una guerra hasta unas islas situadas a más de 12.000 kilómetros de casa y descubrió que su Armada no podía hacerlo sola. La solución: recurrir a decenas de cruceros, cargueros, petr...",
-    "date": "2026-08-19T12:00:21",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/1982-reino-unido-movilizo-sus-barcos-civiles-guerra-malvinas-china-ha-tenido-idea-su-descomunal-flota-mercante",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451383",
-    "title": "Nueva Zelanda: Puerto de Lyttelton destinará USD 482 millones para ampliar muelle y terminal de contenedores",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Lyttelton Port Company invertirá 482 millones de dólares en el desarrollo del muelle y la terminal\nLa entrada Nueva Zelanda: Puerto de Lyttelton destinará USD 482 millones p...",
-    "date": "2026-08-19T12:00:10",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/nueva-zelanda-puerto-de-lyttelton-destinara-usd-482-millones-para-ampliar-muelle-y-terminal-de-contenedores/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-premian-a-cientifica-peruana-rosa-vasquez-su-trabajo-las-abejas-sin-aguijon-1088082.aspx",
-    "title": "Premian a científica peruana Rosa Vásquez por su trabajo con las abejas sin aguijón",
-    "snippet": "La científica peruana Rosa Vázquez Espinoza ha sido galardonada en los premios Rolex 2026- siendo la única latinoamericana entre los cinco premiados- por liderar los esfuerzos de conservación de abejas sin aguijón en el ...",
-    "date": "2026-08-19T12:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-premian-a-cientifica-peruana-rosa-vasquez-su-trabajo-las-abejas-sin-aguijon-1088082.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=981668",
-    "title": "Nvidia’s new financial strategy does not compute",
-    "snippet": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldma...",
-    "date": "2026-08-19T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=981908",
-    "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
-    "snippet": "Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to the current footprint. Prime Air deliveries w...",
-    "date": "2026-08-19T11:53:27",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cajamarca-defensa-nacional-cuenta-500-toneladas-ayuda-para-atender-emergencias-1088197.aspx",
-    "title": "Cajamarca: Defensa Nacional cuenta con 500 toneladas de ayuda para atender emergencias",
-    "snippet": "Cajamarca fortalece su capacidad de respuesta ante la posible presencia del fenómeno El Niño mediante el abastecimiento del almacén de Defensa Nacional del Gobierno Regional de Cajamarca, ubicado en el distrito de Los Ba...",
-    "date": "2026-08-19T11:53:05",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cajamarca-defensa-nacional-cuenta-500-toneladas-ayuda-para-atender-emergencias-1088197.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-chile-declara-estado-excepcion-catastrofe-causado-aluviones-y-deslizamientos-1088201.aspx",
-    "title": "Chile declara estado de excepción por catástrofe causado por aluviones y deslizamientos",
-    "snippet": "El Gobierno chileno declaró este martes estado de excepción por catástrofe en la provincia de Tocopilla, 1.530 kilómetros al norte de la capital, tras registrarse en la zona aluviones y grandes deslizamientos de tierra q...",
-    "date": "2026-08-19T11:51:37",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-chile-declara-estado-excepcion-catastrofe-causado-aluviones-y-deslizamientos-1088201.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ayer-hubo-15-terremotos-granada-granadinos-estan-comprensiblemente-empezando-a-perder-cabeza",
-    "title": "Ayer hubo 15 terremotos en Granada y los granadinos están, comprensiblemente, empezando a perder la cabeza",
-    "snippet": "El sábado 15 de agosto a las 01:04 de la madrugada Granada empezó a temblar. Un terremoto de magnitud 5 con epicentro en Alhendín, al sur de la capital, hizo crujir los edificios de todo el área metropolitana y se hizo n...",
-    "date": "2026-08-19T11:30:21",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ayer-hubo-15-terremotos-granada-granadinos-estan-comprensiblemente-empezando-a-perder-cabeza",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-miercoles-19-agosto-2026-1088199.aspx",
-    "title": "Estas son las normas legales más importantes del miércoles 19 de agosto de 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-08-19T11:29:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-miercoles-19-agosto-2026-1088199.aspx",
-    "category": "MERCADO"
   }
 ]
