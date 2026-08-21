@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3155585",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia....",
+    "date": "2026-08-21T22:37:38",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452009",
+    "title": "Uruguay: 16 nuevas barcazas son descargadas en Puerto de Nueva Palmira",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Nueva Palmira (Uruguay) recibió la recalada del buque Aal Hamburg. El navío descargó\nLa entrada Uruguay: 16 nuevas barcazas son descargadas en Puerto de Nueva P...",
+    "date": "2026-08-21T22:30:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/uruguay-16-nuevas-barcazas-son-descargadas-en-puerto-de-nueva-palmira/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452157",
+    "title": "Javier Uribe: Una Aduana fuerte también protege la seguridad de Chile",
+    "snippet": "Javier Uribe es abogado especialista en derecho aduanero y comercio internacional, además de socio fundador de UR Customs. El profesional\nLa entrada Javier Uribe: Una Aduana fuerte también protege la seguridad de Chile s...",
+    "date": "2026-08-21T22:27:00",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/javier-uribe-una-aduana-fuerte-tambien-protege-la-seguridad-de-chile/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=983500",
     "title": "HoverAir’s transforming modular drone has already been halted in the US",
     "snippet": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US or...",
@@ -1321,32 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/wilson-sons-bautiza-un-nuevo-remolcador-en-muelle-brasileno-de-maua/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-destinara-s-900-millones-para-rehabilitar-tres-aeropuertos-regionales-1088471.aspx",
-    "title": "Gobierno destinará S/ 900 millones para rehabilitar tres aeropuertos regionales",
-    "snippet": "El presidente del Consejo de Ministros, Luis Galarreta, informó hoy que el Gobierno destinará 900 millones de soles para rehabilitar pistas, drenajes y ampliar capacidad de atención de los aeropuertos regionales de Julia...",
-    "date": "2026-08-20T20:36:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-destinara-s-900-millones-para-rehabilitar-tres-aeropuertos-regionales-1088471.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-us-open-ultimo-grand-slam-otorgara-premios-record-100-millones-dolares-1088475.aspx",
-    "title": "El US Open, último Grand Slam,  otorgará premios récord de 100 millones de dólares",
-    "snippet": "La bolsa de premios del US Open, el último Grand Slam de la temporada del tenis, superará por primera vez los 100 millones de dólares, un aumento del 20% respecto a los 85 millones del año pasado, informaron este jueves ...",
-    "date": "2026-08-20T20:27:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-us-open-ultimo-grand-slam-otorgara-premios-record-100-millones-dolares-1088475.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-prioriza-educacion-empleo-juvenil-y-prevencion-emergencias-colegios-1088459.aspx",
-    "title": "Gobierno prioriza educación, empleo juvenil y prevención de emergencias en colegios",
-    "snippet": "En el sector Educación, el actual Gobierno orientará sus esfuerzos en priorizar aprendizajes fundamentales, como la comprensión lectora, la escritura y el razonamiento matemático, junto con la formación cívica, la enseña...",
-    "date": "2026-08-20T20:16:09",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-prioriza-educacion-empleo-juvenil-y-prevencion-emergencias-colegios-1088459.aspx",
-    "category": "MERCADO"
   }
 ]
