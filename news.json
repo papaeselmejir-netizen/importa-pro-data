@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.xataka.com/movilidad/faros-led-coches-demasiado-potentes-que-han-dejado-ser-seguros",
+    "title": "Los faros LED de los coches son demasiado potentes. Tanto que han dejado de ser seguros",
+    "snippet": "Odio viajar de noche, casi tanto como circular con lluvia. Hacía tiempo que no iba por una nacional, pero hace unos días tuve que hacerlo y pasó lo que tenía que pasar: quedé deslumbrado en más de una ocasión. Los faros ...",
+    "date": "2026-08-21T07:31:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/faros-led-coches-demasiado-potentes-que-han-dejado-ser-seguros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/airbus-boeing-llevan-decadas-perfeccionando-tipo-avion-jetzero-quiere-romper-ese-molde-mantarraya",
+    "title": "Airbus y Boeing llevan décadas perfeccionando el mismo tipo de avión. JetZero quiere romper ese molde con una “mantarraya”",
+    "snippet": "Si pensamos en un avión comercial moderno, da igual que miremos un Airbus A350 o un Boeing 787: la silueta básica sigue siendo sorprendentemente familiar. La industria ha pasado décadas mejorando motores, materiales, aer...",
+    "date": "2026-08-21T07:01:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/airbus-boeing-llevan-decadas-perfeccionando-tipo-avion-jetzero-quiere-romper-ese-molde-mantarraya",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=451918",
+    "title": "Tarifas de flete marítimo intraasiático registra crecimiento de 6% en última semana",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Índice de Contenedores Intraasiáticos (IACI) de Drewry registró un incremento del 6% esta semana, situándose\nLa entrada Tarifas de flete marítimo intraasiático registra c...",
+    "date": "2026-08-21T07:00:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/tarifas-de-flete-maritimo-intraasiatico-registra-crecimiento-de-6-en-ultima-semana/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/hong-kong-presenta-robot-humanoide-capaz-cargar-50-kilos-esta-disenado-para-transporte-pesado-tareas-precision",
     "title": "Hong Kong presenta un robot humanoide capaz de cargar 50 kilos: está diseñado para transporte pesado y tareas de precisión",
     "snippet": "La empresa hongkonesa NineRay Technology ha presentado en el Parque Científico de Hong Kong un robot humanoide capaz de levantar y transportar barras de 50 kilos obedeciendo a las órdenes recibidas por voz. Se trata del ...",
@@ -1321,32 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/peru-activan-plan-para-asegurar-continuidad-de-operaciones-portuarias-ante-fenomeno-de-el-nino/",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-puno-pnp-rescata-a-12-personas-secuestradas-organizacion-criminal-mina-1088327.aspx",
-    "title": "Puno: PNP rescata a 12 personas secuestradas por organización criminal en mina",
-    "snippet": "Tras recibir información sobre la retención de los trabajadores, la Policía Nacional del Perú (PNP) activó de inmediato un plan operativo y desplegó un contingente de efectivos hacia la zona para recuperar el control de ...",
-    "date": "2026-08-19T23:54:48",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-puno-pnp-rescata-a-12-personas-secuestradas-organizacion-criminal-mina-1088327.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o#0",
-    "title": "India's Gen Z are driving up a mega boom in its beauty market",
-    "snippet": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom....",
-    "date": "2026-08-19T23:31:24",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451695",
-    "title": "Puente de la Bioceánica avanza hacia su culminación con descenso de carros de avance inferior",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puente de la Bioceánica, que conectará Carmelo Peralta (Paraguay) con Puerto Murtinho (Brasil), avanza hacia\nLa entrada Puente de la Bioceánica avanza hacia su culminació...",
-    "date": "2026-08-19T23:30:03",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puente-de-la-bioceanica-avanza-hacia-su-culminacion-con-descenso-de-carros-de-avance-inferior/",
-    "category": "LOGÍSTICA"
   }
 ]
