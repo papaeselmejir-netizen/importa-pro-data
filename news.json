@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-aseguradoras-proponen-plan-integral-gestion-riesgos-entre-sector-publico-y-privado-1088462.aspx",
+    "title": "Aseguradoras proponen Plan Integral de Gestión de Riesgos entre sector público y privado",
+    "snippet": "La gestión oportuna de los riesgos es un pilar fundamental para asegurar la continuidad de los servicios públicos y resguardar el bienestar de la ciudadanía, afirmó la Asociación Peruana de Empresas de Seguros (Apeseg)....",
+    "date": "2026-08-21T13:40:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-aseguradoras-proponen-plan-integral-gestion-riesgos-entre-sector-publico-y-privado-1088462.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-este-sabado-implementan-carril-bus-av-arequipa-aqui-las-rutas-alternas-hacia-wilson-1088557.aspx",
+    "title": "Este sábado implementan carril bus en av Arequipa: aquí las rutas alternas hacia Wilson",
+    "snippet": "Si tienes previsto circular por la avenida Arequipa desde este sábado 22 de agosto, toma nota de las nuevas rutas que deberás seguir. La Autoridad de Transporte Urbano para Lima y Callao (ATU) implementará el Plan Piloto...",
+    "date": "2026-08-21T13:35:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-este-sabado-implementan-carril-bus-av-arequipa-aqui-las-rutas-alternas-hacia-wilson-1088557.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/energia/a-espana-le-sobra-sol-bate-records-energia-solar-tira-buena-parte-a-basura",
+    "title": "A España le sobra sol: bate récords de energía solar mientras tira una buena parte a la basura",
+    "snippet": "Durante el pasado mes de julio España generó 7.696 GWh de electricidad solar fotovoltaica. Es una cifra récord, y no cabe duda de que es una muy buena noticia. Sin embargo, queda en gran medida empañada por un hecho desa...",
+    "date": "2026-08-21T13:31:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/a-espana-le-sobra-sol-bate-records-energia-solar-tira-buena-parte-a-basura",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cienciano-vs-montevideo-city-torque-asi-empieza-a-vivir-partido-prensa-uruguay-1088556.aspx",
+    "title": "Cienciano vs. Montevideo City Torque: Así empieza a vivir el partido la prensa de Uruguay",
+    "snippet": "La prensa deportiva de Uruguay informó sobre la clasificación del Cienciano del Cusco a los cuartos de final de la Copa Sudamericana, instancia en la que se enfrentará al Montevideo City Torque....",
+    "date": "2026-08-21T13:30:26",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cienciano-vs-montevideo-city-torque-asi-empieza-a-vivir-partido-prensa-uruguay-1088556.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/lidl-esta-agotando-esta-destructora-papel-hemos-visto-otra-alternativa-que-puede-grapas",
+    "title": "Lidl está agotando esta destructora de papel, pero hemos visto otra alternativa (al mismo precio) que hasta puede con grapas",
+    "snippet": "De entre todos los productos que podemos encontrar en la sección Bazar de Lidl, que no son pocos precisamente, hay uno que se está agotando: la destructora de papel Tronic. Tal y como indica el supermercado en su tienda ...",
+    "date": "2026-08-21T13:15:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/lidl-esta-agotando-esta-destructora-papel-hemos-visto-otra-alternativa-que-puede-grapas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/nuevo/hyperos-4-fecha-salida-version-android-novedades-modelos-compatibles-todo-que-sabemos-creemos-saber",
+    "title": "HyperOS 4 de Xiaomi: fecha de salida, version de Android, modelos compatibles, novedades y todo que sabemos y creemos saber",
+    "snippet": "Vamos a darte toda la información que tenemos sobre HyperOS 4, la capa de personalización de Xiaomi para Android. HyperOS es el sucesor de MIUI, que ya está presente en muchos móviles con un buen repertorio de cambios es...",
+    "date": "2026-08-21T13:01:34",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/nuevo/hyperos-4-fecha-salida-version-android-novedades-modelos-compatibles-todo-que-sabemos-creemos-saber",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-bbva-bancos-tienen-mayor-liquidez-retiros-afp-y-crecimiento-exportaciones-1088239.aspx",
+    "title": "BBVA: bancos tienen mayor liquidez por retiros de AFP y crecimiento de exportaciones",
+    "snippet": "Los bancos cuentan actualmente con un mayor nivel de liquidez en relación a hace algunos años, tanto en soles como en dólares, debido a los retiros de las AFP y el crecimiento de las exportaciones peruanas, sostuvo el Ch...",
+    "date": "2026-08-21T12:56:18",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-bbva-bancos-tienen-mayor-liquidez-retiros-afp-y-crecimiento-exportaciones-1088239.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/robotica-e-ia/todos-modelos-ia-hacen-trampas-les-das-ocasion-decirles-no-hagas-trampas-no-basta",
     "title": "Todos los modelos de IA hacen trampas si les das ocasión. Decirles “no hagas trampas” no basta",
     "snippet": "FelonyBench no es un benchmark de verdad. Es un sitio web irónico que se burla de una sola cosa: lo peligrosos que son los modelos de IA en materia de ciberseguridad. Ha surgido como respuesta a lo que ha pasado en las ú...",
@@ -1285,68 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/carga-movilizada-por-puertos-de-la-region-de-tarapaca-cae-82-en-junio-de-2026/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://lacamara.pe/?p=97967",
-    "title": "Resumen Normas Legales – Agosto 2026",
-    "snippet": "Actualización 20 de agosto de 2026 Municipalidad de La Victoria- Descuentos en multas administrativas ORDENANZA 480/MLV (20/08/2026) Otorga descuentos entre 20% y 90% en multas administrativas, además de la condonación d...",
-    "date": "2026-08-20T11:00:13",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/resumen-normas-legales-agosto-2026-2/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/legislacion-y-derechos/a-facebook-cada-vez-se-le-esta-poniendo-cara-marlboro-anos-70",
-    "title": "A Facebook cada vez se le está poniendo más cara de Marlboro en los años 70",
-    "snippet": "Meta se enfrenta estos días a uno de los procesos judiciales más importantes de su historia, y la amenaza no es ya solo una potencial megamulta. Un grupo de 29 estados de EEUU acusa a la compañía de haber diseñado Facebo...",
-    "date": "2026-08-20T10:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/legislacion-y-derechos/a-facebook-cada-vez-se-le-esta-poniendo-cara-marlboro-anos-70",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/mallorca-se-enfrenta-a-dilema-para-salvar-sus-acuiferos-plantar-millon-arboles-construir-otra-gran-desaladora",
-    "title": "Mallorca se enfrenta a un dilema para salvar sus acuíferos: plantar un millón de árboles o construir otra gran desaladora",
-    "snippet": "El estrés hídrico que se vive en las Islas Baleares es un problema bastante importante, pero las soluciones que se ponen sobre la mesa están empezando a cambiar. Hasta ahora, la respuesta casi automática frente a esta es...",
-    "date": "2026-08-20T10:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/mallorca-se-enfrenta-a-dilema-para-salvar-sus-acuiferos-plantar-millon-arboles-construir-otra-gran-desaladora",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/china-produce-tanta-energia-limpia-que-esta-tirando-sus-sobras-podrian-alimentar-mexico-durante-ano",
-    "title": "China produce tanta energía limpia que la está tirando. Sus sobras podrían alimentar México durante un año",
-    "snippet": "China es la potencia solar del planeta. Se ha expandido tanto en tan poco tiempo que ha pasado algo curioso: su sector corre el riesgo de morir de éxito. Sus nuevas necesidades están provocando una reactivación del carbó...",
-    "date": "2026-08-20T09:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/china-produce-tanta-energia-limpia-que-esta-tirando-sus-sobras-podrian-alimentar-mexico-durante-ano",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo#0",
-    "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-    "snippet": "Jo Boydell had been criticised for the company's handling of issues with its safety and security....",
-    "date": "2026-08-20T09:29:20",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/epidemia-ebola-rapida-historia-avanza-a-ciegas-para-ciencia",
-    "title": "La epidemia de ébola más rápida de la historia avanza a ciegas para la ciencia",
-    "snippet": "África se enfrenta a una crisis sanitaria de proporciones históricas que comenzó como una alerta en la República Democrática del Congo y Uganda y que ha evolucionado en cuestión de semanas en el brote de ébola de más ráp...",
-    "date": "2026-08-20T09:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/epidemia-ebola-rapida-historia-avanza-a-ciegas-para-ciencia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451591",
-    "title": "Ferrocarriles chinos transportan 2.350 millones de toneladas de carga entre enero y julio",
-    "snippet": "Por Redacción PortalPortuario/Xinhua @PortalPortuario Los ferrocarriles estatales de China manejaron 2.350 millones de toneladas de carga en los siete meses\nLa entrada Ferrocarriles chinos transportan 2.350 millones de t...",
-    "date": "2026-08-20T09:00:53",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ferrocarriles-chinos-transportan-2-350-millones-de-toneladas-de-carga-entre-enero-y-julio/",
-    "category": "MERCADO"
   }
 ]
