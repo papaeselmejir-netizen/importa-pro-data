@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=452173",
+    "title": "Biministro de Obras Públicas y Transportes visita avance de conexión vial que facilitará acceso desde Santiago a ciudades puertos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El biministro de Obras Públicas y Transportes, Louis de Grange, visitó las obras del proyecto de\nLa entrada Biministro de Obras Públicas y Transportes visita avance de conex...",
+    "date": "2026-08-22T19:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/biministro-de-obras-publicas-y-transportes-visita-avance-de-conexion-vial-que-facilitara-acceso-desde-santiago-a-ciudades-puertos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-trujillo-retiran-130-m3-residuos-alrededores-aeropuerto-y-penal-milagro-1088732.aspx",
+    "title": "Trujillo: retiran 130 m3 de residuos en alrededores de aeropuerto y penal El Milagro",
+    "snippet": "Más de 130 metros cúbicos de residuos, desmonte y maleza fueron retirados como resultados de una campaña de limpieza realizada en los alrededores del aeropuerto internacional CAP FAP Carlos Martínez de Pinillos y el inte...",
+    "date": "2026-08-22T19:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-trujillo-retiran-130-m3-residuos-alrededores-aeropuerto-y-penal-milagro-1088732.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/ir-bici-a-oficina-tener-trabajo-exigente-no-frenan-alzheimer-deporte-recreativo-verdadera-clave",
+    "title": "Ir en bici a la oficina y tener un trabajo exigente no frenan el alzhéimer. El deporte recreativo es la verdadera clave",
+    "snippet": "Llevamos toda la vida escuchando que el movimiento es vida y que el ejercicio físico es uno de los pilares fundamentales para proteger nuestro cerebro del deterioro cognitivo. Sin embargo, no todo el ejercicio es válido ...",
+    "date": "2026-08-22T18:31:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/ir-bici-a-oficina-tener-trabajo-exigente-no-frenan-alzheimer-deporte-recreativo-verdadera-clave",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-arequipa-habilitan-transito-via-oconaatico-tras-nuevo-derrumbe-esta-madrugada-1088743.aspx",
     "title": "Arequipa: habilitan tránsito en vía Ocoña-Atico tras nuevo derrumbe esta madrugada",
     "snippet": "Luego de varias horas de ardua labor de limpieza, personal y maquinaria de Provías Nacional, con apoyo del gobierno regional de Arequipa y de la autoridad local, habilitó el tránsito vehicular en el sector La Planchada, ...",
@@ -1321,32 +1348,5 @@
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-aseguradoras-proponen-plan-integral-gestion-riesgos-entre-sector-publico-y-privado-1088462.aspx",
-    "title": "Aseguradoras proponen Plan Integral de Gestión de Riesgos entre sector público y privado",
-    "snippet": "La gestión oportuna de los riesgos es un pilar fundamental para asegurar la continuidad de los servicios públicos y resguardar el bienestar de la ciudadanía, afirmó la Asociación Peruana de Empresas de Seguros (Apeseg)....",
-    "date": "2026-08-21T13:40:43",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-aseguradoras-proponen-plan-integral-gestion-riesgos-entre-sector-publico-y-privado-1088462.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-este-sabado-implementan-carril-bus-av-arequipa-aqui-las-rutas-alternas-hacia-wilson-1088557.aspx",
-    "title": "Este sábado implementan carril bus en av Arequipa: aquí las rutas alternas hacia Wilson",
-    "snippet": "Si tienes previsto circular por la avenida Arequipa desde este sábado 22 de agosto, toma nota de las nuevas rutas que deberás seguir. La Autoridad de Transporte Urbano para Lima y Callao (ATU) implementará el Plan Piloto...",
-    "date": "2026-08-21T13:35:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-este-sabado-implementan-carril-bus-av-arequipa-aqui-las-rutas-alternas-hacia-wilson-1088557.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/energia/a-espana-le-sobra-sol-bate-records-energia-solar-tira-buena-parte-a-basura",
-    "title": "A España le sobra sol: bate récords de energía solar mientras tira una buena parte a la basura",
-    "snippet": "Durante el pasado mes de julio España generó 7.696 GWh de electricidad solar fotovoltaica. Es una cifra récord, y no cabe duda de que es una muy buena noticia. Sin embargo, queda en gran medida empañada por un hecho desa...",
-    "date": "2026-08-21T13:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/a-espana-le-sobra-sol-bate-records-energia-solar-tira-buena-parte-a-basura",
-    "category": "LEGAL"
   }
 ]
