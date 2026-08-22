@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.xataka.com/espacio/hemos-necesitado-13-anos-para-crear-mayor-mapa-2d-universo-tiene-5-6-billones-pixeles-casi-4-000-millones-objetos",
+    "title": "Hemos necesitado 13 años para crear el mayor mapa 2D del universo. Tiene 5,6 billones de píxeles y casi 4.000 millones de objetos",
+    "snippet": "El equipo de los DESI Legacy Imaging Surveys acaba de publicar el mayor mapa bidimensional del universo creado hasta la fecha. Contiene casi 4.000 millones de objetos celestes entre estrellas, galaxias y otros fenómenos,...",
+    "date": "2026-08-22T13:01:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/hemos-necesitado-13-anos-para-crear-mayor-mapa-2d-universo-tiene-5-6-billones-pixeles-casi-4-000-millones-objetos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2240112/how-to-airplay-from-iphone-macbook-to-tv/",
+    "title": "How to AirPlay from iPhone or MacBook to your TV",
+    "snippet": "If you want to display media from your phone on a TV screen, you'll need to follow these steps to use AirPlay or screen mirroring....",
+    "date": "2026-08-22T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2240112/how-to-airplay-from-iphone-macbook-to-tv/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/lidl-agota-su-monitor-portatil-ideal-para-estudiar-trabajar-aqui-hemos-encontrado-alternativa-incluso-barata",
+    "title": "Lidl agota su monitor portátil ideal para estudiar o trabajar, pero aquí hemos encontrado una alternativa incluso más barata",
+    "snippet": "Entre las novedades que trajo Lidl en su catálogo para esta semana, una de las más interesantes con la vista puesta en la vuelta al cole y al trabajo (tras las vacaciones de verano) es la protagonizada por su monitor por...",
+    "date": "2026-08-22T12:45:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/lidl-agota-su-monitor-portatil-ideal-para-estudiar-trabajar-aqui-hemos-encontrado-alternativa-incluso-barata",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature/",
     "title": "This handy Google Pixel feature can help solve annoying Android Bluetooth problems",
     "snippet": "If you're having trouble with Bluetooth connections on your Pixel phone, this tool is a great place to start your troubleshooting....",
@@ -1320,33 +1347,6 @@
     "date": "2026-08-21T07:31:33",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/faros-led-coches-demasiado-potentes-que-han-dejado-ser-seguros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/airbus-boeing-llevan-decadas-perfeccionando-tipo-avion-jetzero-quiere-romper-ese-molde-mantarraya",
-    "title": "Airbus y Boeing llevan décadas perfeccionando el mismo tipo de avión. JetZero quiere romper ese molde con una “mantarraya”",
-    "snippet": "Si pensamos en un avión comercial moderno, da igual que miremos un Airbus A350 o un Boeing 787: la silueta básica sigue siendo sorprendentemente familiar. La industria ha pasado décadas mejorando motores, materiales, aer...",
-    "date": "2026-08-21T07:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/airbus-boeing-llevan-decadas-perfeccionando-tipo-avion-jetzero-quiere-romper-ese-molde-mantarraya",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=451918",
-    "title": "Tarifas de flete marítimo intraasiático registra crecimiento de 6% en última semana",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Índice de Contenedores Intraasiáticos (IACI) de Drewry registró un incremento del 6% esta semana, situándose\nLa entrada Tarifas de flete marítimo intraasiático registra c...",
-    "date": "2026-08-21T07:00:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/tarifas-de-flete-maritimo-intraasiatico-registra-crecimiento-de-6-en-ultima-semana/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/hong-kong-presenta-robot-humanoide-capaz-cargar-50-kilos-esta-disenado-para-transporte-pesado-tareas-precision",
-    "title": "Hong Kong presenta un robot humanoide capaz de cargar 50 kilos: está diseñado para transporte pesado y tareas de precisión",
-    "snippet": "La empresa hongkonesa NineRay Technology ha presentado en el Parque Científico de Hong Kong un robot humanoide capaz de levantar y transportar barras de 50 kilos obedeciendo a las órdenes recibidas por voz. Se trata del ...",
-    "date": "2026-08-21T06:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/hong-kong-presenta-robot-humanoide-capaz-cargar-50-kilos-esta-disenado-para-transporte-pesado-tareas-precision",
     "category": "TRIBUTARIO"
   }
 ]
