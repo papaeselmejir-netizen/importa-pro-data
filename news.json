@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-presidenta-fujimori-enfrentaremos-delincuencia-autoridad-y-presencia-del-estado-1088835.aspx",
+    "title": "Presidenta Fujimori: enfrentaremos la delincuencia con autoridad y presencia del Estado",
+    "snippet": "La presidenta de la república, Keiko Fujimori, participó hoy en la entrega de 900 chalecos antibalas nivel IIIA para el equipamiento táctico y protección integral del personal asignado a la Región Policial del Callao....",
+    "date": "2026-08-23T21:20:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidenta-fujimori-enfrentaremos-delincuencia-autoridad-y-presencia-del-estado-1088835.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-marea-alta-sport-boys-no-tuvo-piedad-y-goleo-51-a-cienciano-el-miguel-grau-1088827.aspx",
+    "title": "¡Marea alta! Sport Boys no tuvo piedad y goleó 5-1 a Cienciano en el Miguel Grau",
+    "snippet": "Con cuatro goles de Pablo Erustes y uno de Yuriel Celi, Sport Boys del Callao no tuvo piedad del Cienciano y lo goleó 5-1 en el Miguel Grau, donde los rosados estuvieron intratables en el partido jugado este domingo por ...",
+    "date": "2026-08-23T20:41:18",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-marea-alta-sport-boys-no-tuvo-piedad-y-goleo-51-a-cienciano-el-miguel-grau-1088827.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/",
+    "title": "How is Android Auto different from Android Automotive?",
+    "snippet": "While these two names sound like they'd refer to the same product, there are major differences between them....",
+    "date": "2026-08-23T20:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-que-hacer-durante-un-sismo-un-edificio-bombero-advierte-los-errores-mas-comunes-1087394.aspx",
     "title": "¿Qué hacer durante un sismo en un edificio? Bombero advierte los errores más comunes",
     "snippet": "Durante un sismo, una decisión equivocada puede hacer la diferencia entre la vida y la muerte. Y si el movimiento sorprende  a una persona en un edificio, la primera reacción será bajar rápidamente o buscar la salida, pe...",
@@ -1321,32 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/dp-world-san-antonio-recibe-trenes-de-pasajeros-nuevos-para-efe/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-proinversion-declara-viable-perfil-del-teleferico-puno-multiplicara-flujo-turistico-1088629.aspx",
-    "title": "ProInversión declara viable perfil del Teleférico de Puno que multiplicará flujo turístico",
-    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión), adscrita al Ministerio de Economía y Finanzas (MEF), declaró viable el perfil de inversión del proyecto Teleférico Cerro Azoguini – Lago Titicaca, un nuevo ...",
-    "date": "2026-08-21T20:56:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-proinversion-declara-viable-perfil-del-teleferico-puno-multiplicara-flujo-turistico-1088629.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-lionel-messi-recibe-multa-la-mls-un-golpe-a-un-rival-partido-ante-philadelphia-1088630.aspx",
-    "title": "Lionel Messi recibe multa en la MLS por un golpe a un rival en partido ante Philadelphia",
-    "snippet": "La liga norteamericana (MLS) aplicó este viernes una multa de cantidad no especificada a Lionel Messi por un incidente con un rival ocurrido en el partido del miércoles entre el Inter Miami y Philadelphia Union....",
-    "date": "2026-08-21T20:53:34",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-lionel-messi-recibe-multa-la-mls-un-golpe-a-un-rival-partido-ante-philadelphia-1088630.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=99061",
-    "title": "Compartir para crecer: el desafío de internacionalizar la moda peruana",
-    "snippet": "La internacionalización de las marcas peruanas de indumentaria representa una oportunidad, pero también exige preparación, conocimiento y una mirada estratégica. En un sector donde las empresas enfrentan mercados cada ve...",
-    "date": "2026-08-21T20:48:32",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/compartir-para-crecer-el-desafio-de-internacionalizar-la-moda-peruana/",
-    "category": "MERCADO"
   }
 ]
