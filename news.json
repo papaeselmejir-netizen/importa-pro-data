@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-produce-lidera-delegacion-peruana-para-fortalecer-industria-atunera-1088846.aspx",
+    "title": "Produce lidera delegación peruana para fortalecer industria atunera",
+    "snippet": "Desde este lunes 24 de agosto hasta el 5 de setiembre, el Perú participará en la 104.ª Reunión de la Comisión Interamericana del Atún Tropical (CIAT), que se desarrollará en Lisboa, Portugal....",
+    "date": "2026-08-24T01:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-produce-lidera-delegacion-peruana-para-fortalecer-industria-atunera-1088846.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=452221",
     "title": "Argentina: Cabotaje fluvial de granos moviliza su mayor volumen de carga en cinco años",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario En línea con lo dado a conocer por un informe elaborado por Ana Rubicondi, Bruno Ferrari,\nLa entrada Argentina: Cabotaje fluvial de granos moviliza su mayor volumen de carga...",
@@ -1338,15 +1347,6 @@
     "date": "2026-08-21T21:44:36",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/gta-6-take-two-subpoenas-for-microsoft-discord-data/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ministro-defensa-se-implementan-centros-retencion-temporal-para-extranjeros-1088581.aspx",
-    "title": "Ministro de Defensa: se implementan centros de retención temporal para extranjeros",
-    "snippet": "El ministro de Defensa, Rafael Belaunde, informó que se están constituyendo centros de retención temporal para ciudadanos extranjeros indocumentados; mientras el Ejecutivo plantea ampliar de 24 horas a una semana el plaz...",
-    "date": "2026-08-21T21:36:43",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ministro-defensa-se-implementan-centros-retencion-temporal-para-extranjeros-1088581.aspx",
     "category": "MERCADO"
   }
 ]
