@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cdeweewjdxno#0",
+    "title": "Shein aims for almost $27bn valuation in stock market debut",
+    "snippet": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September....",
+    "date": "2026-08-24T02:05:04",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed",
+    "title": "Remembering Zhu Rongji and understanding his legacy",
+    "snippet": "“History doesn’t repeat itself but it often rhymes.” This famous quote, widely attributed to Mark Twain, keeps playing in my mind as China mourns the death of former premier Zhu Rongji and reflects on his legacy.\nIt was ...",
+    "date": "2026-08-24T01:30:06",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364730/remembering-zhu-rongji-and-understanding-his-legacy?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-produce-lidera-delegacion-peruana-para-fortalecer-industria-atunera-1088846.aspx",
     "title": "Produce lidera delegación peruana para fortalecer industria atunera",
     "snippet": "Desde este lunes 24 de agosto hasta el 5 de setiembre, el Perú participará en la 104.ª Reunión de la Comisión Interamericana del Atún Tropical (CIAT), que se desarrollará en Lisboa, Portugal....",
@@ -1330,23 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/empresa-portuaria-iquique-profundiza-cooperacion-logistica-con-brasil/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452067",
-    "title": "Movimiento de carga en APM Terminals Callao se contrae 11,9% en junio de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Terminal Norte Multipropósito del Callao, operado por APM Terminals, movilizó 1.496.879 toneladas métricas (TM) de\nLa entrada Movimiento de carga en APM Terminals Callao ...",
-    "date": "2026-08-21T22:00:56",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/movimiento-de-carga-en-apm-terminals-callao-se-contrae-119-en-junio-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4847306",
-    "title": "GTA 6 Leaks Prompt Take-Two to Seek Subpoenas for Microsoft,  Discord Data",
-    "snippet": "The requests target Discord accounts and a GitHub repository connected to the ongoing GTA 6 leak investigation....",
-    "date": "2026-08-21T21:44:36",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gta-6-take-two-subpoenas-for-microsoft-discord-data/",
-    "category": "MERCADO"
   }
 ]
