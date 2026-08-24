@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.cnet.com/rss/news/4851464",
+    "title": "RAMageddon Strikes Again: Amazon Raises Its Electronics Prices by Up to 60%",
+    "snippet": "The e-commerce giant blames increases in component costs for the device price hikes....",
+    "date": "2026-08-24T20:15:33",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/ramageddon-strikes-again-amazon-raises-its-electronics-prices-by-up-to-60/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452321",
+    "title": "PIL expande sua presença no Brasil com novo escritório",
+    "snippet": "Por Redação PortalPortuario @PortalPortuario A Pacific International Lines (PIL) expandiu sua presença no Brasil após abrir um novo escritório no\nLa entrada PIL expande sua presença no Brasil com novo escritório se publi...",
+    "date": "2026-08-24T20:01:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/pil-expande-sua-presenca-no-brasil-com-novo-escritorio/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1703382",
+    "title": "Sueldo mínimo: Gobierno, trabajadores y empresas debatirán alza de la RMV este 3 de setiembre en el Consejo Nacional del Trabajo",
+    "snippet": "El Ministerio de Trabajo programó para la próxima semana el debate del incremento de la Remuneración Mínima Vital a S/1.300. El diálogo también abordará medidas frente al Niño Global y los retos del avance tecnológico y ...",
+    "date": "2026-08-24T20:00:57",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/sueldo-minimo-gobierno-trabajadores-y-empresas-debatiran-alza-de-la-rmv-este-3-de-setiembre-en-el-consejo-nacional-del-trabajo-noticia-1703382",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452313",
+    "title": "PIL expande su presencia en Brasil con nueva oficina",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Pacific International Lines (PIL) expandió su presencia en Brasil, luego de abrir una nueva oficina en\nLa entrada PIL expande su presencia en Brasil con nueva oficina se pub...",
+    "date": "2026-08-24T20:00:42",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/pil-expande-su-presencia-en-brasil-con-nueva-oficina/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4851345",
+    "title": "It’s Been 20 Years Since Astronomers Decided Pluto Isn’t a Planet",
+    "snippet": "Pluto lost its planethood for a very specific reason. Whether or not that’s a good reason depends on who you ask....",
+    "date": "2026-08-24T19:57:54",
+    "source": "CNET",
+    "url": "https://www.cnet.com/science/space/20-years-since-astronomers-decided-pluto-isnt-a-planet/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3156059",
+    "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+    "snippet": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers....",
+    "date": "2026-08-24T19:54:50",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=983244",
+    "title": "The cat-and-mouse game over 3D-printed guns has begun",
+    "snippet": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evo...",
+    "date": "2026-08-24T19:50:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/rusia-lleva-anos-agitando-fantasma-torpedo-nuclear-poseidon-ahora-ha-sacado-al-mar-submarino-capaz-portarlo",
+    "title": "Rusia lleva años agitando el fantasma del torpedo nuclear Poseidón. Ahora ha sacado al mar el submarino capaz de portarlo",
+    "snippet": "Rusia lleva años hablando del Poseidón como algo más que un arma. Lo ha presentado como una pieza de disuasión extrema, un torpedo nuclear autónomo capaz de moverse bajo el agua durante miles de kilómetros y atacar desde...",
+    "date": "2026-08-24T19:31:33",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/rusia-lleva-anos-agitando-fantasma-torpedo-nuclear-poseidon-ahora-ha-sacado-al-mar-submarino-capaz-portarlo",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://lacamara.pe/?p=99169",
     "title": "Dólar seguirá debilitado por déficit fiscal y conflicto en Medio Oriente",
     "snippet": "Los mercados monetarios internacionales estuvieron influidos por la debilidad del dólar debido a la creciente deuda pública de Estados Unidos, el conflicto en Medio Oriente, aunque compensado parcialmente por los buenos ...",
@@ -102,6 +174,15 @@
     "id": "https://portalportuario.cl/?p=452340",
     "title": "Federación de Sindicatos Marítimos acusa al Estado de Chile de inclumplir compromisos suscritos ante la OIT",
     "snippet": "Por Redacción PortalPortuario  @PortalPortuario La Federación de Sindicatos Marítimos y Gente de Mar (Fesimar) acusó al Estado de Chile de\nLa entrada Federación de Sindicatos Marítimos acusa al Estado de Chile de inclump...",
+    "date": "2026-08-24T18:00:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/federacion-de-sindicatos-maritimos-acusa-al-estado-de-chile-de-inclumplir-compromisos-suscritos-ante-la-oit/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452340",
+    "title": "Federación de Sindicatos Marítimos acusa al Estado de Chile de incumplir compromisos suscritos ante la OIT",
+    "snippet": "Por Redacción PortalPortuario  @PortalPortuario La Federación de Sindicatos Marítimos y Gente de Mar (Fesimar) acusó al Estado de Chile de\nLa entrada Federación de Sindicatos Marítimos acusa al Estado de Chile de incumpl...",
     "date": "2026-08-24T18:00:16",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/federacion-de-sindicatos-maritimos-acusa-al-estado-de-chile-de-inclumplir-compromisos-suscritos-ante-la-oit/",
@@ -1266,87 +1347,6 @@
     "date": "2026-08-23T11:52:05",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-decretan-estado-emergencia-ves-y-vmt-danos-a-causa-lloviznas-1088783.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/trebol-cuatro-hojas-que-ves-algunos-coches-japon-no-decoracion-obligatorio-para-personas-mayores",
-    "title": "El trébol de cuatro hojas que ves en algunos coches en Japón no es decoración: es obligatorio para las personas mayores",
-    "snippet": "Alertar a otros conductores sobre nuestra capacidad al volante nunca está de más, sobre todo si acabamos de empezar a conducir. En España contamos con la ‘L’ para dejar claro que quien va al volante es un novel. Sin emba...",
-    "date": "2026-08-23T11:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/trebol-cuatro-hojas-que-ves-algunos-coches-japon-no-decoracion-obligatorio-para-personas-mayores",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/enorme-exito-odisea-spiderman-revela-problema-a-largo-plazo-para-cine-taquilla-se-ha-polarizado",
-    "title": "El enorme éxito de 'La Odisea' y 'Spiderman' revela un problema a largo plazo para el cine: la taquilla se ha polarizado",
-    "snippet": "El cine está viviendo un verano muy dulce gracias a una taquilla que ha recaudado cifras récord y títulos que se han convertido en auténticos fenómenos de audiencia. Pero que esa fachada no nos engañe, hay un problema. \n...",
-    "date": "2026-08-23T11:15:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/enorme-exito-odisea-spiderman-revela-problema-a-largo-plazo-para-cine-taquilla-se-ha-polarizado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/mayor-tumba-edad-cobre-europa-esta-murcia-revela-sangria-infantil",
-    "title": "La mayor tumba de la Edad del Cobre en Europa está en Murcia. Y revela una \"sangría\" infantil",
-    "snippet": "Durante buena parte del tercer milenio antes de Cristo la gente que vivía en lo que hoy es Caravaca de la Cruz, en Murcia, siguió un ritual: despedirse de sus muertos en una cueva excavada directamente en la roca, un amp...",
-    "date": "2026-08-23T11:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/mayor-tumba-edad-cobre-europa-esta-murcia-revela-sangria-infantil",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
-    "title": "Los becarios en la banca ya vienen con la IA bajo el brazo: ahora le enseñan cómo funciona a sus jefes",
-    "snippet": "Hoy por hoy, cuando hay trabajo repetitivo, mecánico y tedioso por delante que involucre documentación y mucho Excel, no son pocos precisamente los que recurren a la IA generativa. Esto también se aplica a la banca donde...",
-    "date": "2026-08-23T10:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/plantamos-arboles-para-mejorar-calidad-aire-algunos-estan-haciendo-contrario",
-    "title": "Plantamos árboles para mejorar la calidad del aire. Algunos están haciendo lo contrario",
-    "snippet": "A lo largo de los años la ciencia lo ha repetido largo y tendido: poner árboles en las ciudades es una buena idea. Está la idea de base de funcionar como pulmón (absorber el dióxido de carbono para convertirlo en oxígeno...",
-    "date": "2026-08-23T10:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/plantamos-arboles-para-mejorar-calidad-aire-algunos-estan-haciendo-contrario",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/plantamos-arboles-para-mejorar-calidad-aire-algunos-estan-haciendo-contrario",
-    "title": "Creíamos que todos los árboles mejoran la calidad del aire. Algunos están haciendo lo contrario",
-    "snippet": "A lo largo de los años la ciencia lo ha repetido largo y tendido: poner árboles en las ciudades es una buena idea. Está la idea de base de funcionar como pulmón (absorber el dióxido de carbono para convertirlo en oxígeno...",
-    "date": "2026-08-23T10:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/plantamos-arboles-para-mejorar-calidad-aire-algunos-estan-haciendo-contrario",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/historia-tecnologica/japon-quiso-crear-sistema-operativo-futuro-windows-se-impusiera-fracaso-pc-acerto-casi-todo-demas",
-    "title": "Japón quiso crear el sistema operativo del futuro antes de que Windows se impusiera. Fracasó en los PC, pero acertó en casi todo lo demás",
-    "snippet": "En 1984, Japón puso en marcha un proyecto que parecía diseñado para un mundo que todavía no existía. Ken Sakamura, profesor de la Universidad de Tokio, creó TRON (The Real-time Operating system Nucleus) con un objetivo t...",
-    "date": "2026-08-23T09:31:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/historia-tecnologica/japon-quiso-crear-sistema-operativo-futuro-windows-se-impusiera-fracaso-pc-acerto-casi-todo-demas",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/hay-multimillonarios-que-estan-comprando-bunkeres-privados-dentro-enormes-montanas-alpes-suizos",
-    "title": "Hay multimillonarios que están comprando búnkeres privados dentro de enormes montañas en los Alpes suizos",
-    "snippet": "A gran profundidad bajo el puerto de Brünig, en mitad de Suiza, hay operarios que están volando más de 100 metros de roca caliza maciza para construir algo que parece sacado directamente de una película de espías. Y es q...",
-    "date": "2026-08-23T09:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/hay-multimillonarios-que-estan-comprando-bunkeres-privados-dentro-enormes-montanas-alpes-suizos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/segundas-olimpiadas-robots-humanoides-china-han-roto-impresionante-record-100-metros-usain-bolt",
-    "title": "Las segundas Olimpiadas de robots humanoides de China ya \nhan roto un impresionante récord: los 100 metros de Usain Bolt",
-    "snippet": "Hace más de un mes que se terminó el Mundial 2026, pero a este verano no se le acaban los torneos deportivos de gran nivel: este fin de semana han empezado la segunda edición de los World Humanoid Robot Games en Beijing....",
-    "date": "2026-08-23T08:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/segundas-olimpiadas-robots-humanoides-china-han-roto-impresionante-record-100-metros-usain-bolt",
     "category": "MERCADO"
   }
 ]
