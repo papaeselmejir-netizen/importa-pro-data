@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.theverge.com/?p=984753",
+    "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+    "snippet": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $...",
+    "date": "2026-08-25T22:20:17",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452418",
+    "title": "San Antonio Terminal Internacional podría ser pionero en Chile en incorporar tecnología cold ironing",
+    "snippet": "Por Sebastián Betancourt @PortalPortuario San Antonio Terminal Internacional (STI), uno de los concesionarios que operan en el Puerto de San\nLa entrada San Antonio Terminal Internacional podría ser pionero en Chile en in...",
+    "date": "2026-08-25T22:00:39",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/san-antonio-terminal-internacional-podria-ser-pionero-en-chile-en-incorporar-tecnologia-cold-ironing/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-quieres-dejar-informalidad-conoce-como-puedes-conducir-el-corredor-azul-1089055.aspx",
+    "title": "¿Quieres dejar la informalidad? Conoce cómo puedes conducir en el Corredor Azul",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) implementó el carril bidireccional de la avenida Arequipa con el objetivo de ordenar el transporte público, priorizar la circulación de los buses del corredor Az...",
+    "date": "2026-08-25T22:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-quieres-dejar-informalidad-conoce-como-puedes-conducir-el-corredor-azul-1089055.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/europa-tiene-fin-cohete-fiable-ariane-6-su-gran-evolucion-ha-quedado-aparcada-viejo-problema-fondo-coste",
+    "title": "Europa tiene por fin un cohete fiable, Ariane 6. Su gran evolución ha quedado aparcada con un viejo problema de fondo: el coste",
+    "snippet": "Ariane 6 empieza a encontrarse en una posición que Europa llevaba tiempo esperando: deja de ser aquel cohete nuevo del que había que preguntarse qué ocurriría en el siguiente lanzamiento y empieza a convertirse en una he...",
+    "date": "2026-08-25T21:47:03",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/europa-tiene-fin-cohete-fiable-ariane-6-su-gran-evolucion-ha-quedado-aparcada-viejo-problema-fondo-coste",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452529",
+    "title": "Conaportos recomienda dar preferencia a descarga de fertilizantes en puertos públicos de Brasil",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Comisión Nacional de Autoridades Portuarias (Conaportos) recomienda a las autoridades portuarias de los puertos públicos\nLa entrada Conaportos recomienda dar preferencia ...",
+    "date": "2026-08-25T21:30:02",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/conaportos-recomienda-dar-preferencia-a-descarga-de-fertilizantes-en-puertos-publicos-de-brasil/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-aeropuerto-jorge-chavez-migraciones-emitio-mas-15-mil-pasaportes-urgencia-1089081.aspx",
+    "title": "Aeropuerto Jorge Chávez: Migraciones emitió más de 15 mil pasaportes de urgencia",
+    "snippet": "Más de 15 mil usuarios tramitaron su pasaporte electrónico en la Agencia de Atención al Ciudadano (A.A.C.) Aeropuerto Internacional Jorge Chávez, lo que evitó que pierdan su vuelo por pérdida, robo o caducidad de este do...",
+    "date": "2026-08-25T21:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-aeropuerto-jorge-chavez-migraciones-emitio-mas-15-mil-pasaportes-urgencia-1089081.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-ignacio-buse-supero-a-adam-walton-y-avanzo-a-tercera-ronda-winstonsalem-1089091.aspx",
     "title": "Ignacio Buse superó a Adam Walton y avanzó a la tercera ronda de Winston-Salem",
     "snippet": "Ignacio Buse continúa avanzando en el ATP 250 de Winston-Salem tras vencer este martes al australiano Adam Walton (93°) por 6-2, 5-7 y 6-3, en un partido de más de dos horas, y se instaló en la tercera ronda del certamen...",
@@ -1294,59 +1348,5 @@
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/sueldo-minimo-gobierno-trabajadores-y-empresas-debatiran-alza-de-la-rmv-este-3-de-setiembre-en-el-consejo-nacional-del-trabajo-noticia-1703382",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452313",
-    "title": "PIL expande su presencia en Brasil con nueva oficina",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Pacific International Lines (PIL) expandió su presencia en Brasil, luego de abrir una nueva oficina en\nLa entrada PIL expande su presencia en Brasil con nueva oficina se pub...",
-    "date": "2026-08-24T20:00:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/pil-expande-su-presencia-en-brasil-con-nueva-oficina/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4851345",
-    "title": "It’s Been 20 Years Since Astronomers Decided Pluto Isn’t a Planet",
-    "snippet": "Pluto lost its planethood for a very specific reason. Whether or not that’s a good reason depends on who you ask....",
-    "date": "2026-08-24T19:57:54",
-    "source": "CNET",
-    "url": "https://www.cnet.com/science/space/20-years-since-astronomers-decided-pluto-isnt-a-planet/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3156059",
-    "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
-    "snippet": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers....",
-    "date": "2026-08-24T19:54:50",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3156059",
-    "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-    "snippet": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers....",
-    "date": "2026-08-24T19:54:50",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=983244",
-    "title": "The cat-and-mouse game over 3D-printed guns has begun",
-    "snippet": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evo...",
-    "date": "2026-08-24T19:50:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/rusia-lleva-anos-agitando-fantasma-torpedo-nuclear-poseidon-ahora-ha-sacado-al-mar-submarino-capaz-portarlo",
-    "title": "Rusia lleva años agitando el fantasma del torpedo nuclear Poseidón. Ahora ha sacado al mar el submarino capaz de portarlo",
-    "snippet": "Rusia lleva años hablando del Poseidón como algo más que un arma. Lo ha presentado como una pieza de disuasión extrema, un torpedo nuclear autónomo capaz de moverse bajo el agua durante miles de kilómetros y atacar desde...",
-    "date": "2026-08-24T19:31:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/rusia-lleva-anos-agitando-fantasma-torpedo-nuclear-poseidon-ahora-ha-sacado-al-mar-submarino-capaz-portarlo",
-    "category": "TRIBUTARIO"
   }
 ]
