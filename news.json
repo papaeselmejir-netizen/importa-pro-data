@@ -1,11 +1,83 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cjrg10j721jo#0",
+    "title": "Firms scramble for battery power in Spain and Portugal",
+    "snippet": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups....",
+    "date": "2026-08-25T23:09:31",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+    "title": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
+    "snippet": "The head of Instagram is the first high-profile exec to testify in the latest social media addiction trial....",
+    "date": "2026-08-25T23:08:06",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452661",
+    "title": "Anagena apunta a que Chile debe defender reglas claras y respeto de acuerdos comerciales ante escenario arancelario",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Asociación Nacional de Agentes de Aduana (Anagena A.G.) planteó que considera fundamental que Chile enfrente\nLa entrada Anagena apunta a que Chile debe defender reglas cl...",
+    "date": "2026-08-25T23:00:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/anagena-apunta-a-que-chile-debe-defender-reglas-claras-y-respeto-de-acuerdos-comerciales-ante-escenario-arancelario/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-agredir-a-fiscalizadores-se-sanciona-una-multa-hasta-s5500-1089108.aspx",
+    "title": "ATU: agredir a fiscalizadores se sanciona con una multa de hasta S/5500",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) recuerda a los conductores de transporte público que agredir o atentar contra la integridad de un fiscalizador en la realización de sus funciones, constituye una...",
+    "date": "2026-08-25T22:52:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-agredir-a-fiscalizadores-se-sanciona-una-multa-hasta-s5500-1089108.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/",
+    "title": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II",
+    "snippet": "Iceflake Studios is preparing a cozy new city builder centered on the famous bricks....",
+    "date": "2026-08-25T22:30:31",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452627",
+    "title": "Brasil: Movimiento de carga en Puerto de Santos crece 3,6% de enero a julio de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Santos registró, entre los meses de enero y julio de 2026, la cifra\nLa entrada Brasil: Movimiento de carga en Puerto de Santos crece 3,6% de enero a julio de 20...",
+    "date": "2026-08-25T22:30:24",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-movimiento-de-carga-en-puerto-de-santos-crece-36-de-enero-a-julio-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gobierno-refuerza-trabajo-multisectorial-para-enfrentar-fenomeno-nino-1089101.aspx",
+    "title": "Gobierno refuerza trabajo multisectorial para enfrentar fenómeno El Niño",
+    "snippet": "El Gobierno viene trabajando arduamente y de manera multisectorial para enfrentar los posibles impactos del fenómeno El Niño y evitar que vuelva a afectar la producción, la infraestructura y las actividades económicas de...",
+    "date": "2026-08-25T22:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-refuerza-trabajo-multisectorial-para-enfrentar-fenomeno-nino-1089101.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=984753",
     "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
     "snippet": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $...",
     "date": "2026-08-25T22:20:17",
     "source": "THE VERGE",
     "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4854088",
+    "title": "Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games",
+    "snippet": "The idea of ownership is becoming a relic of an earlier era....",
+    "date": "2026-08-25T22:14:36",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/sony-is-reminding-us-again-that-we-dont-own-our-playstation-games/",
     "category": "MERCADO"
   },
   {
@@ -1275,78 +1347,6 @@
     "date": "2026-08-24T21:17:18",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/mobile/apple-reportedly-will-raise-iphone-prices-but-just-how-much/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=99186",
-    "title": "Xiaomi amplía su presencia en Perú con cuatro nuevas tiendas y alcanza 15 locales propios",
-    "snippet": "Xiaomi amplió su presencia física en el mercado peruano con la apertura de cuatro Xiaomi Stores en Mallplaza Cayma, en Arequipa; Mallplaza Piura; Mallplaza Trujillo; y Mallplaza Pucallpa. Con estas incorporaciones, la co...",
-    "date": "2026-08-24T20:59:12",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/xiaomi-amplia-su-presencia-en-peru-con-cuatro-nuevas-tiendas-y-alcanza-15-locales-propios-ccl-asociados/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452437",
-    "title": "Chile y Estados Unidos concretan primera reunión de alto nivel por aranceles impuestos por Trump",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Chile y Estados Unidos continúan avanzando en las conversaciones orientadas a mejorar las condiciones de acceso\nLa entrada Chile y Estados Unidos concretan primera reunión d...",
-    "date": "2026-08-24T20:57:48",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/chile-y-estados-unidos-concretan-primera-reunion-de-alto-nivel-por-aranceles-impuestos-por-trump/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=99181",
-    "title": "Perú Trader incrementa 20% sus ventas de cintas durante el primer semestre de 2026",
-    "snippet": "Perú Trader, empresa especializada en el desarrollo y comercialización de avíos y complementos para la industria textil, registró un crecimiento de 20% en sus ventas de cintas durante el primer semestre de 2026. Este des...",
-    "date": "2026-08-24T20:49:14",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/peru-trader-incrementa-20-sus-ventas-de-cintas-durante-el-primer-semestre-de-2026-ccl-asociados/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452380",
-    "title": "Argentina: Puerto de Mar del Plata inaugura báscula para pesaje de transporte de carga",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consorcio Portuario Regional Mar del Plata puso en funcionamiento desde una báscula en jurisdicción propia\nLa entrada Argentina: Puerto de Mar del Plata inaugura báscula ...",
-    "date": "2026-08-24T20:30:58",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-puerto-de-mar-del-plata-inaugura-bascula-para-pesaje-de-transporte-de-carga/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/",
-    "title": "How to use Samsung's new My FanCam feature to make yourself the main character in your videos",
-    "snippet": "Zooming in on your kid's performance in the school play is about to get a whole lot easier. It's going to look better, too....",
-    "date": "2026-08-24T20:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4851464",
-    "title": "RAMageddon Strikes Again: Amazon Raises Its Electronics Prices by Up to 60%",
-    "snippet": "The e-commerce giant blames increases in component costs for the device price hikes....",
-    "date": "2026-08-24T20:15:33",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/ramageddon-strikes-again-amazon-raises-its-electronics-prices-by-up-to-60/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452321",
-    "title": "PIL expande sua presença no Brasil com novo escritório",
-    "snippet": "Por Redação PortalPortuario @PortalPortuario A Pacific International Lines (PIL) expandiu sua presença no Brasil após abrir um novo escritório no\nLa entrada PIL expande sua presença no Brasil com novo escritório se publi...",
-    "date": "2026-08-24T20:01:03",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/pil-expande-sua-presenca-no-brasil-com-novo-escritorio/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1703382",
-    "title": "Sueldo mínimo: Gobierno, trabajadores y empresas debatirán alza de la RMV este 3 de setiembre en el Consejo Nacional del Trabajo",
-    "snippet": "El Ministerio de Trabajo programó para la próxima semana el debate del incremento de la Remuneración Mínima Vital a S/1.300. El diálogo también abordará medidas frente al Niño Global y los retos del avance tecnológico y ...",
-    "date": "2026-08-24T20:00:57",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/sueldo-minimo-gobierno-trabajadores-y-empresas-debatiran-alza-de-la-rmv-este-3-de-setiembre-en-el-consejo-nacional-del-trabajo-noticia-1703382",
     "category": "MERCADO"
   }
 ]
