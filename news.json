@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.xataka.com/seleccion/hoy-llega-a-aldi-esta-aspiradora-cables-2-1-tipo-shark-50-euros",
+    "title": "Hoy llega a Aldi esta aspiradora sin cables 2 en 1 (tipo Shark) por menos de 50 euros",
+    "snippet": "Ayer te contamos el nuevo lanzamiento de Shark, una aspiradora sin cables con un diseño que ya es icónico en lo que a dispositivos de limpieza se refiere. Aunque si no quieres gastar tanto, tenemos buenas noticias: hoy A...",
+    "date": "2026-08-26T10:15:05",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/hoy-llega-a-aldi-esta-aspiradora-cables-2-1-tipo-shark-50-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/perifericos/adios-rgb-hola-buen-gusto-ikea-xbox-lanzan-linea-muebles-no-verguenza-poner-consola-salon",
+    "title": "Adiós RGB, hola buen gusto. Ikea y Xbox lanzan una línea de muebles para que no de vergüenza poner la consola en el salón",
+    "snippet": "No quiero tirar de típicos tópicos aquí porque mi casa, precisamente, respira videojuegos en prácticamente cada habitación, pero es fácil pensar en un 'setup gamer' como algo asociado a una habitación con una luz tenue, ...",
+    "date": "2026-08-26T10:01:05",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/perifericos/adios-rgb-hola-buen-gusto-ikea-xbox-lanzan-linea-muebles-no-verguenza-poner-consola-salon",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452675",
+    "title": "Rusia e India discuten formatos de cooperación en la Ruta Marítima del Norte",
+    "snippet": "Por Redacción PortalPortuario / Agencia Tass @PortalPortuario La estatal rusa Rosatom está estudiando posibles formatos de cooperación con la India\nLa entrada Rusia e India discuten formatos de cooperación en la Ruta Mar...",
+    "date": "2026-08-26T10:00:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rusia-e-india-discuten-formatos-de-cooperacion-en-la-ruta-maritima-del-norte/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/gobierno-espanol-planea-introducir-normas-estrictas-a-centros-datos-avalancha-que-se-avecina",
+    "title": "El Gobierno español planea introducir normas más estrictas a los centros de datos tras la avalancha que se avecina",
+    "snippet": "España es objetivamente uno de los países de Europa más atractivos para instalar centros de datos para inteligencia artificial (IA). Dispone de abundante energía renovable y muchísimo terreno que es posible destinar a es...",
+    "date": "2026-08-26T09:43:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/gobierno-espanol-planea-introducir-normas-estrictas-a-centros-datos-avalancha-que-se-avecina",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://www.xataka.com/ordenadores/auge-usuarios-haciendose-ordenadores-portatiles-piezas-raspberry-pi-tiene-algo-que-decir-tutorial-paso-a-paso",
     "title": "Ante el auge de los usuarios haciéndose ordenadores portátiles por piezas, Raspberry Pi tiene algo que decir: un tutorial paso a paso",
     "snippet": "La gente se está comenzando a fabricar sus propios portátiles, y no lo hacen porque sea más barato (que también puede ser), sino porque eso permite algo importante para muchos: decidir absolutamente cómo quieres que sea ...",
@@ -11,6 +47,15 @@
   {
     "id": "https://www.xataka.com/seleccion/mejores-impresoras-fotograficas-portatiles",
     "title": "Mejores impresoras fotográficas portátiles",
+    "snippet": "La calidad de las cámaras en los móviles ha crecido tanto que hoy en día solemos utilizar estos dispositivos para inmortalizar momentos, dejando a un segundo plano las cámaras fotográficas. Pero si, además de guardarlas ...",
+    "date": "2026-08-26T09:15:05",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mejores-impresoras-fotograficas-portatiles",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mejores-impresoras-fotograficas-portatiles",
+    "title": "Mejores impresoras fotográficas portátiles para tu móvil: cuál comprar y cinco mini impresoras de bolsillo recomendadas",
     "snippet": "La calidad de las cámaras en los móviles ha crecido tanto que hoy en día solemos utilizar estos dispositivos para inmortalizar momentos, dejando a un segundo plano las cámaras fotográficas. Pero si, además de guardarlas ...",
     "date": "2026-08-26T09:15:05",
     "source": "XATAKA",
@@ -1302,51 +1347,6 @@
     "date": "2026-08-25T09:01:03",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/medir-gases-contaminantes-tu-coche-pasar-control-este-dispositivo-hace-posible-se-esta-probando-espana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452382",
-    "title": "España: Alcalde de Tarifa solicita mejorar accesos al puerto en medio de la Operación Paso del Estrecho",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El alcalde de Tarifa (España), José Antonio Santos, solicitó la implementación de un acceso directo de\nLa entrada España: Alcalde de Tarifa solicita mejorar accesos al puert...",
-    "date": "2026-08-25T09:00:06",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/espana-alcalde-de-tarifa-solicita-mejorar-accesos-al-puerto-en-medio-de-la-operacion-paso-del-estrecho/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=984226",
-    "title": "Android is getting its own weird dots to cure car sickness",
-    "snippet": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion...",
-    "date": "2026-08-25T08:36:27",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/despues-anos-escuchando-contrario-este-estudio-finlandes-dice-que-pasar-mucho-tiempo-frente-a-pantalla-favorece-rendimiento-cognitivo",
-    "title": "Después de años escuchando lo contrario, este estudio finlandés dice que pasar mucho tiempo frente a una pantalla favorece el rendimiento cognitivo",
-    "snippet": "En 2007, en la ciudad finlandesa de Kuopio, un equipo de investigadores reclutaron a poco más de 500 niños de entre 7 y 9 años. Su idea era responder a una pregunta aparentemente sencilla: ¿cuánto influye moverse en el d...",
-    "date": "2026-08-25T08:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/despues-anos-escuchando-contrario-este-estudio-finlandes-dice-que-pasar-mucho-tiempo-frente-a-pantalla-favorece-rendimiento-cognitivo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/vuelve-a-lidl-rebajada-hidrolimpiadora-silenciosa-parkside-para-limpiar-terraza-patio-molestar-a-vecinos",
-    "title": "Vuelve a Lidl (y rebajada) la hidrolimpiadora silenciosa Parkside para limpiar la terraza o el patio sin molestar a los vecinos",
-    "snippet": "Limpiar en profundidad baldosas, persianas, la suciedad acumulada en el patio tras una tormenta o incluso el coche, suele requerir una máquina a presión. El gran inconveniente de la gran mayoría de hidrolimpiadoras domés...",
-    "date": "2026-08-25T08:15:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/vuelve-a-lidl-rebajada-hidrolimpiadora-silenciosa-parkside-para-limpiar-terraza-patio-molestar-a-vecinos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/2020-phoenix-pinto-58-km-carretera-para-combatir-calor-asfalto-7-oc-nadie-se-acordo-peatones",
-    "title": "En 2020, Phoenix cubrió 58 km de carretera para combatir el calor. El asfalto bajó 7 ºC, pero nadie se acordó de los peatones",
-    "snippet": "Phoenix tiene un problema difícil de esconder bajo el asfalto: en verano, las temperaturas superan habitualmente los 38 ºC y las superficies oscuras de la ciudad pueden convertirse en enormes acumuladores de energía. El ...",
-    "date": "2026-08-25T08:01:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/2020-phoenix-pinto-58-km-carretera-para-combatir-calor-asfalto-7-oc-nadie-se-acordo-peatones",
     "category": "TRIBUTARIO"
   }
 ]
