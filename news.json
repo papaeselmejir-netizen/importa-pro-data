@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.xataka.com/energia/startup-quiere-despejar-nubes-enjambres-drones-promete-30-generacion-solar",
+    "title": "Una startup quiere despejar nubes con enjambres de drones: promete hasta un 30% más de generación solar",
+    "snippet": "La energía solar tiene una limitación tan evidente como difícil de esquivar: necesita que la luz llegue hasta los paneles. Podemos mejorar su eficiencia, desplegar instalaciones cada vez mayores o gestionar mejor la elec...",
+    "date": "2026-08-26T06:31:04",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/startup-quiere-despejar-nubes-enjambres-drones-promete-30-generacion-solar",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-hospital-dos-mayo-alcanza-las-500-cirugias-roboticas-beneficio-sus-pacientes-1089147.aspx",
     "title": "Hospital Dos de Mayo alcanza las 500 cirugías robóticas en beneficio de sus pacientes",
     "snippet": "El Hospital Nacional Dos de Mayo (HNDM) continúa consolidándose como referente en innovación y alta especialización, al alcanzar la cifra de 500 cirugías robóticas realizadas en beneficio de pacientes de diversas especia...",
@@ -1339,14 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-mtc-fortalece-conectividad-aerea-nuevas-rutas-a-rio-janeiro-y-santiago-chile-1088961.aspx",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#1",
-    "title": "Nearly three million Teslas recalled in China over hidden door handles",
-    "snippet": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely....",
-    "date": "2026-08-24T23:53:32",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
   }
 ]
