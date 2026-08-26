@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-presidente-del-congreso-verifica-avances-de-etapa-1a-de-linea-2-del-metro-lima-1089121.aspx",
+    "title": "Presidente del Congreso verifica avances de la Etapa 1A de la Línea 2 del Metro de Lima",
+    "snippet": "El presidente del Congreso de la República, Miguel Ángel Torres Morales, inspeccionó hoy las instalaciones de la Etapa 1A de la Línea 2 del Metro de Lima y Callao, en el distrito de Santa Anita....",
+    "date": "2026-08-26T00:46:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidente-del-congreso-verifica-avances-de-etapa-1a-de-linea-2-del-metro-lima-1089121.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1703671",
+    "title": "Defensor del Pueblo: decreto de urgencia que reestructura Petroperú perderá vigencia en diciembre sin cumplir su objetivo",
+    "snippet": "El defensor del Pueblo José Gutiérrez sostuvo que, hasta el momento, ProInversión y Petroperú no han tomado decisiones concretas sobre el proceso de reorganización....",
+    "date": "2026-08-26T00:36:26",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/petroperu-decreto-de-reestructuracion-vencera-en-diciembre-sin-cumplir-su-objetivo-cuestiona-defensor-del-pueblo-noticia-1703671",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452666",
+    "title": "España: Trabajador de Jan de Nul fallece tras sufrir accidente en obras de ampliación del Puerto de Valencia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un trabajador de la empresa Jan de Nul perdió la vida en las dependencias del Puerto\nLa entrada España: Trabajador de Jan de Nul fallece tras sufrir accidente en obras de am...",
+    "date": "2026-08-26T00:00:58",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/espana-trabajador-de-jan-de-nul-fallece-tras-sufrir-accidente-en-obras-de-ampliacion-del-puerto-de-valencia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-destaca-estudio-de-ocde-para-fortalecer-sistema-tributario-el-peru-1089114.aspx",
+    "title": "MEF destaca estudio de la OCDE para fortalecer el sistema tributario en el Perú",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) destacó el estudio de la Organización para la Cooperación y el Desarrollo Económico (OCDE) para fortalecer el sistema tributario en el Perú que también busca acompañar el crecim...",
+    "date": "2026-08-26T00:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-destaca-estudio-de-ocde-para-fortalecer-sistema-tributario-el-peru-1089114.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452647",
+    "title": "Perú: MTC y AFIN se mantienen coordinando acciones para impulsar nuevos proyectos de infraestructura estratégica",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones de Perú (MTC) en conjunto a la Asociación para el\nLa entrada Perú: MTC y AFIN se mantienen coordinando acciones para impulsar n...",
+    "date": "2026-08-25T23:30:08",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-mtc-y-afin-se-mantienen-coordinando-acciones-para-impulsar-nuevos-proyectos-de-infraestructura-estrategica/",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cjrg10j721jo#0",
     "title": "Firms scramble for battery power in Spain and Portugal",
     "snippet": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups....",
@@ -1269,6 +1314,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://rpp.pe/1703382",
+    "title": "Sueldo mínimo: Gobierno, trabajadores y empresas debatirán alza de la RMV este 3 de setiembre en el Consejo Nacional del Trabajo",
+    "snippet": "El Ministerio de Trabajo programó para la próxima semana el debate del incremento de la Remuneración Mínima Vital a S/1.300. El diálogo también abordará medidas frente al Niño Global y los retos del avance tecnológico y ...",
+    "date": "2026-08-24T22:15:57",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/sueldo-minimo-gobierno-trabajadores-y-empresas-debatiran-alza-de-la-rmv-este-3-de-setiembre-en-el-consejo-nacional-del-trabajo-noticia-1703382",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-gremios-levantan-paro-transporte-convocado-para-este-martes-25-1088949.aspx",
     "title": "Gremios levantan paro de transporte convocado para este martes 25",
     "snippet": "Representantes de gremios de transporte de Lima y Callao informaron que se ha levantado el paro de transportistas anunciado para este martes 25 ante el espacio de diálogo que se abrió con el Poder Ejecutivo tras la reuni...",
@@ -1293,60 +1347,6 @@
     "date": "2026-08-24T22:00:27",
     "source": "RPP ECON",
     "url": "https://rpp.pe/economia/economia/gas-natural-en-candamo-asi-busca-el-gobierno-entrar-a-un-area-protegida-ante-reservas-que-se-agotan-en-13-anos-noticia-1703377",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/yate-rapido-mundo-tenia-tres-turbinas-60-000-cv-obsesion-cruzar-atlantico-58-horas",
-    "title": "El yate más rápido del mundo tenía tres turbinas, 60.000 CV y una obsesión: cruzar el Atlántico en 58 horas",
-    "snippet": "Durante años, los superyates han convertido el tamaño en una demostración de poder. Barcos como el Koru de Jeff Bezos o el Launchpad de Mark Zuckerberg representan una nueva generación de embarcaciones donde el lujo, la ...",
-    "date": "2026-08-24T21:57:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/yate-rapido-mundo-tenia-tres-turbinas-60-000-cv-obsesion-cruzar-atlantico-58-horas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452449",
-    "title": "Puerto de Paranaguá ejecuta embarque simultáneo de 127 mil toneladas de azúcar en cuatro buques",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Cuatro buques están siendo cargados simultáneamente con azúcar ensacada y a granel en el Puerto de\nLa entrada Puerto de Paranaguá ejecuta embarque simultáneo de 127 mil tone...",
-    "date": "2026-08-24T21:39:17",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-paranagua-ejecuta-embarque-simultaneo-de-127-mil-toneladas-de-azucar-en-cuatro-buques/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452348",
-    "title": "Condiciones meteorológicas adversas obligan a omitir escala a Puerto de Shanghái en servicio de Maersk",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Maersk notificó a sus clientes que, debido a condiciones meteorológicas adversas, se determinó que un portacontenedores\nLa entrada Condiciones meteorológicas adversas obliga...",
-    "date": "2026-08-24T21:30:23",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/condiciones-meteorologicas-adversas-obligan-a-omitir-escala-a-puerto-de-shanghai-en-servicio-de-maersk/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
-    "title": "How does converting a video to 4K actually work?",
-    "snippet": "Upscaling software is getting better all the time, but there are still some caveats to be aware of....",
-    "date": "2026-08-24T21:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=99191",
-    "title": "Unión Ychicawa incorpora la vajilla turca ID Fine a su portafolio para el sector HORECA",
-    "snippet": "Unión Ychicawa presentó oficialmente en el Perú a ID Fine, marca de vajilla institucional de origen turco que se incorpora a su portafolio con una propuesta dirigida principalmente al sector gastronómico y hotelero. La o...",
-    "date": "2026-08-24T21:26:19",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/union-ychicawa-incorpora-la-vajilla-turca-id-fine-a-su-portafolio-para-el-sector-horeca-ccl-asociados/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4851235",
-    "title": "Apple Reportedly Will Raise iPhone Prices, but Just How Much?",
-    "snippet": "The Cupertino giant apparently will match, if not exceed, what Google and Samsung did with their phone pricing....",
-    "date": "2026-08-24T21:17:18",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apple-reportedly-will-raise-iphone-prices-but-just-how-much/",
     "category": "MERCADO"
   }
 ]
