@@ -1,11 +1,101 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-gobernador-lambayeque-alerta-riesgo-colapso-del-puente-leche-1089295.aspx",
+    "title": "Gobernador de Lambayeque alerta por riesgo de colapso del puente La leche",
+    "snippet": "Una alerta que podría tener repercusión en el transporte y abastecimiento del norte y nororiente del país fue lanzada por el gobernador regional de Lambayeque, Jorge Pérez Flores, quien pidió al Ministerio de Transportes...",
+    "date": "2026-08-27T04:16:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobernador-lambayeque-alerta-riesgo-colapso-del-puente-leche-1089295.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-china-reporta-558-desaparecidos-por-deslave-e-inundacion-la-region-del-tibet-1089292.aspx",
+    "title": "China reporta 558 desaparecidos por el deslave e inundación en la región del Tíbet",
+    "snippet": "El deslizamiento de lodo y rocas que azotó la zona fronteriza entre Tíbet y Nepal deja tres muertos y 558 desaparecidos del lado chino, entre ellos 260 extranjeros, según un nuevo balance oficial dado a conocer por la te...",
+    "date": "2026-08-27T03:25:18",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-china-reporta-558-desaparecidos-por-deslave-e-inundacion-la-region-del-tibet-1089292.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-nepal-establece-468-cifra-turistas-no-localizados-tras-graves-inundaciones-1089290.aspx",
+    "title": "Nepal establece en 468 la cifra de turistas no localizados tras graves inundaciones",
+    "snippet": "Nepal informó que 468 turistas y viajeros, entre ellos 393 extranjeros, seguían sin ser localizados este jueves, 24 horas después de que inundaciones mortales y un deslave arrasaran la zona fronteriza con la región autón...",
+    "date": "2026-08-27T03:06:31",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-nepal-establece-468-cifra-turistas-no-localizados-tras-graves-inundaciones-1089290.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-nepal-colapso-glaciar-provoco-actividad-sismica-e-inundaciones-catastroficas-1089286.aspx",
+    "title": "Nepal: colapso de glaciar provocó actividad sísmica e inundaciones catastróficas",
+    "snippet": "El colapso de un glaciar provocó actividad sísmica y posteriores inundaciones \"catastróficas\" río abajo en Nepal y la región autónoma china de Tíbet, informó este jueves el Servicio Geológico de Estados Unidos (USGS)....",
+    "date": "2026-08-27T02:08:53",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-nepal-colapso-glaciar-provoco-actividad-sismica-e-inundaciones-catastroficas-1089286.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452895",
+    "title": "Hudong-Zhonghua entrega a Seaspan el OOCL Chancay",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario  El astillero chino Hudong-Zhonghua concretó la entrega del OOCL Chancay, buque líder de una serie de\nLa entrada Hudong-Zhonghua entrega a Seaspan el OOCL Chancay se publicó...",
+    "date": "2026-08-27T01:57:35",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/hudong-zhonghua-entrega-a-seaspan-el-oocl-chancay/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-presidenta-del-comite-olimpico-internacional-kirsty-coventry-realiza-una-visita-al-peru-1089282.aspx",
+    "title": "Presidenta del Comité Olímpico Internacional, Kirsty Coventry, realiza una visita al Perú",
+    "snippet": "El Perú se viste de lujo con la visita de la presidenta del Comité Olímpico Internacional (COI), Kirsty Coventry, quien fue recibida este miércoles en e Aeropuerto Internacional Jorge Chávez por la exvoleibolista y miemb...",
+    "date": "2026-08-27T01:31:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidenta-del-comite-olimpico-internacional-kirsty-coventry-realiza-una-visita-al-peru-1089282.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=452884",
+    "title": "SC Ports mejora oportunidades entre Charleston y San Antonio con incorporación al servicio CMA CGM AmerXL",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario South Carolina Ports (DC Ports) está ofreciendo mayor capacidad entre el Puerto de Charleston y los\nLa entrada SC Ports mejora oportunidades entre Charleston y San Antonio c...",
+    "date": "2026-08-27T01:00:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/sc-ports-mejora-oportunidades-entre-charleston-y-san-antonio-con-incorporacion-al-servicio-cma-cgm-amerxl/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "CBMi8wFBVV95cUxOTlFJWDlKckZON08xWXhscTJrUExPb2p4LXZhaXo2MUZ6ZDZBVmlJVmN6YndfQlloVzBRTzBjRlMzWm8zaWNCQkV5UkxoMEFtUzFVVWM2TmJGWlJGaERmOU50d3ZabmotaWtDYUx6QXFpaTlOcElkZkhPdjlWRTBuam5wVmJLTkI2VnlldlBJaFJiQjdMMXpxd3k3dWlQb0ZhTlF5cXpMZXFTNmJsVk5MamhKSjBTRU8xQWJzRjZ0MzNpeEpQZ21vTVRPZV9seW9vbU00YzBYUy1uMDV5RzdKaDMtYjFmUXZha0NiZUlYWW5UUDA",
+    "title": "El Indecopi aborda con gremios empresariales temas de competencia y eliminación de barreras burocráticas - gob.pe",
+    "snippet": "El Indecopi aborda con gremios empresariales temas de competencia y eliminación de barreras burocráticas  gob.pe...",
+    "date": "2026-08-26T23:50:29",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTlFJWDlKckZON08xWXhscTJrUExPb2p4LXZhaXo2MUZ6ZDZBVmlJVmN6YndfQlloVzBRTzBjRlMzWm8zaWNCQkV5UkxoMEFtUzFVVWM2TmJGWlJGaERmOU50d3ZabmotaWtDYUx6QXFpaTlOcElkZkhPdjlWRTBuam5wVmJLTkI2VnlldlBJaFJiQjdMMXpxd3k3dWlQb0ZhTlF5cXpMZXFTNmJsVk5MamhKSjBTRU8xQWJzRjZ0MzNpeEpQZ21vTVRPZV9seW9vbU00YzBYUy1uMDV5RzdKaDMtYjFmUXZha0NiZUlYWW5UUDA?oc=5",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3157431",
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "snippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips....",
+    "date": "2026-08-26T23:47:18",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://lacamara.pe/?p=99340",
     "title": "Productividad: Colombia redujo su jornada laboral ¿Perú podría hacerlo?",
     "snippet": "Colombia culminó el 15 de julio la reducción gradual de su jornada máxima laboral de 48 a 42 horas semanales, sin reducción salarial. El cambio abre una discusión relevante para Perú ¿se puede hacer lo mismo? LEE TAMBIÉN...",
     "date": "2026-08-26T22:42:44",
     "source": "LA CÁMARA (CCL)",
     "url": "https://lacamara.pe/productividad-colombia-redujo-su-jornada-laboral-peru-podria-hacerlo/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4856262",
+    "title": "MLB The Show 26 Headlines a Surprisingly Underwhelming PlayStation Plus Month",
+    "snippet": "Sniper Elite: Resistance, Wobbly Life and Chained Echoes round out a lineup that offers something for different kinds of players....",
+    "date": "2026-08-26T22:40:47",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/playstation-plus-september-2026-mlb-the-show-26/",
     "category": "MERCADO"
   },
   {
@@ -1258,95 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/brasil-movimiento-de-carga-en-puerto-de-santos-crece-36-de-enero-a-julio-de-2026/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-refuerza-trabajo-multisectorial-para-enfrentar-fenomeno-nino-1089101.aspx",
-    "title": "Gobierno refuerza trabajo multisectorial para enfrentar fenómeno El Niño",
-    "snippet": "El Gobierno viene trabajando arduamente y de manera multisectorial para enfrentar los posibles impactos del fenómeno El Niño y evitar que vuelva a afectar la producción, la infraestructura y las actividades económicas de...",
-    "date": "2026-08-25T22:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-refuerza-trabajo-multisectorial-para-enfrentar-fenomeno-nino-1089101.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=984753",
-    "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-    "snippet": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $...",
-    "date": "2026-08-25T22:20:17",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4854088",
-    "title": "Sony Is Reminding Us (Again) That We Don’t Own Our PlayStation Games",
-    "snippet": "The idea of ownership is becoming a relic of an earlier era....",
-    "date": "2026-08-25T22:14:36",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/sony-is-reminding-us-again-that-we-dont-own-our-playstation-games/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452418",
-    "title": "San Antonio Terminal Internacional podría ser pionero en Chile en incorporar tecnología cold ironing",
-    "snippet": "Por Sebastián Betancourt @PortalPortuario San Antonio Terminal Internacional (STI), uno de los concesionarios que operan en el Puerto de San\nLa entrada San Antonio Terminal Internacional podría ser pionero en Chile en in...",
-    "date": "2026-08-25T22:00:39",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/san-antonio-terminal-internacional-podria-ser-pionero-en-chile-en-incorporar-tecnologia-cold-ironing/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-quieres-dejar-informalidad-conoce-como-puedes-conducir-el-corredor-azul-1089055.aspx",
-    "title": "¿Quieres dejar la informalidad? Conoce cómo puedes conducir en el Corredor Azul",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) implementó el carril bidireccional de la avenida Arequipa con el objetivo de ordenar el transporte público, priorizar la circulación de los buses del corredor Az...",
-    "date": "2026-08-25T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-quieres-dejar-informalidad-conoce-como-puedes-conducir-el-corredor-azul-1089055.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/europa-tiene-fin-cohete-fiable-ariane-6-su-gran-evolucion-ha-quedado-aparcada-viejo-problema-fondo-coste",
-    "title": "Europa tiene por fin un cohete fiable, Ariane 6. Su gran evolución ha quedado aparcada con un viejo problema de fondo: el coste",
-    "snippet": "Ariane 6 empieza a encontrarse en una posición que Europa llevaba tiempo esperando: deja de ser aquel cohete nuevo del que había que preguntarse qué ocurriría en el siguiente lanzamiento y empieza a convertirse en una he...",
-    "date": "2026-08-25T21:47:03",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/europa-tiene-fin-cohete-fiable-ariane-6-su-gran-evolucion-ha-quedado-aparcada-viejo-problema-fondo-coste",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=452529",
-    "title": "Conaportos recomienda dar preferencia a descarga de fertilizantes en puertos públicos de Brasil",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Comisión Nacional de Autoridades Portuarias (Conaportos) recomienda a las autoridades portuarias de los puertos públicos\nLa entrada Conaportos recomienda dar preferencia ...",
-    "date": "2026-08-25T21:30:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/conaportos-recomienda-dar-preferencia-a-descarga-de-fertilizantes-en-puertos-publicos-de-brasil/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-aeropuerto-jorge-chavez-migraciones-emitio-mas-15-mil-pasaportes-urgencia-1089081.aspx",
-    "title": "Aeropuerto Jorge Chávez: Migraciones emitió más de 15 mil pasaportes de urgencia",
-    "snippet": "Más de 15 mil usuarios tramitaron su pasaporte electrónico en la Agencia de Atención al Ciudadano (A.A.C.) Aeropuerto Internacional Jorge Chávez, lo que evitó que pierdan su vuelo por pérdida, robo o caducidad de este do...",
-    "date": "2026-08-25T21:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-aeropuerto-jorge-chavez-migraciones-emitio-mas-15-mil-pasaportes-urgencia-1089081.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ignacio-buse-supero-a-adam-walton-y-avanzo-a-tercera-ronda-winstonsalem-1089091.aspx",
-    "title": "Ignacio Buse superó a Adam Walton y avanzó a la tercera ronda de Winston-Salem",
-    "snippet": "Ignacio Buse continúa avanzando en el ATP 250 de Winston-Salem tras vencer este martes al australiano Adam Walton (93°) por 6-2, 5-7 y 6-3, en un partido de más de dos horas, y se instaló en la tercera ronda del certamen...",
-    "date": "2026-08-25T21:27:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ignacio-buse-supero-a-adam-walton-y-avanzo-a-tercera-ronda-winstonsalem-1089091.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2244194/free-accounts-can-now-access-chatgpts-upgraded-task-scheduling-tool/",
-    "title": "Free accounts can now access ChatGPT's upgraded task scheduling tool",
-    "snippet": "Meanwhile, paid accounts can configure prompts to trigger when things happen in Gmail, Slack or GitHub....",
-    "date": "2026-08-25T21:17:23",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2244194/free-accounts-can-now-access-chatgpts-upgraded-task-scheduling-tool/",
-    "category": "MERCADO"
   }
 ]
