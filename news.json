@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-peru-aprueba-un-prestamo-500-millones-con-birf-1089653.aspx",
+    "title": "Perú aprueba un préstamo por US$ 500 millones con el BIRF",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó hoy un préstamo contingente con el Banco Internacional de Reconstrucción y Fomento (BIRF) por 500 millones de dólares....",
+    "date": "2026-08-29T16:38:12",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-aprueba-un-prestamo-500-millones-con-birf-1089653.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-junin-activacion-turistica-aeropuerto-pone-al-cafe-mazamari-vitrina-nacional-1089658.aspx",
+    "title": "Junín: Activación turística en aeropuerto pone al café de Mazamari en vitrina nacional",
+    "snippet": "La activación turística realizada en el aeropuerto del distrito de Mazamari, ubicado en la provincia de Satipo del departamento de Junín, permitió promocionar el consumo interno del café local y mostrar a los pasajeros p...",
+    "date": "2026-08-29T16:32:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-junin-activacion-turistica-aeropuerto-pone-al-cafe-mazamari-vitrina-nacional-1089658.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-scouts-dirigiran-transito-este-domingo-30-agosto-homenaje-a-santa-rosa-lima-1089659.aspx",
+    "title": "Scouts dirigirán tránsito este domingo 30 de agosto en homenaje a Santa Rosa de Lima",
+    "snippet": "Los Scouts del Perú volverán a las calles este domingo 30 de agosto para dirigir el tránsito en Lima, Callao y diversas provincias del país, como parte del tradicional homenaje a Santa Rosa de Lima, patrona de la Policía...",
+    "date": "2026-08-29T16:12:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-scouts-dirigiran-transito-este-domingo-30-agosto-homenaje-a-santa-rosa-lima-1089659.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/ciencia-reconstruye-primer-paisaje-sonoro-jurasico-encuentra-prueba-antigua-comunicacion-ultrasonidos",
+    "title": "La ciencia reconstruye el primer paisaje sonoro del Jurásico y encuentra la prueba más antigua de comunicación por ultrasonidos.",
+    "snippet": "Si cerramos los ojos y pensamos en un bosque del Jurásico, la cultura popular nos invita a imaginar rugidos atronadores y pisadas gigantescas de los dinosaurios. Sin embargo, un nuevo estudio acaba de reconstruir el pais...",
+    "date": "2026-08-29T15:31:04",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/ciencia-reconstruye-primer-paisaje-sonoro-jurasico-encuentra-prueba-antigua-comunicacion-ultrasonidos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/alabama-lleva-40-anos-enterrando-arboles-navidad-sus-playas-resultado-ha-sido-exito-nuevas-dunas-huracanes",
+    "title": "Alabama lleva 40 años enterrando árboles de Navidad sobre sus playas. El resultado ha sido un éxito: nuevas dunas contra los huracanes",
+    "snippet": "Cuando terminan las fiestas, cientos de árboles de Navidad de Alabama no acaban necesariamente en un vertedero. No, algunos son trasladados hasta las playas del golfo de México y colocados directamente sobre la arena. La...",
+    "date": "2026-08-29T15:01:04",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/alabama-lleva-40-anos-enterrando-arboles-navidad-sus-playas-resultado-ha-sido-exito-nuevas-dunas-huracanes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=453405",
+    "title": "Perú: APN y Cosco Shipping fortalecen articulación para desarrollo del Terminal Portuario de Chancay",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria Nacional (APN) sostuvo una reunión estratégica con altos ejecutivos de Cosco Shipping Corporation\nLa entrada Perú: APN y Cosco Shipping fortalecen art...",
+    "date": "2026-08-29T15:00:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-apn-y-cosco-shipping-fortalecen-articulacion-para-desarrollo-del-terminal-portuario-de-chancay/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-la-ruta-leon-gobierno-impulsa-obras-estrategicas-cuatro-regiones-1089650.aspx",
+    "title": "La Ruta de León: Gobierno impulsa obras estratégicas en cuatro regiones",
+    "snippet": "Con el objetivo de cerrar brechas sociales y potenciar el turismo religioso en las regiones del Perú que formaron parte de la vida pastoral del papa León XIV, el Gobierno, a través del Grupo de Trabajo Multisectorial \"La...",
+    "date": "2026-08-29T14:47:45",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-la-ruta-leon-gobierno-impulsa-obras-estrategicas-cuatro-regiones-1089650.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sbs-publica-proyecto-norma-sobre-lavado-activos-y-financiamiento-del-terrorismo-1089636.aspx",
+    "title": "SBS publica proyecto de norma sobre lavado de activos y financiamiento del terrorismo",
+    "snippet": "En el marco de su labor de prevención del lavado de activos y del financiamiento del terrorismo (LA/FT), la Superintendencia de Banca, Seguros y AFP (SBS) publicó un proyecto de norma dirigido a fortalecer la prevención ...",
+    "date": "2026-08-29T14:44:36",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sbs-publica-proyecto-norma-sobre-lavado-activos-y-financiamiento-del-terrorismo-1089636.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/duelo-definitivo-insomnio-que-dice-ciencia-melatonina-magnesio-que-mezclarlos-no-sirve-nada",
+    "title": "El duelo definitivo contra el insomnio: qué dice la ciencia de la melatonina, el magnesio y por qué mezclarlos no sirve de nada",
+    "snippet": "El insomnio es la gran epidemia silenciosa de nuestro tiempo, y basta con dar una vuelta por cualquier farmacia o supermercado para ver estanterías repletas de suplementos que prometen devolvernos el descanso que hemos p...",
+    "date": "2026-08-29T14:31:03",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/duelo-definitivo-insomnio-que-dice-ciencia-melatonina-magnesio-que-mezclarlos-no-sirve-nada",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/analisis/cambie-mi-movil-1-500-euros-uno-40-euros-que-siquiera-tiene-whatsapp-merecio-pena",
+    "title": "Cambié mi móvil de 1.500 euros por uno de 40 euros que ni siquiera tiene WhatsApp. Mereció la pena",
+    "snippet": "\"¿Pero cómo te vas de vacaciones con eso?\". Esta (y otras variantes de la misma) es la pregunta que más me han hecho en vacaciones al verme equipado con un SPC Wild Cool, un móvil como los de antes. Tiene teclas, no es t...",
+    "date": "2026-08-29T14:01:04",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/analisis/cambie-mi-movil-1-500-euros-uno-40-euros-que-siquiera-tiene-whatsapp-merecio-pena",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/me-ves-llora-sequia-europea-esta-haciendo-reaparecer-piedras-grabadas-hace-siglos-para-advertir-futuras-hambrunas",
+    "title": "\"Si me ves, llora\". La sequía europea está haciendo reaparecer piedras grabadas hace siglos para advertir de futuras hambrunas",
+    "snippet": "Buena parte de las grandes ciudades del viejo continente se construyeron en torno a un río, un auténtico vector de vida: sirve para el abastecimiento de agua, el regadío en agricultura y ganadería y también para el trans...",
+    "date": "2026-08-29T13:31:03",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/me-ves-llora-sequia-europea-esta-haciendo-reaparecer-piedras-grabadas-hace-siglos-para-advertir-futuras-hambrunas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/corea-sur-esta-lista-para-lanzar-cohete-que-le-fue-prohibido-durante-casi-50-anos",
+    "title": "Corea del Sur está lista para lanzar un cohete que le fue prohibido durante casi 50 años",
+    "snippet": "Los países con capacidad militar miran al espacio porque allí puede estar su mejor \"espía\", en forma de satélites propios e independientes. Y para eso antes hacen falta cohetes. En 1979, Corea del Sur vio capada esa posi...",
+    "date": "2026-08-29T13:01:04",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/corea-sur-esta-lista-para-lanzar-cohete-que-le-fue-prohibido-durante-casi-50-anos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=453274",
+    "title": "SFL Corporation encarga cuatro PCTC a combustible dual",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario SFL Corporation anunció que encargó cuatro pure car and truck carrier (PCTC) a combustible dual de\nLa entrada SFL Corporation encarga cuatro PCTC a combustible dual se publi...",
+    "date": "2026-08-29T13:00:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/sfl-corporation-encarga-cuatro-pctc-a-combustible-dual/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3158515",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
+    "date": "2026-08-29T13:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4859835",
+    "title": "iPhone 18 Release Date: Why You Might Be Waiting Longer Than Expected",
+    "snippet": "There’s potential for a split launch between fall and spring, which makes pegging down the release date harder than usual....",
+    "date": "2026-08-29T13:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-18-release-date-why-you-might-be-waiting-longer-than-expected/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=986033",
+    "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+    "snippet": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For...",
+    "date": "2026-08-29T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-sabado-29-agosto-2026-1089638.aspx",
     "title": "Estas son las normas legales más importantes del sábado 29 de agosto de 2026",
     "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
@@ -501,6 +645,15 @@
     "date": "2026-08-28T18:50:00",
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "CBMiqAFBVV95cUxOMkRYZ09xbW9MTHJOU2kxTWhEZ2ZTOWlHNDB5SERjcENMMG4tOXBxZTFhb1JoSW5TdEJkb2RsN2o0RUM5cTFFazY2dDUwRW9nUGd1RG1FYTdsMV9YOUVsUkVoTFpQb0J5dnZfOG5UWXBlS2YxVDhlVHdkM0dBRGRCOW90eU9vVGJjc2wzM3RwYTNMZXhLQ0Vubk9hbEstWEtvOG5jUG9DTTE",
+    "title": "PNP y FBI refuerzan cooperación contra el crimen organizado transnacional - TVPerú",
+    "snippet": "PNP y FBI refuerzan cooperación contra el crimen organizado transnacional  TVPerú...",
+    "date": "2026-08-28T18:48:57",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkRYZ09xbW9MTHJOU2kxTWhEZ2ZTOWlHNDB5SERjcENMMG4tOXBxZTFhb1JoSW5TdEJkb2RsN2o0RUM5cTFFazY2dDUwRW9nUGd1RG1FYTdsMV9YOUVsUkVoTFpQb0J5dnZfOG5UWXBlS2YxVDhlVHdkM0dBRGRCOW90eU9vVGJjc2wzM3RwYTNMZXhLQ0Vubk9hbEstWEtvOG5jUG9DTTE?oc=5",
     "category": "MERCADO"
   },
   {
@@ -1195,158 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/argentina-puerto-la-plata-prepara-licitacion-del-servicio-de-reacondicionamiento-de-estructura-ferroviaria/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=453001",
-    "title": "Europa: Aurora Botnia de Wasaline completa cinco años de servicio en la ruta Vaasa-Umea",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Wasaline destacó el quinto aniversario del M/S Aurora Botnia, que presta servicios en la ruta Vaasa-Umea,\nLa entrada Europa: Aurora Botnia de Wasaline completa cinco años de...",
-    "date": "2026-08-27T22:00:55",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/europa-aurora-botnia-de-wasaline-completa-cinco-anos-de-servicio-en-la-ruta-vaasa-umea/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2245473/most-popular-android-phone-brands-rarely-sold-usa/",
-    "title": "The most popular Android phone brands rarely sold in the US",
-    "snippet": "People in the US don't have much choice beyond Apple, Google, and Samsung phones. But there are so many more choices that aren't sold in the region....",
-    "date": "2026-08-27T22:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2245473/most-popular-android-phone-brands-rarely-sold-usa/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/aplicaciones/elon-musk-enterro-twitter-x-startup-ha-lanzado-otra-red-social-ese-nombre-se-juega-todo-tribunales",
-    "title": "Elon Musk enterró Twitter por X. Una startup ha lanzado otra red social con ese nombre y se juega todo en los tribunales",
-    "snippet": "Twitter dejó de llamarse Twitter hace tres años, pero el nombre se resiste a desaparecer. Basta con escribir twitter.com en el navegador para acabar en X, y palabras como tuit siguen formando parte del lenguaje con el qu...",
-    "date": "2026-08-27T21:54:16",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/aplicaciones/elon-musk-enterro-twitter-x-startup-ha-lanzado-otra-red-social-ese-nombre-se-juega-todo-tribunales",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=99392",
-    "title": "EY Perú obtiene reconocimiento por séptimo año consecutivo en Chambers Latin America",
-    "snippet": "EY Perú fue reconocida por séptimo año consecutivo en las categorías Tax y Labour &#38; Employment del ranking Chambers Latin America 2027, publicación internacional especializada en el ámbito legal. En esta edición, ade...",
-    "date": "2026-08-27T21:32:38",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/ey-peru-obtiene-reconocimiento-por-septimo-ano-consecutivo-en-chambers-latin-america-ccl-asociados/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=99389",
-    "title": "ENERLAB amplía servicios de calibración y participará en EXPOMINA 2026",
-    "snippet": "En la industria, la confiabilidad de las mediciones es un factor relevante para el control de procesos, el mantenimiento de equipos y la seguridad de las operaciones. En este contexto, la calibración permite evaluar el c...",
-    "date": "2026-08-27T21:23:00",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/enerlab-amplia-servicios-de-calibracion-y-participara-en-expomina-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "6a8f461323e3ef4f03be5d75",
-    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-    "snippet": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration....",
-    "date": "2026-08-27T21:08:34",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/hemos-visto-casi-27-minutos-gta-vi-ambicion-rockstar-este-juego-empieza-a-entenderse-verdad",
-    "title": "Hemos visto casi 27 minutos de GTA VI y la ambición de Rockstar con este juego ya empieza a entenderse de verdad",
-    "snippet": "Han pasado casi tres años desde que Rockstar enseñó por primera vez ‘Grand Theft Auto VI’, y durante todo este tiempo hemos tenido que reconstruir la idea del juego a partir de piezas bastante pequeñas. Dos tráilers, imá...",
-    "date": "2026-08-27T20:48:32",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/hemos-visto-casi-27-minutos-gta-vi-ambicion-rockstar-este-juego-empieza-a-entenderse-verdad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "CBMizAFBVV95cUxPWmJqNEdTaXRIQmtka2ttT3ZxRzF5Z0x4YUg4RVpoNTMzcHZtZk1UbWxuUWpfbFRuYjY2ZnB4S0gzR2VUeVROQ2ZUQlVhM3RGREVGcTNwYk1nTVAzMUNkeS1uLU9meHBTZEJfN1ZxNDZvdVF0cVdBZlBTLTY4WnYta084eTRKM0VrLW4zVG5qelBkeTlQRGpRelpMWFNUSWltN09pdm1Td1Q0UjlkTDRHSVhuSmd1b0gzNlUzbWF3VWVuRlVxTEZRb2JUTTk",
-    "title": "Indecopi multa con S/75 790 a empresa de transporte por no implementar lista de precios - TVPerú",
-    "snippet": "Indecopi multa con S/75 790 a empresa de transporte por no implementar lista de precios  TVPerú...",
-    "date": "2026-08-27T20:35:23",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmJqNEdTaXRIQmtka2ttT3ZxRzF5Z0x4YUg4RVpoNTMzcHZtZk1UbWxuUWpfbFRuYjY2ZnB4S0gzR2VUeVROQ2ZUQlVhM3RGREVGcTNwYk1nTVAzMUNkeS1uLU9meHBTZEJfN1ZxNDZvdVF0cVdBZlBTLTY4WnYta084eTRKM0VrLW4zVG5qelBkeTlQRGpRelpMWFNUSWltN09pdm1Td1Q0UjlkTDRHSVhuSmd1b0gzNlUzbWF3VWVuRlVxTEZRb2JUTTk?oc=5",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3158055",
-    "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-    "snippet": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms....",
-    "date": "2026-08-27T19:54:28",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cuatro-samsung-odyssey-para-elegir-como-juguemos-49-pulgadas-oled-4k-pantalla-curva-1-100-hz",
-    "title": "Cuatro Samsung Odyssey para elegir según cómo juguemos: 49 pulgadas, OLED 4K, pantalla curva y hasta 1.100 Hz",
-    "snippet": "Gamescom no es solo el lugar donde descubrimos los juegos que ocuparán nuestras próximas horas frente a la pantalla. En Colonia también estamos viendo el hardware que quiere acompañarlos, desde una Xbox Series X25 que nu...",
-    "date": "2026-08-27T19:01:05",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cuatro-samsung-odyssey-para-elegir-como-juguemos-49-pulgadas-oled-4k-pantalla-curva-1-100-hz",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2245799/youtube-creators-can-now-include-affiliate-links-to-amazon/",
-    "title": "YouTubers can now include affiliate links to Amazon in their content",
-    "snippet": "The retailer just finally joined YouTube Shopping's affiliate program....",
-    "date": "2026-08-27T18:59:23",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2245799/youtube-creators-can-now-include-affiliate-links-to-amazon/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=985679",
-    "title": "Google tells Android app developers to cool it on memory use, or else",
-    "snippet": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage r...",
-    "date": "2026-08-27T18:33:11",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/reino-unido-debe-saber-algo-que-no-sabe-resto-europa-va-a-pedir-a-sus-ciudadanos-que-acumulen-comida-agua-casa",
-    "title": "Reino Unido debe saber algo que no sabe el resto de Europa: va a pedir a sus ciudadanos que acumulen comida y agua en casa",
-    "snippet": "Como si fuera el inicio de una película apocalíptica o de corte bélico, Reino Unido se dispone a trasladar a sus ciudadanos un mensaje poco habitual: conviene tener comida enlatada, agua embotellada y otros suministros b...",
-    "date": "2026-08-27T18:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/reino-unido-debe-saber-algo-que-no-sabe-resto-europa-va-a-pedir-a-sus-ciudadanos-que-acumulen-comida-agua-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/sequia-cantabria-ha-llevado-a-tomar-medidas-excepcionales-vigilar-drones-a-sus-vecinos",
-    "title": "La sequía en Cantabria ha llevado a tomar medidas excepcionales: vigilar con drones a sus vecinos",
-    "snippet": "\"Cuatro piscinas pueden vaciar un depósito entero\". Con esa frase resume el alcalde de la Hermandad de Campoo de Suso, Pedro Luis Gutiérrez, el problema que ha llevado a este pueblo cántabro a vigilar con drones el agua ...",
-    "date": "2026-08-27T18:01:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/sequia-cantabria-ha-llevado-a-tomar-medidas-excepcionales-vigilar-drones-a-sus-vecinos",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157852",
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "snippet": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats....",
-    "date": "2026-08-27T17:43:24",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/28-8-oc-a-15-6-oc-siete-dias-historico-desplome-termico-mar-malaga",
-    "title": "De 28,8 ºC a 15,6 ºC en siete días: el histórico desplome térmico del mar en Málaga",
-    "snippet": "Este verano está empujando los termómetros del mar Mediterráneo a límites inexplorados, pero lo que ha ocurrido en la costa de Málaga ha desconcertado a muchos bañistas. Y es que en cuestión de siete días, las aguas mala...",
-    "date": "2026-08-27T17:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/28-8-oc-a-15-6-oc-siete-dias-historico-desplome-termico-mar-malaga",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/que-cada-vez-haya-campers-bateria-portatil-tiene-mucho-que-ver-nuevos-plazos-itv",
-    "title": "Que cada vez haya más campers con batería portátil tiene mucho que ver con los nuevos plazos de la ITV",
-    "snippet": "Este año, la DGT hizo cambios en la normativa referente a las furgonetas camperizadas. O mejor dicho, aclaró la ley vigente para no dar lugar a libre interpretación. Lo más destacado era la obligación de pasar la ITV cad...",
-    "date": "2026-08-27T17:15:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/que-cada-vez-haya-campers-bateria-portatil-tiene-mucho-que-ver-nuevos-plazos-itv",
-    "category": "LEGAL"
   }
 ]
