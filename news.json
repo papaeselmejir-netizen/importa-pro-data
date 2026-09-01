@@ -1,5 +1,338 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=453548",
+    "title": "China: SPG ofrece solución logística a medida para envíos con destino a Malasia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Grupo de Desarrollo en el Extranjero de Shandong Port Group (SPG) completó recientemente el envío\nLa entrada China: SPG ofrece solución logística a medida para envíos con...",
+    "date": "2026-09-01T13:00:49",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/china-spg-ofrece-solucion-logistica-a-medida-para-envios-con-destino-a-malasia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/dlss-5-llega-desafio-enorme-convencernos-que-renderizado-neuronal-merece-pena",
+    "title": "DLSS 5 llega con un desafío enorme: convencernos de que el renderizado neuronal merece la pena",
+    "snippet": "DLSS 5 ya está aquí. Bueno, casi está aquí. Nvidia pondrá en las manos de los usuarios la última revisión de su tecnología de reconstrucción de la imagen el próximo 3 de septiembre. Y ya sabemos cómo funciona, qué nos pr...",
+    "date": "2026-09-01T13:00:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/dlss-5-llega-desafio-enorme-convencernos-que-renderizado-neuronal-merece-pena",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2248399/nvidia-dlss-5-launches-nba-2k27-september-3/",
+    "title": "NVIDIA's DLSS 5 launches with NBA 2K27 on September 3, but there's little reason for excitement",
+    "snippet": "NVIDIA's controversial DLSS 5 finally arrives this week, but there's little reason to celebrate it....",
+    "date": "2026-09-01T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2248399/nvidia-dlss-5-launches-nba-2k27-september-3/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2246818/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/",
+    "title": "Roku is expanding its premium TV lineup with its first OLEDs",
+    "snippet": "Roku has announced its first OLED TVs, available this fall from Amazon starting at $999....",
+    "date": "2026-09-01T13:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2246818/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=986236",
+    "title": "Get ready for a really busy month of smartphones",
+    "snippet": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones ...",
+    "date": "2026-09-01T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=986378",
+    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+    "snippet": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video gam...",
+    "date": "2026-09-01T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=986980",
+    "title": "Nvidia’s DLSS 5, explained",
+    "snippet": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-in...",
+    "date": "2026-09-01T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=987148",
+    "title": "Roku’s first OLED TVs undercut the midrange competition",
+    "snippet": "Just a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - the Roku Pro Series - whi...",
+    "date": "2026-09-01T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/987148/roku-oled-tv-announcement",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=987247",
+    "title": "Mozilla launches ad blocking for Firefox on iOS",
+    "snippet": "Mozilla is officially launching ad blocking for Firefox on iOS today, after testing the feature over the past few weeks. The new built-in option will block most third-party ads and trackers before they load on an iPhone,...",
+    "date": "2026-09-01T13:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=986148",
+    "title": "Poco’s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
+    "snippet": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along ...",
+    "date": "2026-09-01T12:45:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/basics/eclipse-solar-2027",
+    "title": "Eclipse solar de agosto 2027: dónde verlo, cómo, horarios y todo lo que sabemos sobre el próximo eclipse total en España",
+    "snippet": "Vamos a darte toda la información que tenemos sobre el próximo eclipse total de Sol de España, el que tendrá lugar en agosto del 2027. Será el segundo de los tres eclipses de Sol que podrán verse en España de 2026 a 2028...",
+    "date": "2026-09-01T12:31:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/basics/eclipse-solar-2027",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.engadget.com/2244166/what-android-looked-like-2008-vs-today/",
+    "title": "What Android looked like in 2008 vs. today",
+    "snippet": "Early Androids were the tech equivalent of alternative rock. iPhones were far too mainstream for some of us, and Android felt like home....",
+    "date": "2026-09-01T12:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2244166/what-android-looked-like-2008-vs-today/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-destina-s-50-millones-al-ministerio-del-interior-para-programa-seguridad-ciudadana-1089934.aspx",
+    "title": "MEF destina S/ 50 millones al Ministerio del Interior para programa de seguridad ciudadana",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia de 50 millones de soles a favor del Ministerio del Interior por el cumplimiento de indicadores y metas del programa presupuestal sobre reducción de de...",
+    "date": "2026-09-01T12:24:37",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-destina-s-50-millones-al-ministerio-del-interior-para-programa-seguridad-ciudadana-1089934.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/anthropic-detuvo-entrenamiento-su-nueva-ia-sencilla-razon-estaba-aprendiendo-demasiado-bien-a-hacer-trampas",
+    "title": "Anthropic detuvo el entrenamiento de su nueva IA por una sencilla razón: estaba aprendiendo demasiado bien a hacer trampas",
+    "snippet": "Esto está pasando de castaño a oscuro, queridos lectores. Si ya estabamos inquietos con lo que pasó con los agentes de OpenAI y Hugging Face, ahora llega Anthropic para avisarnos de que sus modelos también se están ponie...",
+    "date": "2026-09-01T12:15:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/anthropic-detuvo-entrenamiento-su-nueva-ia-sencilla-razon-estaba-aprendiendo-demasiado-bien-a-hacer-trampas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/dependemos-gps-para-conducir-cultivar-mover-mercancias-sol-acaba-recordarnos-fragil-que",
+    "title": "Dependemos del GPS para conducir, cultivar y mover mercancías. El Sol acaba de recordarnos lo frágil que es",
+    "snippet": "El sistema GPS nos parece algo eterno e infalible, pero el Sol de vez en cuando nos recuerda que no es así. Un nuevo estudio sobre la gran tormenta geomagnética den oviembre de 2025 ha desvelado que la señal GPS sufrió p...",
+    "date": "2026-09-01T12:01:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/dependemos-gps-para-conducir-cultivar-mover-mercancias-sol-acaba-recordarnos-fragil-que",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4861021",
+    "title": "The iPhone 18 Pro Could Get a Variable-Aperture Camera, but What Does That Mean?",
+    "snippet": "Photographers have wanted variable-aperture lenses for the iPhone’s cameras for years. On the eve of possibly getting them, how would that change your images?...",
+    "date": "2026-09-01T12:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-18-pro-camera-rumors-variable-aperture/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-martes-1-setiembre-2026-1089923.aspx",
+    "title": "Estas son las normas legales más importantes del martes 1 de setiembre de 2026",
+    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
+    "date": "2026-09-01T11:50:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-martes-1-setiembre-2026-1089923.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-alud-entre-nepal-y-china-balance-total-muertos-ya-supera-los-1000-muertos-1089920.aspx",
+    "title": "Alud entre Nepal y China: balance total de muertos ya supera los 1.000 muertos",
+    "snippet": "La autoridad de gestión de desastres de Nepal reportó este martes un nuevo balance de 987 fallecidos tras el devastador deslave que azotó la frontera con China, lo que eleva el número total de víctimas mortales en ambos ...",
+    "date": "2026-09-01T11:46:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-alud-entre-nepal-y-china-balance-total-muertos-ya-supera-los-1000-muertos-1089920.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/mark-zuckerberg-estaba-considerado-como-senor-tecnofeudal-ahora-tambien-tiene-su-castillo",
+    "title": "Mark Zuckerberg ya estaba considerado como un señor tecnofeudal. Ahora también tiene su castillo",
+    "snippet": "Hay multimillonarios que coleccionan relojes de lujo, coches clásicos e incluso yates. Otros en cambio, como Mark Zuckerberg, parece coleccionar metros cuadrados en propiedades repartidas por medio planeta. Su última adq...",
+    "date": "2026-09-01T11:45:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/mark-zuckerberg-estaba-considerado-como-senor-tecnofeudal-ahora-tambien-tiene-su-castillo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/ps5-nacio-como-consola-sony-esta-empenada-que-termine-siendo-tambien-nuestra-television",
+    "title": "La PS5 nació como consola. Sony está empeñada en que termine siendo también nuestra televisión",
+    "snippet": "La PS5 siempre ha sido una máquina para jugar, pero Sony lleva tiempo intentando que hagamos más cosas con ella. El último paso es Live TV on PS5, un nuevo servicio dentro de la consola que ofrece más de 100 canales grat...",
+    "date": "2026-09-01T11:31:44",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/ps5-nacio-como-consola-sony-esta-empenada-que-termine-siendo-tambien-nuestra-television",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/tonos-pastel-funcion-vaporizacion-esta-freidora-aire-que-create-le-planta-cara-a-ninja",
+    "title": "En tonos pastel y con función de vaporización: esta es la freidora de aire con la que Create le planta cara a Ninja",
+    "snippet": "Si estás pensando en dar el salto a las freidoras sin aceite, pero buscas un modelo de airfryer que cuide el diseño y ofrezca prestaciones diferentes a las opciones convencionales, Create tiene una propuesta muy interesa...",
+    "date": "2026-09-01T11:15:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/tonos-pastel-funcion-vaporizacion-esta-freidora-aire-que-create-le-planta-cara-a-ninja",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1704853",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 01 de septiembre del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy martes 01 de septiembre es de  S/3.37 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-09-01T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-01-de-septiembre-del-2026-noticia-1704853",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/espana-pensaba-invertir-1-000-millones-euros-carreteras-espanolas-ese-plan-ha-saltado-aires",
+    "title": "España pensaba invertir 1.000 millones de euros en las carreteras españolas. Ese plan ha saltado por los aires",
+    "snippet": "España tiene un déficit de 13.000 millones de euros de inversión en sus carreteras. Es, al menos, lo que dice la Asociación Española de la Carretera (AEC) con datos avalados por la DGT. Este año, el Estado planeaba dedic...",
+    "date": "2026-09-01T11:01:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/espana-pensaba-invertir-1-000-millones-euros-carreteras-espanolas-ese-plan-ha-saltado-aires",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=987043",
+    "title": "Tim Cook’s Apple: his 10 biggest wins and misses",
+    "snippet": "Expectations for Tim Cook were almost impossibly high when he stepped in to replace Apple's visionary cofounder in 2011. He inherited a company on a blockbuster run, after Steve Jobs returned and revitalized the Mac, lau...",
+    "date": "2026-09-01T11:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/987043/tim-cook-biggest-wins-misses",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/nuevo/xiaomi-poco-f9-ultra-seguir-conferencia-directo",
+    "title": "POCO F9 Ultra: sigue la presentación de los nuevos monstruos de Xiaomi en directo",
+    "snippet": "POCO ha empezado septiembre por todo lo alto. La compañía bajo el paraguas de Xiaomi nos ha convocado hoy para desvelar los POCO F9, una serie de terminales que, salvo sorpresas, estará compuesta por dos modelos: el POCO...",
+    "date": "2026-09-01T10:54:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/nuevo/xiaomi-poco-f9-ultra-seguir-conferencia-directo",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/gran-misterio-wc-sirve-abertura-frontal-forma-u-que-hay-inodoros-publicos",
+    "title": "El gran misterio de los WC: para qué sirve la abertura frontal en forma de 'U' que hay en los inodoros públicos",
+    "snippet": "No soy muy aficionado a las apuestas, pero seguro que no me equivoco si digo que gran parte de quienes leerán este reportaje lo harán sentados en un retrete. No es solo intuición. Hay estudios que constatan que la mayorí...",
+    "date": "2026-09-01T10:45:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/gran-misterio-wc-sirve-abertura-frontal-forma-u-que-hay-inodoros-publicos",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/quinta-potencia-militar-mundo-ha-comenzado-a-entregar-tanques-black-panther-a-pais-europeo-amenazada-rusia-marruecos-tambien-quiere",
+    "title": "La quinta potencia militar del mundo ha comenzado a entregar tanques Black Panther a un país europeo amenazada por Rusia. Marruecos también lo quiere",
+    "snippet": "Corea del Sur se ha convertido en uno de los grandes beneficiados del rearme internacional provocado por la guerra de Ucrania. El país, situado actualmente en el quinto puesto del ranking militar de Global Firepower, aca...",
+    "date": "2026-09-01T10:31:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/quinta-potencia-militar-mundo-ha-comenzado-a-entregar-tanques-black-panther-a-pais-europeo-amenazada-rusia-marruecos-tambien-quiere",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/samsung-galaxy-s26-fe-rey-gama-alta-asequible-comparamos-sus-rivales",
+    "title": "¿Es el Samsung Galaxy S26 FE el rey de la gama alta asequible? Lo comparamos con sus rivales",
+    "snippet": "La familia FE (Fan Edition) de Samsung nació con una misión muy clara: ofrecer la experiencia de uso de un buque insignia pero ajustando el precio a la franja de los 700 euros. Con la llegada del nuevo Samsung Galaxy S26...",
+    "date": "2026-09-01T10:15:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/samsung-galaxy-s26-fe-rey-gama-alta-asequible-comparamos-sus-rivales",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/guardia-civil-descubre-autopista-10-toneladas-hachis-rio-que-separa-espana-portugal",
+    "title": "La Guardia Civil descubre una autopista de 10 toneladas de hachís en el río que separa España y Portugal",
+    "snippet": "El Guadiana lleva siglos separando España de Portugal, igual que lo cruzan el Miño por A Guarda (Pontevedra), el Duero por Fermoselle/Villarino de los Aires (Salamanca-Zamora) o el Tajo por Alcántara (Cáceres). Pero dura...",
+    "date": "2026-09-01T10:01:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/guardia-civil-descubre-autopista-10-toneladas-hachis-rio-que-separa-espana-portugal",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#0",
+    "title": "Shein valued at $26bn after long-awaited stock market debut",
+    "snippet": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London....",
+    "date": "2026-09-01T10:01:26",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/openai-carga-apple-lio-solo-suyo",
+    "title": "OpenAI carga contra Apple: \"El lío es solo suyo\"",
+    "snippet": "La incursión de OpenAI en el mercado de los dispositivos de consumo ha desencadenado un culebrón inesperado. A mediados del pasado mes de julio Apple demandó a la compañía liderada por Sam Altman y a dos exempleados suyo...",
+    "date": "2026-09-01T09:45:57",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/openai-carga-apple-lio-solo-suyo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/supernino-esta-convirtiendo-pacifico-autentica-fabrica-ciclones-a-finales-semana-habra-tres-activos-a-vez",
+    "title": "El superNiño está convirtiendo el Pacífico en una auténtica fábrica de ciclones: a finales de semana habrá tres activos a la vez",
+    "snippet": "El principio de la historia nos lo sabemos todos: en enero de 2026, el Pacífico ecuatorial estaba virtualmente en condiciones de La Niña. En junio, la NOAA estaba declarando El Niño. Se trata de una de las transiciones m...",
+    "date": "2026-09-01T09:45:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/supernino-esta-convirtiendo-pacifico-autentica-fabrica-ciclones-a-finales-semana-habra-tres-activos-a-vez",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/otros-dispositivos/dyson-camerajet-caracteristicas-precio-ficha-tecnica",
+    "title": "Los cepillos de dientes eléctricos apenas han cambiado en los últimos 20 años, así que Dyson lo ha repensado de arriba abajo",
+    "snippet": "Si hablamos de Dyson, es inevitable pensar en aspiradores, pero la firma británica hace tiempo que ha abierto su espectro más allá de la limpieza y el cuidado del aire. Diversificar su cartera de productos es una buena m...",
+    "date": "2026-09-01T09:31:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/otros-dispositivos/dyson-camerajet-caracteristicas-precio-ficha-tecnica",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/tu-cuerpo-no-olvida-que-fuiste-obeso-ciencia-empieza-a-entender-que-cuesta-no-volver-a-engordar",
+    "title": "Perder peso no es solo cuestión de disciplina: tu cuerpo “recuerda la obesidad” y eso no se arregla con fuerza de voluntad",
+    "snippet": "Dejar la obesidad atrás es bastante complicado. A menudo nos intentan vender que es solo una cuestión de disciplina, pero la pérdida de peso es algo complejísimo, entre otros motivos porque la propia ganancia del mismo p...",
+    "date": "2026-09-01T09:01:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/tu-cuerpo-no-olvida-que-fuiste-obeso-ciencia-empieza-a-entender-que-cuesta-no-volver-a-engordar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/1919-henry-ford-uso-su-mejor-truco-para-recuperar-control-ford-no-tenemos-sitio-para-accionistas-que-no-trabajan",
+    "title": "En 1919, Henry Ford usó su mejor truco para recuperar el control de Ford: \"no tenemos sitio para los accionistas que no trabajan\"",
+    "snippet": "Cuenta la leyenda que Henry Ford quería regalarle el mundo a la clase obrera. En parte es cierto, pero lo hacía en su propio beneficio. Sin embargo, lo que Henry Ford no soportaba era que nadie le dijera qué hacer con su...",
+    "date": "2026-09-01T08:45:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/1919-henry-ford-uso-su-mejor-truco-para-recuperar-control-ford-no-tenemos-sitio-para-accionistas-que-no-trabajan",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/eran-algunas-marcas-iconicas-vino-rioja-subasta-ha-dejado-manos-gigante-valdepenas",
+    "title": "Eran algunas de las marcas más icónicas del vino de Rioja. Una subasta las ha dejado en manos del gigante de Valdepeñas",
+    "snippet": "El sector vinícola español se ha despedido de agosto con movimientos importantes a nivel empresarial. Importantes y simbólicos. La firma Félix Solis Avantis, con sede en Valdepeñas, acaba de ampliar su huella en la Denom...",
+    "date": "2026-09-01T08:31:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/eran-algunas-marcas-iconicas-vino-rioja-subasta-ha-dejado-manos-gigante-valdepenas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/nintendo-switch-2-390-euros-moviles-poco-samsung-muy-rebajados-mejores-ofertas-nueva-promo-aliexpress",
+    "title": "Nintendo Switch 2 por menos de 390 euros, móviles POCO o Samsung muy rebajados y más: las mejores ofertas de la nueva promo de AliExpress",
+    "snippet": "Comenzamos mes de septiembre y lo hacemos con una nueva promo de AliExpress llamada Choice Day: Día de envío local. Vamos a encontrar un montón de dispositivos de todo tipo con envío desde España, lo que quiere decir que...",
+    "date": "2026-09-01T08:15:45",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/nintendo-switch-2-390-euros-moviles-poco-samsung-muy-rebajados-mejores-ofertas-nueva-promo-aliexpress",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/seleccion/lidl-agota-esta-solucion-a-falta-enchufes-interiores-patios-terrazas-que-vuelve-a-estar-disponible-esta-semana",
     "title": "Lidl agota esta solución a la falta de enchufes en interiores, patios y terrazas que vuelve a estar disponible este viernes, 4 de septiembre",
     "snippet": "En su nuevo folleto, Lidl trae un buen puñado de dispositivos y herramientas Parkside. Algunos, ya disponibles, mientras que otros lo estarán próximamente. Es el caso de este extensor de tomas de corriente, que llegará a...",
@@ -272,6 +605,15 @@
   {
     "id": "https://rpp.pe/1704778",
     "title": "Gobierno reduce presupuesto para combatir la inseguridad y dispara la inversión en infraestructura militar para el 2027",
+    "snippet": "El presupuesto planteado por el Gobierno para orden y Seguridad caen en S/519 millones, mientras los proyectos de inversión para fortalecer capacidades militares se cuadruplican, con grandes partidas vinculadas a operaci...",
+    "date": "2026-08-31T21:45:37",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/gobierno-reduce-presupuesto-para-combatir-la-inseguridad-y-dispara-la-inversion-en-infraestructura-militar-para-el-2027-noticia-1704778",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1704778",
+    "title": "Presupuesto 2027: Gobierno reduce recursos para combatir la inseguridad y cuadruplica la inversión en infraestructura militar",
     "snippet": "El presupuesto planteado por el Gobierno para orden y Seguridad caen en S/519 millones, mientras los proyectos de inversión para fortalecer capacidades militares se cuadruplican, con grandes partidas vinculadas a operaci...",
     "date": "2026-08-31T21:45:37",
     "source": "RPP ECON",
@@ -1005,348 +1347,6 @@
     "date": "2026-08-31T11:01:45",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/sequia-esta-obligando-a-francia-a-hacer-algo-hace-poco-inimaginable-replantearse-como-elabora-sus-quesos-famosos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=97973",
-    "title": "Repositorio Normas Legales – Agosto 2026",
-    "snippet": "Actualización 31 de agosto de 2026 ACUERDO DE LIBRE COMERCIO PERU HONG KONG DECRETO SUPREMO 010-2026-MINCETUR (29/08/2026) Dispone la puesta en ejecución del Acuerdo de Libre Comercio entre la República del Perú y Hong K...",
-    "date": "2026-08-31T11:00:59",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/repositorio-normas-legales-agosto-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/china-esta-instalando-paneles-solares-que-tiene-victima-inesperada-sus-aves",
-    "title": "China está instalando tantos paneles solares que ya tiene una víctima inesperada: sus aves",
-    "snippet": "China está instalando tantos paneles solares en su territorio como el resto del mundo en su conjunto, en una decidida apuesta por convertirse en una potencia incontestable en renovables. Sin embargo, lo que debería ser u...",
-    "date": "2026-08-31T08:01:03",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/china-esta-instalando-paneles-solares-que-tiene-victima-inesperada-sus-aves",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/creiamos-que-creatina-era-uno-suplementos-utiles-para-ganar-masa-muscular-no-estamos-seguros-1",
-    "title": "Creíamos que la creatina era uno de los suplementos más útiles para ganar masa muscular. Ya no estamos tan seguros",
-    "snippet": "La creatina es una vieja conocida de la gente que se ejercita con el fin de aumentar músculo. Evaluar en nuestras propias carnes la efectividad de un suplemento es inútil, especialmente porque seguramente lo acompañemos ...",
-    "date": "2026-08-31T07:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/creiamos-que-creatina-era-uno-suplementos-utiles-para-ganar-masa-muscular-no-estamos-seguros-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/para-eeuu-lago-america-para-canada-lago-ontario-google-maps-ha-decidido-que-ambos-tienen-razon",
-    "title": "Para EEUU es el lago América. Para Canadá, el lago Ontario. Google Maps ha decidido que ambos tienen razón",
-    "snippet": "A Donald Trump le gusta rebautizar accidentes geográficos. ya lo hizo en febrero de 2025 cuando le cambió el nombre del Golfo de México para llamarlo Golfo de América. Ahora ha hecho lo mismo con el Lago Ontario, al que ...",
-    "date": "2026-08-31T07:00:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/para-eeuu-lago-america-para-canada-lago-ontario-google-maps-ha-decidido-que-ambos-tienen-razon",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/vuelven-a-lidl-estos-gadgets-parkside-6-euros-que-resuelven-principales-problemas-electricos-red-casa",
-    "title": "Vuelven a Lidl estos gadgets Parkside (de menos de 6 euros) que resuelven los principales problemas eléctricos y de red en casa",
-    "snippet": "Identificar un fallo eléctrico en el hogar no siempre requiere desplegar un gran equipamiento ni ser un profesional en la materia. Entre el catálogo de herramientas de bazar que Lidl suele tener periódicamente, ahora des...",
-    "date": "2026-08-31T06:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/vuelven-a-lidl-estos-gadgets-parkside-6-euros-que-resuelven-principales-problemas-electricos-red-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157348",
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-    "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
-    "date": "2026-08-31T02:34:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157348",
-    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-    "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
-    "date": "2026-08-31T02:34:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=453137",
-    "title": "Puerto de Oslo reduce emisiones de gases de efecto invernadero en 34% desde 2017",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Las emisiones de gases de efecto invernadero procedentes del transporte marítimo y las actividades portuarias se\nLa entrada Puerto de Oslo reduce emisiones de gases de efect...",
-    "date": "2026-08-31T01:00:16",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-oslo-reduce-emisiones-de-gases-de-efecto-invernadero-en-34-desde-2017/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2242789/why-gamecube-controller-loved-by-gamers/",
-    "title": "Why is the GameCube controller so loved by gamers?",
-    "snippet": "People still swear by this quirky controller, leading to Nintendo supporting it for 25 years and counting....",
-    "date": "2026-08-30T23:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2242789/why-gamecube-controller-loved-by-gamers/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2242787/how-to-soft-hard-reset-iphone/",
-    "title": "How to soft and hard reset your iPhone",
-    "snippet": "Is your iPhone acting up? Let's walk through the different kinds of resets, what they do and how to perform them....",
-    "date": "2026-08-30T22:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2242787/how-to-soft-hard-reset-iphone/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2242786/iphone-unavailable-message-how-to-fix/",
-    "title": "Getting an 'iPhone Unavailable' message? Here's how to fix it",
-    "snippet": "If you're having trouble getting into your iPhone, you'll need your old passcode or Apple Account password....",
-    "date": "2026-08-30T22:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2242786/iphone-unavailable-message-how-to-fix/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-establecen-nuevas-medidas-para-ordenar-pesca-anchoveta-jurel-caballa-y-bonito-1089779.aspx",
-    "title": "Establecen nuevas medidas para ordenar pesca de anchoveta, jurel, caballa y bonito",
-    "snippet": "El Ministerio de la Producción (Produce) aprobó medidas de ordenamiento pesquero complementarias para garantizar el aprovechamiento sostenible de la anchoveta, el jurel, la caballa y el bonito durante el 2026, establecie...",
-    "date": "2026-08-30T21:49:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-establecen-nuevas-medidas-para-ordenar-pesca-anchoveta-jurel-caballa-y-bonito-1089779.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-dia-del-cafe-peruano-cinco-iniciativas-innovadoras-transforman-esta-cadena-productiva-1089777.aspx",
-    "title": "Día del Café Peruano: cinco iniciativas innovadoras que transforman esta cadena productiva",
-    "snippet": "En el marco del Día del Café Peruano, que se celebra el cuarto viernes de agosto, el Ministerio de la Producción (Produce), a través del programa ProInnóvate, destaca cinco iniciativas que vienen incorporando innovación ...",
-    "date": "2026-08-30T21:26:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-dia-del-cafe-peruano-cinco-iniciativas-innovadoras-transforman-esta-cadena-productiva-1089777.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-arequipa-restablecen-transito-aunque-restringido-sector-quebrada-honda-atico-1089775.aspx",
-    "title": "Arequipa: restablecen tránsito, aunque restringido, en sector Quebrada Honda de Atico",
-    "snippet": "Se ha restablecido el tránsito, aunque de manera restringida, en el kilómetro 730, sector Quebrada Honda, en el distrito de Atico, región Arequipa, luego de una caída de rocas que interrumpió la circulación vehicular est...",
-    "date": "2026-08-30T21:04:36",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-arequipa-restablecen-transito-aunque-restringido-sector-quebrada-honda-atico-1089775.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-samu-atendio-mas-10000-emergencias-accidentes-transito-lo-va-del-2026-1089767.aspx",
-    "title": "SAMU atendió más de 10,000 emergencias por accidentes de tránsito en lo que va del 2026",
-    "snippet": "Más de 10,000 emergencias por accidentes de tránsito fueron atendidas por el Servicio de Atención Móvil de Urgencia (SAMU) en lo que va del 2026. De esta cifra, 3,631 casos requirieron el despacho de una ambulancia para ...",
-    "date": "2026-08-30T20:19:44",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-samu-atendio-mas-10000-emergencias-accidentes-transito-lo-va-del-2026-1089767.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality/",
-    "title": "How to improve your audio quality on Android Auto",
-    "snippet": "If the sound you're getting through Android Auto is disappointing, there are several components and settings you should check....",
-    "date": "2026-08-30T20:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidenta-fujimori-anuncia-construccion-planta-procesadora-fibra-alpaca-puno-1089757.aspx",
-    "title": "Presidenta Fujimori anuncia construcción de planta procesadora de fibra de alpaca en Puno",
-    "snippet": "La presidenta de la república, Keiko Fujimori, visitó hoy la región Puno y anunció la construcción de una planta procesadora de fibra de alpaca, vicuña y llama, así como acciones para impulsar la carretera Macusani-Nuñoa...",
-    "date": "2026-08-30T19:48:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidenta-fujimori-anuncia-construccion-planta-procesadora-fibra-alpaca-puno-1089757.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/cuando-nintendo-tenia-flota-taxis-vendia-arroz-instantaneo-buscaba-negocio-mucho-alla-entretenimiento",
-    "title": "Cuando Nintendo tenía una flota de taxis, vendía arroz instantáneo y buscaba negocio mucho más allá del entretenimiento",
-    "snippet": "La Nintendo que conocemos hoy tiene pocas dudas sobre cuál es su terreno: vende la Switch 2, mantiene en el mercado la familia Switch original y construye buena parte de su negocio alrededor de videojuegos y personajes r...",
-    "date": "2026-08-30T19:01:03",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/cuando-nintendo-tenia-flota-taxis-vendia-arroz-instantaneo-buscaba-negocio-mucho-alla-entretenimiento",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-condorcanqui-comision-oea-evaluara-situacion-ninas-victimas-violencia-sexual-1089758.aspx",
-    "title": "Condorcanqui: comisión de OEA evaluará situación de niñas víctimas de violencia sexual",
-    "snippet": "La Corte Suprema de la República, que preside Janet Tello Gilardi, se reunirá este 4 de setiembre con una comitiva del Mecanismo de Seguimiento de la Convención de Belém do Pará (Mesecvi) de la Organización de Estados Am...",
-    "date": "2026-08-30T19:00:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-condorcanqui-comision-oea-evaluara-situacion-ninas-victimas-violencia-sexual-1089758.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hoja-papel-tiene-0-1-mm-grosor-al-doblarla-27-veces-se-forma-pila-alta-que-everest-15-pliegues-elevan-alla-luna",
-    "title": "Una hoja de papel tiene 0,1 mm de grosor, pero al doblarla 27 veces se forma una pila más alta que el Everest. 15 pliegues más la elevan más allá de la Luna",
-    "snippet": "Una hoja de papel corriente tiene alrededor de 0,1 milímetros de grosor. Sobre el papel (nunca mejor dicho) bastaría con doblarla 27 veces para obtener una pila de unos 13,4 kilómetros, bastante más alta que el Everest, ...",
-    "date": "2026-08-30T18:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hoja-papel-tiene-0-1-mm-grosor-al-doblarla-27-veces-se-forma-pila-alta-que-everest-15-pliegues-elevan-alla-luna",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hace-50-millones-anos-ballenas-abandonaron-tierra-firme-ahora-sabemos-que-evolucion-les-ha-impedido-volver",
-    "title": "Hace 50 millones de años, las ballenas abandonaron la tierra firme. Ahora sabemos por qué la evolución les ha impedido volver",
-    "snippet": "Hace 50 millones de años, los ancestros de los cetáceos tomaron una decisión radical que fue abandonar progresivamente la tierra firme para adentrarse en los océanos. Hoy en día, orcas, delfines y ballenas son los indisc...",
-    "date": "2026-08-30T18:01:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hace-50-millones-anos-ballenas-abandonaron-tierra-firme-ahora-sabemos-que-evolucion-les-ha-impedido-volver",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2242784/nintendo-most-unsuccessful-console-not-gamecube-wii-u/",
-    "title": "Not the GameCube, not the Wii U: This was Nintendo's most unsuccessful console",
-    "snippet": "Nintendo's worst-ever console was awkward to use and didn't even sell a million units. But you can try it today if you're curious....",
-    "date": "2026-08-30T18:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2242784/nintendo-most-unsuccessful-console-not-gamecube-wii-u/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidenta-fujimori-participa-entrega-titulos-insumos-y-maquinarias-puno-1089750.aspx",
-    "title": "Presidenta Fujimori participa en entrega de títulos, insumos y maquinarias en Puno",
-    "snippet": "La presidenta de la república, Keiko Fujimori, participa hoy en una importante jornada de apoyo a los productores de la región Puno, en el marco de la ceremonia de clausura de la XXXI Feria Nacional de Exposición de Camé...",
-    "date": "2026-08-30T17:37:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidenta-fujimori-participa-entrega-titulos-insumos-y-maquinarias-puno-1089750.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/organismo-pesado-planeta-no-ballena-arbol-utah",
-    "title": "El organismo más pesado del planeta no es una ballena: es \"un árbol\" de Utah",
-    "snippet": "En Utah hay mormones, está el festival de cine de Sundance y mucha, mucha naturaleza. Tanta, que tienen los \"Mighty Five\", cinco espectaculares parques nacionales. Y sin embargo, allí no hay Pando. Para verlo hay que ir ...",
-    "date": "2026-08-30T17:31:03",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/organismo-pesado-planeta-no-ballena-arbol-utah",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-pj-recibira-delegacion-oea-evalua-casos-victimas-violencia-sexual-amazonas-1089742.aspx",
-    "title": "PJ recibirá delegación de OEA que evalúa casos de víctimas de violencia sexual en Amazonas",
-    "snippet": "La Corte Suprema de la República, que preside Janet Tello Gilardi, se reunirá este 4 de setiembre con una comitiva del Mecanismo de Seguimiento de la Convención de Belém do Pará (Mesecvi) de la Organización de los Estado...",
-    "date": "2026-08-30T17:09:31",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-pj-recibira-delegacion-oea-evalua-casos-victimas-violencia-sexual-amazonas-1089742.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/agricultor-confio-consejos-ia-para-cuidar-su-cosecha-resultado-10-hectareas-arrasadas-noche",
-    "title": "Un agricultor confió en los consejos de la IA para cuidar su cosecha. El resultado: 10 hectáreas arrasadas en una noche",
-    "snippet": "La IA puede ser muy útil para muchas cosas, pero si algo hemos aprendido en estos años es que no podemos fiarnos al 100% de sus respuestas. Una alucinación puede hacerte quedar fatal en el trabajo, o también puede hacer ...",
-    "date": "2026-08-30T17:01:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/agricultor-confio-consejos-ia-para-cuidar-su-cosecha-resultado-10-hectareas-arrasadas-noche",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=453434",
-    "title": "Imabari Shipbuilding entrega nuevo PCTC a combustible dual de GNL a MOL",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El astillero Marugame, filial de Imabari Shipbuilding, dio a conocer que entregó a Mitsui OSK Lines\nLa entrada Imabari Shipbuilding entrega nuevo PCTC a combustible dual de ...",
-    "date": "2026-08-30T17:00:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/imabari-shipbuilding-entrega-nuevo-pctc-a-combustible-dual-de-gnl-a-mol/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-la-cronica-universitaria-escritos-desde-resiliencia-y-las-vocaciones-1089743.aspx",
-    "title": "La Crónica Universitaria: escritos desde la resiliencia y las vocaciones",
-    "snippet": "Luego de un breve receso, volvemos. El suplemento La Crónica Universitaria (LCU) retorna hoy, domingo 30 de agosto, publicando textos de periodismo narrativo que nos hablan sobre la fortaleza frente ante las adversidades...",
-    "date": "2026-08-30T16:54:48",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-cronica-universitaria-escritos-desde-resiliencia-y-las-vocaciones-1089743.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/solo-hay-monte-importante-mundo-que-jamas-ha-registrado-serio-intento-ascension-esta-china-kailash",
-    "title": "Solo hay un monte importante en el mundo que jamás ha registrado un serio intento de ascensión y está en China: el Kailash",
-    "snippet": "He visto Primarks y alrededores de Zara un 7 de enero con menos gente que la fila para subir al Everest. Por increíble que parezca, a estas alturas de la película y en pleno furor por conquistar las grandes cimas, tachar...",
-    "date": "2026-08-30T16:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/solo-hay-monte-importante-mundo-que-jamas-ha-registrado-serio-intento-ascension-esta-china-kailash",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.engadget.com/2247093/apple-prototyped-stylus-for-foldable-iphone-that-we-may-never-see/",
-    "title": "Apple prototyped a stylus for the foldable iPhone that we may never see",
-    "snippet": "On the bright side, Apple is more certainly working on an Apple Watch overhaul....",
-    "date": "2026-08-30T16:23:10",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2247093/apple-prototyped-stylus-for-foldable-iphone-that-we-may-never-see/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3158566",
-    "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
-    "date": "2026-08-30T16:03:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/hace-600-anos-alguien-escondio-2-600-monedas-medio-guerras-peste-ha-desvelado-poder-oculto-ciudad-rusa",
-    "title": "Hace 600 años, alguien escondió más de 2.600 monedas en medio de guerras y peste. Ha desvelado el poder oculto de una ciudad rusa",
-    "snippet": "El mundo está lleno de tesoros ocultos que la arqueología va descubriendo poco a poco. Sin ir más lejos, hay quien se ha propuesto averiguar por qué tantos tesoros del Imperio Romano se escondieron y sus dueños nunca vol...",
-    "date": "2026-08-30T16:01:05",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/hace-600-anos-alguien-escondio-2-600-monedas-medio-guerras-peste-ha-desvelado-poder-oculto-ciudad-rusa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/gimnasio-picapiedra-existe-hemos-probado-sus-maquinas-estan-hechas-palos-piedras-chatarra",
-    "title": "El gimnasio de los Picapiedra existe, y lo hemos probado: sus máquinas están hechas con palos, piedras y chatarra",
-    "snippet": "Cuando uno piensa en hacer ejercicio, lo primero que suele venir a la mente es apuntarse a un gimnasio. Pagar una mensualidad, ir los primeros días, buscar una excusa para reducir la asistencia y, al final, terminar paga...",
-    "date": "2026-08-30T15:31:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/gimnasio-picapiedra-existe-hemos-probado-sus-maquinas-estan-hechas-palos-piedras-chatarra",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4861016",
-    "title": "China’s Robot Olympics Keep Getting Wilder",
-    "snippet": "Check out the highlights of the second annual World Humanoid Robot Games in Beijing....",
-    "date": "2026-08-30T15:10:19",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/computing/chinas-robot-olympics-keep-getting-wilder-2/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/no-basta-llenar-ciudades-arboles-para-frenar-calor-ciencia-sabe-cuales-enfrian-como-debemos-colocarlos",
-    "title": "No basta con llenar las ciudades de árboles para frenar el calor: la ciencia ya sabe cuáles enfrían más y cómo debemos colocarlos",
-    "snippet": "Las olas de calor extremo han convertido nuestras ciudades en auténticos hornos de asfalto y hormigón. Ante el temido efecto de \"isla de calor urbana\", la respuesta tradicional de los ayuntamientos ha sido casi siempre p...",
-    "date": "2026-08-30T15:01:03",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/no-basta-llenar-ciudades-arboles-para-frenar-calor-ciencia-sabe-cuales-enfrian-como-debemos-colocarlos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4860690",
-    "title": "Why RAMageddon Might Force Apps and Operating Systems’ Performance to Suck Less",
-    "snippet": "AI demand is eating memory supplies, so Google is cracking down on Android memory hogs....",
-    "date": "2026-08-30T15:00:07",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/why-ramageddon-might-force-apps-and-operating-systems-performance-to-suck-less/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-con-sismo-tacna-magnitud-52-se-alcanza-los-609-registrados-lo-va-2026-1089514.aspx",
-    "title": "Con sismo en Tacna de magnitud 5.2 se alcanza los 609 registrados en lo que va de 2026",
-    "snippet": "El Centro Sismológico Nacional del Instituto Geofísico del Perú (IGP) reportó esta madrugada un sismo de magnitud 5.2 con epicentro a 413 kilómetros al sur del distrito de Tacna, en la provincia y departamento del mismo ...",
-    "date": "2026-08-30T14:39:13",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-con-sismo-tacna-magnitud-52-se-alcanza-los-609-registrados-lo-va-2026-1089514.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/cerca-ceuta-hay-islote-660-metros-habitado-11-militares-inusual-molusco-casi-nos-lleva-a-guerra-marruecos",
-    "title": "Cerca de Ceuta hay un islote de 660 metros habitado por 11 militares y un inusual molusco. Y casi nos lleva a una guerra con Marruecos",
-    "snippet": "A 55 kilómetros de Marruecos, a 85 de Almería y a unos 100 al noreste de Melilla hay una isla. Y su valor estratégico es enorme. Sí, pudiera parecer que en pleno 2026, con tantos satélites y drones militares, un pedrusco...",
-    "date": "2026-08-30T14:01:04",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/cerca-ceuta-hay-islote-660-metros-habitado-11-militares-inusual-molusco-casi-nos-lleva-a-guerra-marruecos",
     "category": "TRIBUTARIO"
   }
 ]
