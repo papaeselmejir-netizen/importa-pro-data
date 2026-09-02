@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3137969",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "snippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale....",
+    "date": "2026-09-02T23:01:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454073",
+    "title": "Argentina: Puerto de Corrientes recibe 47 contenedores con maquinaria y equipamiento para Cambium Build",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Gobernador de la Provincia de Corrientes informó que el puerto de la provincia argentina recibió\nLa entrada Argentina: Puerto de Corrientes recibe 47 contenedores con maq...",
+    "date": "2026-09-02T23:00:51",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/argentina-puerto-de-corrientes-recibe-47-contenedores-con-maquinaria-y-equipamiento-para-cambium-build/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=988415",
+    "title": "Uber beats Waymo as first to launch robotaxis in London",
+    "snippet": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behin...",
+    "date": "2026-09-02T23:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-tlc-hong-kong-contribuye-a-consolidar-presencia-del-peru-los-mercados-asiaticos-1090188.aspx",
+    "title": "TLC con Hong Kong contribuye a consolidar la presencia del Perú en los mercados asiáticos",
+    "snippet": "El Tratado de Libre Comercio (TLC) con Hong Kong que entró en vigencia en la víspera, contribuye a consolidar la presencia del Perú en los mercados asiáticos, destacó, José Luis Castillo Mezarina, director general de la ...",
+    "date": "2026-09-02T22:41:41",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-tlc-hong-kong-contribuye-a-consolidar-presencia-del-peru-los-mercados-asiaticos-1090188.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454066",
+    "title": "APM Terminals Suape inicia operaciones con atención de su primer buque comercial",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Suape inició oficialmente sus operaciones en Brasil con el recibimiento de su primer buque\nLa entrada APM Terminals Suape inicia operaciones con atención de su...",
+    "date": "2026-09-02T22:30:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/apm-terminals-suape-inicia-operaciones-con-atencion-de-su-primer-buque-comercial/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149903",
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "snippet": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two....",
+    "date": "2026-09-02T22:24:09",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454051",
+    "title": "Perú: MTC y DP World Callao anuncian corredor marítimo humanitario para trasladar ayuda a zonas afectadas por El Niño",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones de Perú (MTC), en conjunto a la operadora DP World\nLa entrada Perú: MTC y DP World Callao anuncian corredor marítimo humanitari...",
+    "date": "2026-09-02T22:00:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-mtc-y-dp-world-callao-anuncian-corredor-maritimo-humanitario-para-trasladar-ayuda-a-zonas-afectadas-por-el-nino/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-bolsa-valores-lima-acumula-rentabilidad-3678-soles-al-cierre-agosto-1090178.aspx",
+    "title": "Bolsa de Valores de Lima acumula rentabilidad de 36.78% en soles al cierre de agosto",
+    "snippet": "La Bolsa de Valores de Lima (BVL) registró una rentabilidad acumulada de 36.78% en soles al cierre de agosto del 2026, mientras que en términos de dólares el avance se situó en 37.29%, señaló el funcionario de inversione...",
+    "date": "2026-09-02T21:41:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-bolsa-valores-lima-acumula-rentabilidad-3678-soles-al-cierre-agosto-1090178.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=99729",
+    "title": "Produce dicta nuevas vedas y límites para especies pesqueras",
+    "snippet": "El Ministerio de la Producción (Produce) estableció nuevas medidas de ordenamiento pesquero para proteger el ciclo reproductivo y promover el aprovechamiento sostenible de distintas especies hidrobiológicas. Las disposic...",
+    "date": "2026-09-02T20:53:36",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/produce-dicta-nuevas-vedas-y-limites-para-especies-pesqueras/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=99727",
+    "title": "Gobierno anuncia mecanismo “Servicios por Impuestos” para enfrentar El Niño",
+    "snippet": "Durante su visita a Piura, la presidenta de la república, Keiko Fujimori, anunció que el Consejo de Ministros aprobará, en las próximas horas, una importante herramienta para acelerar los trabajos de prevención frente al...",
+    "date": "2026-09-02T20:52:33",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/gobierno-anuncia-mecanismo-servicios-por-impuestos-para-enfrentar-el-nino/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4869911",
+    "title": "Mario Kart 8 Deluxe’s Surprise Switch 2 Update Brings Multiplayer Mayhem",
+    "snippet": "The surprise update adds eight-player, split-screen competition and other enhancements to Nintendo’s long-running kart racer....",
+    "date": "2026-09-02T20:36:36",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/gaming/mario-kart-8-deluxes-surprise-switch-2-update-brings-multiplayer-mayhem/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.engadget.com/2249884/how-to-watch-the-playstation-state-of-play-double-header/",
     "title": "How to watch the PlayStation State of Play double header",
     "snippet": "We're sure people will be very chill and normal in the chat for this one....",
@@ -1248,105 +1347,6 @@
     "date": "2026-09-01T18:01:45",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/han-creado-implante-muscular-que-hace-ejercicio-ti-prometedor-parche-que-engana-al-envejecimiento",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/han-creado-implante-muscular-que-hace-ejercicio-ti-prometedor-parche-que-engana-al-envejecimiento",
-    "title": "Han logrado empaquetar los beneficios del deporte y del Ozempic en un solo implante bajo la piel",
-    "snippet": "El ejercicio físico es la \"pastilla\" antienvejecimiento más potente que conocemos a día de hoy, puesto que fortalece los huesos, mejora el metabolismo e incluso protege el cerebro de enfermedades relacionadas con la edad...",
-    "date": "2026-09-01T18:01:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/han-creado-implante-muscular-que-hace-ejercicio-ti-prometedor-parche-que-engana-al-envejecimiento",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/",
-    "title": "A new Android Find Hub feature will help you remember where you put important things",
-    "snippet": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages....",
-    "date": "2026-09-01T18:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=987339",
-    "title": "Google Find Hub will soon help you locate things without a tracker",
-    "snippet": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tr...",
-    "date": "2026-09-01T18:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-moviles-pequenos",
-    "title": "Mejores móviles pequeños 2026: qué teléfono compacto comprar y 9 modelos recomendados",
-    "snippet": "Desde hace tiempo, los principales fabricantes de teléfonos móviles dejaron de apostar por los modelos pequeños. Aunque parezca muy lejano, no hace tanto que podíamos encontrar smartphones de gama alta con tamaños de pan...",
-    "date": "2026-09-01T17:45:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-moviles-pequenos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-luis-bardalez-logro-medalla-plata-el-sudamericano-levantamiento-pesas-1089988.aspx",
-    "title": "Luis Bardalez logró medalla de plata en el Sudamericano de Levantamiento de Pesas",
-    "snippet": "El peruano Luis Bardalez Tuisima, integrante del Programa Lima 2027 del Instituto Peruano del Deporte (IPD), conquistó la medalla de plata en la categoría de 65 kg del Campeonato Sudamericano de Levantamiento de Pesas 20...",
-    "date": "2026-09-01T17:38:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-luis-bardalez-logro-medalla-plata-el-sudamericano-levantamiento-pesas-1089988.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ordenan-desahuciar-a-mujer-que-dejo-grifos-abiertos-piso-que-okupa-zaragoza-acumula-casi-15-000-euros-deuda",
-    "title": "Ordenan desahuciar a la mujer que dejó los grifos abiertos del piso que okupa en Zaragoza y acumula casi 15.000 euros de deuda",
-    "snippet": "María Marcuello llevaba 15 años viviendo en un piso de la calle Eugenio Lucas, en Zaragoza. Se mudó a Barcelona por motivos personales y decidió alquilarlo por unos 600 euros al mes. Todo fue bien hasta noviembre de 2024...",
-    "date": "2026-09-01T17:31:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ordenan-desahuciar-a-mujer-que-dejo-grifos-abiertos-piso-que-okupa-zaragoza-acumula-casi-15-000-euros-deuda",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/ordenan-desahuciar-a-mujer-que-dejo-grifos-abiertos-piso-que-okupa-zaragoza-acumula-casi-15-000-euros-deuda",
-    "title": "En Zaragoza, una inquilina dejó de pagar el alquiler, se hizo okupa y consiguió que la propietaria le pagara 1.000 euros de agua",
-    "snippet": "María Marcuello llevaba 15 años viviendo en un piso de la calle Eugenio Lucas, en Zaragoza. Se mudó a Barcelona por motivos personales y decidió alquilarlo por unos 600 euros al mes. Todo fue bien hasta noviembre de 2024...",
-    "date": "2026-09-01T17:31:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/ordenan-desahuciar-a-mujer-que-dejo-grifos-abiertos-piso-que-okupa-zaragoza-acumula-casi-15-000-euros-deuda",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2244278/more-to-delete-from-iphone-free-up-space/",
-    "title": "What more can you delete from your iPhone to free up space?",
-    "snippet": "If you're running out of space on your iPhone, there might be unused data hiding in places you wouldn't expect....",
-    "date": "2026-09-01T17:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2244278/more-to-delete-from-iphone-free-up-space/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-conviene-pagar-ahora-una-deuda-dolares-ante-caida-del-tipo-cambio-1087614.aspx",
-    "title": "¿Conviene pagar ahora una deuda en dólares ante la caída del tipo de cambio?",
-    "snippet": "Luego de mostrar una tendencia a la baja en la primera quincena de agosto el precio del dólar se ubica actualmente alrededor de 3.35 soles, mientras las proyecciones de mercado apuntan a un cierre de año entre 3.35 soles...",
-    "date": "2026-09-01T17:22:16",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-conviene-pagar-ahora-una-deuda-dolares-ante-caida-del-tipo-cambio-1087614.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-emporio-lionel-messi-genera-millones-dolares-y-se-resiste-a-desvanecerse-1089979.aspx",
-    "title": "El emporio Lionel Messi, que genera millones de dólares y se resiste a desvanecerse",
-    "snippet": "El retiro de Lionel Messi de la selección argentina marca el cierre de una etapa deportiva extraordinaria, que transcurrió paralela a la construcción de una fortuna y un emporio empresarial desarrollado durante más de do...",
-    "date": "2026-09-01T17:16:52",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-emporio-lionel-messi-genera-millones-dolares-y-se-resiste-a-desvanecerse-1089979.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=453707",
-    "title": "EE.UU.: Puertos de Georgia generan impacto económico anual de 181 mil millones de dólares",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de Georgia generan un impacto económico anual de 181 mil millones de dólares y\nLa entrada EE.UU.: Puertos de Georgia generan impacto económico anual de 181 mil m...",
-    "date": "2026-09-01T17:00:05",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-puertos-de-georgia-generan-impacto-economico-anual-de-181-mil-millones-de-dolares/",
     "category": "TRIBUTARIO"
   }
 ]
