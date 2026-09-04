@@ -1,5 +1,284 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3160884",
+    "title": "What will Apple’s John Ternus era look like?",
+    "snippet": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next we...",
+    "date": "2026-09-04T17:18:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454397",
+    "title": "Juan Carlos Galdámez: De la declaración al dispositivo de poder austral",
+    "snippet": "Juan Carlos Galdámez Naranjo LLM (Wales, UK, Maritime Law) La cadena nacional del presidente Javier Milei convirtió en programa operativo\nLa entrada Juan Carlos Galdámez: De la declaración al dispositivo de poder austral...",
+    "date": "2026-09-04T17:17:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/juan-carlos-galdamez-de-la-declaracion-al-dispositivo-de-poder-austral/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/marruecos-tiene-plan-para-reforestar-zonas-aridas-que-le-ha-permitido-ganar-1-200-hectareas-waterbox",
+    "title": "Marruecos tiene un plan para reforestar zonas áridas que ya le ha permitido ganar 1.200 hectáreas: Waterbox",
+    "snippet": "El cambio climático, el calor y la sequía no solo traen de cabeza a España. Al otro lado del Mediterráneo, en Marruecos, las autoridades buscan también formas de luchar contra la desertificación sacando el máximo partido...",
+    "date": "2026-09-04T17:01:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/marruecos-tiene-plan-para-reforestar-zonas-aridas-que-le-ha-permitido-ganar-1-200-hectareas-waterbox",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-visita-bap-paita-la-base-naval-del-callao-1090441.aspx",
+    "title": "Presidenta Keiko Fujimori visita el BAP Paita en la Base Naval del Callao",
+    "snippet": "La presidenta de la república, Keiko Fujimori Higuchi, visitó hoy, en la Base Naval del Callao, el buque multipropósito B.A.P. Paita de la Marina de Guerra del Perú que será utilizado para atender emergencias en el conte...",
+    "date": "2026-09-04T17:01:10",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-visita-bap-paita-la-base-naval-del-callao-1090441.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160917",
+    "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+    "snippet": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis....",
+    "date": "2026-09-04T16:51:23",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-horacio-melgarejo-dice-le-ganara-a-boca-juniors-una-posible-final-cienciano-1090439.aspx",
+    "title": "Horacio Melgarejo dice que \"le ganará a Boca Juniors\" en una posible final con Cienciano",
+    "snippet": "Horacio Melgarejo, director técnico de Cienciano, se mostró optimista y confía en derrotar a Boca Juniors en una hipotética final de la Copa Sudamericana, competencia donde el cuadro cusqueño se encuentra clasificado a l...",
+    "date": "2026-09-04T16:47:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-horacio-melgarejo-dice-le-ganara-a-boca-juniors-una-posible-final-cienciano-1090439.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/new-horizons-tendra-que-apagar-dos-sus-instrumentos-octubre-porque-nasa-no-le-da-2-millones-dolares-anuales-que-necesita",
+    "title": "New Horizons tendrá que apagar dos de sus instrumentos en octubre porque la NASA no le da los 2 millones de dólares anuales que necesita",
+    "snippet": "La sonda New Horizons se lanzó en 2006 con el objetivo de estudiar Plutón, el objeto reconvertido en planeta enano que en su día fue el noveno planeta de nuestro sistema solar. En el viaje, como pasa con la mayoría de so...",
+    "date": "2026-09-04T16:45:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/new-horizons-tendra-que-apagar-dos-sus-instrumentos-octubre-porque-nasa-no-le-da-2-millones-dolares-anuales-que-necesita",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/otros-dispositivos/siemens-bosch-se-plantan-ifa-electrodomesticos-que-no-presumen-ia-algo-interesante-eficiencia",
+    "title": "Siemens y Bosch se plantan en IFA con electrodomésticos que no presumen de IA, pero sí de algo más interesante: eficiencia",
+    "snippet": "IFA es una feria siempre divertida. Se celebra la primera semana de septiembre en Berlín y es un escaparate perfecto para... casi cualquier cosa. Es una feria de tecnología de consumo, por lo que no es tan fácil decir qu...",
+    "date": "2026-09-04T16:31:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/otros-dispositivos/siemens-bosch-se-plantan-ifa-electrodomesticos-que-no-presumen-ia-algo-interesante-eficiencia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4874498",
+    "title": "Apple Is Full of Surprises. Here’s What CNET Readers Anticipate Ahead of Wednesday’s Event",
+    "snippet": "From three new iPhone models to a Cook-Ternus reunion, here’s what could go down....",
+    "date": "2026-09-04T16:26:16",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/apple-is-full-of-surprises-heres-what-cnet-readers-anticipate-ahead-of-wednesdays-event/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mef-busca-reducir-evasion-tributaria-para-recaudar-s-20000-millones-adicionales-1090431.aspx",
+    "title": "MEF busca reducir evasión tributaria para recaudar S/ 20,000 millones adicionales",
+    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, señaló que el Gobierno buscará reducir la evasión tributaria en 2 puntos porcentuales, considerando que actualmente representa el 9% del producto bruto interno (PBI), con l...",
+    "date": "2026-09-04T16:17:16",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-busca-reducir-evasion-tributaria-para-recaudar-s-20000-millones-adicionales-1090431.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=990267",
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "snippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright cl...",
+    "date": "2026-09-04T16:05:57",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/siempre-nos-han-dicho-que-comer-despacio-adelgaza-realidad-tiene-muchos-matices",
+    "title": "Siempre nos han dicho que comer despacio adelgaza, pero la realidad tiene muchos matices",
+    "snippet": "En alguna ocasión es posible que se haya escuchado un consejo clásico que apunta a que hay que comer despacio porque el cerebro tarda un tiempo en enterarse de que el estómago está lleno. Una afirmación que tiene cierto ...",
+    "date": "2026-09-04T16:01:37",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/siempre-nos-han-dicho-que-comer-despacio-adelgaza-realidad-tiene-muchos-matices",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1705598",
+    "title": "Anillo Vial Periférico: megaproyecto que unirá 12 distritos de Lima y Callao iniciaría obras en el primer semestre de 2027, ¿cuál es la ruta?",
+    "snippet": "El proyecto de 34,8 kilómetros, con 4 km de túneles incluidos, tiene identificados más de 5 mil predios a ser expropiados. Representante del proyecto explicó qué falta para iniciar las obras de los tres tramos....",
+    "date": "2026-09-04T15:47:20",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/anillo-vial-periferico-conectara-12-distritos-de-lima-y-callao-cual-es-su-ruta-de-obra-a-iniciarse-en-2027-noticia-1705598",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mejores-portatiles-para-estudiar-cual-comprar-recomendaciones-funcion-tu-carrera-presupuesto",
+    "title": "Mejores portátiles para estudiar: cuál comprar con recomendaciones en función de tu carrera y presupuesto",
+    "snippet": "En los próximos días, prácticamente la totalidad de los estudiantes universitarios empezaréis a volver a las aulas. Es posible que muchos estéis valorando la compra de un ordenador que esté a la altura de lo que necesita...",
+    "date": "2026-09-04T15:44:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mejores-portatiles-para-estudiar-cual-comprar-recomendaciones-funcion-tu-carrera-presupuesto",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2251134/nintendo-announced-two-direct-livestream-events-for-next-week/",
+    "title": "Nintendo just announced two Direct livestream events for next week",
+    "snippet": "Zelda takes center stage on September 8 and everything else is being saved for September 9....",
+    "date": "2026-09-04T15:32:50",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2251134/nintendo-announced-two-direct-livestream-events-for-next-week/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/cartuja-sevilla-anuncio-su-muerte-taza-hotel-jerez-chatgpt-bastaron-para-salvar-184-anos-loza-sevillana",
+    "title": "La Cartuja de Sevilla anunció su muerte. Una taza en un hotel de Jerez y ChatGPT bastaron para salvar 185 años de loza sevillana",
+    "snippet": "La Cartuja de Sevilla cerró a finales de julio de 2025. Con la luz cortada y sin plantilla, camino de la liquidación definitiva, la empresa decía adiós a dos siglos de actividad ininterrumpida. Llegó a tener 1.200 emplea...",
+    "date": "2026-09-04T15:31:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/cartuja-sevilla-anuncio-su-muerte-taza-hotel-jerez-chatgpt-bastaron-para-salvar-184-anos-loza-sevillana",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454360",
+    "title": "España: 10 trabajadores resultan intoxicados con dióxido de carbono en Puerto de Barcelona",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Diez operarios resultaron intoxicados con dióxido de carbono en el Puerto de Barcelona (España). Uno de\nLa entrada España: 10 trabajadores resultan intoxicados con dióxido d...",
+    "date": "2026-09-04T15:30:00",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/espana-10-trabajadores-resultan-intoxicados-con-dioxido-de-carbono-en-puerto-de-barcelona/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=99806",
+    "title": "Precio del dólar en Perú hoy, 4 de setiembre de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este viernes 4 de setiembre a las 10:09 a. m. se sitúa en S/3.355 para la compra y S/3.365 para ...",
+    "date": "2026-09-04T15:13:34",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-4-de-setiembre-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/tenia-especie-tortuga-patio-su-casa-almansa-guardia-civil-se-llevo-muerde-como-cocodrilo",
+    "title": "Tenía una especie de tortuga en el patio de su casa en Almansa. La Guardia Civil se la llevó: \"muerde como un cocodrilo\"",
+    "snippet": "Los hechos confirmados: la Guardia Civil (Paprona) investigó a una vecina de 56 años en Almansa (Albacete) por tener sin papeles una tortuga caimán (Macrochelys temminckii), especie protegida por el CITES (Convenio sobre...",
+    "date": "2026-09-04T15:01:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/tenia-especie-tortuga-patio-su-casa-almansa-guardia-civil-se-llevo-muerde-como-cocodrilo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=989407",
+    "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
+    "snippet": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for...",
+    "date": "2026-09-04T14:55:40",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=99803",
+    "title": "El papel de la tecnología y la Inteligencia Artificial en la auditoría y el comité de riesgos",
+    "snippet": "A lo largo de mi carrera profesional dentro de la auditoría, he visto absolutamente de todo, tanto a nivel de personas como de organizaciones. Sin embargo, si hay algo que he aprendido en este camino es que los fundament...",
+    "date": "2026-09-04T14:54:22",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/el-papel-de-la-tecnologia-y-la-inteligencia-artificial-en-la-auditoria-y-el-comite-de-riesgos/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=989692",
+    "title": "What to expect at Apple’s September 9th launch event",
+    "snippet": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first mod...",
+    "date": "2026-09-04T14:52:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/camara-200-megapixeles-bateria-para-dos-dias-diseno-elegante-asi-nuevo-motorola-edge-70-plus",
+    "title": "Cámara de 200 megapíxeles, batería para más de dos días y diseño elegante: así es el nuevo Motorola Edge 70 Plus",
+    "snippet": "Estos días estamos asistiendo a un montón de anuncios y lanzamientos de todo tipo. En este caso vamos con un móvil, que es una variante del Motorola Edge 70 que ya analizamos en Xataka hace unos meses. Se trata del nuevo...",
+    "date": "2026-09-04T14:45:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/camara-200-megapixeles-bateria-para-dos-dias-diseno-elegante-asi-nuevo-motorola-edge-70-plus",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/se-me-fue-manos-coleccionista-gallego-lleno-su-casa-recuerdos-ahora-surte-a-series-como-farina-romeria",
+    "title": "\"Se me fue de las manos\": un coleccionista gallego llenó su casa de recuerdos y ahora surte a series como 'Fariña' o 'Romería'",
+    "snippet": "Todo padre promete un legado, aunque casi nunca sepa cuál. Unos dejan una casa, otros una deuda, otros un apellido que pesa más de lo que cabe en un sobre. Y luego está el trastero que nadie vacía nunca, o el típico gara...",
+    "date": "2026-09-04T14:31:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/se-me-fue-manos-coleccionista-gallego-lleno-su-casa-recuerdos-ahora-surte-a-series-como-farina-romeria",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454344",
+    "title": "Movimiento de carga portuaria en Región del Bio Bio decrece 30,9% en junio de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La carga total movilizada en los puertos de la Región del Bio Bio durante julio de\nLa entrada Movimiento de carga portuaria en Región del Bio Bio decrece 30,9% en junio de 2...",
+    "date": "2026-09-04T14:30:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/movimiento-de-carga-portuaria-en-region-del-bio-bio-decrece-309-en-junio-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=990207",
+    "title": "Nintendo&#8217;s next two Direct events are both happening next week",
+    "snippet": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming...",
+    "date": "2026-09-04T14:29:44",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/arboles-no-tienen-madre-que-les-diga-que-se-pongan-rectos-no-necesitan-porque-se-dan-cuenta-ellos-solos",
+    "title": "Los árboles se dan cuenta cuando no están erguidos y usan un “músculo” para enderezarse",
+    "snippet": "La postura es muy importante para los seres humanos. Andar y sentarnos erguidos nos ayuda a prevenir dolores de espalda e incluso hay estudios, no siempre con resultados concluyentes, que señalan que puede mejorar el bie...",
+    "date": "2026-09-04T14:01:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/arboles-no-tienen-madre-que-les-diga-que-se-pongan-rectos-no-necesitan-porque-se-dan-cuenta-ellos-solos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454323",
+    "title": "Cosco Shipping niega que sus buques sean usados para espiar en favor de China",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Cosco Shipping rechazó las acusaciones de haber utilizado equipos ocultos en sus buques para recopilar\nLa entrada Cosco Shipping niega que sus buques sean us...",
+    "date": "2026-09-04T14:00:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cosco-shipping-niega-que-sus-buques-sean-usados-para-espiar-en-favor-de-china/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/oficial-nueva-cosori-iconic-dual-nueva-freidora-aire-gama-alta-doble-cesta-acabado-acero-inoxidable",
+    "title": "Ya es oficial la nueva Cosori Iconic Dual, una nueva freidora de aire de gama alta con doble cesta y acabado en acero inoxidable",
+    "snippet": "Cosori tiene un arsenal de freidoras donde destaca su línea Iconic y que ya tenía disponible una chulísima freidora con acabado de acero inoxidable. Si alguna vez te has fijado en ella, pero eres más de los que prefieren...",
+    "date": "2026-09-04T13:45:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/oficial-nueva-cosori-iconic-dual-nueva-freidora-aire-gama-alta-doble-cesta-acabado-acero-inoxidable",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/1990-eeuu-lanzo-neumaticos-viejos-sus-canales-hormigon-peces-se-multiplicaron-20-arrecifes-artificiales",
+    "title": "En 1990, EEUU lanzó neumáticos viejos en sus canales de hormigón. Los peces se multiplicaron por 20 en los arrecifes artificiales",
+    "snippet": "En el árido suroeste de Estados Unidos, cubrir enormes canales con hormigón parecía una decisión impecable: impedía que parte del agua se filtrara al terreno y permitía transportarla con mayor eficiencia. El problema apa...",
+    "date": "2026-09-04T13:31:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/1990-eeuu-lanzo-neumaticos-viejos-sus-canales-hormigon-peces-se-multiplicaron-20-arrecifes-artificiales",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/vibe-coding-al-vibe-doing-como-gpt-6-astra-openai-quiere-que-maquinas-hagan-cosas-nosotros",
+    "title": "Del vibe coding al \"vibe doing\": cómo con GPT-6 Astra, OpenAI quiere que las máquinas hagan cosas por nosotros",
+    "snippet": "Un tipo rubio aparece sentado frente a una pantalla gigante. De repente mueve la mano izquierda, en la que tiene algún tipo de puntero virtual, y dice \"Crea un círculo amarillo... allí\". Acto seguido, en efecto, aparece ...",
+    "date": "2026-09-04T13:15:36",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/vibe-coding-al-vibe-doing-como-gpt-6-astra-openai-quiere-que-maquinas-hagan-cosas-nosotros",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/empresas-y-economia/jensen-huang-tesoro-estadounidense-mensaje-claro-para-paises-g20-regulacion-ia",
     "title": "Jensen Huang tiene un mensaje claro para los países del G20: que apuesten más por la IA y dejen que las empresas se autorregulen",
     "snippet": "La IA es el futuro. Al menos, eso es lo que los más interesados en ese escenario llevan repitiendo desde hace meses. Jensen Huang, CEO de Nvidia, es uno de esos perfiles, y no es para menos si tenemos en cuenta que su em...",
@@ -594,6 +873,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://www.cnet.com/rss/news/4872335",
+    "title": "The iPhone 18 Pro Max Could Start at $1,300, an Analyst Predicts. You Can Thank RAMageddon for That",
+    "snippet": "Since when did smartphones cost a month’s rent?...",
+    "date": "2026-09-03T21:09:15",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/the-new-iphones-could-cost-10-20-more-an-analyst-predicts-thanks-a-lot-ramageddon-2-2/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=454217",
     "title": "Perú: MTC se mantiene evaluando modernización ferroviaria en zona sur del país",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones de Perú (MTC) sostuvo una reunión con los representantes de\nLa entrada Perú: MTC se mantiene evaluando modernización ferroviari...",
@@ -1059,294 +1347,6 @@
     "date": "2026-09-03T15:45:49",
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/estudio-nos-advierte-algo-aterrador-ia-esta-moldeando-nuestra-identidad-que-notemos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=99747",
-    "title": "Precio del dólar en Perú hoy, 3 de setiembre de 2026",
-    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este jueves 3 de setiembre a las 10:40 a. m. se sitúa en S/3.353 para la compra y S/3.360 para l...",
-    "date": "2026-09-03T15:45:14",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-3-de-setiembre-de-2026/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "CBMi4gFBVV95cUxOdUltbEpoRklfOERiRTU2bG85NXhORmlMeTk3N19MODJla1NTTnhtQ3VVVDNJM2lyQmhxaTdDNFNHR0t5R2tpcEczSm9BbGFTZHltZUtvQVJhdXVWVC11UEFEZmJkdDllYllpbFg3WHlINnYwY1dRYlhxOVRyTW5Tal9oYU1zME44ZWJtX0QyLVM2ZXBhbGh1TFdTN3lFWHhjeWZaQ2hVMWw1ZTRERjNHTmlORW02dUVQZ3pMUXlDMzFjNW5TcDZFckJlREduOUMxdVZidk5iREVXQjlKejZSU3lR",
-    "title": "El Indecopi dicta medidas cautelares para proteger la Denominación de Origen Pisco en Tacna - gob.pe",
-    "snippet": "El Indecopi dicta medidas cautelares para proteger la Denominación de Origen Pisco en Tacna  gob.pe...",
-    "date": "2026-09-03T15:41:10",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdUltbEpoRklfOERiRTU2bG85NXhORmlMeTk3N19MODJla1NTTnhtQ3VVVDNJM2lyQmhxaTdDNFNHR0t5R2tpcEczSm9BbGFTZHltZUtvQVJhdXVWVC11UEFEZmJkdDllYllpbFg3WHlINnYwY1dRYlhxOVRyTW5Tal9oYU1zME44ZWJtX0QyLVM2ZXBhbGh1TFdTN3lFWHhjeWZaQ2hVMWw1ZTRERjNHTmlORW02dUVQZ3pMUXlDMzFjNW5TcDZFckJlREduOUMxdVZidk5iREVXQjlKejZSU3lR?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2250392/everything-announced-during-the-playstation-state-of-play-double-header/",
-    "title": "Everything announced during the PlayStation State of Play double header",
-    "snippet": "Sony showed off expansions for Crimson Desert and Ghost of Yōtei, Grand Theft Auto 6 controllers and much more....",
-    "date": "2026-09-03T15:39:49",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2250392/everything-announced-during-the-playstation-state-of-play-double-header/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/industria-ia-ha-hecho-que-tu-pc-sea-caro-ahora-tiene-oferta-pagarte-para-usarlo-cuando-no-uses",
-    "title": "La industria de la IA ha hecho que tu PC sea más caro y ahora tiene una oferta: pagarte para usarlo cuando no lo uses",
-    "snippet": "La industria de la IA está llamando a la puerta de una nueva era: la de la inferencia. Si estos últimos años nos ha bombardeado con el entrenamiento y todos los recursos necesarios para llevarlo a cabo (saqueando Interne...",
-    "date": "2026-09-03T15:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/industria-ia-ha-hecho-que-tu-pc-sea-caro-ahora-tiene-oferta-pagarte-para-usarlo-cuando-no-uses",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/industria-ia-ha-hecho-que-tu-pc-sea-caro-ahora-tiene-oferta-pagarte-para-usarlo-cuando-no-uses",
-    "title": "No hay centros de datos para todos y las startups de la IA tienen una idea: convertir tu tarjeta gráfica en un chatbot",
-    "snippet": "La industria de la IA está llamando a la puerta de una nueva era: la de la inferencia. Si estos últimos años nos ha bombardeado con el entrenamiento y todos los recursos necesarios para llevarlo a cabo (saqueando Interne...",
-    "date": "2026-09-03T15:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/industria-ia-ha-hecho-que-tu-pc-sea-caro-ahora-tiene-oferta-pagarte-para-usarlo-cuando-no-uses",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=454164",
-    "title": "CMA CGM ajusta tarifas para cargas secas movilizas desde costa oeste de Sudamérica hacia múltiples destinos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario CMA CGM anunció la actualización de sus tarifas generales de transporte para el envío de contenedores\nLa entrada CMA CGM ajusta tarifas para cargas secas movilizas desde cos...",
-    "date": "2026-09-03T15:30:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/cma-cgm-ajusta-tarifas-para-cargas-secas-movilizas-desde-costa-oeste-de-sudamerica-hacia-multiples-destinos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=454192",
-    "title": "$8 mil millones costaría eliminar madera impregnada con droga que se incautó en Puerto de Arica",
-    "snippet": "&#160; Por Andrés Orrego Siebert @PortalPortuario La eliminación de madera impregnada con cocaína y otras sustancias que fue incautada en\nLa entrada $8 mil millones costaría eliminar madera impregnada con droga que se in...",
-    "date": "2026-09-03T15:22:45",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/8-mil-millones-costaria-eliminar-madera-impregnada-con-droga-que-se-incauto-en-puerto-de-arica/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/otros-dispositivos/dyson-r3-nurovi-spot-scrub-dyson-r2-nurovi-wash-dry-dyson-r1-nurovi-dry-caracteristicas-precio-ficha-tecnica",
-    "title": "Es 2026 y Dyson ha tomado una decisión: ir a por todas y por partida triple para hacerse con el trono del mejor robot aspirador",
-    "snippet": "Si hablamos de aspiradores Dyson, lo que probablemente te venga a la cabeza sean sus modelos inalámbricos o su mítico modelo de trineo. ¿Y robots aspiradores? Pues bueno, sí y no. Como nos contó Will Kerr, VP de nuevos p...",
-    "date": "2026-09-03T15:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/otros-dispositivos/dyson-r3-nurovi-spot-scrub-dyson-r2-nurovi-wash-dry-dyson-r1-nurovi-dry-caracteristicas-precio-ficha-tecnica",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/otros-dispositivos/dyson-r3-nurovi-spot-scrub-dyson-r2-nurovi-wash-dry-dyson-r1-nurovi-dry-caracteristicas-precio-ficha-tecnica",
-    "title": "Ahora que las marcas chinas son las reinas de los robots aspiradores, Dyson ha tomado una decisión: entrar de lleno con 3 modelos",
-    "snippet": "Si hablamos de aspiradores Dyson, lo que probablemente te venga a la cabeza sean sus modelos inalámbricos o su mítico modelo de trineo. ¿Y robots aspiradores? Pues bueno, sí y no. Como nos contó Will Kerr, VP de nuevos p...",
-    "date": "2026-09-03T15:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/otros-dispositivos/dyson-r3-nurovi-spot-scrub-dyson-r2-nurovi-wash-dry-dyson-r1-nurovi-dry-caracteristicas-precio-ficha-tecnica",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4870157",
-    "title": "Dyson Unveils Its First-Ever Dryer Brush and a New Hair Straightener",
-    "snippet": "Dyson’s new hair tools were designed to provide sleek, soft locks without frizz or heat damage....",
-    "date": "2026-09-03T15:01:06",
-    "source": "CNET",
-    "url": "https://www.cnet.com/health/personal-care/dyson-unveils-first-dryer-brush-new-hair-straightener/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=454169",
-    "title": "CMA CGM incrementará costos para movilizar cargas ligadas al Puerto de Manaos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario CMA CGM anunció un aumento en su recargo por bajo nivel de agua para todos los\nLa entrada CMA CGM incrementará costos para movilizar cargas ligadas al Puerto de Manaos se pu...",
-    "date": "2026-09-03T15:00:29",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/cma-cgm-incrementara-costos-para-movilizar-cargas-ligadas-al-puerto-de-manaos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/ecovacs-presenta-su-nuevo-buque-insignia-deebot-x12s-omnicyclone-estrena-base-bolsas-succion-53-aw-desinfeccion-acaros",
-    "title": "Ecovacs presenta su nuevo buque insignia: el Deebot X12S OmniCyclone estrena base sin bolsas, succión de 53 AW y desinfección de ácaros",
-    "snippet": "En el marco de la feria IFA, Ecovacs ha desvelado su última generación de robots aspiradores encabezada por el Deebot X12S OmniCyclone, su nuevo modelo insignia enfocado en la eliminación de alérgenos y suciedad microscó...",
-    "date": "2026-09-03T14:45:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/ecovacs-presenta-su-nuevo-buque-insignia-deebot-x12s-omnicyclone-estrena-base-bolsas-succion-53-aw-desinfeccion-acaros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/talgo-avril-parecian-plan-perfecto-renfe-ouigo-e-iryo-problema-no-dejan-agrietarse",
-    "title": "Los Talgo Avril parecían el plan perfecto de Renfe contra Ouigo e Iryo. Problema: no dejan de agrietarse",
-    "snippet": "Dos unidades retiradas y fuera de la circulación. Es la decisión que tomó Renfe en los últimos días de agosto cuando otros dos trenes Avril fabricados por Talgo volvieron a mostrar signos de posibles grietas en sus boggi...",
-    "date": "2026-09-03T14:45:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/talgo-avril-parecian-plan-perfecto-renfe-ouigo-e-iryo-problema-no-dejan-agrietarse",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=454000",
-    "title": "China: Puerto de Yantai abre nueva ruta comercial para la reexportación de carbón kazajo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un buque cargado de carbón térmico procedente de Kazajistán llegó recientemente al Puerto de Yantai y\nLa entrada China: Puerto de Yantai abre nueva ruta comercial para la re...",
-    "date": "2026-09-03T14:30:30",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/china-puerto-de-yantai-abre-nueva-ruta-comercial-para-la-reexportacion-de-carbon-kazajo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/nvidia-compra-hugging-face-12-930-millones-entra-lleno-piezas-ia-que-todavia-no-controlaba",
-    "title": "NVIDIA compra Hugging Face por 12.930 millones y entra de lleno en una de las piezas de la IA que todavía no controlaba",
-    "snippet": "NVIDIA ha acordado adquirir Hugging Face por 12.930 millones de dólares, una operación que coloca bajo su paraguas una de las plataformas más importantes del ecosistema de modelos abiertos de inteligencia artificial. El ...",
-    "date": "2026-09-03T14:30:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/nvidia-compra-hugging-face-12-930-millones-entra-lleno-piezas-ia-que-todavia-no-controlaba",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2250292/lego-playstation-set-launches-on-october-1/",
-    "title": "Lego's near 1:1 PlayStation set launches on October 1",
-    "snippet": "The detailed Lego replica of the first PlayStation console also features two miniature dioramas of classic PlayStation games....",
-    "date": "2026-09-03T14:10:12",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2250292/lego-playstation-set-launches-on-october-1/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/medicina-lleva-decadas-estudiando-cuerpo-masculino-como-fuera-estandar-polemica-aesan-solo-punta-iceberg",
-    "title": "Un informe sobre menopausia usó datos de hombres por error. El problema es que llevamos así desde que existen los ensayos clínicos",
-    "snippet": "Recientemente se ha generado un gran revuelo en torno a un informe en el que la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) hace recomendaciones nutricionales para la menopausia basadas en estudios real...",
-    "date": "2026-09-03T14:01:50",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/medicina-lleva-decadas-estudiando-cuerpo-masculino-como-fuera-estandar-polemica-aesan-solo-punta-iceberg",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cinco-esenciales-vuelta-al-cole-como-padre-que-yo-compraria",
-    "title": "Los cinco esenciales de la Vuelta al Cole como padre que yo compraría",
-    "snippet": "Septiembre es el mes en el que los cuadernos nuevos y las listas interminables de material escolar toman el control de la rutina diaria. Como padre, puedo asegurarte que la Vuelta al Cole no es solo abastecer la mochila ...",
-    "date": "2026-09-03T13:45:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cinco-esenciales-vuelta-al-cole-como-padre-que-yo-compraria",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/lago-ontario-paso-17-anos-recibiendo-acido-sulfurico-acabo-mal-que-solo-habia-cosa-que-podia-salvarlo-cubos-cubos-gambas",
-    "title": "Un lago de Ontario pasó 17 años recibiendo ácido sulfúrico. Acabó tan mal que solo había una cosa que podía salvarlo: cubos y cubos de gambas",
-    "snippet": "En 1976, un equipo canadiense dirigido por David Schindler vertió ácido sulfúrico sobre un pequeño lago al noroeste de Ontario. Era un lago normal. Con sus sedimentos, sus corrientes, sus truchas y sus crustáceos. No que...",
-    "date": "2026-09-03T13:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/lago-ontario-paso-17-anos-recibiendo-acido-sulfurico-acabo-mal-que-solo-habia-cosa-que-podia-salvarlo-cubos-cubos-gambas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-callao-tendra-estatua-mas-alta-peru-homenaje-a-santo-padre-video-1090247.aspx",
-    "title": "Papa León XIV: Callao tendrá la estatua más alta de Perú en homenaje a santo padre [video]",
-    "snippet": "El Callao contará próximamente con una escultura monumental del papa León XIV de 14 metros de altura, que se convertirá en la estatua más alta del Perú dedicada a un sumo pontífice. La obra será instalada en el futuro Pa...",
-    "date": "2026-09-03T13:09:35",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-callao-tendra-estatua-mas-alta-peru-homenaje-a-santo-padre-video-1090247.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/alcalde-almazan-llevaba-anos-avisando-que-su-palacio-siglo-xv-se-iba-a-caer-esta-semana-ha-caido",
-    "title": "El alcalde de Almazán llevaba años avisando de que su palacio del siglo XV se iba a caer. Esta semana ha caído",
-    "snippet": "Poco antes de las 8:00 de la mañana del 1 de septiembre, la zona central del Palacio de los Hurtado de Mendoza, en Almazán (Soria), cedió. Dos plantas cayeron de golpe, arrastrando el artesonado, los arcos y los fustes d...",
-    "date": "2026-09-03T13:01:50",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/alcalde-almazan-llevaba-anos-avisando-que-su-palacio-siglo-xv-se-iba-a-caer-esta-semana-ha-caido",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=454061",
-    "title": "Maersk nombra a Roberta Duarte como su nueva directora de Recursos Humanos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Maersk anunció el nombramiento de Roberta Duarte como nueva directora de Recursos Humanos. La\nLa entrada Maersk nombra a Roberta Duarte como su nueva directora de...",
-    "date": "2026-09-03T13:00:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/maersk-nombra-a-roberta-duarte-como-su-nueva-directora-de-recursos-humanos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-fortalece-pesca-y-acuicultura-1331-habilitaciones-sanitarias-seis-meses-1090245.aspx",
-    "title": "Gobierno fortalece pesca y acuicultura con 1,331 habilitaciones sanitarias en seis meses",
-    "snippet": "Más de 1,300 infraestructuras, embarcaciones y establecimientos vinculados a la pesca y acuicultura avanzaron en su proceso de habilitación sanitaria durante el primer semestre del 2026, como resultado de las acciones de...",
-    "date": "2026-09-03T12:47:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-fortalece-pesca-y-acuicultura-1331-habilitaciones-sanitarias-seis-meses-1090245.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/dji-lanza-serie-romo-2-tecnologia-drones-ia-avanzada-brazo-robotico-extensible-para-hogar",
-    "title": "DJI lanza la serie ROMO 2: tecnología de drones, IA avanzada y un brazo robótico extensible para el hogar",
-    "snippet": "La reconocida marca de drones y cámaras DJI ha dado un paso firme en el sector de la robótica doméstica con el lanzamiento internacional de su nueva gama de robots aspiradores: la serie ROMO 2, compuesta por los modelos ...",
-    "date": "2026-09-03T12:45:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/dji-lanza-serie-romo-2-tecnologia-drones-ia-avanzada-brazo-robotico-extensible-para-hogar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "6a906b97096f095c67a177d0",
-    "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-    "snippet": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets....",
-    "date": "2026-09-03T12:43:09",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3160347",
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers....",
-    "date": "2026-09-03T12:42:45",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/llevamos-decadas-pensando-que-luna-tardo-meses-anos-formarse-nuevo-estudio-dice-que-pudo-hacerlo-que-dura-tu-jornada-laboral",
-    "title": "Llevamos décadas pensando que la Luna tardó meses o años en formarse. Un nuevo estudio dice que pudo hacerlo en menos de lo que dura tu jornada laboral",
-    "snippet": "Construir algo tan grande como la Luna no parece cuestión de un día. Debe ser un proceso lento y tedioso. Al menos, es la sensación que tenemos al pensar en ello. Sin embargo, según un estudio publicado recientemente, nu...",
-    "date": "2026-09-03T12:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/llevamos-decadas-pensando-que-luna-tardo-meses-anos-formarse-nuevo-estudio-dice-que-pudo-hacerlo-que-dura-tu-jornada-laboral",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2250197/nvidia-buys-hugging-face/",
-    "title": "NVIDIA is buying Hugging Face for $12.93 billion",
-    "snippet": "NVIDIA has confirmed it is buying AI software repository Hugging Face....",
-    "date": "2026-09-03T12:18:21",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2250197/nvidia-buys-hugging-face/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/logico-no-ser-dueno-juegos-digitales-consumidores-razonables-saben-playstation",
-    "title": "\"Es lógico\" no ser dueño de los juegos digitales y \"los consumidores razonables\" lo saben, según PlayStation",
-    "snippet": "El fin del formato físico y la polémica con las licencias está lejos, pero muy lejos de acabar. Si echamos la vista atrás, recordaremos que Sony ya afrontaba una demanda judicial por el botón de \"Comprar\" en PS Store. Va...",
-    "date": "2026-09-03T12:15:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/logico-no-ser-dueno-juegos-digitales-consumidores-razonables-saben-playstation",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3160334",
-    "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-    "snippet": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides....",
-    "date": "2026-09-03T12:12:56",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=985474",
-    "title": "Nvidia is buying Hugging Face for almost $13 billion",
-    "snippet": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging...",
-    "date": "2026-09-03T12:12:06",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/durante-decadas-francia-arranco-12-000-kilometros-setos-para-agrandar-campos-entonces-descubrio-servian-cuando-llovia",
-    "title": "Francia arrancó 12.000 kilómetros de setos porque estorbaban a los tractores. Décadas después descubrió que frenaban algo mucho peor",
-    "snippet": "Durante buena parte de la segunda mitad del siglo XX, la modernización agrícola transformó radicalmente Bretaña: pequeñas parcelas rodeadas de setos y taludes fueron agrupadas para crear campos mayores por los que pudier...",
-    "date": "2026-09-03T12:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/durante-decadas-francia-arranco-12-000-kilometros-setos-para-agrandar-campos-entonces-descubrio-servian-cuando-llovia",
     "category": "TRIBUTARIO"
   }
 ]
