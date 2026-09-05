@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.theverge.com/?p=990868",
+    "title": "iPhone Handoff will seamlessly share one number between two phones",
+    "snippet": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there wer...",
+    "date": "2026-09-05T20:53:58",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454553",
+    "title": "Policía Marítima aumenta controles preventivos en ferry de conectividad de Tierra del Fuego",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Capitanía de Puerto de Tierra del Fuego ha aumentando sus controles preventivos y fiscalizaciones durante\nLa entrada Policía Marítima aumenta controles preventivos en fer...",
+    "date": "2026-09-05T20:49:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/policia-maritima-aumenta-controles-preventivos-en-ferry-de-conectividad-de-tierra-del-fuego/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454421",
+    "title": "Maersk advierte posibles nuevas complicaciones logísticas en Asia Oriental producto de tifones",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La naviera Maersk advirtió de posibles nuevas complicaciones logísticas en Asia Oriental. Últimamente, la mencionada zona\nLa entrada Maersk advierte posibles nuevas complica...",
+    "date": "2026-09-05T20:00:11",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/maersk-advierte-posibles-nuevas-complicaciones-logisticas-en-asia-oriental-producto-de-tifones/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-lluvias-intensas-identifican-puntos-criticos-amazonas-amenazan-a-9-mil-personas-1090594.aspx",
+    "title": "Lluvias intensas: identifican puntos críticos en Amazonas que amenazan a 9 mil personas",
+    "snippet": "Un total de 34 puntos críticos en la región Amazonas han sido identificados por las autoridades de gestión de riesgo de desastres como zonas de alto riesgo frente a inundaciones, huaicos, deslizamientos y activación de q...",
+    "date": "2026-09-05T20:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-lluvias-intensas-identifican-puntos-criticos-amazonas-amenazan-a-9-mil-personas-1090594.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454378",
+    "title": "Kempower y DP World implementarán soluciones de carga rápida en operaciones portuarias en Canadá",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Kempower firmó un acuerdo marco con DP World para suministrar infraestructura de carga para vehículos eléctricos\nLa entrada Kempower y DP World implementarán soluciones de c...",
+    "date": "2026-09-05T19:00:13",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/kempower-y-dp-world-implementaran-soluciones-de-carga-rapida-en-operaciones-portuarias-en-canada/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/medicina-y-salud/pensabamos-que-siestas-largas-eran-inofensivas-nuevo-estudio-revela-que-realidad-sintoma-problema-mayor",
     "title": "Pensábamos que las siestas largas eran inofensivas. Un nuevo estudio revela que en realidad son el síntoma de un problema mayor",
     "snippet": "En España, la siesta es casi una institución cultural que supone un pequeño placer diario que tradicionalmente se ha asociado con un buen descanso y una recarga de energía. Sin embargo, la ciencia lleva tiempo afinando s...",
@@ -7,6 +52,15 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/pensabamos-que-siestas-largas-eran-inofensivas-nuevo-estudio-revela-que-realidad-sintoma-problema-mayor",
     "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2247813/how-to-track-prices-safari-notify-me-tool-iphone-ipad-macbook/",
+    "title": "How to track prices with Safari's Notify Me tool on iPhone, iPad and Mac",
+    "snippet": "Apple's Notify Me feature can update you every time a price drops or a product comes back in stock. Tell it what to do and it'll take care of the rest....",
+    "date": "2026-09-05T18:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2247813/how-to-track-prices-safari-notify-me-tool-iphone-ipad-macbook/",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-aniversario-chachapoyas-deleitate-tesoros-turisticos-este-cautivante-destino-1090585.aspx",
@@ -272,6 +326,15 @@
   {
     "id": "https://www.xataka.com/magnet/generacion-z-ha-convertido-memes-virales-su-mayor-pesadilla-eso-tiene-gran-perjudicado-baile",
     "title": "La Generación Z ha convertido los memes virales en su mayor pesadilla. Y eso tiene un gran perjudicado: el baile",
+    "snippet": "Su nombre quizás no te diga gran cosa (ahora), pero si en 2024 solías echar un ojo a las redes o leer la prensa es casi imposible que no hayas visto el vídeo más famoso de Rachael Louise Gunn, alias 'Raygun'. Su historia...",
+    "date": "2026-09-05T12:30:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/generacion-z-ha-convertido-memes-virales-su-mayor-pesadilla-eso-tiene-gran-perjudicado-baile",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/generacion-z-ha-convertido-memes-virales-su-mayor-pesadilla-eso-tiene-gran-perjudicado-baile",
+    "title": "En 2024 Raygun mostró al mundo cómo un baile puede convertirte en meme andante. Y la Generación Z ha tomado nota",
     "snippet": "Su nombre quizás no te diga gran cosa (ahora), pero si en 2024 solías echar un ojo a las redes o leer la prensa es casi imposible que no hayas visto el vídeo más famoso de Rachael Louise Gunn, alias 'Raygun'. Su historia...",
     "date": "2026-09-05T12:30:27",
     "source": "XATAKA",
@@ -1284,69 +1347,6 @@
     "date": "2026-09-04T10:45:36",
     "source": "XATAKA",
     "url": "https://www.xataka.com/medicina-y-salud/medicina-tenia-limite-trasplantes-animales-paciente-ha-roto-nueve-meses-viviendo-rinon-cerdo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o#0",
-    "title": "Stock up on food to prepare for extreme weather, minister says",
-    "snippet": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter....",
-    "date": "2026-09-04T10:40:23",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/otros/sillas-oficina-hay-muchas-que-esten-disenadas-para-cuerpo-mujer-hay-muy-pocas-he-probado",
-    "title": "Sillas de oficina hay muchas. Que estén diseñadas para el cuerpo de la mujer hay muy pocas, y he probado una",
-    "snippet": "Acaba de empezar septiembre y, como cada año, el mundo tech se da cita en Berlín con motivo de la feria IFA. Iba paseando tranquilamente por el pabellón 2 cuando he visto una cosa que ha captado mi atención: una silla de...",
-    "date": "2026-09-04T10:31:35",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/otros/sillas-oficina-hay-muchas-que-esten-disenadas-para-cuerpo-mujer-hay-muy-pocas-he-probado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/oficial-lego-lanza-espana-nuevo-set-que-recrea-mitica-playstation-que-podras-conseguir",
-    "title": "Ya es oficial: LEGO lanza en España un nuevo set que recrea la mítica PlayStation y que podrás conseguir ya mismo",
-    "snippet": "El reciente State of Play ha sido la ocasión elegida por LEGO para hacer oficial un nuevo set que llegará próximamente a las tiendas. Uno que recrea la mítica consola PlayStation y que hará las delicias de los jugadores ...",
-    "date": "2026-09-04T10:15:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/oficial-lego-lanza-espana-nuevo-set-que-recrea-mitica-playstation-que-podras-conseguir",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/reventon-termico",
-    "title": "Cómo se produce un reventón térmico y por qué amenaza al Mediterráneo",
-    "snippet": "Hasta hace poco, el reventón térmico sonaba como un fenómeno exótico y muy difícil de presenciar. Sin embargo, en los dos últimos años muchas de las personas que viven cerca de las costas mediterráneas han podido experim...",
-    "date": "2026-09-04T10:01:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/reventon-termico",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/alla-ver-evitar-nueva-hornada-robots-mova-sienten-riegan-recogen-fruta",
-    "title": "Más allá de ver y evitar: la nueva hornada de robots de MOVA 'sienten', riegan y hasta recogen fruta",
-    "snippet": "Después de ver los robots cortacésped con brazo de Segway que la marca norteamericana (al menos de origen, hace una década que pertenece a la china Ninebot) presentó ayer, el despliegue de dispositivos que Mova ha mostra...",
-    "date": "2026-09-04T09:31:35",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/alla-ver-evitar-nueva-hornada-robots-mova-sienten-riegan-recogen-fruta",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/volkswagen-ha-confirmado-50-000-despidos-deja-aire-cuatro-fabricas-seat-grandes-senaladas",
-    "title": "Volkswagen ha confirmado 50.000 despidos y deja en el aire cuatro fábricas. Y Seat es una de las grandes señaladas",
-    "snippet": "Los directivos de Volkswagen enfrentaban hoy una de las reuniones más calientes de su historia. Se esperaba que los representantes de la compañía votaran a lo largo del día si despedían a otros 50.000 empleados pero el a...",
-    "date": "2026-09-04T09:27:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/volkswagen-ha-confirmado-50-000-despidos-deja-aire-cuatro-fabricas-seat-grandes-senaladas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/apple-tiene-problemas-para-fabricar-todos-iphone-plegables-que-necesita-nikkei-asia",
-    "title": "Apple tiene problemas para fabricar todos los iPhone plegables que necesita, según Nikkei Asia",
-    "snippet": "Apple va a tener dificultades para colocar en las tiendas todos los iPhone plegables que va a necesitar para satisfacer la demanda. Nikkei Asia, uno de los medios de comunicación más fiables en el contexto de la industri...",
-    "date": "2026-09-04T09:20:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/apple-tiene-problemas-para-fabricar-todos-iphone-plegables-que-necesita-nikkei-asia",
     "category": "TRIBUTARIO"
   }
 ]
