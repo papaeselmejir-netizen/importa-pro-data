@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://portalportuario.cl/?p=454562",
+    "title": "Evergreen Marine incorpora sensores a 58 mil contenedores para monitorear carga en tiempo real",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Evergreen Marine informó la incorporación de tecnología de monitoreo inteligente en 58 mil contenedores, los cuales\nLa entrada Evergreen Marine incorpora sensores a 58 mil c...",
+    "date": "2026-09-06T00:58:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/evergreen-marine-incorpora-sensores-a-58-mil-contenedores-para-monitorear-carga-en-tiempo-real/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=454371",
     "title": "Rusia: Puerto Comercial de Vladivostok y Puerto de Saigón se convierten en ciudades hermanas",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Fesco Transport Group y Vietnam Maritime Corporation (VIMC), una corporación estatal, acordaron una alianza logística durante\nLa entrada Rusia: Puerto Comercial de Vladivost...",
@@ -15,6 +24,15 @@
     "date": "2026-09-06T00:00:00",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-cinco-consejos-a-tomar-cuenta-para-tu-empresa-revise-sus-estrategias-comerciales-1090596.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2246259/how-to-sideload-android-auto-apps/",
+    "title": "How to sideload apps onto Android Auto",
+    "snippet": "There's a way to display any app on Android Auto, but it does present concerns about safety and reliability....",
+    "date": "2026-09-06T00:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2246259/how-to-sideload-android-auto-apps/",
     "category": "MERCADO"
   },
   {
@@ -1330,23 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/korea-line-anuncia-contrato-con-hyundai-glovis-para-fletamento-de-buque-ro-ro/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4872759",
-    "title": "I Took the Pixel 11 Pro and iPhone 17 Pro Around Delhi, and I Know Which Phone Camera’s the Best for Me",
-    "snippet": "The Pixel 11 Pro debuted this summer with some new camera enhancements, and I wanted to see how it shapes up against the iPhone 17 Pro ahead of Apple’s Sept. 9 event....",
-    "date": "2026-09-04T12:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/i-took-the-pixel-11-pro-and-iphone-17-pro-around-delhi-and-i-know-which-phone-cameras-the-best-for-me/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/a-xbox-no-le-salen-cuentas-juego-streaming-ilimitado-ahora-tendremos-15-horas-al-mes",
-    "title": "A Xbox no le salen las cuentas con el juego por streaming ilimitado. Ahora tendremos 15 horas... al mes",
-    "snippet": "El juego por streaming lleva años entre nosotros. Gaikai y OnLive fueron dos de los pilares sobre los que se ha levantado la tecnología, pero fue con Stadia cuando, realmente, pensé \"esto es el futuro de los videojuegos\"...",
-    "date": "2026-09-04T11:45:36",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/a-xbox-no-le-salen-cuentas-juego-streaming-ilimitado-ahora-tendremos-15-horas-al-mes",
-    "category": "TRIBUTARIO"
   }
 ]
