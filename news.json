@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.scmp.com/news/hong-kong/politics/article/3366729/beijing-recommends-16-hong-kong-civil-servants-un-roles-highest-number-date?utm_source=rss_feed",
+    "title": "Beijing recommends 16 Hong Kong civil servants to UN roles, highest number to date",
+    "snippet": "Beijing has recommended the largest-ever cohort of civil servants from Hong Kong to take on roles in United Nations agencies this year, expecting the deployments to broaden their global perspective and strengthen the cit...",
+    "date": "2026-09-08T05:38:25",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3366729/beijing-recommends-16-hong-kong-civil-servants-un-roles-highest-number-date?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-indecopi-8-cada-10-alertas-consumo-peru-se-concentran-sector-automotriz-1090839.aspx",
+    "title": "Indecopi: 8 de cada 10 alertas de consumo en Perú se concentran en sector automotriz",
+    "snippet": "El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi), indicó que aproximadamente el 80 % de las alertas de consumo emitidas por la entidad corresponden a vehículos,...",
+    "date": "2026-09-08T04:56:24",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-indecopi-8-cada-10-alertas-consumo-peru-se-concentran-sector-automotriz-1090839.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454806",
+    "title": "Puerto de Kiel realiza abastecimiento de prueba de biometanol a crucero",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario MB Energy completó con éxito una prueba de abastecimiento de metanol para el Mein Schiff 7\nLa entrada Puerto de Kiel realiza abastecimiento de prueba de biometanol a crucero...",
+    "date": "2026-09-08T04:00:48",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-kiel-realiza-abastecimiento-de-prueba-de-biometanol-a-crucero/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454626",
+    "title": "Polonia: Puerto de Gdynia prepara nuevo modelo de suministro de combustible a los buques",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Gdynia y Orlen iniciaron una colaboración para desarrollar capacidades de suministro de GNL\nLa entrada Polonia: Puerto de Gdynia prepara nuevo modelo de suminis...",
+    "date": "2026-09-08T02:59:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/polonia-puerto-de-gdynia-prepara-nuevo-modelo-de-suministro-de-combustible-a-los-buques/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454661",
+    "title": "Puerto de Hamburgo recibe primera visita de tercer crucero de Explora Journeys",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Marcando la primera llamada del Explora III al Puerto de Hamburgo, el director general de Cruise\nLa entrada Puerto de Hamburgo recibe primera visita de tercer crucero de Exp...",
+    "date": "2026-09-08T02:31:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-hamburgo-recibe-primera-visita-de-tercer-crucero-de-explora-journeys/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454639",
+    "title": "Anuncian inauguración de línea ferroviaria que conecta de manera directa al Puerto de Malmo con Duisburgo",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Copenhague-Malmo (CMP, Dinamarca/Suecia) anunció la inauguración de una conexión ferroviaria directa entre el\nLa entrada Anuncian inauguración de línea ferrovia...",
+    "date": "2026-09-08T02:00:32",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/anuncian-inauguracion-de-linea-ferroviaria-que-conecta-de-manera-directa-al-puerto-de-malmo-con-duisburgo/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4881810",
+    "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm’s New Chip Tech",
+    "snippet": "Advancements in AI-based upscaling and frame rate upgrade mobile gaming performance and power efficiency....",
+    "date": "2026-09-08T02:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/2027-android-phones-could-boost-gaming-graphics-and-ai-tasks-with-arms-new-chip-tech/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=990676",
+    "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+    "snippet": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its...",
+    "date": "2026-09-08T02:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454648",
+    "title": "Yanmar Maritime obtiene homologación de tipo DNV para su sistema de pila de combustible",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La sociedad de clasificación DNV otorgó a Yanmar Power Solutions, filial de Yanmar Holdings, la homologación\nLa entrada Yanmar Maritime obtiene homologación de tipo DNV para...",
+    "date": "2026-09-08T01:00:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/yanmar-maritime-obtiene-homologacion-de-tipo-dnv-para-su-sistema-de-pila-de-combustible/",
+    "category": "LEGAL"
+  },
+  {
     "id": "https://www.engadget.com/2249676/how-to-reset-iphone-camera-settings/",
     "title": "How To Reset The Camera Settings On Your iPhone",
     "snippet": "We all want to take the best photos with our $1,000 devices, and sometimes that means rolling back all those extra settings in the Camera app back to zero....",
@@ -12,6 +93,15 @@
     "id": "https://portalportuario.cl/?p=454692",
     "title": "Jan De Nul completa el mayor refuerzo de playas en la historia de Brasil",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario En los últimos nueve meses, Jan De Nul profundizó el canal de acceso al Puerto Itapoá\nLa entrada Jan De Nul completa el mayor refuerzo de playas en la historia de Brasil se ...",
+    "date": "2026-09-08T00:00:46",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/jan-de-nul-completa-el-mayor-refuerzo-de-playas-en-la-historia-de-brasil/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=454692",
+    "title": "Jan De Nul completa mayor refuerzo de playas en la historia de Brasil tras dragar canal de acceso a Itapoá",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario En los últimos nueve meses, Jan De Nul profundizó el canal de acceso al Puerto Itapoá\nLa entrada Jan De Nul completa mayor refuerzo de playas en la historia de Brasil tras d...",
     "date": "2026-09-08T00:00:46",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/jan-de-nul-completa-el-mayor-refuerzo-de-playas-en-la-historia-de-brasil/",
@@ -1258,95 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/eimskip-y-puerto-de-helsingborg-extienden-colaboracion-hasta-2031/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2246419/foldable-phones-still-need-to-fix-biggest-problem-wobble/",
-    "title": "Foldable phones still need to fix this problem",
-    "snippet": "Samsung's Z Fold series has improved the foldable phone form factor over time, but there remains an issue that the rumored iPhone Ultra may not remedy....",
-    "date": "2026-09-06T14:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2246419/foldable-phones-still-need-to-fix-biggest-problem-wobble/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/estudiante-llevo-sus-vaqueros-lavar-durante-15-meses-su-profesora-descubrio-que-casi-todos-lavamos-demasiado",
-    "title": "Un estudiante llevó sus vaqueros sin lavar durante 15 meses y su profesora descubrió que casi todos los lavamos demasiado",
-    "snippet": "Hay ropa que debemos lavar a menudo. Las sábanas son, sin duda, un gran ejemplo de ello. Sin embargo, con ciertas prendas, la cosa cambia. Por ejemplo, mientras que muchísimas personas lavan demasiado poco la ropa de cam...",
-    "date": "2026-09-06T13:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/estudiante-llevo-sus-vaqueros-lavar-durante-15-meses-su-profesora-descubrio-que-casi-todos-lavamos-demasiado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-gobierno-aprueba-documentos-estandarizados-para-ejecucion-las-obras-impuestos-1090635.aspx",
-    "title": "Gobierno aprueba documentos estandarizados para la ejecución de las Obras por Impuestos",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó documentos estandarizados para la ejecución de intervenciones mediante Obras por Impuestos en el marco del Decreto de Urgencia N° 010-2026, a fin de atender las obras de ...",
-    "date": "2026-09-06T13:14:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-gobierno-aprueba-documentos-estandarizados-para-ejecucion-las-obras-impuestos-1090635.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=454481",
-    "title": "Instituto Costarricense de Puertos del Pacífico proyecta alza en llegada de cruceros en próxima temporada",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Instituto Costarricense de Puertos del Pacífico (Incop) develó un crecimiento significativo en los últimos años\nLa entrada Instituto Costarricense de Puertos del Pacífico...",
-    "date": "2026-09-06T13:00:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/instituto-costarricense-de-puertos-del-pacifico-proyecta-alza-en-llegada-de-cruceros-en-proxima-temporada/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hay-capital-europea-que-se-esta-tomando-serio-cambio-climatico-que-esta-haciendo-islas-copenhague",
-    "title": "Hay una capital europea que se está tomando tan en serio el cambio climático que hasta está haciendo islas: Copenhague",
-    "snippet": "Europa es el continente que más se calienta con el cambio climático, según la Organización Meteorológica Mundial, y dentro del viejo continente, es el sur mediterráneo el que se lleva la peor parte. Habida cuenta de esta...",
-    "date": "2026-09-06T13:00:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hay-capital-europea-que-se-esta-tomando-serio-cambio-climatico-que-esta-haciendo-islas-copenhague",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=990436",
-    "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-    "snippet": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree...",
-    "date": "2026-09-06T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/polestar-4-analisis-review-caracteristicas-precio-especificaciones",
-    "title": "A los mandos del Polestar 4: el coche eléctrico chino con ADN sueco que rompe moldes",
-    "snippet": "No hay preocupaciones. \n\nViajar sin planificación, como si bajo el capó lleváramos un motor de combustión. De los que suenan, vibran y consumen gasolina a casi dos euros/litro. Polestar quiere la experiencia premium para...",
-    "date": "2026-09-06T12:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/polestar-4-analisis-review-caracteristicas-precio-especificaciones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-domingo-6-setiembre-2026-1090629.aspx",
-    "title": "Estas son las normas legales más importantes del domingo 6 de setiembre de 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-09-06T12:19:37",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-domingo-6-setiembre-2026-1090629.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/a-pregunta-cuantos-bares-hay-espana-este-mapa-desmonta-mitos-reafirma-algunos-excesos",
-    "title": "A la pregunta de cuántos bares hay en España, este mapa desmonta mitos y reafirma algunos excesos",
-    "snippet": "¿Cuántos bares hay en España? Muchísimos. ¿Dónde hay más? Probablemente en Madrid, Barcelona o alguna ciudad turística. Sabemos que el verdadero imperio de la caña está en la costa y la montaña. ¿Qué provincia tiene más ...",
-    "date": "2026-09-06T12:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/a-pregunta-cuantos-bares-hay-espana-este-mapa-desmonta-mitos-reafirma-algunos-excesos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/finos-que-moneda-capaces-pegarse-a-cualquier-superficie-asi-ha-avanzado-industria-paneles-solares-flexibles",
-    "title": "Más finos que una moneda y capaces de pegarse a cualquier superficie: así ha avanzado la industria de los paneles solares flexibles",
-    "snippet": "La industria fotovoltaica se encuentra sumida en encontrar formas de mejorar la eficiencia de los paneles solares, pero también en obtener energía de maneras cada vez más versátiles. Aunque no son precisamente los que má...",
-    "date": "2026-09-06T11:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/finos-que-moneda-capaces-pegarse-a-cualquier-superficie-asi-ha-avanzado-industria-paneles-solares-flexibles",
-    "category": "TRIBUTARIO"
   }
 ]
