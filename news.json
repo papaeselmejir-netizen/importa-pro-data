@@ -1,5 +1,203 @@
 [
   {
+    "id": "https://www.theverge.com/?p=993048",
+    "title": "The black iPhone Pro returns",
+    "snippet": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong,...",
+    "date": "2026-09-09T22:37:51",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-inversion-china-peru-supera-los-30-mil-millones-1091125.aspx",
+    "title": "Inversión de China en Perú supera los US$ 30 mil millones",
+    "snippet": "El stock de la inversión china en el Perú, supera los 30 mil millones de dólares, trayendo oportunidades de desarrollo, empleo, ingresos fiscales, superávit comercial y reservas internacionales, sin generar ni un centavo...",
+    "date": "2026-09-09T22:37:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inversion-china-peru-supera-los-30-mil-millones-1091125.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-con-un-gol-martin-odegaard-arsenal-debuta-victoria-la-casa-del-napoli-1091132.aspx",
+    "title": "Con un gol de Martin Odegaard, Arsenal debuta con victoria en la casa del Napoli",
+    "snippet": "El Arsenal, finalista de la pasada edición, arrancó este miércoles la nueva Liga de Campeones de Europa con un triunfo, en un desplazamiento delicado, por 1-0 ante el Nápoles en el estadio Diego Maradona, en la primera j...",
+    "date": "2026-09-09T22:36:14",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-con-un-gol-martin-odegaard-arsenal-debuta-victoria-la-casa-del-napoli-1091132.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4886364",
+    "title": "Apple Is Actually Talking About AI Now — a Lot",
+    "snippet": "New CEO John Ternus says you already have your personal AI device. It’s called an iPhone....",
+    "date": "2026-09-09T22:31:03",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/apple-is-actually-talking-about-ai-now-a-lot/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-moderniza-corpac-para-acompanar-crecimiento-aviacion-comercial-el-pais-1091127.aspx",
+    "title": "Perú moderniza Corpac para acompañar crecimiento de aviación comercial en el país",
+    "snippet": "El Ministerio de Transportes y Comunicaciones viene fortaleciendo las capacidades operativas y tecnológicas de la Corporación Peruana de Aeropuertos y Aviación Comercial (Corpac) para acompañar el crecimiento de la aviac...",
+    "date": "2026-09-09T22:29:12",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-moderniza-corpac-para-acompanar-crecimiento-aviacion-comercial-el-pais-1091127.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=992755",
+    "title": "The incomplete history of Duo devices",
+    "snippet": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and ...",
+    "date": "2026-09-09T22:23:35",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2254400/engadget-podcast-diving-into-the-iphone-duo-iphone-18-pro-and-apple-new-hardware/",
+    "title": "Engadget Podcast: Diving into the iPhone Duo, iPhone 18 Pro and Apple's new hardware",
+    "snippet": "We finally have an Apple foldable, and it looks pretty damn compelling....",
+    "date": "2026-09-09T22:05:38",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2254400/engadget-podcast-diving-into-the-iphone-duo-iphone-18-pro-and-apple-new-hardware/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4888614",
+    "title": "What Is Stuff? All About the Third-Party App Featured During Apple’s Latest Event",
+    "snippet": "Siri AI got a few more details during the iPhone Event, including a tie-in with Stuff. Here’s what the third-party app can do for you....",
+    "date": "2026-09-09T22:02:21",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/what-is-stuff-all-about-the-third-party-app-featured-during-apples-latest-event/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=993005",
+    "title": "It’s the year of smartphone price hikes",
+    "snippet": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the ...",
+    "date": "2026-09-09T21:52:43",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2254389/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/",
+    "title": "iPhone Duo hands-on: Apple's most exciting device in a decade",
+    "snippet": "The iPhone Duo makes a great first impression, I just wish it had three cameras in back....",
+    "date": "2026-09-09T21:49:36",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2254389/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2254380/motorola-teases-new-compact-foldable-razr/",
+    "title": "Motorola teases new compact foldable Razr",
+    "snippet": "Right on cue, Motorola has teased a wide new foldable to compete with the Galaxy Fold 8 and iPhone Duo....",
+    "date": "2026-09-09T21:40:03",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2254380/motorola-teases-new-compact-foldable-razr/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4888698",
+    "title": "IPhone Duo’s Under-Screen Camera: Invisible, but at What Cost?",
+    "snippet": "A camera hiding under Apple’s new folding phone sounds like the future, but comes with compromises too....",
+    "date": "2026-09-09T21:30:24",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-duos-under-screen-camera-invisible-but-at-what-cost/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455180",
+    "title": "Qatar: Ministerio del Interior asegura haber controlado incendio de un buque en cercanías al Puerto de Al Uakra",
+    "snippet": "Por Redacción PortalPortuario / Agencia Europapress @PortalPortuario El Ministerio del Interior de Qatar informó que se logró controlar un incendio\nLa entrada Qatar: Ministerio del Interior asegura haber controlado incen...",
+    "date": "2026-09-09T21:30:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/qatar-ministerio-del-interior-asegura-haber-controlado-incendio-de-un-buque-en-cercanias-al-puerto-de-al-uakra/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=100097",
+    "title": "MYPE manufactureras podrán recibir hasta S/28 500 para proyectos de economía circular",
+    "snippet": "El Ministerio de la Producción (Produce), con el apoyo de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID), lanzó el concurso “Implementa tu Iniciativa Circular”, que busca impulsar a las micro...",
+    "date": "2026-09-09T21:19:00",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/mype-manufactureras-podran-recibir-hasta-s-28-500-para-proyectos-de-economia-circular/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-peru-exportaciones-tradicionales-sumaron-50935-millones-y-crecieron-44-a-julio-1091121.aspx",
+    "title": "Perú: exportaciones tradicionales sumaron US$ 50,935 millones y crecieron 44% a julio",
+    "snippet": "Las exportaciones tradicionales sumaron 50,935 millones de dólares entre enero y julio de este año lo cual implicó un crecimiento de 44% en comparación con lo registrado en igual mes del 2025, informó hoy Adex....",
+    "date": "2026-09-09T21:16:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-peru-exportaciones-tradicionales-sumaron-50935-millones-y-crecieron-44-a-julio-1091121.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4888853",
+    "title": "All iPhones — Not Just the Pro Models — Now Cost $100 More",
+    "snippet": "RAMageddon comes for the iPhone....",
+    "date": "2026-09-09T21:10:59",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/all-iphones-not-just-the-pro-models-now-cost-100-more-2/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3162282",
+    "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+    "snippet": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere....",
+    "date": "2026-09-09T20:58:09",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4887722",
+    "title": "iPhone Duo Memes: The Duolingo Owl Is Hooting Mad That Apple Stole His Name",
+    "snippet": "The new phone will set you back some $1,999, but enjoying the memes is totally free....",
+    "date": "2026-09-09T20:51:29",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/apple-iphone-duo-launch-branding-reaction-memes/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455215",
+    "title": "Puerto San Antonio adjudica fondos concursables 2026 a 77 organizaciones sociales de la comuna",
+    "snippet": "Por PortalPortuario Social Un total de 77 organizaciones sociales de San Antonio fueron beneficiadas con los Fondos Concursables de Puerto\nLa entrada Puerto San Antonio adjudica fondos concursables 2026 a 77 organizacion...",
+    "date": "2026-09-09T20:45:06",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-san-antonio-adjudica-fondos-concursables-2026-a-77-organizaciones-sociales-de-la-comuna/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=992919",
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "snippet": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple...",
+    "date": "2026-09-09T20:44:43",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/eventos/iphone-duo-iphone-18-pro-apple-watch-series-12-apple-watch-ultra-4-airpods-5-todas-novedades-evento-apple",
+    "title": "iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4, AirPods 5 y todas las novedades del evento de Apple",
+    "snippet": "Apple ha cerrado uno de los eventos más importantes de los últimos años con la presentación de su primer iPhone plegable. El dispositivo inaugura una categoría inédita dentro de su catálogo y supone el mayor cambio de fo...",
+    "date": "2026-09-09T20:42:08",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/eventos/iphone-duo-iphone-18-pro-apple-watch-series-12-apple-watch-ultra-4-airpods-5-todas-novedades-evento-apple",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2254316/iphone-duo-vs-samsung-galaxy-z-fold-8-comparison/",
+    "title": "iPhone Duo vs Samsung Galaxy Z Fold 8: here's how they stack up",
+    "snippet": "Apple's first foldable competes well with the Z Fold 8, at least in terms of specs....",
+    "date": "2026-09-09T20:35:46",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2254316/iphone-duo-vs-samsung-galaxy-z-fold-8-comparison/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=455047",
     "title": "Venezuela: Puerto de Maracaibo cierra agosto de 2026 atendiendo un total de 13 buques",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Maracaibo (Venezuela) cerró el mes de agosto con el arribo de 13 buques\nLa entrada Venezuela: Puerto de Maracaibo cierra agosto de 2026 atendiendo un total de 1...",
@@ -11,6 +209,15 @@
   {
     "id": "https://www.cnet.com/rss/news/4888094",
     "title": "Missed the iPhone Duo Reveal? How to Rewatch Apple’s Surprise and Shine Event",
+    "snippet": "The foldable iPhone was the star of today’s show, but we also saw big news for AirPods and the Apple Watch....",
+    "date": "2026-09-09T20:23:54",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/missed-the-iphone-duo-reveal-how-to-rewatch-apples-surprise-and-shine-event/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4888094",
+    "title": "Missed the iPhone Duo Reveal? How to Rewatch Apple’s ‘Surprise and Shine’ Event",
     "snippet": "The foldable iPhone was the star of today’s show, but we also saw big news for AirPods and the Apple Watch....",
     "date": "2026-09-09T20:23:54",
     "source": "CNET",
@@ -191,6 +398,15 @@
   {
     "id": "https://www.cnet.com/rss/news/4887141",
     "title": "The iPhone 18 Pro Max’s Battery Is a Beast, but Save $100 and Stick to Last Year’s Model",
+    "snippet": "Do the math to make sure the upgrade makes sense....",
+    "date": "2026-09-09T19:20:15",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/the-iphone-18-pro-maxs-battery-is-a-beast-but-save-100-and-stick-to-last-years-model/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4887141",
+    "title": "The iPhone 18 Pro Max’s Battery Is a Beast, but Is the Battery Worth the Upgrade?",
     "snippet": "Do the math to make sure the upgrade makes sense....",
     "date": "2026-09-09T19:20:15",
     "source": "CNET",
@@ -380,6 +596,15 @@
   {
     "id": "https://techcrunch.com/?p=3162127",
     "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "snippet": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI....",
+    "date": "2026-09-09T18:08:35",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3162127",
+    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
     "snippet": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI....",
     "date": "2026-09-09T18:08:35",
     "source": "TECHCRUNCH",
@@ -1123,230 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/tajo-segura-acaba-firmar-su-cuarto-mejor-ano-problema-que-quiza-no-vuelva-a-repetirse",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/reserva-ocarina-of-time-remake-este-zelda-clasico-que-viene-edicion-fisica-especial-unidaes-limitadas",
-    "title": "Ya en reserva 'Ocarina of Time': un remake de este Zelda clásico que viene con una edición física especial de unidades limitadas",
-    "snippet": "La saga The Legend of Zelda cuenta con numerosas entregas, y 'Ocarina of Time' es, desde hace ya muchos años, una de las más queridas. Si la disfrutaste en su versión original o, como yo, quieres adentrarte nuevamente en...",
-    "date": "2026-09-09T10:17:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/reserva-ocarina-of-time-remake-este-zelda-clasico-que-viene-edicion-fisica-especial-unidaes-limitadas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/bajon-15h-no-culpa-tuya-ciencia-explica-que-tu-cerebro-se-apaga-cada-tarde",
-    "title": "El bajón de las 15h no es culpa tuya: la ciencia explica por qué tu cerebro se apaga cada tarde",
-    "snippet": "El mayor delito de los teleoperadores que te llaman para venderte sus productos no es que insistan mucho o que a veces hagan caso omiso a la Lista Robinson. Lo peor es que muchos te llaman en pleno bajón fisiológico. A l...",
-    "date": "2026-09-09T10:01:01",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/bajon-15h-no-culpa-tuya-ciencia-explica-que-tu-cerebro-se-apaga-cada-tarde",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2253512/apple-iphone-ultra-event-live-blog-updates-iphone-18-pro-apple-watch/",
-    "title": "Apple event 2026 live: Will we see the foldable iPhone Ultra or Duo at today's 'Surprise and shine' keynote?",
-    "snippet": "Computer (rumors) says yes. The iPhone 18 Pro and Apple Watch Series 12 are also expected today....",
-    "date": "2026-09-09T10:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2253512/apple-iphone-ultra-event-live-blog-updates-iphone-18-pro-apple-watch/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/2-000-ordenadores-estuvieron-23-anos-granero-su-dueno-empezo-a-venderlos-ebay-ahora-ha-montado-su-propia-tienda",
-    "title": "Más de 2.000 ordenadores estuvieron 23 años en un granero. Su dueño empezó a venderlos en eBay y ahora ha montado su propia tienda",
-    "snippet": "Hace 23 años James Pellegrini, un ingeniero de Massachusetts, le pidió a su vecino si podía guardar unas cosas en su granero. Las cosas en cuestión eran nada menos que 2.200 ordenadores NABU que había comprado con la ide...",
-    "date": "2026-09-09T09:31:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/2-000-ordenadores-estuvieron-23-anos-granero-su-dueno-empezo-a-venderlos-ebay-ahora-ha-montado-su-propia-tienda",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/canada-acaba-descubrir-isla-que-no-figuraba-ningun-mapa-problema-que-luego-desaparecio-reaparecio-32-km-lejos",
-    "title": "Canadá acaba de descubrir una isla que no estaba en los mapas. El problema es que luego desapareció… y ha reaparecido 32 km más lejos",
-    "snippet": "La historia comenzó hace unos días como uno de esos vídeos de Internet demasiado extraños para ser ciertos: una isla cubierta de árboles había aparecido en mitad del gigantesco embalse Williston, en la Columbia Británica...",
-    "date": "2026-09-09T09:31:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/canada-acaba-descubrir-isla-que-no-figuraba-ningun-mapa-problema-que-luego-desaparecio-reaparecio-32-km-lejos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/calor-que-desprende-tu-coche-se-pudiera-convertir-frio-para-tu-casa-verano-estos-cientificos-han-encontrado-manera-hacerlo-electricidad",
-    "title": "¿Y si el calor que desprende tu coche se pudiera convertir en frío para tu casa en verano? Estos científicos han encontrado una manera de hacerlo (y sin electricidad)",
-    "snippet": "Usar el calor que sobra para producir frío. Aunque parezca magia, hoy estamos un paso más cerca de hacerlo realidad. Los investigadores del Instituto Tecnológico de Karlsruhe en Alemania y de la Universidad de Tsukuba en...",
-    "date": "2026-09-09T09:01:01",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/calor-que-desprende-tu-coche-se-pudiera-convertir-frio-para-tu-casa-verano-estos-cientificos-han-encontrado-manera-hacerlo-electricidad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2253557/the-foldable-iphone-will-reportedly-be-called-duo-and-cost-2000/",
-    "title": "The foldable iPhone will reportedly be called 'Duo' and cost $2,000",
-    "snippet": "Apple's foldable iPhone may not be called the 'Fold' or 'Ultra' as was expected....",
-    "date": "2026-09-09T08:39:59",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2253557/the-foldable-iphone-will-reportedly-be-called-duo-and-cost-2000/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/precio-combustible-aviacion-esta-roto-asi-que-ryanair-ha-hecho-que-se-le-esperaba-recortar-vuelos",
-    "title": "El precio del combustible de aviación está roto, así que Ryanair ha hecho lo que se le esperaba: recortar vuelos",
-    "snippet": "Partiendo de la base de que las aerolíneas están haciendo malabares para seguir generando ingresos mientras hay un conflicto bélico en Oriente Medio que se está cargando la cadena de suministro de petróleo en todo el mun...",
-    "date": "2026-09-09T08:31:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/precio-combustible-aviacion-esta-roto-asi-que-ryanair-ha-hecho-que-se-le-esperaba-recortar-vuelos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/leroy-merlin-soluciona-uno-problemas-comunes-casa-este-tipo-enchufe-que-carga-varios-dispositivos-a-vez",
-    "title": "Leroy Merlin soluciona uno de los problemas más comunes en casa con este tipo de enchufe que carga varios dispositivos a la vez",
-    "snippet": "Llegar a casa y encontrarte con que todas las tomas de corriente de la mesita de noche o del escritorio están ocupadas es uno de los principales dramas hoy en día en cualquier hogar. Entre el cargador del móvil, el del r...",
-    "date": "2026-09-09T08:17:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/leroy-merlin-soluciona-uno-problemas-comunes-casa-este-tipo-enchufe-que-carga-varios-dispositivos-a-vez",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
-    "title": "Cómo te verías en los 80: cómo crear tu foto ochentera usando ChatGPT paso a paso",
-    "snippet": "Vamos a decirte cómo crear una imagen tuya vestido o vestida como en los 80 para sumarte a la tendencia viral de redes sociales. ChatGPT ha lanzado un filtro en su creador de imágenes por inteligencia artificial con el q...",
-    "date": "2026-09-09T08:16:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/pensabamos-que-estabamos-protegiendo-oceanos-ciencia-dice-que-apenas-estamos-haciendo",
-    "title": "Pensábamos que estábamos protegiendo los océanos. La ciencia dice que apenas lo estamos haciendo",
-    "snippet": "Una de las tareas que tenemos como humanidad que está habitando este planeta, sin duda, es respetar todos los recursos que tenemos a nuestra disposición, y los mares son uno de estos. Y aunque proteger los océanos es una...",
-    "date": "2026-09-09T08:01:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/pensabamos-que-estabamos-protegiendo-oceanos-ciencia-dice-que-apenas-estamos-haciendo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/mark-gurman-filtra-precios-nuevos-iphone-a-horas-keynote-apple-absorbera-gran-parte-crisis-ram",
-    "title": "Mark Gurman filtra los precios de los nuevos iPhone a horas de la Keynote: Apple absorberá gran parte de la crisis de RAM",
-    "snippet": "Esta tarde a las 19:00 hora española se celebra uno de los eventos más importantes para Apple en los últimos años. No sólo es el primero de su nuevo CEO, John Ternus, también será el escenario en el que anuncien el antic...",
-    "date": "2026-09-09T07:47:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/mark-gurman-filtra-precios-nuevos-iphone-a-horas-keynote-apple-absorbera-gran-parte-crisis-ram",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/unas-imagenes-satelite-han-revelado-complejo-desconocido-neom-lujoso-que-solo-puede-ser-para-persona",
-    "title": "Unas imágenes por satélite han revelado un complejo desconocido en Neom. Es tan lujoso que solo puede ser para una persona",
-    "snippet": "Lo último que supimos sobre Neom era posiblemente lo que más se alejaba del ambicioso proyecto que tiene entre manos Arabia Saudita. La propuesta de ciudad futurista no se tratará exclusivamente de hoteles de lujo y rasc...",
-    "date": "2026-09-09T07:31:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/unas-imagenes-satelite-han-revelado-complejo-desconocido-neom-lujoso-que-solo-puede-ser-para-persona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/iphone-plegable-se-llamara-iphone-duo-e-incluira-soporte-para-apple-pencil-bloomberg-ahora-ipad-que",
-    "title": "El iPhone plegable se llamará iPhone Duo e incluirá soporte para el Apple Pencil, según Bloomberg. Y ahora el iPad qué",
-    "snippet": "iPhone Duo. No sé a vosotros, pero a mí de primeras me parece rarito y me recuerda instantáneamente a aquel otro Duo que fracasó estrepitosamente no una, sino un dúo de veces. Pero al menos en Bloomberg tienen claro que ...",
-    "date": "2026-09-09T07:08:40",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/iphone-plegable-se-llamara-iphone-duo-e-incluira-soporte-para-apple-pencil-bloomberg-ahora-ipad-que",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/china-prepara-salto-masivo-infraestructura-para-ia-quieren-cuadruplicar-su-capacidad-computo-para-2030",
-    "title": "China prepara un salto masivo de infraestructura para IA: quieren cuadruplicar su capacidad de cómputo para 2030",
-    "snippet": "Aunque EEUU siga a la cabeza en varios frentes, China ha demostrado ser un rival más que capaz de plantarles cara e incluso poder llegar a adelantarles en la carrera de la IA. Para lograrlo, el gobierno chino puso en mar...",
-    "date": "2026-09-09T07:01:01",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/china-prepara-salto-masivo-infraestructura-para-ia-quieren-cuadruplicar-su-capacidad-computo-para-2030",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/lidl-tiene-rebajada-hoy-esta-lampara-escritorio-que-no-ocupa-espacio-cuesta-7-euros",
-    "title": "Lidl tiene rebajada hoy esta lámpara de escritorio que no ocupa espacio y cuesta menos de 7 euros",
-    "snippet": "Si estás buscando una solución de iluminación práctica para tu zona de trabajo, mesita de noche o rincón de lectura sin sacrificar espacio en la mesa, Lidl tiene una de las ofertas más interesantes del día. Esta lámpara ...",
-    "date": "2026-09-09T06:47:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/lidl-tiene-rebajada-hoy-esta-lampara-escritorio-que-no-ocupa-espacio-cuesta-7-euros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/aviones-carga-pasan-demasiado-tiempo-esperando-tierra-poseidon-quiere-eliminar-ese-problema-raiz",
-    "title": "Los aviones de carga pasan demasiado tiempo esperando en tierra. Poseidon quiere eliminar ese problema de raíz",
-    "snippet": "Un avión de carga no deja de ser un activo caro cuando aterriza. Puede seguir teniendo mercancía por mover y una ruta por cubrir, pero su operación depende de una larga lista de condicionantes: demanda, mantenimiento, ho...",
-    "date": "2026-09-09T06:31:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/aviones-carga-pasan-demasiado-tiempo-esperando-tierra-poseidon-quiere-eliminar-ese-problema-raiz",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3161705",
-    "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-    "snippet": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster....",
-    "date": "2026-09-09T06:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=991884",
-    "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-    "snippet": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. ...",
-    "date": "2026-09-09T05:26:53",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=454894",
-    "title": "Autoridades de Alaska destacan proyecto que moverá minerales por Puerto de Nome",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Autoridades de Alaska destacaron el proyecto Graphite Creek, una iniciativa minera que moverá minerales de grafito\nLa entrada Autoridades de Alaska destacan proyecto que mov...",
-    "date": "2026-09-09T05:00:06",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ssss/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-nueva-ruta-aerea-cusco-sao-paulo-movilizara-mas-48000-pasajeros-2027-1091014.aspx",
-    "title": "Nueva ruta aérea Cusco - Sao Paulo movilizará más de 48,000 pasajeros en 2027",
-    "snippet": "La nueva ruta aérea internacional Cusco – Sao Paulo movilizará más de 48,000 pasajeros durante el 2027, generando nuevas oportunidades económicas a la región cuzqueña, prevé el Ministerio de Transportes y Comunicaciones ...",
-    "date": "2026-09-09T04:32:39",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-nueva-ruta-aerea-cusco-sao-paulo-movilizara-mas-48000-pasajeros-2027-1091014.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-peru-y-espana-refuerzan-sus-vinculos-cooperacion-y-dialogo-1091011.aspx",
-    "title": "Perú y España refuerzan sus vínculos de cooperación y diálogo",
-    "snippet": "Esta mañana, en la sede del Ministerio de Relaciones Exteriores, se realizó el XI Mecanismo de Consultas Políticas entre el Perú y España, presidido por el Viceministro de Relaciones Exteriores del Perú,Eric Anderson Mac...",
-    "date": "2026-09-09T04:12:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-peru-y-espana-refuerzan-sus-vinculos-cooperacion-y-dialogo-1091011.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-advierten-sobre-riesgos-instalacion-indebida-letreros-cerca-redes-electricas-1091009.aspx",
-    "title": "Advierten sobre riesgos por instalación indebida de letreros cerca de redes eléctricas",
-    "snippet": "Ante el incremento de propaganda en la vía pública con motivo de las elecciones municipales y regionales de octubre, Luz del Sur alertó a la ciudadanía sobre el peligro que representa la instalación de carteles, paneles ...",
-    "date": "2026-09-09T03:57:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-advierten-sobre-riesgos-instalacion-indebida-letreros-cerca-redes-electricas-1091009.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455009",
-    "title": "Industria naviera del Reino Unido crea coalición para impulsar combustibles marítimos alternativos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La UK Chamber of Shipping y la Cruise Lines International Association (CLIA) anunciaron la creación de\nLa entrada Industria naviera del Reino Unido crea coalición para impul...",
-    "date": "2026-09-09T03:34:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/industria-naviera-del-reino-unido-crea-coalicion-para-impulsar-combustibles-maritimos-alternativos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-produce-advierte-impacto-de-nino-pesca-y-anuncia-medidas-para-pescadores-1090995.aspx",
-    "title": "Produce advierte impacto de El Niño en pesca y anuncia medidas para pescadores",
-    "snippet": "El ministro de la Producción, Juan Carlos Requejo, advirtió que el fenómeno El Niño ya genera impactos en la actividad pesquera y anunció medidas para proteger a pescadores y productores afectados, durante su presentació...",
-    "date": "2026-09-09T03:28:10",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-produce-advierte-impacto-de-nino-pesca-y-anuncia-medidas-para-pescadores-1090995.aspx",
-    "category": "MERCADO"
   }
 ]
