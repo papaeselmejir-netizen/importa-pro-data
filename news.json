@@ -1,5 +1,338 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3162784",
+    "title": "Amazon makes it easier to buy what you see on Prime Video",
+    "snippet": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene”...",
+    "date": "2026-09-10T18:10:36",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/google-se-gasta-13-000-millones-euros-finlandia-se-asegura-su-propia-central-nuclear-para-no-quedarse-electricidad",
+    "title": "Google se gasta 13.000 millones de euros en Finlandia y se asegura su propia central nuclear para no quedarse sin electricidad",
+    "snippet": "Google acaba de hacer su mayor apuesta por Europa en materia de centros de datos. Y es que la compañía anunció el miércoles que invertirá al menos 13.000 millones de euros en Finlandia durante los próximos dos años con l...",
+    "date": "2026-09-10T18:01:01",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/google-se-gasta-13-000-millones-euros-finlandia-se-asegura-su-propia-central-nuclear-para-no-quedarse-electricidad",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fenomeno-nino-estos-son-los-servicios-podran-ejecutarse-via-obras-impuestos-1091245.aspx",
+    "title": "Fenómeno El Niño: estos son los servicios que podrán ejecutarse vía Obras por Impuestos",
+    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC) aprobó la relación de servicios que podrán ejecutarse bajo el régimen excepcional de Obras por Impuestos (OxI) para atender acciones de prevención, preparación, respues...",
+    "date": "2026-09-10T17:49:54",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fenomeno-nino-estos-son-los-servicios-podran-ejecutarse-via-obras-impuestos-1091245.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-atu-presenta-acho-primer-paradero-modernizado-conecta-corredores-azul-y-morado-1091247.aspx",
+    "title": "ATU presenta en Acho el primer paradero modernizado que conecta corredores Azul y Morado",
+    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) presentó la renovada infraestructura del paradero Acho, que se convierte en el primer paradero de interconexión modernizado de la ciudad para los corredores Azul...",
+    "date": "2026-09-10T17:49:14",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-atu-presenta-acho-primer-paradero-modernizado-conecta-corredores-azul-y-morado-1091247.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3162605",
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "snippet": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper....",
+    "date": "2026-09-10T17:45:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
+    "title": "Me he leído el estudio de Anthropic sobre el impacto de la IA en la economía y he llegado a una conclusión: voy a tener que estudiar fontanería",
+    "snippet": "Si eres programador, diseñador, financiero o estás en el gremio de los periodistas como yo, quizás deberías empezar a preocuparte. Un estudio económico publicado por Anthropic explora qué puede pasar en el mundo del empl...",
+    "date": "2026-09-10T17:31:01",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455367",
+    "title": "Países Bajos: Konecranes alcanza hito de 1.000 AGV en APM Terminals Maasvlakte II",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Konecranes y APM Terminals Maasvlakte II celebraron la entrega oficial del vehículo guiado automáticamente (AGV) número\nLa entrada Países Bajos: Konecranes alcanza hito de 1...",
+    "date": "2026-09-10T17:30:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/paises-bajos-konecranes-alcanza-hito-de-1-000-agv-en-apm-terminals-maasvlakte-ii/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-onp-iniciara-este-lunes-pago-pensiones-a-domicilio-conoce-cronograma-entrega-1091242.aspx",
+    "title": "ONP iniciará este lunes pago de pensiones a domicilio: conoce el cronograma de entrega",
+    "snippet": "La Oficina de Normalización Previsional (ONP), organismo adscrito al Ministerio de Economía y Finanzas (MEF), informó que, a través del Banco de la Nación, llevará las pensiones directamente a los hogares de 10,171 pensi...",
+    "date": "2026-09-10T17:17:22",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-onp-iniciara-este-lunes-pago-pensiones-a-domicilio-conoce-cronograma-entrega-1091242.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/mazda-cx-6e-opiniones-primera-toma-contacto-fotos",
+    "title": "El Mazda CX-6e me ha hecho preguntarme algo que nunca hubiera pensado: ¿y si a Mazda le conviene traicionarse?",
+    "snippet": "Es posible que hayas escuchado esta historia pero, por si todavía no lo sabías, te la cuento porque es importante para entender por qué una empresa japonesa con algunas de las señas de identidad más arraigadas de la indu...",
+    "date": "2026-09-10T17:17:01",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/mazda-cx-6e-opiniones-primera-toma-contacto-fotos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4891673",
+    "title": "Bye-Bye, iPad. The iPhone Duo Could Be the All-in-One You Need",
+    "snippet": "Apple’s new foldable phone may make you think twice about how many devices you have....",
+    "date": "2026-09-10T17:16:42",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/bye-bye-ipad-the-iphone-duo-could-be-the-all-in-one-you-need/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "CBMinAJBVV95cUxPMzBxSER0Tlp6VXc1SU1JT2pzRW5vZUl1TXBtTnVMSXdENUpRVVBaWWVFOUdVUjgtWDdNRF9wRFFKcnQ1Y1ZPOUpqQWxKR0FfZzV3NzN6LUV6cWFqRGF4SUlxMnBWMEpnNjgzWF9ueUxWVjFOMm1MNXlWdGdLOTVzbmk5SXI2NmUxcmFZSXJ4Z0ZzOVcxZXJZOW5hYlJnRDBBOUVvRWpGNldqbnd6ZE0yb0dBMHprZ20zYUJFWl9jSEJWaUFzV2lNSTVMaldUUElJLUFoRFNCeGRQX3IwZlBwT29nWU5nd21paGZDMFl4aURGV1gxeWt6MHFwWU5vRE13VzJGNmJKQU50aU5wdl9wU2hSZUJJSHhtVTFPYQ",
+    "title": "El Indecopi impulsa plataforma virtual internacional para que consumidores reporten prácticas engañosas o fraudulentas transfronterizas - gob.pe",
+    "snippet": "El Indecopi impulsa plataforma virtual internacional para que consumidores reporten prácticas engañosas o fraudulentas transfronterizas  gob.pe...",
+    "date": "2026-09-10T17:01:31",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMzBxSER0Tlp6VXc1SU1JT2pzRW5vZUl1TXBtTnVMSXdENUpRVVBaWWVFOUdVUjgtWDdNRF9wRFFKcnQ1Y1ZPOUpqQWxKR0FfZzV3NzN6LUV6cWFqRGF4SUlxMnBWMEpnNjgzWF9ueUxWVjFOMm1MNXlWdGdLOTVzbmk5SXI2NmUxcmFZSXJ4Z0ZzOVcxZXJZOW5hYlJnRDBBOUVvRWpGNldqbnd6ZE0yb0dBMHprZ20zYUJFWl9jSEJWaUFzV2lNSTVMaldUUElJLUFoRFNCeGRQX3IwZlBwT29nWU5nd21paGZDMFl4aURGV1gxeWt6MHFwWU5vRE13VzJGNmJKQU50aU5wdl9wU2hSZUJJSHhtVTFPYQ?oc=5",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/parecia-que-calor-fin-se-marchaba-espana-mapas-dicen-contrario-vuelve-fuerza",
+    "title": "El verano se niega a marcharse de España y ya hay una nueva subida de temperaturas en camino",
+    "snippet": "Tras un inicio de septiembre marcado por el calor intenso, las masas de aire seco con polvo en suspensión y termómetros que han coqueteado con los 40 ºC en varias zonas, muchos miraban al ecuador del mes esperando el ans...",
+    "date": "2026-09-10T17:01:01",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/parecia-que-calor-fin-se-marchaba-espana-mapas-dicen-contrario-vuelve-fuerza",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455372",
+    "title": "Consejo de Coordinación Ciudad Puerto revisa avances de proyectos estratégicos para Valparaíso",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Proyectos e iniciativas clave para el desarrollo del borde costero de Valparaíso fueron parte de la\nLa entrada Consejo de Coordinación Ciudad Puerto revisa avances de proyec...",
+    "date": "2026-09-10T17:00:47",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/consejo-de-coordinacion-ciudad-puerto-revisa-avances-de-proyectos-estrategicos-para-valparaiso/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo#0",
+    "title": "Labour mayors in England vow to cap tourist tax at 5%",
+    "snippet": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays....",
+    "date": "2026-09-10T16:59:38",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=993455",
+    "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
+    "snippet": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you u...",
+    "date": "2026-09-10T16:58:44",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/energia/barrio-maradona-sufre-apagones-su-apuesta-para-evitarlos-134-paneles-solares-conectados-directamente-a-red",
+    "title": "El barrio de Maradona sufre apagones. Su apuesta para evitarlos: 134 paneles solares conectados directamente a la red",
+    "snippet": "En Villa Fiorito, ya no son uno sino dos los astros a los que este barrio de Buenos Aires rinde pleitesía. El primero, obviamente, es Diego Armando Maradona, estrella del fútbol mundial y semidiós nacional (e internacion...",
+    "date": "2026-09-10T16:47:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/energia/barrio-maradona-sufre-apagones-su-apuesta-para-evitarlos-134-paneles-solares-conectados-directamente-a-red",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-iphone-duo-vs-galaxy-z-fold8-camaras-ia-y-diseno-los-nuevos-plegables-1091237.aspx",
+    "title": "iPhone Duo vs Galaxy Z Fold8: cámaras, IA y diseño de los nuevos plegables",
+    "snippet": "Apple y Samsung refuerzan su apuesta por los teléfonos plegables con dos propuestas orientadas al entretenimiento, la productividad y la creación de contenido. El iPhone Duo y el Galaxy Z Fold8 marcan la competencia por ...",
+    "date": "2026-09-10T16:46:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-iphone-duo-vs-galaxy-z-fold8-camaras-ia-y-diseno-los-nuevos-plegables-1091237.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cienciano-vs-montevideo-city-torque-hora-y-canal-para-ver-al-papa-copa-sudamericana-1091218.aspx",
+    "title": "Cienciano vs. Montevideo City Torque: Hora y canal para ver al 'Papá' en Copa Sudamericana",
+    "snippet": "Cienciano se enfrentará a Montevideo City Torque por la ida de los cuartos de final de la Copa Sudamericana en el Estadio Inca Garcilaso de la Vega, donde el 'Papá' espera hacer respetar su localía en el Cusco y consegui...",
+    "date": "2026-09-10T16:45:22",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cienciano-vs-montevideo-city-torque-hora-y-canal-para-ver-al-papa-copa-sudamericana-1091218.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455379",
+    "title": "Puerto de Barranquilla obtiene autorización OEA",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Barranquilla alcanzó un nuevo hito al ser autorizado por la Dirección de Impuestos\nLa entrada Puerto de Barranquilla obtiene autorización OEA se publicó primero...",
+    "date": "2026-09-10T16:34:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-barranquilla-obtiene-autorizacion-oea/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-senadora-matute-vamos-a-dar-todas-las-facultades-requieran-para-hacer-su-trabajo-1091228.aspx",
+    "title": "Senadora Matute: “Vamos a dar todas las facultades que requieran para hacer su trabajo”",
+    "snippet": "La senadora del Partido del Buen Gobierno (PBG), Susana Matute, señaló que su bancada es de la opinión de otorgar\ntodas las facultades que requiera el Ejecutivo para hacer su trabajo, en tanto se cumpla con los requerimi...",
+    "date": "2026-09-10T16:34:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-senadora-matute-vamos-a-dar-todas-las-facultades-requieran-para-hacer-su-trabajo-1091228.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=100129",
+    "title": "Precio del dólar en Perú hoy, 10 de setiembre de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este jueves 10 de setiembre a las 11:30 a. m. se sitúa en S/3.351 para la compra y S/3.360 para ...",
+    "date": "2026-09-10T16:31:23",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-10-de-setiembre-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/vecinos-no-pueden-barrio-badajoz-se-ha-declarado-guerra-palomas",
+    "title": "\"Los vecinos ya no pueden más\": un barrio de Badajoz se ha declarado en guerra contra las palomas",
+    "snippet": "Josefa González Moreno friega su alfombra de entrada cada dos días porque, al pisar la calle, se lleva los excrementos de paloma hasta dentro de casa. En la esquina de Bravo Murillo y Benegas, en el Casco Antiguo de Bada...",
+    "date": "2026-09-10T16:31:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/vecinos-no-pueden-barrio-badajoz-se-ha-declarado-guerra-palomas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-pucallpa-estiman-misa-celebrara-papa-videnita-tendra-200-mil-espectadores-1091226.aspx",
+    "title": "Pucallpa: estiman que misa que celebrará el Papa en 'Videnita' tendrá 200 mil espectadores",
+    "snippet": "Las autoridades regionales y eclesiásticas de Pucallpa continúan con los preparativos para la visita a esta jurisdicción del papa León XIV, previendo a la ceremonia eucarística que este realizará una concurrencia de apro...",
+    "date": "2026-09-10T16:29:11",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-pucallpa-estiman-misa-celebrara-papa-videnita-tendra-200-mil-espectadores-1091226.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/carrefour-liquida-esta-tele-miniled-75-pulgadas-google-tv-ideal-para-salones-grandes",
+    "title": "Carrefour liquida esta tele MiniLED de 75 pulgadas con Google TV, ideal para salones grandes",
+    "snippet": "Encontrar una pantalla de gran diagonal que no sacrifique calidad de imagen suele implicar presupuestos de cuatro cifras. Sin embargo, TCL ha conseguido afianzarse en el mercado como una de las referencias para quienes b...",
+    "date": "2026-09-10T16:17:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/carrefour-liquida-esta-tele-miniled-75-pulgadas-google-tv-ideal-para-salones-grandes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/estados-unidos-acaba-ensayar-su-primera-guerra-galaxias-real-no-ha-estado-sola",
+    "title": "Estados Unidos acaba de ensayar su primera Guerra de las Galaxias real. Y no ha estado sola",
+    "snippet": "Si pensamos en batallas en el espacio, nos viene inevitablemente a la mente la Guerra de las Galaxias. Es ficción, por suerte, pero la realidad es que los conflictos bélicos están ya bastante cerca de sobrepasar las fron...",
+    "date": "2026-09-10T16:01:01",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/estados-unidos-acaba-ensayar-su-primera-guerra-galaxias-real-no-ha-estado-sola",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3162536",
+    "title": "Google is making it easier to switch between password managers on Android",
+    "snippet": "Google's new feature will transfer your passkeys as well....",
+    "date": "2026-09-10T16:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=993341",
+    "title": "Electric air taxis get the green light for test flights in Texas",
+    "snippet": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, t...",
+    "date": "2026-09-10T16:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=993465",
+    "title": "Universal Music is launching an AI music platform with ElevenLabs",
+    "snippet": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thur...",
+    "date": "2026-09-10T15:38:19",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/pueblo-valencia-ofrece-vivienda-300-euros-al-mes-piscina-pleno-bosque-gimnasio-para-captar-vecinos",
+    "title": "Un pueblo de Valencia ofrece vivienda por 300 euros al mes, piscina en pleno bosque y gimnasio para captar vecinos",
+    "snippet": "Sí, es real y las condiciones son excelentes. Zarra, municipio del interior de Valencia con 374 vecinos censados, tiene viviendas municipales en alquiler por menos de 300 euros al mes, y varias familias ya se mudaron a a...",
+    "date": "2026-09-10T15:31:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/pueblo-valencia-ofrece-vivienda-300-euros-al-mes-piscina-pleno-bosque-gimnasio-para-captar-vecinos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/no-estamos-1990-neogeo-aes-era-cosas-que-esperaba-este-ano-habra-que-seguir-esperando-diez-meses",
+    "title": "No estamos en 1990, pero NeoGeo AES+ era una de las cosas que más esperaba este año. Tendré que esperar diez meses más",
+    "snippet": "Plaion lleva tiempo trayendo réplicas de consolas retro tan interesantes como el Spectrum, The 400, la Atari 2600 o el Commodore 64. Vienen con juegos integrados y con elementos funcionales como puede ser el teclado para...",
+    "date": "2026-09-10T15:17:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/no-estamos-1990-neogeo-aes-era-cosas-que-esperaba-este-ano-habra-que-seguir-esperando-diez-meses",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455362",
+    "title": "Terminal Pacífico Sur y Santiago Wanderers renuevan su alianza hasta 2028",
+    "snippet": "Por PortalPortuario Social Terminal Pacífico Sur (TPS) y Santiago Wanderers anunciaron la renovación de su alianza para las temporadas 2027\nLa entrada Terminal Pacífico Sur y Santiago Wanderers renuevan su alianza hasta ...",
+    "date": "2026-09-10T15:12:14",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/terminal-pacifico-sur-y-santiago-wanderers-renuevan-su-alianza-hasta-2028/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/iphone-duo-movil-plegable-baza-ningun-otro-tiene-software",
+    "title": "El iPhone Duo es un móvil plegable con una baza ningún otro tiene: el software",
+    "snippet": "Apple acaba de presentar, según palabras del nuevo CEO John Ternus, el iPhone más revolucionario desde el lanzamiento de la primera generación allá por 2007. El iPhone Duo es el primer móvil plegable de la compañía, uno ...",
+    "date": "2026-09-10T15:01:01",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/iphone-duo-movil-plegable-baza-ningun-otro-tiene-software",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455272",
+    "title": "Puerto de Los Ángeles registra el mejor trimestre de su historia en manejo de carga",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Los Ángeles procesó 955.907 TEU en agosto, culminando así los tres meses consecutivos\nLa entrada Puerto de Los Ángeles registra el mejor trimestre de su histori...",
+    "date": "2026-09-10T15:00:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-los-angeles-registra-el-mejor-trimestre-de-su-historia-en-manejo-de-carga/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2254785/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/",
+    "title": "Nintendo's latest sale is 'made possible' by the tariff refunds it's hoarding",
+    "snippet": "Another way to appreciate customers might be returning their money....",
+    "date": "2026-09-10T15:00:56",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2254785/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=988579",
+    "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+    "snippet": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Ser...",
+    "date": "2026-09-10T15:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455354",
+    "title": "Módulo “Embarque efectivo” facilitará información sobre contenedores de exportación despachados en San Vicente",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Facilitar el acceso oportuno a información sobre los contenedores embarcados en el Puerto de San Vicente,\nLa entrada Módulo “Embarque efectivo” facilitará información sobre ...",
+    "date": "2026-09-10T14:54:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/modulo-embarque-efectivo-facilitara-informacion-sobre-contenedores-de-exportacion-embarcados-en-san-vicente/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2254767/the-iphone-duo-might-just-live-up-to-the-hype/",
+    "title": "The iPhone Duo just might live up to the hype",
+    "snippet": "Despite all the build-up and all the scrutiny, Apple's first foldable phone looks solid....",
+    "date": "2026-09-10T14:53:27",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2254767/the-iphone-duo-might-just-live-up-to-the-hype/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367102/mainland-chinese-pay-tribute-tung-chee-hwa-opening-door-hong-kong?utm_source=rss_feed",
     "title": "Mainland Chinese pay tribute to Tung Chee-hwa for opening door to Hong Kong",
     "snippet": "Mainland Chinese have paid tribute to Hong Kong’s first chief executive, the late Tung Chee-hwa, for introducing a solo-travel scheme more than two decades ago that opened the city to millions of travellers and created i...",
@@ -11,6 +344,15 @@
   {
     "id": "https://www.xataka.com/movilidad/italia-anade-lamborghini-temerario-a-su-flota-policial-que-no-se-usara-para-perseguir-crimen-literalmente-vale-rinon",
     "title": "Italia añade un Lamborghini Temerario a su flota policial que no se usará para perseguir el crimen: literalmente, vale un riñón",
+    "snippet": "No todos los días un Ministro del Interior de Italia y toda la plana mayor de la Policía Estatal Italiana visitan la sede de Lamborghini, en Sant'Agata Bolognese para no perderse la entrega de llaves de un coche. No era ...",
+    "date": "2026-09-10T14:47:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/italia-anade-lamborghini-temerario-a-su-flota-policial-que-no-se-usara-para-perseguir-crimen-literalmente-vale-rinon",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/italia-anade-lamborghini-temerario-a-su-flota-policial-que-no-se-usara-para-perseguir-crimen-literalmente-vale-rinon",
+    "title": "Italia añade un Lamborghini Temerario a su flota policial pero no se usará para perseguir el crimen: literalmente, vale un riñón",
     "snippet": "No todos los días un Ministro del Interior de Italia y toda la plana mayor de la Policía Estatal Italiana visitan la sede de Lamborghini, en Sant'Agata Bolognese para no perderse la entrega de llaves de un coche. No era ...",
     "date": "2026-09-10T14:47:00",
     "source": "XATAKA",
@@ -38,6 +380,15 @@
   {
     "id": "https://www.xataka.com/magnet/guardia-civil-perseguia-a-ladron-tejados-pueblo-toledo-entonces-saco-baston-estoque",
     "title": "La Guardia Civil perseguía a un ladrón por los tejados de un pueblo de Toledo. Entonces sacó un bastón-estoque",
+    "snippet": "Ocurrió el 30 de agosto, aunque la Guardia Civil no lo hizo público hasta el 9 de septiembre. La central de alarmas avisó de un robo en curso en una vivienda de Corral de Almaguer (Toledo). Una patrulla de la Guardia Civ...",
+    "date": "2026-09-10T14:31:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/guardia-civil-perseguia-a-ladron-tejados-pueblo-toledo-entonces-saco-baston-estoque",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/guardia-civil-perseguia-a-ladron-tejados-pueblo-toledo-entonces-saco-baston-estoque",
+    "title": "Un ladrón huyó por los tejados de un pueblo de Toledo. Cuando la Guardia Civil lo acorraló, sacó un bastón-estoque",
     "snippet": "Ocurrió el 30 de agosto, aunque la Guardia Civil no lo hizo público hasta el 9 de septiembre. La central de alarmas avisó de un robo en curso en una vivienda de Corral de Almaguer (Toledo). Una patrulla de la Guardia Civ...",
     "date": "2026-09-10T14:31:00",
     "source": "XATAKA",
@@ -675,6 +1026,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://www.cnet.com/rss/news/4889421",
+    "title": "Apple Didn’t Make a New iPhone Air This Year. This May Be Why",
+    "snippet": "More affordable options, like a possible iPhone Air 2, were not on Apple’s 2026 roster....",
+    "date": "2026-09-10T00:24:11",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/the-iphone-air-2-wasnt-announced-heres-why-thats-bad-for-apple-buyers/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c7v4lq969llo#0",
     "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
     "snippet": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years....",
@@ -705,6 +1065,15 @@
     "id": "https://www.cnet.com/rss/news/4889370",
     "title": "Not Every Feature Apple Announced Is Ready to Go. Here’s When to Expect Them All",
     "snippet": "Some of the most interesting features won’t ship with the iPhone Duo, iPhone 18 Pro, Apple Watch Series 12 and Ultra 4....",
+    "date": "2026-09-09T23:48:22",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/apple-2026-hardware-and-feature-release-dates-2/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4889370",
+    "title": "Apple Announced Some Features That Won’t Be Available This Month. Here’s When to Expect Them All",
+    "snippet": "Trying to get your hands on the iPhone Duo or test out Live Rewind on the Apple Watch? You’ll have to wait a bit....",
     "date": "2026-09-09T23:48:22",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/mobile/apple-2026-hardware-and-feature-release-dates-2/",
@@ -979,374 +1348,5 @@
     "source": "CNET",
     "url": "https://www.cnet.com/tech/mobile/missed-the-iphone-duo-reveal-how-to-rewatch-apples-surprise-and-shine-event/",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4888094",
-    "title": "Missed the iPhone Duo Reveal? How to Rewatch Apple’s ‘Surprise and Shine’ Event",
-    "snippet": "The foldable iPhone was the star of today’s show, but we also saw big news for AirPods and the Apple Watch....",
-    "date": "2026-09-09T20:23:54",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/missed-the-iphone-duo-reveal-how-to-rewatch-apples-surprise-and-shine-event/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455096",
-    "title": "Colombia: Ecopetrol exporta las primeras 2.100 toneladas de azufre sólido a Sudamérica y África",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Ecopetrol exportó las primeras 2.100 toneladas de azufre sólido a granel a Brasil, Perú y Tanzania,\nLa entrada Colombia: Ecopetrol exporta las primeras 2.100 toneladas de az...",
-    "date": "2026-09-09T20:15:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/colombia-ecopetrol-exporta-las-primeras-2-100-toneladas-de-azufre-solido-a-sudamerica-y-africa/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4888079",
-    "title": "It’s iPhone Duo Users Who Will Want a Stylus",
-    "snippet": "Apple’s first foldable phone is also its first with pen support....",
-    "date": "2026-09-09T20:09:03",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/its-iphone-duo-users-who-will-want-a-stylus/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455209",
-    "title": "Mark Bindhoff: Antofagasta es minería, logística y conexión con el mundo",
-    "snippet": "Mark Bindhoff es gerente general de Antofagasta Terminal Internacional El Mes de la Minería es una oportunidad para reconocer el\nLa entrada Mark Bindhoff: Antofagasta es minería, logística y conexión con el mundo se publ...",
-    "date": "2026-09-09T20:06:44",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/mark-bindhoff-antofagasta-es-mineria-logistica-y-conexion-con-el-mundo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3162222",
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo....",
-    "date": "2026-09-09T20:03:43",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o#0",
-    "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-    "snippet": "Apple showed off at an event the first major design change to the iPhone in almost 20 years....",
-    "date": "2026-09-09T20:00:33",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3162281",
-    "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-    "snippet": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air....",
-    "date": "2026-09-09T19:56:18",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-nintendo-direct-anuncia-nuevos-videojuegos-para-nintendo-switch-2-1091104.aspx",
-    "title": "Nintendo Direct anuncia nuevos videojuegos para Nintendo Switch 2",
-    "snippet": "Después de un día de sorpresas sobe The Legend of Zelda, en la nueva edición del Nintendo Direct se amplió la lista de videojuegos, nuevas ediciones, contenidos adicionales y actualizaciones que llegarán en los próximos ...",
-    "date": "2026-09-09T19:55:43",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-nintendo-direct-anuncia-nuevos-videojuegos-para-nintendo-switch-2-1091104.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/quieres-iphone-asequible-te-costara-que-ayer-apple-sube-precios-toda-gama-iphone-incluso-modelos-viejos",
-    "title": "Si quieres un iPhone asequible, te costará más que ayer: Apple sube de precios toda la gama iPhone incluso modelos \"viejos\"",
-    "snippet": "Si hoy entras en la web española de Apple para comprar un iPhone, o mañana te acercas a una Apple Store, hay una mala noticia antes incluso de elegir modelo, color o almacenamiento: entrar en la gama cuesta más que ayer....",
-    "date": "2026-09-09T19:50:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/quieres-iphone-asequible-te-costara-que-ayer-apple-sube-precios-toda-gama-iphone-incluso-modelos-viejos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-migraciones-crea-unidad-para-detectar-riesgos-a-seguridad-control-migratorio-1091097.aspx",
-    "title": "Migraciones crea unidad para detectar riesgos a la seguridad en control migratorio",
-    "snippet": "La Superintendencia Nacional de Migraciones anunció el inicio de operaciones una unidad especializada a fin de detectar riesgos a la seguridad nacional durante el control migratorio en el Aeropuerto Internacional Jorge C...",
-    "date": "2026-09-09T19:49:43",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-migraciones-crea-unidad-para-detectar-riesgos-a-seguridad-control-migratorio-1091097.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-asociaciones-turismo-comunitario-amazonas-reciben-licencia-uso-de-marca-peru-1091107.aspx",
-    "title": "Asociaciones de turismo comunitario de Amazonas reciben licencia de uso de la Marca Perú",
-    "snippet": "Tres organizaciones de turismo comunitario de Amazonas obtuvieron la licencia de uso de la Marca Perú, un distintivo oficial que otorga Promperú y que busca fortalecer la promoción de sus experiencias turísticas y amplia...",
-    "date": "2026-09-09T19:48:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-asociaciones-turismo-comunitario-amazonas-reciben-licencia-uso-de-marca-peru-1091107.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=992830",
-    "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-    "snippet": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of s...",
-    "date": "2026-09-09T19:45:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/apple-ha-tardado-lanzar-su-iphone-plegable-razon-estaba-esperando-a-que-demas-descubrieran-como-hacerlos-bien",
-    "title": "Apple ha tardado tanto en lanzar su iPhone plegable por una razón: estaba esperando a que los demás descubrieran como hacerlos bien",
-    "snippet": "Tras años de rumores, el iPhone plegable por fin es una realidad. Apple acaba de presentar el iPhone Duo que, tal y como anticipaban las filtraciones, tiene un diseño en formato pasaporte como el que ya hemos visto en al...",
-    "date": "2026-09-09T19:42:37",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/apple-ha-tardado-lanzar-su-iphone-plegable-razon-estaba-esperando-a-que-demas-descubrieran-como-hacerlos-bien",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-elecciones-regionales-y-municipales-odpe-san-martin-implementa-oficinas-descentralizadas-1091103.aspx",
-    "title": "Elecciones Regionales y Municipales: ODPE San Martín implementa oficinas descentralizadas",
-    "snippet": "Con el objetivo firme de garantizar una masiva participación ciudadana, promover la inclusión y descentralizar la logística de las Elecciones Regionales y Municipales (ERM) 2026, la Oficina Descentralizada de Procesos El...",
-    "date": "2026-09-09T19:35:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-elecciones-regionales-y-municipales-odpe-san-martin-implementa-oficinas-descentralizadas-1091103.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455148",
-    "title": "No avanzan gestiones para concretar puente entre Paraguay y Argentina ligado al Corredor Bioceánico",
-    "snippet": "La provincia de Salta no consigue destrabar las gestiones para obtener el visto bueno del presidente argentino Javier Milei para\nLa entrada No avanzan gestiones para concretar puente entre Paraguay y Argentina ligado al ...",
-    "date": "2026-09-09T19:30:27",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/no-avanzan-gestiones-para-concretar-puente-entre-paraguay-y-argentina-ligado-al-corredor-bioceanico/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=992766",
-    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-    "snippet": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the devi...",
-    "date": "2026-09-09T19:30:12",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=986400",
-    "title": "iPhone 18 Pro and Pro Max: Our first hands-on impressions",
-    "snippet": "We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the previous iPhone 17 Pro lineup, keeping the sa...",
-    "date": "2026-09-09T19:26:36",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4887439",
-    "title": "iPhone Handoff Will Let You Use One Number on Two Phones",
-    "snippet": "The feature will be available with iOS 27, but will be limited to specific cellular carriers for now....",
-    "date": "2026-09-09T19:26:11",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/iphone-handoff-one-number-two-phones/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2254228/apple-increases-older-iphone-prices-by-dollar100/",
-    "title": "Apple increases older iPhone prices by $100",
-    "snippet": "I am fine, I am fine, I am fine, I am fine, I just need......",
-    "date": "2026-09-09T19:24:07",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2254228/apple-increases-older-iphone-prices-by-dollar100/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-thibaut-courtois-se-tomara-una-pausa-con-seleccion-belgica-los-proximos-partidos-1091100.aspx",
-    "title": "Thibaut Courtois se tomará una pausa con la selección de Bélgica en los próximos partidos",
-    "snippet": "El portero belga Thibaut Courtois no disputará con los Diablos Rojos la próxima Liga de Naciones, aunque volverá a estar disponible para la fase de clasificación de la Eurocopa 2028, informó este miércoles la prensa loca...",
-    "date": "2026-09-09T19:20:49",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-thibaut-courtois-se-tomara-una-pausa-con-seleccion-belgica-los-proximos-partidos-1091100.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4887141",
-    "title": "The iPhone 18 Pro Max’s Battery Is a Beast, but Save $100 and Stick to Last Year’s Model",
-    "snippet": "Do the math to make sure the upgrade makes sense....",
-    "date": "2026-09-09T19:20:15",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/the-iphone-18-pro-maxs-battery-is-a-beast-but-save-100-and-stick-to-last-years-model/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4887141",
-    "title": "The iPhone 18 Pro Max’s Battery Is a Beast, but Is the Battery Worth the Upgrade?",
-    "snippet": "Do the math to make sure the upgrade makes sense....",
-    "date": "2026-09-09T19:20:15",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/the-iphone-18-pro-maxs-battery-is-a-beast-but-save-100-and-stick-to-last-years-model/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/que-iphone-comprar-keynote-apple-asi-nuevos-iphone-18-pro-iphone-18-pro-max-iphone-duo",
-    "title": "¿Qué iPhone comprar tras la keynote de Apple? Así son los nuevos iPhone 18 Pro, iPhone 18 Pro Max y iPhone Duo",
-    "snippet": "La última keynote de Apple ha vuelto a sacudir la gama alta de la telefonía con una familia que redobla su apuesta por la potencia, la eficiencia y la fotografía computacional. Sin embargo, la llegada del inédito modelo ...",
-    "date": "2026-09-09T19:17:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/que-iphone-comprar-keynote-apple-asi-nuevos-iphone-18-pro-iphone-18-pro-max-iphone-duo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2254210/apple-iphone-18-pro-camera-innovations-went-well-beyond-megapixels-and-ai/",
-    "title": "Apple's iPhone 18 Pro camera innovations went well beyond megapixels and AI",
-    "snippet": "While the iPhone Duo might make headlines, variable aperture and more control is more important to me than a foldable iPhone....",
-    "date": "2026-09-09T19:14:22",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2254210/apple-iphone-18-pro-camera-innovations-went-well-beyond-megapixels-and-ai/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/chip-apple-c2-no-solo-motor-comunicaciones-iphone-duo-salvavidas-para-bateria",
-    "title": "El chip Apple C2 no es sólo el motor de las comunicaciones del iPhone Duo: es un salvavidas para la batería",
-    "snippet": "Fiel a la cita en septiembre, Apple acaba de presentar los nuevos miembros de varias de sus familias. Tenemos nuevos Apple Watch, nuevos AirPods, el iPhone 18 Pro y el esperadísimo iPhone Duo. El primer plegable de la co...",
-    "date": "2026-09-09T19:00:59",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/chip-apple-c2-no-solo-motor-comunicaciones-iphone-duo-salvavidas-para-bateria",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=988501",
-    "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
-    "snippet": "Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models, then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will lau...",
-    "date": "2026-09-09T18:53:43",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/iphone-duo-mejor-plegable-para-ti-ponemos-frente-a-frente-otros-moviles-samsung-honor-xiaomi",
-    "title": "¿Es el iPhone Duo el mejor plegable para ti? Lo ponemos frente a frente con otros móviles de Samsung, Honor y Xiaomi",
-    "snippet": "La gran novedad de este último evento de Apple ha sido sin duda el iPhone Duo, el primer móvil plegable que lanza la compañía californiana. En este punto, puede que te estés preguntando si es el mejor teléfono plegable p...",
-    "date": "2026-09-09T18:44:50",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/iphone-duo-mejor-plegable-para-ti-ponemos-frente-a-frente-otros-moviles-samsung-honor-xiaomi",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4887557",
-    "title": "Apple Reference Photo Lets iPhone Photographers Prove What’s Real",
-    "snippet": "The new iPhone 18 Pro gets a photo-authentication feature to show that a photo hasn’t been altered with AI....",
-    "date": "2026-09-09T18:44:23",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apple-reference-photo-lets-iphone-photographers-prove-whats-real/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2254149/iphone-18-pro-hands-on/",
-    "title": "iPhone 18 Pro hands-on: Variable aperture and stunning new colors",
-    "snippet": "It doesn't fold, but it probably is the one most people will buy....",
-    "date": "2026-09-09T18:39:20",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2254149/iphone-18-pro-hands-on/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4887347",
-    "title": "Apple’s New iPhone Duo Folds Like a Passport",
-    "snippet": "It’s like you’re opening a small book, not flipping a Star Trek communicator open....",
-    "date": "2026-09-09T18:38:44",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/apples-new-iphone-duo-folds-like-a-passport/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=991236",
-    "title": "Hands-on with the foldable iPhone Duo",
-    "snippet": "The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - ha...",
-    "date": "2026-09-09T18:38:40",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=992551",
-    "title": "Apple is raising iPhone prices by $100 on all of its old models",
-    "snippet": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price on all of its last-gen iPhones that are still available for purchase. The iP...",
-    "date": "2026-09-09T18:30:24",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455150",
-    "title": "Justicia estadunidense condena a pagar USD 1,75 millones a distintas navieras por ocultar vertidos de residuos al océano",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La justicia estadounidense condenó a las navieras MSC Shipmanagement Limited y Hong Kong Spirit Shipping and Trading Limited al pago\nLa entrada Justicia estadunidense conden...",
-    "date": "2026-09-09T18:30:00",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/justicia-estadunidense-condena-a-pagar-usd-175-millones-a-distintas-navieras-por-ocultar-vertidos-de-residuos-al-oceano/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2254121/the-iphone-duo-lacks-variable-aperture-and-a-dedicated-telephoto-camera/",
-    "title": "The iPhone Duo lacks variable aperture and a dedicated telephoto camera",
-    "snippet": "The hot new iPhone feature is somehow absent from the hot new iPhone....",
-    "date": "2026-09-09T18:28:19",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2254121/the-iphone-duo-lacks-variable-aperture-and-a-dedicated-telephoto-camera/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=991965",
-    "title": "Apple iPhone Duo launch event: The 5 biggest announcements",
-    "snippet": "Apple just wrapped up its first iPhone launch event with CEO John Ternus at the helm, and it did not disappoint. We got a look at Apple's long-rumored foldable iPhone Duo, along with the next generation of AirPods and th...",
-    "date": "2026-09-09T18:24:59",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/primera-vez-iphone-caro-no-mejor-iphone",
-    "title": "Por primera vez, el iPhone más caro no es el mejor iPhone",
-    "snippet": "Como cada septiembre, Apple ha presentado sus nuevos iPhone. Sin embargo, a diferencia de otros años, los modelos Pro no han estado acompañados por un iPhone base más barato. Era una estrategia muy asentada que se rompe ...",
-    "date": "2026-09-09T18:20:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/primera-vez-iphone-caro-no-mejor-iphone",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=991130",
-    "title": "Apple skips the base iPhone 18 at its fall launch event",
-    "snippet": "Apple is taking the unusual step of skipping the base iPhone 18 this fall. At its \"Surprise and shine\" event today, the company revealed the iPhone 18 Pro and Pro Max, alongside the new foldable iPhone Duo. But the base ...",
-    "date": "2026-09-09T18:19:36",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/iphone-18-pro-max-vs-iphone-17-pro-max-varias-mejoras-importantes-que-pueden-hacer-no-que-merezca-pena-pagar-ellas",
-    "title": "iPhone 18 Pro Max vs iPhone 17 Pro Max: varias mejoras importantes que pueden hacer (o no) que merezca la pena pagar más por ellas",
-    "snippet": "Los nuevos iPhone de Apple ya son oficiales. La mayoría de los focos los está acaparando el primer plegable de la compañía californiana, pero ¿qué cambios trae la nueva familia de teléfonos de Apple con respecto a la gen...",
-    "date": "2026-09-09T18:19:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/iphone-18-pro-max-vs-iphone-17-pro-max-varias-mejoras-importantes-que-pueden-hacer-no-que-merezca-pena-pagar-ellas",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/ios-27-ipados-27-watchos-27-macos-27-fechas-lanzamiento-modelos-iphone-ipad-apple-watch-mac-compatibles",
-    "title": "iOS 27, iPadOS 27, watchOS 27 y macOS 27: fechas de lanzamiento y modelos de iPhone, iPad, Apple Watch y Mac compatibles",
-    "snippet": "Vamos a decirte las fechas de lanzamiento de iOS 27, iPadOS 28, watchOS 27 y macOS 27, las próximas versiones de los sistemas operativos de Apple para sus iPhone, iPad, Apple Watch y Mac. Después de varias semanas de ver...",
-    "date": "2026-09-09T18:18:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/ios-27-ipados-27-watchos-27-macos-27-fechas-lanzamiento-modelos-iphone-ipad-apple-watch-mac-compatibles",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/apertura-variable-llega-a-camara-iphone-18-pro-pro-max-asi-como-podremos-sacarle-partido",
-    "title": "La apertura variable llega a la cámara de los iPhone 18 Pro y Pro Max. Así es como podremos sacarle partido",
-    "snippet": "Ming-Chi Kuo, un analista especializado en la cadena de suministro que habitualmente está bien informado, nos lo anticipó en diciembre de 2024: Apple estaba trabajando en una cámara con apertura variable para sus iPhone ...",
-    "date": "2026-09-09T18:13:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/apertura-variable-llega-a-camara-iphone-18-pro-pro-max-asi-como-podremos-sacarle-partido",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/apple-iphone-duo-caracteristicas-precio-fotos-fecha",
-    "title": "El Apple iPhone Duo es oficial: el teléfono plegable de Apple ya está aquí y viene para cambiarlo todo",
-    "snippet": "Tras meses de especulación y rumores, Apple presenta oficialmente el iPhone Duo, uniéndose de esta manera a sus rivales con su primer teléfono plegable. En una keynote cargada de novedades con los iPhone 18 Pro y Pro Max...",
-    "date": "2026-09-09T18:09:52",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/apple-iphone-duo-caracteristicas-precio-fotos-fecha",
-    "category": "TRIBUTARIO"
   }
 ]
