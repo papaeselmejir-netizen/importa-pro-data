@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3163451",
+    "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+    "snippet": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch....",
+    "date": "2026-09-13T20:28:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455753",
+    "title": "Mincetur impulsa acciones para mejorar operatividad logística del comercio exterior del eje Callao-Chancay",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Comercio Exterior y Turismo del Perú (Mincetur) lideró la XVI Mesa Técnica para\nLa entrada Mincetur impulsa acciones para mejorar operatividad logística del...",
+    "date": "2026-09-13T20:00:04",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/mincetur-impulsa-acciones-para-mejorar-operatividad-logistica-del-comercio-exterior-del-eje-callao-chancay/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/",
+    "title": "How to adjust the Liquid Glass effect on your iPhone with iOS 27",
+    "snippet": "If you've never been satisfied with Liquid Glass on your Phone, then you'll probably like some of the new customization options Apple offers in iOS 27....",
+    "date": "2026-09-13T20:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/cuando-estudiante-prometio-1-000-dolares-haciendose-pasar-bill-gates-su-broma-acabo-siendo-imposible-detener",
+    "title": "Cuando un estudiante prometió 1.000 dólares haciéndose pasar por Bill Gates y su broma acabó siendo imposible de detener",
+    "snippet": "Mucho antes de que hablásemos de publicaciones virales, tendencias o algoritmos, Internet ya había encontrado una forma bastante eficaz de conseguir que una misma historia circulase de una persona a otra: pedirnos que pu...",
+    "date": "2026-09-13T19:01:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/cuando-estudiante-prometio-1-000-dolares-haciendose-pasar-bill-gates-su-broma-acabo-siendo-imposible-detener",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/flor-adelantada-a-su-tiempo-hallan-china-fosil-295-millones-anos-que-situa-a-frutos-dinosaurios",
+    "title": "Una flor adelantada a su tiempo: hallan en China un fósil de 295 millones de años que sitúa a los frutos antes que los dinosaurios",
+    "snippet": "Hoy en día, las plantas con flores y fruto (las angiospermas) son el grupo dominante del reino vegetal, pero la ciencia no sabe con certeza cuándo aparecieron las primeras. El consenso generalizado apunta al Cretácico, h...",
+    "date": "2026-09-13T18:31:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/flor-adelantada-a-su-tiempo-hallan-china-fosil-295-millones-anos-que-situa-a-frutos-dinosaurios",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=994426",
+    "title": "Apple is reportedly working on iPhone game controllers",
+    "snippet": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some ti...",
+    "date": "2026-09-13T18:30:16",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fiscalia-loreto-participo-operativo-para-verificar-seguridad-balsas-flotantes-1091589.aspx",
+    "title": "Fiscalía de Loreto participó en operativo para verificar seguridad en balsas flotantes",
+    "snippet": "La Primera Fiscalía Provincial Especializada en Prevención del Delito de Loreto, a cargo del fiscal provincial Jerry Harol Villacorta Sánchez, participó en un operativo conjunto con personal de la Capitanía de Puerto de ...",
+    "date": "2026-09-13T18:22:50",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fiscalia-loreto-participo-operativo-para-verificar-seguridad-balsas-flotantes-1091589.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4896013",
+    "title": "iPhone Duo vs. Galaxy Z Fold 8 Ultra: Apple’s and Samsung’s Premium Foldables Compared",
+    "snippet": "From durability to cameras and battery life, here’s how the premium foldable phones stack up....",
+    "date": "2026-09-13T18:16:40",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-duo-vs-galaxy-z-fold-8-ultra-apples-and-samsungs-premium-foldables-compared/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/",
+    "title": "Apple's rumored gaming controller for iPhone could feature Beats branding",
+    "snippet": "Bloomberg's Mark Gurman said there are two gaming controllers in the works....",
+    "date": "2026-09-13T18:02:36",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/caminar-subir-escaleras-a-partir-60-ciencia-tiene-claro-que-ejercicio-exige-a-tus-piernas",
+    "title": "Caminar o subir escaleras a partir de los 60: la ciencia tiene claro qué ejercicio exige más a tus piernas",
+    "snippet": "La actividad física diaria es fundamental para mantener un buen tono muscular y disfrutar de todos sus beneficios a largo plazo con el objetivo de contar con unos cuantos años más de vida en óptimas condiciones. Pero den...",
+    "date": "2026-09-13T18:01:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/caminar-subir-escaleras-a-partir-60-ciencia-tiene-claro-que-ejercicio-exige-a-tus-piernas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=455675",
+    "title": "RCL encarga cuatro buques portacontenedores Bangkokmax de alta eficiencia energética de 1.900 TEU",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Regional Container Lines (RCL) encargó cuatro buques portacontenedores Bangkokmax de alta eficiencia energética, cada uno con\nLa entrada RCL encarga cuatro buques portaconte...",
+    "date": "2026-09-13T18:00:39",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/rcl-encarga-cuatro-buques-portacontenedores-bangkokmax-de-alta-eficiencia-energetica-de-1-900-teu/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-joan-alfaro-lleva-carnaval-cajamarquino-y-identidad-andina-a-su-exposicion-1091585.aspx",
     "title": "Joan Alfaro lleva el carnaval cajamarquino y la identidad andina a su exposición",
     "snippet": "El artista plástico peruano Joan Alfaro presenta “Sesión Neón Andina”, una exposición individual que reúne 30 piezas entre pinturas y acuarelas y lleva su particular mirada sobre la identidad cultural peruana hasta la ca...",
@@ -16,6 +115,15 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-impulsaran-mejoras-operatividad-logistica-del-comercio-exterior-del-eje-callaochancay-1091584.aspx",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4888122",
+    "title": "Yes, the iPhone Duo Is a First-Generation Phone. That’s Why You Should Get One if You Can",
+    "snippet": "Despite its price, more people who don’t use tech the way I do should own this iPhone....",
+    "date": "2026-09-13T17:35:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/yes-the-iphone-duo-is-a-first-generation-phone-thats-why-you-should-get-one-if-you-can/",
+    "category": "MERCADO"
   },
   {
     "id": "https://www.xataka.com/magnet/tenerife-hay-mundo-que-lleva-27-000-anos-aislado-dentro-esta-cueva-viven-190-especies",
@@ -1240,113 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-conozca-a-influencer-achuar-promueve-redes-cultura-y-defensa-de-amazonia-1091392.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/madrid-se-ha-empenado-levantar-gigantesco-parque-encima-m-30-16-370-metros-cuadrados-jardin-esta-al-70",
-    "title": "Madrid se ha empeñado en levantar un gigantesco parque encima de la M-30: con 16.370 metros cuadrados de jardín, ya está al 70%",
-    "snippet": "Las obras del Parque Ventas se acercan a su fin. Y es que este macroproyecto de 16.370 metros cuadrados que se está construyendo directamente sobre la M-30 ya ha superado el 70 % de su ejecución, según ha informado el Ay...",
-    "date": "2026-09-11T18:31:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/madrid-se-ha-empenado-levantar-gigantesco-parque-encima-m-30-16-370-metros-cuadrados-jardin-esta-al-70",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-hospital-villa-salvador-inicia-mantenimiento-infraestructura-y-equipamiento-1091381.aspx",
-    "title": "Hospital de Villa El Salvador inicia mantenimiento de infraestructura y equipamiento",
-    "snippet": "La Agencia de Promoción de la Inversión Privada (Proinversión) informó que se dio inicio formal al mantenimiento de la infraestructura y disponibilidad del equipamiento del Hospital de Emergencias Villa El Salvador (Heve...",
-    "date": "2026-09-11T18:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-hospital-villa-salvador-inicia-mantenimiento-infraestructura-y-equipamiento-1091381.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/china-tokens-ia-nuevos-puntos-fidelizacion-te-regalan-comer-beber-usar-tarjeta",
-    "title": "En China los tokens de IA son los nuevos puntos de fidelización: te los regalan por comer, beber o usar una tarjeta",
-    "snippet": "Los tokens son la unidad mínima en la que la IA \"trocea\" el texto para procesarlo y darnos respuestas, pero también son la unidad en la que se mide el consumo y, en la práctica, la \"moneda\" de la IA. En China, los tokens...",
-    "date": "2026-09-11T18:01:01",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/china-tokens-ia-nuevos-puntos-fidelizacion-te-regalan-comer-beber-usar-tarjeta",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1706907",
-    "title": "Keiko Fujimori pidió a Marco Rubio, secretario de Estado de EEUU, reevaluar los aranceles a Perú: \"dijo que no era de su competencia\"",
-    "snippet": "La presidenta señaló que en su próximo viaje a las Naciones Unidas, junto al ministro de Comercio Exterior y Turismo Roger Valencia, establecerá una mesa de trabajo para abordar el incremento arancelario que aplicó Estad...",
-    "date": "2026-09-11T17:46:58",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/keiko-fujimori-solicito-a-marco-rubio-reevaluar-aranceles-a-peru-que-le-respondio-noticia-1706907",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/renfe-conoce-precio-dejar-manos-talgo-su-futuro-100-000-plazas-madrid-valencia-avril-parados",
-    "title": "Renfe ya conoce el precio de dejar en manos de Talgo su futuro: 100.000 plazas menos en el Madrid-Valencia y más Avril parados",
-    "snippet": "Cuando Renfe encargó a Talgo la entrega de 30 unidades de los nuevos S-106 no podía imaginarse lo que se le vendría encima. Desde que Talgo empezara a entregar los conocidos comercialmente como Avril, los problemas no ha...",
-    "date": "2026-09-11T17:31:01",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/renfe-conoce-precio-dejar-manos-talgo-su-futuro-100-000-plazas-madrid-valencia-avril-parados",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455579",
-    "title": "Carga moviliza por puertos colombianos crece 6,8% en primer semestre de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El sector portuario de Colombia presentó un rendimiento positivo en el primer semestre de 2026. Esto luego que\nLa entrada Carga moviliza por puertos colombianos crece 6,8% e...",
-    "date": "2026-09-11T17:30:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/carga-moviliza-por-puertos-colombianos-crece-68-en-primer-semestre-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455579",
-    "title": "Carga movilizada por puertos colombianos crece 6,8% en primer semestre de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El sector portuario de Colombia presentó un rendimiento positivo en el primer semestre de 2026. Esto luego que\nLa entrada Carga movilizada por puertos colombianos crece 6,8%...",
-    "date": "2026-09-11T17:30:11",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/carga-moviliza-por-puertos-colombianos-crece-68-en-primer-semestre-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=455577",
-    "title": "Puerto peruano de Chancay vuelve a ser protagonista de tensiones entre Estados Unidos y China",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La visita del secretario de Estado de EE.UU., Marco Rubio, a Sudamérica volvió a poner al\nLa entrada Puerto peruano de Chancay vuelve a ser protagonista de tensiones entre E...",
-    "date": "2026-09-11T17:27:29",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-peruano-de-chancay-vuelve-a-ser-protagonista-de-tensiones-entre-estados-unidos-y-china/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=994087",
-    "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-    "snippet": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirme...",
-    "date": "2026-09-11T17:16:59",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=100214",
-    "title": "Día de la Familia: cinco conversaciones financieras que toda familia debería tener, según Mapfre Perú",
-    "snippet": "De acuerdo con las últimas cifras de la Superintendencia de Banca, Seguros y AFP (SBS), solo el 13 % de los adultos en el Perú alcanza un nivel suficiente de educación financiera. Esta brecha se traduce en decisiones fam...",
-    "date": "2026-09-11T17:10:33",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/dia-de-la-familia-cinco-conversaciones-financieras-que-toda-familia-deberia-tener-segun-mapfre-peru/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=100180",
-    "title": "Police Security presenta nueva edición de Police Research sobre los riesgos que enfrenta la cadena logística farmacéutica",
-    "snippet": "El robo de medicamentos e insumos médicos representa un riesgo que trasciende las pérdidas económicas y puede comprometer la continuidad del abastecimiento de productos esenciales. La nueva edición de Police Research, el...",
-    "date": "2026-09-11T17:09:18",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/police-security-presenta-nueva-edicion-de-police-research-sobre-los-riesgos-que-enfrenta-la-cadena-logistica-farmaceutica-ccl-asociados/",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/pld-space-quiere-poner-a-espana-al-frente-carrera-europea-reutilizar-cohetes-su-apuesta-se-llama-miura-9",
-    "title": "PLD Space quiere poner a España al frente de la carrera europea por reutilizar cohetes. Su apuesta se llama MIURA 9",
-    "snippet": "Europa lleva décadas lanzando cohetes, pero eso no significa que tenga resuelta la siguiente etapa de la carrera espacial. Mientras en Estados Unidos nos hemos acostumbrado a ver primeras etapas regresar a tierra y volve...",
-    "date": "2026-09-11T17:01:01",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/pld-space-quiere-poner-a-espana-al-frente-carrera-europea-reutilizar-cohetes-su-apuesta-se-llama-miura-9",
-    "category": "TRIBUTARIO"
   }
 ]
