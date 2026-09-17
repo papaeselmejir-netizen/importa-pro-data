@@ -1,5 +1,302 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-conviene-pagar-ahora-una-deuda-dolares-ante-bajo-nivel-del-tipo-cambio-1087614.aspx",
+    "title": "¿Conviene pagar ahora una deuda en dólares ante el bajo nivel del tipo de cambio?",
+    "snippet": "Luego de mostrar una tendencia a la baja en agosto el precio del dólar ha mostrado una leve recuperación en los primeros días de setiembre, ubicándose actualmente alrededor de los 3.36 soles, con proyecciones de mercado ...",
+    "date": "2026-09-17T16:12:51",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conviene-pagar-ahora-una-deuda-dolares-ante-bajo-nivel-del-tipo-cambio-1087614.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2261369/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe/",
+    "title": "Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe",
+    "snippet": "At least that's the hope....",
+    "date": "2026-09-17T16:08:47",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2261369/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/pretenderlo-japon-ha-conseguido-que-todos-paises-turistificados-mundo-anhelan-perder-turistas",
+    "title": "Sin pretenderlo, Japón ha conseguido lo que todos los países turistificados del mundo anhelan: perder turistas",
+    "snippet": "Japón se ha encontrado con un imprevisto en su carrera para alcanzar los 60 millones de turistas en 2030: la geopolítica. O mejor dicho, la delicada relación diplomática con Pekín. El conflicto abierto entre ambos países...",
+    "date": "2026-09-17T16:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/pretenderlo-japon-ha-conseguido-que-todos-paises-turistificados-mundo-anhelan-perder-turistas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=996826",
+    "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
+    "snippet": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as ...",
+    "date": "2026-09-17T16:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-que-consideraciones-hay-tener-cuenta-para-estar-una-afp-o-la-onp-1091826.aspx",
+    "title": "¿Qué consideraciones hay que tener en cuenta para estar en una AFP o en la ONP?",
+    "snippet": "A partir de junio de 2027 empieza a regir el libre traspaso de una Administradora de Fondos de Pensiones (AFP) a la Oficina de Normalización Previsional (ONP) y viceversa, motivo por el cual es relevante tener en cuenta ...",
+    "date": "2026-09-17T15:54:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-que-consideraciones-hay-tener-cuenta-para-estar-una-afp-o-la-onp-1091826.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165475",
+    "title": "Roku’s new Labs hub brings experimental apps to the big screen",
+    "snippet": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more....",
+    "date": "2026-09-17T15:50:29",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456526",
+    "title": "Países Bajos: Obras de reparación del puente de Suurhoffbrug afectan accesos al Puerto de Rotterdam",
+    "snippet": "Redacción PortalPortuario @PortalPortuario El Ministerio de Infraestructura y Gestión de Agua de Países Bajos anunció el cierre temporal del puente\nLa entrada Países Bajos: Obras de reparación del puente de Suurhoffbrug ...",
+    "date": "2026-09-17T15:30:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/paises-bajos-obras-de-reparacion-del-puente-de-suurhoffbrug-afectan-accesos-al-puerto-de-rotterdam/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456565",
+    "title": "Parlamento pide medidas urgentes contra redes de narcotráfico en puertos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los eurodiputados están presionando, de acuerdo al Parlamento Europeo, para aumentar la cooperación y el intercambio\nLa entrada Parlamento pide medidas urgentes contra redes...",
+    "date": "2026-09-17T15:04:14",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/parlamento-pide-medidas-urgentes-contra-redes-de-narcotrafico-en-puertos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456557",
+    "title": "Uruguay: ANP calcula impacto económico de conflicto sindical en Terminal Cuenca del Plata",
+    "snippet": "Por Redacción PortalPortuario / Agencia EFE @PortalPortuario La Administración Nacional de Puertos (ANP) de Uruguay aseguró que calcula los perjuicios\nLa entrada Uruguay: ANP calcula impacto económico de conflicto sindic...",
+    "date": "2026-09-17T15:00:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/uruguay-anp-calcula-impacto-economico-de-conflicto-sindical-en-terminal-cuenca-del-plata/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/no-seremos-nicho-venderemos-16-000-coches-al-ano-lepas-llega-a-espana-exito-omoda-jaecoo-como-referente",
+    "title": "“No seremos de nicho, venderemos 16.000 coches al año”: Lepas llega a España con el éxito de Omoda y Jaecoo como referente",
+    "snippet": "Dos años y medio. Ese es el tiempo aproximado que Omoda y Jaecoo llevan asentadas en nuestro país. Durante el primer año completo, Omoda vendió en nuestro país 13.963 unidades. Jaecoo se quedó en 9.728 unidades. Ebro, ta...",
+    "date": "2026-09-17T15:00:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/no-seremos-nicho-venderemos-16-000-coches-al-ano-lepas-llega-a-espana-exito-omoda-jaecoo-como-referente",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=996863",
+    "title": "Your robotaxi might be a narc",
+    "snippet": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and...",
+    "date": "2026-09-17T15:00:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-17-setiembre-del-2026-1092151.aspx",
+    "title": "¿Cuál es la cotización del dólar hoy jueves 17 de setiembre del 2026?",
+    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy, en un contexto de volatilidad de la moneda en el mercado regional....",
+    "date": "2026-09-17T14:50:13",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-17-setiembre-del-2026-1092151.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-voces-del-pasado-legado-los-chancay-cronica-1092150.aspx",
+    "title": "Voces del pasado: el legado de los Chancay (crónica)",
+    "snippet": "...",
+    "date": "2026-09-17T14:44:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-voces-del-pasado-legado-los-chancay-cronica-1092150.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456516",
+    "title": "Puerto de Nagoya despliega alternativas de alojamiento para participantes de los Juegos Asiáticos",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un crucero italiano habilitado para albergar a 4.000 participantes y una serie de módulos tipo\nLa entrada Puerto de Nagoya despliega alternativas de alojamie...",
+    "date": "2026-09-17T14:30:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-nagoya-despliega-alternativas-de-alojamiento-para-participantes-de-los-juegos-asiaticos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/creiamos-que-carrera-robots-humanoides-era-algo-china-eeuu-europa-hay-siete-empresas-que-fabrican",
+    "title": "Creíamos que la carrera de los robots humanoides era algo entre China y EEUU. En Europa hay siete empresas que ya los fabrican",
+    "snippet": "Aunque aún hay muchas dudas sobre si los robots humanoides van a ser la revolución que nos prometen, pero si hay algo claro es que China es el país que está liderando esta categoría. En EEUU también hay empresas empujand...",
+    "date": "2026-09-17T14:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-carrera-robots-humanoides-era-algo-china-eeuu-europa-hay-siete-empresas-que-fabrican",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456533",
+    "title": "Reanudan proceso de invalidación contra permiso ambiental del proyecto Terminal Cerros de Valparaíso",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario A pesar que el Comité de Ministros confirmó la Resolución de Calificación Ambiental (RCA) favorable para\nLa entrada Reanudan proceso de invalidación contra permiso ambiental...",
+    "date": "2026-09-17T14:09:37",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reanudan-proceso-de-invalidacion-contra-permiso-ambiental-del-proyecto-terminal-cerros-de-valparaiso/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165448",
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "snippet": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S....",
+    "date": "2026-09-17T14:06:14",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456503",
+    "title": "Hyster entrega a Puerto de Tilbury primer ReachStacker alimentado por pila de combustible de hidrógeno del Reino Unido",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Hyster y su distribuidor autorizado local, Briggs Equipment UK, anunciaron la entrega de un apilador retractil\nLa entrada Hyster entrega a Puerto de Tilbury primer ReachStac...",
+    "date": "2026-09-17T14:00:38",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/hyster-entrega-a-puerto-de-tilbury-primer-reachstacker-alimentado-por-pila-de-combustible-de-hidrogeno-del-reino-unido/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/japon-no-ha-hecho-ruido-como-nasa-dart-su-hayabusa-2-lleva-tiempo-ensayando-como-defender-tierra-asteroide",
+    "title": "Japón no ha hecho tanto ruido como la NASA con DART, pero su Hayabusa 2 lleva tiempo ensayando cómo defender la Tierra de un asteroide",
+    "snippet": "Se habla mucho sobre el papel de la misión DART, de la NASA, en el ensayo de técnicas dirigidas a la defensa planetaria. Sin embargo, otras compañías a las que quizás se ha dado menos publicidad han emprendido misiones s...",
+    "date": "2026-09-17T14:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/japon-no-ha-hecho-ruido-como-nasa-dart-su-hayabusa-2-lleva-tiempo-ensayando-como-defender-tierra-asteroide",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165426",
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+    "snippet": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers....",
+    "date": "2026-09-17T13:38:33",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/empresas-que-llevan-anos-acelerando-ia-empiezan-a-hablar-limites-microsoft-acaba-poner-suyos-escrito",
+    "title": "Las empresas que llevan años acelerando la IA empiezan a hablar de límites. Microsoft acaba de poner los suyos por escrito",
+    "snippet": "Estos últimos años, el mensaje de la industria de la IA sólo ha seguido una máxima: más. Más rápido, más grande, más potente y más transversal. Sin embargo, ahora casi todos los grandes del sector en Estados Unidos, esos...",
+    "date": "2026-09-17T13:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/empresas-que-llevan-anos-acelerando-ia-empiezan-a-hablar-limites-microsoft-acaba-poner-suyos-escrito",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165412",
+    "title": "Lucid Motors has a potential robotaxi partner for Europe",
+    "snippet": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet....",
+    "date": "2026-09-17T13:26:32",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/carrefour-esta-liquidando-esta-smart-tv-qled-xiaomi-a-149-euros-google-tv-hdr10-compatible-airplay",
+    "title": "Carrefour está liquidando esta smart TV QLED de Xiaomi a 149 euros: con Google TV, HDR10+ y compatible con AirPlay",
+    "snippet": "Encontrar un televisor secundario para la cocina, el dormitorio o una segunda residencia suele implicar renunciar a la calidad de imagen o lidiar con sistemas operativos lentos y limitados. Sin embargo, la Xiaomi TV A Pr...",
+    "date": "2026-09-17T13:16:11",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/carrefour-esta-liquidando-esta-smart-tv-qled-xiaomi-a-149-euros-google-tv-hdr10-compatible-airplay",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456500",
+    "title": "Pescadores franceses bloquean puertos ante inminente disputa presupuestaria",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Los pescadores del sur de Francia llevaron a cabo el bloqueo del acceso a los\nLa entrada Pescadores franceses bloquean puertos ante inminente disputa presupu...",
+    "date": "2026-09-17T13:00:20",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/pescadores-franceses-bloquean-puertos-ante-inminente-disputa-presupuestaria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/compro-100-sellos-aereos-a-correos-20-euros-todos-aviones-boca-abajo-error-solo-uno-acabaria-valiendo-dos-millones",
+    "title": "Compró 100 sellos de aviones a Correos por 20 euros con todos ellos boca abajo por error. Solo uno acabaría valiendo dos millones",
+    "snippet": "El 14 de mayo de 1918, William T. Robey salió de su trabajo durante la hora del almuerzo y entró en una Oficina de Correos de Washington. Pidió una hoja de los nuevos sellos de correo aéreo, pagó los 24 dólares (unos 20 ...",
+    "date": "2026-09-17T13:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/compro-100-sellos-aereos-a-correos-20-euros-todos-aviones-boca-abajo-error-solo-uno-acabaria-valiendo-dos-millones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/eeuu-china-estudian-trasladar-aprendizaje-nuclear-a-contencion-riesgos-ia",
+    "title": "EEUU y China estudian trasladar el aprendizaje nuclear a la contención de riesgos de la IA",
+    "snippet": "Este escenario es escalofriante. Imaginemos que un modelo de inteligencia artificial (IA) muy avanzado consigue de forma autónoma interferir en la red de mando nuclear de una gran potencia, como EEUU o China, o bien lanz...",
+    "date": "2026-09-17T12:46:10",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/eeuu-china-estudian-trasladar-aprendizaje-nuclear-a-contencion-riesgos-ia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/viajo-tres-veces-a-colombia-siguio-cobrando-su-pension-espana-justicia-andaluza-confirma-consecuencias-9-240-euros",
+    "title": "Viajó tres veces a Colombia y siguió cobrando su pensión en España. La justicia andaluza confirma las consecuencias: 9.240 euros",
+    "snippet": "Si estás cobrando algún tipo de prestación y sales del país, te conviene revisar la ley por si se te está escapando algo. Que se lo digan a este hombre de 57 años que, entre mayo de 2022 y agosto de 2023, viajó tres vece...",
+    "date": "2026-09-17T12:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/viajo-tres-veces-a-colombia-siguio-cobrando-su-pension-espana-justicia-andaluza-confirma-consecuencias-9-240-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/no-respondes-corporaciones-gobiernos-openai-publica-seis-nuevos-casos-que-sus-modelos-experimentales-montaron-caos",
+    "title": "\"No respondes ante corporaciones ni gobiernos\": OpenAI publica seis nuevos casos en los que sus modelos experimentales montaron un caos",
+    "snippet": "OpenAI ha publicado un nuevo marco interno para rastrear, investigar y divulgar públicamente casos en los que sus modelos de IA se comportan de formas inesperadas o desalineadas. Junto a él, la empresa ha publicado sus p...",
+    "date": "2026-09-17T12:16:10",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/no-respondes-corporaciones-gobiernos-openai-publica-seis-nuevos-casos-que-sus-modelos-experimentales-montaron-caos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/mark-zuckerberg-sono-meta-mandos-intermedios-ahora-meta-pide-a-sus-mandos-intermedios-que-vuelvan",
+    "title": "Mark Zuckerberg soñó con una Meta sin mandos intermedios. Ahora Meta pide a sus mandos intermedios que vuelvan",
+    "snippet": "Mark Zuckerberg lleva desde 2023 con la misma idea en la cabeza: menos jefes, más rapidez. En un primer momento lo llamó \"el año de la eficiencia\" y su objetivo era convertir a Meta en una empresa más plana en cuanto a j...",
+    "date": "2026-09-17T12:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/mark-zuckerberg-sono-meta-mandos-intermedios-ahora-meta-pide-a-sus-mandos-intermedios-que-vuelvan",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4905810",
+    "title": "3 iPhone 18 Pro Upgrades That Will Make My Life as a Frequent Traveler Easier",
+    "snippet": "Commentary: The iPhone 18 Pro seems to fix almost every gripe I’ve had with my iPhone 17 Pro Max — especially for how much I travel....",
+    "date": "2026-09-17T12:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/3-iphone-18-pro-upgrades-that-will-make-my-life-as-a-frequent-traveler-easier/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1707887",
+    "title": "Transfieren más de 205 millones de soles al MTC para afrontar el Fenómeno El Niño",
+    "snippet": "El Decreto Supremo 191-2026-EF establece que los fondos serán financiados con cargo a la Reserva de Contingencia del Ministerio de Economía y Finanzas (MEF)....",
+    "date": "2026-09-17T11:50:05",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/peru/actualidad/transfieren-mas-de-205-millones-de-soles-al-mtc-para-afrontar-el-fenomeno-el-nino-noticia-1707887",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/gallego-se-puso-a-discutir-abandono-su-puesto-pelea-empresa-despidio-ahora-debe-readmitirlo-indemnizarlo-11-462-euros",
+    "title": "Un gallego se puso a discutir, abandonó su puesto tras la pelea y la empresa lo despidió: ahora debe readmitirlo o indemnizarlo con 11.462 euros",
+    "snippet": "Cuántas veces no habremos sentido las ganas de irnos de nuestro puesto a tomar el aire, a dar una vuelta y volver cuando las cosas se calmen. Eso es lo que pasó en un astillero de Fene (A Coruña), cuando un oficial de te...",
+    "date": "2026-09-17T11:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/gallego-se-puso-a-discutir-abandono-su-puesto-pelea-empresa-despidio-ahora-debe-readmitirlo-indemnizarlo-11-462-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2260986/nvidia-google-emerald-coalition-data-center-power/",
+    "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections",
+    "snippet": "A new coalition of tech giants aims to speed AI data center grid connections in exchange for more flexibility....",
+    "date": "2026-09-17T11:24:45",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2260986/nvidia-google-emerald-coalition-data-center-power/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://rpp.pe/1707882",
     "title": "Precio del dólar Perú y tipo de cambio hoy 17 de septiembre del 2026",
     "snippet": "En Perú, el tipo de cambio para hoy jueves 17 de septiembre es de  S/3.37 según el Banco Central de Reserva Del Perú....",
@@ -65,6 +362,15 @@
   {
     "id": "https://www.xataka.com/magnet/hombre-salio-mercadona-madrid-casi-9-kilos-embutido-que-paso-al-llegar-al-aeropuerto-seattle-te-imaginas",
     "title": "Un hombre salió de un Mercadona de Madrid con casi 9 kilos de embutido. Lo que pasó al llegar al aeropuerto de Seattle ya te lo imaginas",
+    "snippet": "Un ciudadano estadounidense aterrizó en Seattle procedente de España cargado de promesas e ilusiones. Más específicamente, casi nueve kilos de embutido, buena parte comprado en un Mercadona. Sobrasada, fuet, chorizo pica...",
+    "date": "2026-09-17T09:30:11",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hombre-salio-mercadona-madrid-casi-9-kilos-embutido-que-paso-al-llegar-al-aeropuerto-seattle-te-imaginas",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hombre-salio-mercadona-madrid-casi-9-kilos-embutido-que-paso-al-llegar-al-aeropuerto-seattle-te-imaginas",
+    "title": "Compró casi 9 kilos de embutidos en un Mercadona de Madrid y al llegar al aeropuerto de Seattle lo han multado",
     "snippet": "Un ciudadano estadounidense aterrizó en Seattle procedente de España cargado de promesas e ilusiones. Más específicamente, casi nueve kilos de embutido, buena parte comprado en un Mercadona. Sobrasada, fuet, chorizo pica...",
     "date": "2026-09-17T09:30:11",
     "source": "XATAKA",
@@ -1041,312 +1347,6 @@
     "date": "2026-09-16T12:16:10",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/hay-pocos-barcos-dispuestos-a-cruzar-ormuz-que-usar-petrolero-vale-millon-dolares-al-dia-vamos-a-notar-gasolinera",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/iphone-18-pro-max-primeras-impresiones-toma-contacto-fotos-video",
-    "title": "He probado la cámara del iPhone 18 Pro y su apertura variable ha conseguido algo: que me coma mis palabras",
-    "snippet": "Este viernes sale EL nuevo iPhone. En un año normal, llegarían tanto los Pro como los estándar, pero como los segundos se han retrasado y el Duo no llegará hasta finales de octubre, lo que tendremos será el iPhone 18 Pro...",
-    "date": "2026-09-16T12:01:45",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/iphone-18-pro-max-primeras-impresiones-toma-contacto-fotos-video",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456084",
-    "title": "Kempower y EVlution Charge impulsan electrificación de Global Container Terminals en Puerto de Vancouver",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Kempower y EVlution Charge anunciaron la instalación de infraestructura de carga en la terminal de Global\nLa entrada Kempower y EVlution Charge impulsan electrificación de G...",
-    "date": "2026-09-16T12:00:21",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/kempower-y-evlution-charge-impulsan-electrificacion-de-terminales-de-global-container-terminals-en-puerto-de-vancouver/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4906913",
-    "title": "Nintendo’s Newest Fire Emblem Is a Sprawling Book of Stories",
-    "snippet": "Fortune’s Weave for Switch 2 is far longer than I have patience for, and yet I appreciate its narrative....",
-    "date": "2026-09-16T12:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/nintendos-newest-fire-emblem-is-a-sprawling-book-of-stories/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2259654/how-iphone-18-pro-apple-reference-image-works/",
-    "title": "Here's how the iPhone 18 Pro's Apple Reference Image tech works",
-    "snippet": "Apple Reference Image is like giving your photos a tamper-proof seal....",
-    "date": "2026-09-16T12:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2259654/how-iphone-18-pro-apple-reference-image-works/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2259790/apple-iphone-18-pro-review-cameras-performance-variable-aperture-siri-ai/",
-    "title": "iPhone 18 Pro review: The standard setter",
-    "snippet": "The yardstick that all phones, including the Duo, will be measured by....",
-    "date": "2026-09-16T12:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2259790/apple-iphone-18-pro-review-cameras-performance-variable-aperture-siri-ai/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=995539",
-    "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-    "snippet": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy...",
-    "date": "2026-09-16T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=995945",
-    "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-    "snippet": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A rema...",
-    "date": "2026-09-16T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seguridad/brecha-seguridad-revolut-no-fue-hackeo-fue-creerse-email-falso",
-    "title": "La brecha de seguridad de Revolut no fue por un hackeo, fue por creerse un email falso",
-    "snippet": "El pasado 12 de septiembre Revolut sufrió una filtración que dejó expuestos datos de algunos de sus clientes. Lo curioso es cómo se produjo: no fue un fallo en los sistemas ni un hackeo, sino un correo fraudulento al que...",
-    "date": "2026-09-16T11:46:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seguridad/brecha-seguridad-revolut-no-fue-hackeo-fue-creerse-email-falso",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/policia-manchester-ha-confiscado-cinco-lamborghini-mercedes-benz-clase-g-conduccion-temeraria-circulaban-a-27-km-h",
-    "title": "La policía de Manchester ha confiscado cinco Lamborghini y un Mercedes-Benz Clase G por conducción temeraria: circulaban a 27 km/h",
-    "snippet": "Una fila de Lamborghinis avanza por la autopista cercana a Manchester hasta que un vehículo policial les ordena detenerse. Con más de 700 CV bajo el capó, lo más normal sería pensar que la policía les ha cazado con un ex...",
-    "date": "2026-09-16T11:30:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/policia-manchester-ha-confiscado-cinco-lamborghini-mercedes-benz-clase-g-conduccion-temeraria-circulaban-a-27-km-h",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1707647",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 16 de septiembre del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy miércoles 16 de septiembre es de  S/3.37 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-09-16T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-16-de-septiembre-del-2026-noticia-1707647",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/1807-arrojaron-cerdos-isla-naufragos-pudieran-comerselos-192-anos-despues-encontraron-criaturas-muy-distintas",
-    "title": "En 1807, arrojaron cerdos en una isla para que los náufragos pudieran comérselos. 192 años después, encontraron criaturas muy distintas",
-    "snippet": "En 1807, el capitán Abraham Bristow dejó cerdos en uno de los lugares más remotos del planeta con una finalidad tremendamente práctica: que un futuro náufrago pudiera comérselos. Hubo nuevas introducciones durante el sig...",
-    "date": "2026-09-16T11:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/1807-arrojaron-cerdos-isla-naufragos-pudieran-comerselos-192-anos-despues-encontraron-criaturas-muy-distintas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4903356",
-    "title": "Forget the iPhone Duo — the First iPhone Had More Hype and a More Shocking Price",
-    "snippet": "CNET reviewed the first iPhone 19 years ago. We found it innovative and easy to use, but it lacked too many features and wasn’t worth the $499 price....",
-    "date": "2026-09-16T11:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/forget-the-iphone-duo-the-first-iphone-had-more-hype-and-a-more-shocking-price/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2259911/sony-unveils-playstation-pulse-wireless-headsets-planar-magnetic-drivers/",
-    "title": "Sony unveils new PlayStation Pulse wireless headsets with 'planar magnetic' sound tech",
-    "snippet": "Sony has introduced the PlayStation Pulse and Pulse Edge headsets, which feature planar magnetic drivers....",
-    "date": "2026-09-16T10:54:02",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2259911/sony-unveils-playstation-pulse-wireless-headsets-planar-magnetic-drivers/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
-    "title": "Un agente de IA ha protagonizado un ciberataque en España. La AEPD nunca había visto uno",
-    "snippet": "La Agencia Española de Protección de Datos (AEPD) ha recibido por primera vez la notificación de una brecha de datos personales en la que un tercero habría usado un agente de IA para ejecutar y controlar distintas fases ...",
-    "date": "2026-09-16T10:46:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3164327",
-    "title": "Amazon launches Alexa+ in India with Hindi support",
-    "snippet": "Amazon is letting all customers use Alexa+ assistant in early access period....",
-    "date": "2026-09-16T10:34:47",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/acantilados-asturias-han-encontrado-animal-que-ahora-solo-conociamos-reino-unido",
-    "title": "En los acantilados de Asturias han encontrado un animal que hasta ahora solo conocíamos de Reino Unido",
-    "snippet": "En 2009, José Antonio Sánchez Féliz, vecino de Madrid, paseaba por los acantilados de la playa de Vega, en Ribadesella, cuando tropezó con unos huesos oscuros clavados en la roca. No imaginó que acababa de tocar un ictio...",
-    "date": "2026-09-16T10:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/acantilados-asturias-han-encontrado-animal-que-ahora-solo-conociamos-reino-unido",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/disponibles-nuevas-gigabyte-rtx-50-infinity-no-baratas-tienen-diseno-irresistible-para-entusiastas-gaming",
-    "title": "Ya disponibles las nuevas Gigabyte RTX 50 INFINITY. No son baratas, pero tienen un diseño irresistible para los entusiastas del gaming",
-    "snippet": "Aunque hace ya algún tiempo que NVIDIA nos trajo sus nuevas tarjetas gráficas de la serie RTX 5000, algunos fabricantes siguen lanzando en 2026 revisiones de ensambles y nuevas líneas de dicha generación. Una de las últi...",
-    "date": "2026-09-16T10:16:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/disponibles-nuevas-gigabyte-rtx-50-infinity-no-baratas-tienen-diseno-irresistible-para-entusiastas-gaming",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/no-quiero-que-anthropic-domine-agi-ingeniero-deepseek-avisa-plena-confrontacion-eeuu-china",
-    "title": "\"No quiero que Anthropic domine la AGI\": un ingeniero de DeepSeek avisa en plena confrontación de EEUU y China",
-    "snippet": "El próximo 24 de septiembre Donald Trump y Xi Jinping se reunirán por segunda vez este año. Este encuentro tendrá lugar en la Casa Blanca (Washington), y llega en un momento crucial en el que ambos presidentes persiguen ...",
-    "date": "2026-09-16T10:16:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/no-quiero-que-anthropic-domine-agi-ingeniero-deepseek-avisa-plena-confrontacion-eeuu-china",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456212",
-    "title": "Carga movilizada por puertos de la Región de Tarapacá crece 28,4% en julio de 2026",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario En julio de 2026, los puertos de la Región de Tarapacá movilizaron 1.463.630 toneladas, cifra que\nLa entrada Carga movilizada por puertos de la Región de Tarapacá crece 28,4...",
-    "date": "2026-09-16T10:00:46",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/carga-movilizada-por-puertos-de-la-region-de-tarapaca-crece-284-en-julio-de-2026/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/espana-se-ha-situado-cabeza-europa-algo-esfuerzo-acumulado-anos-80-para-comprarse-vivienda",
-    "title": "España se ha situado en la cabeza de Europa en algo: el esfuerzo acumulado desde los años 80 para comprarse una vivienda",
-    "snippet": "A lo largo de los último 45 años los españoles hemos visto cómo aumentaban nuestras rentas y cómo se disparaba el precio de la vivienda, más o menos igual que el resto de nuestros socios comunitarios. El problema es que ...",
-    "date": "2026-09-16T10:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/espana-se-ha-situado-cabeza-europa-algo-esfuerzo-acumulado-anos-80-para-comprarse-vivienda",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.scmp.com/news/hong-kong/politics/article/3367706/14-key-takeaways-john-lees-policy-address-hong-kongs-first-5-year-plan?utm_source=rss_feed",
-    "title": "14 key takeaways from John Lee’s policy address, Hong Kong’s first 5-year plan",
-    "snippet": "Hong Kong Chief Executive John Lee Ka-chiu has placed deepening integration with mainland China and developing new economic engines centre stage as he unveiled the city’s first-ever five-year plan alongside the last poli...",
-    "date": "2026-09-16T09:37:58",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3367706/14-key-takeaways-john-lees-policy-address-hong-kongs-first-5-year-plan?utm_source=rss_feed",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/privacidad/rechazo-a-ray-ban-meta-grande-que-estan-preparando-modelo-camara-the-information",
-    "title": "El rechazo a las Ray-Ban Meta es tan grande que están preparando un modelo sin cámara, según The Information",
-    "snippet": "Si algo ha sonado con fuerza estos últimos meses cuando se habla de la privacidad, eso es el creciente protagonismo de las cámaras por todas partes. Ya no son cámaras en móviles cuyas fotos se guardan (de primeras) en el...",
-    "date": "2026-09-16T09:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/privacidad/rechazo-a-ray-ban-meta-grande-que-estan-preparando-modelo-camara-the-information",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/entrevistas/nuestra-mision-no-limpiar-tu-casa-liberar-tus-manos-ambiciosa-jugada-dreame-para-conquistar-calle-gafas-anillos-camaras",
-    "title": "\"Nuestra misión no es limpiar tu casa, es liberar tus manos\": la ambiciosa jugada de Dreame para conquistar la calle con gafas, anillos y cámaras",
-    "snippet": "Este año esperaba encontrarme el enorme stand de Dreame en IFA lleno de robots. Su joya de la corona son los aspiradores, y su nuevo Aqua20 Pro Ultra Roller X Complete con limpieza a vapor a 180 grados es la prueba de el...",
-    "date": "2026-09-16T09:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/entrevistas/nuestra-mision-no-limpiar-tu-casa-liberar-tus-manos-ambiciosa-jugada-dreame-para-conquistar-calle-gafas-anillos-camaras",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "6aa82f6b6d59a577994203c4",
-    "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-    "snippet": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead....",
-    "date": "2026-09-16T09:30:00",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/shark-beauty-renueva-su-moldeador-aire-caliente-asi-nuevo-flexstyle-ioncurl-para-combatir-encrespamiento",
-    "title": "Shark Beauty renueva su moldeador de aire caliente: así es el nuevo FlexStyle IonCurl para combatir el encrespamiento",
-    "snippet": "El mercado de los moldeadores y secadores por aire caliente sigue ganando terreno frente a las planchas tradicionales y Shark Beauty acaba de lanzar un nuevo producto. La firma ha presentado el nuevo Shark FlexStyle IonC...",
-    "date": "2026-09-16T09:16:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/shark-beauty-renueva-su-moldeador-aire-caliente-asi-nuevo-flexstyle-ioncurl-para-combatir-encrespamiento",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/basics/android-auto",
-    "title": "Android Auto: qué es, cómo funciona, cómo conectarlo y todo lo que puedes hacer con él",
-    "snippet": "Te traemos una guía con todo lo que tienes que saber de Android Auto, la aplicación para utilizar en la consola de tu coche creada por Google. Con ella vas a poder empezar desde cero sabiendo qué es exactamente la app y ...",
-    "date": "2026-09-16T09:00:14",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/basics/android-auto",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-piensas-invertir-conoce-cuatro-aspectos-debes-revisar-antes-colocar-tu-dinero-1091946.aspx",
-    "title": "¿Piensas invertir? Conoce cuatro aspectos que debes revisar antes de colocar tu dinero",
-    "snippet": "Ante una oferta de inversión, una de las primeras cifras que suele captar la atención es la rentabilidad prometida. Sin embargo, evaluar una oportunidad únicamente por el porcentaje de retorno puede llevar a dejar de lad...",
-    "date": "2026-09-16T09:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-piensas-invertir-conoce-cuatro-aspectos-debes-revisar-antes-colocar-tu-dinero-1091946.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4906553",
-    "title": "T-Mobile Is the First Carrier to Support Apple’s iPhone Handoff, but It’ll Cost $5 a Month",
-    "snippet": "The new iOS 27 feature lets you bounce between two iPhones easily, but the carrier is charging for it. And AT&#038;T is staying hands-free for now....",
-    "date": "2026-09-16T09:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/t-mobile-charging-for-iphone-handoff/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/oficial-philips-anuncia-monitor-que-combina-pantalla-ultrapanoramica-tasa-refresco-200-hz-tecnologia-ambiglow",
-    "title": "Ya es oficial: Philips anuncia un monitor que combina pantalla ultrapanorámica con una tasa de refresco de 200 Hz y tecnología Ambiglow",
-    "snippet": "Si estás buscando un buen monitor gaming y todavía no te has decidido por un modelo en concreto, atento porque lo nuevo de Philips llega con buenas especificaciones y un precio bastante atractivo. Hablamos del Philips Ev...",
-    "date": "2026-09-16T08:46:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/oficial-philips-anuncia-monitor-que-combina-pantalla-ultrapanoramica-tasa-refresco-200-hz-tecnologia-ambiglow",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/madrid-se-han-hartado-no-poder-sentarse-a-sombra-piden-bancos-concretamente-1-602",
-    "title": "En Madrid se han hartado de no poder sentarse a la sombra y piden más bancos. Concretamente, 1.602 más",
-    "snippet": "Hay ciudades que parecen diseñadas para caminar, como Dublín o Copenhague; o ir en bici, como Ámsterdam; otras, para ir de compras, como Milán. Y algunas tienen plazas donde caben miles de personas pero encontrar un asie...",
-    "date": "2026-09-16T08:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/madrid-se-han-hartado-no-poder-sentarse-a-sombra-piden-bancos-concretamente-1-602",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/85-anos-que-atlantico-no-estaba-calmado-solo-huracan-no-que-vemos-que-esta-pasando-justo-debajo",
-    "title": "Hacía 85 años que el Atlántico no estaba tan calmado sin un solo huracán. Pero no es lo que vemos, es lo que está pasando justo debajo",
-    "snippet": "El Atlántico ha llegado al momento en el que estadísticamente debería estar produciendo más huracanes, pero ocurre todo lo contrario: no ha formado ninguno. De hecho, hay que remontarse a 1941 para encontrar una temporad...",
-    "date": "2026-09-16T08:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/85-anos-que-atlantico-no-estaba-calmado-solo-huracan-no-que-vemos-que-esta-pasando-justo-debajo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/todo-que-necesitas-para-crear-tu-tienda-online-concentrado-solo-lugar-5-99-euros-al-mes-asi-hostinger-ecommerce",
-    "title": "Todo lo que necesitas para crear tu tienda online, concentrado en un solo lugar y por 5,99 euros al mes: así es Hostinger Ecommerce",
-    "snippet": "Tener una tienda online abre tu negocio a un público enorme, pero crearla desde cero puede ser algo complicado si no tienes conocimientos de código o programación. Una de las alternativas más sencillas que podemos elegir...",
-    "date": "2026-09-16T07:46:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/todo-que-necesitas-para-crear-tu-tienda-online-concentrado-solo-lugar-5-99-euros-al-mes-asi-hostinger-ecommerce",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
-    "title": "\"No vamos a permitir que eso suceda\" Jensen Huang, CEO de NVIDIA, sobre frenar el desarrollo de la IA",
-    "snippet": "El pasado lunes Jensen Huang, CEO de NVIDIA, estaba participando el evento All-In en Los Ángeles cuando le sonó el móvil. Lo normal habría sido ignorarlo y continuar con su discurso, pero quien llamaba era Donald Trump. ...",
-    "date": "2026-09-16T07:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
-    "title": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo",
-    "snippet": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo \n   \n\n\n  \n     \n    \n             \n        \n   \n       \n    #SOCIAL_BUTTONS#\n   \n    \n \n      \n     ...",
-    "date": "2026-09-16T07:24:44",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
     "category": "TRIBUTARIO"
   }
 ]
