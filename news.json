@@ -1,5 +1,212 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-minem-cartera-exploracion-minera-comprende-57-proyectos-672-millones-1092203.aspx",
+    "title": "Minem: cartera de exploración minera comprende 57 proyectos por US$ 672 millones",
+    "snippet": "El Ministerio de Energía y Minas (Minem) actualizó la cartera de proyectos de exploración minera, que comprende 57 iniciativas con una inversión conjunta de 672 millones de dólares, informó el titular del sector, Guiller...",
+    "date": "2026-09-17T19:50:16",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minem-cartera-exploracion-minera-comprende-57-proyectos-672-millones-1092203.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456525",
+    "title": "Precios globales del GNL podrían dispararse por bajos inventarios en Europa",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Los precios globales del gas natural licuado (GNL) podrían dispararse este invierno debido a las\nLa entrada Precios globales del GNL podrían dispararse por b...",
+    "date": "2026-09-17T19:30:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/precios-globales-del-gnl-podrian-dispararse-por-bajos-inventarios-en-europa/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/starship-ira-fin-a-orbita-parte-clave-vuelo-estara-escondida-sus-satelites",
+    "title": "Starship irá por fin a por la órbita. Una parte clave del vuelo estará escondida entre sus satélites",
+    "snippet": "Starship lleva años acostumbrándonos a imágenes difíciles de ignorar: un vehículo gigantesco despegando, etapas separándose en vuelo y pruebas que unas veces han terminado con avances claros y otras con pérdidas inespera...",
+    "date": "2026-09-17T19:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/starship-ira-fin-a-orbita-parte-clave-vuelo-estara-escondida-sus-satelites",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=100531",
+    "title": "Fashion Hall Fest reunirá diseño peruano, moda sostenible y oportunidades de negocio en la Feria Textilinca 2026",
+    "snippet": "El diseño peruano contará con una nueva vitrina para presentar propuestas, conectar con profesionales y generar oportunidades comerciales durante el Fashion Hall Fest, encuentro coorganizado por el Grupo G-Trade S.A.C. y...",
+    "date": "2026-09-17T19:21:27",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/fashion-hall-fest-reunira-diseno-peruano-moda-sostenible-y-oportunidades-de-negocio-en-la-feria-textilinca-2026/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "6aac1bad7233731358b639a6",
+    "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
+    "snippet": "Amazon Web Services didn’t design its data centers to withstand war, and now the company admits it can’t recover what’s been lost....",
+    "date": "2026-09-17T19:15:00",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/no-hacian-falta-hipotesis-exoticas-para-explicar-puntos-rojos-james-webb-solo-simulacion-precisa-jamas-hecha-universo-temprano",
+    "title": "No hacían falta hipótesis exóticas para explicar los puntos rojos del James Webb. Solo la simulación más precisa jamás hecha del universo temprano",
+    "snippet": "Poco después de comenzar con su trabajo de observación, el Telescopio Espacial James Webb detectó algo que ha traído de cabeza a astrónomos de todo el mundo desde entonces. Se trata de una serie de puntos rojos que parec...",
+    "date": "2026-09-17T19:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/no-hacian-falta-hipotesis-exoticas-para-explicar-puntos-rojos-james-webb-solo-simulacion-precisa-jamas-hecha-universo-temprano",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-inversion-proyectos-via-obras-impuestos-la-libertad-supera-los-s-159-millones-1092193.aspx",
+    "title": "Inversión en proyectos vía Obras por Impuestos en La Libertad supera los S/ 159 millones",
+    "snippet": "Más de 159 millones de soles se ha invertido hasta el momento en La Libertad en diversos proyectos de infraestructura a través del mecanismo de Obras por Impuestos (OxI). El financiamiento de estas obras fue otorgado por...",
+    "date": "2026-09-17T19:00:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-inversion-proyectos-via-obras-impuestos-la-libertad-supera-los-s-159-millones-1092193.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=997134",
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "snippet": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage group...",
+    "date": "2026-09-17T18:58:05",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "category": "MERCADO"
+  },
+  {
+    "id": "6aaae0665ca28e1671fc4400",
+    "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+    "snippet": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down....",
+    "date": "2026-09-17T18:42:25",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-reniec-realizara-campana-gratuita-para-dni-conoce-horarios-lugares-y-beneficiarios-1091971.aspx",
+    "title": "Reniec realizará campaña gratuita para el DNI: conoce horarios, lugares y beneficiarios",
+    "snippet": "Del lunes 14 al domingo 20 de setiembre, el Registro Nacional de Identificación y Estado Civil (Reniec) realizará campañas itinerantes para facilitar que la población acceda gratuitamente a diversos trámites relacionados...",
+    "date": "2026-09-17T18:35:41",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-reniec-realizara-campana-gratuita-para-dni-conoce-horarios-lugares-y-beneficiarios-1091971.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165636",
+    "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+    "snippet": "The company suspended service in the city in April after one of its robotaxis got swept away....",
+    "date": "2026-09-17T18:30:30",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456543",
+    "title": "Grande Shanghai visita Mombasa por segunda vez para descargar 812 vehículos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Kenya Ports Authority informó que el Puerto de Mombasa dio la bienvenida al buque MV Grande Shanghai\nLa entrada Grande Shanghai visita Mombasa por segunda vez para descargar...",
+    "date": "2026-09-17T18:30:18",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/grande-shanghai-visita-mombasa-por-segunda-vez-para-descargar-812-vehiculos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/electra-inaugura-madrid-su-estacion-carga-ultrarrapida-potente-26-cargadores-600-kw-para-tener-tu-coche-listo-minutos",
+    "title": "Electra inaugura en Madrid su estación de carga ultrarrápida más potente: 26 cargadores y 600 kW para tener tu coche listo en minutos",
+    "snippet": "Electra, operadora francesa especializada en recarga de vehículos, ha puesto en marcha un nuevo centro de carga ultrarrápida en Carabanchel, en Madrid. Según la empresa, es la estación de carga urbana más potente de Euro...",
+    "date": "2026-09-17T18:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/electra-inaugura-madrid-su-estacion-carga-ultrarrapida-potente-26-cargadores-600-kw-para-tener-tu-coche-listo-minutos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-el-sistema-operativo-movil-one-ui-9-ya-esta-disponible-y-estas-son-las-novedades-1092187.aspx",
+    "title": "El sistema operativo móvil One UI 9 ya está disponible y estas son las novedades",
+    "snippet": "One UI 9, la nueva interfaz para dispositivos Galaxy de Samsung, ya no solo está disponible en los nuevos plegables. Ahora también comenzó a desplegarse -progresivamente- en la línea S26. Descubre cuáles son los equipos ...",
+    "date": "2026-09-17T18:13:53",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-el-sistema-operativo-movil-one-ui-9-ya-esta-disponible-y-estas-son-las-novedades-1092187.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/cine-y-tv/serie-vista-historia-netflix-vuelve-hoy-nuevos-episodios-se-ha-visto-1-200-millones-veces",
+    "title": "La serie más vista en la historia de Netflix vuelve hoy con nuevos episodios: se ha visto más de 1.200 millones de veces",
+    "snippet": "Casi diez años después de su arranque, 'Stranger Things' se despidió la pasada Nochevieja con su gran final. A lo largo de cinco temporadas, se convirtió en la producción propia más exitosa de la historia de Netflix: más...",
+    "date": "2026-09-17T18:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/cine-y-tv/serie-vista-historia-netflix-vuelve-hoy-nuevos-episodios-se-ha-visto-1-200-millones-veces",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-huanuco-investigan-biodiversidad-anfibios-reptiles-y-aves-la-cordillera-carpish-1092182.aspx",
+    "title": "Huánuco: investigan biodiversidad de anfibios, reptiles y aves en la Cordillera de Carpish",
+    "snippet": "Científicos del Instituto de Investigaciones de la Amazonía Peruana (IIAP) realizan una expedición para evaluar la biodiversidad de anfibios, reptiles y aves en los bosques montanos de la Cordillera de Carpish, en la reg...",
+    "date": "2026-09-17T17:58:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-huanuco-investigan-biodiversidad-anfibios-reptiles-y-aves-la-cordillera-carpish-1092182.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mejores-cargadores-rapidos",
+    "title": "Mejores cargadores rápidos para móvil, tablet, portátil y otros dispositivos. 6 modelos recomendados por potencia y seguridad",
+    "snippet": "Las baterías de los diferentes dispositivos electrónicos han avanzado bastante en los últimos años. No tanto por la capacidad que ofrecen, sino más bien por la velocidad que son capaces de alcanzar para tenerlos cargados...",
+    "date": "2026-09-17T17:16:11",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mejores-cargadores-rapidos",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=997009",
+    "title": "Save $30 or more on a refurbished Apple TV 4K",
+    "snippet": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished throu...",
+    "date": "2026-09-17T17:14:07",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/nuevos-megatrenes-madrid-pasan-taller-a-10-dias-su-estreno-renfe-se-defiende-estan-fase-rodaje",
+    "title": "Los nuevos megatrenes de Madrid pasan por el taller a los 10 días de su estreno pero Renfe se defiende: \"Están en una fase de rodaje\"",
+    "snippet": "Semana y media. 10 días. Eso es lo que han durado en servicio tres unidades de los nuevos trenes que Renfe ha incorporado en la red de Cercanías en Madrid. Los trenes, de la empresa suiza Stadler, han sufrido problemas d...",
+    "date": "2026-09-17T17:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/nuevos-megatrenes-madrid-pasan-taller-a-10-dias-su-estreno-renfe-se-defiende-estan-fase-rodaje",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.scmp.com/news/hong-kong/politics/article/3367906/hong-kong-hits-out-us-panel-over-jimmy-lai-hearing-and-sanctions-bill?utm_source=rss_feed",
+    "title": "Hong Kong hits out at US panel over Jimmy Lai hearing and sanctions bill",
+    "snippet": "Hong Kong authorities have hit out at a US congressional commission for colluding with “anti-China politicians” to hold a hearing on jailed former media boss Jimmy Lai Chee-ying and introducing a bill to “intimidate” loc...",
+    "date": "2026-09-17T16:59:15",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3367906/hong-kong-hits-out-us-panel-over-jimmy-lai-hearing-and-sanctions-bill?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=100544",
+    "title": "Precio del dólar en Perú hoy, 17 de setiembre de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este jueves 17 de setiembre a las 11:45 a. m. se sitúa en S/3.361 para la compra y S/3.372 para ...",
+    "date": "2026-09-17T16:49:31",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-17-de-setiembre-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/profesores-medio-espana-estan-dejando-llevar-a-sus-alumnos-excursion-no-falta-ganas",
+    "title": "Los profesores de medio España están dejando de llevar a sus alumnos de excursión. No es por falta de ganas",
+    "snippet": "Miles de alumnos catalanes han arrancado este curso 2026-2027 sin colònies, sin excursiones, ni casales, granjas-escuela, campamentos ni viajes de fin de curso. Nada. 1.354 escuelas e institutos, más de la mitad de los c...",
+    "date": "2026-09-17T16:30:12",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/profesores-medio-espana-estan-dejando-llevar-a-sus-alumnos-excursion-no-falta-ganas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456589",
+    "title": "Empresa Portuaria Valparaíso y Ruta 68 activan trabajo para fortalecer seguridad vial de cadena logística",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Empresa Portuaria Valparaíso (EPV) y la Sociedad Concesionaria Ruta 68 a la Costa realizaron el\nLa entrada Empresa Portuaria Valparaíso y Ruta 68 activan trabajo para for...",
+    "date": "2026-09-17T16:27:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/empresa-portuaria-valparaiso-y-ruta-68-activan-trabajo-para-fortalecer-seguridad-vial-de-cadena-logistica/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-conviene-pagar-ahora-una-deuda-dolares-ante-bajo-nivel-del-tipo-cambio-1087614.aspx",
     "title": "¿Conviene pagar ahora una deuda en dólares ante el bajo nivel del tipo de cambio?",
     "snippet": "Luego de mostrar una tendencia a la baja en agosto el precio del dólar ha mostrado una leve recuperación en los primeros días de setiembre, ubicándose actualmente alrededor de los 3.36 soles, con proyecciones de mercado ...",
@@ -1140,213 +1347,6 @@
     "date": "2026-09-16T14:46:11",
     "source": "XATAKA",
     "url": "https://www.xataka.com/seleccion/aldi-lanza-esta-aspiradora-cables-59-99-euros-luz-verde-varios-accesorios-59-99-euros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=996216",
-    "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-    "snippet": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has retu...",
-    "date": "2026-09-16T14:44:48",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3164817",
-    "title": "Amazon gives its workers a raise of $1 per hour",
-    "snippet": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap....",
-    "date": "2026-09-16T14:32:08",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/madrid-ha-batido-otro-record-numero-reclamaciones-que-ha-recibido-su-metro",
-    "title": "Madrid ha batido otro récord: el número de reclamaciones que ha recibido su metro",
-    "snippet": "Imagina la escena (aunque no hace falta, porque los datos dicen que lo han vivido decenas de miles de personas): subes al metro y el aire acondicionado parece que no funciona en el vagón. Te desplazas tambaleándote y tam...",
-    "date": "2026-09-16T14:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/madrid-ha-batido-otro-record-numero-reclamaciones-que-ha-recibido-su-metro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3164799",
-    "title": "Threads’ new features let podcasters promote shows and reach listeners",
-    "snippet": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders and audience insights, as Meta looks to make the X rival a bigger hub for podcast promot...",
-    "date": "2026-09-16T14:24:58",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o#0",
-    "title": "Burnham rejects 'tax and spend socialist' comments",
-    "snippet": "The prime minister insists he is prepared to take \"difficult decisions\" at next month's Budget....",
-    "date": "2026-09-16T14:21:37",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
-    "title": "La nueva idea de uno de los creadores de ChatGPT es una IA que no sabe escribir. Esa es precisamente su ventaja",
-    "snippet": "Diogo Almeida no es un emprendedor de IA cualquiera. Trabajó en OpenAI y fue uno de los autores de InstructGPT, el estudio sobre aprendizaje por refuerzo a partir de retroalimentación humana (RLHF) que sentó parte de las...",
-    "date": "2026-09-16T14:16:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456090",
-    "title": "BEI aporta USD 115 millones para transformar al Puerto de Klaipeda en centro de energías limpias",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Banco Europeo de Inversiones (BEI) concedió un préstamo de 100 millones de euros (USD 115\nLa entrada BEI aporta USD 115 millones para transformar al Puerto de Klaipeda en...",
-    "date": "2026-09-16T14:00:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/bei-aporta-usd-115-millones-para-transformar-al-puerto-de-klaipeda-en-centro-de-energias-limpias/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/analisis/midea-portasplit-analisis-caracteristicas-precio-especificaciones",
-    "title": "Midea PortaSplit, análisis: un aire acondicionado portátil que combina lo mejor de un split y de un pingüino",
-    "snippet": "Cuando me he topado con algún aire acondicionado portátil normalmente me encuentro con un aparato ruidoso, ineficiente y pocas veces son capaces de enfriar una habitación en condiciones. Y tiene todo el sentido del mundo...",
-    "date": "2026-09-16T14:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/analisis/midea-portasplit-analisis-caracteristicas-precio-especificaciones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
-    "title": "Cronograma de pagos 2026 de sueldos y pensiones en el Estado peruano",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones y pensiones en la administración pública que se aplicará durante el año fiscal 2026....",
-    "date": "2026-09-16T13:52:50",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-y-pensiones-el-estado-peruano-1056807.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-diciendo-que-nino-apenas-afecta-a-espana-no-verdad-nos-golpea-donde-nos-fijamos",
-    "title": "Llevamos años diciendo que El Niño apenas afecta a España. No es verdad: nos golpea donde menos nos fijamos",
-    "snippet": "A 8.000 kilómetros de la península Ibérica, en el estado indio de Andhra Pradesh, ha llovido un 44% menos de lo normal. Empujado por un El Niño que ya ha entrado en la categoría de \"muy fuerte\", los medios hablan del peo...",
-    "date": "2026-09-16T13:46:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-diciendo-que-nino-apenas-afecta-a-espana-no-verdad-nos-golpea-donde-nos-fijamos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mtc-fija-reglas-para-llamadas-comerciales-si-tienen-prefijo-500-quieren-venderte-algo-1091820.aspx",
-    "title": "MTC fija reglas para llamadas comerciales: si tienen prefijo 500, quieren venderte algo",
-    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC) publicó el Decreto Supremo que establece una serie de numeración específica para identificar las llamadas y mensajes de texto con fines comerciales y publicitarios....",
-    "date": "2026-09-16T13:43:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mtc-fija-reglas-para-llamadas-comerciales-si-tienen-prefijo-500-quieren-venderte-algo-1091820.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.scmp.com/news/hong-kong/society/article/3367756/10-ai-biotech-firms-northern-metropolis-get-early-cross-border-data-access?utm_source=rss_feed",
-    "title": "10 AI, biotech firms in Northern Metropolis to get early cross-border data access",
-    "snippet": "About 10 artificial intelligence (AI) and biotech companies will be the first to access cross-border data flows under a new pilot scheme, securing an early edge over roughly 100 other firms set up in Hong Kong’s flagship...",
-    "date": "2026-09-16T13:31:25",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3367756/10-ai-biotech-firms-northern-metropolis-get-early-cross-border-data-access?utm_source=rss_feed",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/letras-df-15a-han-aparecido-restos-misil-yemen-todo-apunta-al-secreto-mejor-guardado-arsenal-saudi",
-    "title": "Las letras “DF-15A” han aparecido entre los restos de un misil en Yemen. Todo apunta al secreto mejor guardado del arsenal saudí",
-    "snippet": "Unos restos de misil han aparecido en una zona de Yemen castigada por los combates. Hasta ahí, nada especialmente extraño en un país que lleva años viendo caer drones y misiles de diferentes procedencias. Pero una inscri...",
-    "date": "2026-09-16T13:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/letras-df-15a-han-aparecido-restos-misil-yemen-todo-apunta-al-secreto-mejor-guardado-arsenal-saudi",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-la-primera-vez-un-papa-piso-peru-asi-fue-visita-juan-pablo-ii-fotos-1090450.aspx",
-    "title": "La primera vez que un papa pisó el Perú: así fue la visita de Juan Pablo II [fotos]",
-    "snippet": "Cuando el Perú enfrentaba uno de sus periodos más convulsionados a causa del terrorismo, una noticia encendió la esperanza de millones de peruanos: por primera vez, un Papa pisaría suelo nacional. Era 1985 y el país se p...",
-    "date": "2026-09-16T13:26:59",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-la-primera-vez-un-papa-piso-peru-asi-fue-visita-juan-pablo-ii-fotos-1090450.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/nasa-ha-declarado-primera-vez-a-dos-astronautas-emeritos-seguro-que-sus-nombres-te-suenan",
-    "title": "La NASA ha declarado por primera vez a dos astronautas eméritos y seguro que sus nombres te suenan",
-    "snippet": "Viajar alrededor de la Luna y ver cómo la Tierra se pone detrás de ella, como el Sol cada tarde bajo nuestro horizonte, parece un buen broche de oro ideal para cualquier carrera profesional. Por eso, tres de los cuatro a...",
-    "date": "2026-09-16T13:16:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/nasa-ha-declarado-primera-vez-a-dos-astronautas-emeritos-seguro-que-sus-nombres-te-suenan",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-chollos-tecnologia-que-hemos-encontrado-amazon-hoy-16-septiembre-descuentos-70",
-    "title": "Los mejores chollos en tecnología que hemos encontrado en Amazon hoy, 16 de septiembre: descuentos de hasta el 70%",
-    "snippet": "Si estás pensando en comprar tecnología y quieres no arruinarte en el intento (y más ahora que la crisis de la RAM está encareciendo muchos dispositivos), Amazon es una de esas tiendas en las que se pueden comprar aparat...",
-    "date": "2026-09-16T13:16:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-chollos-tecnologia-que-hemos-encontrado-amazon-hoy-16-septiembre-descuentos-70",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456141",
-    "title": "Australia: Puerto de Ashburton concreta mejoras de infraestructura para mantener operaciones seguras",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Pilbara Ports está llevando a cabo mejoras clave en la infraestructura del Puerto de Ashburton para\nLa entrada Australia: Puerto de Ashburton concreta mejoras de infraestruc...",
-    "date": "2026-09-16T13:00:19",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/australia-puerto-de-ashburton-concreta-mejoras-de-infraestructura-para-mantener-operaciones-seguras/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/byd-tenia-barco-grande-mundo-para-transportar-sus-coches-ahora-va-a-diez",
-    "title": "BYD ya tenía el barco más grande del mundo para transportar sus coches. Ahora va a por diez más",
-    "snippet": "BYD está conquistando el panorama internacional con sus turismos dentro de un ecosistema cada vez más electrificado. Sin embargo, para seguir a ese vertiginoso ritmo hacen falta más barcos y más grandes que puedan transp...",
-    "date": "2026-09-16T13:00:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/byd-tenia-barco-grande-mundo-para-transportar-sus-coches-ahora-va-a-diez",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3164496",
-    "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-    "snippet": "Fluxnium's  fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations....",
-    "date": "2026-09-16T13:00:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/mundo-tiene-razon-al-tener-miedo-ia-solucion-sam-altman-que-confiemos-quienes-estan-construyendo",
-    "title": "“El mundo tiene razón al tener miedo de la IA”. La solución de Sam Altman es que confiemos en quienes la están construyendo",
-    "snippet": "Sam Altman, el CEO de OpenAI, ha hecho una declaración llamativa: \"el mundo tiene razón al tener miedo de esto\". Se refiere, cómo no, a la amenaza que plantea la IA y que hizo que su rival empresarial, Dario Amodei, dije...",
-    "date": "2026-09-16T12:46:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/mundo-tiene-razon-al-tener-miedo-ia-solucion-sam-altman-que-confiemos-quienes-estan-construyendo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456103",
-    "title": "Reino Unido: Inauguran centro de almacenamiento y manipulación de graneles en Puerto de Tilbury",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Forth Ports anunció la inauguración de un centro de almacenamiento y manipulación de graneles de la\nLa entrada Reino Unido: Inauguran centro de almacenamiento y manipulación...",
-    "date": "2026-09-16T12:30:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/reino-unido-inauguran-centro-de-almacenamiento-y-manipulacion-de-graneles-en-puerto-de-tilbury/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/olivareros-espanoles-se-han-topado-algo-plena-negociacion-precios-boom-aceite-tunez-libre-aranceles",
-    "title": "Los olivareros españoles se han topado con algo en plena negociación de precios: un boom de aceite de Túnez libre de aranceles",
-    "snippet": "La alerta la dio hace unos días la organización agraria COAG: la mayoría del aceite de oliva de Túnez que entra en España lo hace libre de aranceles. Para ser precisos y citando datos de la Junta de Andalucía, COAG asegu...",
-    "date": "2026-09-16T12:30:12",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/olivareros-espanoles-se-han-topado-algo-plena-negociacion-precios-boom-aceite-tunez-libre-aranceles",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/hay-pocos-barcos-dispuestos-a-cruzar-ormuz-que-usar-petrolero-vale-millon-dolares-al-dia-vamos-a-notar-gasolinera",
-    "title": "Hay tan pocos barcos dispuestos a cruzar Ormuz que usar un petrolero ya vale más de un millón de dólares al día. Y lo vamos a notar en la gasolinera",
-    "snippet": "Alquilar un petrolero nunca ha sido tan caro, y eso tiene un impacto directo en el precio del petróleo que, indiscutiblemente, vamos a asumir. Y es que en la ruta más vigilada del sector, el coste diario de fletar un buq...",
-    "date": "2026-09-16T12:16:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/hay-pocos-barcos-dispuestos-a-cruzar-ormuz-que-usar-petrolero-vale-millon-dolares-al-dia-vamos-a-notar-gasolinera",
     "category": "TRIBUTARIO"
   }
 ]
