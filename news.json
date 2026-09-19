@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-19-septiembre",
+    "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 19 de septiembre",
+    "snippet": "Este fin de semana entra de nuevo en funcionamiento la normativa del Hoy No Circula sabatino, un marco regulatorio mediante el cual la Secretaría de Medio Ambiente de la Ciudad de México (SEDEMA) restringe el tráfico par...",
+    "date": "2026-09-19T03:00:11",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-19-septiembre",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-bid-destaca-impacto-de-sanidad-pesquera-y-acuicola-1092406.aspx",
+    "title": "BID destaca impacto de la sanidad pesquera y acuícola",
+    "snippet": "Por cada dólar de inversión pública en la Autoridad Nacional de Sanidad e Inocuidad en Pesca y Acuicultura (Sanipes) se generan entre 279 y 328 dólares en valor de exportaciones hidrobiológicas, según un estudio del Banc...",
+    "date": "2026-09-19T02:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-bid-destaca-impacto-de-sanidad-pesquera-y-acuicola-1092406.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=456571",
+    "title": "Drydocks World y Cochin Shipyard forman empresa conjunta fortalecer industria india de reparación naval",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Drydocks World, una empresa de DP World, y Cochin Shipyard Limited (CSL) anunciaron la firma de\nLa entrada Drydocks World y Cochin Shipyard forman empresa conjunta fortalece...",
+    "date": "2026-09-19T01:00:42",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/drydocks-world-y-cochin-shipyard-forman-empresa-conjunta-fortalecer-industria-india-de-reparacion-naval/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-sbs-aprueba-reglamento-para-gestionar-riesgo-sobreendeudamiento-cooperativo-1092405.aspx",
+    "title": "SBS aprueba reglamento para gestionar riesgo de sobreendeudamiento cooperativo",
+    "snippet": "La Superintendencia de Banca, Seguros y AFP (SBS) aprobó el Reglamento para la administración del riesgo de sobreendeudamiento de los socios deudores minoristas de las cooperativas de ahorro y crédito no autorizadas a ca...",
+    "date": "2026-09-19T01:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-sbs-aprueba-reglamento-para-gestionar-riesgo-sobreendeudamiento-cooperativo-1092405.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1708302",
+    "title": "Más de 53 mil mototaxistas de la selva podrán registrar compras de gasolina para recibir hasta S/100 al mes: link para acceder al subsidio",
+    "snippet": "El Gobierno habilitó la plataforma web para que los mototaxistas de la selva registren sus consumos de gasohol desde este sábado 19 de setiembre. El apoyo económico es de S/4 por galón y tendrá un periodo de tres meses....",
+    "date": "2026-09-18T23:55:07",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/link-para-subsidio-de-hasta-s-300-a-mototaxistas-para-comprar-gasolina-gobierno-habilita-plataforma-para-registrar-a-mas-de-53-mil-beneficiarios-noticia-1708302",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166504",
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "snippet": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations....",
+    "date": "2026-09-18T23:25:01",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
+    "title": "How Focus mode has changed in iOS 27",
+    "snippet": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus....",
+    "date": "2026-09-18T23:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
     "title": "AI almost led the US military to start a war with China, report says",
     "snippet": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components....",
@@ -1285,68 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-dp-world-callao-plantea-invertir-1470-millones-ampliar-capacidad-del-muelle-sur-1092227.aspx",
     "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456725",
-    "title": "Entra en vigor MoU entre Chile y China para facilitar exportaciones de fruta fresca",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Agricultura de Chile, a través del Servicio Agrícola y Ganadero (SAG), suscribió un\nLa entrada Entra en vigor MoU entre Chile y China para facilitar exporta...",
-    "date": "2026-09-17T21:37:07",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/entra-en-vigor-mou-entre-chile-y-china-para-facilitar-exportaciones-de-fruta-fresca/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456681",
-    "title": "Perú: MTC y DP World Callao impulsan nuevas inversiones para ampliar capacidad del Muelle Sur",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones (MTC) del Perú, en coordinación con el concesionario DP World\nLa entrada Perú: MTC y DP World Callao impulsan nuevas inversione...",
-    "date": "2026-09-17T21:30:58",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/peru-mtc-y-dp-world-callao-impulsan-nuevas-inversiones-para-ampliar-capacidad-del-muelle-sur/",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-loreto-comunidades-nativas-pastaza-acceden-gratis-a-dni-tambo-puerto-industrial-1092221.aspx",
-    "title": "Loreto: comunidades nativas de Pastaza acceden gratis a DNI en Tambo Puerto Industrial",
-    "snippet": "Comunidades nativas del distrito loretano de Pastaza, en la provincia de Datem del Marañón, accedieron a más de 150 trámites de manera gratuita, como parte del proceso de cambio del documento nacional de identidad (DNI) ...",
-    "date": "2026-09-17T21:22:17",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-loreto-comunidades-nativas-pastaza-acceden-gratis-a-dni-tambo-puerto-industrial-1092221.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456709",
-    "title": "Terminal Puerto Coquimbo suma atención de tres buques con carga destinada a actividad minera",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Terminal Puerto Coquimbo (TPC) recibió a los buques BBC Rhine, BBC Volga y BBC Kimberley durante\nLa entrada Terminal Puerto Coquimbo suma atención de tres buques con carga d...",
-    "date": "2026-09-17T21:21:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/terminal-puerto-coquimbo-suma-atencion-de-tres-buques-con-carga-destinada-a-actividad-minera/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-denuncia-agresion-sexual-liceo-naval-indecopi-investiga-si-se-cumplieron-normas-1092215.aspx",
-    "title": "Denuncia de agresión sexual en Liceo Naval: Indecopi investiga si se cumplieron normas",
-    "snippet": "El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi), en su calidad de Autoridad Nacional de Protección del Consumidor, dispuso el inicio de una fiscalización al Li...",
-    "date": "2026-09-17T21:11:21",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-denuncia-agresion-sexual-liceo-naval-indecopi-investiga-si-se-cumplieron-normas-1092215.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/alguien-construyo-ordenador-460-valvulas-vacio-anos-50-60-tarda-15-minutos-calentarse-funciona",
-    "title": "Alguien construyó un ordenador con 460 válvulas de vacío de los años 50 y 60. Tarda 15 minutos en calentarse, pero funciona",
-    "snippet": "Estamos tan acostumbrados a que un ordenador quepa en una mochila, en un bolsillo o incluso en un reloj que hablar de máquinas construidas con válvulas parece casi hablar de la prehistoria de la informática. Y, aunque ha...",
-    "date": "2026-09-17T21:05:41",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/alguien-construyo-ordenador-460-valvulas-vacio-anos-50-60-tarda-15-minutos-calentarse-funciona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456691",
-    "title": "Brasil: Muelle temporal del Grupo Chibatão es trasladado al Puerto de Itacoatiara",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un muelle temporal del Grupo Chibatão fue trasladado al Puerto de Itacoatiara. La salida estuvo acompañada\nLa entrada Brasil: Muelle temporal del Grupo Chibatão es trasladad...",
-    "date": "2026-09-17T21:00:47",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-muelle-temporal-del-grupo-chibatao-es-trasladado-al-puerto-de-itacoatiara/",
-    "category": "LOGÍSTICA"
   }
 ]
