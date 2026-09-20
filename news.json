@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-saber-reconocer-los-sintomas-de-apendicitis-puede-evitar-complicaciones-graves-1092509.aspx",
+    "title": "Saber reconocer los síntomas de la apendicitis puede evitar complicaciones graves",
+    "snippet": "La apendicitis puede presentarse acualquier edad, pero es más frecuentes entre los 10 y 30 años y afecta principalmente a hombres. Ante la presencia de esta enfermedad es necesario acudir de inmediato a la emergencia méd...",
+    "date": "2026-09-20T00:20:14",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-saber-reconocer-los-sintomas-de-apendicitis-puede-evitar-complicaciones-graves-1092509.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2259179/how-to-record-audio-iphone/",
+    "title": "How to record audio on your iPhone",
+    "snippet": "You don't need to record unnecessary video to capture a meeting, song or personal memo on your iPhone. Recording audio is simple....",
+    "date": "2026-09-20T00:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2259179/how-to-record-audio-iphone/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=456261",
     "title": "España: Puertos del Estado analiza tecnología espacial para navegación marítima y puertos más seguros y resilientes",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Puertos del Estado acogió dos días de reunión híbrida del European Maritime Radionavigation Forum (EMRF) y\nLa entrada España: Puertos del Estado analiza tecnología espacial ...",
@@ -1330,23 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/china-niega-haber-copiado-modelos-ia-estadounidenses-a-gran-escala-avisa-habra-represalias",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/arqueologos-han-descubierto-que-no-todas-calzadas-romanas-llevaban-a-roma-otras-ciudades-estaban-mejor-conectadas",
-    "title": "Los arqueólogos han descubierto que no todas las calzadas romanas llevaban a Roma. Otras ciudades estaban mejor conectadas",
-    "snippet": "La historia antigua no se entiende sin Roma, pero eso no significa que en su momento de mayor esplendor la 'ciudad eterna' fuese el ombligo del mundo. No al menos si hablamos de comunicaciones. Tras analizar casi 300.000...",
-    "date": "2026-09-18T10:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/arqueologos-han-descubierto-que-no-todas-calzadas-romanas-llevaban-a-roma-otras-ciudades-estaban-mejor-conectadas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=456653",
-    "title": "Guillermo Ehrecke: “A Astillero La Barca del Pescador no nos condiciona la llegada de Damen a la hidrovía”",
-    "snippet": "Por Pablo Ramírez @PortalPortuario Guillermo Ehrecke es un referente de la producción industrial naval en Paraguay. Con una trayectoria marcada\nLa entrada Guillermo Ehrecke: &#8220;A Astillero La Barca del Pescador no no...",
-    "date": "2026-09-18T10:00:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/guillermo-ehrecke-a-astillero-la-barca-del-pescador-no-nos-condiciona-la-llegada-de-damen-a-la-hidrovia/",
-    "category": "MERCADO"
   }
 ]
