@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-cne-rechaza-toda-forma-violencia-y-propone-politicas-bienestar-socioemocional-1092577.aspx",
+    "title": "CNE rechaza toda forma de violencia y propone políticas de bienestar socioemocional",
+    "snippet": "El Consejo Nacional de Educación (CNE) expresó su más profundo rechazo y tolerancia cero hacia toda forma de violencia dentro o fuera del entorno escolar y propuso políticas integrales de bienestar socioemocional a favor...",
+    "date": "2026-09-21T00:46:03",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cne-rechaza-toda-forma-violencia-y-propone-politicas-bienestar-socioemocional-1092577.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o#0",
+    "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+    "snippet": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction....",
+    "date": "2026-09-21T00:34:53",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
+    "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
+    "snippet": "If you find yourself swapping between two iPhones regularly, whether for work or casual use, you're going to want to set up Handoff....",
+    "date": "2026-09-21T00:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.engadget.com/2260287/how-to-join-facetime-call-android-phone-windows-pc/",
     "title": "How to join a FaceTime call with your Android phone or Windows PC",
     "snippet": "FaceTime isn't actually an Apple-exclusive feature. While it's not the full experience, joining calls is possible on Android and Windows devices....",
@@ -1321,32 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-atentado-cultural-cusco-denuncian-pintas-roca-sagrada-inca-del-parque-sacsayhuaman-1092342.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=997366",
-    "title": "The real story of the iPhone 18 Pro&#8217;s camera",
-    "snippet": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low l...",
-    "date": "2026-09-18T17:06:37",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-caso-liceo-naval-hoy-vence-plazo-retencion-comisaria-escolares-denunciados-1092325.aspx",
-    "title": "Caso liceo naval: hoy vence plazo de retención en comisaría de escolares denunciados",
-    "snippet": "El plazo de 48 horas dispuesto para la retención policial de los diez estudiantes del Liceo Naval Almirante Guise, investigados por una presunta agresión sexual, vence hoy viernes a las 5:00 p. m. Los adolescentes perman...",
-    "date": "2026-09-18T17:00:52",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-caso-liceo-naval-hoy-vence-plazo-retencion-comisaria-escolares-denunciados-1092325.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/minas-marruecos-tienen-gigantesco-sistema-almacenamiento-baterias-lfp-125-mwh-para-no-depender-sol",
-    "title": "Las minas en Marruecos tienen un gigantesco sistema de almacenamiento con baterías LFP: 125 MWh para no depender del sol",
-    "snippet": "Marruecos acaba de poner en marcha un gigantesco sistema de almacenamiento de energía que utiliza baterías de fosfato de hierro y litio (LFP), siendo el primer proyecto de este tipo y escala que se construye en el país. ...",
-    "date": "2026-09-18T17:00:13",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/minas-marruecos-tienen-gigantesco-sistema-almacenamiento-baterias-lfp-125-mwh-para-no-depender-sol",
-    "category": "TRIBUTARIO"
   }
 ]
