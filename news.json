@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
+    "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
+    "snippet": "The iPhone Duo has an impressively minimal crease, but that's only how it looks at the start. We'll have to wait a while to see what develops over time....",
+    "date": "2026-09-27T00:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
+    "title": "Your old GPU could be worth more than you think",
+    "snippet": "Your old GPU could be a goldmine thanks to the RAMaggedon....",
+    "date": "2026-09-26T23:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
+    "title": "Why your iPhone hates printer cables",
+    "snippet": "AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported....",
+    "date": "2026-09-26T23:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/",
+    "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+    "snippet": "The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?...",
+    "date": "2026-09-26T22:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=1001118",
     "title": "Apple hit with $5.7 billion in damages over haptic patents",
     "snippet": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around...",
@@ -1312,41 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-junin-produce-fortalece-cadena-del-cafe-chanchamayo-para-ofrecer-productos-al-mundo-1093288.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-seul-acusa-a-zelenski-romper-confidencialidad-sobre-envio-prisioneros-norcoreanos-1093286.aspx",
-    "title": "Seúl acusa a Zelenski de romper confidencialidad sobre envío de prisioneros norcoreanos",
-    "snippet": "El presidente de Corea del Sur, Lee Jae Myung, acusó a su homólogo ucraniano, Volodímir Zelenski, de romper un acuerdo de confidencialidad al revelar que enviaron al país asiático a dos prisioneros de guerra norcoreanos ...",
-    "date": "2026-09-25T01:41:34",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-seul-acusa-a-zelenski-romper-confidencialidad-sobre-envio-prisioneros-norcoreanos-1093286.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=457580",
-    "title": "Puertos de Génova intercambia experiencias de desarrollo con Autoridad Portuaria de Georgia en Savannah",
-    "snippet": "Por Redacción PortalPortuario  @PortalPortuario Puertos de Génova y la Autoridad Portuaria de Georgia se reunieron en el Puerto de Savannah\nLa entrada Puertos de Génova intercambia experiencias de desarrollo con Autorida...",
-    "date": "2026-09-25T01:30:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puertos-de-genova-intercambia-experiencias-de-desarrollo-con-autoridad-portuaria-de-georgia-en-savannah/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=457589",
-    "title": "Puerto de Londres moviliza más de 14 millones de toneladas de carga en segundo trimestre",
-    "snippet": "Por Redacción PortalPortuario  @PortalPortuario El Puerto de Londres movilizó más de 14 millones de toneladas de carga durante el segundo\nLa entrada Puerto de Londres moviliza más de 14 millones de toneladas de carga en ...",
-    "date": "2026-09-25T01:00:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-londres-moviliza-mas-de-14-millones-de-toneladas-de-carga-en-segundo-trimestre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=457583",
-    "title": "Autoridad Portuaria de Filipinas y Puerto de Amberes-Brujas firman memorando para impulsar cooperación",
-    "snippet": "Por Redacción PortalPortuario / Agencia Philippine News @PortalPoruario La Autoridad Portuaria de Filipinas (PPA) y el Puerto de Amberes-Brujas (Bélgica)\nLa entrada Autoridad Portuaria de Filipinas y Puerto de Amberes-Br...",
-    "date": "2026-09-25T00:30:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/autoridad-portuaria-de-filipinas-y-puerto-de-amberes-brujas-firman-memorando-para-impulsar-cooperacion/",
-    "category": "LOGÍSTICA"
   }
 ]
