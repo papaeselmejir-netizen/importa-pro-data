@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#0",
+    "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+    "snippet": "The former employees were investigated for sharing data with an outside AI evaluation group....",
+    "date": "2026-10-02T01:05:13",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3172720",
+    "title": "Robotaxi operators will face fines for blocking first responders",
+    "snippet": "A new California law places new rules on autonomous vehicles operators...",
+    "date": "2026-10-02T00:57:57",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458678",
+    "title": "ABS apoya estudio que evalúa viabilidad económica de buques metaneros de propulsión nuclear",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Un estudio conjunto realizado con ABS, Blossom Energy y una compañía naviera global concluyó que, si\nLa entrada ABS apoya estudio que evalúa viabilidad económica de buques m...",
+    "date": "2026-10-02T00:30:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/abs-apoya-estudio-que-evalua-viabilidad-economica-de-buques-metaneros-de-propulsion-nuclear/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-corte-justicia-del-callao-inicia-auditoria-para-certificacion-internacional-antisoborno-1094219.aspx",
+    "title": "Corte de Justicia del Callao inicia auditoría para certificación internacional antisoborno",
+    "snippet": "La Corte de Justicia del Callao inició una auditoría interna orientada a la obtención de la certificación internacional ISO 37001:2025 Sistema de Gestión Antisoborno, lo que coadyuvará a consolidar una gestión transparen...",
+    "date": "2026-10-02T00:30:45",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-corte-justicia-del-callao-inicia-auditoria-para-certificacion-internacional-antisoborno-1094219.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458741",
+    "title": "CMA CGM concreta adquisición de FedEx Supply Chain y refuerza presencia logística en Norteamérica",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Grupo CMA CGM anunció la finalización de la adquisición de FedEx Supply Chain, una subsidiaria\nLa entrada CMA CGM concreta adquisición de FedEx Supply Chain y refuerza pr...",
+    "date": "2026-10-02T00:00:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cma-cgm-concreta-adquisicion-de-fedex-supply-chain-y-refuerza-presencia-logistica-en-norteamerica/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-gobierno-peruano-invierte-mas-s-28-millones-para-innovacion-cacao-y-chocolate-1094218.aspx",
+    "title": "Gobierno peruano invierte más de S/ 28 millones para innovación en cacao y chocolate",
+    "snippet": "El Ministerio de la Producción (Produce), a través de ProInnóvate, destinó más de 28 millones de soles para impulsar la innovación y la transferencia tecnológica en la cadena productiva del cacao y chocolate peruano....",
+    "date": "2026-10-01T23:44:22",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-gobierno-peruano-invierte-mas-s-28-millones-para-innovacion-cacao-y-chocolate-1094218.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458782",
+    "title": "Ocean Network Express refuerza estructura regional en Asia Pacífico y África",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Ocean Network Express (ONE) anunció dos cambios para mejorar la estructura de su sede regional, ambos\nLa entrada Ocean Network Express refuerza estructura regional en Asia P...",
+    "date": "2026-10-01T23:30:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ocean-network-express-refuerza-estructura-regional-en-asia-pacifico-y-africa/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458815",
+    "title": "Puerto de Aberdeen apoya operación de desmantelamiento de Spirit Energy",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Aberdeen prestó su apoyo a la operación de desmantelamiento de Spirit Energy, valorada\nLa entrada Puerto de Aberdeen apoya operación de desmantelamiento de Spir...",
+    "date": "2026-10-01T23:00:51",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-aberdeen-apoya-operacion-de-desmantelamiento-de-spirit-energy/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458668",
+    "title": "DP World y TGI Group se asocian para fortalecer sus capacidades logísticas en Nigeria",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World y el Grupo Tropical General Investments (TGI) han unido fuerzas para fortalecer las capacidades\nLa entrada DP World y TGI Group se asocian para fortalecer sus capac...",
+    "date": "2026-10-01T22:30:13",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-y-tgi-group-se-asocian-para-fortalecer-sus-capacidades-logisticas-en-nigeria/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458746",
+    "title": "Uruguay exporta 17.000 toneladas de rolos de pino desde Fray Bentos a India",
+    "snippet": "Por Redacción AltaMar News @AltaMar.News El buque Uni Blossom, de bandera de Hong Kong, inició en el Puerto de Fray\nLa entrada Uruguay exporta 17.000 toneladas de rolos de pino desde Fray Bentos a India se publicó primer...",
+    "date": "2026-10-01T22:12:17",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/uruguay-exporta-17-000-toneladas-de-rolos-de-pino-desde-fray-bentos-a-india/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=458789",
     "title": "CMA CGM implementará recargo a contenedores movilizados desde Argentina, Brasil, Paraguay y Uruguay",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario CMA CGM implementará un recargo de temporada alta (PSS) de 500 dólares por contenedor para todos\nLa entrada CMA CGM implementará recargo a contenedores movilizados desde Arg...",
@@ -1258,95 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-sismo-magnitud-4-se-registro-esta-manana-el-callao-1094009.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/automovil/mercado-patas-arriba-como-entrada-masiva-coches-hibridos-chinos-ha-reconfigurado-2026",
-    "title": "Un mercado patas arriba: cómo la entrada masiva de los coches híbridos chinos ha reconfigurado 2026",
-    "snippet": "Si el 2025 fue el año de consolidación de las marcas chinas en nuestro país, el año 2026 ha sido el año de una reestructuración más profunda. Un año de transformación para el mercado español, donde el coche eléctrico e h...",
-    "date": "2026-09-30T16:31:21",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/automovil/mercado-patas-arriba-como-entrada-masiva-coches-hibridos-chinos-ha-reconfigurado-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458517",
-    "title": "EE. UU. revoca visa a juez que falló a favor de Cosco Ports Chancay en caso por regulación",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Estados Unidos revocó la visa al juez peruano Juan Carlos Núñez Matos, magistrado del Primer Juzgado\nLa entrada EE. UU. revoca visa a juez que falló a favor de Cosco Ports C...",
-    "date": "2026-09-30T16:30:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-revoca-visa-a-juez-que-fallo-a-favor-de-cosco-ports-chancay-en-caso-por-regulacion/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458517",
-    "title": "EE. UU. revoca visa a juez que falló a favor de Cosco Shipping Ports Chancay en caso por regulación",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Estados Unidos revocó la visa al juez peruano Juan Carlos Núñez Matos, magistrado del Primer Juzgado\nLa entrada EE. UU. revoca visa a juez que falló a favor de Cosco Shippin...",
-    "date": "2026-09-30T16:30:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-revoca-visa-a-juez-que-fallo-a-favor-de-cosco-ports-chancay-en-caso-por-regulacion/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-erm-2026-carlos-gallardo-promete-concluir-obras-y-semaforos-inteligentes-transporte-1093946.aspx",
-    "title": "ERM 2026: Carlos Gallardo promete concluir obras y semáforos inteligentes en transporte",
-    "snippet": "El candidato a la Alcaldía de Lima Metropolitana por el Partido del Buen Gobierno, Carlos Gallardo, ofreció, en caso de un triunfo electoral, poner orden en el transporte urbano mediante un sistema de 14 mil semáforos in...",
-    "date": "2026-09-30T16:17:14",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-erm-2026-carlos-gallardo-promete-concluir-obras-y-semaforos-inteligentes-transporte-1093946.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/mapa-oficial-adif-todas-obras-infraestructura-ferroviaria-que-tenemos-ahora-espana",
-    "title": "El mapa oficial de ADIF con todas las obras en infraestructura ferroviaria que tenemos ahora mismo en España",
-    "snippet": "Adif cuenta con un mapa público que permite a cualquiera ver todas las líneas de ferrocarril que existen actualmente en España. También, a partir de esta herramienta podemos comprobar qué tramos de la red están en constr...",
-    "date": "2026-09-30T16:15:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/mapa-oficial-adif-todas-obras-infraestructura-ferroviaria-que-tenemos-ahora-espana",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/secreto-cocodrilos-marinos-para-viajar-590-kilometros-oceano-no-nadar-surfear",
-    "title": "El secreto de los cocodrilos marinos para viajar 590 kilómetros por el océano no es nadar, es \"surfear\"",
-    "snippet": "Durante años, la ubicación de los cocodrilos de agua salada ha desconcertado a los biólogos, puesto que su presencia se extiende por una inmensa región, abarcando miles de kilómetros de océano abierto. Y la pregunta ante...",
-    "date": "2026-09-30T16:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/secreto-cocodrilos-marinos-para-viajar-590-kilometros-oceano-no-nadar-surfear",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3172181",
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "snippet": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub....",
-    "date": "2026-09-30T16:00:24",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1002642",
-    "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-    "snippet": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alt...",
-    "date": "2026-09-30T16:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-pedro-gallese-se-sabe-hay-mejorar-mucho-mas-1094000.aspx",
-    "title": "Pedro Gallese:  \"Se sabe que hay que mejorar mucho más\"",
-    "snippet": "El  arquero nacional Pedro Gallese reconoció que hubo mejoras en el rendimiento del equipo ante México, pero es consciente de que se debe trabajar porque los nuevos futbolistas necesitan más tiempo para adaptarse a la id...",
-    "date": "2026-09-30T15:51:31",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-pedro-gallese-se-sabe-hay-mejorar-mucho-mas-1094000.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/barrio-salamanca-tendra-su-primer-rascacielos-residencial-ha-vendido-130-pisos-anunciarse-a-16-000-euros-m2",
-    "title": "El barrio de Salamanca tendrá su primer rascacielos residencial. Ya ha vendido 130 pisos sin anunciarse y a 16.000 euros/m2",
-    "snippet": "Madrid (España en general) nunca ha sido aficionada a los rascacielos residenciales. A medida que se encarece el suelo, se tensiona el mercado y aumenta el interés de la ciudad entre expats y fortunas extranjeras, eso es...",
-    "date": "2026-09-30T15:31:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/barrio-salamanca-tendra-su-primer-rascacielos-residencial-ha-vendido-130-pisos-anunciarse-a-16-000-euros-m2",
-    "category": "MERCADO"
   }
 ]
