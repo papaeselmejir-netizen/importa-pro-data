@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-produce-autoriza-continuidad-actividad-extractiva-pota-durante-nino-20262027-1094464.aspx",
+    "title": "Produce autoriza continuidad de actividad extractiva de pota durante El Niño 2026-2027",
+    "snippet": "El Ministerio de la Producción (Produce) autorizó la primera pesca exploratoria del calamar gigante o pota (Dosidicus gigas), como parte de una estrategia con enfoque adaptativo para realizar un seguimiento directo y con...",
+    "date": "2026-10-04T04:01:08",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-produce-autoriza-continuidad-actividad-extractiva-pota-durante-nino-20262027-1094464.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458990",
+    "title": "Puerto y Visit Bodø refuerzan cooperación, planes conjuntos e inversión para atraer cruceros",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Bodø y Visit Bodø han reforzado su cooperación, establecido procesos estructurados de planificación\nLa entrada Puerto y Visit Bodø refuerzan cooperación, planes...",
+    "date": "2026-10-04T00:00:37",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-y-visit-bodo-refuerzan-cooperacion-planes-conjuntos-e-inversion-para-atraer-cruceros/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-conferencia-episcopal-estimo-oportuna-y-positiva-regulacion-uso-celular-colegios-1094457.aspx",
     "title": "Conferencia Episcopal estimó oportuna y positiva regulación de uso de celular en colegios",
     "snippet": "La Conferencia Episcopal Peruana, a través de la Oficina Nacional de Educación Católica (Ondec), consideró como oportuna y positiva la emisión del reglamento que regula el uso de los teléfonos móviles en los colegios púb...",
@@ -1329,24 +1347,6 @@
     "date": "2026-10-02T12:01:21",
     "source": "XATAKA",
     "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-carcel-para-ias-esta-torturando-hay-gente-pidiendo-que-github-intervenga-para-salvarlas",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4946698",
-    "title": "I Tested the Galaxy S26 Ultra Cameras Against the Pixel 11 Pro: One Captures Vibes Better",
-    "snippet": "I brought two of the best Android camera phones with me to Cape May, and one was noticeably better....",
-    "date": "2026-10-02T12:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/i-tested-the-galaxy-s26-ultra-cameras-against-the-pixel-11-pro-one-captures-vibes-better/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1003929",
-    "title": "Amazon writes scary blog warning communities not to block data centers",
-    "snippet": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed b...",
-    "date": "2026-10-02T11:52:20",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
     "category": "MERCADO"
   }
 ]
