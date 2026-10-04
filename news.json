@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.xataka.com/espacio/china-esta-preparando-su-llegada-a-luna-forma-peculiar-30-dias-comiendo-durmiendo-aseandose-levantarse",
+    "title": "China está preparando su llegada a la Luna de una forma peculiar: hasta 30 días comiendo, durmiendo y aseándose sin levantarse",
+    "snippet": "La última vez que un ser humano caminó sobre la Luna fue en diciembre de 1972. Desde entonces hemos enviado sondas, orbitadores y módulos de aterrizaje, hemos fotografiado su superficie con un nivel de detalle impensable...",
+    "date": "2026-10-04T19:01:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/china-esta-preparando-su-llegada-a-luna-forma-peculiar-30-dias-comiendo-durmiendo-aseandose-levantarse",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459080",
+    "title": "Presidente panameño asegura que proyecto de terminal automatizada en Puerto de Tuas es modelo para su país",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de Panamá, José Raúl Mulino, efectuó un recorrido por el Puerto de Tuas, manejado\nLa entrada Presidente panameño asegura que proyecto de terminal automatizada ...",
+    "date": "2026-10-04T19:00:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/presidente-panameno-asegura-que-proyecto-de-terminal-automatizada-en-puerto-de-tuas-es-modelo-para-su-pais/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2274578/iphone-18-pro-feature-try-when-unboxed/",
+    "title": "Five iPhone 18 Pro features you'll want to try the second you unbox it",
+    "snippet": "The iPhone 18 Pro doesn't have a super long list of improvements, but these upgrades are still worth a try....",
+    "date": "2026-10-04T18:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2274578/iphone-18-pro-feature-try-when-unboxed/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/coches-modernos-saben-donde-conduces-como-frenas-como-aceleras-problema-quien-sabe",
+    "title": "Los coches modernos saben dónde conduces, cómo frenas y cómo aceleras: el problema es quién más lo sabe",
+    "snippet": "A estas alturas de la película no nos pilla por sorpresa el hecho de que un coche actual recopile información de todo tipo. Esa información es útil para que el coche funcione debidamente y nos responda en todo momento. S...",
+    "date": "2026-10-04T18:31:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/coches-modernos-saben-donde-conduces-como-frenas-como-aceleras-problema-quien-sabe",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/pequena-inglaterra-escondida-roma-tesoro-romano-que-desvela-barrio-ingles-al-vaticano",
+    "title": "Una pequeña Inglaterra escondida en Roma: el tesoro romano que desvela un barrio inglés junto al Vaticano",
+    "snippet": "A pocos pasos de la mítica plaza de San Pedro de Roma, los equipos de arqueología llevan años desenterrando capas de la capital italiana. Sin ir más lejos, en 2023 apareció el largamente buscado teatro de Nerón, pero un ...",
+    "date": "2026-10-04T18:01:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/pequena-inglaterra-escondida-roma-tesoro-romano-que-desvela-barrio-ingles-al-vaticano",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459087",
+    "title": "Perú: Ministerio de Transportes y DP World Callao se reúnen para abordar ampliación de contrato de concesión",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones (MTC) del Perú sostuvo una reunión con DP World Callao,\nLa entrada Perú: Ministerio de Transportes y DP World Callao se reúnen ...",
+    "date": "2026-10-04T18:00:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-ministerio-de-transportes-y-dp-world-callao-se-reunen-para-abordar-ampliacion-de-contrato-de-concesion/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/action-rebajada-tiempo-limitado-bateria-externa-philips-gran-capacidad-para-cargar-varios-dispositivos",
+    "title": "Ya en Action (y rebajada por tiempo limitado) la batería externa Philips de gran capacidad para cargar varios dispositivos",
+    "snippet": "Como cada semana, Action ha renovado su catálogo de ofertas con multitud de rebajas en toda clase de dispositivos y accesorios. Y entre las más interesantes encontramos esta batería externa de marca Philips, que ahora ha...",
+    "date": "2026-10-04T17:45:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/action-rebajada-tiempo-limitado-bateria-externa-philips-gran-capacidad-para-cargar-varios-dispositivos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "CBMi2AFBVV95cUxPWUl3STJXNVJFYzhhSV9GSmtMTy1CNUFuSFJhOThUblV2RmJKX2kzRWlxT3V1UVdMcVJ2MXozQzlRNERJaHo2ek9Pa2xrcGE4X1o4bXZkSEtmcE9NdUF5NklZeDdXUDFnZzdrcnFKUjJJdjdibjBlYWpJVFFKcGhZUTIyeGMwcVJZVU5tMDlpdFZwb0U5QnhOc001TjlzcmhPY3pYdnoyWWVzX2J2bzB3dHMwS3hmMGVOWE0zNWdrLXBWLThiQkhPRENBcktqUDc0NHdOZzZUY2g",
+    "title": "Indecopi multa con S/682 770 a empresa por importar zapatillas con un signo similar a marca Nike - TVPerú",
+    "snippet": "Indecopi multa con S/682 770 a empresa por importar zapatillas con un signo similar a marca Nike  TVPerú...",
+    "date": "2026-10-04T17:44:30",
+    "source": "INDECOPI",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWUl3STJXNVJFYzhhSV9GSmtMTy1CNUFuSFJhOThUblV2RmJKX2kzRWlxT3V1UVdMcVJ2MXozQzlRNERJaHo2ek9Pa2xrcGE4X1o4bXZkSEtmcE9NdUF5NklZeDdXUDFnZzdrcnFKUjJJdjdibjBlYWpJVFFKcGhZUTIyeGMwcVJZVU5tMDlpdFZwb0U5QnhOc001TjlzcmhPY3pYdnoyWWVzX2J2bzB3dHMwS3hmMGVOWE0zNWdrLXBWLThiQkhPRENBcktqUDc0NHdOZzZUY2g?oc=5",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/llevamos-anos-diciendo-que-cerveza-cura-resaca-ciencia-dice-que-solo-alargamos-inevitable",
+    "title": "Llevamos años diciendo que una cerveza cura la resaca. La ciencia dice que solo alargamos lo inevitable",
+    "snippet": "Cuando se sale de fiesta y se toman un par de copas de más, a la mañana siguiente aparece la temida resaca, siendo este el momento en el que juramos que nunca más vamos a tomar una gota de alcohol (aunque luego no sea as...",
+    "date": "2026-10-04T17:31:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-diciendo-que-cerveza-cura-resaca-ciencia-dice-que-solo-alargamos-inevitable",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-estudiantes-amazonas-desarrollan-dispositivo-detecta-anemia-solo-20-segundos-1094520.aspx",
+    "title": "Estudiantes de Amazonas desarrollan dispositivo que detecta la anemia en solo 20 segundos",
+    "snippet": "Un innovador dispositivo portátil que puede detectar la anemia infantil en solo 20 segundos, sin extracción de sangre, fue desarrollada por estudiantes y docentes del Instituto de Educación Superior Público Perú-Japón de...",
+    "date": "2026-10-04T17:04:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-estudiantes-amazonas-desarrollan-dispositivo-detecta-anemia-solo-20-segundos-1094520.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/moviles/apple-esta-ensayando-para-iphone-20-aniversario-todo-pantalla-primera-prueba-iphone-18-pro",
+    "title": "Apple está ensayando para el iPhone 20 aniversario todo pantalla. La primera prueba es el iPhone 18 Pro",
+    "snippet": "En 2027, el iPhone cumplirá 20 añazos y todas las filtraciones señalan en una única dirección: Apple no va a dejar pasar la oportunidad de lanzar un móvil conmemorativo. Al igual que a los 10 años lanzaron el iPhone 8 y ...",
+    "date": "2026-10-04T17:01:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/moviles/apple-esta-ensayando-para-iphone-20-aniversario-todo-pantalla-primera-prueba-iphone-18-pro",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=458851",
+    "title": "Índices ambientales de puertos y buques funcionarán como módulos complementarios bajo paraguas de IAPH",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario A partir de enero de 2027, el Índice Ambiental de Puertos (EPI) y el Índice Ambiental\nLa entrada Índices ambientales de puertos y buques funcionarán como módulos complementa...",
+    "date": "2026-10-04T17:00:28",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/indices-ambientales-de-puertos-y-buques-funcionaran-como-modulos-complementarios-bajo-paraguas-de-iaph/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/han-encontrado-huevos-dinosaurio-lugar-demasiado-frio-existiesen-estos-cientificos-creen-que-titanosaurio-fabricaba-sus-propias-incubadoras",
+    "title": "Han encontrado huevos de dinosaurio en un lugar demasiado frío para que existiesen. Estos científicos creen que el titanosaurio fabricaba sus propias incubadoras",
+    "snippet": "Aunque hubiese médicos que se resistían a usarla, la incubadora ha sido uno de los inventos más útiles de la historia de la humanidad. Básicamente, les daba a los bebés prematuros una segunda oportunidad para sobrevivir ...",
+    "date": "2026-10-04T16:31:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/han-encontrado-huevos-dinosaurio-lugar-demasiado-frio-existiesen-estos-cientificos-creen-que-titanosaurio-fabricaba-sus-propias-incubadoras",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
+    "title": "How to disable or restrict your iPhone's Apple Intelligence features",
+    "snippet": "You have a lot of control over AI on your iPhone....",
+    "date": "2026-10-04T16:15:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3173378",
+    "title": "TechCrunch Mobility: Reining in robotaxis",
+    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+    "date": "2026-10-04T16:05:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/ultima-extravagancia-para-entrar-harvard-cuesta-40-000-dolares-mandar-a-tu-hijo-a-fregar-platos-limpiar-retretes",
+    "title": "La última extravagancia para entrar en Harvard cuesta 40.000 dólares: mandar a tu hijo a fregar platos y limpiar retretes",
+    "snippet": "Hay padres que pagan por semestre para que sus hijos frieguen platos, limpien retretes, corten leña y pasen horas trabajando en una granja de Vermont. No se han equivocado de escuela: Mountain School atrae a estudiantes ...",
+    "date": "2026-10-04T16:01:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ultima-extravagancia-para-entrar-harvard-cuesta-40-000-dolares-mandar-a-tu-hijo-a-fregar-platos-limpiar-retretes",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-erm-2026-estas-son-las-multas-recibiran-los-ciudadanos-no-voten-1094497.aspx",
     "title": "ERM 2026: estas son las multas que recibirán los ciudadanos que no voten",
     "snippet": "Las Elecciones Regionales y Municipales 2026 (ERM 2026) se vienen desarrollando con normalidad en el todo el país, con la asistencia de los ciudadanos a sus respectivos locales de votación, pero ¿sabes cuáles son las mul...",
@@ -1203,150 +1347,6 @@
     "date": "2026-10-02T18:30:52",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/mision-chilena-cierra-gira-por-europa-con-encuentros-de-trabajo-sobre-transporte-acuatico-en-lisboa/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458916",
-    "title": "Argentina: Puerto La Plata coordina acciones preventivas ante posibles efectos de El Niño",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Consorcio de Gestión del Puerto La Plata coordinó acciones preventivas junto a integrantes de Prefectura\nLa entrada Argentina: Puerto La Plata coordina acciones preventiv...",
-    "date": "2026-10-02T18:00:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-puerto-la-plata-coordina-acciones-preventivas-ante-posibles-efectos-de-el-nino/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2276013/iphone-18-pro-vs-max-comparison/",
-    "title": "iPhone 18 Pro vs iPhone 18 Pro Max: Comparing their displays and batteries",
-    "snippet": "Not much else differentiates them, which isn't a bad thing....",
-    "date": "2026-10-02T17:48:32",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2276013/iphone-18-pro-vs-max-comparison/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=101331",
-    "title": "Gescel ofrece solución integral para la para la implementación del ERACMF en empresas industriales",
-    "snippet": "Las empresas industriales que operan como Usuarios Libres en el mercado eléctrico peruano deben cumplir con requerimientos relacionados con la implementación y actuación de los esquemas de rechazo automático de carga por...",
-    "date": "2026-10-02T17:40:11",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/gescel-ofrece-solucion-integral-para-la-para-la-implementacion-del-eracmf-en-empresas-industriales/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/mitico-bar-madrid-donde-se-rodo-esa-escena-bola-negra-cafe-pota-familia-al-frente-1959",
-    "title": "El mítico bar de Madrid donde se rodó esa escena de 'La bola negra': café de pota y una familia al frente desde 1959",
-    "snippet": "Durante una jornada, un pequeño comedor de La Latina se llenó de focos, cámaras y técnicos. Hubo que reorganizar las mesas y repetir la escena una y otra vez, y el problema fue una fabada: cada plano exigía que el plato ...",
-    "date": "2026-10-02T17:31:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/mitico-bar-madrid-donde-se-rodo-esa-escena-bola-negra-cafe-pota-familia-al-frente-1959",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458861",
-    "title": "Contenedores se acumulan en puerto pakistaní de Karachi debido a conflicto político-social",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Los esfuerzos de Pakistán por mantener a los simpatizantes del encarcelado exprimer ministro Imran Khan\nLa entrada Contenedores se acumulan en puerto pakista...",
-    "date": "2026-10-02T17:30:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/contenedores-se-acumulan-en-puerto-pakistani-de-karachi-debido-a-conflicto-politico-social/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2275982/samsung-galaxy-tab-s12-ultra-vs-apple-ipad-pro-comparison/",
-    "title": "Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: Here's how they stack up",
-    "snippet": "Choosing between these two powerhouse tablets is probably simpler than you think....",
-    "date": "2026-10-02T17:27:45",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2275982/samsung-galaxy-tab-s12-ultra-vs-apple-ipad-pro-comparison/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/anos-teletrabajando-estas-tres-herramientas-que-no-pueden-faltar-mi-portatil-movil-para-trabajar-forma-segura",
-    "title": "Tras años teletrabajando, estas son las tres herramientas que no pueden faltar en mi portátil y móvil para trabajar de forma segura",
-    "snippet": "Hace ya más de cinco años que teletrabajo. La mayor parte del tiempo la paso en casa, aunque por circunstancias de mi vida personal también trabajo varias veces al mes en otros lugares. De hecho, eso me lleva en algunas ...",
-    "date": "2026-10-02T17:15:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/anos-teletrabajando-estas-tres-herramientas-que-no-pueden-faltar-mi-portatil-movil-para-trabajar-forma-segura",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1004127",
-    "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
-    "snippet": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced...",
-    "date": "2026-10-02T17:15:03",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/20-anos-despues-extremadura-tiene-luz-verde-para-construir-ansiada-autovia-badajoz-problema-que-no-autovia",
-    "title": "20 años después, Extremadura tiene luz verde para construir una ansiada autovía en Badajoz. El problema es que no es una autovía",
-    "snippet": "De Zafra a Jerez de los Caballeros hay 40 minutos de coche y 20 años de promesas incumplidas. Concretamente la de construir una autovía para que el desplazamiento diario de quienes se mueven entre dos de las localidades ...",
-    "date": "2026-10-02T17:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/20-anos-despues-extremadura-tiene-luz-verde-para-construir-ansiada-autovia-badajoz-problema-que-no-autovia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1004053",
-    "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
-    "snippet": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gam...",
-    "date": "2026-10-02T16:35:13",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/pleno-s-xxi-california-acaba-prohibir-matrimonio-infantil-solo-quedan-32-estados-eeuu-que-permiten",
-    "title": "En pleno S.XXI, California acaba de prohibir el matrimonio infantil. Solo quedan 32 estados de EEUU que lo permiten",
-    "snippet": "Es 2026, y California acaba de prohibir algo que hasta ahora seguía permitiendo: que un menor se casara. No hablamos de una pequeña excepción perdida en una legislación antigua. El estado ni siquiera establecía una edad ...",
-    "date": "2026-10-02T16:31:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/pleno-s-xxi-california-acaba-prohibir-matrimonio-infantil-solo-quedan-32-estados-eeuu-que-permiten",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/europa-cauces-secos-grandes-rios-europeos-se-quedan-agua-ponen-jaque-l-todo-que-continente-cree",
-    "title": "La Europa de los ríos secos: ha pasado el verano y las grandes arterias de agua del continente siguen bajo mínimos",
-    "snippet": "Desde 1856, en Kaub, un pequeño pueblo del valle medio del Rin, se anota la altura del río sobre una escala. Y durante 170 años esas anotaciones ha servido para algo importantísimo: decidir cuánta carga puede llevar un b...",
-    "date": "2026-10-02T16:15:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/europa-cauces-secos-grandes-rios-europeos-se-quedan-agua-ponen-jaque-l-todo-que-continente-cree",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/siempre-nos-han-dicho-que-normal-perder-100-pelos-al-dia-estudios-que-han-contado-verdad-dicen-otra-cosa",
-    "title": "Siempre nos han dicho que es normal perder 100 pelos al día. Los estudios que los han contado de verdad dicen otra cosa",
-    "snippet": "Ya sea pasándose el cepillo por la mañana o mirando a la almohada nada más levantarse, algo que seguro ha ocurrido a diario es ver algún pelo que antes estaba en nuestra cabeza. A priori, esto es algo que puede preocupar...",
-    "date": "2026-10-02T16:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/siempre-nos-han-dicho-que-normal-perder-100-pelos-al-dia-estudios-que-han-contado-verdad-dicen-otra-cosa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458657",
-    "title": "Nigeria: DP World firma acuerdo para proyecto de puerto y zona económica en Ogun",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World, el gobierno del Estado de Ogun y Ogun Deep Sea Port Company Ltd. firmaron\nLa entrada Nigeria: DP World firma acuerdo para proyecto de puerto y zona económica en Og...",
-    "date": "2026-10-02T16:00:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/nigeria-dp-world-firma-acuerdo-para-proyecto-de-puerto-y-zona-economica-en-ogun/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/literatura-comics-y-juegos/quiza-dentro-10-anos-llegue-a-ser-algo-muy-grande-he-superado-primer-dia-comic-malaga-2026",
-    "title": "\"Quizá dentro de 10 años llegue a ser algo muy grande\": he superado el primer día de la Comic-Con Málaga 2026",
-    "snippet": "Venía a esta segunda edición de la Comic-Con de Málaga sobre aviso: Alex, cuidado con el agua. Tras todas las críticas de la edición del año pasado, y sabiendo que el agua era el caballo de batalla de muchas de ellas, pe...",
-    "date": "2026-10-02T15:45:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/literatura-comics-y-juegos/quiza-dentro-10-anos-llegue-a-ser-algo-muy-grande-he-superado-primer-dia-comic-malaga-2026",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4944783",
-    "title": "Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years",
-    "snippet": "AI upscaling and frame generation are coming in upcoming premium Android phones running the new highest-tier Snapdragon chips....",
-    "date": "2026-10-02T15:36:24",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/qualcomm-mobile-games-ai-graphics-boost-adreno-neural-fusion/",
     "category": "MERCADO"
   }
 ]
