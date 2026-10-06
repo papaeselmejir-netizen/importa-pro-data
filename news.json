@@ -1,5 +1,221 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-mef-credito-suplementario-s-8228-millones-no-afecta-solvencia-fiscal-del-peru-1094772.aspx",
+    "title": "MEF: Crédito suplementario por S/ 8,228 millones no afecta solvencia fiscal del Perú",
+    "snippet": "El ministro de Economía y Finanzas, Elmer Cuba, enfatizó hoy que la solicitud del crédito suplementario por 8,228 millones de soles que solicita el Ejecutivo para el pago de pensiones, atender el Fenómeno El Niño, genera...",
+    "date": "2026-10-06T00:03:46",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mef-credito-suplementario-s-8228-millones-no-afecta-solvencia-fiscal-del-peru-1094772.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-huanuco-mtc-aumenta-67-atencion-emergencias-las-vias-nacionales-de-region-1094769.aspx",
+    "title": "Huánuco: MTC aumenta en 67 % atención de emergencias en las vías nacionales de la región",
+    "snippet": "Entre enero y septiembre de 2026, Provías Nacional del Ministerio de Transpostes y Comunicaciones (MTC) atendió 157 emergencias en la infraestructura vial nacional de Huánuco, lo que representa un incremento de 67 % resp...",
+    "date": "2026-10-05T23:53:59",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-huanuco-mtc-aumenta-67-atencion-emergencias-las-vias-nacionales-de-region-1094769.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459210",
+    "title": "Puerto de Dover recibe escala inaugural de nuevo buque de Viking",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Dover celebró la escala inaugural del Viking Mira, el barco más nuevo de\nLa entrada Puerto de Dover recibe escala inaugural de nuevo buque de Viking se publicó ...",
+    "date": "2026-10-05T23:30:54",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-dover-recibe-escala-inaugural-de-nuevo-buque-de-viking/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=101471",
+    "title": "Intercambio comercial entre Perú e Italia creció 10,2 % en primer semestre",
+    "snippet": "Perú e Italia buscan dar un nuevo impulso a sus relaciones económicas y comerciales, con miras a ampliar las inversiones, la cooperación empresarial y las alianzas industriales en sectores estratégicos. LEA TAMBIÉN: Grem...",
+    "date": "2026-10-05T23:22:23",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/intercambio-comercial-entre-peru-e-italia-crecio-102-en-primer-semestre-y-supero-los-900-billones-de-euros/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459274",
+    "title": "Finaliza campaña exploratoria de Ecopetrol-Petrobras con Puerto Santa Marta como base logística",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Sociedad Portuaria de Santa Marta anunció que se dio por finalizada la campaña exploratoria de Ecopetrol-Petrobras en\nLa entrada Finaliza campaña exploratoria de Ecopetrol-P...",
+    "date": "2026-10-05T23:00:44",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/finaliza-campana-exploratoria-de-ecopetrol-petrobras-con-puerto-santa-marta-como-base-logistica/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-el-callao-artistas-honran-memoria-miguel-grau-esculturas-comics-e-ilustraciones-1094762.aspx",
+    "title": "El Callao: artistas honran la memoria de Miguel Grau en esculturas, cómics e ilustraciones",
+    "snippet": "En el 147 aniversario de su sacrificio por la patria, una exposición colectica reúne trabajos de 26 artistas en pintura, escultura, cómics e ilustración rindiendo homenaje al gran héroe del Perú: el almirante Miguel Grau...",
+    "date": "2026-10-05T22:31:39",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-el-callao-artistas-honran-memoria-miguel-grau-esculturas-comics-e-ilustraciones-1094762.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459250",
+    "title": "Perú: MTC participa en encuentro que busca impulsar transporte intermodal terrestre internacional",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes y Comunicaciones de Perú (MTC) por medio de la Dirección General de Políticas\nLa entrada Perú: MTC participa en encuentro que busca impulsar tra...",
+    "date": "2026-10-05T22:30:44",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-mtc-participa-en-encuentro-que-busca-impulsar-transporte-intermodal-terrestre-internacional/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ejecutivo-pide-al-senado-permiso-para-viaje-presidenta-fujimori-a-salvador-y-espana-1094761.aspx",
+    "title": "Ejecutivo pide al Senado permiso para viaje de presidenta Fujimori a El Salvador y España",
+    "snippet": "El Poder Ejecutivo solicitó al Senado autorizar la salida del país de la presidenta Keiko Fujimori, a fin de viajar a la República de El Salvador para realizar una visita oficial y sostener un encuentro con el presidente...",
+    "date": "2026-10-05T22:16:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ejecutivo-pide-al-senado-permiso-para-viaje-presidenta-fujimori-a-salvador-y-espana-1094761.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4968983",
+    "title": "Google Acknowledges Day 1 Android App Performance Issues on New Laptops",
+    "snippet": "Five new Googlebooks are available now, but the company says that not every Android app will offer “smooth performance” at launch....",
+    "date": "2026-10-05T21:54:19",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/computing/google-acknowledges-day-one-android-app-performance-issues-on-new-laptops/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/elon-musk-podria-vivir-donde-quisiera-eligio-caravana-a-enorme-complejo-centros-datos-expansion",
+    "title": "Elon Musk podría vivir donde quisiera, pero eligió una caravana junto a un enorme complejo de centros de datos en expansión",
+    "snippet": "Elon Musk puede permitirse vivir prácticamente en cualquier lugar del mundo. Su fortuna hace que elegir una casa, un hotel o incluso una ciudad difícilmente dependa del dinero, así que cuando decide dónde instalarse conv...",
+    "date": "2026-10-05T21:52:58",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/elon-musk-podria-vivir-donde-quisiera-eligio-caravana-a-enorme-complejo-centros-datos-expansion",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459255",
+    "title": "DHL Express suma nuevo servicio para fortalecer transporte de carga minera en Chile",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario DHL Express sumó una nueva solución para fortalecer el transporte de carga industrial de hasta 3\nLa entrada DHL Express suma nuevo servicio para fortalecer transporte de car...",
+    "date": "2026-10-05T21:30:39",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dhl-express-suma-nuevo-servicio-para-fortalecer-transporte-de-carga-minera-en-chile/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/4967800",
+    "title": "How to Disable Apple Intelligence on Your iPhone or Mac and Reclaim Valuable Space",
+    "snippet": "The new Siri AI could be taking up a lot of storage on your device....",
+    "date": "2026-10-05T21:25:18",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/disable-apple-intelligence-save-space/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1710943",
+    "title": "Sector textil en emergencia por El Niño: Gobierno llevará \"outlets\" a regiones para liquidar prendas que no se vendieron por el calor",
+    "snippet": "Las primeras jornadas se realizarán en Ayacucho y Huancayo. El Gobierno busca que las empresas puedan vender su stock y recuperar liquidez ante el impacto del clima en sus ventas....",
+    "date": "2026-10-05T21:23:59",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/sector-textil-en-emergencia-por-el-nino-gobierno-llevara-outlets-a-regiones-para-liquidar-prendas-que-no-se-vendieron-por-el-calor-noticia-1710943",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459168",
+    "title": "Presidenta de México inaugura Puente Acceso al Puerto de Veracruz",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La presidenta de México, Claudia Sheinbaum Pardo, inauguró el Puente Acceso al Puerto de Veracruz de\nLa entrada Presidenta de México inaugura Puente Acceso al Puerto de Vera...",
+    "date": "2026-10-05T21:00:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/presidenta-de-mexico-inaugura-puente-acceso-al-puerto-de-veracruz/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459232",
+    "title": "Venezuela: Puerto Cabello completa atención simultánea de 10 buques",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto Cabello, Venezuela, completó la atención simultánea de 10 buques. En la operación destacaron las\nLa entrada Venezuela: Puerto Cabello completa atención simultánea ...",
+    "date": "2026-10-05T20:30:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/venezuela-puerto-cabello-completa-atencion-simultanea-de-10-buques/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=101434",
+    "title": "Precio del dólar en Perú hoy, 5 de octubre de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este lunes 5 de octubre a las 2:55 a. m. se sitúa en S/3.437 para la compra y S/3.442 para la ve...",
+    "date": "2026-10-05T19:57:48",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-5-de-octubre-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=101422",
+    "title": "Gremio de Educación de la CCL respalda regulación del uso de celulares en colegios",
+    "snippet": "El Gremio de Educación de la Cámara de Comercio de Lima saluda la aprobación del Reglamento de la Ley N.º 32385, Decreto Supremo N.º 018-2026-MINEDU que regula el uso de teléfonos celulares en las instituciones educativa...",
+    "date": "2026-10-05T19:40:30",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/gremio-de-educacion-de-la-ccl-respalda-regulacion-del-uso-de-celulares-en-colegios/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/sony-pierde-paciencia-canciones-creadas-ia-pide-retirar-260-000-pistas",
+    "title": "Sony pierde la paciencia con las canciones creadas con IA y pide retirar más de 260.000 pistas",
+    "snippet": "Durante décadas, reconocer una voz era una de las formas más inmediatas de reconocer a un artista. Hoy esa certeza empieza a erosionarse: podemos encontrarnos con canciones que suenan como si estuvieran interpretadas por...",
+    "date": "2026-10-05T19:32:58",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/sony-pierde-paciencia-canciones-creadas-ia-pide-retirar-260-000-pistas",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.xataka.com/materiales/mujer-rica-australia-acaba-gastarse-600-millones-golpear-a-china-donde-duele-respuesta-estaba-enterrada-brasil",
+    "title": "La mujer más rica de Australia acaba de gastarse 600 millones de dólares en golpear a China donde más duele",
+    "snippet": "La mujer más rica de Australia ha colocado parte de su fortuna en una de las pocas compañías capaces de plantar cara a China en uno de sus negocios más estratégicos. Lynas Rare Earths, respaldada por Gina Rinehart como a...",
+    "date": "2026-10-05T19:01:21",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/materiales/mujer-rica-australia-acaba-gastarse-600-millones-golpear-a-china-donde-duele-respuesta-estaba-enterrada-brasil",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459182",
+    "title": "Aduanas de Chile recibe a delegación de Indonesia para fortalecer intercambio comercial",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con el propósito de fortalecer los vínculos institucionales y contribuir al desarrollo de nuevas oportunidades de\nLa entrada Aduanas de Chile recibe a delegación de Indonesi...",
+    "date": "2026-10-05T19:00:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/aduanas-de-chile-recibe-a-delegacion-de-indonesia-para-fortalecer-intercambio-comercial/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1004785",
+    "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+    "snippet": "There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicles to be sold in the US ...",
+    "date": "2026-10-05T18:41:48",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3173800",
+    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+    "snippet": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf....",
+    "date": "2026-10-05T18:07:07",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/openai-llevara-anuncios-paso-alla-chatgpt-empezara-a-probarlos-generamos-imagenes",
+    "title": "OpenAI llevará los anuncios un paso más allá en ChatGPT: empezará a probarlos mientras generamos imágenes",
+    "snippet": "ChatGPT llegó a Internet en noviembre de 2022 como una prueba gratuita, sin suscripción de consumo y sin anuncios. La gratuidad dejó pronto de ser la única opción: apenas dos meses después apareció ChatGPT Plus y, con el...",
+    "date": "2026-10-05T18:05:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/openai-llevara-anuncios-paso-alla-chatgpt-empezara-a-probarlos-generamos-imagenes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459147",
+    "title": "Movimiento de carga portuaria en Región del Bio Bio aumenta 6,4% en agosto de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La carga total movilizada en los puertos de la Región del Bio Bio durante agosto de\nLa entrada Movimiento de carga portuaria en Región del Bio Bio aumenta 6,4% en agosto de ...",
+    "date": "2026-10-05T18:00:22",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/movimiento-de-carga-portuaria-en-region-del-bio-bio-aumenta-64-en-agosto-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-muestra-arte-sobre-imaginario-gotico-casa-pausa-miraflores-1094708.aspx",
     "title": "Muestra de arte sobre el imaginario gótico en Casa Pausa de Miraflores",
     "snippet": "La exposición colectiva “Cartografía de las sombras” reúne a 25 artistas que exploran temas como el miedo, la muerte, el deseo, la memoria y la soledad desde distintas miradas. Se inaugura el 10 de octubre en la Galería ...",
@@ -187,6 +403,15 @@
     "source": "TECHCRUNCH",
     "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
     "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/bill-gates-reconocio-que-atajo-teclado-famoso-windows-era-error-microsoft-queria-sola-tecla",
+    "title": "En 2013, Bill Gates reconoció que el atajo de teclado más famoso de Windows era un error: Microsoft quería una sola tecla",
+    "snippet": "Hay gestos de ordenador que ahorran un montón de trabajo, incluso aunque haya que pulsar varias teclas. Entre los más famosos de Windows el de Ctrl + Alt + Supr es la estrella: durante décadas ha servido para iniciar ses...",
+    "date": "2026-10-05T14:31:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/bill-gates-reconocio-que-atajo-teclado-famoso-windows-era-error-microsoft-queria-sola-tecla",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://portalportuario.cl/?p=459122",
@@ -1123,230 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/tarifas-de-flete-maritimo-intraasiatico-registran-aumento-de-2-en-ultima-semana/",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-tienes-un-negocio-aqui-4-aspectos-clave-al-brindar-una-experiencia-movil-compra-1094442.aspx",
-    "title": "¿Tienes un negocio? aquí 4 aspectos clave al brindar una experiencia móvil de compra",
-    "snippet": "El celular se ha convertido en una extensión de la vida diaria de millones de peruanos y, cada vez más, en su principal canal para adquirir productos. De acuerdo con datos de E-Commerce Data, el 74% de las compras en lín...",
-    "date": "2026-10-03T20:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-tienes-un-negocio-aqui-4-aspectos-clave-al-brindar-una-experiencia-movil-compra-1094442.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-emr-2026-ciudadanos-dos-comunidades-nativas-loretanas-votaran-capital-distrito-1094440.aspx",
-    "title": "EMR 2026: Ciudadanos de dos comunidades nativas loretanas votarán en capital de distrito",
-    "snippet": "Los ciudadanos que debían sufragar en las comunidades nativas Nueva Yarina y Puerto Belén –ubicadas en el distrito de Pastaza, en la provincia loretana de Datem del Marañón– tendrán que trasladarse a la capital de dicho ...",
-    "date": "2026-10-03T19:32:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-emr-2026-ciudadanos-dos-comunidades-nativas-loretanas-votaran-capital-distrito-1094440.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3173505",
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "snippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers....",
-    "date": "2026-10-03T18:43:57",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-erm-2026-ciudadanos-2-comunidades-nativas-loretanas-votaran-capital-su-distrito-1094437.aspx",
-    "title": "ERM 2026: Ciudadanos de 2 comunidades nativas loretanas votarán en capital de su distrito",
-    "snippet": "Los ciudadanos que debían sufragar en las comunidades nativas Nueva Yarina y Puerto Belén, ubicadas en el distrito de Pastaza, en la provincia loretana de Datem del Marañón, tendrán que trasladarse a la capital de dicho ...",
-    "date": "2026-10-03T18:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-erm-2026-ciudadanos-2-comunidades-nativas-loretanas-votaran-capital-su-distrito-1094437.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
-    "title": "Una tumba etrusca con eco de catedral: la muerte hace 2.500 años era una experiencia inmersiva",
-    "snippet": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra alumbrada solo por una vela, con olor a incienso y un ruido que no sa...",
-    "date": "2026-10-03T18:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
-    "title": "Los etruscos diseñaron sus tumbas hace 2.500 años con un sobrecogedor \"efecto catedral\": la muerte era un espectáculo sensorial",
-    "snippet": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra alumbrada solo por una vela, con olor a incienso y un ruido que no sa...",
-    "date": "2026-10-03T18:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458947",
-    "title": "Interrupciones logísticas elevan precios mundiales de alimentos",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Los precios mundiales de los alimentos aumentaron en septiembre hasta alcanzar su nivel más alto\nLa entrada Interrupciones logísticas elevan precios mundiale...",
-    "date": "2026-10-03T18:00:33",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/interrupciones-logisticas-elevan-precios-mundiales-de-alimentos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2273354/playstation-2-security-chip-reverse-engineered/",
-    "title": "The original PlayStation 2 security chip has been reverse engineered",
-    "snippet": "A long‑hidden PS2 security component has finally been decoded, revealing surprising design choices and opening the door to fresh hardware insights....",
-    "date": "2026-10-03T18:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2273354/playstation-2-security-chip-reverse-engineered/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
-    "title": "Mientras anuncia márgenes récord y más fábricas, el CEO de Micron avisa de la crisis de RAM: \"Escaseará más en 2027 y 2028 que hoy\"",
-    "snippet": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más cara o de la extinción de los móviles chollo. Y cuando digo t...",
-    "date": "2026-10-03T17:31:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
-    "title": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
-    "snippet": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más cara o de la extinción de los móviles chollo. Y cuando digo t...",
-    "date": "2026-10-03T17:31:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/te-duelen-dientes-cada-vez-tenemos-claro-uno-culpables-contaminacion-aire-se-infiltra-nuestras-encias",
-    "title": "Te duelen los dientes y cada vez tenemos más claro uno de los culpables: la contaminación del aire se infiltra en nuestras encías",
-    "snippet": "En las grandes ciudades convivimos con la contaminación muchos días del mes, y es fácil escuchar que hay muchas enfermedades que están relacionadas con la exposición a estas partículas, como por ejemplo diversos problema...",
-    "date": "2026-10-03T17:01:20",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/te-duelen-dientes-cada-vez-tenemos-claro-uno-culpables-contaminacion-aire-se-infiltra-nuestras-encias",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-erm-2026-inician-tumbes-despliegue-material-electoral-hacia-57-locales-votacion-1094423.aspx",
-    "title": "ERM 2026: inician en Tumbes despliegue de material electoral hacia 57 locales de votación",
-    "snippet": "Con miras a las Elecciones Regionales y Municipales 2026, la Oficina Descentralizada de Procesos Electorales (ODPE) Tumbes inició el despliegue del material electoral hacia los 57 locales de votación habilitados en los 1...",
-    "date": "2026-10-03T17:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-erm-2026-inician-tumbes-despliegue-material-electoral-hacia-57-locales-votacion-1094423.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/guerra-drones-ucrania-acaba-superar-barrera-insolita-drones-persiguiendo-a-drones-a-velocidades-formula-1",
-    "title": "La guerra de drones de Ucrania acaba de superar una barrera insólita: drones persiguiendo a drones a velocidades de Fórmula 1",
-    "snippet": "La guerra de drones en Ucrania acaba de superar otra barrera que hasta hace poco parecía reservada a los misiles y los aviones de combate: ya hay drones persiguiendo a otros drones a velocidades propias de la Fórmula 1. ...",
-    "date": "2026-10-03T16:31:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/guerra-drones-ucrania-acaba-superar-barrera-insolita-drones-persiguiendo-a-drones-a-velocidades-formula-1",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2273351/how-to-customize-iphone-camera-control/",
-    "title": "How to customize Camera Control on your iPhone",
-    "snippet": "Take a closer look at the iPhone's Camera Control feature and why tweaking it can change the way you shoot, even if you've never touched it before....",
-    "date": "2026-10-03T16:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2273351/how-to-customize-iphone-camera-control/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=999447",
-    "title": "The best early October Prime Day deals happening now",
-    "snippet": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th...",
-    "date": "2026-10-03T16:22:40",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/isla-argentina-que-no-solo-tiene-forma-redonda-casi-perfecta-sino-que-se-mueve",
-    "title": "La isla argentina que no solo tiene una forma redonda casi perfecta sino que además se mueve",
-    "snippet": "Lo que ves sobre estas líneas no es inteligencia artificial ni un portal a otra dimensión: es una isla que está en Argentina. Una isla que es de todo menos normal y corriente. El nombre le viene que ni pintado: El Ojo. P...",
-    "date": "2026-10-03T16:01:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/isla-argentina-que-no-solo-tiene-forma-redonda-casi-perfecta-sino-que-se-mueve",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/isla-argentina-que-no-solo-tiene-forma-redonda-casi-perfecta-sino-que-se-mueve",
-    "title": "La naturaleza no suele hacer círculos perfectos, pero esta isla argentina es una excepción: además, flota y se mueve continuamente",
-    "snippet": "Lo que ves sobre estas líneas no es inteligencia artificial ni un portal a otra dimensión: es una isla que está en Argentina. Una isla que es de todo menos normal y corriente. El nombre le viene que ni pintado: El Ojo. P...",
-    "date": "2026-10-03T16:01:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/isla-argentina-que-no-solo-tiene-forma-redonda-casi-perfecta-sino-que-se-mueve",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458876",
-    "title": "España: Puerto de Avilés ejecuta primera descarga de zinc concentrado de 2026 desde buque YM Pacífico",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El granelero YM Pacífico realizó su primera descarga de concentrado de zinc de 2026 en el\nLa entrada España: Puerto de Avilés ejecuta primera descarga de zinc concentrado de...",
-    "date": "2026-10-03T16:00:01",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/espana-puerto-de-aviles-ejecuta-primera-descarga-de-zinc-concentrado-de-2026-desde-buque-ym-pacifico/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-insn-san-borja-salva-a-bebe-1-ano-ingirio-una-espina-pescado-1094420.aspx",
-    "title": "INSN San Borja salva a bebé de 1 año que ingirió una espina de pescado",
-    "snippet": "Jairo, un bebé de 1 año y 4 meses procedente de Puerto Maldonado, Madre de Dios, volvió a los brazos de sus padres completamente recuperado, luego de superar una grave emergencia que puso en riesgo su vida. El pequeño ll...",
-    "date": "2026-10-03T15:40:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-insn-san-borja-salva-a-bebe-1-ano-ingirio-una-espina-pescado-1094420.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/que-demonios-les-pasa-a-ciudades-espanolas-arboles",
-    "title": "Qué demonios les pasa a las ciudades españolas con los árboles",
-    "snippet": "\"Gracias por tu sombra\". Los vecinos de La Paz, en Málaga, dejaron ese mensaje al pie del tronco junto a la fecha 1974-2026. El ficus se partió por la mitad la noche del 30 al 31 de agosto y el Ayuntamiento lo cortó ente...",
-    "date": "2026-10-03T15:31:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/que-demonios-les-pasa-a-ciudades-espanolas-arboles",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/",
-    "title": "iPhone Duo vs. iPad Mini: Which Apple device is right for you?",
-    "snippet": "Apple's iPhone Duo provides a tablet-like experience with its inside screen, but this might not be better than a dedicated iPad for you....",
-    "date": "2026-10-03T15:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-pj-janet-tello-invoca-a-reflexionar-sobre-papel-ejerce-periodismo-1094416.aspx",
-    "title": "PJ: Janet Tello invoca a reflexionar sobre el papel que ejerce el periodismo",
-    "snippet": "Desde Bagua, Amazonas la presidenta del Poder Judicial, Janet Tello Gilardi, hizo una invocación a las y los periodistas sobre la responsabilidad de ejercer esta profesión con compromiso y apego a los valores de objetivi...",
-    "date": "2026-10-03T15:03:11",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-pj-janet-tello-invoca-a-reflexionar-sobre-papel-ejerce-periodismo-1094416.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/1974-francia-necesitaba-evitar-que-paris-volviera-a-inundarse-solucion-fue-sencilla-como-radical-borrar-tres-pueblos-mapa",
-    "title": "En 1974, Francia necesitaba evitar que París volviera a inundarse. La solución fue tan sencilla como radical: borrar tres pueblos del mapa",
-    "snippet": "La gran inundación de París de 1910 dejó una imagen difícil de olvidar: calles convertidas en canales, vecinos desplazándose en barca y el Sena alcanzando 8,62 metros en el puente de Austerlitz. Francia necesitaba impedi...",
-    "date": "2026-10-03T15:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/1974-francia-necesitaba-evitar-que-paris-volviera-a-inundarse-solucion-fue-sencilla-como-radical-borrar-tres-pueblos-mapa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=458854",
-    "title": "DP World amplía red logística en Tailandia con nuevo centro de distribución en Bang Na",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World anunció la apertura de un nuevo centro de distribución logística por contrato en Bang\nLa entrada DP World amplía red logística en Tailandia con nuevo centro de dist...",
-    "date": "2026-10-03T15:00:08",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dp-world-amplia-red-logistica-en-tailandia-con-nuevo-centro-de-distribucion-en-bang-na/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1004162",
-    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-    "snippet": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espr...",
-    "date": "2026-10-03T15:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-    "category": "MERCADO"
   }
 ]
