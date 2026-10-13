@@ -1,5 +1,482 @@
 [
   {
+    "id": "https://www.theverge.com/?p=1010364",
+    "title": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+    "snippet": "The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding \"posted speed limits in active school zones.\" Waymo'...",
+    "date": "2026-10-13T17:40:15",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-canotaje-peruano-conquisto-dos-medallas-bronce-el-sudamericano-brasil-1095746.aspx",
+    "title": "Canotaje peruano conquistó dos medallas de bronce en el Sudamericano de Brasil",
+    "snippet": "Los peruanos Eriberto Gutiérrez y Juan Antonio Carrasco obtuvieron dos medallas de bronce en el Campeonato Sudamericano de Canotaje Slalom y Kayal Cross 2026, que se disputó en Brasil....",
+    "date": "2026-10-13T17:34:50",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-canotaje-peruano-conquisto-dos-medallas-bronce-el-sudamericano-brasil-1095746.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460497",
+    "title": "San Antonio Terminal Internacional registra aumento en movimiento de contenedores vacíos",
+    "snippet": "Por Gabriel Campos Roullet  @PortalPortuario Andrés Albertini, gerente general San Antonio Terminal Internacional (STI), informó que durante el vigente año\nLa entrada San Antonio Terminal Internacional registra aumento e...",
+    "date": "2026-10-13T17:30:19",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/san-antonio-terminal-internacional-registra-aumento-en-movimiento-de-contenedores-vacios/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1010276",
+    "title": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
+    "snippet": "If you&#8217;re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 480 E Ink display, making...",
+    "date": "2026-10-13T17:19:31",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/philips-renueva-su-cepillo-avanzado-asi-nuevo-sonicare-diamondclean-9900-prestige",
+    "title": "Philips renueva su cepillo más avanzado: así es el nuevo Sonicare DiamondClean 9900 Prestige",
+    "snippet": "Philips acaba de actualizar la gama alta de su catálogo de higiene bucal con la llegada del nuevo Philips Sonicare DiamondClean 9900 Prestige. La firma neerlandesa vuelve a apostar por un dispositivo tope de gama que com...",
+    "date": "2026-10-13T17:16:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/philips-renueva-su-cepillo-avanzado-asi-nuevo-sonicare-diamondclean-9900-prestige",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/carteles-mexicanos-tienen-via-sencilla-para-conseguir-coches-lujo-estados-unidos-alquilarlos-no-devolverlos",
+    "title": "Los cárteles mexicanos tienen una vía sencilla para conseguir coches de lujo en Estados Unidos: alquilarlos y no devolverlos",
+    "snippet": "La frontera entre Estados Unidos y México es una de las líneas más vigiladas del planeta. Por eso resulta extraño que alguien pueda saltar de país con un coche de alquiler y usarlo en el otro lado como si fuera suyo. Jus...",
+    "date": "2026-10-13T17:00:28",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/carteles-mexicanos-tienen-via-sencilla-para-conseguir-coches-lujo-estados-unidos-alquilarlos-no-devolverlos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460524",
+    "title": "Terminal Pacífico Sur inicia curso de conducción profesional Clase A5 para mujeres",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con el objetivo de promover la empleabilidad femenina y generar nuevas oportunidades de desarrollo laboral en\nLa entrada Terminal Pacífico Sur inicia curso de conducción pro...",
+    "date": "2026-10-13T17:00:15",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/terminal-pacifico-sur-inicia-curso-de-conduccion-profesional-clase-a5-para-mujeres/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460516",
+    "title": "Dirk Meewis: “Hubo un cambio en la mentalidad de los armadores de querer invertir en tecnología más nueva”",
+    "snippet": "Por Pablo Ramírez, corresponsal en Paraguay @PortalPortuario La industria de la construcción naval en la hidrovía Paraná-Paraguay está experimentando una\nLa entrada Dirk Meewis: &#8220;Hubo un cambio en la mentalidad de ...",
+    "date": "2026-10-13T17:00:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dirk-meewis-hubo-un-cambio-en-la-mentalidad-de-los-armadores-de-querer-invertir-en-tecnologia-mas-nueva/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3176600",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "snippet": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store....",
+    "date": "2026-10-13T17:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+    "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
+    "snippet": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more....",
+    "date": "2026-10-13T17:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1009877",
+    "title": "I tried out Apple&#8217;s HomeView smart display",
+    "snippet": "Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designed as a smart home contr...",
+    "date": "2026-10-13T16:55:02",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-onp-pensionistas-recibiran-desde-este-jueves-su-pension-a-domicilio-conoce-cronograma-1095592.aspx",
+    "title": "ONP: pensionistas recibirán desde este jueves su pensión a domicilio. Conoce el cronograma",
+    "snippet": "La Oficina de Normalización Previsional (ONP), organismo adscrito al Ministerio de Economía y Finanzas (MEF), informó que a través del Banco de la Nación procederá a realizar el pago de las pensiones a domicilio para 10,...",
+    "date": "2026-10-13T16:50:11",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-onp-pensionistas-recibiran-desde-este-jueves-su-pension-a-domicilio-conoce-cronograma-1095592.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/gemini-4-argon-nueva-bestia-google-para-trabajo-pesado-codigo-ciencia-finanzas-ciberseguridad",
+    "title": "Gemini 4 Argon es la nueva bestia de Google para el trabajo pesado: código, ciencia, finanzas y ciberseguridad",
+    "snippet": "Imaginemos que encargamos a una inteligencia artificial una tarea que no puede resolverse con una sola respuesta: revisar miles de líneas de código, detectar qué partes ralentizan un programa y proponer cambios sin alter...",
+    "date": "2026-10-13T16:48:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/gemini-4-argon-nueva-bestia-google-para-trabajo-pesado-codigo-ciencia-finanzas-ciberseguridad",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-caral-hallan-figuras-antropomorficas-datan-entre-3000-a-1800-anos-a-c-video-1095725.aspx",
+    "title": "Caral: hallan figuras antropomórficas que datan de entre 3000 a 1800 años a. C. [VIDEO]",
+    "snippet": "Continúan los hallazgos fruto de las investigaciones arqueológicas en Caral, al cumplirse en este mes 32 años del inicio de estas, encontrándose recientemente figuras antropomórficas que representarían a una pareja y a l...",
+    "date": "2026-10-13T16:46:29",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-caral-hallan-figuras-antropomorficas-datan-entre-3000-a-1800-anos-a-c-video-1095725.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hay-gente-que-conduce-220-kilometros-al-dia-para-ir-a-trabajar-no-gusto-prefieren-kit-superviviencia-que-alquilar-habitacion",
+    "title": "En España cada vez hay más gente haciendo 200 kilómetros en coche todos los días para ir a trabajar",
+    "snippet": "Vivir a 110 kilómetros del trabajo parece una forma de ahorrar, pero lo que se ahorra en alquiler se paga en coche, en tiempo y en sueño. Aunque hay quien prefiere conducir, como María Inmaculada Jiménez, quien lleva la ...",
+    "date": "2026-10-13T16:46:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hay-gente-que-conduce-220-kilometros-al-dia-para-ir-a-trabajar-no-gusto-prefieren-kit-superviviencia-que-alquilar-habitacion",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-seleccion-peruana-obtuvo-medallas-el-campeonato-mundial-remo-1095734.aspx",
+    "title": "Selección peruana obtuvo medallas en el Campeonato Mundial de Remo",
+    "snippet": "La selección peruana tuvo destacada participación en el Campeonato Mundial de Remo, disputado en Qingdao (China), al conseguir una medalla de plata y una de bronce, logros que reflejan el nivel competitivo de las naciona...",
+    "date": "2026-10-13T16:30:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-seleccion-peruana-obtuvo-medallas-el-campeonato-mundial-remo-1095734.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/uno-mayores-distribuidores-hardware-espana-ha-tenido-idea-para-seguir-creciendo-convertirse-dell",
+    "title": "Uno de los mayores distribuidores de hardware de España ha tenido una idea para seguir creciendo: convertirse en Dell",
+    "snippet": "En 1984, Michael Dell se dedicaba a mejorar el rendimiento de los PC de sus compañeros de su residencia universitaria de Texas. Pero lo que realmente le ha convertido en la cuarta mayor fortuna del mundo, con un patrimon...",
+    "date": "2026-10-13T16:30:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/uno-mayores-distribuidores-hardware-espana-ha-tenido-idea-para-seguir-creciendo-convertirse-dell",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3172378",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "snippet": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach....",
+    "date": "2026-10-13T16:30:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/ley-propiedad-horizontal-aclara-expertos-coinciden-puedes-aparcar-dos-vehiculos-tu-garaje-cumples-estas-normas",
+    "title": "La Ley de Propiedad Horizontal lo aclara y los expertos coinciden: \"Puedes aparcar dos vehículos en tu garaje si cumples con las normas\"",
+    "snippet": "Si hay algo que une a España es que no hay una comunidad de propietarios donde no haya algún lío. Los hay de todo tipo, capaces de plantar una piscina hinchable en un edificio de los años 60 o de denunciar a un vecino po...",
+    "date": "2026-10-13T16:15:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/ley-propiedad-horizontal-aclara-expertos-coinciden-puedes-aparcar-dos-vehiculos-tu-garaje-cumples-estas-normas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1712332",
+    "title": "SNI pide que Temu y otros aplicativos paguen impuestos: estima movimientos por US$1.000 millones que no tributan",
+    "snippet": "La Sociedad Nacional de Industrias advierte que el crecimiento de las compras por estas plataformas digitales genera condiciones de competencia desiguales frente a los fabricantes y comerciantes peruanos. El gremio plant...",
+    "date": "2026-10-13T16:08:01",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/temu-y-otras-plataformas-de-comercio-tienen-que-pagar-impuestos-exige-sin-movimientos-1000-millones-no-son-tributados-noticia-1712332",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/materiales/brasil-tienen-atajo-para-resolver-crisis-vivienda-2-toneladas-plastico-27-metros-cuadrados-montaje-15-horas",
+    "title": "En Brasil tienen un atajo para resolver la vivienda: 2 toneladas de plástico, 27 metros cuadrados y montaje en 15 horas",
+    "snippet": "Rejane Alves de Souza es madre de nueve hijos y abuela de doce nietos. Tiene 45 años, y en 2023 recibió las llaves de una casa que no se parece a la mayoría de los hogares en Brasil, pues sus paredes están hechas de bloq...",
+    "date": "2026-10-13T16:00:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/materiales/brasil-tienen-atajo-para-resolver-crisis-vivienda-2-toneladas-plastico-27-metros-cuadrados-montaje-15-horas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=101898",
+    "title": "Mypes en Perú: cinco claves para mejorar las ventas",
+    "snippet": "El 70 % de las micro y pequeñas empresas (mypes) en el Perú todavía enfrenta dificultades para avanzar en su transformación digital. Según el Ministerio de la Producción (Produce), dejar de lado la digitalización puede r...",
+    "date": "2026-10-13T16:00:11",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/mypes-en-peru-5-claves-para-mejorar-las-ventas/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/oficial-google-fitbit-edge-nueva-pulsera-actividad-pantalla-bateria-reemplazable-que-tambien-compatible-ios",
+    "title": "Ya es oficial la Google Fitbit Edge, una nueva pulsera de actividad con pantalla y batería reemplazable que también es compatible con iOS",
+    "snippet": "Que las pulseras de actividad sin pantalla están cada vez más de moda no es ningún secreto, pero todavía hay hueco en el mercado para modelos que sí la tienen. Google ha sido una de las últimas en sumarse a la tendencia ...",
+    "date": "2026-10-13T15:46:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/oficial-google-fitbit-edge-nueva-pulsera-actividad-pantalla-bateria-reemplazable-que-tambien-compatible-ios",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/llevabamos-tiempo-preguntandonos-que-no-habia-videojuegos-desarrollados-ia-epic-acaba-dar-respuesta",
+    "title": "Epic cruza el Rubicón de los videojuegos y anuncia que generará código con IA para sus futuros títulos",
+    "snippet": "Hace unos días, Google presentó Playground, una IA que creaba juegos con sólo pedírselo. Algunas voces empezaron con eso de \"es el fin de los videojuegos\", pero realmente es algo que apunta a un mercado fuera del artísti...",
+    "date": "2026-10-13T15:45:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/llevabamos-tiempo-preguntandonos-que-no-habia-videojuegos-desarrollados-ia-epic-acaba-dar-respuesta",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.engadget.com/2282149/iphone-duo-vs-xiaomi-18-fold-foldable-comparison/",
+    "title": "iPhone Duo vs Xiaomi 18 Fold: How these foldables stack up",
+    "snippet": "We compare the two on their design, displays, durability and more....",
+    "date": "2026-10-13T15:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2282149/iphone-duo-vs-xiaomi-18-fold-foldable-comparison/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/aplicaciones/demo-gratis-steam-usa-tanta-ia-que-sus-autores-han-tenido-que-pedir-credito-para-pagar-facturas",
+    "title": "Una demo gratis en Steam usa tanta IA que sus autores han tenido que pedir un crédito para pagar las facturas",
+    "snippet": "¿Quién no se ha bajado alguna vez la demo de algún juego? Es una manera perfecta de saber cómo es la experiencia antes de pagarla, por eso las demos son una gran herramienta de marketing para los desarrolladores. Pero ¿q...",
+    "date": "2026-10-13T15:30:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/aplicaciones/demo-gratis-steam-usa-tanta-ia-que-sus-autores-han-tenido-que-pedir-credito-para-pagar-facturas",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460474",
+    "title": "Perú: Proinversión impulsa a Terminal Portuario de Corío como nuevo eje logístico del sur peruano",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Proinversión está impulsando el desarrollo del Terminal Portuario de Corío, en Arequipa, una iniciativa que contempla\nLa entrada Perú: Proinversión impulsa a Terminal Portua...",
+    "date": "2026-10-13T15:30:05",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-proinversion-impulsa-a-terminal-portuario-de-corio-como-nuevo-eje-logistico-del-sur-peruano/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=101906",
+    "title": "Yarkan obtiene la certificación internacional ISO 27001 para fortalecer la seguridad de la información",
+    "snippet": "Yarkan S.A.C. obtuvo la certificación internacional ISO/IEC 27001, un estándar que establece requisitos para implementar y mantener un Sistema de Gestión de Seguridad de la Información (SGSI). Este reconocimiento se prod...",
+    "date": "2026-10-13T15:25:51",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/yarkan-obtiene-la-certificacion-internacional-iso-27001-para-fortalecer-la-seguridad-de-la-informacion-ccl-asociados/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/meta-presenta-muse-wonder-muse-wonder-full-sus-modelos-ia-punteros-objetivo-hacer-frente-a-mejores-openai-anthropic",
+    "title": "Meta presenta Muse Wonder y Muse Wonder Full, sus modelos de IA más punteros para ponerse en la frontera de la tecnología",
+    "snippet": "Meta ha lanzado este lunes Muse Wonder y Muse Wonder Full, los primeros modelos de sus “Superintelligence Labs” que, según la compañía, se colocan a la vanguardia junto con los mejores modelos de OpenAI y Anthropic. Lleg...",
+    "date": "2026-10-13T15:20:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/meta-presenta-muse-wonder-muse-wonder-full-sus-modelos-ia-punteros-objetivo-hacer-frente-a-mejores-openai-anthropic",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/samsung-galaxy-s26-ultra-baja-precio-mucho-antes-black-friday-asi-sus-mejores-ofertas-fecha",
+    "title": "El Samsung Galaxy S26 Ultra baja de precio mucho antes del Black Friday: así es una de sus mejores ofertas hasta la fecha",
+    "snippet": "Aunque será en el Black Friday (también en el Cyber Monday) cuando veamos algunas de las mejores ofertas del año en telefonía, ahora mismo podemos encontrar muy buenos precios en modelos de gama alta como lo es el Samsun...",
+    "date": "2026-10-13T15:16:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/samsung-galaxy-s26-ultra-baja-precio-mucho-antes-black-friday-asi-sus-mejores-ofertas-fecha",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2285334/apple-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/",
+    "title": "Apple's iPhone market share rose despite a downturn in smartphone shipments",
+    "snippet": "Samsung and Apple had decent quarters, while Xiaomi, Oppo and Vivo had a terrible Q3....",
+    "date": "2026-10-13T15:15:21",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2285334/apple-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2282134/samsung-galaxy-watch-best-time-of-day-charge-battery/",
+    "title": "When is the best time to charge your Samsung Galaxy Watch?",
+    "snippet": "Though newer Galaxy Watches have built-in battery protection, choosing the right time of day to charge your watch will get you the best results....",
+    "date": "2026-10-13T15:15:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2282134/samsung-galaxy-watch-best-time-of-day-charge-battery/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=101900",
+    "title": "Precio del dólar en Perú hoy, 13 de octubre de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este martes 13 de octubre a las 10:00 a. m. se sitúa en S/3.434 para la compra y S/3.448 para la...",
+    "date": "2026-10-13T15:09:14",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-13-de-octubre-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460469",
+    "title": "Francia incauta un petrolero ligado a “flota fantasma” de Rusia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de Francia, Emmanuel Macron, informó sobre la incautación de un petrolero al que se\nLa entrada Francia incauta un petrolero ligado a &#8220;flota fantasma&#822...",
+    "date": "2026-10-13T15:00:34",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/francia-incauta-un-petrolero-ligado-a-flota-fantasma-de-rusia/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/jonathan-tortuga-tiene-194-anos-acabamos-descubrir-que-su-adn-envejece-lentamente",
+    "title": "Jonathan es una tortuga, tiene 194 años y acabamos de descubrir por qué su ADN envejece tan lentamente",
+    "snippet": "El secreto de la longevidad extrema siempre ha sido un tema que ha fascinado a la ciencia, pero para saber cómo se puede vivir más de 200 años, a veces no hay que mirar a los humanos, sino a un apacible reptil que lleva ...",
+    "date": "2026-10-13T15:00:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/jonathan-tortuga-tiene-194-anos-acabamos-descubrir-que-su-adn-envejece-lentamente",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mediamarkt-renueva-su-campana-oktubre-ofertas-top-moviles-televisores",
+    "title": "MediaMarkt renueva su campaña Oktubre con ofertas top en móviles, televisores y más",
+    "snippet": "MediaMarkt ha renovado su campaña Oktubre con ofertas en muchos dispositivos, por lo que, tras la Fiesta de Ofertas Prime de Amazon, es un buen momento para aprovechar los descuentos en móviles, teles y más dispositivos....",
+    "date": "2026-10-13T14:46:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mediamarkt-renueva-su-campana-oktubre-ofertas-top-moviles-televisores",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/eeuu-depende-china-para-fabricar-chips-que-reconoce",
+    "title": "Aunque lo niegue en público, Estados Unidos tiene un problema con su dependencia de China para fabricar chips",
+    "snippet": "La industria de los semiconductores de EEUU no es independiente. Actualmente no lo es la de ningún país. Las empresas estadounidenses que se dedican a la fabricación de circuitos integrados, como Intel, GlobalFoundries o...",
+    "date": "2026-10-13T14:45:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/eeuu-depende-china-para-fabricar-chips-que-reconoce",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/servicios/motor-busqueda-aleman-ha-rechazado-a-mistral-apostando-modelos-ia-chinos-open-source-su-lugar",
+    "title": "Un motor de búsqueda alemán ha rechazado a Mistral apostando por modelos IA chinos open-source en su lugar",
+    "snippet": "Cuando se creó Mistral, el objetivo era tener una alternativa europea a los gigantes estadounidenses y chinos de la IA. En este tiempo, ha ido levantando miles de millones de euros en diferentes rondas de financiación y ...",
+    "date": "2026-10-13T14:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/servicios/motor-busqueda-aleman-ha-rechazado-a-mistral-apostando-modelos-ia-chinos-open-source-su-lugar",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/cni-busca-17-perfiles-tecnicos-para-anticiparse-a-amenazas-ia-cuantica-que-piden-dice-mucho-como-se-prepara",
+    "title": "El CNI busca 17 perfiles técnicos para anticiparse a las amenazas de la IA y la cuántica: lo que piden dice mucho de cómo se prepara",
+    "snippet": "El Centro Nacional de Inteligencia ha abierto una campaña para incorporar ingenieros y analistas técnicos. Son 17 perfiles, desde el análisis de malware hasta el despliegue de modelos de IA, para los que el CNI está reci...",
+    "date": "2026-10-13T14:30:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/cni-busca-17-perfiles-tecnicos-para-anticiparse-a-amenazas-ia-cuantica-que-piden-dice-mucho-como-se-prepara",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3177072",
+    "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+    "snippet": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use....",
+    "date": "2026-10-13T14:30:12",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/vuelve-hoy-champions-league-galatasaray-barcelona-puedes-verlo-casa-ir-al-bar-9-99-euros-permanencia",
+    "title": "Vuelve hoy la Champions League con un Galatasaray-Barcelona. Puedes verlo en casa sin ir al bar por 9,99 euros y sin permanencia",
+    "snippet": "Vuelve la Champions League esta semana. El cambio de formato que sufrió esta competición hace unos años le ha sentado muy bien, especialmente a su primera fase. Lo cierto es que cada jornada nos deja varios partidazos y,...",
+    "date": "2026-10-13T14:16:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/vuelve-hoy-champions-league-galatasaray-barcelona-puedes-verlo-casa-ir-al-bar-9-99-euros-permanencia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://rpp.pe/1712293",
+    "title": "Produce advierte que delegación de facultades no tiene medidas para las mypes ante el Fenómeno de El Niño: \"la reactivación es para ayer\"",
+    "snippet": "El ministro de la Producción, Juan Carlos Requejo señaló que el pedido del Ejecutivo no contempla acciones frente al impacto de El Niño en las mypes de pesca, acuicultura y textil....",
+    "date": "2026-10-13T14:13:33",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/produce-advierte-que-delegacion-de-facultades-no-tiene-medidas-para-las-mypes-ante-el-fenomeno-de-el-nino-la-reactivacion-es-para-ayer-noticia-1712293",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370776/taiwanese-finance-minister-plans-join-apec-meeting-hong-kong?utm_source=rss_feed",
+    "title": "Taiwanese finance minister plans to join Apec meeting in Hong Kong",
+    "snippet": "Taiwanese Finance Minister Chuang Tsui-yun plans to attend the Apec meeting in Hong Kong, where the Chinese finance chief is due to deliver the opening speech.\nChuang’s ministry told Reuters on Tuesday she would attend t...",
+    "date": "2026-10-13T14:04:01",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370776/taiwanese-finance-minister-plans-join-apec-meeting-hong-kong?utm_source=rss_feed",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460449",
+    "title": "Continente americano registra sobreoferta de crudo pesado por alza de fletes",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario El petróleo crudo denso y pesado, preferido por las refinerías de todo el mundo por\nLa entrada Continente americano registra sobreoferta de crudo pesado por ...",
+    "date": "2026-10-13T14:00:54",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/continente-americano-registra-sobreoferta-de-crudo-pesado-por-alza-de-fletes/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/cuevas-luna-podrian-ser-bunker-futuros-astronautas-nasa-tiene-mision-para-comprobarlo",
+    "title": "La NASA cree que las cuevas de la Luna sirven como \"búnkeres\" para astronautas y tiene una misión en marcha",
+    "snippet": "La NASA ha seleccionado tres proyectos que se encargarán de analizar el terreno lunar para maximizar la seguridad de los astronautas que viajen en el futuro a nuestro satélite. Los astronautas del programa Apolo pasaron ...",
+    "date": "2026-10-13T14:00:28",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/cuevas-luna-podrian-ser-bunker-futuros-astronautas-nasa-tiene-mision-para-comprobarlo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/riesgo-ia-no-va-a-parecerse-a-terminator-se-parecera-a-que-acaba-pasar-500-supermercados-franceses",
+    "title": "El motivo para temer a la IA no es que nos extinga a todos, es lo que acaba de pasarle a 300 supermercados franceses",
+    "snippet": "La noche del domingo al lunes, los frigoríficos de cientos de supermercados franceses se descongelaron a la vez. Alguien activó a distancia los ciclos de desescarche de sus controladores. El ataque alcanzó al menos 300 e...",
+    "date": "2026-10-13T13:45:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/riesgo-ia-no-va-a-parecerse-a-terminator-se-parecera-a-que-acaba-pasar-500-supermercados-franceses",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3176295",
+    "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+    "snippet": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps....",
+    "date": "2026-10-13T13:37:19",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3175876",
+    "title": "Apple makes another push into the smart home market with HomeView",
+    "snippet": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub....",
+    "date": "2026-10-13T13:15:46",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2281992/why-phone-overheating-while-using-android-auto-carplay/",
+    "title": "Why is your phone overheating while using CarPlay or Android Auto?",
+    "snippet": "CarPlay and Android Auto do a great job of projecting your phone onto your vehicle's dash. However, certain stresses can cause it to overheat and play up....",
+    "date": "2026-10-13T13:15:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2281992/why-phone-overheating-while-using-android-auto-carplay/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460436",
+    "title": "Empresas de EE.UU., China e India muestran interés en proyecto portuario de USD 844 millones en Perú",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Inversores de países como Estados Unidos, China e India están interesados en un nuevo proyecto\nLa entrada Empresas de EE.UU., China e India muestran interés ...",
+    "date": "2026-10-13T13:00:53",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/empresas-de-ee-uu-china-e-india-muestran-interes-en-proyecto-portuario-de-usd-844-millones-en-peru/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=459846",
+    "title": "Puerto de Esbjerg busca convertirse en centro neurálgico de Europa para nueva industria verde",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Ha surgido una nueva industria en torno a la captura y almacenamiento de carbono (CAC), que\nLa entrada Puerto de Esbjerg busca convertirse en centro neurálgico de Europa par...",
+    "date": "2026-10-13T12:00:10",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-esbjerg-busca-convertirse-en-centro-neuralgico-de-europa-para-nueva-industria-verde/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://rpp.pe/1712250",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 13 de octubre del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy martes 13 de octubre es de  S/3.44 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-10-13T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-13-de-octubre-del-2026-noticia-1712250",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460413",
+    "title": "Canadá: Puerto de Vancouver registra temporada récord con 1,4 millones de pasajeros de cruceros",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Vancouver informó que su temporada de cruceros 2026 alcanzó un récord de 1,4\nLa entrada Canadá: Puerto de Vancouver registra temporada récord con 1,4 millones d...",
+    "date": "2026-10-13T11:00:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/canada-puerto-de-vancouver-registra-temporada-record-con-14-millones-de-pasajeros-de-cruceros/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://www.xataka.com/movilidad/paseo-salon-paris-me-ha-confirmado-algo-europeos-se-banan-nostalgia-china-nos-da-bano-realidad",
     "title": "Un paseo por el Salón de París me ha confirmado algo: mientras los europeos se bañan en nostalgia, China nos da un baño de realidad",
     "snippet": "Cruzamos la puerta. Son las nueve de la mañana pero ya hay ajetreo en el Salón de París. Incluso es demasiado tarde para las primeras presentaciones y conferencias de prensa. Eso sí, queda rato hasta que los directores, ...",
@@ -871,482 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-la-seleccion-peruana-ocupo-segundo-lugar-del-sudamericano-u19-voley-1095555.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460057",
-    "title": "Alemania: Rheinmetall se adjudica reparación y mantenimiento de cuatro nuevos buques de GNL de la Aduana",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La División de Sistemas Navales de Rheinmetall recibió el encargo de la Administración Federal de Aduanas\nLa entrada Alemania: Rheinmetall se adjudica reparación y mantenimi...",
-    "date": "2026-10-12T01:00:04",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/alemania-rheinmetall-se-adjudica-reparacion-y-mantenimiento-de-cuatro-nuevos-buques-de-gnl-de-la-aduana/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460294",
-    "title": "Bélgica: Puerto de Amberes-Brujas anuncia construcción de ocho nuevos aerogeneradores",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Amberes-Brujas (Bélgica) anunció el inicio de las obras de construcción de ocho aerogeneradores\nLa entrada Bélgica: Puerto de Amberes-Brujas anuncia construcció...",
-    "date": "2026-10-12T00:00:13",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/belgica-puerto-de-amberes-brujas-anuncia-construccion-de-ocho-nuevos-aerogeneradores/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o#0",
-    "title": "Roofing scammers con homeowners out of thousands of pounds",
-    "snippet": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly....",
-    "date": "2026-10-11T23:19:49",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-alianza-atletico-vencio-31-a-sport-boys-el-callao-y-es-uno-los-lideres-del-clausura-1095553.aspx",
-    "title": "Alianza Atlético venció 3-1 a Sport Boys en el Callao y es uno de los líderes del Clausura",
-    "snippet": "Alianza Atlético se sumó al pelotón de los líderes del Torneo Apertura al vencer este domingo 3-1 al Sport Boys en el Estadio Miguel Grau del Callao, resultado que impidió al equipo rosado tomarse la revancha de la elimi...",
-    "date": "2026-10-11T23:03:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-alianza-atletico-vencio-31-a-sport-boys-el-callao-y-es-uno-los-lideres-del-clausura-1095553.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3176490",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "snippet": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new sm...",
-    "date": "2026-10-11T21:14:40",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mes-del-senor-los-milagros-indecopi-registra-130-marcas-turrones-dona-pepa-1095543.aspx",
-    "title": "Mes del Señor de los Milagros: Indecopi registra 130 marcas de turrones de Doña Pepa",
-    "snippet": "El mes de octubre es del Señor de los Milagros para la comunidad católica del país y el tradicional dulce peruano asociado a la celebración religiosa típica de Lima, y del país entero es el típico turrón de Doña Pepa en ...",
-    "date": "2026-10-11T21:08:06",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mes-del-senor-los-milagros-indecopi-registra-130-marcas-turrones-dona-pepa-1095543.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460327",
-    "title": "Puerto de Paranaguá realiza primera conexión del Moegão con una terminal privada",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La terminal de ALTP, consorcio integrado por Louis Dreyfus Company y Amaggi, responsable del PAR 25,\nLa entrada Puerto de Paranaguá realiza primera conexión del Moegão con u...",
-    "date": "2026-10-11T21:00:28",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-paranagua-realiza-primera-conexion-del-moegao-con-una-terminal-privada/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atencion-mype-conoce-4-decisiones-financieras-para-esta-campana-fin-ano-1095542.aspx",
-    "title": "¡Atención mype!: conoce 4 decisiones financieras para esta campaña de fin de año",
-    "snippet": "El inicio del cuarto trimestre del año marca el periodo comercial más decisivo para el tejido empresarial en el Perú, con la proximidad de la campaña navideña y de fin de año, miles de comercios y pequeñas empresas incre...",
-    "date": "2026-10-11T20:48:23",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atencion-mype-conoce-4-decisiones-financieras-para-esta-campana-fin-ano-1095542.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460321",
-    "title": "Terminal Pacífico Sur atiende escala inaugural del portacontenedores MSC Müge",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Terminal Pacífico Sur (TPS) atendió la escala inaugural del portacontenedores MSC Müge, un buque de nueva\nLa entrada Terminal Pacífico Sur atiende escala inaugural del porta...",
-    "date": "2026-10-11T20:00:54",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/terminal-pacifico-sur-atiende-escala-inaugural-del-portacontenedores-msc-muge/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460298",
-    "title": "Corea del Sur completa su primera travesía comercial de ida y vuelta a Europa por el Ártico",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Un portacontenedores surcoreano completó el primer viaje comercial de ida y vuelta del país a\nLa entrada Corea del Sur completa su primera travesía comercial...",
-    "date": "2026-10-11T19:00:09",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/corea-del-sur-completa-su-primera-travesia-comercial-de-ida-y-vuelta-a-europa-por-el-artico/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
-    "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
-    "snippet": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3....",
-    "date": "2026-10-11T18:54:38",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
-    "title": "The iPhone clock app has an oddity not many people know about",
-    "snippet": "Sure, you can set your iPhone's alarm to any time you choose. But there's a hidden limit to how far your choices will stretch, though most users won't reach it....",
-    "date": "2026-10-11T18:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/1971-liberaron-11-ovejas-salvajes-parque-nacional-teide-para-caza-mayor-hoy-pesadilla-ecologica",
-    "title": "En 1971 soltaron 11 ovejas salvajes en el Parque Nacional del Teide para la caza mayor. Hoy son una pesadilla ecológica",
-    "snippet": "En una isla, los recursos y el inventario de la biodiversidad es diferente y con un flujo más limitado al que hay en el continente. Así que hace más de 50 años, el gobierno de España auspiciado por los cazadores tomó la ...",
-    "date": "2026-10-11T18:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/1971-liberaron-11-ovejas-salvajes-parque-nacional-teide-para-caza-mayor-hoy-pesadilla-ecologica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/",
-    "title": "The meaning behind the padlock symbol in your PlayStation 5 game library",
-    "snippet": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games....",
-    "date": "2026-10-11T18:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/8-euros-lidl-vende-hoy-lampara-sensor-movimiento-que-soluciona-problema-cotidiano-casa",
-    "title": "Por 8 euros, Lidl vende hoy una lámpara con sensor de movimiento que soluciona un problema cotidiano en casa",
-    "snippet": "No hace falta gastar mucho para hacernos la vida más fácil dentro de casa. Por ejemplo, para ver con facilidad dentro de los armarios del dormitorio o los muebles de la cocina, que si son profundos suelen ser bastante os...",
-    "date": "2026-10-11T17:46:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/8-euros-lidl-vende-hoy-lampara-sensor-movimiento-que-soluciona-problema-cotidiano-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4997691",
-    "title": "New Apple Smart Home Hub Reportedly Called HomeView and Will Ship in November",
-    "snippet": "A new Apple TV set-top box and HomePod mini are also expected to be unveiled Tuesday....",
-    "date": "2026-10-11T17:35:39",
-    "source": "CNET",
-    "url": "https://www.cnet.com/home/new-apple-homeview-smart-home-hub/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4997691",
-    "title": "Apple’s New Smart Home Hub Is Reportedly Called HomeView and Will Ship in November",
-    "snippet": "Apple is also expected to unveil a new Apple TV set-top box and HomePod Mini on Tuesday....",
-    "date": "2026-10-11T17:35:39",
-    "source": "CNET",
-    "url": "https://www.cnet.com/home/new-apple-homeview-smart-home-hub/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/numero-que-tu-reloj-mide-predice-cuanto-viviras-mejor-que-peso-vo2-max",
-    "title": "Tu VO2 max puede decir más de tu salud que los pasos que das cada día. Tu reloj ya la calcula",
-    "snippet": "Tener un reloj inteligente en la muñeca como un Apple Watch o un Garmin es sinónimo a día de hoy de tener una gran cantidad de información en la palma de nuestra mano. Frecuencia cardiaca, frecuencia respiratoria, número...",
-    "date": "2026-10-11T17:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/numero-que-tu-reloj-mide-predice-cuanto-viviras-mejor-que-peso-vo2-max",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/",
-    "title": "Why strong magnets can hinder the iPhone's rear-facing camera",
-    "snippet": "Magnetic accessories can be handy, but make sure they're not interfering with your camera....",
-    "date": "2026-10-11T16:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/",
-    "title": "Apple's smart home hub will reportedly be called HomeView",
-    "snippet": "Bloomberg reported that the HomeView device will start shipping in November....",
-    "date": "2026-10-11T16:28:47",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3176239",
-    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
-    "date": "2026-10-11T16:02:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/profesion-antigua-mundo-tiene-40-000-anos-esta-yacimiento-barcelona",
-    "title": "La profesión más antigua del mundo tiene 40.000 años y está en un yacimiento de Barcelona",
-    "snippet": "Si hay algo que nos ha ayudado a conocer mejor a los neandertales, esos son sus retos: huesos fosilizados, dientes y objetos como herramientas de piedra o cenizas. Al fin y al cabo, es lo que sobrevive al paso de 40.000 ...",
-    "date": "2026-10-11T16:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/profesion-antigua-mundo-tiene-40-000-anos-esta-yacimiento-barcelona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/io-sono-giorgia-meloni-cuatro-segundos-audio-nueva-arma-primera-ministra-italiana-deepfakes",
-    "title": "\"Io sono Giorgia Meloni\": cuatro segundos de audio son la nueva arma de la primera ministra italiana contra los deepfakes",
-    "snippet": "La primera ministra italiana quiere que su voz sea suya y solo suya también ante la ley, así que Giorgia Meloni ha iniciado los trámites para registrarla como marca. Según Reuters, ha presentado la solicitud ante la ofic...",
-    "date": "2026-10-11T15:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/io-sono-giorgia-meloni-cuatro-segundos-audio-nueva-arma-primera-ministra-italiana-deepfakes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/io-sono-giorgia-meloni-cuatro-segundos-audio-nueva-arma-primera-ministra-italiana-deepfakes",
-    "title": "Meloni quiere registrar su voz como marca para frenar los deepfakes. Hay un problema: la marca no los frena",
-    "snippet": "La primera ministra italiana quiere que su voz sea suya y solo suya también ante la ley, así que Giorgia Meloni ha iniciado los trámites para registrarla como marca. Según Reuters, ha presentado la solicitud ante la ofic...",
-    "date": "2026-10-11T15:30:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/io-sono-giorgia-meloni-cuatro-segundos-audio-nueva-arma-primera-ministra-italiana-deepfakes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460306",
-    "title": "Puerto Valparaíso y Museo Baburizza realizarán nuevo concurso de pintura infantil “Los colores del Puerto”",
-    "snippet": "Por PortalPortuario Social El Museo de Bellas Artes de Valparaíso y Empresa Portuaria Valparaíso (EPV) llevarán a cabo la séptima edición\nLa entrada Puerto Valparaíso y Museo Baburizza realizarán nuevo concurso de pintur...",
-    "date": "2026-10-11T15:16:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-valparaiso-y-museo-baburizza-realizaran-nuevo-concurso-de-pintura-infantil-los-colores-del-puerto/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/cuello-botella-investigacion-cientifica-actual-monos-china-necesita-no-tiene-forma-acceder-a-ellos",
-    "title": "El cuello de botella en la investigación científica actual son los monos: China necesita más y no tiene forma de acceder a ellos",
-    "snippet": "Cuando el 28 de agosto, Joinn Laboratories, la mayor empresa china de ensayos preclínicos de seguridad, presentó sus cuentas del primer semestre, nadie se esperaba el resultado. Había ganado más dinero (747,5 millones de...",
-    "date": "2026-10-11T15:00:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/cuello-botella-investigacion-cientifica-actual-monos-china-necesita-no-tiene-forma-acceder-a-ellos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/",
-    "title": "We're in the middle of a PS5 Pro shortage and GTA 6 will only make it worse",
-    "snippet": "Rockstar's Grand Theft Auto 6 is set to become the most popular game ever and Sony is finding it very difficult to satisfy demand for the PlayStation 5 Pro....",
-    "date": "2026-10-11T14:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/asi-funciona-metano-sintetico-que-espana-fabrica-co2-e-hidrogeno-renovable-para-sustituir-al-gas-natural",
-    "title": "Así funciona el metano sintético que España fabrica con CO₂ e hidrógeno renovable para sustituir al gas natural",
-    "snippet": "La transición energética presenta un problema importante: aunque estamos dando pasos agigantados a la hora de electrificar el mundo, todavía existen ciertos sectores que, bien de momento o bien por su naturaleza, no podr...",
-    "date": "2026-10-11T14:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/asi-funciona-metano-sintetico-que-espana-fabrica-co2-e-hidrogeno-renovable-para-sustituir-al-gas-natural",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/tiene-16-episodios-lleva-ocho-anos-netflix-cuatro-semanas-dejara-estar-disponible",
-    "title": "Tiene 16 episodios y lleva ocho años en Netflix: en cuatro semanas dejará de estar disponible",
-    "snippet": "Si eres de los que, como yo, aún no viste 'The end of the f***ing world' a pesar de tenerla desde años en la lista, tengo malas noticias: Netflix le ha dado un ultimátum de cuatro semanas. La plataforma mantenía la distr...",
-    "date": "2026-10-11T14:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/tiene-16-episodios-lleva-ocho-anos-netflix-cuatro-semanas-dejara-estar-disponible",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/",
-    "title": "Here's how much the PlayStation 5 cost in 2020 vs. 2026",
-    "snippet": "The PS5 hasn't seen a major price cut or bundle like its predecessors. Instead, you'll pay even more for one today than at launch....",
-    "date": "2026-10-11T13:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/he-viajado-primer-unico-maglev-comercial-alta-velocidad-mundo-centro-shanghai-al-aeropuerto-7-minutos",
-    "title": "He viajado en el primer y único maglev comercial de alta velocidad del mundo: del centro de Shanghai al aeropuerto en 7 minutos",
-    "snippet": "No sé tú, pero a mí ir del centro de una gran ciudad al aeropuerto para tomar un vuelo me pone nerviosa, así que acostumbro a planificarlo todo con mucho tiempo por si las moscas: atascos, metros averiados, cercanías que...",
-    "date": "2026-10-11T13:30:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/he-viajado-primer-unico-maglev-comercial-alta-velocidad-mundo-centro-shanghai-al-aeropuerto-7-minutos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/",
-    "title": "What's the difference between Android Automotive and Google Built-In?",
-    "snippet": "One is a set of apps while the other can run almost everything inside of a car....",
-    "date": "2026-10-11T13:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-hallazgo-trujillo-descubren-tumba-infante-elite-mochica-la-huaca-de-luna-1095316.aspx",
-    "title": "¡Hallazgo en Trujillo! Descubren tumba de infante de élite mochica en la huaca de la Luna",
-    "snippet": "Hace más de 1,400 años aproximadamente, la muerte repentina de un infante miembro de la élite mochica, generó un importante ritual funerario al pie de la huaca de la Luna, uno de los templos religiosos más importantes de...",
-    "date": "2026-10-11T13:28:15",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-hallazgo-trujillo-descubren-tumba-infante-elite-mochica-la-huaca-de-luna-1095316.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/",
-    "title": "What is the oldest Samsung device that still gets software updates in 2026?",
-    "snippet": "Knowing how long your phone will get updates is important for deciding when to upgrade....",
-    "date": "2026-10-11T13:15:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minedu-restringe-uso-celulares-durante-jornada-escolar-del-nivel-inicial-1095486.aspx",
-    "title": "Minedu restringe el uso de celulares durante jornada escolar del nivel inicial",
-    "snippet": "Durante la jornada escolar en las instituciones y programas educativos públicos y privados del nivel de educación inicial estará restringido el uso personal, recreativo o de carácter no pedagógico de teléfonos celulares ...",
-    "date": "2026-10-11T13:11:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minedu-restringe-uso-celulares-durante-jornada-escolar-del-nivel-inicial-1095486.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/planta-solar-que-va-a-destronar-a-alemania-como-grande-europa-esta-pais-esperado",
-    "title": "La planta solar que va a destronar a Alemania como la más grande de Europa está en el país menos esperado",
-    "snippet": "En 2020 hablábamos de \"Núñez de Balboa\", la planta solar de Badajoz que se erigía como la más grande de Europa. En 2024, una nueva y enorme planta solar montada en una vieja mina en Alemania le robaba el título y en los ...",
-    "date": "2026-10-11T13:00:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/planta-solar-que-va-a-destronar-a-alemania-como-grande-europa-esta-pais-esperado",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1009317",
-    "title": "What to expect from Apple’s ‘Welcome Home’ event",
-    "snippet": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub....",
-    "date": "2026-10-11T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/planta-solar-que-va-a-destronar-a-alemania-como-grande-europa-esta-pais-esperado",
-    "title": "Rumanía le quita el trono solar a Alemania: así será la planta fotovoltaica más grande de Europa",
-    "snippet": "En 2020 hablábamos de \"Núñez de Balboa\", la planta solar de Badajoz que se erigía como la más grande de Europa. En 2024, una nueva y enorme planta solar montada en una vieja mina en Alemania le robaba el título y en los ...",
-    "date": "2026-10-11T13:00:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/planta-solar-que-va-a-destronar-a-alemania-como-grande-europa-esta-pais-esperado",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/energia/google-se-asegura-20-anos-energia-nuclear-para-alimentar-sus-centros-datos",
-    "title": "Google se asegura 20 años de energía nuclear para alimentar sus centros de datos",
-    "snippet": "Cuando Google anuncia una nueva generación de modelos de IA, hay una parte importante que normalmente se queda fuera del titular: las centrales eléctricas que estarán detrás y que alimentarán a estos gigantes energéticos...",
-    "date": "2026-10-11T12:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/google-se-asegura-20-anos-energia-nuclear-para-alimentar-sus-centros-datos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-peru-enfrenta-hoy-a-argentina-por-titulo-del-campeonato-sudamericano-u19-1095475.aspx",
-    "title": "Perú enfrenta hoy a Argentina por el título del Campeonato Sudamericano U19",
-    "snippet": "Tras vencer 3-2 a Brasil y clasificar al Mundial de la categoría, la selección peruana buscará seguir haciendo historia cuando enfrente este domingo, a las 19:00 horas de Perú, a Argentina en la gran final del Campeonato...",
-    "date": "2026-10-11T12:30:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-peru-enfrenta-hoy-a-argentina-por-titulo-del-campeonato-sudamericano-u19-1095475.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-domingo-11-octubre-2026-1095478.aspx",
-    "title": "Estas son las normas legales más importantes del domingo 11 de octubre de 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-10-11T12:22:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-domingo-11-octubre-2026-1095478.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/granada-siglo-xix-habia-hombre-que-se-llamar-rey-gitanos-turistas-pagaban-hacerse-fotos",
-    "title": "En la Granada del siglo XIX había un hombre que se hacía llamar \"rey de los gitanos\". Los turistas pagaban por hacerse fotos con él",
-    "snippet": "Quien subía a la Alhambra en la segunda mitad del siglo XIX, con los ‘Cuentos de la Alhambra’ de Washington Irving en la maleta, tenía muchas posibilidades de toparse con un personaje que parecía haberse fugado de un gra...",
-    "date": "2026-10-11T12:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/granada-siglo-xix-habia-hombre-que-se-llamar-rey-gitanos-turistas-pagaban-hacerse-fotos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/audio/nostalgia-2010-esta-haciendo-que-influencers-saquen-cajon-algo-que-creiamos-olvidado-auriculares-cable",
-    "title": "La nostalgia está haciendo que los influencers conviertan en moda de lujo algo que creíamos olvidado: los auriculares con cable",
-    "snippet": "Todos tenemos un cajón en casa en el que se van amontonando aquellos dispositivos que, poco a poco, caen bajo el inexorable peso de la obsolescencia programada. Viejos móviles de Nokia, alguna que otra cinta de casete, r...",
-    "date": "2026-10-11T11:30:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/audio/nostalgia-2010-esta-haciendo-que-influencers-saquen-cajon-algo-que-creiamos-olvidado-auriculares-cable",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/debacle-demografica-ha-obligado-a-japon-a-buscar-salida-a-bomba-relojeria-vertederos-llenos-panales-para-ancianos",
-    "title": "Japón tiene tantos ancianos que el reciclaje de pañales usados se ha convertido en un problema medioambiental",
-    "snippet": "Quizás no sea lo primero que te viene a la cabeza al pensar en negocios boyantes e ingresos milmillonarios, pero la industria del pañal está en racha. Y mueve fortunas. Si los cálculos de Fortune Business Insights dan en...",
-    "date": "2026-10-11T11:00:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/debacle-demografica-ha-obligado-a-japon-a-buscar-salida-a-bomba-relojeria-vertederos-llenos-panales-para-ancianos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/recarga-gran-freno-transporte-electrico-asi-que-honda-propone-carretera-que-sea-cargador-inalambrico",
-    "title": "La recarga es el gran freno del transporte eléctrico, así que Honda propone una carretera que sea un cargador inalámbrico",
-    "snippet": "El mundo se ha lanzado a los brazos de la electrificación del transporte como una de las formas de combatir las emisiones de carbono, pero es evidente que el gran obstáculo es el de las paradas para recargar. En barcos s...",
-    "date": "2026-10-11T10:00:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/recarga-gran-freno-transporte-electrico-asi-que-honda-propone-carretera-que-sea-cargador-inalambrico",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/4993488",
-    "title": "The Beautiful Blue Is My Favorite Thing About Vivo’s Foldable X Fold 6",
-    "snippet": "It’s a solid example of an Android foldable, but I worry that Apple has changed the game....",
-    "date": "2026-10-11T10:00:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/vivo-x-fold-6-blue-color-design-review/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
-    "title": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
-    "snippet": "En enero escribimos que la IA más útil sería la que más nos vigilara, la que más supiese de nosotros. Nueve meses después, el asistente ya no solo ve lo que hacemos, también actúa por nosotros.\n\nEl último en sumarse ha s...",
-    "date": "2026-10-11T09:00:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-tecnologia-entretenimiento-hoy-domingo-11-octubre",
-    "title": "Las mejores ofertas de MediaMarkt en tecnología y entretenimiento, hoy domingo 11 de octubre",
-    "snippet": "Finalizamos una semana cargada de ofertas en la que hemos tenido una gran campaña como es la de la Fiesta de Ofertas Prime de Amazon. Las demás tiendas no se han quedado atrás y, tras la campaña, siguen teniendo descuent...",
-    "date": "2026-10-11T08:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-tecnologia-entretenimiento-hoy-domingo-11-octubre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/que-pais-facil-hacerse-millonario-grafico-donde-espana-da-campanada",
-    "title": "En qué país es más fácil hacerse millonario, en un gráfico donde España da la campanada",
-    "snippet": "Puede que tu bolsillo no lo haya notado, pero la riqueza personal mundial creció un 10,8% en 2025, según un estudio del banco suizo UBS. De hecho, es el mayor incremento desde 2017 y ayuda a explicar que haya una hornada...",
-    "date": "2026-10-11T08:00:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/que-pais-facil-hacerse-millonario-grafico-donde-espana-da-campanada",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
-    "title": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
-    "snippet": "\"Confiar en los modelos lo menos posible\". Satya Nadella ha hablado en Twitter y ha apostado por atar a la inteligencia artificial en corto: separar el suministro de inteligencia de la autoridad sobre ella. O lo que es l...",
-    "date": "2026-10-11T07:30:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/verdadero-problema-pantallas-movil-no-que-nos-deje-ciegos-que-esta-alterando-radicalmente-nuestro-sueno",
-    "title": "El verdadero problema de las pantallas del móvil no es que nos deje ciegos, es que está alterando radicalmente nuestro sueño",
-    "snippet": "Son muchas las personas que, antes de ir a dormir, se meten en la cama y comienzan a hacer un poco de scroll con el móvil para ver las últimas tendencias de redes. Lo vendemos como una forma de \"desconectar\" antes de dor...",
-    "date": "2026-10-11T06:00:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/verdadero-problema-pantallas-movil-no-que-nos-deje-ciegos-que-esta-alterando-radicalmente-nuestro-sueno",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-peru-derrota-a-brasil-y-clasifica-a-mundial-y-final-sudamericana-voley-sub-19-1095474.aspx",
-    "title": "Perú derrota a Brasil y clasifica a mundial y final Sudamericana de Vóley Sub 19",
-    "snippet": "En un vibrante encuentro la selección nacional de vóley Sub 19 derrotó a su similar de Brasil por 3-2 y logró su clasificación al mundial de dicha categoría de vóley, así como a la final del Campeonato Sudamericano Femen...",
-    "date": "2026-10-11T04:34:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-peru-derrota-a-brasil-y-clasifica-a-mundial-y-final-sudamericana-voley-sub-19-1095474.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-doce-muertos-y-309-heridos-ataque-contra-aeropuerto-riad-segun-arabia-saudita-1095468.aspx",
-    "title": "Doce muertos y 309 heridos en ataque contra el aeropuerto de Riad, según Arabia Saudita",
-    "snippet": "Las autoridades saudíes anunciaron que 12 personas murieron, entre ellas 4 saudíes y un estadounidense, y otras 309 resultaron heridas, algunas de ellas graves, en el ataque con misiles de este sábado contra las instalac...",
-    "date": "2026-10-11T02:29:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-doce-muertos-y-309-heridos-ataque-contra-aeropuerto-riad-segun-arabia-saudita-1095468.aspx",
-    "category": "LOGÍSTICA"
   }
 ]
