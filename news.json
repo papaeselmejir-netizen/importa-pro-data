@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-linea-2-del-metro-mtc-impulsa-operacion-tramo-6-sectores-incluye-1096108.aspx",
+    "title": "Línea 2 del Metro: MTC impulsa operación de tramo 6 ¿Qué sectores incluye?",
+    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC) continúa impulsando acciones para ampliar el servicio de la Línea 2 del Metro de Lima y Callao en beneficio de la ciudadanía. En ese marco, el ministro José Tangherlini...",
+    "date": "2026-10-15T23:21:40",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-linea-2-del-metro-mtc-impulsa-operacion-tramo-6-sectores-incluye-1096108.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1012541",
+    "title": "Steam can now show game achievements in separate ‘sets’",
+    "snippet": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock...",
+    "date": "2026-10-15T23:18:28",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460920",
+    "title": "Venezuela: Bolipuertos y Venexporta fortalecen exportación de productos a mercados internacionales",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de Bolivariana de Puertos (Bolipuertos), Germán Gómez Larez, sostuvo un encuentro de trabajo con\nLa entrada Venezuela: Bolipuertos y Venexporta fortalecen expo...",
+    "date": "2026-10-15T23:00:52",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/venezuela-bolipuertos-y-venexporta-fortalecen-exportacion-de-productos-a-mercados-internacionales/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-hasta-utlimo-suspiro-juventus-remonto-casa-del-celta-y-se-llevo-un-triunfo-agonico-1096109.aspx",
+    "title": "Hasta el útlimo suspiro: Juventus remontó en casa del Celta y se llevó un triunfo agónico",
+    "snippet": "La Juventus vino desde atrás y remontó para imponerse por 2-1 en casa del Celta de Vigo, consiguiendo un triunfo en la agonía del partido que le permite situarse en lo más alto de la Europa League....",
+    "date": "2026-10-15T22:57:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-hasta-utlimo-suspiro-juventus-remonto-casa-del-celta-y-se-llevo-un-triunfo-agonico-1096109.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1012512",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a...",
+    "date": "2026-10-15T22:35:55",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://rpp.pe/1712843",
+    "title": "Línea 2 del Metro: MTC busca adelantar la puesta en servicio de tres nuevas estaciones, ¿cuáles son?",
+    "snippet": "El Ministerio de Transportes y Comunicaciones se reunió con la concesionaria de la Línea 2 para acelerar la ampliación del servicio. La medida corresponde al tramo 6 del proyecto, que extiende la cobertura del tren en Li...",
+    "date": "2026-10-15T22:09:14",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/linea-2-metro-de-lima-mtc-busca-adelantar-servicio-de-tres-nuevas-estaciones-cuales-son-noticia-1712843",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=460980",
+    "title": "Construcción de puente de la Bioceánica entre Paraguay y Brasil continúa con trabajos en ajustes estructurales",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La construcción del puente de la Bioceánica, que unirá Carmelo Peralta (Paraguay) con Puerto Murtinho (Brasil),\nLa entrada Construcción de puente de la Bioceánica entre Para...",
+    "date": "2026-10-15T22:00:48",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/construccion-de-puente-de-la-bioceanica-entre-paraguay-y-brasil-continua-con-trabajos-en-ajustes-estructurales/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://portalportuario.cl/?p=461021",
     "title": "Puerto Coronel acredita consumo de 1.840 MHh para operaciones desde fuentes renovables",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto Coronel dio a conocer que acreditó un consumo de 1.840 MWh de electricidad proveniente de\nLa entrada Puerto Coronel acredita consumo de 1.840 MHh para operaciones des...",
@@ -7,6 +70,15 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/puerto-coronel-acredita-consumo-de-1-840-mhh-para-operaciones-desde-fuentes-renovables/",
     "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/5018214",
+    "title": "New Amazon Bee Personal AI Devices Will Listen and Record You",
+    "snippet": "The Bee Frontier and Bee Eclipse use artificial intelligence to process conversations into summaries, to-do lists and more. Just make sure you ask people for permission to record first....",
+    "date": "2026-10-15T21:52:43",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording-2/",
+    "category": "MERCADO"
   },
   {
     "id": "https://andina.pe/agencia/noticia-mef-crecimiento-de-economia-peruana-refleja-fortalecimiento-su-demanda-interna-1096099.aspx",
@@ -1275,78 +1347,6 @@
     "date": "2026-10-14T20:06:53",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-nintendo-juega-con-nostalgia-su-remake-zelda-ocarina-of-time-1095936.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1011487",
-    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-    "snippet": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing ...",
-    "date": "2026-10-14T20:03:43",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460752",
-    "title": "Fiscalía acusa a siete personas por corrupción, administración desleal y delitos tributarios en caso Puerto Coronel",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Fiscalía del Bio Bio acusó a siete personas por corrupción, administración desleal y delitos tributarios\nLa entrada Fiscalía acusa a siete personas por corrupción, admini...",
-    "date": "2026-10-14T19:30:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/fiscalia-acusa-a-siete-personas-por-corrupcion-administracion-desleal-y-delitos-tributarios-en-caso-puerto-coronel/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seguridad/alguien-ha-robado-100-millones-dolares-criptomonedas-utilizando-puertas-traseras-plantadas-antemano-monederos-fisicos",
-    "title": "Alguien ha robado 100 millones de dólares en criptomonedas utilizando puertas traseras plantadas de antemano en monederos físicos",
-    "snippet": "Cuando hablamos de proteger nuestras criptomonedas, solemos pensar en contraseñas, estafas por Internet o ataques informáticos. Sin embargo, existe otra dimensión de la seguridad que puede pasar más inadvertida: la integ...",
-    "date": "2026-10-14T19:30:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seguridad/alguien-ha-robado-100-millones-dolares-criptomonedas-utilizando-puertas-traseras-plantadas-antemano-monederos-fisicos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/puerto-palmas-se-transformara-ambiciosa-obra-descomunal-cantidad-roca-escondida-mar",
-    "title": "El puerto de Las Palmas se transformará con una ambiciosa obra: una descomunal cantidad de roca escondida bajo el mar",
-    "snippet": "A simple vista, construir un muelle puede parecer una tarea relativamente sencilla: levantar una estructura junto al mar, preparar una superficie resistente y dejar espacio para que los barcos atraquen. Sin embargo, hay ...",
-    "date": "2026-10-14T18:30:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/puerto-palmas-se-transformara-ambiciosa-obra-descomunal-cantidad-roca-escondida-mar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460651",
-    "title": "Uruguay: Titulares de Turismo y ANP visitan avances en obras de Puerto de Colonia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El ministro de Turismo de Uruguay, Pablo Menoni, y el presidente de la Administración Nacional de\nLa entrada Uruguay: Titulares de Turismo y ANP visitan avances en obras de ...",
-    "date": "2026-10-14T18:30:14",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/uruguay-titulares-de-turismo-y-anp-visitan-avances-en-obras-de-puerto-de-colonia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1010749",
-    "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
-    "snippet": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twent...",
-    "date": "2026-10-14T18:20:55",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mejores-escritorios-elevables",
-    "title": "Mejores escritorios elevables. Cuál comprar y 7 modelos recomendados",
-    "snippet": "Si trabajas en casa, sabrás que pasar muchas horas delante de tu ordenador puede acabar provocando dolores de espalda. Tener una buena silla ergonómica es importante. Pero si quieres tener totalmente adaptado tu despacho...",
-    "date": "2026-10-14T18:16:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mejores-escritorios-elevables",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ii-congreso-de-industria-musical-el-peru-se-vivira-lima-1095910.aspx",
-    "title": "II Congreso de la Industria Musical en el Perú se vivirá en Lima",
-    "snippet": "Con el objetivo de ofrecer herramientas prácticas frente a un entorno tecnológico que se transforma rápidamente, la Sociedad Nacional de Intérpretes y Ejecutantes de la Música (SONIEM), en coorganización con el Ministeri...",
-    "date": "2026-10-14T18:04:13",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ii-congreso-de-industria-musical-el-peru-se-vivira-lima-1095910.aspx",
     "category": "MERCADO"
   }
 ]
