@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.xataka.com/magnet/noruega-arqueologos-han-recuperado-48-objetos-hace-6-000-anos-pesima-noticia-para-planeta",
+    "title": "En Noruega, los arqueólogos han recuperado 48 objetos de hace 6.000 años.  Es una pésima noticia para el planeta",
+    "snippet": "Para un arqueólogo, encontrar piezas intactas con más de 6.000 años de antigüedad debería ser motivo de celebración, pero no siempre es así. Los investigadores de Secrets of the Ice llevan dos décadas peinando las cumbre...",
+    "date": "2026-10-17T06:00:04",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/noruega-arqueologos-han-recuperado-48-objetos-hace-6-000-anos-pesima-noticia-para-planeta",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/botijos-granadinos-nieve-masticada-imprenta-brooklyn-larga-historia-como-llegamos-al-aire-acondicionado",
+    "title": "Botijos granadinos, nieve masticada, una imprenta en Brooklyn: la larga historia de cómo llegamos al aire acondicionado",
+    "snippet": "El verano es, informativamente hablando, una mala fecha. Muy mala. Como respuesta al calor, el hemisferio norte se sume en una larga somnolencia que, por otro lado, nos da una excusa perfecta para escapar de lo urgente y...",
+    "date": "2026-10-17T05:00:13",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/botijos-granadinos-nieve-masticada-imprenta-brooklyn-larga-historia-como-llegamos-al-aire-acondicionado",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-susalud-es-reconocida-a-nivel-nacional-innovar-la-prevencion-riesgos-1096270.aspx",
+    "title": "SUSALUD es reconocida a nivel nacional por innovar en la prevención de riesgos",
+    "snippet": "La Superintendencia Nacional de Salud (SUSALUD), a través de la Intendencia de Supervisión de IPRESS (ISIPRESS), obtuvo el reconocimiento de Práctica Destacada en el 2.° Concurso Nacional de Buenas Prácticas en Calidad d...",
+    "date": "2026-10-17T03:36:09",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-susalud-es-reconocida-a-nivel-nacional-innovar-la-prevencion-riesgos-1096270.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-diputado-carlos-yalta-y-gobernador-electo-del-callao-acuerdan-agenda-trabajo-conjunta-1096282.aspx",
+    "title": "Diputado Carlos Yalta y Gobernador electo del Callao acuerdan agenda de trabajo conjunta",
+    "snippet": "El diputado Carlos Yalta Sotelo y el gobernador regional electo del Callao, Pedro Spadaro, acordaron establecer una agenda de trabajo conjunta para impulsar proyectos y gestionar soluciones a los principales problemas de...",
+    "date": "2026-10-17T02:20:33",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-diputado-carlos-yalta-y-gobernador-electo-del-callao-acuerdan-agenda-trabajo-conjunta-1096282.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+    "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+    "snippet": "I drive upside down on the boulevard of broken dreams....",
+    "date": "2026-10-17T01:50:50",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=461182",
     "title": "España: Puerto de Alicante logra aumento de 22,8% en movimiento de carga entre enero y agosto",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Alicante anotó un aumento de 22,8% en el movimiento de carga registrado entre\nLa entrada España: Puerto de Alicante logra aumento de 22,8% en movimiento de carg...",
@@ -1303,50 +1348,5 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460920",
-    "title": "Venezuela: Bolipuertos y Venexporta fortalecen exportación de productos a mercados internacionales",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de Bolivariana de Puertos (Bolipuertos), Germán Gómez Larez, sostuvo un encuentro de trabajo con\nLa entrada Venezuela: Bolipuertos y Venexporta fortalecen expo...",
-    "date": "2026-10-15T23:00:52",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/venezuela-bolipuertos-y-venexporta-fortalecen-exportacion-de-productos-a-mercados-internacionales/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-hasta-utlimo-suspiro-juventus-remonto-casa-del-celta-y-se-llevo-un-triunfo-agonico-1096109.aspx",
-    "title": "Hasta el útlimo suspiro: Juventus remontó en casa del Celta y se llevó un triunfo agónico",
-    "snippet": "La Juventus vino desde atrás y remontó para imponerse por 2-1 en casa del Celta de Vigo, consiguiendo un triunfo en la agonía del partido que le permite situarse en lo más alto de la Europa League....",
-    "date": "2026-10-15T22:57:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-hasta-utlimo-suspiro-juventus-remonto-casa-del-celta-y-se-llevo-un-triunfo-agonico-1096109.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1012512",
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a...",
-    "date": "2026-10-15T22:35:55",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1712843",
-    "title": "Línea 2 del Metro: MTC busca adelantar la puesta en servicio de tres nuevas estaciones, ¿cuáles son?",
-    "snippet": "El Ministerio de Transportes y Comunicaciones se reunió con la concesionaria de la Línea 2 para acelerar la ampliación del servicio. La medida corresponde al tramo 6 del proyecto, que extiende la cobertura del tren en Li...",
-    "date": "2026-10-15T22:09:14",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/linea-2-metro-de-lima-mtc-busca-adelantar-servicio-de-tres-nuevas-estaciones-cuales-son-noticia-1712843",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=460980",
-    "title": "Construcción de puente de la Bioceánica entre Paraguay y Brasil continúa con trabajos en ajustes estructurales",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La construcción del puente de la Bioceánica, que unirá Carmelo Peralta (Paraguay) con Puerto Murtinho (Brasil),\nLa entrada Construcción de puente de la Bioceánica entre Para...",
-    "date": "2026-10-15T22:00:48",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/construccion-de-puente-de-la-bioceanica-entre-paraguay-y-brasil-continua-con-trabajos-en-ajustes-estructurales/",
-    "category": "LOGÍSTICA"
   }
 ]
