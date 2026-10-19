@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo#0",
+    "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+    "snippet": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook....",
+    "date": "2026-10-19T05:17:35",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/vigo-empresa-ha-encontrado-mejor-forma-favorecer-proteger-cultivos-forestales-usando-murcielagos",
+    "title": "En Vigo, una empresa ha encontrado la mejor forma de favorecer y proteger cultivos forestales: usando murciélagos",
+    "snippet": "Ni son Batman ni son vampiros, pero tampoco tienen buena prensa. Los murciélagos cargan con la fama de transmitir enfermedades y de ser ese tipo de vecino al que mejor no molestar. Sin embargo, en el monte gallego pueden...",
+    "date": "2026-10-19T05:01:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/vigo-empresa-ha-encontrado-mejor-forma-favorecer-proteger-cultivos-forestales-usando-murcielagos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/transporte/europa-quiere-volver-a-convertir-tren-su-espina-dorsal-esta-construyendo-tunel-ferroviario-largo-mundo",
+    "title": "Europa quiere volver a convertir el tren en su espina dorsal y está construyendo el túnel ferroviario más largo del mundo",
+    "snippet": "China es el nombre que nos viene a la cabeza al hablar de megaconstrucciones. El país ha afrontado algunas de las obras más complejas de estos últimos años y tiene proyectos faraónicos como el de la nueva presa más grand...",
+    "date": "2026-10-19T05:01:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/transporte/europa-quiere-volver-a-convertir-tren-su-espina-dorsal-esta-construyendo-tunel-ferroviario-largo-mundo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-normas-legales-autorizan-transferencia-s-101-millones-a-reserva-contingencia-1096458.aspx",
+    "title": "Normas Legales: autorizan transferencia de S/ 101 millones a Reserva de Contingencia",
+    "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia de 101 millones 153,532 de soles a favor de la Reserva de Contingencia, con cargo a los recursos del presupuesto institucional del Ministerio de Desar...",
+    "date": "2026-10-19T01:01:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-normas-legales-autorizan-transferencia-s-101-millones-a-reserva-contingencia-1096458.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
     "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
     "snippet": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you....",
@@ -1311,42 +1347,6 @@
     "date": "2026-10-16T22:30:02",
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/msc-se-prepara-para-una-nueva-temporada-de-exportacion-de-citricos-desde-espana-hacia-canada/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=461241",
-    "title": "Ministro Poduje cuestiona burocracia ambiental al afirmar que cuerpos de agua similares a “urinarios” frenaron al Puerto de San Antonio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El ministro de Vivienda y Urbanismo, Iván Poduje, cuestionó la burocracia ambiental en Chile y apuntó\nLa entrada Ministro Poduje cuestiona burocracia ambiental al afirmar qu...",
-    "date": "2026-10-16T22:24:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ministro-poduje-cuestiona-burocracia-ambiental-al-afirmar-que-cuerpos-de-agua-similares-a-urinarios-frenaron-al-puerto-de-san-antonio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidente-diputados-recibe-informe-sobre-ayuda-a-damnificados-y-obras-junin-1096212.aspx",
-    "title": "Presidente de Diputados recibe informe sobre ayuda a damnificados y obras en Junín",
-    "snippet": "El presidente de la Cámara de Diputados, Oscar Reto Otero, escuchó a funcionarios del Gobierno Regional de Junín durante una audiencia pública realizada en Huancayo, donde se expusieron los avances, las deficiencias y la...",
-    "date": "2026-10-16T22:13:19",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidente-diputados-recibe-informe-sobre-ayuda-a-damnificados-y-obras-junin-1096212.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=461134",
-    "title": "Corea del Sur: DP World despliega 55 electro-tractores en su terminal de Busan",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World desplegó 55 tractores de patio eléctricos (E-YT) en su terminal de Busan, en Corea\nLa entrada Corea del Sur: DP World despliega 55 electro-tractores en su terminal ...",
-    "date": "2026-10-16T22:00:45",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/corea-del-sur-dp-world-despliega-55-electro-tractores-en-su-terminal-de-busan/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-pnp-intensifica-ofensiva-nacional-contra-extorsion-narcotrafico-y-redes-criminales-1096248.aspx",
-    "title": "PNP intensifica ofensiva nacional contra la extorsión, narcotráfico y redes criminales",
-    "snippet": "En estricta línea con la política del Ministerio del Interior (Mininter) para anticiparse al crimen, debilitar su capacidad logística y recuperar el control territorial, la Policía Nacional del Perú (PNP) intensificó sus...",
-    "date": "2026-10-16T22:00:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-pnp-intensifica-ofensiva-nacional-contra-extorsion-narcotrafico-y-redes-criminales-1096248.aspx",
     "category": "LOGÍSTICA"
   }
 ]
