@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://www.theverge.com/?p=1014999",
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "snippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps,...",
+    "date": "2026-10-20T22:11:34",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=102395",
+    "title": "Aquafondo reconoce a 24 empresas con el Sello Empresa Hídricamente Responsable 2026",
+    "snippet": "El Fondo de Agua para Lima y Callao (Aquafondo), con el respaldo de Global Water Partnership Sudamérica (GWP Sudamérica), entregó el jueves 15 de octubre el Sello Empresa Hídricamente Responsable (EHR) 2026 a 24 empresas...",
+    "date": "2026-10-20T21:54:45",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/aquafondo-reconoce-a-24-empresas-con-el-sello-empresa-hidricamente-responsable-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/",
+    "title": "The latest PlayStation firmware may have already been cracked ahead of GTA 6",
+    "snippet": "Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit....",
+    "date": "2026-10-20T21:30:57",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461799",
+    "title": "Perú: Proyectan que movimiento de contenedores en Puerto de Chancay crezca 82,5% en 2026",
+    "snippet": "Por Redacción PortalPortuario / Agencia Andina @PortalPortuario El presidente de la Comisión de Asuntos Marítimos, Portuarios y Aduaneros de la\nLa entrada Perú: Proyectan que movimiento de contenedores en Puerto de Chanc...",
+    "date": "2026-10-20T21:30:27",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-proyectan-que-movimiento-de-contenedores-en-puerto-de-chancay-crezca-825-en-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461801",
+    "title": "Brasil: Construcción de Muelle 98 en Puerto de Itaqui avanza en fase final",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La construcción del Muelle 98 del Puerto de Itaqui está avanzando en la fase final de\nLa entrada Brasil: Construcción de Muelle 98 en Puerto de Itaqui avanza en fase final s...",
+    "date": "2026-10-20T21:19:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-construccion-de-muelle-98-en-puerto-de-itaqui-avanza-en-fase-final/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=102391",
+    "title": "Halloween en Perú: Epson comparte cuatro ideas para decorar en casa",
+    "snippet": "Halloween ha ganado popularidad en el Perú y se ha consolidado especialmente entre las generaciones más jóvenes. Según un reciente estudio de Kantar IBOPE Media, el 36 % de los peruanos disfruta celebrar esta fecha. La c...",
+    "date": "2026-10-20T21:19:28",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/halloween-en-peru-epson-comparte-cuatro-ideas-para-decorar-en-casa-ccl-asociados/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461773",
+    "title": "Puerto de Valparaíso se proyecta como punto clave para flujo de carga minera argentina",
+    "snippet": "Por Luis Alonso @PortalPortuario La Empresa Portuaria Valparaíso (EPV) monitorea el avance de los proyectos mineros en Argentina, proyectando al\nLa entrada Puerto de Valparaíso se proyecta como punto clave para flujo de ...",
+    "date": "2026-10-20T21:00:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-valparaiso-se-proyecta-como-punto-clave-para-flujo-de-carga-minera-argentina/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-alertas-sismos-google-ya-estan-disponibles-mas-200-paises-como-funciona-1096687.aspx",
+    "title": "Alertas de sismos de Google ya están disponibles en más de 200 países ¿Cómo funciona?",
+    "snippet": "El sistema de alertas de sismo de google para Android envía alertas de sismo a los usuarios segundos antes de que se perciba el movimiento más fuerte. Esto funciona gracias a sensores o acelerómetros que ya vienen incorp...",
+    "date": "2026-10-20T20:50:01",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-alertas-sismos-google-ya-estan-disponibles-mas-200-paises-como-funciona-1096687.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461740",
+    "title": "Super Porto Verde inicia operação com primeiro embarque",
+    "snippet": "Por Redação PortalPortuario @PortalPortuario O Super Porto Verde, recinto portuário da Super Terminais em Itacoatiara, Amazonas, iniciou sua operação ao\nLa entrada Super Porto Verde inicia operação com primeiro embarque ...",
+    "date": "2026-10-20T20:31:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/super-porto-verde-inicia-operacao-com-primeiro-embarque/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461739",
+    "title": "Brasil: Super Porto Verde inicia operación de muelle flotante con primer embarque",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Super Porto Verde, recinto portuario de Super Terminais en Itacoatiara, Amazonas, inició su operación al llevar\nLa entrada Brasil: Super Porto Verde inicia operación de muel...",
+    "date": "2026-10-20T20:30:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-super-porto-verde-inicia-operacion-de-muelle-flotante-con-primer-embarque/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
+    "title": "Google brings Gemini Personal Intelligence to Android Auto",
+    "snippet": "In the coming months, the feature will also roll out to cars with Google built-in....",
+    "date": "2026-10-20T20:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3179802",
+    "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+    "snippet": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy....",
+    "date": "2026-10-20T19:32:43",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461772",
+    "title": "CNDC acusa desinterés de autoridades tras nueva postergación de doble vía en Ruta 5 entre Caldera y Antofagasta",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Confederación Nacional de Dueños de Camiones de Chile (CNDC) acusó una falta de interés por\nLa entrada CNDC acusa desinterés de autoridades tras nueva postergación de dob...",
+    "date": "2026-10-20T19:32:37",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cndc-acusa-desinteres-de-autoridades-tras-nueva-postergacion-de-doble-via-en-ruta-5-entre-caldera-y-antofagasta/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad",
+    "title": "Menos de 100 caracteres, 1.200 webs atacadas y más de 100 comprometidas: así está cambiando la IA la ciberseguridad",
+    "snippet": "Durante años hemos asumido que la ciberseguridad era una carrera de fondo: alguien encontraba una vulnerabilidad, otro intentaba cerrarla y, entre medias, hacían falta tiempo, conocimientos y bastante trabajo humano para...",
+    "date": "2026-10-20T19:31:40",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461760",
+    "title": "EE. UU.: Puerto de Corpus Christi logra récords en tonelajes de carga",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Corpus Christi logró cifras récord en manejo de carga, luego de movilizar 52,4\nLa entrada EE. UU.: Puerto de Corpus Christi logra récords en tonelajes de carga ...",
+    "date": "2026-10-20T19:30:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ee-uu-puerto-de-corpus-christi-logra-records-en-tonelajes-de-carga/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1014456",
+    "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
+    "snippet": "If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo...",
+    "date": "2026-10-20T19:09:35",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/a-conductor-byd-china-le-han-puesto-cepo-solucion-conducir-rueda-aire",
+    "title": "A un conductor de BYD en China le pusieron un cepo y su solución fue conducir con la rueda en el aire",
+    "snippet": "Un BYD FCB Bao 8 ha sido protagonista estos días en las redes sociales chinas por haber sido visto circulando por la calle con una rueda levantada del suelo. En el vídeo que te dejamos adjunto se ve al coche con un cepo ...",
+    "date": "2026-10-20T19:01:38",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/a-conductor-byd-china-le-han-puesto-cepo-solucion-conducir-rueda-aire",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=461730",
+    "title": "Brasil: JBS Terminais moderniza su sistema de inspección no intrusiva de contenedores",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario JBS Terminais dio a conocer que modernizó su sistema de inspección no intrusiva de contenedores, tras\nLa entrada Brasil: JBS Terminais moderniza su sistema de inspección no ...",
+    "date": "2026-10-20T19:00:17",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-jbs-terminais-moderniza-su-sistema-de-inspeccion-no-intrusiva-de-contenedores/",
+    "category": "LOGÍSTICA"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-fenomeno-nino-emiten-alerta-epidemiologica-riesgo-incremento-enfermedades-1096661.aspx",
     "title": "Fenómeno El Niño: emiten alerta epidemiológica por riesgo de incremento de enfermedades",
     "snippet": "El Ministerio de Salud (Minsa) informó hoy que emitió una alerta epidemiológica ante los riesgos sanitarios asociados al fenómeno El Niño 2026-2027, que podría provocar lluvias intensas, inundaciones y dificultades en el...",
@@ -1185,168 +1347,6 @@
     "date": "2026-10-19T18:56:12",
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-sunat-otorga-facilidades-tributarias-automaticas-a-contribuyentes-zonas-emergencia-1096528.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3179171",
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent....",
-    "date": "2026-10-19T18:37:27",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=461495",
-    "title": "Uruguay: Saturación de vehículos descargados en Puerto de Montevideo obliga a ocupar antiguo recinto ferroviario",
-    "snippet": "El Puerto de Montevideo está enfrentando una saturación en la cantidad de vehículos que se han descargado en el recinto\nLa entrada Uruguay: Saturación de vehículos descargados en Puerto de Montevideo obliga a ocupar anti...",
-    "date": "2026-10-19T18:30:00",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/uruguay-saturacion-de-vehiculos-descargados-en-puerto-de-montevideo-obliga-a-ocupar-antiguo-recinto-ferroviario/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo#0",
-    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-    "snippet": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China....",
-    "date": "2026-10-19T18:21:54",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo#0",
-    "title": "US bans China's DeepSeek from government in race for AI dominance",
-    "snippet": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up....",
-    "date": "2026-10-19T18:21:54",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-premio-nobel-j-m-coetzee-llevara-poesia-mariano-melgar-al-mundo-desde-arequipa-1096516.aspx",
-    "title": "Premio Nobel J. M. Coetzee llevará la poesía de Mariano Melgar al mundo desde Arequipa",
-    "snippet": "La poesía de Mariano Melgar llegará a nuevos lectores internacionales de la mano de J. M. Coetzee, Premio Nobel de Literatura 2003. El escritor sudafricano participará en el Hay Festival Arequipa 2026 para presentar Mari...",
-    "date": "2026-10-19T18:05:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-premio-nobel-j-m-coetzee-llevara-poesia-mariano-melgar-al-mundo-desde-arequipa-1096516.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/alemania-tardo-45-anos-atreverse-a-rodar-pelicula-belica-como-esta-puedes-verla-prime-video",
-    "title": "Alemania tardó 45 años en atreverse a rodar una película bélica como ésta y ahora puedes verla en Prime Video",
-    "snippet": "'Stalingrado', la película de Joseph Vilsmaier de 1993 que retrata la cruenta batalla entre alemanes y rusos que marcó el destino de la Segunda Guerra Mundial, está ahora mismo en el catálogo de Prime Video y de Filmin. ...",
-    "date": "2026-10-19T18:01:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/alemania-tardo-45-anos-atreverse-a-rodar-pelicula-belica-como-esta-puedes-verla-prime-video",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=461532",
-    "title": "México: Movimiento de carga contenerizada en Puerto de Manzanillo aumenta 9,5% hasta septiembre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La carga de contenedores movilizada en el Puerto de Manzanillo aumentó 9,5% anual, entre enero y\nLa entrada México: Movimiento de carga contenerizada en Puerto de Manzanillo...",
-    "date": "2026-10-19T18:00:36",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/mexico-movimiento-de-carga-contenerizada-en-puerto-de-manzanillo-aumenta-95-hasta-septiembre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-inversion-infraestructura-transportes-crecio-18-a-setiembre-del-2026-1096511.aspx",
-    "title": "Inversión en infraestructura de transportes creció 18% a setiembre del 2026",
-    "snippet": "Las inversiones valorizadas en las infraestructuras de transporte supervisadas por el Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público (Ositrán) alcanzaron los 1,031.7 millones de dóla...",
-    "date": "2026-10-19T18:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-inversion-infraestructura-transportes-crecio-18-a-setiembre-del-2026-1096511.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/energia/luz-subio-septiembre-dos-tercios-aumento-tienen-explicacion-servicios-ajuste-red-electrica",
-    "title": "La luz subió en septiembre y dos tercios del aumento tienen una explicación: los servicios de ajuste de Red Eléctrica",
-    "snippet": "Hace unos días, varios medios de la prensa económica publicaban que gran parte de la subida de la tarifa regulada se debía a sobrecostes aplicados por el operador del sistema, Red Eléctrica (REE). Sin embargo, la empresa...",
-    "date": "2026-10-19T17:31:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/luz-subio-septiembre-dos-tercios-aumento-tienen-explicacion-servicios-ajuste-red-electrica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=461434",
-    "title": "EE.UU.: Puerto de San Diego y Autoridad Metropolitana de Subic Bay celebran acuerdo como terminales hermanas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de San Diego y la Autoridad Metropolitana de Subic Bay (SBMA), con sede en\nLa entrada EE.UU.: Puerto de San Diego y Autoridad Metropolitana de Subic Bay celebran a...",
-    "date": "2026-10-19T17:30:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-puerto-de-san-diego-y-autoridad-metropolitana-de-subic-bay-celebran-acuerdo-como-terminales-hermanas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/eventos/apple-anuncia-presentacion-para-28-octubre-todas-miradas-apuntan-a-nuevos-macbook-pro",
-    "title": "Apple anuncia una presentación para el 28 de octubre y todas las miradas apuntan a los nuevos MacBook Pro con pantalla táctil",
-    "snippet": "Apple ha convertido octubre en un mes especialmente intenso para su calendario de lanzamientos. Hace apenas unos días, la compañía centró su atención en el hogar conectado, con nuevos dispositivos que amplían su catálogo...",
-    "date": "2026-10-19T17:22:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/eventos/apple-anuncia-presentacion-para-28-octubre-todas-miradas-apuntan-a-nuevos-macbook-pro",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/telefonica-deutsche-telekom-orange-vodafone-quieren-unirse-para-crear-alternativa-a-starlink-europa",
-    "title": "Telefónica, Deutsche Telekom, Orange y Vodafone quieren unirse para crear una alternativa a Starlink en Europa",
-    "snippet": "Las teleoperadoras europeas han firmado una carta de intenciones para explorar qué sería necesario para desplegar servicios de satélite a móvil en toda Europa, según cuenta el Financial Times. El objetivo básicamente es ...",
-    "date": "2026-10-19T17:15:53",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/telefonica-deutsche-telekom-orange-vodafone-quieren-unirse-para-crear-alternativa-a-starlink-europa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-comas-minedu-recupera-terreno-colegio-era-usado-para-beber-y-consumir-drogas-1096498.aspx",
-    "title": "Comas: Minedu recupera terreno de colegio que era usado para beber y consumir drogas",
-    "snippet": "Con apoyo de la Policía Nacional del Perú (PNP), el Ministerio de Educación (Minedu) recuperó un terreno de 14 903,87 metros cuadrados, de propiedad de la institución educativa 2060 Virgen de Guadalupe, que permanecía oc...",
-    "date": "2026-10-19T17:02:35",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-comas-minedu-recupera-terreno-colegio-era-usado-para-beber-y-consumir-drogas-1096498.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/perro-robot-ia-patrulla-cultivos-extremadura-su-mision-ponerle-patas-a-agricultura-precision",
-    "title": "Un perro-robot guiado por IA ya está patrullando los viñedos de Extremadura",
-    "snippet": "Un pequeño amigo artificial de cuatro patas ha aterrizado en tierras extremeñas. Y es que el proyecto denominado como ‘AGRHOUND’ está probando perros robots para que puedan aprender a caminar entre viñedos y túneles de b...",
-    "date": "2026-10-19T17:01:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/perro-robot-ia-patrulla-cultivos-extremadura-su-mision-ponerle-patas-a-agricultura-precision",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=461513",
-    "title": "Navieras reportan incendio a bordo de portacontenedores en ruta desde Singapur a Santos",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Hapag-Lloyd y Ocean Network Express (ONE) reportaron un incidente que involucró un incendio a bordo del\nLa entrada Navieras reportan incendio a bordo de portacontenedores en...",
-    "date": "2026-10-19T17:00:00",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/navieras-reportan-incendio-a-bordo-de-portacontenedores-en-ruta-desde-singapur-a-santos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3179053",
-    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-    "snippet": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity....",
-    "date": "2026-10-19T16:55:56",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/iphone-duo-76-50-euros-al-mes-movistar-ofrece-forma-comoda-hacerse-version-2-tb-plegable-apple",
-    "title": "iPhone Duo desde 76,50 euros al mes: Movistar ofrece una forma más cómoda de hacerse con la versión de 2 TB del plegable de Apple",
-    "snippet": "El iPhone Duo ya ha aterrizado en España y lo ha hecho arrasando en casi todas las tiendas. Si eres de los que no ha podido hacerse con él y buscas uno, Movistar sigue teniendo disponible la versión de 2 TB del mismo. Ad...",
-    "date": "2026-10-19T16:45:54",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/iphone-duo-76-50-euros-al-mes-movistar-ofrece-forma-comoda-hacerse-version-2-tb-plegable-apple",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/nueva-frontera-ia-intentar-predecir-a-humanos",
-    "title": "La nueva frontera de la IA es intentar predecir a los humanos",
-    "snippet": "Los modelos de lenguaje no son la única forma de implementar una herramienta de inteligencia artificial (IA). Los transformers les han dado el impulso que necesitaban para desarrollarse y alcanzar el nivel de sofisticaci...",
-    "date": "2026-10-19T16:31:55",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/nueva-frontera-ia-intentar-predecir-a-humanos",
     "category": "TRIBUTARIO"
   }
 ]
