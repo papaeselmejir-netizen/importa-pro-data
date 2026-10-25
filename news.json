@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-cinco-recomendaciones-para-negocios-se-adapten-a-nueva-era-compras-internet-1097250.aspx",
+    "title": "Cinco recomendaciones para que negocios se adapten a nueva era de compras por internet",
+    "snippet": "Comprar por internet ya no significa necesariamente ingresar a una página web, buscar un producto y añadirlo al carrito. Hoy, la ruta entre descubrir un artículo y pagarlo es cada vez más corta gracias a los marketplaces...",
+    "date": "2026-10-24T23:30:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cinco-recomendaciones-para-negocios-se-adapten-a-nueva-era-compras-internet-1097250.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cuatro-formas-que-las-empresas-pueden-obtener-liquidez-sin-esperar-pago-facturas-1097246.aspx",
+    "title": "Cuatro formas en que las empresas pueden obtener liquidez sin esperar pago de facturas",
+    "snippet": "A pocas semanas del depósito de la Compensación por Tiempo de Servicios (CTS) de noviembre, las empresas deben revisar sus proyecciones financieras para anticipar sus necesidades de efectivo y cumplir con sus compromisos...",
+    "date": "2026-10-24T23:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cuatro-formas-que-las-empresas-pueden-obtener-liquidez-sin-esperar-pago-facturas-1097246.aspx",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-como-comprar-un-departamento-para-tu-familia-cuatro-factores-debes-considerar-1097244.aspx",
     "title": "¿Cómo comprar un departamento para tu familia? Cuatro factores que debes considerar",
     "snippet": "Las necesidades de vivienda evolucionan a medida que los hijos crecen y los integrantes de una familia desarrollan rutinas diferentes. En Lima Metropolitana y Callao, los departamentos de tres dormitorios concentraron el...",
@@ -1329,24 +1347,6 @@
     "date": "2026-10-23T12:00:00",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/mobile/iphone-duo-features-to-try/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
-    "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
-    "snippet": "NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics....",
-    "date": "2026-10-23T12:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1015430",
-    "title": "Retro gaming is being overrun with AI",
-    "snippet": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds...",
-    "date": "2026-10-23T12:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
     "category": "MERCADO"
   }
 ]
