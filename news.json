@@ -1,5 +1,140 @@
 [
   {
+    "id": "https://andina.pe/agencia/noticia-can-y-alemania-fortalecen-vigilancia-contra-hongo-amenaza-cultivos-banano-1097880.aspx",
+    "title": "CAN y Alemania fortalecen vigilancia contra hongo que amenaza cultivos de banano",
+    "snippet": "La Comunidad Andina (CAN) y la Cooperación Alemana para el Desarrollo renovaron su alianza para fortalecer la prevención, vigilancia y respuesta regional frente al Fusarium Raza 4 Tropical (Foc R4T), un hongo que amenaza...",
+    "date": "2026-10-30T08:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-can-y-alemania-fortalecen-vigilancia-contra-hongo-amenaza-cultivos-banano-1097880.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/servicios/movistar-bloquea-millon-llamadas-fraudulentas-al-dia-su-proximo-objetivo-sms",
+    "title": "Movistar ya bloquea más de un millón de llamadas fraudulentas al día. Su próximo objetivo son los SMS",
+    "snippet": "Si hay algo que nos pone de acuerdo a todos, es el rechazo a las llamadas spam, ya sean de tipo comercial para intentar venderte algo, o peor aún, las llamadas fraudulentas destinadas a que caigas en alguna clase de esta...",
+    "date": "2026-10-30T07:31:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/servicios/movistar-bloquea-millon-llamadas-fraudulentas-al-dia-su-proximo-objetivo-sms",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/pueblo-rioja-emerge-agua-porque-embalse-esta-dejando-al-descubierto-sus-antiguas-calles",
+    "title": "Un pueblo de La Rioja emerge del agua porque el embalse está dejando al descubierto sus antiguas calles",
+    "snippet": "Por el pantano de Mansilla (en La Rioja, entre Mansilla de la Sierra y Villavelayo) asoman ahora mismo muros, arcos de roca con musgo y el trazado de varias calles. Según recogía la agencia EFE el 25 de octubre, el antig...",
+    "date": "2026-10-30T07:01:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/pueblo-rioja-emerge-agua-porque-embalse-esta-dejando-al-descubierto-sus-antiguas-calles",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3183508",
+    "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+    "snippet": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker....",
+    "date": "2026-10-30T07:01:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/action-soluciona-solo-esta-semana-a-1-49-euros-problema-cotidiano-casa-su-lampara-led-automatica-sensor-movimiento",
+    "title": "Action soluciona por 1,49 euros (sólo esta semana) un problema cotidiano en casa con su lámpara LED automática con sensor de movimiento",
+    "snippet": "Como cada semana, Action renovó el pasado miércoles su folleto con nuevas rebajas aplicadas en muchos de sus productos, las cuales estarán disponibles hasta el próximo martes 3 de noviembre. Y entre las más interesantes ...",
+    "date": "2026-10-30T06:45:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/action-soluciona-solo-esta-semana-a-1-49-euros-problema-cotidiano-casa-su-lampara-led-automatica-sensor-movimiento",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463524",
+    "title": "Puerto de HaminaKotka informa despidos ante baja en volumen de operaciones",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de HaminaKotka, en Finlandia, anunció que ha observado una disminución de sus operaciones, un\nLa entrada Puerto de HaminaKotka informa despidos ante baja en volume...",
+    "date": "2026-10-30T06:00:11",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-haminakotka-informa-despidos-ante-baja-en-volumen-de-operaciones/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463404",
+    "title": "EE.UU.: Puertos de la Bahía de San Pedro estudian combustibles marinos más limpios",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de Long Beach y Los Angeles publicaron un informe exhaustivo que identifica combustibles marinos\nLa entrada EE.UU.: Puertos de la Bahía de San Pedro estudian com...",
+    "date": "2026-10-30T05:00:46",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ee-uu-puertos-de-la-bahia-de-san-pedro-estudian-combustibles-marinos-mas-limpios/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-loreto-mvcs-inaugura-obra-agua-potable-y-saneamiento-mas-s238-millones-1097876.aspx",
+    "title": "Loreto: MVCS inaugura obra de agua potable y saneamiento por más de S/23.8 millones",
+    "snippet": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, llegó a la comunidad nativa Shawi de Nueva Esperanza, en el distrito de Balsapuerto, provincia de Alto Amazonas, región Loreto, “para hacer realidad...",
+    "date": "2026-10-30T04:15:19",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-loreto-mvcs-inaugura-obra-agua-potable-y-saneamiento-mas-s238-millones-1097876.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-internos-del-penal-lurigancho-producen-mas-1200-articulos-alusivos-al-papa-leon-xiv-1097870.aspx",
+    "title": "Internos del penal de Lurigancho producen más de 1200 artículos alusivos al papa León XIV",
+    "snippet": "En el marco del fortalecimiento de los programas de resocialización que impulsa el sector Justicia, los internos del penal de Lurigancho han producido más de 1200 artículos alusivos a la llegada del papa León XIV a nuest...",
+    "date": "2026-10-30T03:37:21",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-internos-del-penal-lurigancho-producen-mas-1200-articulos-alusivos-al-papa-leon-xiv-1097870.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-proinversion-impulsa-app-10169-millones-el-sur-del-pais-1097868.aspx",
+    "title": "ProInversión impulsa APP por US$ 10,169 millones en el sur del país",
+    "snippet": "La Agencia de Promoción de la Inversión Privada (ProInversión) promueve una cartera de 22 proyectos de Asociaciones Público-Privadas (APP), dos Proyectos en Activos y una adenda por 10 169 millones de dólares, para forta...",
+    "date": "2026-10-30T03:07:15",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-proinversion-impulsa-app-10169-millones-el-sur-del-pais-1097868.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cancilleria-embajada-del-peru-suecia-impulsa-diplomacia-minera-visita-trabajo-1097849.aspx",
+    "title": "Cancillería: Embajada del Perú en Suecia impulsa diplomacia minera en visita de trabajo",
+    "snippet": "La Embajada del Perú en Suecia realizó, del 21 al 23 de octubre, un viaje de trabajo a la región de Norrbotten, en las ciudades de Luleå y Kiruna, principal polo minero de ese país y sede de LKAB, que produce alrededor d...",
+    "date": "2026-10-30T02:41:27",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cancilleria-embajada-del-peru-suecia-impulsa-diplomacia-minera-visita-trabajo-1097849.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463430",
+    "title": "Nueva Zelanda: Puerto de Tauranga moviliza 6,25 millones de toneladas a septiembre de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto de Tauranga informó que el volumen total de carga fue de 6,25 millones de toneladas\nLa entrada Nueva Zelanda: Puerto de Tauranga moviliza 6,25 millones de toneladas a...",
+    "date": "2026-10-30T02:30:57",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/nueva-zelanda-puerto-de-tauranga-moviliza-625-millones-de-toneladas-a-septiembre-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-nayib-bukele-espera-consolidar-relacion-con-peru-durante-visita-presidenta-fujimori-1097862.aspx",
+    "title": "Nayib Bukele espera consolidar relación con el Perú durante visita de presidenta Fujimori",
+    "snippet": "El presidente de El Salvador, Nayib Bukele, destacó que la visita de la mandataria peruana, Keiko Fujimori, permite que ambas naciones puedan compartir experiencias en temas relevantes, como la seguridad, y expresó su de...",
+    "date": "2026-10-30T02:03:02",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-nayib-bukele-espera-consolidar-relacion-con-peru-durante-visita-presidenta-fujimori-1097862.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463494",
+    "title": "Reino Unido: Cefetra firma acuerdo con Puerto de Immingham para extender espacio de almacenamiento",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Cefetra firmó un acuerdo de diez años con Associated British Ports (ABP) para extender su espacio\nLa entrada Reino Unido: Cefetra firma acuerdo con Puerto de Immingham para ...",
+    "date": "2026-10-30T02:00:21",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/reino-unido-cefetra-firma-acuerdo-con-puerto-de-immingham-para-extender-espacio-de-almacenamiento/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-proinversion-licitara-proyectos-transmision-electrica-casi-500-millones-1097860.aspx",
+    "title": "ProInversión licitará proyectos de transmisión eléctrica por casi US$ 500 millones",
+    "snippet": "ProInversión recibirá a fines de este año las ofertas por los grupos 2 y 3 de proyectos de transmisión eléctrica, cuya cartera comprende inversiones por casi 500 millones de dólares solo en el Grupo 2, en un contexto en ...",
+    "date": "2026-10-30T02:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-proinversion-licitara-proyectos-transmision-electrica-casi-500-millones-1097860.aspx",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=463641",
     "title": "Buque Danstar de Easter Island Logistics zarpa de Puerto de Valparaíso rumbo a Región de Magallanes",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El buque Danstar, ligado a la naviera chilena Easter Island Logistics, zarpó del Puerto de Valparaíso\nLa entrada Buque Danstar de Easter Island Logistics zarpa de Puerto de ...",
@@ -65,6 +200,15 @@
   {
     "id": "https://techcrunch.com/?p=3183387",
     "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday....",
+    "date": "2026-10-29T23:42:22",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3183387",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
     "snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday....",
     "date": "2026-10-29T23:42:22",
     "source": "TECHCRUNCH",
@@ -470,6 +614,15 @@
   {
     "id": "https://www.xataka.com/magnet/hay-juntas-presionando-a-vecinos-morosos-negandoles-llave-ascensor-ley-propiedad-horizontal-tiene-algo-que-decirles",
     "title": "Hay juntas presionando a vecinos morosos negándoles la llave del ascensor. La Ley de Propiedad Horizontal tiene algo que decirles",
+    "snippet": "Si formas parte del 65% de españoles que vivimos en pisos sabrás que la convivencia dentro de un mismo edificio no siempre resulta sencilla. Toca tomar decisiones conjuntas, limar diferencias y (en ocasiones) afrontar si...",
+    "date": "2026-10-29T16:44:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/hay-juntas-presionando-a-vecinos-morosos-negandoles-llave-ascensor-ley-propiedad-horizontal-tiene-algo-que-decirles",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/hay-juntas-presionando-a-vecinos-morosos-negandoles-llave-ascensor-ley-propiedad-horizontal-tiene-algo-que-decirles",
+    "title": "Negar las llaves del ascensor parece una forma eficaz de presionar a vecinos morosos. Hasta que lees la Ley de Propiedad Horizontal",
     "snippet": "Si formas parte del 65% de españoles que vivimos en pisos sabrás que la convivencia dentro de un mismo edificio no siempre resulta sencilla. Toca tomar decisiones conjuntas, limar diferencias y (en ocasiones) afrontar si...",
     "date": "2026-10-29T16:44:00",
     "source": "XATAKA",
@@ -1195,158 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-tacna-sunat-interviene-vila-vila-una-camioneta-cerca-medio-millon-dolares-1097708.aspx",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/eventos/apple-macbook-pro-tactil-opiniones-toma-contacto-fotos",
-    "title": "He probado el nuevo MacBook Pro táctil: no tenía claro para qué querría tocar su pantalla. He encontrado las primeras respuestas",
-    "snippet": "Hay un gesto que llevamos años haciendo en el iPhone y en el iPad que ahora llega al Mac: tocar aquello con lo que queremos interactuar. Parece una explicación demasiado sencilla para una de las mayores novedades del Mac...",
-    "date": "2026-10-28T21:43:57",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/eventos/apple-macbook-pro-tactil-opiniones-toma-contacto-fotos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463367",
-    "title": "Portonave recibe nuevo servicio de las navieras CMA CGM, Cosco y OOCL",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Portonave, el primer terminal portuario privado de contenedores de Brasil, amplió su red de conexiones marítimas.\nLa entrada Portonave recibe nuevo servicio de las navieras ...",
-    "date": "2026-10-28T21:33:34",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/portonave-recibe-nuevo-servicio-de-las-navieras-cma-cgm-cosco-y-oocl/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463266",
-    "title": "Colombia: Dian adopta medidas cautelares sobre mercancías en tres terminales portuarias de Buenaventura",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Dirección de Impuestos y Aduanas Nacionales (Dian) de Colombia reveló una intervención simultánea en tres\nLa entrada Colombia: Dian adopta medidas cautelares sobre mercan...",
-    "date": "2026-10-28T21:30:45",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/colombia-dian-adopta-medidas-cautelares-sobre-mercancias-en-tres-terminales-portuarias-de-buenaventura/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-declaran-caducidad-denuncias-constitucionales-contra-francisco-sagasti-y-jose-elice-1097694.aspx",
-    "title": "Declaran la caducidad de denuncias constitucionales contra Francisco Sagasti y José Elice",
-    "snippet": "La Comisión de Acusaciones Constitucionales de la Cámara de Diputados declaró la caducidad de la prerrogativa funcional del expresidente de la República Francisco Sagasti Hochhausler y del exministro del Interior José Ma...",
-    "date": "2026-10-28T21:06:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-declaran-caducidad-denuncias-constitucionales-contra-francisco-sagasti-y-jose-elice-1097694.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-real-madrid-se-disculpa-china-comentarios-kylian-mbappe-1097696.aspx",
-    "title": "Real Madrid se disculpa con China por comentarios de Kylian Mbappé",
-    "snippet": "El Real Madrid se disculpó el miércoles con China por comentarios de su estelar atacante francés Kylian Mbappé sobre el exlíder Mao Zedong, que desataron una tormenta de críticas....",
-    "date": "2026-10-28T21:00:26",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-real-madrid-se-disculpa-china-comentarios-kylian-mbappe-1097696.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463289",
-    "title": "Maersk afirma interés por operar terminales portuarios en Panamá",
-    "snippet": "Maersk afirmó que mantiene su interés por administrar de manera permanente, a través de su filial APM Terminals, recintos portuarios\nLa entrada Maersk afirma interés por operar terminales portuarios en Panamá se publicó ...",
-    "date": "2026-10-28T21:00:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/maersk-afirma-interes-por-operar-terminales-portuarios-en-panama/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/5119629",
-    "title": "Dead Island 2, Tomb Raider Remastered and More Come to All PlayStation Plus Subscribers in November",
-    "snippet": "Keep spooky season going a little longer with these PlayStation Plus games in November....",
-    "date": "2026-10-28T20:51:07",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/playstation-plus-november-monthly-games/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463331",
-    "title": "Iquique Terminal Internacional recibe a cerca de 2 mil personas en nueva jornada de puertas abiertas",
-    "snippet": "Por PortalPortuario Social Iquique Terminal Internacional (ITI), puerto de Hanseatic Global Terminals Latin America, recibió a cerca de 2 mil\nLa entrada Iquique Terminal Internacional recibe a cerca de 2 mil personas en ...",
-    "date": "2026-10-28T20:30:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/iquique-terminal-internacional-recibe-a-cerca-de-2-mil-personas-en-nueva-jornada-de-puertas-abiertas/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "CBMixwFBVV95cUxQQjM5YlByVmpoT3BJQXlDdUFJSmc4WG5xTXFNSW1RMUs5RHAtdDRsVlVRMmY0NXNhd3RXeWhCUnQ5TjU0Y2hjVWVibzJKNjk1TWVTeFVub2N4cnM2Nzdyekdib2ptTUZYZzUtR0RmT0FqWDNYV3E4d0NuUDhLalhRTlZHQlhFOXlsTVZGRGJLRUJWeWtFLTVkbnYyWWlzbmZldWxXODY5eUFZejR1MFlhNlZvLURKb3RqY2wyUDhIQjFVNlRUQ0RB",
-    "title": "Indecopi protege a pasajeros ante suspensión de vuelos el 15 de noviembre en Cusco - TVPerú",
-    "snippet": "Indecopi protege a pasajeros ante suspensión de vuelos el 15 de noviembre en Cusco  TVPerú...",
-    "date": "2026-10-28T20:01:01",
-    "source": "INDECOPI",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjM5YlByVmpoT3BJQXlDdUFJSmc4WG5xTXFNSW1RMUs5RHAtdDRsVlVRMmY0NXNhd3RXeWhCUnQ5TjU0Y2hjVWVibzJKNjk1TWVTeFVub2N4cnM2Nzdyekdib2ptTUZYZzUtR0RmT0FqWDNYV3E4d0NuUDhLalhRTlZHQlhFOXlsTVZGRGJLRUJWeWtFLTVkbnYyWWlzbmZldWxXODY5eUFZejR1MFlhNlZvLURKb3RqY2wyUDhIQjFVNlRUQ0RB?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3182746",
-    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-    "snippet": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online....",
-    "date": "2026-10-28T20:01:00",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463282",
-    "title": "Bolivia acelera estrategia para consolidar operatividad global de Puerto Busch",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El ministro de Relaciones Exteriores de Bolivia, Héctor Huanca, articuló una alianza interministerial para consolidar una\nLa entrada Bolivia acelera estrategia para consolid...",
-    "date": "2026-10-28T20:00:05",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/bolivia-acelera-estrategia-para-consolidar-operatividad-global-de-puerto-busch/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
-    "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
-    "snippet": "Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media....",
-    "date": "2026-10-28T19:39:47",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=1019851",
-    "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-    "snippet": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US gover...",
-    "date": "2026-10-28T19:37:31",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463306",
-    "title": "APM Terminals Suape anuncia chegada de nova rota internacional",
-    "snippet": "Por Redação PortalPortuario @PortalPortuario A APM Terminals Suape ampliará sua conectividade internacional com a inclusão do terminal pernambucano na rota\nLa entrada APM Terminals Suape anuncia chegada de nova rota inte...",
-    "date": "2026-10-28T19:33:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/apm-terminals-suape-anuncia-chegada-de-nova-rota-internacional/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/nuevo-macbook-pro-pantalla-tactil-cuesta-3-349-euros-espana-1-000-euros-que-su-hermano-no-tactil",
-    "title": "El nuevo MacBook Pro con pantalla táctil cuesta desde 3.349 euros en España: más de 1.000 euros más que su hermano \"no táctil\"",
-    "snippet": "Apple acaba de presentar su primer MacBook Pro táctil, apenas un día después de anunciar otro modelo que mantiene la pantalla convencional. Hasta aquí, todo parece bastante sencillo: tenemos dos portátiles profesionales ...",
-    "date": "2026-10-28T19:33:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/nuevo-macbook-pro-pantalla-tactil-cuesta-3-349-euros-espana-1-000-euros-que-su-hermano-no-tactil",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463322",
-    "title": "Brasil: APM Terminals Suape anuncia llegada de nueva ruta internacional",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Suape ampliará su conectividad internacional con la inclusión del terminal pernambucano en la ruta\nLa entrada Brasil: APM Terminals Suape anuncia llegada de nu...",
-    "date": "2026-10-28T19:30:49",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-apm-terminals-suape-anuncia-llegada-de-una-nueva-ruta-internacional/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463318",
-    "title": "DHL sostiene que filtración de información sensible es un problema persistente dentro de cadena logística",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Eduardo Ullivarri, Security Manager para DHL Global Forwarding Chile, sostuvo que la filtración de información sensible\nLa entrada DHL sostiene que filtración de información...",
-    "date": "2026-10-28T19:28:04",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dhl-sostiene-que-filtracion-de-informacion-sensible-es-un-problema-persistente-dentro-de-cadena-logistica/",
-    "category": "LOGÍSTICA"
   }
 ]
