@@ -1,5 +1,221 @@
 [
   {
+    "id": "https://www.scmp.com/news/hong-kong/politics/article/3372905/former-apple-daily-publisher-joins-mainland-china-tour-rehabilitated-offenders",
+    "title": "Former Apple Daily publisher joins mainland China tour for rehabilitated offenders",
+    "snippet": "A former publisher of the now-defunct Apple Daily newspaper has joined a Hong Kong government-organised mainland study tour for rehabilitated offenders, telling a state-owned broadcaster he felt “very proud” as a Chinese...",
+    "date": "2026-11-01T15:33:56",
+    "source": "SCMP CHINA",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3372905/former-apple-daily-publisher-joins-mainland-china-tour-rehabilitated-offenders",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-cristo-moreno-metropolitano-corredores-y-transporte-convencional-modifican-hoy-rutas-1097916.aspx",
+    "title": "Cristo Moreno: Metropolitano, corredores y transporte convencional modifican hoy rutas",
+    "snippet": "Los ciudadanos que este domingo 1 de noviembre acudan al Centro de Lima para participar en el quinto y último recorrido procesional del Señor de los Milagros contarán con diversas alternativas de transporte público para ...",
+    "date": "2026-11-01T15:21:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-cristo-moreno-metropolitano-corredores-y-transporte-convencional-modifican-hoy-rutas-1097916.aspx",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.engadget.com/2300281/hardware-accelerated-gpu-scheduling-not-best-fit-cheap-gpu-reason/",
+    "title": "The simple reason hardware accelerated GPU scheduling isn't the best fit for cheap GPUs",
+    "snippet": "Hardware accelerated GPU scheduling is one of those features many of us don't really think about, but it could cause problems for your old GPU....",
+    "date": "2026-11-01T15:15:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300281/hardware-accelerated-gpu-scheduling-not-best-fit-cheap-gpu-reason/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/francisco-javier-paez-doctor-ingeniero-industrial-compras-coche-prueba-moneda-no-suficiente-pide-informe-completo-dgt",
+    "title": "Francisco Javier Páez, doctor ingeniero industrial: \"Si compras un coche, la prueba de la moneda no es suficiente. Pide el informe completo de la DGT\"",
+    "snippet": "Francisco Javier Páez Ayuso es Doctor Ingeniero Industrial por la Universidad Politécnica de Madrid (UPM). Podríamos terminar aquí la presentación y convendríamos en que está plenamente capacitado para contestar las preg...",
+    "date": "2026-11-01T15:01:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/francisco-javier-paez-doctor-ingeniero-industrial-compras-coche-prueba-moneda-no-suficiente-pide-informe-completo-dgt",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.engadget.com/2300277/which-android-closest-to-iphone-18-pro-max/",
+    "title": "Which Android is the closest counterpart to the iPhone 18 Pro Max?",
+    "snippet": "The iPhone 18 Pro Max is a brilliant phone, but not everyone wants to live in Apple's walled garden. This is the closest competitor Android can offer....",
+    "date": "2026-11-01T14:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300277/which-android-closest-to-iphone-18-pro-max/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/teles-80-euros-galaxy-buds4-pro-a-minimo-historico-aliexpress-sigue-muchas-ofertas-top-tecnologia",
+    "title": "Teles por menos de 80 euros, los Galaxy Buds4 Pro a mínimo histórico y más: AliExpress sigue con muchas ofertas top en tecnología",
+    "snippet": "Seguimos este domingo, 1 de noviembre, revisando la promo del 11.11 de AliExpress. Ya os hemos contado que hay móviles a muy buen precio, independientemente de si estás buscando algo asequible o uno de gama alta. En esta...",
+    "date": "2026-11-01T14:15:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/teles-80-euros-galaxy-buds4-pro-a-minimo-historico-aliexpress-sigue-muchas-ofertas-top-tecnologia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-television-estatal-china-no-emitio-ningun-partido-laliga-desde-polemica-mbappe-1098127.aspx",
+    "title": "Televisión estatal china no emitió ningún partido de LaLiga desde la polémica de Mbappé",
+    "snippet": "La televisión estatal china CCTV no retransmitió este sábado ningún partido de LaLiga, cuyas emisiones suspendió el pasado lunes a raíz de las declaraciones de Kylian Mbappé sobre un 'meme' relacionado con Mao Zedong, au...",
+    "date": "2026-11-01T14:15:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-television-estatal-china-no-emitio-ningun-partido-laliga-desde-polemica-mbappe-1098127.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai",
+    "title": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI",
+    "snippet": "Un millón de yuanes al año (unos 134.000 euros). Ese es el sueldo que las grandes tecnologícas chinas, entre ellas ByteDance, Tencent y Alibaba, están ofreciendo a un perfil técnico muy concreto, como explica el South Ch...",
+    "date": "2026-11-01T14:01:28",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463945",
+    "title": "Tarifas de flete para envíos marítimos de petróleo ruso se mantienen en máximos históricos",
+    "snippet": "Por Redacción PortalPortuario / Agencia Reuters @PortalPortuario Las tarifas de flete para los envíos de petróleo desde los puertos occidentales\nLa entrada Tarifas de flete para envíos marítimos de petróleo ruso se manti...",
+    "date": "2026-11-01T14:00:12",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/tarifas-de-flete-para-envios-maritimos-de-petroleo-ruso-se-mantienen-en-maximos-historicos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2302290/playstation-5-settings-change-before-gta-6/",
+    "title": "Change these PlayStation 5 settings before GTA 6 comes out",
+    "snippet": "For the best experience playing the new Grand Theft Auto 6, you're going to want to make some adjustments....",
+    "date": "2026-11-01T14:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2302290/playstation-5-settings-change-before-gta-6/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463947",
+    "title": "Puerto de Iquique recibe nuevo envío de baterías Bess",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Iquique recibió un nuevo envío de baterías del sistema Bess (Battery Energy Storage\nLa entrada Puerto de Iquique recibe nuevo envío de baterías Bess se publicó ...",
+    "date": "2026-11-01T13:17:19",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-iquique-recibe-nuevo-envio-de-baterias-bess/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2300269/how-to-clear-cache-android/",
+    "title": "How to clear the cache on your Android device",
+    "snippet": "Your apps and browsers may be overdue for some tidying up....",
+    "date": "2026-11-01T13:15:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300269/how-to-clear-cache-android/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
+    "title": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
+    "snippet": "Antes descargabas una aplicación para algo muy concreto que necesitabas y debías aguantar el resto de funciones extra. Para competir, los desarrolladores fueron engordando sus apps hasta niveles a menudo absurdos. Así qu...",
+    "date": "2026-11-01T13:01:28",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463939",
+    "title": "HD Hyundai Heavy bota nuevo portacontenedores tipo Eurofeeder para CLdN",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario HD Hyundai Heavy Industries botó el nuevo portacontenedores ARX Appleton, el primero de seis unidades del\nLa entrada HD Hyundai Heavy bota nuevo portacontenedores tipo Eurof...",
+    "date": "2026-11-01T13:00:20",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/hd-hyundai-heavy-bota-nuevo-portacontenedores-tipo-eurofeeder-para-cldn/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/hemos-llenado-ciudades-arboles-para-combatir-calor-nuevo-estudio-advierte-que-a-veces-pueden-lograr-exactamente-contrario",
+    "title": "Hemos llenado las ciudades de árboles para combatir el calor. Un nuevo estudio advierte que a veces pueden lograr exactamente lo contrario",
+    "snippet": "Durante los últimos años hemos escuchado de manera reiterada que plantar árboles era una de las soluciones para combatir el cambio climático y el aumento de las temperaturas en los entornos urbanos. Algo que es bastante ...",
+    "date": "2026-11-01T12:45:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/hemos-llenado-ciudades-arboles-para-combatir-calor-nuevo-estudio-advierte-que-a-veces-pueden-lograr-exactamente-contrario",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/antes-se-marcaba-estatus-tonos-pastel-sobriedad-ahora-hemos-entrado-era-purpurina-brilli-brilli",
+    "title": "Antes se marcaba estatus con tonos pastel y sobriedad: ahora hemos entrado en la era de la purpurina y el brilli brilli",
+    "snippet": "El otro día decidí desconectar de las redes sociales porque últimamente parece que no hay forma de escapar de las gemas de colores. Me aparecían cubriendo vasos, botes de crema, piernas e incluso comida. Y, aunque estaba...",
+    "date": "2026-11-01T12:15:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/antes-se-marcaba-estatus-tonos-pastel-sobriedad-ahora-hemos-entrado-era-purpurina-brilli-brilli",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/problema-hogares-no-que-inflacion-arrastre-cesta-compra-que-salarios-no-han-seguido-su-ritmo",
+    "title": "El problema de los hogares no es que la inflación arrastre la cesta de la compra, es que los salarios no han seguido su ritmo",
+    "snippet": "Aunque España no se ha librado de la inflación y la guerra de Irán sigue dibujando incógnitas en el horizonte, el escenario actual está lejos de parecerse al de las alzas disparatadas que siguieron a la guerra de Ucrania...",
+    "date": "2026-11-01T12:01:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/problema-hogares-no-que-inflacion-arrastre-cesta-compra-que-salarios-no-han-seguido-su-ritmo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463743",
+    "title": "Puerto de Gdansk gestiona 65,2 millones de toneladas de carga a septiembre de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Gdansk mantiene una tendencia al alza en el manejo de carga, ya que\nLa entrada Puerto de Gdansk gestiona 65,2 millones de toneladas de carga a septiembre de 202...",
+    "date": "2026-11-01T12:00:02",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-gdansk-gestiona-652-millones-de-toneladas-de-carga-a-septiembre-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
+    "title": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
+    "snippet": "Pocas veces me ha parecido tan útil un agente como cuando lo he utilizado para que me resolviera tareas que a mí me resultan imposibles. Dar de baja mi moto antigua, por ejemplo, la que tiene dos dedos de polvo y lleva s...",
+    "date": "2026-11-01T11:01:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/nuevo-aceite-enriquecido-promete-frenar-dano-renal-diabeticos-que-buena-noticia-que-no-sirve-tu-aceite-supermercado",
+    "title": "Un nuevo aceite enriquecido promete frenar el daño renal en diabéticos: por qué es una buena noticia y por qué no sirve tu aceite del supermercado",
+    "snippet": "Tener diabetes tipo 2 no es un simple problema de azúcar, sino que conlleva una importante repercusión sobre diferentes órganos de nuestro cuerpo, como por ejemplo el ojo o los riñones. Es por ello que la investigación a...",
+    "date": "2026-11-01T10:31:30",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/nuevo-aceite-enriquecido-promete-frenar-dano-renal-diabeticos-que-buena-noticia-que-no-sirve-tu-aceite-supermercado",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
+    "title": "El negocio que Anthropic promete a sus inversores vale 40 billones. Es lo que cobramos quienes hacemos lo que quiere hacer su IA",
+    "snippet": "Los folletos de salida a bolsa AKA \"prospectos\" en España, S-1 en Estados Unidos, son un peñazo porque deben serlo. Al menos para cualquiera que no sea abogado, economista o un simple entusiasta de las páginas salmón.\n\nA...",
+    "date": "2026-11-01T10:01:31",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/ese-kebab-despues-noche-fiesta-no-casualidad-alcohol-cambia-tus-ganas-comer",
+    "title": "Ese kebab después de una noche de fiesta no es casualidad: el alcohol cambia tus ganas de comer",
+    "snippet": "Es fácil haber escuchado en alguna ocasión que el alcohol tiene \"calorías vacías\" puesto que solo nos engorda sin aportarnos nada más, pero la realidad es que esto solo es una pequeña parte de la mala nutrición dietética...",
+    "date": "2026-11-01T09:31:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/ese-kebab-despues-noche-fiesta-no-casualidad-alcohol-cambia-tus-ganas-comer",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-tecnologia-durante-primer-fin-semana-noviembre",
+    "title": "Las mejores ofertas de MediaMarkt en tecnología durante el primer fin de semana de noviembre",
+    "snippet": "Damos comienzo a un nuevo mes en el que estará cargado de ofertas con la llegada del Black Friday. Ahora mismo podemos encontrar bastantes chollos en tiendas como MediaMarkt, por lo que hemos repasado su catálogo para ve...",
+    "date": "2026-11-01T09:15:28",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-tecnologia-durante-primer-fin-semana-noviembre",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/servicios/meteorico-ascenso-chatgpt-noviembre-2022-grafico-mil-millones-usuarios-sorpasso-a-tiktok",
+    "title": "El meteórico ascenso de ChatGPT desde noviembre de 2022, en un gráfico: mil millones de usuarios y sorpasso a Tiktok",
+    "snippet": "Cuando las redes sociales llegaron, marcaron un antes y un después en internet: de los foros abiertos y la información altruista por el placer de compartir y conocer a los algoritmos, las interacciones y los influencers....",
+    "date": "2026-11-01T09:01:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/servicios/meteorico-ascenso-chatgpt-noviembre-2022-grafico-mil-millones-usuarios-sorpasso-a-tiktok",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/magnet/romanos-hacian-vidrio-que-cambia-color-hace-1-600-anos-ahora-fin-alguien-ha-conseguido-repetirlo",
     "title": "Los romanos hacían vidrio que cambia de color hace 1.600 años. Ahora, por fin, alguien ha conseguido repetirlo",
     "snippet": "Un equipo de investigadores de la Universidad de Sheffield ha logrado reproducir por primera vez el vidrio dicroico, un curioso material de origen romano que cambia de color según cómo le dé la luz. La única pieza comple...",
@@ -1131,222 +1347,6 @@
     "date": "2026-10-30T17:01:29",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/ayuntamiento-madrid-abre-concurso-para-privatizar-35-anos-auditorio-abandonado-parque-juan-carlos-i",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1022794",
-    "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-    "snippet": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigam...",
-    "date": "2026-10-30T17:01:07",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463761",
-    "title": "Argentina: Gobernador de Santa Fe buscará que contenedores enviados desde el país salgan por puertos de la provincia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Gobernador de Santa Fe, Maximiliano Pullaro, afirmó que buscará que los contenedores que son enviados\nLa entrada Argentina: Gobernador de Santa Fe buscará que contenedore...",
-    "date": "2026-10-30T17:00:18",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/argentina-gobernador-de-santa-fe-buscara-que-contenedores-enviados-desde-el-pais-salgan-por-puertos-de-la-provincia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/gran-explosion-sacude-fabrica-municiones-antigua-espana-granada-plena-fiebre-rearme",
-    "title": "Una gran explosión sacude la fábrica de municiones más antigua de España, en Granada, en plena fiebre del rearme",
-    "snippet": "Una explosión en el quemadero de la Fábrica de Municiones de Granada ha hecho temblar esta mañana el barrio de El Fargue, en Granada. Como si fuera un terremoto, los vecinos llamaron al 112 en una treintena de ocasiones ...",
-    "date": "2026-10-30T16:31:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/gran-explosion-sacude-fabrica-municiones-antigua-espana-granada-plena-fiebre-rearme",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/oscar-puente-ministro-transportes-sistema-lzb-se-ha-caido-170-veces-este-ano-esta-dentro-normalidad-europea",
-    "title": "Óscar Puente, ministro de Transportes: \"El sistema LZB se ha caído 170 veces este año, está dentro de la normalidad europea\"",
-    "snippet": "Una rueda de prensa de más de hora y media da mucho de sí. La última comparecencia de Óscar Puente ha versado sobre los problemas del sistema ferroviario español, el señalamiento del operador de Atocha responsable de la ...",
-    "date": "2026-10-30T16:17:07",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/oscar-puente-ministro-transportes-sistema-lzb-se-ha-caido-170-veces-este-ano-esta-dentro-normalidad-europea",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/samsung-vende-memoria-cara-que-nunca-uno-sus-clientes-perjudicados-samsung",
-    "title": "Samsung vende la memoria más cara que nunca. Uno de sus clientes más perjudicados es Samsung",
-    "snippet": "Samsung ha cerrado el trimestre más rentable de la historia de una tecnológica: 107,4 billones de wones de beneficio operativo, unos 80.000 millones de dólares. Casi todo sale de vender memoria para IA. Y casi todo lo qu...",
-    "date": "2026-10-30T16:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/samsung-vende-memoria-cara-que-nunca-uno-sus-clientes-perjudicados-samsung",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/1965-paris-empezo-a-excavar-aparcamiento-frente-a-notre-dame-se-encontro-ciudad-romana-entera-sus-pies",
-    "title": "En 1965, París empezó a excavar un aparcamiento frente a Notre-Dame. Se encontró con una ciudad romana entera bajo sus pies",
-    "snippet": "Hace más de 60 años, la ciudad de París ideó un plan para excavar un aparcamiento junto a su catedral más famosa. La excavación se alargó más de lo previsto, ya que sacó a la luz unos dos mil años de historia de la ciuda...",
-    "date": "2026-10-30T15:45:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/1965-paris-empezo-a-excavar-aparcamiento-frente-a-notre-dame-se-encontro-ciudad-romana-entera-sus-pies",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/remplazar-bateria-nueva-nintendo-switch-2-facil-que-nunca-nueve-tornillos-te-separan-ello",
-    "title": "Remplazar la batería de la nueva Nintendo Switch 2 es más fácil que nunca: nueve tornillos te separan de ello",
-    "snippet": "La nueva Nintendo Switch 2 con batería reemplazable llegó a las tiendas europeas este otoño y sí, lo cierto es que es bastante sencillo cambiarle la batería o acceder a ella en caso de que lo necesites. De hecho, la comp...",
-    "date": "2026-10-30T15:31:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/remplazar-bateria-nueva-nintendo-switch-2-facil-que-nunca-nueve-tornillos-te-separan-ello",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1022819",
-    "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-    "snippet": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at...",
-    "date": "2026-10-30T15:29:02",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=102979",
-    "title": "Precio del dólar en Perú hoy, 30 de octubre de 2026",
-    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este viernes 30 de octubre a las 10:13 a. m. se sitúa en S/3.455 para la compra y S/3.461 para l...",
-    "date": "2026-10-30T15:25:14",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-30-de-octubre-de-2026/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-viernes-30-octubre-del-2026-1097905.aspx",
-    "title": "¿Cuál es la cotización del dólar hoy viernes 30 de octubre del 2026?",
-    "snippet": "El precio del dólar inició subiendo frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
-    "date": "2026-10-30T15:04:13",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-viernes-30-octubre-del-2026-1097905.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/cine-y-tv/17-horas-maraton-concursos-merchandising-espectacularizacion-salas-sigue-queriendo-camelarse-a-generacion-z",
-    "title": "17 horas de maratón, concursos y merchandising: la espectacularización de las salas sigue queriendo camelarse a la Generación Z",
-    "snippet": "Nueve días después de que la Fiesta del Cine rebajara momentáneamente la entrada de las salas a 3,50 euros, Cinesa encierra este sábado a cientos de personas en seis salas de toda España durante 17 horas. Algunas han pag...",
-    "date": "2026-10-30T15:01:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/cine-y-tv/17-horas-maraton-concursos-merchandising-espectacularizacion-salas-sigue-queriendo-camelarse-a-generacion-z",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463704",
-    "title": "EE. UU.: Puerto de Houston desarrollará estudios para nuevo proyecto de profundización del canal de navegación",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El CEO del Puerto de Houston, Charlie Jenkins, anunció, en una reunión con la comisión portuaria,\nLa entrada EE. UU.: Puerto de Houston desarrollará estudios para nuevo proy...",
-    "date": "2026-10-30T15:00:57",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-puerto-de-houston-desarrollara-estudios-para-nuevo-proyecto-de-profundizacion-del-canal-de-navegacion/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/criptomonedas/explicando-mayor-hackeo-criptomonedas-historia-como-se-ha-hecho-posible-que-parecia-imposible",
-    "title": "Explicando el mayor 'hackeo' de criptomonedas de la historia: cómo se ha hecho posible lo que parecía imposible",
-    "snippet": "Lo que ha sucedido hace apenas unas horas es inaudito. Un grupo de hackers ha logrado robar aproximadamente 6.360 millones de dólares en criptomonedas de los monederos de Binance. TRM Labs, un laboratorio que se dedica a...",
-    "date": "2026-10-30T14:50:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/criptomonedas/explicando-mayor-hackeo-criptomonedas-historia-como-se-ha-hecho-posible-que-parecia-imposible",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1715163",
-    "title": "Ejecutivo aprueba nueva escala salarial para más de 800 trabajadores de Sunafil: ¿cuándo entrará en vigor?",
-    "snippet": "La medida, oficializada mediante decreto supremo, contempla incrementos para profesionales, técnicos, auxiliares y determinados niveles directivos. Su publicación se produce tras la huelga que acataron los trabajadores d...",
-    "date": "2026-10-30T14:32:14",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/politica/gobierno/ejecutivo-aprueba-nueva-escala-salarial-para-mas-de-800-trabajadores-de-sunafil-cuando-entrara-en-vigor-noticia-1715163",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463688",
-    "title": "Perú: APM Terminals anuncia comienzo de dragado en Terminal Norte del Puerto del Callao",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Callao informó que comenzarán las obras de dragado en las aguas del Terminal Norte\nLa entrada Perú: APM Terminals anuncia comienzo de dragado en Terminal Norte...",
-    "date": "2026-10-30T14:30:02",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/peru-apm-terminals-anuncia-comienzo-de-dragado-en-terminal-norte-del-puerto-del-callao/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/teles-cafeteras-auriculares-descuentos-70-mejores-chollos-tecnologicos-amazon-hoy-30-octubre",
-    "title": "Teles, cafeteras, auriculares y más con descuentos de hasta el 70%: los mejores chollos tecnológicos en Amazon hoy, 30 de octubre",
-    "snippet": "Acaba la semana y estamos entrando de lleno en el final de octubre. Si estás pensando en comprar algún dispositivo tecnológico, Amazon tiene algunos con buenos descuentos. Estos son los mejores chollos que hemos encontra...",
-    "date": "2026-10-30T14:15:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/teles-cafeteras-auriculares-descuentos-70-mejores-chollos-tecnologicos-amazon-hoy-30-octubre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/starlink-lleva-al-limite-ley-oferta-demanda-ahora-sus-precios-pueden-subir-bajar-cada-mes",
-    "title": "Starlink lleva al límite la ley de la oferta y la demanda: ahora sus precios pueden subir o bajar cada mes",
-    "snippet": "Mientras los operadores europeos tratan de unirse para hacer frente al dominio de Starlink en el mercado de la conectividad vía satélite, la compañía de Elon Musk continúa ganando peso y cada vez tiene un mayor número de...",
-    "date": "2026-10-30T14:01:28",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/starlink-lleva-al-limite-ley-oferta-demanda-ahora-sus-precios-pueden-subir-bajar-cada-mes",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463691",
-    "title": "DP World desmiente supuestas acciones legales por paro de camioneros en San Antonio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario DP World catalogó como falsa una publicación que ha circulado en redes sociales, donde se le\nLa entrada DP World desmiente supuestas acciones legales por paro de camioneros ...",
-    "date": "2026-10-30T14:00:05",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dp-world-desmiente-supuestas-acciones-legales-por-paro-de-camioneros-en-san-antonio/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cartografia-las-sombras-cierra-visita-guiada-su-imaginario-gotico-1097892.aspx",
-    "title": "“Cartografía de las sombras” cierra con visita guiada en su imaginario gótico",
-    "snippet": "La exposición colectiva Cartografía de las sombras, que reúne a 25 artistas en torno al imaginario gótico y sus vínculos con la literatura, llega a su clausura este sábado 31 de octubre, a las 7 p. m., en la Galería Casa...",
-    "date": "2026-10-30T13:55:10",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cartografia-las-sombras-cierra-visita-guiada-su-imaginario-gotico-1097892.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-fenomeno-nino-mef-transfiere-s-218-millones-para-vuelos-respuesta-ante-emergencia-1097894.aspx",
-    "title": "Fenómeno El Niño: MEF transfiere S/ 21.8 millones para vuelos de respuesta ante emergencia",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia de 21 millones 853,366 soles a favor del Ministerio de Defensa para financiar la ejecución de horas de vuelo adicionales del Grupo Aéreo Nº 8 de la Fu...",
-    "date": "2026-10-30T13:53:55",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-fenomeno-nino-mef-transfiere-s-218-millones-para-vuelos-respuesta-ante-emergencia-1097894.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1023112",
-    "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-    "snippet": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyot...",
-    "date": "2026-10-30T13:52:14",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/sindicatos-se-rebelan-oscar-puente-senalar-al-controlador-adif-sus-declaraciones-nos-parecen-lamentables",
-    "title": "Los sindicatos se rebelan contra Óscar Puente por señalar al controlador de Adif: \"Sus declaraciones nos parecen lamentables\"",
-    "snippet": "Si algo nos ha quedado claro del fatídico accidente de Urda (Toledo) en el que han fallecido, al menos, 69 personas es que se dio una cadena de errores que provocó que un tren AVE chocara contra un Iryo detenido en la ví...",
-    "date": "2026-10-30T13:14:33",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/sindicatos-se-rebelan-oscar-puente-senalar-al-controlador-adif-sus-declaraciones-nos-parecen-lamentables",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/palma-mallorca-esta-cuenta-atras-para-protestas-blocus-hay-quien-pide-suspender-clases-institutos",
-    "title": "Palma de Mallorca está en la cuenta atrás para las protestas de Blocus. Y ya hay quien pide suspender clases en institutos",
-    "snippet": "Si te das un paseo hoy por el centro de Palma, probablemente verás escaparates tapiados (incluidos los de alguna multinacional), vigilantes y sobre todo mucho nerviosismo entre los comerciantes, que ya hablan de adelanta...",
-    "date": "2026-10-30T13:03:11",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/palma-mallorca-esta-cuenta-atras-para-protestas-blocus-hay-quien-pide-suspender-clases-institutos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/algo-extremadamente-raro-esta-pasando-artico-rotura-vertice-polar-temprana-que-tenemos-registros",
-    "title": "Algo extremadamente raro está pasando en el ártico: la rotura del vértice polar más temprana desde que tenemos registros",
-    "snippet": "El lunes 26 de octubre, con los datos de las 12 de la noche, 18 de los 50 escenarios que calcula cada día el Centro Europeo de Predicción a Medio Plazo decían que el vórtice polar iba a romperse en los quince días siguie...",
-    "date": "2026-10-30T13:01:30",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/algo-extremadamente-raro-esta-pasando-artico-rotura-vertice-polar-temprana-que-tenemos-registros",
     "category": "TRIBUTARIO"
   }
 ]
