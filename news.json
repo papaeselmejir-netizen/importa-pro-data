@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://rpp.pe/1715487",
+    "title": "Southern Perú proyecta invertir US$ 10 380 millones en proyectos mineros en cinco regiones, según el Minem",
+    "snippet": "El titular del Minem, Guillermo Shinno, se reunió con los representantes de Southern Perú y reafirmó el objetivo del Gobierno de simplificar trámites y permisos para atraer y agilizar inversiones que dinamicen la economí...",
+    "date": "2026-11-01T23:47:04",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/southern-peru-proyecta-invertir-us-10-380-millones-en-proyectos-mineros-en-cinco-regiones-segun-el-minem-noticia-1715487",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463971",
+    "title": "Venezuela: Puerto de Maracaibo atiende buque con material para industria petrolera",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Maracaibo atendió al Svend, un buque con 147 metros de eslora y 23\nLa entrada Venezuela: Puerto de Maracaibo atiende buque con material para industria petrolera...",
+    "date": "2026-11-01T23:00:43",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/venezuela-puerto-de-maracaibo-atiende-buque-con-material-para-industria-petrolera/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+    "title": "How to clean your PlayStation 5 without damaging it",
+    "snippet": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch....",
+    "date": "2026-11-01T23:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-canciller-superviso-llegada-dos-papamoviles-para-visita-apostolica-del-papa-leon-1098202.aspx",
+    "title": "Canciller supervisó la llegada de dos papamóviles para la Visita Apostólica del Papa León",
+    "snippet": "El canciller Carlos Espá supervisó esta mañana en la plataforma sur del Aeropuerto Internacional Jorge Chávez la recepción técnica y desembarque de los dos papamóviles, que serán utilizados en la gira de Su Santidad el P...",
+    "date": "2026-11-01T22:23:57",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-canciller-superviso-llegada-dos-papamoviles-para-visita-apostolica-del-papa-leon-1098202.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463942",
+    "title": "Danaos encarga dos portacontenedores de 9.040 TEU a astillero chino",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Danaos, compañía propietaria de buques, habría cerrado un acuerdo para la construcción de dos portacontenedores de\nLa entrada Danaos encarga dos portacontenedores de 9.040 T...",
+    "date": "2026-11-01T22:00:36",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/danaos-encarga-dos-portacontenedores-de-9-040-teu-a-astillero-chino/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
+    "title": "Which Samsung S Pens can be located using SmartThings Find?",
+    "snippet": "Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network....",
+    "date": "2026-11-01T22:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1024239",
+    "title": "NASA hopes the commercial space industry can help save Hubble",
+    "snippet": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in t...",
+    "date": "2026-11-01T21:09:21",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/unos-investigadores-han-decidido-ponerle-patas-a-telefono-movil-resultado-ha-sido-robot-que-camina",
+    "title": "Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina",
+    "snippet": "En muchos cajones hay móviles que no volveremos a utilizar como teléfonos. Los guardamos después de estrenar otro, quizá por si algún día hacen falta, y ahí se quedan aunque sigan teniendo una cámara, un procesador, sens...",
+    "date": "2026-11-01T21:01:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/unos-investigadores-han-decidido-ponerle-patas-a-telefono-movil-resultado-ha-sido-robot-que-camina",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+    "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+    "snippet": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs....",
+    "date": "2026-11-01T21:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/luna-tendra-su-propio-superordenador-procesar-datos-tierra-no-opcion",
     "title": "La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción",
     "snippet": "La mayoría de misiones no tripuladas comparten un mismo hándicap: las muestras o los datos deben enviarse a la Tierra para su análisis. Esto es algo que se está solucionando poco a poco. Ya existen rovers dotados con lab...",
@@ -1267,86 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-celebracion-de-musica-los-30-anos-%C2%ABpontelo-la-lengua%C2%BB-pedro-suarezvertiz-1097982.aspx",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/google-queria-levantar-centro-datos-finlandia-empezo-talando-330-hectareas-acabo-investigacion-penal",
-    "title": "Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal",
-    "snippet": "Cuando hablamos de los grandes centros de datos, solemos pensar en edificios repletos de servidores, sistemas de refrigeración y enormes cantidades de electricidad. Sin embargo, todo empieza bastante antes, en un terreno...",
-    "date": "2026-10-30T22:01:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/google-queria-levantar-centro-datos-finlandia-empezo-talando-330-hectareas-acabo-investigacion-penal",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/5169285",
-    "title": "Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad",
-    "snippet": "Samsung’s advertisement features a sliced green apple that rolls right along through the entire Galaxy Z Fold line....",
-    "date": "2026-10-30T21:58:00",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/samsung-slice-apple-iphone-duo-z-fold-8-ad/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-senalizaran-bypass-para-evitar-vehiculos-atrapados-inundaciones-lluvias-1097977.aspx",
-    "title": "Señalizarán bypass para evitar vehículos atrapados en inundaciones por lluvias",
-    "snippet": "La Autoridad de Transporte Urbano para Lima y Callao (ATU) reforzará la señalización en ocho puntos críticos y vulnerables para evitar que los vehículos de transporte público queden atrapados en zonas inundadas por lluvi...",
-    "date": "2026-10-30T21:44:24",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-senalizaran-bypass-para-evitar-vehiculos-atrapados-inundaciones-lluvias-1097977.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mtc-reanuda-enrocado-balneario-moche-para-frenar-avance-erosion-costera-1097975.aspx",
-    "title": "MTC reanuda enrocado en balneario de Moche para frenar avance de erosión costera",
-    "snippet": "Con el objetivo de frenar el avance de la erosión costera y proteger a la población de los oleajes anómalos, el Ministerio de Transportes y Comunicación (MTC) reanudó los trabajos de enrocado en el sector Taquila II del ...",
-    "date": "2026-10-30T21:34:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mtc-reanuda-enrocado-balneario-moche-para-frenar-avance-erosion-costera-1097975.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463807",
-    "title": "Brasil: Puerto de Itajaí continúa con dragado diario para asegurar continuidad operativa",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Superintendencia del Puerto de Itajaí (SPI) informó que mantiene operaciones diarias e ininterrumpidas de dragado\nLa entrada Brasil: Puerto de Itajaí continúa con dragado...",
-    "date": "2026-10-30T21:30:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-puerto-de-itajai-continua-con-dragado-diario-para-asegurar-continuidad-operativa/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/5169142",
-    "title": "This Is What an iPhone Duo’s Crease Looks Like After 139K Folds",
-    "snippet": "After a week of nonstop folding, we briefly turn the iPhone Duo’s display off to check out how the crease looks....",
-    "date": "2026-10-30T21:16:49",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/mobile/iphone-duos-crease-after-139k-folds/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463871",
-    "title": "Armada de Omán evacúa a 25 tripulantes desde buque de bandera panameña frente a costas de Musandam",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario La Armada Real de Omán evacuó a 25 tripulantes de un buque mercante de bandera\nLa entrada Armada de Omán evacúa a 25 tripulantes desde buque de bandera panam...",
-    "date": "2026-10-30T21:03:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/armada-de-oman-evacua-a-25-tripulantes-desde-buque-de-bandera-panamena-frente-a-costas-de-musandam/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463843",
-    "title": "APM Terminals Callao coordina con navieras alternativas para mantener movimiento de carga ante Fenómeno de El Niño",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario APM Terminals Callao, operador del Terminal Norte del Callao, viene coordinando con líneas navieras una alternativa\nLa entrada APM Terminals Callao coordina con navieras alt...",
-    "date": "2026-10-30T20:30:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/apm-terminals-callao-coordina-con-navieras-alternativas-para-mantener-movimiento-de-carga-ante-fenomeno-de-el-nino/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1023763",
-    "title": "The biggest names in AI are backing a new way to opt out of scraping",
-    "snippet": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can ap...",
-    "date": "2026-10-30T20:26:10",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "category": "MERCADO"
   }
 ]
