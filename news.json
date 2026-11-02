@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.xataka.com/seleccion/llega-a-aldi-14-99-euros-esta-solucion-10-1-a-problema-cotidiano-casa-cuando-hay-que-cargar-muchos-dispositivos-a-vez",
+    "title": "Llega a Aldi (por 14,99 euros) esta solución 10 en 1 a un problema cotidiano en casa cuando hay que cargar muchos dispositivos a la vez",
+    "snippet": "La distribución de los enchufes de pared de casa no siempre es la ideal, sobre todo en pisos pequeños en los que hay pocos disponibles. Más aún, si algunos de ellos quedan bloqueados tras estantes, mobiliario, sillones o...",
+    "date": "2026-11-02T07:15:28",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/llega-a-aldi-14-99-euros-esta-solucion-10-1-a-problema-cotidiano-casa-cuando-hay-que-cargar-muchos-dispositivos-a-vez",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-ministro-alvarez-trabajamos-para-acelerar-construccion-penal-maxima-seguridad-1098210.aspx",
+    "title": "Ministro Álvarez: trabajamos para acelerar construcción de penal de máxima seguridad",
+    "snippet": "El ministro de Justicia y Derechos Humanos, Ernesto Álvarez, informó que el gobierno de la presidenta Keiko Fujimori, viene trabajando para acelerar la construcción de penales, por lo que estimó que el penal de máxima se...",
+    "date": "2026-11-02T03:02:58",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-ministro-alvarez-trabajamos-para-acelerar-construccion-penal-maxima-seguridad-1098210.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463700",
+    "title": "Cisco y PSA Singapur impulsan operaciones basadas en inteligencia artificial de Puerto de Tuas",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Cisco y PSA Singapur (PSA) acelerarán la siguiente fase de la transformación del Puerto de Tuas\nLa entrada Cisco y PSA Singapur impulsan operaciones basadas en inteligencia ...",
+    "date": "2026-11-02T02:00:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/cisco-y-psa-singapur-impulsan-operaciones-basadas-en-inteligencia-artificial-de-puerto-de-tuas/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=463662",
+    "title": "Geodis amplía flota eléctrica para transporte de contenedores de gran tonelaje en Sydney",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Geodis está ampliando sus operaciones de flota eléctrica en Australia con la incorporación de un tercer\nLa entrada Geodis amplía flota eléctrica para transporte de contenedo...",
+    "date": "2026-11-02T01:00:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/geodis-amplia-flota-electrica-para-transporte-de-contenedores-de-gran-tonelaje-en-sydney/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+    "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+    "snippet": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences....",
+    "date": "2026-11-02T01:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+    "title": "How to add and rearrange apps on your Samsung smart TV",
+    "snippet": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it....",
+    "date": "2026-11-02T00:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+    "title": "Android Auto could upset your work-life balance with its next update",
+    "snippet": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far....",
+    "date": "2026-11-02T00:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://rpp.pe/1715487",
     "title": "Southern Perú proyecta invertir US$ 10 380 millones en proyectos mineros en cinco regiones, según el Minem",
     "snippet": "El titular del Minem, Guillermo Shinno, se reunió con los representantes de Southern Perú y reafirmó el objetivo del Gobierno de simplificar trámites y permisos para atraer y agilizar inversiones que dinamicen la economí...",
@@ -255,6 +318,15 @@
     "id": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#0",
     "title": "Thousands of jobs at Virgin Media O2 to be cut",
     "snippet": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands....",
+    "date": "2026-11-01T16:57:14",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#0",
+    "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+    "snippet": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands....",
     "date": "2026-11-01T16:57:14",
     "source": "BBC BIZ",
     "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
@@ -1224,6 +1296,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#0",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "snippet": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become....",
+    "date": "2026-10-31T02:12:19",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://portalportuario.cl/?p=463677",
     "title": "Puerto de Gotemburgo amplía capacidad de Terminal Intermodal de Arken",
     "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Gotemburgo destacó que gracias a la reconfiguración y optimización de la disposición de\nLa entrada Puerto de Gotemburgo amplía capacidad de Terminal Intermodal ...",
@@ -1267,86 +1348,5 @@
     "source": "ANDINA",
     "url": "https://andina.pe/agencia/noticia-dia-de-cancion-criolla-descubre-alma-forestal-y-ciencia-detras-del-criollismo-1097995.aspx",
     "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-nino-costero-continuaria-hasta-fines-otono-2027-pronostica-enfen-1097990.aspx",
-    "title": "El Niño Costero continuaría hasta fines de otoño de 2027, pronostica Enfen",
-    "snippet": "La Comisión Multisectorial Encargada del Estudio Nacional del Fenómeno El Niño (Enfen) informó hoy que el calentamiento oceánico persiste en gran parte del Pacífico tropical y registra la máxima intensidad frente a la co...",
-    "date": "2026-10-31T00:26:57",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-nino-costero-continuaria-hasta-fines-otono-2027-pronostica-enfen-1097990.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463878",
-    "title": "Astillero chino entrega nuevo portacontenedores CMA CGM Austral",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El astillero chino New Times Shipyard (NTS) entregó el nuevo portacontenedores CMA CGM Austral, cuya capacidad\nLa entrada Astillero chino entrega nuevo portacontenedores CMA...",
-    "date": "2026-10-31T00:00:32",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/astillero-chino-entrega-nuevo-portacontenedores-cma-cgm-austral/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463739",
-    "title": "EE. UU.: Manejo de contenedores en Puerto de Houston crece en septiembre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los terminales públicos del Puerto de Houston registraron un aumento de 11% en el volumen de\nLa entrada EE. UU.: Manejo de contenedores en Puerto de Houston crece en septiem...",
-    "date": "2026-10-30T23:30:59",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-manejo-de-contenedores-en-puerto-de-houston-crece-en-septiembre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-difunden-herramientas-compra-publica-a-ciudadanos-feria-peru-incluye-1097986.aspx",
-    "title": "Difunden herramientas de compra pública a ciudadanos en feria Perú Incluye",
-    "snippet": "La Central de Compras Públicas (Perú Compras), organismo adscrito al Ministerio de Economía y Finanzas (MEF), difundió las herramientas que permiten estandarizar los requerimientos de las entidades públicas y optimizar l...",
-    "date": "2026-10-30T23:20:45",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-difunden-herramientas-compra-publica-a-ciudadanos-feria-peru-incluye-1097986.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463821",
-    "title": "EE. UU.: Puerto de Los Ángeles finaliza proyecto vial que reducirá congestión",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Los Ángeles celebró la finalización de un proyecto vial que busca reducir la\nLa entrada EE. UU.: Puerto de Los Ángeles finaliza proyecto vial que reducirá conge...",
-    "date": "2026-10-30T23:00:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-puerto-de-los-angeles-finaliza-proyecto-vial-que-reducira-congestion/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.scmp.com/news/hong-kong/politics/article/3372788/uk-minister-discusses-tech-collaboration-greater-bay-area-during-hong-kong-visit",
-    "title": "UK minister discusses tech collaboration in Greater Bay Area during Hong Kong visit",
-    "snippet": "UK Indo-Pacific minister Rosie Winterton has visited Hong Kong’s flagship tech hub to discuss plans to expand technological collaboration in the Greater Bay Area, while aiming to strengthen business, education and people...",
-    "date": "2026-10-30T23:00:18",
-    "source": "SCMP CHINA",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3372788/uk-minister-discusses-tech-collaboration-greater-bay-area-during-hong-kong-visit",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1023974",
-    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "snippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta th...",
-    "date": "2026-10-30T22:32:53",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=463830",
-    "title": "Brasil: Puerto de Natal realiza su primera exportación de ganado vivo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Natal llevó a cabo, por primera vez en sus 94 años de historia,\nLa entrada Brasil: Puerto de Natal realiza su primera exportación de ganado vivo se publicó prim...",
-    "date": "2026-10-30T22:30:27",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-puerto-de-natal-realiza-su-primera-exportacion-de-ganado-vivo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-celebracion-de-musica-los-30-anos-%C2%ABpontelo-la-lengua%C2%BB-pedro-suarezvertiz-1097982.aspx",
-    "title": "Celebración de la música: los 30 años de «Póntelo en la lengua», de Pedro Suárez-Vértiz",
-    "snippet": "No se puede hablar de los noventa ni del rock peruano sin mencionar a Pedro Suárez-Vértiz (1969-2023), frontman, guitarrista y compositor nacido en el Callao, criado en San Isidro, y de genes artísticos por línea paterna...",
-    "date": "2026-10-30T22:24:29",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-celebracion-de-musica-los-30-anos-%C2%ABpontelo-la-lengua%C2%BB-pedro-suarezvertiz-1097982.aspx",
-    "category": "LOGÍSTICA"
   }
 ]
