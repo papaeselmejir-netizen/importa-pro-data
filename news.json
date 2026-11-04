@@ -1,5 +1,356 @@
 [
   {
+    "id": "https://www.xataka.com/movilidad/oscar-puente-obsesion-espana-alta-velocidad-no-tienes-no-eres-nadie-no-se-te-trata-como-mereces",
+    "title": "Óscar Puente: \"Analicen la historia de este país los últimos 30 años: si no tienes alta velocidad no eres nadie\"",
+    "snippet": "Óscar Puente ha decidido abandonar el Ministerio de Transportes abriendo uno de los debates más complejos, delicados y también que más sensibilidades agita en España cuando se habla de infraestructuras: la expansión de l...",
+    "date": "2026-11-04T16:45:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/oscar-puente-obsesion-espana-alta-velocidad-no-tienes-no-eres-nadie-no-se-te-trata-como-mereces",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-absurdo-parodia-y-satira-politica-cred-una-ultima-oportunidad-para-felicidad-1098585.aspx",
+    "title": "Absurdo, parodia y sátira política en ‘Cred: una última oportunidad para la felicidad’",
+    "snippet": "Una delegación de funcionarios y diplomáticos de la Serenísima República de Cred ha convocado una conferencia para mostrarle al público todas las bondades de su régimen –felicidad, paz, sosiego–, aunque en el fondo se tr...",
+    "date": "2026-11-04T16:31:42",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-absurdo-parodia-y-satira-politica-cred-una-ultima-oportunidad-para-felicidad-1098585.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/glaciares-pirineos-tienen-fecha-caducidad-apuntan-a-desaparecer-completo-2034",
+    "title": "Los glaciares de los Pirineos tienen fecha de caducidad: apuntan a desaparecer por completo en 2034",
+    "snippet": "Los glaciares que hay en los Pirineos están viviendo sus horas más bajas. Lo que durante siglos fue un paisaje dominado por masas de hielo perpetuo se está transformando a un ritmo que ya no se mide en siglos, sino en ve...",
+    "date": "2026-11-04T16:31:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/glaciares-pirineos-tienen-fecha-caducidad-apuntan-a-desaparecer-completo-2034",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-pide-a-fieles-acompanar-oraciones-su-viaje-apostolico-a-sudamerica-1098575.aspx",
+    "title": "Papa León XIV pide a fieles acompañar con oraciones su viaje apostólico a Sudamérica",
+    "snippet": "El papa León XIV anunció que este viernes inicia su viaje apostólico que lo llevará a recorrer diversas ciudades de Uruguay, Argentina y Perú, del 6 al 16 de noviembre, en su primer viaje a América del Sur desde que fue ...",
+    "date": "2026-11-04T16:20:30",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-pide-a-fieles-acompanar-oraciones-su-viaje-apostolico-a-sudamerica-1098575.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1025659",
+    "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+    "snippet": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to rea...",
+    "date": "2026-11-04T16:10:05",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/muy-pronto-lidl-este-arbol-navidad-artificial-altura-dos-metros-precio-rebajado",
+    "title": "Muy pronto en Lidl este árbol de Navidad artificial con altura de dos metros y un precio rebajado",
+    "snippet": "Halloween ha finalizado, entramos en el mes de noviembre y las tiendas han cambiado la dinámica hacia la próxima gran fecha: Navidad. Lidl ya ha presentado su nuevo folleto y el próximo 13 de noviembre lanzará una oferta...",
+    "date": "2026-11-04T16:01:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/muy-pronto-lidl-este-arbol-navidad-artificial-altura-dos-metros-precio-rebajado",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464494",
+    "title": "Suecia: Puerto de Gävle firma acuerdo de 25 años con VAROPreem Sverige",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Gävle firmó un nuevo acuerdo de 25 años con VAROPreem Sverige para el\nLa entrada Suecia: Puerto de Gävle firma acuerdo de 25 años con VAROPreem Sverige se publi...",
+    "date": "2026-11-04T16:00:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/suecia-puerto-de-gavle-firma-acuerdo-de-25-anos-con-varopreem-sverige/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/revolut-pasa-claude-code-codex-pone-a-2-000-ingenieros-a-trabajar-glm-5-3-su-factura-ia-ahora-diez-veces-menor",
+    "title": "Revolut pasa de Claude Code o Codex y pone a 2.000 ingenieros a trabajar con GLM 5.3: su factura de IA es ahora diez veces menor",
+    "snippet": "Revolut ha convertido a GLM, el modelo de IA estrella de la china Z.ai, en el asistente de programación predeterminado para sus aproximadamente 2.000 ingenieros. Según David Abitbol, director de operaciones e infraestruc...",
+    "date": "2026-11-04T16:00:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/revolut-pasa-claude-code-codex-pone-a-2-000-ingenieros-a-trabajar-glm-5-3-su-factura-ia-ahora-diez-veces-menor",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1026311",
+    "title": "My favorite 25W wireless power bank is down to $35",
+    "snippet": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick ...",
+    "date": "2026-11-04T15:57:55",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/xataka/premios-xataka-verisure-2026-estos-finalistas",
+    "title": "Premios Xataka Verisure 2026: estos son los finalistas",
+    "snippet": "Tras unas intensas jornadas de votaciones, al fin están aquí. Ya conocemos los finalistas a los Premios Xataka Verisure 2026, es decir, los productos que vosotros, nuestros xatakeros, habéis seleccionado para verse las c...",
+    "date": "2026-11-04T15:47:47",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/xataka/premios-xataka-verisure-2026-estos-finalistas",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/tres-dispositivos-muy-rebajados-11-11-aliexpress-que-todavia-siguen-disponibles-tablet-reloj-garmin-consola",
+    "title": "Tres dispositivos muy rebajados en el 11.11 de AliExpress que todavía siguen disponibles: una tablet, un reloj Garmin y una consola",
+    "snippet": "Cuando una promo tan fuerte como el 11.11 de AliExpress empieza, los mejores chollos suelen desaparecer rápido (al igual que los mejores cupones). Pasó, por ejemplo, con una PlayStation 5 rebajada que os trajimos el lune...",
+    "date": "2026-11-04T15:45:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/tres-dispositivos-muy-rebajados-11-11-aliexpress-que-todavia-siguen-disponibles-tablet-reloj-garmin-consola",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464518",
+    "title": "DP World San Antonio inicia temporada de cruceros 2026-2027 con llegada del Seabourn Pursuit",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con la llega del Seabourn Pursuit al Sitio C2, operado por DP World, se dio por\nLa entrada DP World San Antonio inicia temporada de cruceros 2026-2027 con llegada del Seabou...",
+    "date": "2026-11-04T15:30:34",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/dp-world-san-antonio-inicia-temporada-de-cruceros-2026-2027-con-llegada-del-seabourn-pursuit/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1026289",
+    "title": "The fight for tech accountability starts now",
+    "snippet": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his favor ...",
+    "date": "2026-11-04T15:02:25",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/este-movil-motorola-chollo-mediamarkt-antes-black-friday-ahora-cuesta-520-euros",
+    "title": "Este móvil Motorola es un chollo en MediaMarkt antes del Black Friday: ahora cuesta menos de 520 euros",
+    "snippet": "Aún quedan unas semanas para el Black Friday, pero hay tiendas en las que ya se pueden ver ofertas propias de esa época de descuentos. Tal es el caso de MediaMarkt, donde hemos encontrado ahora rebajadísimo el Motorola E...",
+    "date": "2026-11-04T15:01:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/este-movil-motorola-chollo-mediamarkt-antes-black-friday-ahora-cuesta-520-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/componentes/apple-encuentra-2-nm-salida-a-sus-problemas-fabricacion",
+    "title": "Apple encuentra en los 2 nm una salida a sus problemas de fabricación",
+    "snippet": "Los SoC más avanzados que podemos encontrar en el interior de algunos dispositivos de Apple, como los iPhone 18 Pro, iPhone Duo o iMac 2026, han sido fabricados por TSMC en su nodo N2 (2 nm). Poco a poco esta tecnología ...",
+    "date": "2026-11-04T15:01:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/componentes/apple-encuentra-2-nm-salida-a-sus-problemas-fabricacion",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464503",
+    "title": "Grecia: Puerto de El Pireo registra disminución de ingresos y ganancias de enero a septiembre de 2026",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario La Autoridad Portuaria de El Pireo (OLP), en Grecia, informó una disminución de sus ingresos\nLa entrada Grecia: Puerto de El Pireo registra disminución de in...",
+    "date": "2026-11-04T15:00:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/grecia-puerto-de-el-pireo-registra-disminucion-de-ingresos-y-ganancias-de-enero-a-septiembre-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=103289",
+    "title": "Precio del dólar en Perú hoy, 4 de noviembre de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este miércoles 4 de noviembre a las 9:41 a. m. se sitúa en S/3.459 para la compra y S/3.466 para...",
+    "date": "2026-11-04T14:46:26",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-4-de-noviembre-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1026287",
+    "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+    "snippet": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to \"tens of thousands\" of 5G cell sites across the US, with the...",
+    "date": "2026-11-04T14:38:20",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464499",
+    "title": "Gobernador de Nueva Jersey advierte a puertos que no acepten diésel ruso",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario La gobernadora de Nueva Jersey, Mikie Sherrill, advirtió a las autoridades portuarias y a los\nLa entrada Gobernador de Nueva Jersey advierte a puertos que no...",
+    "date": "2026-11-04T14:30:39",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/gobernador-de-nueva-jersey-advierte-a-puertos-que-no-acepten-diesel-ruso/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/samsung-no-espera-al-black-friday-galaxy-s26-ultra-422-55-euros-ofertas-teles-tablets-electrodomesticos",
+    "title": "Samsung no espera al Black Friday con el Galaxy S26 Ultra desde 422,55 euros y ofertas en teles, tablets, electrodomésticos y más",
+    "snippet": "Aunque el Black Friday es técnicamente a finales de este mes, son varias las tiendas que ya han comenzado con sus ofertas. Samsung tiene activas sus Black Weeks con descuentos muy interesantes, no solo en móviles o table...",
+    "date": "2026-11-04T14:15:29",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/samsung-no-espera-al-black-friday-galaxy-s26-ultra-422-55-euros-ofertas-teles-tablets-electrodomesticos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/barcelona-ha-conseguido-bajar-alquileres-ley-vivienda-problema-que-esta-pasando-pisos-disponibles",
+    "title": "Barcelona ha conseguido bajar los alquileres con la Ley de Vivienda. El problema es lo que está pasando con los pisos disponibles",
+    "snippet": "Un alquiler que baja de precio en Barcelona suena casi a fallo de mercado o a medir haciendo trampas. Pero es lo que sostiene la Generalitat. Según los datos de fianzas del Incasòl, la renta media de los contratos nuevos...",
+    "date": "2026-11-04T14:01:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/barcelona-ha-conseguido-bajar-alquileres-ley-vivienda-problema-que-esta-pasando-pisos-disponibles",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464511",
+    "title": "Irán habría eximido a buques de India, China, Irak y Qatar de restricciones de paso impuestas en estrecho de Ormuz",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Irán ha eximido a los buques de India, China, Irak y Qatar de las restricciones\nLa entrada Irán habría eximido a buques de India, China, Irak y Qatar de rest...",
+    "date": "2026-11-04T14:00:51",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/iran-habria-eximido-a-buques-de-india-china-irak-y-qatar-de-restricciones-de-paso-impuestas-en-estrecho-de-ormuz/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/despues-congeladores-ultimo-objetivo-ciberataques-francia-bancos-sangre",
+    "title": "Después de los supermercados, el último objetivo de los ciberataques en Francia son los bancos de sangre",
+    "snippet": "Hace unos días hablábamos de que, supuestamente con ayuda de la IA, alguien había atacado los congeladores y cámaras frigoríficas de varios supermercados. Aparte del daño económico y material, ele comentario pivotaba sob...",
+    "date": "2026-11-04T13:41:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/despues-congeladores-ultimo-objetivo-ciberataques-francia-bancos-sangre",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464489",
+    "title": "Exportaciones de petróleo de Venezuela se mantienen estables ante altas tarifas de flete",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Las exportaciones de petróleo de Venezuela se mantuvieron estables en octubre, con un promedio de\nLa entrada Exportaciones de petróleo de Venezuela se mantie...",
+    "date": "2026-11-04T13:30:30",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/exportaciones-de-petroleo-de-venezuela-se-mantienen-estables-ante-altas-tarifas-de-flete/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mis-amigos-tienen-lampara-muy-parecida-a-esta-govee-ocupa-muy-poco-espacio-ideal-para-crear-ambiente-navideno",
+    "title": "Mis amigos tienen una lámpara muy parecida a esta de Govee: ocupa muy poco espacio y es ideal para crear ambiente Navideño",
+    "snippet": "Hace ya un tiempo vi que unos amigos tenían una lámpara similar a la Govee Floor Lamp Basic. Era un poco reticente a este tipo de lámparas por lo estrechas que son, pero lo cierto es que daba muchísima iluminación. La de...",
+    "date": "2026-11-04T13:30:16",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mis-amigos-tienen-lampara-muy-parecida-a-esta-govee-ocupa-muy-poco-espacio-ideal-para-crear-ambiente-navideno",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/mapaches-se-han-convertido-plaga-imparable-alemania-ahora-alguien-ha-tenido-idea-comerselos",
+    "title": "Hay tantos mapaches sueltos por Alemania que alguien ha tenido una idea radical: empezar a comérselos",
+    "snippet": "En 1934, en los bosques que rodean el lago Edersee, alguien soltó dos parejas de mapaches. No eran buenos tiempos para Alemania, pero mejorar la 'oferta' de los cotos del país, parecía una buena idea.\n\nSpoiler: no lo era...",
+    "date": "2026-11-04T13:30:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/mapaches-se-han-convertido-plaga-imparable-alemania-ahora-alguien-ha-tenido-idea-comerselos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/este-monitor-televisor-que-monitor-inteligente-puedes-trasladar-habitaciones",
+    "title": "Este monitor es más televisor que monitor: es inteligente y lo puedes trasladar entre habitaciones",
+    "snippet": "El Corte Inglés está celebrando su Adelántate al Black Friday, una campaña centrada en este evento en la que podemos encontrar muchísimas ofertas en todo tipo de dispositivos. Una de las más atractivas ha caído en el LG ...",
+    "date": "2026-11-04T13:03:07",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/este-monitor-televisor-que-monitor-inteligente-puedes-trasladar-habitaciones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464483",
+    "title": "Crucero residencial abandona Camboya tras desembarcar más de 200 pasajeros por problemas operacionales",
+    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Tras desembarcar a más de 200 pasajeros que habían pagado decenas de miles de dólares\nLa entrada Crucero residencial abandona Camboya tras desembarcar más de...",
+    "date": "2026-11-04T13:00:23",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/crucero-residencial-abandona-camboya-tras-desembarcar-mas-de-200-pasajeros/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/pueden-experimentar-ansiedad-profunda-sensacion-abandono-espana-hay-tanatorios-que-abren-duelo-a-mascotas",
+    "title": "En España ya hay tanatorios que permiten a las mascotas despedirse de sus dueños muertos",
+    "snippet": "Compartimos con ellas nuestro día a día, las alegrías y penas, incluso (cada vez más) nuestras vacaciones y grandes celebraciones, exactamente igual que si se tratara de un miembro más de la familia, así que… ¿Por qué no...",
+    "date": "2026-11-04T13:00:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/pueden-experimentar-ansiedad-profunda-sensacion-abandono-espana-hay-tanatorios-que-abren-duelo-a-mascotas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/5175272",
+    "title": "So You Bought an iPhone 18 Pro. Do You Still Need a Real Camera?",
+    "snippet": "Apple’s phone takes beautiful photos, but is it as good as using a Fujifilm X-M5?...",
+    "date": "2026-11-04T13:00:00",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/so-you-bought-an-iphone-18-pro-do-you-still-need-a-real-camera/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mediamarkt-tiene-oferta-solo-hoy-este-aspirador-dyson-no-tiene-cables-incorpora-pantalla-cuenta-tecnologia-laser",
+    "title": "MediaMarkt tiene de oferta (solo hoy) este aspirador Dyson: no tiene cables, incorpora pantalla y cuenta con tecnología láser",
+    "snippet": "MediaMarkt ha lanzado un enorme surtido de ofertas durante su campaña Semanas Black, pero también ha dejado un buen hueco para aquellos chollos más limitados en el tiempo. En su sección de Ofertas del Día ahora podemos e...",
+    "date": "2026-11-04T12:31:51",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mediamarkt-tiene-oferta-solo-hoy-este-aspirador-dyson-no-tiene-cables-incorpora-pantalla-cuenta-tecnologia-laser",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/robotica-e-ia/eeuu-tuvo-idea-hace-20-anos-para-aniquilar-a-mosquitos-china-acaba-convertir-realidad-torreta-laser-ia",
+    "title": "EEUU tuvo una idea hace 20 años para matar a los mosquitos. China la acaba de hacer realidad con una torreta láser automática para pulverizarlos",
+    "snippet": "Hace casi dos décadas, un grupo de ingenieros estadounidenses tuvo una idea que parecía sacada de la ciencia ficción: construir un sistema capaz de identificar mosquitos en pleno vuelo y derribarlos con disparos láser. E...",
+    "date": "2026-11-04T12:31:51",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/robotica-e-ia/eeuu-tuvo-idea-hace-20-anos-para-aniquilar-a-mosquitos-china-acaba-convertir-realidad-torreta-laser-ia",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464381",
+    "title": "Canadá: Arcadis y Egis son designados por DP World para desarrollar nueva terminal en Puerto de Montreal",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Arcadis y Egis, socios de una empresa conjunta, fueron designados por DP World para desempeñarse como asesores\nLa entrada Canadá: Arcadis y Egis son designados por DP World ...",
+    "date": "2026-11-04T12:30:17",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/canada-arcadis-y-egis-son-designados-por-dp-world-para-desarrollar-nueva-terminal-en-puerto-de-montreal/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464475",
+    "title": "Estudiantes de Colchane conocen Puerto de Iquique y relevancia logística de su comuna",
+    "snippet": "Por PortalPortuario Social Con la finalidad de estrechar vínculos con la comunidad formativa regional y profundizar el conocimiento sobre la\nLa entrada Estudiantes de Colchane conocen Puerto de Iquique y relevancia logís...",
+    "date": "2026-11-04T12:23:46",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/estudiantes-de-colchane-conocen-puerto-de-iquique-y-relevancia-logistica-de-su-comuna/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/439-a-299-euros-mediamarkt-liquida-esta-cafetera-superautomatica-philips-pantalla-tactil-vaporizador-molinillo",
+    "title": "De 439 a 299 euros: MediaMarkt liquida esta cafetera superautomática Philips con pantalla táctil, vaporizador y molinillo",
+    "snippet": "Disfrutar del sabor del café recién molido en casa sin la lentitud de una cafetera manual ni los residuos de las cápsulas es una comodidad al alcance de cada vez más presupuestos. MediaMarkt, ahora, está liquidando esta ...",
+    "date": "2026-11-04T12:01:58",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/439-a-299-euros-mediamarkt-liquida-esta-cafetera-superautomatica-philips-pantalla-tactil-vaporizador-molinillo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/streaming/todavia-hoy-me-arrepiento-spielberg-se-lamenta-impacto-causado-esta-obra-maestra-que-puedes-recuperar-streaming",
+    "title": "\"Todavía hoy me arrepiento\": Spielberg aún se lamenta del impacto causado por esta obra maestra que puedes recuperar en streaming",
+    "snippet": "En 2022, en el programa ‘Desert Island Discs’ de BBC Radio 4: Spielberg confesaba que todavía hoy lamenta la matanza de escualos que siguió a la publicación del libro de Peter Benchley y de su popularísima adaptación 'Ti...",
+    "date": "2026-11-04T12:01:57",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/streaming/todavia-hoy-me-arrepiento-spielberg-se-lamenta-impacto-causado-esta-obra-maestra-que-puedes-recuperar-streaming",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=464247",
+    "title": "Australia es pionera al suministrar amoníaco verde a buque granelero en Puerto de Port Hedland",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Por primera vez en Australia, se ha transferido amoníaco verde a un buque granelero propulsado por\nLa entrada Australia es pionera al suministrar amoníaco verde a buque gran...",
+    "date": "2026-11-04T12:00:16",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/australia-es-pionera-al-suministrar-amoniaco-verde-a-buque-granelero-en-puerto-de-port-hedland/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/noroeste-espana-europa-nacimientos-fertilidad-debajo-1-hijo-mujer",
+    "title": "La \"zona cero\" de la demografía en Europa: entre Ourense y Zamora la fertilidad está por debajo de 1 hijo por mujer",
+    "snippet": "¿Se está quedando España sin hijos? En ‘Hijos de los hombres’, la obra maestra de Alfonso Cuarón, la humanidad lleva 18 años sin un solo nacimiento y la historia transcurre en 2027. Faltan dos meses para ese vaticinio, y...",
+    "date": "2026-11-04T12:00:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/noroeste-espana-europa-nacimientos-fertilidad-debajo-1-hijo-mujer",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://rpp.pe/1715853",
+    "title": "Precio del dólar Perú y tipo de cambio hoy 04 de noviembre del 2026",
+    "snippet": "En Perú, el tipo de cambio para hoy miércoles 04 de noviembre es de  S/3.46 según el Banco Central de Reserva Del Perú....",
+    "date": "2026-11-04T11:05:39",
+    "source": "RPP ECON",
+    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-04-de-noviembre-del-2026-noticia-1715853",
+    "category": "TRIBUTARIO"
+  },
+  {
     "id": "https://www.xataka.com/magnet/1856-estudiante-18-anos-intento-curar-malaria-le-salio-pegote-negro-que-acabo-tinendo-europa-violeta",
     "title": "En 1856, un estudiante de 18 años intentó curar la malaria. Le salió un pegote negro que acabó tiñendo Europa de violeta",
     "snippet": "La historia comienza en el año 1856, momento en que un estudiante de química de apenas 18 años se encierra en el laboratorio que había improvisado en su casa de Londres con una misión: fabricar un medicamento contra la m...",
@@ -997,356 +1348,5 @@
     "source": "XATAKA",
     "url": "https://www.xataka.com/streaming/prime-video-sigue-siendo-negocio-redondo-para-amazon-previsiones-ganancias-decenas-miles-millones-dolares",
     "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#1",
-    "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-    "snippet": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo....",
-    "date": "2026-11-03T11:10:37",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1715694",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 03 de noviembre del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy martes 03 de noviembre es de  S/3.46 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-11-03T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-03-de-noviembre-del-2026-noticia-1715694",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464150",
-    "title": "Compañía Portuaria de Bristol nombra a Justin Shirtcliff como su nuevo capitán de puerto",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Compañía Portuaria de Bristol (Reino Unido) nombró a Justin Shirtcliff como su nuevo capitán de\nLa entrada Compañía Portuaria de Bristol nombra a Justin Shirtcliff como s...",
-    "date": "2026-11-03T10:00:30",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/compania-portuaria-de-bristol-nombra-a-justin-shirtcliff-como-su-nuevo-capitan-de-puerto/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464090",
-    "title": "Escocia: Puerto de Greenock recibe primera recalada de servicio de BG Freight Line a Rotterdam",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El primer buque que opera en un nuevo servicio de transporte marítimo semanal entre Greenock y\nLa entrada Escocia: Puerto de Greenock recibe primera recalada de servicio de ...",
-    "date": "2026-11-03T09:00:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/escocia-puerto-de-greenock-recibe-primera-recalada-de-servicio-de-bg-freight-line-a-rotterdam/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464061",
-    "title": "OOCL anuncia nuevo servicio entre China e Indonesia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Orient Overseas Container Line (OOCL) anunció el lanzamiento del nuevo servicio China-Indonesia (CIS4), que -según la\nLa entrada OOCL anuncia nuevo servicio entre China e In...",
-    "date": "2026-11-03T08:00:31",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/oocl-anuncia-nuevo-servicio-entre-china-e-indonesia/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/ikea-tiene-solucion-disponible-dos-colores-para-usar-portatil-sofa-cama-pie",
-    "title": "Ikea tiene la solución (disponible en dos colores) para usar el portátil en el sofá, la cama y hasta de pie",
-    "snippet": "Si teletrabajamos y nos gustar ir moviéndonos por casa con el portátil, entonces nada como tener varias mesas y espacios definidos donde podamos ir colocándolo sobre la marcha. Para que sólo tengamos que abrir la tapa de...",
-    "date": "2026-11-03T07:17:29",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/ikea-tiene-solucion-disponible-dos-colores-para-usar-portatil-sofa-cama-pie",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-presidenta-dara-inicio-a-las-obras-y-modernizacion-del-proyecto-torre-trecca-essalud-1098338.aspx",
-    "title": "Presidenta dará inicio a las obras y modernización del proyecto Torre Trecca de EsSalud",
-    "snippet": "La presidenta de la república, Keiko Fujimori liderará hoy el acto de inicio de las obras y la modernización del proyecto Torre Trecca de EsSalud, que contempla una inversión superior a los S/ 486 millones para recuperar...",
-    "date": "2026-11-03T05:01:15",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-presidenta-dara-inicio-a-las-obras-y-modernizacion-del-proyecto-torre-trecca-essalud-1098338.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464172",
-    "title": "Exportaciones mensuales de Corea del Sur alcanzan USD 115.300 millones en octubre",
-    "snippet": "Por Redacción PortalPortuario / Agencia Yonhap @PortalPortuario Las exportaciones de Corea del Sur aumentaron 93,7% hasta alcanzar la cifra récord\nLa entrada Exportaciones mensuales de Corea del Sur alcanzan USD 115.300 ...",
-    "date": "2026-11-03T04:00:52",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/exportaciones-mensuales-de-corea-del-sur-alcanzan-usd-115-300-millones-en-octubre/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-ucrania-acusa-a-rusia-frustrar-las-esperanzas-paz-tras-ataque-dejo-26-muertos-1098344.aspx",
-    "title": "Ucrania acusa a Rusia de frustrar las esperanzas de paz tras ataque que dejó 26 muertos",
-    "snippet": "Ucrania afirmó el lunes que varios ataques rusos contra una escuela donde se distribuía ayuda humanitaria causaron al menos 26 muertos y acabaron con las frágiles esperanzas de lograr \"avances hacia la paz\", después de q...",
-    "date": "2026-11-03T03:08:57",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-ucrania-acusa-a-rusia-frustrar-las-esperanzas-paz-tras-ataque-dejo-26-muertos-1098344.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-peru-compras-aprueba-listado-268-bienes-y-servicios-para-homologacion-2027-1098337.aspx",
-    "title": "Perú Compras aprueba listado de 268 bienes y servicios para homologación en 2027",
-    "snippet": "La Central de Compras Públicas (Perú Compras) aprobó el listado de 268 objetos de contratación, entre bienes y servicios, que tienen potencial para ser homologados por los ministerios durante el 2027, con el objetivo de ...",
-    "date": "2026-11-03T02:06:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-peru-compras-aprueba-listado-268-bienes-y-servicios-para-homologacion-2027-1098337.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464204",
-    "title": "Comité de Ministros mantiene RCA favorable para proyecto Puerto Exterior de San Antonio",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Comité de Ministros, encargado de resolver los recursos de reclamación interpuestos en contra de las\nLa entrada Comité de Ministros mantiene RCA favorable para proyecto P...",
-    "date": "2026-11-03T01:32:10",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/comite-de-ministros-mantiene-rca-favorable-para-proyecto-puerto-exterior-de-san-antonio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-artista-rember-yahuarcani-lleva-los-mitos-de-amazonia-a-realidad-virtual-1098335.aspx",
-    "title": "Artista Rember Yahuarcani lleva los mitos de la Amazonía a la realidad virtual",
-    "snippet": "¿Cómo sería recorrer el mito que explica el origen del mundo para un pueblo amazónico? ¿Qué imágenes aparecerían? ¿Cuáles serían nuestras sensaciones?...",
-    "date": "2026-11-03T01:31:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-artista-rember-yahuarcani-lleva-los-mitos-de-amazonia-a-realidad-virtual-1098335.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464060",
-    "title": "DP World fortalece corredor China-África con nuevo servicio marítimo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La división Shipping Solutions AMEA de DP World está ampliando su red de transporte marítimo entre\nLa entrada DP World fortalece corredor China-África con nuevo servicio mar...",
-    "date": "2026-11-03T01:30:46",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/dp-world-fortalece-corredor-china-africa-con-nuevo-servicio-maritimo/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/",
-    "title": "This Chinese Android phone brand has launched a Harry Potter collab",
-    "snippet": "Everything about this latest collectible Android phone is designed to evoke the popular franchise, from its magical packaging to its themed accessories....",
-    "date": "2026-11-03T01:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3184542",
-    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-    "snippet": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory s...",
-    "date": "2026-11-03T01:12:55",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-susana-baca-le-cantara-a-leon-xiv-no-quiero-que-papa-llore-1098332.aspx",
-    "title": "Susana Baca le cantará a León XIV: \"No quiero que el papa llore\"",
-    "snippet": "La cantante y tres veces ganadora de los Premios Grammy Latinos, Susana Baca, reveló esta noche que prepara \"una sorpresa\" para cuando el papa León XIV llegue a la ciudad de Lima como parte de su viaje apostólico y esper...",
-    "date": "2026-11-03T01:03:18",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-susana-baca-le-cantara-a-leon-xiv-no-quiero-que-papa-llore-1098332.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-atu-transporte-publico-me-lleva-a-basilica-y-convento-santo-domingo-1098330.aspx",
-    "title": "ATU: ¿Qué transporte público me lleva a la Basílica y Convento de Santo Domingo?",
-    "snippet": "Debido a que este martes 3 de noviembre la Iglesia Católica celebra a San Martín de Porres, en conmemoración del aniversario de su fallecimiento ocurrido en 1639, el Ministerio de Transportes y Comunicaciones (MTC), a tr...",
-    "date": "2026-11-03T00:50:17",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-atu-transporte-publico-me-lleva-a-basilica-y-convento-santo-domingo-1098330.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#0",
-    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "snippet": "The men and women who rummage through commercial bins to take clothes and other items....",
-    "date": "2026-11-03T00:41:36",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464024",
-    "title": "APM Terminals estrena nuevo servicio de transporte ferroviario entre Haparanda y Gotemburgo",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Una nueva conexión ferroviaria entre Haparanda y el Puerto de Gotemburgo, que inaugurará APM Terminals este\nLa entrada APM Terminals estrena nuevo servicio de transporte fer...",
-    "date": "2026-11-03T00:30:37",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/apm-terminals-estrena-nuevo-servicio-de-transporte-ferroviario-entre-haparanda-y-gotemburgo/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/",
-    "title": "Is it actually safe to charge your iPhone at airport USB ports?",
-    "snippet": "Using a random USB charger can be unsafe, even though the risk is minimal. Thankfully, you have ways to protect your devices....",
-    "date": "2026-11-03T00:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#0",
-    "title": "Apple unsure when more foldable iPhones will be available after selling out",
-    "snippet": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile....",
-    "date": "2026-11-03T00:29:00",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-minedu-escolares-amazonas-libertad-y-tumbes-ganan-primeros-puestos-eureka-2026-1098328.aspx",
-    "title": "Minedu: escolares de Amazonas, La Libertad y Tumbes ganan primeros puestos de Eureka 2026",
-    "snippet": "La 36ª. Feria Escolar Nacional de Ciencia y Tecnología Eureka 2026 organizada por el Ministerio de Educación (Minedu) culminó el sábado 31 de octubre en Chiclayo con la premiación de los mejores proyectos, tras dos jorna...",
-    "date": "2026-11-03T00:12:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-minedu-escolares-amazonas-libertad-y-tumbes-ganan-primeros-puestos-eureka-2026-1098328.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464112",
-    "title": "EE. UU.: Puerto de Hueneme avanza en iniciativas para alcanzar cero emisiones en 2030",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Hueneme avanzó en las iniciativas que está impulsando para alcanzar su objetivo de\nLa entrada EE. UU.: Puerto de Hueneme avanza en iniciativas para alcanzar cer...",
-    "date": "2026-11-03T00:00:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ee-uu-puerto-de-hueneme-avanza-en-iniciativas-para-alcanzar-cero-emisiones-en-2030/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2300377/some-iphone-calls-decline-option-reason-why/",
-    "title": "The reason why some iPhone calls don't have a decline option, and others do",
-    "snippet": "Sometimes your iPhone lets you decline a call and sometimes it doesn't. Here's why that happens, and a few easy ways to handle the calls you'd rather skip....",
-    "date": "2026-11-03T00:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2300377/some-iphone-calls-decline-option-reason-why/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-concurso-periodistico-sobre-fenomeno-nino-convocatoria-cierra-15-noviembre-1095795.aspx",
-    "title": "Concurso periodístico sobre fenómeno El Niño: convocatoria cierra el 15 de noviembre",
-    "snippet": "A fin de difundir la importancia de adoptar hábitos saludables para prevenir las enfermedades asociadas al fenómeno El Niño (FEN), el Ministerio de Salud (Minsa) ha organizado el Primer Concurso Nacional de Crónicas, dir...",
-    "date": "2026-11-02T23:52:44",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-concurso-periodistico-sobre-fenomeno-nino-convocatoria-cierra-15-noviembre-1095795.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-congreso-presupuesto-aprueba-leyes-endeudamiento-y-equilibrio-financiero-2027-1098325.aspx",
-    "title": "Congreso: Presupuesto aprueba leyes de Endeudamiento y Equilibrio Financiero 2027",
-    "snippet": "La Comisión Bicameral de Presupuesto y de la Cuenta General de la República aprobó por mayoría los dictámenes de las leyes de Endeudamiento y de Equilibrio Financiero del Sector Público para el Año Fiscal 2027, dos de la...",
-    "date": "2026-11-02T23:35:27",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-congreso-presupuesto-aprueba-leyes-endeudamiento-y-equilibrio-financiero-2027-1098325.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3184343",
-    "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-    "snippet": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year....",
-    "date": "2026-11-02T23:25:32",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1024915",
-    "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
-    "snippet": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as pos...",
-    "date": "2026-11-02T22:56:11",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/criptomonedas/binance-sufrio-mayor-robo-criptomonedas-historia-verdadero-examen-llego-despues-confianza",
-    "title": "Binance sufrió el mayor robo de criptomonedas de la historia, pero el verdadero examen llegó después: la confianza",
-    "snippet": "No hace falta operar con criptomonedas para haber oído hablar de Binance. Su nombre se ha convertido en una de las grandes referencias de un mercado que ha crecido hasta atraer a millones de personas en todo el mundo. Ha...",
-    "date": "2026-11-02T22:55:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/criptomonedas/binance-sufrio-mayor-robo-criptomonedas-historia-verdadero-examen-llego-despues-confianza",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-personal-de-marina-guerra-realiza-trabajos-limpieza-lluvias-tumbes-1098319.aspx",
-    "title": "Personal de la Marina de Guerra realiza trabajos de limpieza por lluvias en Tumbes",
-    "snippet": "La Marina de Guerra del Perú, a través del Destacamento de Infantería de Marina “El Salto”, brindó apoyo a las familias de Puerto Pizarro, en Tumbes, que resultaron afectadas por las fuertes lluvias en esta parte del paí...",
-    "date": "2026-11-02T22:53:45",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-personal-de-marina-guerra-realiza-trabajos-limpieza-lluvias-tumbes-1098319.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-iiap-nueva-etapa-gestion-amplia-agenda-cientifica-productiva-y-ambiental-1098320.aspx",
-    "title": "IIAP: nueva etapa de gestión con amplia agenda científica, productiva y ambiental",
-    "snippet": "La transferencia gratuita de alevinos de peces amazónicos, la recuperación de áreas afectadas por minería ilegal e incendios forestales y el desarrollo de tecnologías para nuevos emprendimientos, serán prioridad del Inst...",
-    "date": "2026-11-02T22:50:38",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-iiap-nueva-etapa-gestion-amplia-agenda-cientifica-productiva-y-ambiental-1098320.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/5174041",
-    "title": "Can’t Find the Siri Remote? Your iPhone Can Now Lead You Right to It",
-    "snippet": "If you have a remote that’s less than five years old, you should be able to hunt it down with Find My tracking....",
-    "date": "2026-11-02T22:45:14",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/find-siri-remote-apple-tv-find-my/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1024748",
-    "title": "Apple set an iPhone sales record even without a new standard iPhone",
-    "snippet": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iP...",
-    "date": "2026-11-02T22:02:36",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cts-multas-incumplimiento-pueden-llegar-a-s-143660-1098311.aspx",
-    "title": "CTS: multas por incumplimiento pueden llegar a S/ 143,660",
-    "snippet": "Las empresas del sector privado que incumplan total o parcialmente con el depósito de la Compensación por Tiempo de Servicios (CTS), cuyo plazo vence el próximo 16 de noviembre, pueden recibir multas de hasta 143,660 sol...",
-    "date": "2026-11-02T22:00:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cts-multas-incumplimiento-pueden-llegar-a-s-143660-1098311.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/5173531",
-    "title": "GTA 6 Sneakers: Rockstar Games, Nike and Travis Scott Reportedly Team Up",
-    "snippet": "You could see these shoes the same day Rockstar releases the long-awaited game....",
-    "date": "2026-11-02T21:50:31",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/gaming/rockstar-games-nike-travis-scott-grand-theft-auto-6-sneakers/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=103166",
-    "title": "Softys Perú recibe por tercer año consecutivo el Sello Empresa Hídricamente Responsable 2026",
-    "snippet": "Softys Perú recibió por tercer año consecutivo el Sello Empresa Hídricamente Responsable (EHR), que otorga Aquafondo, el Fondo de Agua para Lima y Callao. La distinción reconoce el trabajo de “Softys Contigo: Más Cuidado...",
-    "date": "2026-11-02T21:46:39",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/softys-peru-recibe-por-tercer-ano-consecutivo-el-sello-empresa-hidricamente-responsable-2026-ccl-asociados/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-comision-fen-mtc-despliega-maquinaria-para-recuperar-transito-entre-huanuco-y-ucayali-1098306.aspx",
-    "title": "Comisión FEN: MTC despliega maquinaria para recuperar tránsito entre Huánuco y Ucayali",
-    "snippet": "El Ministerio de Transportes y Comunicaciones (MTC), a través de Provías Nacional, trabaja en dos frentes con nueve máquinas para restablecer el tránsito entre Huánuco y Ucayali, interrumpido por un deslizamiento que afe...",
-    "date": "2026-11-02T21:28:22",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-comision-fen-mtc-despliega-maquinaria-para-recuperar-transito-entre-huanuco-y-ucayali-1098306.aspx",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-sutran-realizara-7-mil-operativos-contra-transporte-interprovincial-informal-1098303.aspx",
-    "title": "Sutran realizará 7 mil operativos contra transporte interprovincial informal",
-    "snippet": "Aproximadamente 7 mil operativos en puntos permanentes, móviles y paraderos informales del país, proyecta realizar hasta fin de año la Superintendencia de Transporte Terrestre de Personas, Carga y Mercancías (Sutran), a ...",
-    "date": "2026-11-02T21:22:11",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-sutran-realizara-7-mil-operativos-contra-transporte-interprovincial-informal-1098303.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=464129",
-    "title": "México: Puerto Progreso anota aumento en movimiento de carga entre enero y septiembre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Puerto Progreso movilizó 6 millones 119 mil 711 toneladas entre enero y septiembre de 2026, cifra\nLa entrada México: Puerto Progreso anota aumento en movimiento de carga ent...",
-    "date": "2026-11-02T21:00:10",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/mexico-puerto-progreso-anota-aumento-en-movimiento-de-carga-entre-enero-y-septiembre/",
-    "category": "LOGÍSTICA"
   }
 ]
