@@ -1,5 +1,221 @@
 [
   {
+    "id": "https://www.engadget.com/2309629/samsung-one-ui-remove-all-apps-button-get-back/",
+    "title": "Samsung One UI removed the all apps button, but you can easily get it back",
+    "snippet": "Miss the handy all apps button that used to be on Samsung's One UI home screen? Fret not; it's a single toggle away....",
+    "date": "2026-11-08T21:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2309629/samsung-one-ui-remove-all-apps-button-get-back/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/",
+    "title": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts",
+    "snippet": "Reports by The New York Times and the Financial Times linked the CEO to a woman suspected to be a spy....",
+    "date": "2026-11-08T21:17:45",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-callao-presentan-mural-mas-grande-del-peru-homenaje-al-papa-leon-xiv-1099113.aspx",
+    "title": "Callao: presentan el mural más grande del Perú en homenaje al papa León XIV",
+    "snippet": "La Municipalidad Provincial del Callao presentó el mural más grande del Perú dedicado al papa León XIV, una obra de 167 metros de extensión que rinde homenaje al sumo pontífice y destaca la historia, cultura e identidad ...",
+    "date": "2026-11-08T21:12:41",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-callao-presentan-mural-mas-grande-del-peru-homenaje-al-papa-leon-xiv-1099113.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186128",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "snippet": "In a memo to the company, Huang admitted that he had an affair....",
+    "date": "2026-11-08T21:00:11",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1029557",
+    "title": "Epic Games Launcher is coming to SteamOS",
+    "snippet": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported...",
+    "date": "2026-11-08T20:52:05",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-llega-a-argentina-el-segundo-destino-su-gira-sudamericana-1099117.aspx",
+    "title": "Papa León XIV llega a Argentina en el segundo destino de su gira sudamericana",
+    "snippet": "El papa León XIV arribó el domingo a Argentina para iniciar la primera visita de un pontífice en 39 años a este país, luego de su paso por Uruguay y previo a su viaje a Perú, último punto de su gira sudamericana....",
+    "date": "2026-11-08T20:34:27",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-llega-a-argentina-el-segundo-destino-su-gira-sudamericana-1099117.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/valencia-sabia-2003-lugar-que-se-inundaria-que-humanidad-sigue-viviendo-zonas-catastroficas",
+    "title": "Valencia sabía desde 2003 el lugar en el que se inundaría: por qué la humanidad sigue viviendo en zonas catastróficas",
+    "snippet": "Hace apenas unas semanas, la dana Adam volvió a convertir en ríos las calles de Oliva, Pego o Els Poblets: helicópteros rescatando a vecinos de los tejados, más de 600 litros por metro cuadrado en 48 horas y, al final, a...",
+    "date": "2026-11-08T20:31:06",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/valencia-sabia-2003-lugar-que-se-inundaria-que-humanidad-sigue-viviendo-zonas-catastroficas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1029562",
+    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "snippet": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c...",
+    "date": "2026-11-08T20:22:39",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-esta-construyendo-grua-capaz-levantar-14-000-toneladas-necesita-dos-unidades-trabajando-juntas",
+    "title": "China está construyendo una grúa capaz de levantar 14.000 toneladas. Necesita dos unidades trabajando juntas",
+    "snippet": "China lleva décadas demostrando hasta dónde puede llegar la ingeniería cuando se propone construir a una escala extraordinaria. Ahí tenemos la presa de las Tres Gargantas, el enlace de 55 kilómetros que conecta Hong Kong...",
+    "date": "2026-11-08T20:01:07",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-esta-construyendo-grua-capaz-levantar-14-000-toneladas-necesita-dos-unidades-trabajando-juntas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=465316",
+    "title": "Evergreen vuelve a Canal de Suez con tránsito de portacontenedores",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Evergreen retornó al Canal de Suez, tras completar el tránsito del portacontenedores Ever Eon por la\nLa entrada Evergreen vuelve a Canal de Suez con tránsito de portacontene...",
+    "date": "2026-11-08T20:00:56",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/evergreen-vuelve-a-canal-de-suez-con-transito-de-portacontenedores/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-fondos-locales-y-redes-inversion-se-vuelven-clave-para-startups-latinas-1099076.aspx",
+    "title": "Fondos locales y redes de inversión se vuelven clave para startups latinas",
+    "snippet": "Expandirse a otro país implica mucho más que replicar un modelo de negocio exitoso. Las startups deben validar nuevamente a sus clientes, adaptar sus estrategias comerciales y prepararse para ciclos de venta que pueden s...",
+    "date": "2026-11-08T20:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-fondos-locales-y-redes-inversion-se-vuelven-clave-para-startups-latinas-1099076.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
+    "title": "Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU",
+    "snippet": "With the announcement of its M6, Apple is stepping into a new generation of its processors. Here's why it still can't compete with NVIDIA GPUs....",
+    "date": "2026-11-08T19:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
+    "title": "Suno AI music generator sued again for copyright infringement",
+    "snippet": "Groups that own the music rights to Elvis Presley and Eminem's tracks filed the latest lawsuits....",
+    "date": "2026-11-08T19:42:14",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-vota-hasta-este-9-noviembre-nominaciones-del-peru-los-world-travel-awards-2026-1099112.aspx",
+    "title": "Vota hasta este 9 de noviembre por nominaciones del Perú en los World Travel Awards 2026",
+    "snippet": "El Perú busca mantener su liderazgo turístico a nivel mundial. Después de obtener seis galardones en la edición sudamericana de los World Travel Awards 2026, el país cuenta con nominaciones en la etapa global de estos pr...",
+    "date": "2026-11-08T19:39:50",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-vota-hasta-este-9-noviembre-nominaciones-del-peru-los-world-travel-awards-2026-1099112.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/ecologia-y-naturaleza/hace-110-anos-guanaco-se-extinguio-parte-argentina-viaje-3-200-kilometros-trajo-vuelta",
+    "title": "Hace 110 años, el guanaco se extinguió de una parte de Argentina. Un viaje de 3.200 kilómetros lo trajo de vuelta",
+    "snippet": "El Gran Chaco es, después de la Amazonia, el segundo bioma más extenso de toda América del Sur y se extiende por Argentina, Bolivia, Brasil y Paraguay. Estamos hablando de una vasta llanura, en buena parte semiárida y co...",
+    "date": "2026-11-08T19:31:07",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/hace-110-anos-guanaco-se-extinguio-parte-argentina-viaje-3-200-kilometros-trajo-vuelta",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2307850/you-can-have-a-playstation-arcade-machine-at-home-but-theres-a-huge-caveat/",
+    "title": "You can have a PlayStation arcade machine at home, but there's a huge caveat",
+    "snippet": "The $1,000-plus price is only part of the problem....",
+    "date": "2026-11-08T19:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2307850/you-can-have-a-playstation-arcade-machine-at-home-but-theres-a-huge-caveat/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/hoy-ikea-24-99-euros-solucion-5-1-para-tener-enchufes-esquinas-paredes-rincones-desaprovechados-casa",
+    "title": "Hoy en Ikea (por 24,99 euros) la solución 5 en 1 para tener enchufes en las esquinas de las paredes y los rincones desaprovechados de casa",
+    "snippet": "Con la cantidad de dispositivos electrónicos que usamos en nuestro día a día, tanto los que van conectados siempre a la corriente eléctrica como los que hay que recargar constantemente, lo ideal es contar con cuantos más...",
+    "date": "2026-11-08T19:15:06",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/hoy-ikea-24-99-euros-solucion-5-1-para-tener-enchufes-esquinas-paredes-rincones-desaprovechados-casa",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/",
+    "title": "What does the Xbox Series X have that the Playstation 5 Pro doesn't?",
+    "snippet": "While the PlayStation 5 Pro is the most powerful games console, the Xbox Series X offers features like Smart Delivery and Quick Resume....",
+    "date": "2026-11-08T19:15:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/medicina-y-salud/sabiamos-que-exceso-azucar-era-malo-para-engordar-ahora-tambien-puede-dar-demencia-muchos-anos-te-des-cuenta",
+    "title": "Sabíamos que el exceso de azúcar era malo para engordar. Ahora también puede dar demencia muchos años antes de que te des cuenta",
+    "snippet": "En septiembre de 1953, el Reino Unido puso fin al racionamiento de azúcar instaurado durante la Segunda Guerra Mundial. De la noche a la mañana, el consumo medio diario de los británicos prácticamente se duplicó, pasando...",
+    "date": "2026-11-08T19:01:06",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/medicina-y-salud/sabiamos-que-exceso-azucar-era-malo-para-engordar-ahora-tambien-puede-dar-demencia-muchos-anos-te-des-cuenta",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2309256/underrated-playstation-app-features/",
+    "title": "5 underrated PlayStation App features",
+    "snippet": "The PlayStation App offers its users certain features that will make their lives easier, especially if they really love playing on their console....",
+    "date": "2026-11-08T19:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2309256/underrated-playstation-app-features/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/edificio-tamano-campo-futbol-llevaba-2-600-anos-oculto-delta-nilo-ha-encontrado-satelite",
+    "title": "Un edificio del tamaño de un campo de fútbol llevaba 2.600 años oculto en el delta del Nilo. Lo ha encontrado un satélite",
+    "snippet": "Pocas civilizaciones antiguas han sido tan estudiadas como Egipto y sin embargo, esta sigue sorprendiéndonos con hallazgos en forma de edificios enormes que, curiosamente, no son pirámides. Y ojo, no es porque haya pasad...",
+    "date": "2026-11-08T18:31:08",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/edificio-tamano-campo-futbol-llevaba-2-600-anos-oculto-delta-nilo-ha-encontrado-satelite",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-john-m-coetzee-mariano-melgar-y-yaravi-son-inseparables-1099104.aspx",
+    "title": "John M. Coetzee: “Mariano Melgar y el yaraví son inseparables”",
+    "snippet": "¿Qué une a un nobel sudafricano que se ha jubilado de la escritura de novelas con un poeta peruano fusilado hace más de doscientos años en nombre de la patria?...",
+    "date": "2026-11-08T18:16:23",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-john-m-coetzee-mariano-melgar-y-yaravi-son-inseparables-1099104.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/este-edificio-londres-parecia-normal-que-coches-aparcados-enfrente-empezaron-a-derretirse",
+    "title": "Nadie vio venir el problema del edificio Walkie-Talkie hasta que los coches aparcados enfrente empezaron a derretirse",
+    "snippet": "Corría el año 2013 cuando el propietario de un Jaguar se quejó de que este se había deformado después de mantenerlo aparcado en Eastcheap, cerca de Fenchurch Street, en Londres. Con el tiempo, otros conductores comenzaro...",
+    "date": "2026-11-08T18:01:07",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/este-edificio-londres-parecia-normal-que-coches-aparcados-enfrente-empezaron-a-derretirse",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2308391/using-laptop-lid-closed-pros-and-cons/",
+    "title": "The pros and cons of using your laptop with the lid closed",
+    "snippet": "Connecting your laptop to an external display and running it with the lid closed has some benefits and drawbacks....",
+    "date": "2026-11-08T17:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2308391/using-laptop-lid-closed-pros-and-cons/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-el-impacto-mundial-leon-xiv-esta-teniendo-es-gracias-a-que-aprendio-peru-1099101.aspx",
     "title": "“El impacto mundial que León XIV está teniendo es gracias a lo que aprendió en Perú”",
     "snippet": "La visita del Papa León XIV al Perú es una oportunidad valiosa de regresar al país todo aquello que aprendió como misionero y que ahora lo identifica a nivel mundial como Sumo Pontífice, destacó hoy uno de los periodista...",
@@ -202,6 +418,15 @@
     "title": "El Alpine A390 GT es toda una masterclass de cómo hacer un coche eléctrico deportivo y divertido cuando tienes que mover 2.200 kg",
     "snippet": "Empezaremos con emociones fuertes esta prueba: el Alpine A390 GT es uno de los coches eléctricos más interesantes que puedes comprar. Y, pese a ello, lo verás poquísimo por las calles.\nContaban hace unas semanas en la ve...",
     "date": "2026-11-08T11:31:05",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/alpine-a390-gt-analisis-review-caracteristicas-precio-especificaciones",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/alpine-a390-gt-analisis-review-caracteristicas-precio-especificaciones",
+    "title": "Una semana con el Alpine A390 GT me ha hecho cambiar de opinión: cuando un coche eléctrico es así de divertido, su autonomía me da lo mismo",
+    "snippet": "Empezaremos con emociones fuertes esta prueba: el Alpine A390 GT es uno de los coches eléctricos más interesantes que puedes comprar. Y, pese a ello, lo verás poquísimo por las calles.\nContaban hace unas semanas en la ve...",
+    "date": "2026-11-08T11:30:00",
     "source": "XATAKA",
     "url": "https://www.xataka.com/movilidad/alpine-a390-gt-analisis-review-caracteristicas-precio-especificaciones",
     "category": "TRIBUTARIO"
@@ -1123,230 +1348,5 @@
     "source": "PORTAL PORTUARIO",
     "url": "https://portalportuario.cl/pil-encarga-siete-nuevos-portacontenedores-de-1-400-teu-preparados-para-metanol/",
     "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://lacamara.pe/?p=102816",
-    "title": "Retiro de CTS: cinco claves financieras para administrar y rentabilizar tu ahorro",
-    "snippet": "Con la disposición que permite retirar hasta el 100 % de la Compensación por Tiempo de Servicios (CTS) hasta el 31 de diciembre de este año, administrar bien este fondo se ha convertido en un reto para las finanzas perso...",
-    "date": "2026-11-06T21:54:55",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/retiro-de-cts-cinco-claves-financieras-para-administrar-y-rentabilizar-tu-ahorro-segun-upn-asociado-ccl/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=103004",
-    "title": "¿Cómo pierde valor tu dinero? Cinco factores que afectan tus ahorros, según Mapfre Perú",
-    "snippet": "De acuerdo con las últimas cifras de la Superintendencia de Banca, Seguros y AFP (SBS), apenas el 13 % de los adultos en el Perú posee un nivel suficiente de educación financiera. Como consecuencia, persiste una percepci...",
-    "date": "2026-11-06T21:50:40",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/como-pierde-valor-tu-dinero-cinco-factores-que-afectan-tus-ahorros-segun-mapfre-peru-ccl-asociados/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1028640",
-    "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-    "snippet": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated f...",
-    "date": "2026-11-06T21:50:32",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o#0",
-    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "snippet": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver....",
-    "date": "2026-11-06T21:49:50",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3186020",
-    "title": "The Duo apps are coming, says Apple",
-    "snippet": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily....",
-    "date": "2026-11-06T21:38:05",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465218",
-    "title": "Brasil: Puerto de São Francisco do Sul suma inversiones por USD 101,4 millones en últimos cuatro años",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de São Francisco do Sul sumó un monto de USD 101,4 millones en inversiones\nLa entrada Brasil: Puerto de São Francisco do Sul suma inversiones por USD 101,4 millone...",
-    "date": "2026-11-06T21:30:43",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/brasil-puerto-de-sao-francisco-suma-inversiones-por-usd-1014-millones-en-ultimos-cuatro-anos/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-bosques-ante-nino-conservacion-y-restauracion-reducen-riesgo-climatico-la-amazonia-1098933.aspx",
-    "title": "Bosques ante El Niño: conservación y restauración reducen riesgo climático en la Amazonía",
-    "snippet": "Las lluvias intensas, las sequías y los incendios forestales son algunas de las amenazas que pueden intensificarse en distintos territorios ante fenómenos climáticos como El Niño....",
-    "date": "2026-11-06T21:13:35",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-bosques-ante-nino-conservacion-y-restauracion-reducen-riesgo-climatico-la-amazonia-1098933.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465205",
-    "title": "Sindicato N°2 de trabajadores de Puerto Caldera afirma que negociaciones continúan en marcha",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Sindicato N°2 de Trabajadores Portuarios de Caldera se refirió al conflicto laboral que afecta a\nLa entrada Sindicato N°2 de trabajadores de Puerto Caldera afirma que neg...",
-    "date": "2026-11-06T20:48:41",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/sindicato-n2-de-trabajadores-de-puerto-caldera-afirma-que-negociaciones-continuan-en-marcha/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-piden-usar-transporte-formal-a-viajeros-se-movilizaran-por-visita-del-papa-leon-xiv-1098923.aspx",
-    "title": "Piden usar transporte formal a viajeros que se movilizarán por la visita del papa León XIV",
-    "snippet": "La histórica visita que realizará el papa León XIV al Perú movilizará a millones de peruanos y extranjeros hacia los lugares donde el pontífice cumplirá actividades como Lima, Chiclayo, Santa Cruz, Cusco y Ucayali, por e...",
-    "date": "2026-11-06T20:36:25",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-piden-usar-transporte-formal-a-viajeros-se-movilizaran-por-visita-del-papa-leon-xiv-1098923.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/india-anuncia-planes-para-desarrollar-gpu-nacionales-24-meses-busca-dar-salida-comercial-a-sus-chips-risc-v",
-    "title": "India anuncia planes para desarrollar GPU nacionales en 24 meses mientras busca dar salida comercial a sus chips RISC-V",
-    "snippet": "India lleva años consolidando su posición en la industria tecnológica mundial, especialmente en el desarrollo de software y la prestación de servicios informáticos. Sin embargo, cuando miramos hacia la infraestructura qu...",
-    "date": "2026-11-06T20:31:05",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/india-anuncia-planes-para-desarrollar-gpu-nacionales-24-meses-busca-dar-salida-comercial-a-sus-chips-risc-v",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-optimizacion-del-tlc-china-permitira-impulsar-comercio-y-atraer-inversiones-1098924.aspx",
-    "title": "Optimización del TLC con China permitirá impulsar el comercio y atraer inversiones",
-    "snippet": "La actualización del Tratado de Libre Comercio (TLC) entre Perú y China permitirá fortalecer las relaciones comerciales, facilitar el intercambio de bienes y servicios y generar mejores condiciones para atraer inversione...",
-    "date": "2026-11-06T20:25:53",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-optimizacion-del-tlc-china-permitira-impulsar-comercio-y-atraer-inversiones-1098924.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/toyota-quiere-ir-alla-coches-respuesta-a-su-proxima-gran-apuesta-esta-sus-propias-fabricas",
-    "title": "Toyota quiere ir más allá de los coches. La respuesta a su próxima gran apuesta está en sus propias fábricas",
-    "snippet": "Toyota es uno de los grandes nombres de la industria del automóvil, pero su historia no se explica únicamente por los vehículos que fabrica. La compañía japonesa lleva décadas perfeccionando la manera de producirlos, con...",
-    "date": "2026-11-06T20:01:05",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/toyota-quiere-ir-alla-coches-respuesta-a-su-proxima-gran-apuesta-esta-sus-propias-fabricas",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.cnet.com/rss/news/5183456",
-    "title": "There’s a New Way to Shop With AI. Text Alexa",
-    "snippet": "Amazon’s bots are the latest AI agents trying to do your shopping for you. Should you let them?...",
-    "date": "2026-11-06T19:54:31",
-    "source": "CNET",
-    "url": "https://www.cnet.com/tech/services-and-software/amazon-alexa-text-to-shop-ai-feature/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1028846",
-    "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-    "snippet": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, includ...",
-    "date": "2026-11-06T19:47:02",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465193",
-    "title": "Terminal Pacífico Sur recibe distinciones por su trabajo en gestión preventiva",
-    "snippet": "Por PortalPortuario Social Dos distinciones en prevención obtuvo Terminal Pacífico Sur Valparaíso (TPS) en la premiación anual que otorga el\nLa entrada Terminal Pacífico Sur recibe distinciones por su trabajo en gestión ...",
-    "date": "2026-11-06T19:46:48",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/terminal-pacifico-sur-recibe-distinciones-por-su-trabajo-en-gestion-preventiva/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-agencia-andina-y-peruano-tendran-cobertura-especial-visita-al-peru-1098810.aspx",
-    "title": "Papa León XIV: Agencia Andina y El Peruano tendrán cobertura especial por visita al Perú",
-    "snippet": "La Agencia Andina y el Diario Oficial El Peruano se preparan para realizar una cobertura extraordinaria de la visita apostólica del papa León XIV al Perú, que se desarrollará desde el miércoles 11 hasta el lunes 16 de no...",
-    "date": "2026-11-06T19:41:30",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-agencia-andina-y-peruano-tendran-cobertura-especial-visita-al-peru-1098810.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/ola-kallenius-ceo-mercedes-no-existe-estrategia-que-puedas-dejar-a-china-lado",
-    "title": "Ola Källenius, CEO de Mercedes: “no existe una estrategia en la que puedas dejar a China de lado”",
-    "snippet": "Mercedes-Benz se está replanteando cómo hace negocios en China, pero desde luego no tiene intención de marcharse. Y es que la marca alemana afirma que presentará un plan más amplio para el país en 2027, todo mientras sus...",
-    "date": "2026-11-06T19:31:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/ola-kallenius-ceo-mercedes-no-existe-estrategia-que-puedas-dejar-a-china-lado",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1716355",
-    "title": "Confianza empresarial sobre la economía cae a nivel pesimista por primera vez desde el inicio del gobierno de Keiko Fujimori",
-    "snippet": "Según registra la encuesta del BCR, los empresarios empiezan a mostrar pesimismo sobre el desempeño de la economía en el corto plazo. También se revela un deterioro en la percepción sobre la demanda de sus productos....",
-    "date": "2026-11-06T19:15:51",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/confianza-empresarial-sobre-la-economia-cae-a-nivel-pesimista-por-primera-vez-desde-el-inicio-del-gobierno-de-keiko-fujimori-noticia-1716355",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/durante-anos-ueno-bank-parecio-conquistar-finanzas-paraguay-ahora-ha-reavivado-fantasma-corralito",
-    "title": "Durante años Ueno Bank pareció conquistar las finanzas de Paraguay. Ahora ha reavivado el fantasma del \"corralito\"",
-    "snippet": "Ueno Bank ha pasado de ser el sueño financiero más ambicioso de Paraguay a protagonizar su mayor pesadilla. La historia de semejante cambio puede resumirse en tres cifras. En un tiempo récord (de 2023 a 2026) la entidad ...",
-    "date": "2026-11-06T19:15:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/durante-anos-ueno-bank-parecio-conquistar-finanzas-paraguay-ahora-ha-reavivado-fantasma-corralito",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/perseverance-descubre-que-polvo-marciano-fino-peligroso-que-se-creia-se-adhiere-a-trajes-podria-atravesar-barrera-hematoencefalica",
-    "title": "Perseverance acaba de descubrir algo en el polvo de Marte que complica mucho nuestras posibilidades de colonizarlo",
-    "snippet": "Mucha gente no sabe que cuando el rover Perseverance partió rumbo a Marte, llevaba con él varios fragmentos de trajes de astronautas del tamaño de un pequeño sello cada uno. El objetivo era, una vez en el planeta rojo, e...",
-    "date": "2026-11-06T19:01:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/perseverance-descubre-que-polvo-marciano-fino-peligroso-que-se-creia-se-adhiere-a-trajes-podria-atravesar-barrera-hematoencefalica",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465166",
-    "title": "Ataques ucranianos complican esfuerzos de Rusia para mantener exportaciones de diésel a mercados internacionales",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Los nuevos ataques ucranianos contra refinerías rusas complican los esfuerzos de Moscú por resolver la\nLa entrada Ataques ucranianos complican esfuerzos de R...",
-    "date": "2026-11-06T19:00:23",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/ataques-ucranianos-complican-esfuerzos-de-rusia-para-mantener-exportaciones-de-diesel-a-mercados-internacionales/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/moviles/pantalla-recortes-iphone-20-aniversario-se-complica-porque-iphone-duo-muestra-precio-esconder-camara",
-    "title": "La pantalla sin recortes del iPhone 20 aniversario se complica porque el iPhone Duo muestra el precio de esconder la cámara",
-    "snippet": "Para celebrar el décimo aniversario del iPhone en 2017, Apple lanzó un iPhone X que eliminó el botón 'Home' y dio paso a la pantalla de esquina a esquina. para el vigésimo aniversario el año que viene, los rumores y filt...",
-    "date": "2026-11-06T18:31:07",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/moviles/pantalla-recortes-iphone-20-aniversario-se-complica-porque-iphone-duo-muestra-precio-esconder-camara",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465058",
-    "title": "Star Bulk completa programa de construcción de cinco buques Kamsarmax en China",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El mes de noviembre marca la fase final del programa de construcción Kamsarmax de cinco buques\nLa entrada Star Bulk completa programa de construcción de cinco buques Kamsarm...",
-    "date": "2026-11-06T18:30:45",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/star-bulk-completa-programa-de-construccion-de-cinco-buques-kamsarmax-en-china/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/primer-sistema-mesh-wifi-8-mundo-oficial-asus-presenta-zenwifi-bn12-ambiciones-gama-alta",
-    "title": "El primer sistema Mesh WiFi 8 del mundo ya es oficial: ASUS presenta el ZenWiFi BN12 con ambiciones de gama alta",
-    "snippet": "La evolución de las redes domésticas inalámbricas sigue su curso y, tras la masificación del WiFi 7, la industria ya empieza a tantear el siguiente estándar. Asus ha anunciado el lanzamiento del Asus ZenWiFi BN12, un sis...",
-    "date": "2026-11-06T18:15:06",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/primer-sistema-mesh-wifi-8-mundo-oficial-asus-presenta-zenwifi-bn12-ambiciones-gama-alta",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1028871",
-    "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-    "snippet": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, ...",
-    "date": "2026-11-06T18:10:10",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "category": "MERCADO"
   }
 ]
