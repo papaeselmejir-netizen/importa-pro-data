@@ -1,5 +1,437 @@
 [
   {
+    "id": "https://www.theverge.com/?p=1032505",
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do...",
+    "date": "2026-11-12T21:55:32",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-mypes-textiles-y-calzado-arequipa-se-preparan-para-conquistar-nuevos-mercados-externos-1099715.aspx",
+    "title": "Mypes textiles y calzado de Arequipa se preparan para conquistar nuevos mercados externos",
+    "snippet": "Empresas arequipeñas de los sectores textil camélidos y cuero y calzado cuentan ahora con mayores herramientas para proyectar sus negocios hacia mercados internacionales....",
+    "date": "2026-11-12T21:50:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-mypes-textiles-y-calzado-arequipa-se-preparan-para-conquistar-nuevos-mercados-externos-1099715.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1032434",
+    "title": "‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+    "snippet": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded q...",
+    "date": "2026-11-12T21:45:00",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-buque-paita-llega-a-piura-hospital-campana-y-equipos-para-enfrentar-nino-1099698.aspx",
+    "title": "Buque Paita llega a Piura con hospital de campaña y equipos para enfrentar El Niño",
+    "snippet": "El buque de la armada peruana (B.A.P.) Paita llegó a Piura con vehículos anfibios, un hospital de campaña y efectivos especializados en búsqueda y rescate urbano (USAR), para reforzar la capacidad de respuesta del Gobier...",
+    "date": "2026-11-12T21:32:48",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-buque-paita-llega-a-piura-hospital-campana-y-equipos-para-enfrentar-nino-1099698.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466261",
+    "title": "Puerto de Arica mantiene operaciones mientras se coordina llegada de camiones bolivianos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Empresa Portuaria Arica (EPA) y Terminal Puerto Arica (TPA) informaron que las operaciones al interior del\nLa entrada Puerto de Arica mantiene operaciones mientras se coordi...",
+    "date": "2026-11-12T21:30:39",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-arica-mantiene-operaciones-mientras-se-coordina-llegada-de-camiones-bolivianos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1032311",
+    "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+    "snippet": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color,...",
+    "date": "2026-11-12T21:28:53",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466227",
+    "title": "Perú: MTC se compromete a reactivar mesas de trabajo con transportistas de carga",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El ministro de Transportes y Comunicaciones de Perú (MTC), Angello Tangherlini, mantuvo una reunión con los\nLa entrada Perú: MTC se compromete a reactivar mesas de trabajo c...",
+    "date": "2026-11-12T21:00:01",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-mtc-se-compromete-a-reactivar-mesas-de-trabajo-con-transportistas-de-carga/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466244",
+    "title": "Perú: MTC presenta 14 proyectos ferroviarios a potenciales inversionistas franceses",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El ministro de Transportes y Comunicaciones de Perú (MTC), Angello Tangherlini, presentó 14 proyectos de desarrollo\nLa entrada Perú: MTC presenta 14 proyectos ferroviarios a...",
+    "date": "2026-11-12T20:30:25",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-mtc-presenta-14-proyectos-ferroviarios-a-potenciales-inversionistas-franceses/",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3188106",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "snippet": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia....",
+    "date": "2026-11-12T20:26:47",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466254",
+    "title": "Puerto de Los Ángeles supera un millón de TEU durante dos meses consecutivos por primera vez en su historia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Los Ángeles movilizó 1.026.872 TEU durante octubre de 2026, estableciendo un récord para\nLa entrada Puerto de Los Ángeles supera un millón de TEU durante dos me...",
+    "date": "2026-11-12T20:19:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-los-angeles-supera-un-millon-de-teu-durante-dos-meses-consecutivos-por-primera-vez-en-su-historia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466248",
+    "title": "Colombia: Puerto de Tumaco recibe 65 mil barriles de gasolina procedentes de Estados Unidos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Tumaco, en Colombia, recibió un cargamento de 65 mil barriles de gasolina a\nLa entrada Colombia: Puerto de Tumaco recibe 65 mil barriles de gasolina procedentes...",
+    "date": "2026-11-12T20:13:45",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/colombia-puerto-de-tumaco-recibe-65-mil-barriles-de-gasolina-procedentes-de-estados-unidos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-conoce-minipapamovil-trasladara-al-papa-leon-xiv-campus-de-usat-chiclayo-1099693.aspx",
+    "title": "Conoce el minipapamóvil que trasladará al papa León XIV en campus de la USAT de Chiclayo",
+    "snippet": "Un encuentro histórico con la juventud universitaria del Perú protagonizará el papa León XIV el próximo 13 de noviembre, cuando regrese a la Universidad Católica Santo Toribio de Mogrovejo (USAT), en Chiclayo, donde ejer...",
+    "date": "2026-11-12T20:02:49",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-conoce-minipapamovil-trasladara-al-papa-leon-xiv-campus-de-usat-chiclayo-1099693.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/catedral-finlandesa-suena-cada-dia-eco-estallidos-radio-hace-miles-millones-anos",
+    "title": "Una catedral finlandesa suena cada día con el eco de estallidos de radio de hace miles de millones de años",
+    "snippet": "Los estallidos rápidos de radio (FRB) son uno de los fenómenos más misteriosos del Universo. Hay varias hipótesis sobre su origen, pero sigue sin estar del todo claro. Entre otros motivos, son difíciles de estudiar porqu...",
+    "date": "2026-11-12T20:01:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/catedral-finlandesa-suena-cada-dia-eco-estallidos-radio-hace-miles-millones-anos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-parlamento-andino-le-dio-bienvenida-jesus-maria-san-borja-y-callao-1099696.aspx",
+    "title": "Papa León XIV: Parlamento Andino le dio la bienvenida en Jesús María, San Borja y Callao",
+    "snippet": "La representación peruana del Parlamento Andino desplegó mensajes de bienvenida al papa León XIV en Jesús María, San Borja y Callao, con motivo de su visita apostólica al Perú....",
+    "date": "2026-11-12T19:56:35",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-parlamento-andino-le-dio-bienvenida-jesus-maria-san-borja-y-callao-1099696.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=103828",
+    "title": "Compras online en Perú: ¿qué buscan los consumidores para volver a comprar por internet?",
+    "snippet": "El comercio electrónico (ecommerce) continúa ganando espacio en la vida de los peruanos. Según CAPECE, 24,3 millones de personas realizaron compras online durante el primer semestre de 2026, una cifra equivalente al 70 %...",
+    "date": "2026-11-12T19:50:37",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/compras-online-en-peru-que-buscan-los-consumidores-para-volver-a-comprar-por-internet-segun-mercado-libre-ccl-asociados/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-congreso-iniciara-17-noviembre-debate-dictamenes-sobre-presupuesto-2027-1099692.aspx",
+    "title": "Congreso iniciará el 17 de noviembre debate de dictámenes sobre presupuesto 2027",
+    "snippet": "El pleno del Congreso iniciará el martes 17 de noviembre la sustentación y debate de los dictámenes de los proyectos de ley de Presupuesto, de Endeudamiento y de Equilibrio Financiero del Sector Público para el Año Fisca...",
+    "date": "2026-11-12T19:46:43",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-congreso-iniciara-17-noviembre-debate-dictamenes-sobre-presupuesto-2027-1099692.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/carrera-gta-vi-se-libra-antes-consolas-que-pc-era-ia-eso-problema",
+    "title": "La carrera hacia 'GTA VI' se libra antes en consolas que en PC. En la era de la IA eso es un problema",
+    "snippet": "Queda exactamente una semana para que 'GTA VI', el juego más ambicioso de la historia (al menos por presupuesto), llegue a PS5 y Xbox Series. Y, si no se sigue la información sobre videojuegos, es fácil que haya quien se...",
+    "date": "2026-11-12T19:31:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/carrera-gta-vi-se-libra-antes-consolas-que-pc-era-ia-eso-problema",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466215",
+    "title": "Brasil: Servicio marítimo ALCT 1 de Aliança reemplazará escala a Sepetiba por Rio Brasil Terminal",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El servicio marítimo ALCT1 de la compañía Aliança modificará su rotación de puertos y reemplazará la\nLa entrada Brasil: Servicio marítimo ALCT 1 de Aliança reemplazará escal...",
+    "date": "2026-11-12T19:30:40",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-servicio-maritimo-alct-1-de-alianca-reemplazara-escala-a-sepetiba-por-rio-brasil-terminal/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
+    "title": "Who is Collette Kress, NVIDIA's interim CEO?",
+    "snippet": "Kress spent 25 years in various finance roles before joining NVIDIA in 2013...",
+    "date": "2026-11-12T19:26:47",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=103817",
+    "title": "Día Mundial de la Diabetes: más de 2.5 millones de peruanos en riesgo de daño corneal silencioso y ojo seco severo",
+    "snippet": "Este 14 de noviembre se conmemora el Día Mundial de la Diabetes, fecha en la que los chequeos médicos suelen centrarse en la retina para descartar la ceguera. Sin embargo, los oftalmólogos advierten sobre un problema igu...",
+    "date": "2026-11-12T19:19:43",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/dia-mundial-de-la-diabetes-mas-de-2-5-millones-de-peruanos-en-riesgo-de-dano-corneal-silencioso-y-ojo-seco-severo/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mejores-pulseras-actividad",
+    "title": "Mejores pulseras de actividad 2026. Cuál comprar y cinco modelos recomendados",
+    "snippet": "Las pulseras de actividad, también denominadas pulseras deportivas, son ideales para aquellas personas que estén buscando alternativas más pequeñas y comedidas a los smartwatches. Hay muchas opciones diferentes, pero nue...",
+    "date": "2026-11-12T19:15:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mejores-pulseras-actividad",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466217",
+    "title": "Brasil busca elevar participación ferroviaria en transporte de carga de 20% a 35% y fortalecer conexión con puertos",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transportes de Brasil estableció como objetivo aumentar de 20% a 35% la participación\nLa entrada Brasil busca elevar participación ferroviaria en transporte...",
+    "date": "2026-11-12T19:05:42",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/brasil-busca-elevar-participacion-ferroviaria-en-transporte-de-carga-de-20-a-35-y-fortalecer-conexion-con-puertos/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/ibiza-tiene-problema-para-dar-alojamiento-a-30-000-trabajadores-temporales-ahora-tiene-tambien-plan-para-solucionarlo",
+    "title": "Ibiza tiene un problema para dar alojamiento a 30.000 trabajadores de temporada. Ahora tiene también un plan para solucionarlo",
+    "snippet": "Ibiza no es la única región de España que lidia con la crisis de la vivienda, pero es cierto que allí tiene una dimensión especial: la isla tiene una considerable población flotante alimentada por el sector turístico, lo...",
+    "date": "2026-11-12T19:01:21",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/ibiza-tiene-problema-para-dar-alojamiento-a-30-000-trabajadores-temporales-ahora-tiene-tambien-plan-para-solucionarlo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466116",
+    "title": "Corea del Sur: Pacific Environment celebra suministro comercial de amoníaco sintético en Puerto de Ulsan",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Autoridad Portuaria de Ulsan (UPA), junto con Lotte Fine Chemical, HD Hyundai Heavy Industries, Shinheungsa\nLa entrada Corea del Sur: Pacific Environment celebra suminist...",
+    "date": "2026-11-12T19:00:08",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/corea-del-sur-pacific-environment-celebra-suministro-comercial-de-amoniaco-sintetico-en-puerto-de-ulsan/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "6af4ca888d64ac848f9ca154",
+    "title": "Jensen Huang’s $470 Billion Affair",
+    "snippet": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry....",
+    "date": "2026-11-12T18:59:58",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=465899",
+    "title": "Puertos peruanos canalizan 71,7% del valor de las exportaciones del país entre enero y septiembre de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos peruanos concentraron 71,7% del valor de las exportaciones del país entre enero y septiembre\nLa entrada Puertos peruanos canalizan 71,7% del valor de las exporta...",
+    "date": "2026-11-12T18:47:14",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puertos-peruanos-canalizan-717-del-valor-de-las-exportaciones-del-pais-entre-enero-y-septiembre-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3188037",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "snippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadershi...",
+    "date": "2026-11-12T18:39:23",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/alla-debate-su-exito-11n-deja-pregunta-realmente-efectivas-huelgas-generales-2026",
+    "title": "Más allá del debate sobre su éxito, el 11N deja una pregunta: para qué sirve realmente una huelga general en 2026",
+    "snippet": "El 11N ha sido una huelga especial por varias razones. Además de ser la primera gran convocatoria nacional en 14 años y llegar en plena campaña preelectoral, su detonante fue la crisis de la vivienda, un problema grave q...",
+    "date": "2026-11-12T18:31:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/alla-debate-su-exito-11n-deja-pregunta-realmente-efectivas-huelgas-generales-2026",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466161",
+    "title": "Ataque con drones provoca incendio en puerto ruso de Ust-Luga",
+    "snippet": "Por Redacción PortalPortuario / Agencia Reuters @PortalPortuario Un ataque con drones provocó un incendio en la zona portuaria de Ust-Luga,\nLa entrada Ataque con drones provoca incendio en puerto ruso de Ust-Luga se publ...",
+    "date": "2026-11-12T18:30:03",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/ataque-con-drones-provoca-incendio-en-puerto-ruso-de-ust-luga/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/dimision-huang-hace-que-nvidia-se-deje-550-000-millones-dolares-valor-bolsa",
+    "title": "La dimisión de Huang hace que Nvidia se deje 550.000 millones de dólares en valor de bolsa",
+    "snippet": "Tras la publicación de una exclusiva de The New York Times, Jensen Huang admitió en un memorando a sus empleados que había tenido una aventura extramatrimonial. La polémica tal vez no habría llegado mucho más lejos si no...",
+    "date": "2026-11-12T18:15:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/dimision-huang-hace-que-nvidia-se-deje-550-000-millones-dolares-valor-bolsa",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes",
+    "title": "Verificar el código de Signal era un reto que llevaba años de trabajo de expertos. DeepMind dice que su IA lo ha hecho en un mes",
+    "snippet": "Google DeepMind dice que sus agentes de IA han demostrado matemáticamente que partes clave del código que está detrás del protocolo de cifrado de Signal hacen lo que se supone que deben hacer. El protocolo protege las co...",
+    "date": "2026-11-12T18:01:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/xataka/premios-xataka-verisure-2026-todavia-puedes-conseguir-tus-entradas-te-adelantamos-novedad",
+    "title": "Premios Xataka Verisure 2026: todavía puedes conseguir tus entradas (y te adelantamos una novedad)",
+    "snippet": "Los Premios Xataka Verisure 2027 están a la vuelta de la esquina. En apenas unos días, el 17 de noviembre, descubriremos en una gala llena de sorpresas los mejores productos tecnológicos del año, desde el mejor coche elé...",
+    "date": "2026-11-12T18:01:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/xataka/premios-xataka-verisure-2026-todavia-puedes-conseguir-tus-entradas-te-adelantamos-novedad",
+    "category": "MERCADO"
+  },
+  {
+    "id": "6af5d7a1793a10c6a168c9b3",
+    "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+    "snippet": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value....",
+    "date": "2026-11-12T17:59:15",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/",
+    "title": "Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month",
+    "snippet": "House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving....",
+    "date": "2026-11-12T17:53:08",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/black-friday-sihoo-deja-doro-c300-pro-v2-a-precio-minimo-historico-silla-ergonomica-perfecta-para-casa-u-oficina",
+    "title": "El Black Friday de Sihoo deja la Doro C300 Pro V2 a precio mínimo histórico: una silla ergonómica perfecta para casa u oficina",
+    "snippet": "El Black Friday es uno de los momentos más importantes del año para hacer compras en todo tipo de dispositivos, especialmente de tecnología. No obstante, hace tiempo que todo tipo de tiendas y marcas se unieron a esta fe...",
+    "date": "2026-11-12T17:45:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/black-friday-sihoo-deja-doro-c300-pro-v2-a-precio-minimo-historico-silla-ergonomica-perfecta-para-casa-u-oficina",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1032069",
+    "title": "The Jensen Huang scandal is hardly over",
+    "snippet": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succes...",
+    "date": "2026-11-12T17:44:33",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3187922",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition....",
+    "date": "2026-11-12T17:36:40",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/plenos-escandalos-jensen-huang-hay-guerra-abierta-gobierno-eeuu-seguir-vendiendo-gpus-a-china",
+    "title": "En plenos escándalos de Jensen Huang, hay una guerra abierta en el Gobierno de EEUU por seguir vendiendo GPUs a China",
+    "snippet": "Nvidia tiene tres problemas enormes y eso significa que Estados Unidos... también. Uno es el tremebundo lío que está provocando Jensen Huang con sus aventuras extramatrimoniales. Otro es buscar sustituto para Huang, ya q...",
+    "date": "2026-11-12T17:31:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/plenos-escandalos-jensen-huang-hay-guerra-abierta-gobierno-eeuu-seguir-vendiendo-gpus-a-china",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://lacamara.pe/?p=103811",
+    "title": "Cargo Logistics Service cumple 12 años y fortalece su modelo de gestión logística",
+    "snippet": "Cargo Logistics Service S.A.C. (CLS) cumple 12 años de operaciones en el sector logístico peruano, con un modelo de crecimiento basado principalmente en las recomendaciones de sus clientes. Desde su fundación en 2014, la...",
+    "date": "2026-11-12T17:28:13",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/cargo-logistics-service-cumple-12-anos-y-fortalece-su-modelo-de-gestion-logistica-ccl-asociados/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/se-acerca-momento-para-hacer-maratones-pelis-navidenas-este-proyector-rebajado-ideal-para-disfrutarlas-a-grande",
+    "title": "Se acerca el momento para hacer maratones de pelis Navideñas y este proyector rebajado es ideal para disfrutarlas a lo grande",
+    "snippet": "Hay memes sobre que la Navidad da comienzo con la emisión de 'Un padre en apuros', icónico film Navideño que solemos ver algunos años a principios de diciembre. Pero lo cierto es que la puesta en marcha del Black Friday ...",
+    "date": "2026-11-12T17:15:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/se-acerca-momento-para-hacer-maratones-pelis-navidenas-este-proyector-rebajado-ideal-para-disfrutarlas-a-grande",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/40-dias-fracasa-valencia-segunda-negociacion-vivienda-acampada-empieza-a-desalojarse",
+    "title": "Fracasa la segunda negociación sobre vivienda en Valencia y provoca la retirada de la acampada",
+    "snippet": "La acampada por la vivienda de Valencia termina hoy. Después de 40 días, sus integrantes ya están retirando las tiendas de la plaza del Ayuntamiento. El motivo inmediato es que la segunda mesa con las administraciones, q...",
+    "date": "2026-11-12T17:00:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/40-dias-fracasa-valencia-segunda-negociacion-vivienda-acampada-empieza-a-desalojarse",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/nvidia-busca-ceo-salida-jensen-huang-estos-candidatos-que-suenan-para-puesto",
+    "title": "Nvidia busca CEO tras la salida de Jensen Huang: estos son los candidatos que suenan para el puesto",
+    "snippet": "Nvidia ha perdido al único director ejecutivo que ha tenido jamás. Jensen Huang ha dimitido este jueves como presidente, director ejecutivo y miembro del consejo de administración, y la empresa ahora tiene que encontrar ...",
+    "date": "2026-11-12T16:51:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/nvidia-busca-ceo-salida-jensen-huang-estos-candidatos-que-suenan-para-puesto",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/ano-no-hemos-visto-descuento-igual-este-apple-watch-hoy-amazon-tiene-barato-que-nunca",
+    "title": "En más de un año no hemos visto un descuento igual en este Apple Watch: hoy, Amazon lo tiene más barato que nunca",
+    "snippet": "Las tiendas están lanzando muy buenas ofertas antes del Black Friday. Amazon ha dado un pequeño adelanto de lo que veremos durante la última semana de noviembre, incluso en dispositivos de Apple como lo es el Apple Watch...",
+    "date": "2026-11-12T16:45:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/ano-no-hemos-visto-descuento-igual-este-apple-watch-hoy-amazon-tiene-barato-que-nunca",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3187911",
+    "title": "Jensen Huang agrees to testify before Congress",
+    "snippet": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him....",
+    "date": "2026-11-12T16:36:37",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3187523",
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "snippet": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways....",
+    "date": "2026-11-12T16:32:33",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/vi-nfl-bernabeu-llegue-a-conclusion-futbol-americano-se-ha-convertido-videojuego-lleno-datos",
+    "title": "Vi la NFL en el Bernabéu y llegué a una conclusión: el fútbol americano se ha convertido en un 'videojuego' lleno de datos",
+    "snippet": "El pasado domingo, tuve la oportunidad de disfrutar en vivo y en directo del NFL Madrid Game, que ha celebrado este año su segunda edición. El partido de fútbol americano entre los Cincinnati Bengals y los Atlanta Falcon...",
+    "date": "2026-11-12T16:31:24",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/vi-nfl-bernabeu-llegue-a-conclusion-futbol-americano-se-ha-convertido-videojuego-lleno-datos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/cecotec-reinventa-su-freidora-aire-estrella-nueva-cecofry-crunch-cocina-rapido-ocupando-sitio-encimera",
+    "title": "Cecotec reinventa su freidora de aire estrella: la nueva Cecofry&Crunch cocina más rápido ocupando menos sitio en la encimera",
+    "snippet": "Uno de los principales inconvenientes de las freidoras de aire de gran capacidad es el espacio que roban en la cocina: cuando buscas preparar raciones familiares de una sola tanda, te encuentras con aparatos voluminosos ...",
+    "date": "2026-11-12T16:15:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/cecotec-reinventa-su-freidora-aire-estrella-nueva-cecofry-crunch-cocina-rapido-ocupando-sitio-encimera",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3187860",
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "snippet": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook....",
+    "date": "2026-11-12T16:12:44",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.theverge.com/?p=1032028",
     "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead",
     "snippet": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct re...",
@@ -7,6 +439,15 @@
     "source": "THE VERGE",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
     "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/lidl-recibe-semana-que-viene-esta-afeitadora-remington-revestimiento-ceramico-llega-16-noviembre-a-11-99-euros",
+    "title": "Lidl recibe la semana que viene esta afeitadora Remington con revestimiento cerámico: llega el 16 de noviembre a 11,99 euros",
+    "snippet": "Una recortadora para la barba es uno de esos dispositivos que nunca sobra en el baño o cuando nos vamos de viaje. Hay modelos con muchos rangos de precio diferentes, pero no hay que gastar una fortuna para hacernos con u...",
+    "date": "2026-11-12T15:45:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/lidl-recibe-semana-que-viene-esta-afeitadora-remington-revestimiento-ceramico-llega-16-noviembre-a-11-99-euros",
+    "category": "TRIBUTARIO"
   },
   {
     "id": "https://techcrunch.com/?p=3187797",
@@ -56,6 +497,15 @@
   {
     "id": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#0",
     "title": "Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned?",
+    "snippet": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors....",
+    "date": "2026-11-12T15:10:32",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#0",
+    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
     "snippet": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors....",
     "date": "2026-11-12T15:10:32",
     "source": "BBC BIZ",
@@ -138,6 +588,15 @@
     "id": "https://www.cnet.com/rss/news/5196241",
     "title": "Nvidia CEO Jensen Huang Resigns",
     "snippet": "The company’s founder stepped down after reports of multiple affairs....",
+    "date": "2026-11-12T14:25:06",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/nvidia-ceo-jensen-huang-resigns/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/5196241",
+    "title": "Nvidia CEO Jensen Huang Resigns, Creating a ‘Stress Test for the AI Boom’",
+    "snippet": "The company’s founder steps down after reports of multiple affairs, and the AI industry faces unsettling questions....",
     "date": "2026-11-12T14:25:06",
     "source": "CNET",
     "url": "https://www.cnet.com/tech/services-and-software/nvidia-ceo-jensen-huang-resigns/",
@@ -888,465 +1347,6 @@
     "date": "2026-11-11T18:01:48",
     "source": "XATAKA",
     "url": "https://www.xataka.com/espacio/acabamos-ver-como-exoplaneta-desaparece-vista-nuestros-telescopios-culpable-su-vecino-invisible",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465903",
-    "title": "Puerto de Maceió prevé llegada de 26 cruceros durante temporada 2026-2027",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Maceió se prepara para una nueva temporada de cruceros, que comenzará el 19\nLa entrada Puerto de Maceió prevé llegada de 26 cruceros durante temporada 2026-2027...",
-    "date": "2026-11-11T18:00:20",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/puerto-de-maceio-preve-llegada-de-26-cruceros-durante-temporada-2026-2027/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/moviles-electrodomesticos-e-incluso-legos-asi-mejores-ofertas-11-11-miravia",
-    "title": "Móviles, electrodomésticos e incluso LEGOs: así son las mejores ofertas del 11-11 de Miravia",
-    "snippet": "El 11-11 es conocido por todos como el Día del Soltero. En esta fecha, muchos marketplaces aprovechan la oportunidad para ofrecer algunos de los mejores descuentos de todo el año. Sin ir más lejos, Miravia ahora mismo es...",
-    "date": "2026-11-11T17:45:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/moviles-electrodomesticos-e-incluso-legos-asi-mejores-ofertas-11-11-miravia",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-se-estaba-desinflando-ahora-tiene-demanda-institucional-que-spacex",
-    "title": "La salida a bolsa de Anthropic se estaba desinflando. Ahora tiene más demanda institucional que SpaceX",
-    "snippet": "Anthropic ha fijado entre 70 y 78 dólares el precio de sus acciones para salir a bolsa. Eso la valora por entre 1,26 y 1,41 billones de dólares Hace unos meses se hablaba de dos billones, y hace una semana, de 1,5.\nSin e...",
-    "date": "2026-11-11T17:31:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-se-estaba-desinflando-ahora-tiene-demanda-institucional-que-spacex",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=103759",
-    "title": "SUNAT: ¿Cómo pueden las empresas sustentar sus gastos y evitar reparos tributarios?",
-    "snippet": "Para las empresas, demostrar que un gasto es real y está vinculado con su actividad económica implica contar con documentación que respalde cada operación. La SUNAT no solo exige el comprobante de pago, sino también evid...",
-    "date": "2026-11-11T17:16:22",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/sunat-como-pueden-las-empresas-sustentar-sus-gastos-y-evitar-reparos-tributarios-segun-cumplitax-ccl-asociados/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/lidl-trae-a-su-tienda-online-chimenea-electrica-efectos-llama-que-tiene-varias-temperaturas-diseno-muy-decorativo",
-    "title": "Lidl trae a su tienda online la chimenea eléctrica con efectos de llama que tiene varias temperaturas y un diseño muy decorativo",
-    "snippet": "Lidl renueva su catálogo de Bazar con una velocidad bastante grande, y es que semanalmente va añadiendo nuevos productos para la casa. La tienda ha publicado su folleto para la semana que viene, y el 16 de noviembre tend...",
-    "date": "2026-11-11T17:15:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/lidl-trae-a-su-tienda-online-chimenea-electrica-efectos-llama-que-tiene-varias-temperaturas-diseno-muy-decorativo",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/camaras-ring-ahora-se-mueven-amazon-entra-mundo-robots-domesticos-dron-que-vuela-salon-casa",
-    "title": "Las cámaras de Ring ahora se mueven: Amazon entra en el mundo de los robots domésticos con un dron que vuela por el salón de casa",
-    "snippet": "Amazon ha ganado fama con sus cámaras y timbres inteligentes Ring, pequeños dispositivos de seguridad que hacen bien su trabajo y que se caracterizaban por una cosa: estaban quietecitos en su sitio. Con Ring Robotics eso...",
-    "date": "2026-11-11T17:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/camaras-ring-ahora-se-mueven-amazon-entra-mundo-robots-domesticos-dron-que-vuela-salon-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=103757",
-    "title": "Xiaomi POP Run 2026: carrera se realizará el domingo 6 de diciembre en San Borja",
-    "snippet": "Xiaomi anuncia una nueva edición de la Xiaomi POP Run, una jornada que reúne a la comunidad runner en torno al deporte, la tecnología y el bienestar. La carrera se realizará el domingo 6 de diciembre en el Parque Olímpic...",
-    "date": "2026-11-11T16:58:17",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/xiaomi-pop-run-2026-carrera-se-realizara-el-domingo-6-de-diciembre-en-san-borja-ccl-asociados/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465904",
-    "title": "Investigación logra incautar envío de droga hacia Europa que pretendía salir por Puerto de San Antonio",
-    "snippet": "Por Gabriel Campos Roullett / Sebastián Betancourt @PortalPortuario Una investigación encabezada por el Sistema de Análisis Criminal de la Fiscalía\nLa entrada Investigación logra incautar envío de droga hacia Europa que ...",
-    "date": "2026-11-11T16:46:12",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/investigacion-logra-incautar-envio-de-droga-hacia-europa-que-pretendia-salir-por-puerto-de-san-antonio/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/doblete-descuentos-xiaomi-17t-gama-alta-asequible-camaras-leica-buen-rendimiento",
-    "title": "Doblete de descuentos en el Xiaomi 17T, un gama alta asequible con cámaras Leica y buen rendimiento",
-    "snippet": "Las tiendas están lanzando muchas ofertas en móviles, por lo que va siendo hora de renovarlo si no queremos esperar la llegada del Black Friday. MediaMarkt, por ejemplo, ahora mismo tiene el Xiaomi 17T con un doblete de ...",
-    "date": "2026-11-11T16:45:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/doblete-descuentos-xiaomi-17t-gama-alta-asequible-camaras-leica-buen-rendimiento",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465909",
-    "title": "Anfach rechaza cifras dadas por ministro de Hacienda sobre dotación de Aduanas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Asociación Nacional de Funcionarios de Aduanas de Chile (Anfach) rechazó la cifras dadas por el\nLa entrada Anfach rechaza cifras dadas por ministro de Hacienda sobre dota...",
-    "date": "2026-11-11T16:38:09",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/anfach-rechaza-cifras-dadas-por-ministro-de-hacienda-sobre-dotacion-de-aduanas/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/telefono-movil/cada-vez-gente-esta-viendo-nuevo-icono-5g-sus-moviles-buena-noticia-para-ellos",
-    "title": "Cada vez más gente está viendo el nuevo icono '5G+' en sus móviles. Y es una buena noticia para ellos",
-    "snippet": "Yo me di cuenta hace algo más de un mes, poco después de actualizar a iOS 27: en la parte superior de mi teléfono (un iPhone 14 Pro) apareció de pronto el icono '5G+' junto a las barras que indican la cobertura móvil. Y ...",
-    "date": "2026-11-11T16:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/telefono-movil/cada-vez-gente-esta-viendo-nuevo-icono-5g-sus-moviles-buena-noticia-para-ellos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-recibira-llave-de-ciudad-del-cusco-este-domingo-15-noviembre-1099486.aspx",
-    "title": "Papa León XIV recibirá la “Llave de la Ciudad del Cusco” este domingo 15 de noviembre",
-    "snippet": "El alcalde de la municipalidad provincial del Cusco, Luis Pantoja Calvo, confirmó la entrega de “La Llave de la Ciudad del Cusco” al Papa León XIV tras su arribo al aeropuerto teniente Alejandro Velasco Astete el próximo...",
-    "date": "2026-11-11T16:31:12",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-recibira-llave-de-ciudad-del-cusco-este-domingo-15-noviembre-1099486.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465828",
-    "title": "Nuevo centro de consolidación de Maersk en Semarang reforzará oferta logística integrada en Indonesia",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario AP Moller &#8211; Maersk (Maersk) inauguró su nueva planta de consolidación en Semarang, Indonesia, fortaleciendo su\nLa entrada Nuevo centro de consolidación de Maersk en Se...",
-    "date": "2026-11-11T16:30:49",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/nuevo-centro-de-consolidacion-de-maersk-en-semarang-reforzara-oferta-logistica-integrada-en-indonesia/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-indecopi-brinda-recomendaciones-a-quienes-viajaran-a-cajamarca-visita-papa-leon-xiv-1099492.aspx",
-    "title": "Indecopi brinda recomendaciones a quienes viajarán a Cajamarca por visita de papa León XIV",
-    "snippet": "El papa León XIV en el Perú. Miles de personas se preparan para llegar a Cajamarca con motivo de la visita del papa León XIV prevista para el próximo 14 de noviembre....",
-    "date": "2026-11-11T16:28:59",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-indecopi-brinda-recomendaciones-a-quienes-viajaran-a-cajamarca-visita-papa-leon-xiv-1099492.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://rpp.pe/1717223",
-    "title": "El regreso del papa León XIV al Perú y el millonario impacto en la economía de las regiones que recorrerá",
-    "snippet": "La llegada del pontífice movilizará a cerca de un millón de personas en el país, entre visitantes nacionales y extranjeros. En su recorrido por Lima, Callao, Lambayeque, Cajamarca, Ucayali y Cusco, impulsará el dinamismo...",
-    "date": "2026-11-11T16:23:06",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/el-regreso-del-papa-leon-xiv-al-peru-y-el-millonario-impacto-en-la-economia-de-las-regiones-que-recorrera-noticia-1717223",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/elegimos-cuatro-dispositivos-rebajados-11-11-aliexpress-hay-movil-superventas-uno-mejores-auriculares-diadema",
-    "title": "Elegimos cuatro dispositivos rebajados del 11.11 de AliExpress: hay un móvil superventas o uno de los mejores auriculares de diadema",
-    "snippet": "El 11 de noviembre es el denominado Día del Soltero (o Single's Day) y si hay una tienda que lo aprovecha bien es AliExpress. Hoy es uno de los días más potentes de su particular Black Friday y ya os hemos ido trayendo o...",
-    "date": "2026-11-11T16:15:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/elegimos-cuatro-dispositivos-rebajados-11-11-aliexpress-hay-movil-superventas-uno-mejores-auriculares-diadema",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-el-estado-peruano-1056807.aspx",
-    "title": "Cronograma de pagos 2026 de sueldos en el Estado peruano",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones en la administración pública que se aplicará durante el año fiscal 2026....",
-    "date": "2026-11-11T16:10:46",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cronograma-pagos-2026-sueldos-el-estado-peruano-1056807.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/hoy-lidl-rebajado-a-37-99-euros-este-taladro-atornillador-parkside-ideal-para-manitas-casa",
-    "title": "Hoy en Lidl (rebajado a 37,99 euros): este taladro atornillador Parkside ideal para los manitas de casa",
-    "snippet": "Tener a mano una herramienta polivalente para montar muebles, colgar estantes o realizar pequeñas reparaciones sin depender de enchufes ni cables es básico en cualquier hogar. En el catálogo de bricolaje de Lidl, la gama...",
-    "date": "2026-11-11T16:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/hoy-lidl-rebajado-a-37-99-euros-este-taladro-atornillador-parkside-ideal-para-manitas-casa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/primera-vez-robot-ha-construido-forma-autonoma-parte-estructura-espacio",
-    "title": "Por primera vez, un robot ha construido de forma autónoma parte de una estructura en el espacio",
-    "snippet": "Para estudiar el espacio profundo y detectar incluso los objetos más débiles necesitaremos telescopios espaciales cada vez más grandes. Si queremos comunicarnos de forma más eficiente en el espacio, son necesarias antena...",
-    "date": "2026-11-11T16:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/primera-vez-robot-ha-construido-forma-autonoma-parte-estructura-espacio",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1031526",
-    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-    "snippet": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with wor...",
-    "date": "2026-11-11T16:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/legislacion-y-derechos/ue-quiere-prohibir-patrones-oscuros-web-curioso-que-tambien-ha-empezado-a-regular-que-todavia-no-existen",
-    "title": "La UE quiere prohibir los patrones oscuros de la web. Lo curioso es que también ha empezado a regular los que todavía no existen",
-    "snippet": "La Comisión Europea presenta hoy la 'Digital Fairness Act', y un borrador filtrado muestra que la UE quiere vetar diez trampas de diseño online. Entre ellas están las bajas que cuestan mucho más que las altas (ejem), los...",
-    "date": "2026-11-11T15:31:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/legislacion-y-derechos/ue-quiere-prohibir-patrones-oscuros-web-curioso-que-tambien-ha-empezado-a-regular-que-todavia-no-existen",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465884",
-    "title": "Cristian Espinoza: Puertos chilenos y la carga que viene del otro lado de la cordillera",
-    "snippet": "Cristian Espinoza Abarca es gerente Comercial y Desarrollo Muelles de Penco S.A. Parte del crecimiento futuro de los puertos chilenos\nLa entrada Cristian Espinoza: Puertos chilenos y la carga que viene del otro lado de l...",
-    "date": "2026-11-11T15:30:13",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/cristian-espinoza-puertos-chilenos-y-la-carga-que-viene-del-otro-lado-de-la-cordillera/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "6af37522ebc8960a0be1d743",
-    "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-    "snippet": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?...",
-    "date": "2026-11-11T15:30:00",
-    "source": "WIRED",
-    "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1031301",
-    "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-    "snippet": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re...",
-    "date": "2026-11-11T15:30:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/reino-unido-han-encontrado-mejor-uso-posible-para-arboles-navidad-enterrarlos-playa",
-    "title": "En Reino Unido han encontrado el mejor uso posible para los árboles de Navidad: enterrarlos en la playa",
-    "snippet": "Cientos de voluntarios en la costa situada al sur de Blackpool, Inglaterra, cavan zanjas en la arena cada año y las llenan con árboles de Navidad desechados. Llevan más de una década reuniéndose con el objetivo de recons...",
-    "date": "2026-11-11T15:15:47",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/reino-unido-han-encontrado-mejor-uso-posible-para-arboles-navidad-enterrarlos-playa",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://lacamara.pe/?p=103750",
-    "title": "Precio del dólar en Perú hoy, 11 de noviembre de 2026",
-    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este miércoles 11 de noviembre a las 10:13 a. m. se sitúa en S/3.415 para la compra y S/3.421 pa...",
-    "date": "2026-11-11T15:15:29",
-    "source": "LA CÁMARA (CCL)",
-    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-11-de-noviembre-de-2026/",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-11-noviembre-del-2026-1099480.aspx",
-    "title": "¿Cuál es la cotización del dólar hoy miércoles 11 de noviembre del 2026?",
-    "snippet": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional....",
-    "date": "2026-11-11T15:06:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-miercoles-11-noviembre-del-2026-1099480.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3186258",
-    "title": "Siri co-founder backs Helix for its voice ID tech",
-    "snippet": "Helix said that its voice ID tech can run on an iPhone 13...",
-    "date": "2026-11-11T15:02:47",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione",
-    "title": "El trabajo de moda en ingeniería de software ya no es programar: es reunirse con el cliente para asegurarse de que la IA funcione",
-    "snippet": "Lo que conocíamos tradicionalmente como ingeniero de software ahora es una etiqueta que abarca muchos más espacios que antes. Y es que ante el vertiginoso ritmo de la IA, es una posición que ya mira hacia direcciones muy...",
-    "date": "2026-11-11T15:01:51",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cuando-ha-pasado-xiaomi-tv-box-s-3rd-gen-a-costar-casi-doble-era-mejor-alternativa-al-fire-tv-stick-no",
-    "title": "¿Cuándo ha pasado el Xiaomi TV Box S 3rd Gen a costar casi el doble? Era la mejor alternativa al Fire TV Stick pero ya no lo es tanto",
-    "snippet": "Ha pasado poco más de un año desde que Xiaomi lanzó en España su TV Box S (3rd Gen) y desde entonces hemos visto una subida de precios en muchos dispositivos; buena culpa la tiene la crisis de la memoria RAM. Y este disp...",
-    "date": "2026-11-11T14:45:50",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cuando-ha-pasado-xiaomi-tv-box-s-3rd-gen-a-costar-casi-doble-era-mejor-alternativa-al-fire-tv-stick-no",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465878",
-    "title": "Camport expresa preocupación por efectos del paro camionero en cadena logística de carga",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de la Cámara Marítima Portuaria de Chile (Camport), Daniel Fernández, expresó su preocupación ante\nLa entrada Camport expresa preocupación por efectos del paro...",
-    "date": "2026-11-11T14:39:50",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/camport-expresa-preocupacion-por-efectos-del-paro-camionero-en-cadena-logistica-de-carga/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://rpp.pe/1717198",
-    "title": "Fonavi: MEF aprueba convenio para pagar antiguas deudas del Banco de Materiales",
-    "snippet": "La medida permitirá que el Estado asuma el pago del capital pendiente por alrededor de S/384 millones de determinados créditos otorgados entre 1992 y 2001. Los beneficiarios ya fueron identificados en un listado aprobado...",
-    "date": "2026-11-11T14:36:31",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/fonavi-mef-aprueba-convenio-para-pagar-antiguas-deudas-del-banco-de-materiales-noticia-1717198",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/durante-anos-nos-hemos-obsesionado-ganar-musculo-ahora-ciencia-tiene-claro-que-que-verdad-importa-para-envejecer-bien",
-    "title": "Durante años nos hemos obsesionado con ganar músculo. Ahora la ciencia tiene claro qué es lo que de verdad importa para envejecer bien",
-    "snippet": "Durante mucho tiempo, la imagen de la salud muscular ha estado muy ligada al volumen que se tenía en diferentes partes del cuerpo. Y desde la cultura del fitness hasta las recomendaciones médicas más tradicionales, el me...",
-    "date": "2026-11-11T14:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/durante-anos-nos-hemos-obsesionado-ganar-musculo-ahora-ciencia-tiene-claro-que-que-verdad-importa-para-envejecer-bien",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465871",
-    "title": "Asonave solicita a camioneros alcanzar acuerdos que permitan “abordar legítimas preocupaciones del sector”",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Ante las movilizaciones de transportistas y sus posibles efectos en la actividad logística del país, la\nLa entrada Asonave solicita a camioneros alcanzar acuerdos que permit...",
-    "date": "2026-11-11T14:30:14",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/asonave-solicita-a-camioneros-alcanzar-acuerdos-que-permitan-abordar-legitimas-preocupaciones-del-sector/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cinco-moviles-oferta-aliexpress-para-aprovechar-11-11-marcas-xiaomi-honor",
-    "title": "Cinco móviles de oferta en AliExpress para aprovechar el 11 del 11 con marcas de Xiaomi, Honor y más",
-    "snippet": "Quedan unas horas para que AliExpress finalice su promo del 11 del 11, una campaña anual de ofertas donde solemos encontrar muy buenos precios en móviles. Por esta razón, en este artículo hemos reunido cinco de los mejor...",
-    "date": "2026-11-11T14:15:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cinco-moviles-oferta-aliexpress-para-aprovechar-11-11-marcas-xiaomi-honor",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/vecino-salamanca-se-puso-a-lanzar-bolas-papel-mojado-sexto-piso-ahora-se-enfrenta-a-multa-publicada-boe",
-    "title": "Un vecino de Salamanca se puso a lanzar bolas de papel mojado desde un sexto piso. Ahora se enfrenta a una multa publicada en el BOE",
-    "snippet": "Todavía recuerdo las clases donde más de uno y más de dos mojaban una bolita de papel, la introducían en el tubo vacío de un boli y, a modo de cerbatana, la proyectaban sobre el cuello o la mochila de algún cándido estud...",
-    "date": "2026-11-11T14:01:50",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/vecino-salamanca-se-puso-a-lanzar-bolas-papel-mojado-sexto-piso-ahora-se-enfrenta-a-multa-publicada-boe",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1031291",
-    "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-    "snippet": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done w...",
-    "date": "2026-11-11T14:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465861",
-    "title": "Colombia: Activan 21 frentes de obra en corredor vial que conecta con Puerto de Buenaventura",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Ministerio de Transporte de Colombia informó que se encuentran activos los frentes de trabajo correspondientes\nLa entrada Colombia: Activan 21 frentes de obra en corredor...",
-    "date": "2026-11-11T13:54:54",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/colombia-activan-21-frentes-de-obra-en-corredor-vial-que-conecta-con-puerto-de-buenaventura/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/ordenadores/microsoft-promete-40-velocidad-windows-11-solo-8-gb-ram",
-    "title": "Microsoft promete hasta un 40% más de velocidad en los Windows 11 con solo 8 GB de RAM",
-    "snippet": "Durante las últimas dos décadas, la receta de Microsoft para hacer que Windows tuviera un comportamiento más fluido era sencilla: instalar más memoria RAM. Sin embargo, cuando la memoria RAM se ha convertido en un bien t...",
-    "date": "2026-11-11T13:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ordenadores/microsoft-promete-40-velocidad-windows-11-solo-8-gb-ram",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/solo-hoy-puedes-llevarte-single-day-mediamarkt-esta-ps-portal-apenas-180-euros",
-    "title": "Solo hoy puedes llevarte (en el Single Day de MediaMarkt) esta PS Portal por apenas 180 euros",
-    "snippet": "Aunque el 11.11 de AliExpress es una de las campañas más esperadas hoy, MediaMarkt ha decidido contraatacar y está celebrando su propio Single Day hasta mañana a las 9 de la mañana. Uno de los chollos más atractivos que ...",
-    "date": "2026-11-11T13:31:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/solo-hoy-puedes-llevarte-single-day-mediamarkt-esta-ps-portal-apenas-180-euros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=465832",
-    "title": "Cámara Aduanera de Chile hace un llamado al diálogo ante paralización de transportistas",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Cámara Aduanera de Chile hizo un llamado al diálogo en medio de la paralización de\nLa entrada Cámara Aduanera de Chile hace un llamado al diálogo ante paralización de tra...",
-    "date": "2026-11-11T13:30:51",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/camara-aduanera-de-chile-hace-un-llamado-al-dialogo-ante-paralizacion-de-transportistas/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cinco-chollos-xiaomi-11-11-aliexpress-que-merecen-pena-smart-tvs-moviles",
-    "title": "Los cinco chollos de Xiaomi en el 11.11 de AliExpress que merecen la pena: smart TVs, móviles y más",
-    "snippet": "AliExpress está celebrando hoy el 11.11 (y en Xataka lo estamos siguiendo en este directo), el conocido popularmente como el Día de los Solteros, una jornada de compras con buenos descuentos previa al popular Black Frida...",
-    "date": "2026-11-11T13:15:46",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cinco-chollos-xiaomi-11-11-aliexpress-que-merecen-pena-smart-tvs-moviles",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/buitres-mantienen-su-interior-bacterias-propias-cada-especie-a-pesar-que-se-alimentan-carrona",
-    "title": "Los buitres mantienen en su interior bacterias propias de cada especie a pesar de que se alimentan de carroña",
-    "snippet": "Los buitres se enfrentan a diario a un festín que para cualquier otro animal podría ser una causa de muerte casi inmediata. Y es que, al alimentarse de cadáveres que están en descomposición, también se están comiendo un ...",
-    "date": "2026-11-11T13:01:50",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/buitres-mantienen-su-interior-bacterias-propias-cada-especie-a-pesar-que-se-alimentan-carrona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1030398",
-    "title": "Not everyone is loving their new iPhone Duo",
-    "snippet": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and...",
-    "date": "2026-11-11T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
-    "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
-    "snippet": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs....",
-    "date": "2026-11-11T12:59:44",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
-    "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
-    "snippet": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI....",
-    "date": "2026-11-11T12:35:10",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/mediamarkt-dedica-sus-ofertas-dia-a-apple-ipad-iphone-pro-muy-rebajados-como-adelanto-black-friday",
-    "title": "MediaMarkt dedica sus Ofertas del Día a Apple: un iPad y un iPhone Pro muy rebajados como adelanto del Black Friday",
-    "snippet": "MediaMarkt tiene una sección llamada Ofertas del Día en la que, diariamente, lanza algunas ofertas bastante interesantes; de hecho, algunas de las mejores de la tienda suelen dejarse ver por esta sección. Y hoy, a falta ...",
-    "date": "2026-11-11T12:31:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/mediamarkt-dedica-sus-ofertas-dia-a-apple-ipad-iphone-pro-muy-rebajados-como-adelanto-black-friday",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/servicios/oficial-nuevo-router-mini-2-starlink-ahora-promete-wifi-via-satelite-estar-conectado-a-corriente",
-    "title": "Ya es oficial: el nuevo router Mini 2 de Starlink ahora promete WiFi vía satélite sin estar conectado a la corriente",
-    "snippet": "El pasado verano, Starlink presentó su nueva antena V5, y hace unas semanas, anunció la siguiente generación de su router, el router 4, cuya principal novedad es que trae a bordo un chipset WiFi 7. Todo indicaba que el s...",
-    "date": "2026-11-11T12:31:48",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/servicios/oficial-nuevo-router-mini-2-starlink-ahora-promete-wifi-via-satelite-estar-conectado-a-corriente",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/rusia-tenia-campo-vacio-a-ucrania-seis-semanas-despues-satelites-han-revelado-fabrica-pesadillas-letales",
-    "title": "Rusia tenía un campo vacío junto a Ucrania. Seis semanas después, los satélites han revelado una fábrica de pesadillas letales",
-    "snippet": "Lo hemos ido contando. La guerra de Ucrania también se está librando a través de las imágenes que captan los satélites comerciales. Las últimas han revelado una transformación extraordinaria junto a la frontera rusa, y l...",
-    "date": "2026-11-11T12:01:49",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/rusia-tenia-campo-vacio-a-ucrania-seis-semanas-despues-satelites-han-revelado-fabrica-pesadillas-letales",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/solucion-que-llevar-internet-a-cualquier-rincon-casa-que-hemos-encontrado-black-friday-anticipado-amazon",
-    "title": "La solución para llevar Internet a cualquier rincón de casa que hemos encontrado rebajada en el Black Friday anticipado de Amazon",
-    "snippet": "Luchar contra las zonas muertas del WiFi en casas de varias plantas, con muros gruesos o con pasillos largos es una constante cuando dependemos únicamente del router básico que instalan las operadoras de telefonía. Los r...",
-    "date": "2026-11-11T12:00:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/solucion-que-llevar-internet-a-cualquier-rincon-casa-que-hemos-encontrado-black-friday-anticipado-amazon",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://rpp.pe/1717158",
-    "title": "Precio del dólar Perú y tipo de cambio hoy 11 de noviembre del 2026",
-    "snippet": "En Perú, el tipo de cambio para hoy miércoles 11 de noviembre es de  S/3.41 según el Banco Central de Reserva Del Perú....",
-    "date": "2026-11-11T11:05:39",
-    "source": "RPP ECON",
-    "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-11-de-noviembre-del-2026-noticia-1717158",
     "category": "TRIBUTARIO"
   }
 ]
