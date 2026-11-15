@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+    "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+    "snippet": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5....",
+    "date": "2026-11-15T01:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+    "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+    "snippet": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming....",
+    "date": "2026-11-15T00:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+    "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+    "snippet": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider....",
+    "date": "2026-11-15T00:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3188673",
+    "title": "Where was Nvidia’s security team?",
+    "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig...",
+    "date": "2026-11-15T00:08:07",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+    "title": "There's a hidden way you can check which services are running on your Android phone",
+    "snippet": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps....",
+    "date": "2026-11-15T00:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
+    "title": "One cable mistake could be killing your desktop PC's gaming performance",
+    "snippet": "Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back....",
+    "date": "2026-11-14T23:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-cuando-y-a-hora-vuelve-a-lima-y-por-calles-pasara-1099964.aspx",
     "title": "Papa León XIV: ¿cuándo y a qué hora vuelve a Lima y por qué calles pasará?",
     "snippet": "El regreso a su querida Chiclayo, el jueves 13 de noviembre, fue uno de los momentos más esperados del viaje apostólico del papa León XIV por Sudamérica. En la capital de Lambayeque, el Sumo Pontífice congregó a cerca de...",
@@ -837,6 +891,15 @@
     "category": "MERCADO"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo#0",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "snippet": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade....",
+    "date": "2026-11-13T23:00:31",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://techcrunch.com/?p=3188482",
     "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
     "snippet": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade....",
@@ -1284,69 +1347,6 @@
     "date": "2026-11-13T14:38:00",
     "source": "XATAKA",
     "url": "https://www.xataka.com/magnet/3-1-millon-visualizaciones-unas-horas-entrevistas-jordi-wild-monopolizan-arranque-campana",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/seguridad/pedro-sanchez-podcast-jordi-wild-aqui-tienes-mi-movil-puedes-ver-que-quieras-ver",
-    "title": "Pedro Sánchez, en el podcast de Jordi Wild: \"Aquí tienes mi móvil, puedes ver lo que quieras ver\"",
-    "snippet": "Hoy ha empezado la campaña electoral para las elecciones generales del 29N y quizá no hayas notado nada diferente. Los partidos y candidatos andan en precampaña constante, por lo que solo cambia que, ahora, podremos ver ...",
-    "date": "2026-11-13T14:25:10",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seguridad/pedro-sanchez-podcast-jordi-wild-aqui-tienes-mi-movil-puedes-ver-que-quieras-ver",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/uno-mejores-moviles-pequenos-2026-a-minimo-historico-pixel-11-pro-cae-debajo-790-euros",
-    "title": "Uno de los mejores móviles pequeños de 2026, a mínimo histórico: el Pixel 11 Pro cae por debajo de los 790 euros",
-    "snippet": "Aunque tenemos muy buenas opciones si buscamos un móvil con pantalla grande, todavía hay muchos usuarios que prefieren una opción pequeña y compacta. De entre todos los móviles pequeños que se han lanzado en 2026, uno de...",
-    "date": "2026-11-13T14:15:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/uno-mejores-moviles-pequenos-2026-a-minimo-historico-pixel-11-pro-cae-debajo-790-euros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hallado-murcia-esqueleto-antiguo-lince-iberico-viaje-millon-anos-a-origenes-felino-emblematico",
-    "title": "Más de 60 huesos encontrados en Murcia han permitido reconstruir al lince ibérico más antiguo conocido: vivió hace un millón de años",
-    "snippet": "El lince ibérico es el felino más representativo de la península y, durante mucho tiempo, fue también uno de los más amenazados del planeta por su riesgo de desaparecer. Conocemos bien sus hábitos actuales, su inconfundi...",
-    "date": "2026-11-13T14:15:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hallado-murcia-esqueleto-antiguo-lince-iberico-viaje-millon-anos-a-origenes-felino-emblematico",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/ryanair-adelanta-a-60-minutos-cierre-equipaje-facturado-todos-sus-aeropuertos",
-    "title": "Ryanair adelanta a 60 minutos el cierre del equipaje facturado en todos sus aeropuertos",
-    "snippet": "Tal y como contábamos en abril, Ryanair ha cambiado el límite de tiempo para entregar el equipaje facturado en el aeropuerto. Desde este martes 10 de noviembre, los mostradores de entrega de maletas y facturación cierran...",
-    "date": "2026-11-13T14:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/ryanair-adelanta-a-60-minutos-cierre-equipaje-facturado-todos-sus-aeropuertos",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
-    "title": "Why Apple's HomeView relies so heavily on your iPhone",
-    "snippet": "To make the HomeView both personal and communal, there was only one place to go....",
-    "date": "2026-11-13T14:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/vivimos-rodeados-luces-ruido-nuestro-cuerpo-esta-pagando-asi-afecta-ciudad-a-nuestro-sueno",
-    "title": "Vivimos rodeados de luces y ruido, y nuestro cuerpo lo está pagando: así afecta la ciudad a nuestro sueño",
-    "snippet": "Basta con alejarse del asfalto, apagar el móvil e irse a mitad del campo para que nuestro cuerpo recuerde cómo funcionaba antes de que inventáramos la bombilla. Y es que en el ideario común se puede tener la idea de que ...",
-    "date": "2026-11-13T13:45:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/vivimos-rodeados-luces-ruido-nuestro-cuerpo-esta-pagando-asi-afecta-ciudad-a-nuestro-sueno",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3188070",
-    "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-    "snippet": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service....",
-    "date": "2026-11-13T13:15:20",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
     "category": "MERCADO"
   }
 ]
