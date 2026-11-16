@@ -1,5 +1,536 @@
 [
   {
+    "id": "https://www.cnet.com/rss/news/5206699",
+    "title": "Uber Adds Zoox’s Robotaxis to Its App. Everything to Know",
+    "snippet": "You could be paired with the boxy self-driving vehicles when hailing a ride in Las Vegas....",
+    "date": "2026-11-16T23:31:07",
+    "source": "CNET",
+    "url": "https://www.cnet.com/roadshow/automobiles/uber-adds-zoox-robotaxis/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+    "title": "How to put your iPad in recovery mode (with and without a home button)",
+    "snippet": "A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it's worth trying as a last resort....",
+    "date": "2026-11-16T23:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1035027",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board w...",
+    "date": "2026-11-16T23:17:34",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466847",
+    "title": "Venezuela: Bolipuertos realiza inspección a obras de modernización del Puerto de Guanta",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El presidente de la empresa Bolivariana de Puertos (Bolipuertos), Germán Gómez, visitó las obras de modernización\nLa entrada Venezuela: Bolipuertos realiza inspección a obra...",
+    "date": "2026-11-16T23:00:26",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/venezuela-bolipuertos-realiza-inspeccion-a-obras-de-modernizacion-del-puerto-de-guanta/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
+    "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
+    "snippet": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid...",
+    "date": "2026-11-16T23:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-presidenta-del-poder-judicial-participo-despedida-al-papa-leon-xiv-1100273.aspx",
+    "title": "Presidenta del Poder Judicial participó en despedida al papa León XIV",
+    "snippet": "La presidenta del Poder Judicial, Janet Tello Gilardi, participó hoy de la ceremonia de despedida del papa León XIV en el Grupo Aéreo 8, en el Callao, tras culminar su histórica visita apostólica de seis días al Perú....",
+    "date": "2026-11-16T22:46:06",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-presidenta-del-poder-judicial-participo-despedida-al-papa-leon-xiv-1100273.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
+    "title": "United Airlines has fixed issue that caused 'widespread system outage'",
+    "snippet": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights....",
+    "date": "2026-11-16T22:38:43",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466743",
+    "title": "MSC inaugura sede en Costa de Marfil",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario MSC inauguró nuevas instalaciones en Abiyán, Costa de Marfil, reuniendo a sus equipos de la naviera,\nLa entrada MSC inaugura sede en Costa de Marfil se publicó primero en Po...",
+    "date": "2026-11-16T22:30:55",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/msc-inaugura-sede-en-costa-de-marfil/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
+    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "snippet": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back....",
+    "date": "2026-11-16T22:21:27",
+    "source": "BBC BIZ",
+    "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466894",
+    "title": "Puerto de Paita recibe buques de la Marina peruana con recursos para atender posibles emergencias por fenómeno de El Niño",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Paita, operado por Terminales Portuarios Euroandinos (TPE), acogió el arribo de los buques\nLa entrada Puerto de Paita recibe buques de la Marina peruana con rec...",
+    "date": "2026-11-16T22:13:59",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/puerto-de-paita-recibe-buques-de-la-marina-peruana-con-recursos-para-atender-posibles-emergencias-por-fenomeno-de-el-nino/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189270",
+    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+    "snippet": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach....",
+    "date": "2026-11-16T22:12:31",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189019",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number o...",
+    "date": "2026-11-16T22:03:02",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-usuarios-pension-65-reciben-bendicion-sumo-pontifice-1100260.aspx",
+    "title": "Papa León XIV: usuarios de Pensión 65 reciben bendición de sumo pontífice",
+    "snippet": "Los corazones de María Piaggio, Antonio Chilo, Manuela Jiménez, María Rivera y Antonio Eleotero, usuarios del programa Pensión 65, latieron emocionados al recibir la bendición del papa León XIV, durante su visita a la ca...",
+    "date": "2026-11-16T22:00:00",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-usuarios-pension-65-reciben-bendicion-sumo-pontifice-1100260.aspx",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1033466",
+    "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+    "snippet": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings ...",
+    "date": "2026-11-16T21:41:57",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://andina.pe/agencia/noticia-minem-ejecuta-evaluacion-del-reinfo-pataz-estricto-acatamiento-a-orden-judicial-1100270.aspx",
+    "title": "Minem ejecuta evaluación del Reinfo en Pataz en estricto acatamiento a orden judicial",
+    "snippet": "El Ministerio de Energía y Minas (Minem) desmiente de manera firme y categórica las versiones difundidas por algunos dirigentes locales que acusan falsamente al sector de pretender excluir del Registro Integral de Formal...",
+    "date": "2026-11-16T21:30:52",
+    "source": "ANDINA",
+    "url": "https://andina.pe/agencia/noticia-minem-ejecuta-evaluacion-del-reinfo-pataz-estricto-acatamiento-a-orden-judicial-1100270.aspx",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466884",
+    "title": "Perú: Puerto de Paracas descarga 5.000 bultos con soda ash para proyecto pionero",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El Puerto de Paracas descargó 5.000 bultos con ceniza de soda (soda ash), destinados a Keda\nLa entrada Perú: Puerto de Paracas descarga 5.000 bultos con soda ash para proyec...",
+    "date": "2026-11-16T21:26:31",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/peru-puerto-de-paracas-descarga-5-000-bultos-con-soda-ash-para-proyecto-pionero/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
+    "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
+    "snippet": "You won't need to wait for TouchID on your $2,000 foldable....",
+    "date": "2026-11-16T21:17:24",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466775",
+    "title": "Uruguay: Corporación América inaugura centro logístico de USD 14 millones en Aeropuerto de Carrasco",
+    "snippet": "Por Redacción AltaMar News @AltaMar.News Con el propósito de consolidar a Uruguay como plataforma de distribución regional, Latam América Cargo\nLa entrada Uruguay: Corporación América inaugura centro logístico de USD 14 ...",
+    "date": "2026-11-16T21:00:08",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/uruguay-corporacion-america-inaugura-centro-logistico-de-usd-14-millones-en-aeropuerto-de-carrasco/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://lacamara.pe/?p=103961",
+    "title": "Agroexportaciones peruanas alcanzan los USD 9898 millones a setiembre de 2026",
+    "snippet": "Las agroexportaciones peruanas sumaron USD 9898 millones entre enero y setiembre de 2026, informó el Ministerio de Desarrollo Agrario y Riego (Midagri). Esta cifra representa un crecimiento de 1.2 % respecto al mismo per...",
+    "date": "2026-11-16T20:50:55",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/agroexportaciones-peruanas-alcanzan-los-usd-9898-millones-a-setiembre-de-2026/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466872",
+    "title": "Carga movilizada por puertos de la Región de Valparaíso aumenta 8,7% en septiembre de 2026",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario El sector portuario de la Región de Valparaíso presentó un rendimiento positivo en septiembre de 2026.\nLa entrada Carga movilizada por puertos de la Región de Valparaíso aum...",
+    "date": "2026-11-16T20:44:50",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/carga-movilizada-por-puertos-de-la-region-de-valparaiso-aumenta-87-en-septiembre-de-2026/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1034339",
+    "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+    "snippet": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and h...",
+    "date": "2026-11-16T20:36:14",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466876",
+    "title": "WCCL e Ian Taylor se alían para expandir soluciones logísticas multimodales en Chile, Perú y Bolivia",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario Ian Taylor Chile anunció que estableció una nueva alianza estratégica con West Coast Cargo Line (WCCL).\nLa entrada WCCL e Ian Taylor se alían para expandir soluciones logíst...",
+    "date": "2026-11-16T20:23:46",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/wccl-e-ian-taylor-se-alian-para-expandir-soluciones-logisticas-multimodales-en-chile-peru-y-bolivia/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://portalportuario.cl/?p=466863",
+    "title": "Colombia: Puerto Aguadulce destaca escala inaugural de CMA CGM Gold",
+    "snippet": "Por Redacción PortalPortuario @PortalPortuario La Sociedad Puerto Industrial Aguadulce destacó la escala inaugural que realizó el CMA CGM Gold, portacontenedores\nLa entrada Colombia: Puerto Aguadulce destaca escala inaug...",
+    "date": "2026-11-16T20:17:09",
+    "source": "PORTAL PORTUARIO",
+    "url": "https://portalportuario.cl/colombia-puerto-aguadulce-destaca-escala-inaugural-de-cma-cgm-gold/",
+    "category": "LOGÍSTICA"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/5205684",
+    "title": "Samsung Galaxy S27 Lineup Could Have a Personal AI Assistant Built-In",
+    "snippet": "Galaxy Claw could make calls and send text messages for you....",
+    "date": "2026-11-16T20:15:29",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/samsung-galaxy-claw-ai-assistant/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/guerra-ucrania-esta-teniendo-beneficiado-inesperado-mineria-ilegal-ambar",
+    "title": "La guerra de Ucrania está teniendo un beneficiado inesperado: la minería ilegal de ámbar",
+    "snippet": "Si nada cambia (y parece difícil) en febrero la guerra de Ucrania cumplirá cinco años, un lustro de enfrentamientos que se ha saldado con decenas de miles de fallecidos en ambos bandos, un gasto millonario en armamento y...",
+    "date": "2026-11-16T20:01:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/guerra-ucrania-esta-teniendo-beneficiado-inesperado-mineria-ilegal-ambar",
+    "category": "LEGAL"
+  },
+  {
+    "id": "https://www.theverge.com/?p=1034512",
+    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+    "snippet": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new a...",
+    "date": "2026-11-16T19:50:47",
+    "source": "THE VERGE",
+    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
+    "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
+    "snippet": "Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you....",
+    "date": "2026-11-16T19:30:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189094",
+    "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+    "snippet": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements....",
+    "date": "2026-11-16T19:26:55",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189047",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "snippet": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy....",
+    "date": "2026-11-16T19:12:02",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/espacio/spacex-ha-hecho-historia-vuelo-14-15-starship-ahora-espera-repetir-hazana-vuelo-16",
+    "title": "SpaceX ha hecho historia con el vuelo 14 y 15 de Starship: ahora espera repetir la hazaña con el vuelo 16",
+    "snippet": "El vuelo 14 de Starship fue un éxito, con su inserción en órbita por primera vez para depositar una carga útil. Solo la mitad del vuelo 15 ha sido exitoso, pero ha sido justamente la mitad más importante, así que hay un ...",
+    "date": "2026-11-16T19:01:21",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/espacio/spacex-ha-hecho-historia-vuelo-14-15-starship-ahora-espera-repetir-hazana-vuelo-16",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/",
+    "title": "Improve your Amazon Kindle experience by doing these simple things",
+    "snippet": "If you love the convenience of a Kindle but miss the feel of having a physical book in your hands, we have some tips for you....",
+    "date": "2026-11-16T19:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/playstation-plus-vuelve-oferta-black-friday-descuentos-33-niveles-essential-extra-premium",
+    "title": "PlayStation Plus vuelve de oferta por el Black Friday con descuentos de hasta el 33% en los niveles Essential, Extra y Premium",
+    "snippet": "Como cada año, PlayStation vuelve a la carga con nuevas ofertas en PlayStation Plus, su servicio de suscripción en la nube que también permite jugar online, entre otras cosas. Esta vez tenemos descuentos similares a los ...",
+    "date": "2026-11-16T18:45:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/playstation-plus-vuelve-oferta-black-friday-descuentos-33-niveles-essential-extra-premium",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/guerra-interna-control-nvidia-vuelta-jensen-huang-como-ceo-esta-encima-mesa",
+    "title": "Guerra interna por el control de Nvidia: la vuelta de Jensen Huang como CEO está encima de la mesa",
+    "snippet": "En poco menos de una semana, Jensen Huang pasó de ser uno de los CEO más alabados de Silicon Valley, a verse obligado a presentar su dimisión y dejar de dirigir Nvidia. Tras 33 años, Huang tiraba la toalla como CEO y anu...",
+    "date": "2026-11-16T18:31:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/guerra-interna-control-nvidia-vuelta-jensen-huang-como-ceo-esta-encima-mesa",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/esta-tele-miniled-enorme-tiene-casi-100-pulgadas-ha-bajado-precio-ideal-para-pelis-series-videojuegos",
+    "title": "Esta tele MiniLED es enorme: tiene casi 100 pulgadas, ha bajado de precio y es ideal para pelis, series y videojuegos",
+    "snippet": "Durante las semanas previas al Black Friday estamos viendo muchas ofertas en televisores. Si queremos un modelo de gran diagonal, en Amazon podemos encontrar el TCL 98T8D por 1.349 euros. Un buen precio teniendo en cuent...",
+    "date": "2026-11-16T18:15:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/esta-tele-miniled-enorme-tiene-casi-100-pulgadas-ha-bajado-precio-ideal-para-pelis-series-videojuegos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/5205745",
+    "title": "iPhone Duo Gets a Facial Unlock Feature, but It’s Not Face ID. What to Know",
+    "snippet": "Unlocking Apple’s foldable should get a lot easier, but there are some caveats....",
+    "date": "2026-11-16T18:13:41",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/iphone-duo-gets-facial-unlock-feature/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189053",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "snippet": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm....",
+    "date": "2026-11-16T18:11:10",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/audio/bluetooth-va-a-ser-casi-cuatro-veces-rapido-2027-auriculares-seran-primeros-notarlo",
+    "title": "El Bluetooth va a ser casi cuatro veces más rápido en 2027. Y los auriculares serán los primeros en notarlo",
+    "snippet": "La tecnología Bluetooth promete un gran salto a partir de 2027, y en el sector del audio van a ser los primeros en notar la diferencia. Y es que el Bluetooth Special Interest Group (SIG), la organización que mantiene el ...",
+    "date": "2026-11-16T18:01:21",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/audio/bluetooth-va-a-ser-casi-cuatro-veces-rapido-2027-auriculares-seran-primeros-notarlo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/movilidad/80-duenos-tesla-se-enfrentan-a-dos-anos-carcel-activar-ilegalmente-fsd",
+    "title": "80 dueños de Tesla se enfrentan a dos años de cárcel por activar ilegalmente el FSD",
+    "snippet": "80 personas han sido detenidas en Corea del Sur. El motivo: llegar donde Tesla no ha llegado. Ilegalmente, claro. Porque 80 dueños de coches de la marca estadounidense habrían activado ilegalmente el sistema Full Self Dr...",
+    "date": "2026-11-16T17:53:41",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/movilidad/80-duenos-tesla-se-enfrentan-a-dos-anos-carcel-activar-ilegalmente-fsd",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.cnet.com/rss/news/5205633",
+    "title": "I Put Xiaomi’s 18 Pro Max Camera to the Test and I Love the Results",
+    "snippet": "Xiaomi’s bonkers dual-screen phone is here and I’ve been testing its camera....",
+    "date": "2026-11-16T17:48:03",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/mobile/i-put-xiaomis-18-pro-max-camera-to-the-test-and-love-the-results/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/fregado-vapor-30-000-pa-potencia-succion-este-aspirador-seco-humedo-dreame-esta-black-friday-descuentazo",
+    "title": "Fregado con vapor y 30.000 Pa de potencia de succión: este aspirador en seco y húmedo de Dreame ya está de Black Friday con un descuentazo",
+    "snippet": "Con el poco tiempo que tenemos en nuestro día a día, cualquier dispositivo para ayudarnos a limpiar siempre es bien recibido. Obviando los robots aspiradores (que lo hacen casi todo solos), un buen aspirador en seco y hú...",
+    "date": "2026-11-16T17:45:23",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/fregado-vapor-30-000-pa-potencia-succion-este-aspirador-seco-humedo-dreame-esta-black-friday-descuentazo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/justicia-italiana-interviene-a-revolut-fallos-sus-sistemas-prevencion-blanqueo-capitales-sus-cuentas",
+    "title": "La justicia italiana interviene a Revolut por fallos en sus sistemas de prevención del blanqueo de capitales en sus cuentas",
+    "snippet": "Revolut basó su modelo de crecimiento en la facilidad para operar online, de forma automática y con la posibilidad de operar con criptodivisas ha encontrado en esa agilidad operativa su mayor problema con la justicia eur...",
+    "date": "2026-11-16T17:45:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/justicia-italiana-interviene-a-revolut-fallos-sus-sistemas-prevencion-blanqueo-capitales-sus-cuentas",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=103932",
+    "title": "INEI: tasa de desempleo baja a 4.4 % en 2026",
+    "snippet": "La tasa de desempleo en Lima Metropolitana se ubicó en 4.4 % durante el trimestre móvil de agosto, setiembre y octubre de 2026, informó el Instituto Nacional de Estadística e Informática (INEI). Esta cifra representa una...",
+    "date": "2026-11-16T17:36:04",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/inei-tasa-de-desempleo-baja-a-4-4-en-2026/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/primer-monitor-5k2k-39-pulgadas-mundo-tambien-se-suma-al-black-friday-descuentazo-500-euros",
+    "title": "El primer monitor 5K2K de 39 pulgadas del mundo también se suma al Black Friday con un descuentazo de 500 euros",
+    "snippet": "En el pasado mes de mayo, os contábamos cómo LG lanzaba su nuevo UltraGear OLED 39GX950B-B, el primer monitor de 39 pulgadas con doble resolución 5K2K. Lo hizo con un precio por encima de los 1.700 euros, pero ahora que ...",
+    "date": "2026-11-16T17:15:26",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/primer-monitor-5k2k-39-pulgadas-mundo-tambien-se-suma-al-black-friday-descuentazo-500-euros",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/domotica-1/piscina-alemania-dependia-microsoft-para-gestionar-su-nivel-cloro-cuando-cayo-varias-personas-terminaron-hospital",
+    "title": "Una piscina de Alemania dependía de Microsoft para gestionar su nivel de cloro. Cuando cayó, varias personas terminaron en el hospital",
+    "snippet": "El viernes pasado, medio mundo volvió a ser testigo de lo que ocurre cuando tantísimos sistemas dependen de una sola compañía y los servidores, simplemente, dejan de funcionar. La caída de Microsoft comenzó el pasado jue...",
+    "date": "2026-11-16T17:01:27",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/domotica-1/piscina-alemania-dependia-microsoft-para-gestionar-su-nivel-cloro-cuando-cayo-varias-personas-terminaron-hospital",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3188922",
+    "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+    "snippet": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app....",
+    "date": "2026-11-16T17:00:00",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
+    "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
+    "snippet": "The app will become even more of a shopping mall, just in time for Black Friday....",
+    "date": "2026-11-16T17:00:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/mi-accesorio-favorito-para-ver-pelis-no-barra-sonido-sino-este-kit-luces-oferta-que-expande-colores-tele",
+    "title": "​​Mi accesorio favorito para ver pelis no es una barra de sonido, sino este kit de luces en oferta que expande los colores de la tele",
+    "snippet": "La tecnología Ambilight de Philips siempre me ha llamado la atención, y por esta razón hace poco decidí comprar el Govee TV Backlight 3 Lite. Se trata de un kit de luces bastante interesante para tener una mayor inmersió...",
+    "date": "2026-11-16T16:45:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/mi-accesorio-favorito-para-ver-pelis-no-barra-sonido-sino-este-kit-luces-oferta-que-expande-colores-tele",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.engadget.com/2314367/smart-home-hub-placement-importance/",
+    "title": "Your smart home hub placement is more important than you'd think",
+    "snippet": "Keeping your smart home network functioning properly starts with understanding where to place it in relation to your smart devices and Wi-Fi router....",
+    "date": "2026-11-16T16:45:00",
+    "source": "ENGADGET",
+    "url": "https://www.engadget.com/2314367/smart-home-hub-placement-importance/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/magnet/encapuchado-sube-a-panel-trafico-a-92-uno-accesos-a-sevilla-prende-fuego-a-radar-huye",
+    "title": "Un encapuchado sube a un panel de tráfico sobre la A-92, en uno de los accesos a Sevilla, prende fuego a un radar y huye",
+    "snippet": "Hay un aparato en España que tiene más enemigos que Batman, si bien solo cumplen una función informativa: el radar de tramo. Y es que ayer mismo alguien encapuchado se subió a la estructura de un panel informativo sobre ...",
+    "date": "2026-11-16T16:30:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/magnet/encapuchado-sube-a-panel-trafico-a-92-uno-accesos-a-sevilla-prende-fuego-a-radar-huye",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/comprar-pc-gaming-movil-puede-salirte-60-barato-black-friday-pccomponentes",
+    "title": "Comprar un PC Gaming o un móvil puede salirte hasta un 60% más barato en el Black Friday de PcComponentes",
+    "snippet": "Históricamente, el Black Friday siempre ha tenido lugar el último viernes de noviembre (el día de su celebración propiamente dicho) o la última semana completa del mes. Sin embargo, hace tiempo que podemos ver cómo las t...",
+    "date": "2026-11-16T16:15:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/comprar-pc-gaming-movil-puede-salirte-60-barato-black-friday-pccomponentes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "6af7749c3101511031c45454",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "snippet": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself....",
+    "date": "2026-11-16T16:12:51",
+    "source": "WIRED",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/llega-primera-oferta-tablet-alexa-12-pro-alexa-pantalla-nanomatte-2-8k",
+    "title": "Llega la primera oferta en la tablet Alexa 12 Pro con Alexa+ y pantalla nanomatte 2.8K",
+    "snippet": "Amazon no suele bajar el precio de sus dispositivos más recientes en campañas como el Black Friday, pero hay algunas excepciones. Tras presentar sus nuevas tablets hace muy pocas semanas, ahora podemos encontrar de ofert...",
+    "date": "2026-11-16T16:01:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/llega-primera-oferta-tablet-alexa-12-pro-alexa-pantalla-nanomatte-2-8k",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/videojuegos/musica-siempre-ha-sido-parte-fundamental-gta-paso-uno-sus-activos-financieros-potentes",
+    "title": "Rockstar se está convirtiendo en una “discográfica” porque la música de 'GTA VI' es ya tan rentable como el propio juego",
+    "snippet": "Rockstar venderá su juego más esperado sin disco y, al mismo tiempo, pondrá su música en CD, en vinilo y en una edición limitada que cuesta más que el propio juego. La aparente contradicción tiene toda la lógica (aunque ...",
+    "date": "2026-11-16T16:00:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/videojuegos/musica-siempre-ha-sido-parte-fundamental-gta-paso-uno-sus-activos-financieros-potentes",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/xataka-xtra/nuevo-sorteo-exclusivo-para-suscriptores-xataka-xtra-asi-puedes-conseguir-impresora-3d-elegoo-centauri-carbon-2-combo",
+    "title": "Nuevo sorteo exclusivo para suscriptores de Xataka Xtra: así puedes conseguir una impresora 3D Elegoo Centauri Carbon 2 Combo",
+    "snippet": "Avanza noviembre, el frío ya se va notando y toca animar el arranque de semana con un nuevo sorteo (¡allá vamos!). En esta ocasión, el premio es una Elegoo Centauri Carbon 2 Combo, una impresora 3D cerrada de alta veloci...",
+    "date": "2026-11-16T15:45:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/xataka-xtra/nuevo-sorteo-exclusivo-para-suscriptores-xataka-xtra-asi-puedes-conseguir-impresora-3d-elegoo-centauri-carbon-2-combo",
+    "category": "MERCADO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/cuesta-mitad-que-nuevo-modelo-galaxy-watch-ultra-sigue-siendo-uno-mejores-relojes-wearos",
+    "title": "Cuesta la mitad que el nuevo modelo: el Galaxy Watch Ultra sigue siendo uno de los mejores relojes con WearOS",
+    "snippet": "Un smartwatch es un dispositivo muy útil en el día a día: te puede ayudar a medir tus entrenamientos, a contestar mensajes o a saber cómo descansas por la noche. Ahora que estamos prácticamente en Black Friday es buen mo...",
+    "date": "2026-11-16T15:31:22",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/cuesta-mitad-que-nuevo-modelo-galaxy-watch-ultra-sigue-siendo-uno-mejores-relojes-wearos",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/empresas-y-economia/nvidia-no-ha-despedido-a-jensen-huang-ha-aceptado-su-dimision-esa-diferencia-puede-servir-vuelva",
+    "title": "Nvidia no ha despedido a Jensen Huang: ha aceptado su dimisión, y esa diferencia abre la puerta a su vuelta",
+    "snippet": "Hace un año, Huang resumió así su longevidad como CEO: “primero: no ser despedido”. Ha cumplido la regla hasta su último minuto en NVIDIA. El 11 de noviembre el consejo de NVIDIA aceptó su dimisión como CEO y consejero. ...",
+    "date": "2026-11-16T15:30:00",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/empresas-y-economia/nvidia-no-ha-despedido-a-jensen-huang-ha-aceptado-su-dimision-esa-diferencia-puede-servir-vuelva",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://lacamara.pe/?p=103912",
+    "title": "Precio del dólar en Perú hoy, 16 de noviembre de 2026",
+    "snippet": "De acuerdo con la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), el tipo de cambio oficial de este lunes 16 de noviembre a las 10:05 a. m. se sitúa en S/3.398 para la compra y S/3.404 para l...",
+    "date": "2026-11-16T15:09:20",
+    "source": "LA CÁMARA (CCL)",
+    "url": "https://lacamara.pe/precio-del-dolar-en-peru-hoy-16-de-noviembre-de-2026/",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://www.xataka.com/seleccion/dyson-ha-rebajado-sus-aspiradoras-superventas-viene-regalo",
+    "title": "Dyson ha rebajado una de sus aspiradoras superventas y, además, viene con regalo",
+    "snippet": "Cuando se trata de aspiradoras sin cable, Dyson sigue siendo la marca indiscutible en potencia y comodidad, aunque sus precios habituales suelen invitar a esperar el momento adecuado. Esee momento acaba de llegar en su p...",
+    "date": "2026-11-16T15:03:25",
+    "source": "XATAKA",
+    "url": "https://www.xataka.com/seleccion/dyson-ha-rebajado-sus-aspiradoras-superventas-viene-regalo",
+    "category": "TRIBUTARIO"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3188900",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "snippet": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries....",
+    "date": "2026-11-16T15:02:34",
+    "source": "TECHCRUNCH",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "category": "MERCADO"
+  },
+  {
     "id": "https://www.xataka.com/espacio/amazon-pierde-40-satelites-explosion-cohete-vulcan-gran-reves-a-sus-ambiciosos-planes",
     "title": "Amazon pierde 40 satélites tras la explosión de un cohete Vulcan: es un gran revés a sus ambiciosos planes",
     "snippet": "Por si el pique entre Elon Musk y Jeff Bezos no fuese ya algo legendario, este fin de semana el azar-o la tecnología- ha llevado sus diferencias a otro nivel. El CEO de SpaceX ha hecho historia recuperando por primera ve...",
@@ -816,537 +1347,6 @@
     "date": "2026-11-15T16:15:00",
     "source": "ENGADGET",
     "url": "https://www.engadget.com/2313709/gaming-pc-vs-console-gpu-difference-between/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/2010-vimos-avispa-rara-pueblo-navarra-hoy-velutinas-ocupan-18-espana-peninsular",
-    "title": "En 2010 vimos una avispa rara en este idílico pueblo de Navarra. Hoy las velutinas ya ocupan el 18% de la España peninsular",
-    "snippet": "Es 5 de enero de 2019. De noche. Un equipo baja un nido de avispas asiáticas de un sauce blanco en Nigrán (Pontevedra). Está a 12 metros del suelo y en él vivían 1979 avispas velutinas, sin contar los huevos. Era una col...",
-    "date": "2026-11-15T16:01:24",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/2010-vimos-avispa-rara-pueblo-navarra-hoy-velutinas-ocupan-18-espana-peninsular",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=466666",
-    "title": "Desembarcan dos nuevas grúas móviles portuarias híbridas en APM Terminals Yucatán",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario En el Puerto de Progreso, México, se desembarcó dos nuevas grúas móviles portuarias híbridas para APM\nLa entrada Desembarcan dos nuevas grúas móviles portuarias híbridas en ...",
-    "date": "2026-11-15T16:00:25",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/desembarcan-dos-nuevas-gruas-moviles-portuarias-hibridas-en-apm-terminals-yucatan/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2313706/use-android-phone-as-computer-speaker/",
-    "title": "Can you use your Android phone as a computer speaker?",
-    "snippet": "If you've got an old Android phone lying around, it may be possible to give the device new life as a computer speaker....",
-    "date": "2026-11-15T15:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313706/use-android-phone-as-computer-speaker/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/chuleton-lentejas-estudio-finlandes-relaciona-proteina-vegetal-niveles-altos-testosterona",
-    "title": "Menos chuletón, más lentejas: un estudio finlandés relaciona la proteína vegetal con niveles más altos de testosterona",
-    "snippet": "El imaginario tradicional relaciona la testosterona con hombres muy viriles y a esos hombres viriles los asocia mucho más con un buen chuletón que con un plato de lentejas. Sin embargo, según un estudio publicado recient...",
-    "date": "2026-11-15T15:31:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/chuleton-lentejas-estudio-finlandes-relaciona-proteina-vegetal-niveles-altos-testosterona",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2313699/iphone-duo-vs-oppo-find-n6-foldable-comparison/",
-    "title": "iPhone Duo Vs Oppo Find N6: How these foldables compare",
-    "snippet": "The foldable smartphone scene is exploding as Apple has just announced it is finally entering the arena. Here's how the iPhone Duo compares to the Oppo Find N6....",
-    "date": "2026-11-15T15:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313699/iphone-duo-vs-oppo-find-n6-foldable-comparison/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/videojuegos/gta-v-a-gta-vi-13-anos-4-700-empleados-industria-que-sigue-apartandose-camino-rockstar",
-    "title": "De 'GTA V' a 'GTA VI': 13 años, 4.700 empleados y una industria que sigue apartándose del camino de Rockstar",
-    "snippet": "'Grand Theft Auto VI' sale este 19 de noviembre, 13 añazos después de que 'GTA V' llegara a las tiendas. En ese tiempo, Rockstar ha casi duplicado su plantilla, ha dejado de publicar juegos con la frecuencia de antaño y ...",
-    "date": "2026-11-15T15:01:31",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/videojuegos/gta-v-a-gta-vi-13-anos-4-700-empleados-industria-que-sigue-apartandose-camino-rockstar",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=466664",
-    "title": "Buques son alcanzados por drones en el mar Negro cerca del canal rumano de Sulina",
-    "snippet": "Por Redacción PortalPortuario/Agencia Reuters @PortalPortuario Tres buques mercantes fueron alcanzados por drones en el mar Negro, cerca del canal rumano\nLa entrada Buques son alcanzados por drones en el mar Negro cerca ...",
-    "date": "2026-11-15T15:00:03",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/buques-son-alcanzados-por-drones-en-el-mar-negro-cerca-del-canal-rumano-de-sulina/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo#0",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "snippet": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions....",
-    "date": "2026-11-15T14:56:21",
-    "source": "BBC BIZ",
-    "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
-    "title": "How long will your NVIDIA GPU be supported?",
-    "snippet": "Graphics cards do not have an expiration date on the box., but we can help you figure out which clicking tocks are most important to your system's performance....",
-    "date": "2026-11-15T14:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/que-nos-entra-sueno-despues-comer-culpa-no-solo-comida-sino-nuestro-reloj-biologico",
-    "title": "Por qué nos entra sueño después de comer: la culpa no es solo de la comida, sino de nuestro reloj biológico",
-    "snippet": "Hay mucha gente que, cuando termina de comer y vuelve a su puesto de trabajo o incluso se sienta en el sofá, automáticamente siente como si los párpados comenzaran a pesarles como si estuvieran hechos de plomo. Esto es a...",
-    "date": "2026-11-15T14:31:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/que-nos-entra-sueno-despues-comer-culpa-no-solo-comida-sino-nuestro-reloj-biologico",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/espacio/anos-buscando-energia-oscura-estos-cientificos-sugieren-que-respuesta-estaba-ecuaciones-einstein-siempre",
-    "title": "Tantos años buscando la energía oscura y unos científicos creen que la respuesta ya la había formulado Einstein",
-    "snippet": "En 1917, después de enunciar su Teoría de la Relatividad General, Einstein introdujo un término, llamado constante cosmológica, que servía para explicar el Universo como algo estático. Más tarde, en 1929, Edwin Hubble de...",
-    "date": "2026-11-15T14:01:24",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/espacio/anos-buscando-energia-oscura-estos-cientificos-sugieren-que-respuesta-estaba-ecuaciones-einstein-siempre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "CBMi_gFBVV95cUxNT3dEN1d2WWkzZzRqYmFlRThjU1JMWWVmekRYajEwZWZGaEs4OXMyeXJNb21VcHZEQWktMkI5bWJSLUxuLVEtc2NOelpqS2huYm9LMExHYWNxd3NXVXVTZ05GV0ZYQ2FnalJLdENiVVk1N3F2a0tfb1hFSGpoaUZaZnYtUlZMUG1NeWhmVXR4WEd5ZEQwdGszTjktOHctV19FWFEzOVNWWG0yTnVydEVOTFljd3hRZnNKeVZQbGpZTUxMZnFzZ0VDSktnME1hWFJvY0RGdG4yOVFmeFNyOWJpWlo3MUg1alpvSkRWRXRyb2YzRkFFeXF6Yk9XN3pZUQ",
-    "title": "Facilidades tributarias para los subsectores pesca y acuicultura, y los sectores textil y confecciones - Plataforma del Estado Peruano",
-    "snippet": "Facilidades tributarias para los subsectores pesca y acuicultura, y los sectores textil y confecciones  Plataforma del Estado Peruano...",
-    "date": "2026-11-15T13:36:15",
-    "source": "SUNAT",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT3dEN1d2WWkzZzRqYmFlRThjU1JMWWVmekRYajEwZWZGaEs4OXMyeXJNb21VcHZEQWktMkI5bWJSLUxuLVEtc2NOelpqS2huYm9LMExHYWNxd3NXVXVTZ05GV0ZYQ2FnalJLdENiVVk1N3F2a0tfb1hFSGpoaUZaZnYtUlZMUG1NeWhmVXR4WEd5ZEQwdGszTjktOHctV19FWFEzOVNWWG0yTnVydEVOTFljd3hRZnNKeVZQbGpZTUxMZnFzZ0VDSktnME1hWFJvY0RGdG4yOVFmeFNyOWJpWlo3MUg1alpvSkRWRXRyb2YzRkFFeXF6Yk9XN3pZUQ?oc=5",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-cusco-multitud-fieles-espera-al-papa-leon-xiv-sacsayhuaman-plaza-armas-y-calles-1100064.aspx",
-    "title": "Cusco: multitud de fieles espera al papa León XIV en Sacsayhuamán, plaza de armas y calles",
-    "snippet": "Miles de cusqueños hacen colas para ingresar a la explanada del parque arqueológico de Sacsayhuamán y la plaza de armas de Cusco, mientras otros muchos se ubican en la \"ruta del papa\", que comprende desde el aeropuerto t...",
-    "date": "2026-11-15T13:32:03",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-cusco-multitud-fieles-espera-al-papa-leon-xiv-sacsayhuaman-plaza-armas-y-calles-1100064.aspx",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.xataka.com/energia/europa-sabe-precio-llenar-sus-costas-parques-eolicos-marinos-lluvias",
-    "title": "Europa ya sabe el precio de llenar sus costas con parques eólicos marinos: menos lluvias",
-    "snippet": "En el objetivo de la UE de lograr la neutralidad climática para 2050, la energía eólica es un actor esencial para conseguirlo y dentro de los aerogeneradores hay un segmento que tiene un papel importante: la offshore. La...",
-    "date": "2026-11-15T13:31:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/energia/europa-sabe-precio-llenar-sus-costas-parques-eolicos-marinos-lluvias",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2311090/how-to-transfer-spotify-playlist-songs-to-apple-music/",
-    "title": "The right way to transfer your Spotify playlists and songs to Apple Music",
-    "snippet": "Learn how to transfer Spotify playlists to Apple Music on iPhone, iPad, Android or the web, and what you need before you move your songs over....",
-    "date": "2026-11-15T13:15:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2311090/how-to-transfer-spotify-playlist-songs-to-apple-music/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-mef-declara-reorganizacion-organismo-para-las-contrataciones-publicas-eficientes-1100061.aspx",
-    "title": "MEF declara en reorganización el Organismo para las Contrataciones Públicas Eficientes",
-    "snippet": "El Ministerio de Economía y Finanzas (MEF) declaró en reorganización el Organismo Especializado para las Contrataciones Públicas Eficientes (OECE), por el plazo de 90 días calendario, con el objeto de evaluar su situació...",
-    "date": "2026-11-15T13:04:20",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-mef-declara-reorganizacion-organismo-para-las-contrataciones-publicas-eficientes-1100061.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/entrevistas/malaga-podremos-hacer-cosas-que-belgica-estan-totalmente-prohibidas-hablamos-karel-van-gils-director-general-imec-spain",
-    "title": "\"En Málaga podremos hacer cosas que en Bélgica están totalmente prohibidas\": hablamos con Karel van Gils, director general de imec Spain",
-    "snippet": "Imec (Interuniversity Microelectronics Centre o Centro Interuniversitario de Microelectrónica) es el laboratorio de investigación especializado en el desarrollo de semiconductores avanzados más importante de Europa. Y un...",
-    "date": "2026-11-15T13:01:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/entrevistas/malaga-podremos-hacer-cosas-que-belgica-estan-totalmente-prohibidas-hablamos-karel-van-gils-director-general-imec-spain",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.theverge.com/?p=1033943",
-    "title": "An overview of Jensen Huang’s messy days",
-    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba...",
-    "date": "2026-11-15T13:00:00",
-    "source": "THE VERGE",
-    "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-leon-xiv-pucallpa-conoce-las-actividades-del-papa-la-emblematica-ciudad-amazonica-1099833.aspx",
-    "title": "León XIV en Pucallpa: conoce las actividades del Papa en la emblemática ciudad amazónica",
-    "snippet": "Pucallpa, emblemática ciudad de la amazonía que en tiempos recientes viene siendo tomada como ejemplo de desarrollo en la referida zona del planeta, recibirá al papa León XIV este domingo 15 de noviembre, desarrollando e...",
-    "date": "2026-11-15T12:45:00",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-leon-xiv-pucallpa-conoce-las-actividades-del-papa-la-emblematica-ciudad-amazonica-1099833.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-domingo-15-noviembre-2026-1100052.aspx",
-    "title": "Estas son las normas legales más importantes del domingo 15 de noviembre de 2026",
-    "snippet": "El boletín Normas Legales del Diario Oficial El Peruano difunde una serie de dispositivos de interés público y de impacto para la marcha del país. Conoce a continuación cuáles son las normas legales más relevantes de hoy...",
-    "date": "2026-11-15T12:36:42",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-estas-son-las-normas-legales-mas-importantes-del-domingo-15-noviembre-2026-1100052.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/analisis/lg-xboom-blast-analisis-caracteristicas-precio-especificaciones",
-    "title": "LG xboom Blast, análisis: es grande y pesa, pero es un altavoz Bluetooth mucho más versátil de lo que dejan caer su diseño y colores",
-    "snippet": "La gama xboom de LG lleva más o menos una década en el mercado y desde entonces la marca ha explorado todo lo que se podía explorar en el terreno del audio doméstico. Hace un par de años además comenzaron una colaboració...",
-    "date": "2026-11-15T12:31:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/analisis/lg-xboom-blast-analisis-caracteristicas-precio-especificaciones",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/mercado-vivienda-capitales-esta-rato-que-esta-acabando-plan-b-muchas-familias-comprar-periferia",
-    "title": "Madrid ya está saturado, así que el mercado de la vivienda se está disparando ahora en Torrejón, Parla y Alcorcón",
-    "snippet": "Es lo más lógico. Si quieres comprar un piso en el centro de Madrid pero no tienes dinero suficiente acabas buscando alternativas en las afueras o municipios limítrofes, áreas en las que (en teoría) el mercado debería es...",
-    "date": "2026-11-15T12:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/mercado-vivienda-capitales-esta-rato-que-esta-acabando-plan-b-muchas-familias-comprar-periferia",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/esta-aldea-asturiana-quedan-seis-habitantes-dos-ellos-dos-mujeres-que-pasan-dia-jugando-al-parchis",
-    "title": "En esta aldea asturiana quedan seis habitantes. Dos de ellos son dos mujeres que pasan el día jugando al parchís",
-    "snippet": "En Xataka ya hemos hablado de aquel pueblo asturiano que nació para una térmica y se quedó vacío. O también de la villa con 14 casas que ahora mismo está a la venta, entero. Cansinos es la tercera versión: nadie cerró na...",
-    "date": "2026-11-15T11:33:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/esta-aldea-asturiana-quedan-seis-habitantes-dos-ellos-dos-mujeres-que-pasan-dia-jugando-al-parchis",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
-    "title": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
-    "snippet": "La escasez de memoria provocada por el auge de la IA es ya uno de los mayores problemas de suministro del sector tecnológico. Los precios se han disparado y los fabricantes prevén que se prolongue hasta, al menos, 2028. ...",
-    "date": "2026-11-15T11:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/china-estrena-su-avion-electrico-pilotos-a-bordo-no-revela-importante-bateria",
-    "title": "China estrena su avión eléctrico por fin con gente a bordo, pero no revela lo más importante: la batería",
-    "snippet": "China acaba de dar un paso de gigante hacia la aviación comercial eléctrica: la compañía aeronáutica estatal COMAC ha culminado con éxito el primer vuelo con tripulación de su avión comercial eléctrico, el CE-25A, del qu...",
-    "date": "2026-11-15T10:30:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/china-estrena-su-avion-electrico-pilotos-a-bordo-no-revela-importante-bateria",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
-    "title": "La IA más rentable de 2027 no va a explicarnos nada. Solo nos dará respuestas como un 0,82 o un 0,16",
-    "snippet": "Ya hace casi cuatro años del momento ChatGPT. Ese día en que todo empezó a cambiar. En estos casi cuatro años hemos tendido a medir la IA por lo bien que habla. Si escribe como una persona, si tiende a darnos la razón y ...",
-    "date": "2026-11-15T10:01:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/seleccion/cinco-ofertas-para-aprovechar-ofertas-previas-al-black-friday-corte-ingles-mediamarkt-hoy-15-noviembre",
-    "title": "Cinco ofertas para aprovechar las ofertas previas al Black Friday de El Corte Inglés y MediaMarkt, hoy 15 de noviembre",
-    "snippet": "Tanto MediaMarkt como El Corte Inglés están celebrando el periodo previo al Black Friday con numerosas ofertas en tecnología, por lo que en este artículo hemos reunido los mejores chollos que estarán disponibles durante ...",
-    "date": "2026-11-15T09:15:25",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/seleccion/cinco-ofertas-para-aprovechar-ofertas-previas-al-black-friday-corte-ingles-mediamarkt-hoy-15-noviembre",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/magnet/espana-no-esta-llena-vacia-esta-concentrada-este-mapa-demuestra",
-    "title": "España no está llena ni vacía: está concentrada, y este mapa lo demuestra",
-    "snippet": "El Instituto Nacional de Estadística dice que la población de España es de 49.801.559 personas a 1 de julio de 2026. La densidad poblacional de España es de unos 95-97 habitante/por kilómetro cuadrado frente a los 109,1 ...",
-    "date": "2026-11-15T09:01:27",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/magnet/espana-no-esta-llena-vacia-esta-concentrada-este-mapa-demuestra",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/privacidad/italia-multa-a-meta-805-millones-euros-mirar-galeria-20-millones-moviles",
-    "title": "Italia pone un multazo a Meta de 805 millones por acceder sin permiso a la galería de 20 millones de móviles",
-    "snippet": "Meta puede sumar una multa más a su larga lista de escándalos relacionados con la privacidad y además es una de las más duras de su historia: el Garante per la Protezione dei Dati Personali (algo así como la agencia ital...",
-    "date": "2026-11-15T07:42:00",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/privacidad/italia-multa-a-meta-805-millones-euros-mirar-galeria-20-millones-moviles",
-    "category": "LEGAL"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/hielo-tierra-cruza-linea-roja-historica-ciencia-advierte-que-criosfera-ha-superado-sus-umbrales-seguros",
-    "title": "El hielo de la Tierra cruza una línea roja histórica: la ciencia advierte que la criosfera ha superado sus \"umbrales seguros\"",
-    "snippet": "Las regiones heladas de nuestro planeta están perdiendo la batalla. Tras años de advertencias, una investigación acaba de confirmar lo que muchos temían: la criosfera terrestre ha salido oficialmente de su \"espacio segur...",
-    "date": "2026-11-15T07:01:22",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/hielo-tierra-cruza-linea-roja-historica-ciencia-advierte-que-criosfera-ha-superado-sus-umbrales-seguros",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.xataka.com/medicina-y-salud/medicos-siguen-teniendo-guardias-24-horas-hospitales-origen-todo-cocaina",
-    "title": "Los médicos siguen teniendo guardias de 24 horas en los hospitales. El origen de todo es la cocaína",
-    "snippet": "La necesidad es la madre de todas las invenciones, dicen.\nCada tanto tiempo, uno se pregunta por qué los médicos residentes trabajan jornadas maratonianas. El Estatuto Jurídico del Personal Médico de nuestro país apunta ...",
-    "date": "2026-11-15T06:01:26",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/medicina-y-salud/medicos-siguen-teniendo-guardias-24-horas-hospitales-origen-todo-cocaina",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
-    "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
-    "snippet": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5....",
-    "date": "2026-11-15T01:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
-    "title": "This Sony patent would add a credit card reader to your PlayStation controller",
-    "snippet": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming....",
-    "date": "2026-11-15T00:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
-    "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
-    "snippet": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider....",
-    "date": "2026-11-15T00:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3188673",
-    "title": "Where was Nvidia’s security team?",
-    "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig...",
-    "date": "2026-11-15T00:08:07",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
-    "title": "There's a hidden way you can check which services are running on your Android phone",
-    "snippet": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps....",
-    "date": "2026-11-15T00:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
-    "title": "One cable mistake could be killing your desktop PC's gaming performance",
-    "snippet": "Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back....",
-    "date": "2026-11-14T23:30:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-cuando-y-a-hora-vuelve-a-lima-y-por-calles-pasara-1099964.aspx",
-    "title": "Papa León XIV: ¿cuándo y a qué hora vuelve a Lima y por qué calles pasará?",
-    "snippet": "El regreso a su querida Chiclayo, el jueves 13 de noviembre, fue uno de los momentos más esperados del viaje apostólico del papa León XIV por Sudamérica. En la capital de Lambayeque, el Sumo Pontífice congregó a cerca de...",
-    "date": "2026-11-14T23:29:39",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-cuando-y-a-hora-vuelve-a-lima-y-por-calles-pasara-1099964.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-italia-impone-a-meta-una-multa-millonaria-acceder-a-fotos-sin-consentimiento-1100007.aspx",
-    "title": "Italia impone a Meta una multa millonaria por acceder a fotos sin consentimiento",
-    "snippet": "La autoridad italiana de protección de datos anunció el sábado una multa a Meta, empresa matriz de Facebook, de 805 millones de euros (887 millones de dólares) por acceder a fotografías de los usuarios sin su consentimie...",
-    "date": "2026-11-14T23:01:31",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-italia-impone-a-meta-una-multa-millonaria-acceder-a-fotos-sin-consentimiento-1100007.aspx",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=466336",
-    "title": "España: Obras del nuevo muelle Raos 6 del Puerto de Santander alcanzan un 50% de avance",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Las obras del nuevo muelle Raos 6 del Puerto de Santander (España) alcanzaron un 50% de\nLa entrada España: Obras del nuevo muelle Raos 6 del Puerto de Santander alcanzan un ...",
-    "date": "2026-11-14T23:00:42",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/espana-obras-del-nuevo-muelle-raos-6-del-puerto-de-santander-alcanzan-un-50-de-avance/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=466632",
-    "title": "MSC recibe segundo portacontenedores de 14.000 TEU construido por Jiangnan Shipyard",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Mediterranean Shipping Company (MSC) recibió el MSC Florence XV, segundo portacontenedores de una serie de embarcaciones\nLa entrada MSC recibe segundo portacontenedores de 1...",
-    "date": "2026-11-14T22:59:01",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/msc-recibe-segundo-portacontenedores-de-14-000-teu-construido-por-jiangnan-shipyard/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-llega-a-zana-medio-fuegos-artificiales-amazonas-y-chalanes-1100004.aspx",
-    "title": "Papa León XIV llega a Zaña en medio de fuegos artificiales, amazonas y chalanes",
-    "snippet": "Una gran expectativa se vive en el distrito de Zaña, en la región Lambayeque, con la llegada del papa León XIV al Santuario de Santo Toribio de Mogrovejo, donde participará en un encuentro de oración como parte de su vis...",
-    "date": "2026-11-14T22:32:01",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-llega-a-zana-medio-fuegos-artificiales-amazonas-y-chalanes-1100004.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-el-gigante-de-amazonia-fondepes-mejora-reproduccion-del-paiche-loreto-1100002.aspx",
-    "title": "\"El gigante de la Amazonía\": Fondepes mejora la reproducción del paiche en Loreto",
-    "snippet": "La visita del papa León XIV a Pucallpa, donde se reunirá con representantes de los pueblos amazónicos, pone en el foco la riqueza natural de la Amazonía peruana, hogar del paiche (Arapaima gigas), uno de los peces de agu...",
-    "date": "2026-11-14T22:18:56",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-el-gigante-de-amazonia-fondepes-mejora-reproduccion-del-paiche-loreto-1100002.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=466588",
-    "title": "Movimiento de carga en puertos de Croacia crece 18,5% en tercer trimestre",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Los puertos de Croacia registraron un movimiento de carga que ascendió a 6,6 millones de toneladas\nLa entrada Movimiento de carga en puertos de Croacia crece 18,5% en tercer...",
-    "date": "2026-11-14T22:00:23",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/movimiento-de-carga-en-puertos-de-croacia-crece-185-en-tercer-trimestre/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/",
-    "title": "Here's when a dedicated graphics card is worth it",
-    "snippet": "Modern iGPUs are surprisingly capable, but they aren't without limitations....",
-    "date": "2026-11-14T21:45:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-midagri-peru-registra-mas-364000-vicunas-distribuidas-16-regiones-1099994.aspx",
-    "title": "Midagri: Perú registra más de 364,000 vicuñas distribuidas en 16 regiones",
-    "snippet": "El Perú alberga en la actualidad una población de 364,467 vicuñas distribuidas en 16 regiones del país, cifra que refleja “la recuperación de esta emblemática especie de los Andes”....",
-    "date": "2026-11-14T21:44:50",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-midagri-peru-registra-mas-364000-vicunas-distribuidas-16-regiones-1099994.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3188741",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon....",
-    "date": "2026-11-14T21:41:22",
-    "source": "TECHCRUNCH",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-5000-policias-garantizaran-seguridad-la-misa-las-palmas-1099993.aspx",
-    "title": "Papa León XIV: 5,000 policías garantizarán la seguridad en la misa en Las Palmas",
-    "snippet": "Un contingente de aproximadamente 5,000 efectivos de la Policía Nacional del Perú (PNP) garantizará la seguridad durante la misa de despedida del papa León XIV del Perú, que se realizará este lunes 16 de noviembre en la ...",
-    "date": "2026-11-14T21:39:56",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-5000-policias-garantizaran-seguridad-la-misa-las-palmas-1099993.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-teatro-humo-la-neblina-un-retrato-critico-lima-protagoniza-reynaldo-arenas-1099991.aspx",
-    "title": "Teatro: “Humo en la neblina”, un retrato crítico de Lima que protagoniza Reynaldo Arenas",
-    "snippet": "El viernes 20 se estrenará “Humo en la neblina”, obra escrita por Eduardo Adrianzén y dirigida por Sergio Velarde, que rinde homenaje al pensador Sebastián Salazar Bondy y funciona como espejo de la sociedad peruana....",
-    "date": "2026-11-14T21:25:26",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-teatro-humo-la-neblina-un-retrato-critico-lima-protagoniza-reynaldo-arenas-1099991.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-eeuu-propuso-ucrania-ceda-territorio-a-cambio-su-adhesion-a-otan-1099988.aspx",
-    "title": "EE.UU. propuso que Ucrania ceda territorio a cambio de su adhesión a la OTAN",
-    "snippet": "Estados Unidos propuso por primera vez que Ucrania ceda territorio a Rusia a cambio de su adhesión a la OTAN, declaró el presidente ucraniano Volodimir Zelenski, e insistió en que \"la guerra debe terminar\" antes de debat...",
-    "date": "2026-11-14T21:10:55",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-eeuu-propuso-ucrania-ceda-territorio-a-cambio-su-adhesion-a-otan-1099988.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
-    "title": "How to clear the cache on your Samsung TV",
-    "snippet": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out – and how....",
-    "date": "2026-11-14T21:00:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/movilidad/schlorwagen-superaerodinamico-peligrosisimo-coche-aleman-que-intento-revolucionar-mundo-1939",
-    "title": "El Schlörwagen, el superaerodinámico y peligrosísimo coche alemán que intentó revolucionar el mundo en 1939",
-    "snippet": "En la década de 1930 casi todos los coches seguían el mismo patrón: grandes partes delanteras —los motores eran enormes— y habitáculos reducidos. Las líneas no eran especialmente curvas y la aerodinámica parecía ser un f...",
-    "date": "2026-11-14T20:01:21",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/movilidad/schlorwagen-superaerodinamico-peligrosisimo-coche-aleman-que-intento-revolucionar-mundo-1939",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://portalportuario.cl/?p=466622",
-    "title": "Parte temporada de cruceros 2026-2027 en Puerto Montt",
-    "snippet": "Por Redacción PortalPortuario @PortalPortuario Con la llegada del crucero de expedición de lujo Seabourn Pursuit, Puerto Montt dio inicio oficialmente\nLa entrada Parte temporada de cruceros 2026-2027 en Puerto Montt se p...",
-    "date": "2026-11-14T20:00:19",
-    "source": "PORTAL PORTUARIO",
-    "url": "https://portalportuario.cl/parte-temporada-de-cruceros-2026-2027-en-puerto-montt/",
-    "category": "LOGÍSTICA"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-congreso-iniciara-17-noviembre-debate-dictamenes-sobre-presupuesto-2027-1099692.aspx",
-    "title": "Congreso iniciará el 17 de noviembre debate de dictámenes sobre presupuesto 2027",
-    "snippet": "El pleno del Congreso iniciará el martes 17 de noviembre la sustentación y debate de los dictámenes de los proyectos de ley de Presupuesto, de Endeudamiento y de Equilibrio Financiero del Sector Público para el Año Fisca...",
-    "date": "2026-11-14T19:35:54",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-congreso-iniciara-17-noviembre-debate-dictamenes-sobre-presupuesto-2027-1099692.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2312052/how-to-make-switch-2-battery-last-longer/",
-    "title": "How to make your Nintendo Switch 2 battery last longer",
-    "snippet": "The Switch 2's battery life varies depending on what game you're playing, but changing some settings can also help you maximize how long it lasts....",
-    "date": "2026-11-14T19:15:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2312052/how-to-make-switch-2-battery-last-longer/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/mayas-decoraron-sus-ciudades-pigmento-rojo-que-acabaron-provocando-colapso-ecologico-sus-reservas-agua",
-    "title": "Los mayas decoraron sus ciudades con tanto pigmento rojo que acabaron provocando un colapso ecológico en sus reservas de agua",
-    "snippet": "Las grandes urbes de las Tierras Bajas mayas lucían espectaculares. Palacios, plazas, templos y cerámicas estaban frecuentemente bañados en un intenso y vibrante color rojo. Sin embargo, ese afán estético y ritual escond...",
-    "date": "2026-11-14T19:01:20",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/mayas-decoraron-sus-ciudades-pigmento-rojo-que-acabaron-provocando-colapso-ecologico-sus-reservas-agua",
-    "category": "TRIBUTARIO"
-  },
-  {
-    "id": "https://andina.pe/agencia/noticia-papa-leon-xiv-retorna-a-chiclayo-para-cumplir-ultimas-actividades-su-querida-diocesis-1099974.aspx",
-    "title": "Papa León XIV retorna a Chiclayo para cumplir últimas actividades en su querida diócesis",
-    "snippet": "Tras un vuelo de alrededor de 40 minutos, el papa León XIV retornó esta tarde a la ciudad de Chiclayo procedente de Santa Cruz de Succhubamba donde celebró esta mañana una misa multitudinaria y antes visitó la parroquia ...",
-    "date": "2026-11-14T18:56:10",
-    "source": "ANDINA",
-    "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-retorna-a-chiclayo-para-cumplir-ultimas-actividades-su-querida-diocesis-1099974.aspx",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.engadget.com/2311762/how-to-check-iphone-ios-version/",
-    "title": "How to check which iOS version your iPhone is running",
-    "snippet": "Not every version of iOS is a home run, but keeping your iPhone up to date is generally a good idea anyway. Here's how to check whether yours is....",
-    "date": "2026-11-14T18:15:00",
-    "source": "ENGADGET",
-    "url": "https://www.engadget.com/2311762/how-to-check-iphone-ios-version/",
-    "category": "MERCADO"
-  },
-  {
-    "id": "https://www.xataka.com/ecologia-y-naturaleza/cuando-desierto-se-queda-corto-resulta-que-sequia-extrema-amenaza-supervivencia-cactus",
-    "title": "Cuando el desierto se queda corto: resulta que la sequía extrema amenaza la supervivencia del cactus",
-    "snippet": "Si pensamos en seres capaces de sobrevivir en condiciones extremas, uno de los que nos viene a la cabeza dentro del reino vegetal son los cactus: tienen espinas, un tallo que almacena agua y un metabolismo optimizado en ...",
-    "date": "2026-11-14T18:01:23",
-    "source": "XATAKA",
-    "url": "https://www.xataka.com/ecologia-y-naturaleza/cuando-desierto-se-queda-corto-resulta-que-sequia-extrema-amenaza-supervivencia-cactus",
     "category": "MERCADO"
   }
 ]
